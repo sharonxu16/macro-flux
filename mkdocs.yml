@@ -24,8 +24,6 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-exclude_docs: |
-  past/*
 nav:
   - Macro Flux: index.md
   - Past: archive.md
