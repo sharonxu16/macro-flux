@@ -131,7 +131,7 @@
 }
 
 /* Hide h1 title — nav already shows 'Macro Flux' */
-.md-content h1:first-child {
+.md-content h1 {
   display: none;
 }
 
