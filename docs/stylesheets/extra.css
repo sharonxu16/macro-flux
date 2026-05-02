@@ -83,7 +83,7 @@
 /* Abstract/Overview callout */
 .md-typeset .admonition.abstract {
   border-color: #00897b;
-  background: rgba(0, 137, 123, 0.04);
+  background: rgba(0, 137, 123, 0.08);
 }
 
 .md-typeset .admonition.abstract .admonition-title {
