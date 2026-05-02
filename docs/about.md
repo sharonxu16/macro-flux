@@ -18,8 +18,8 @@ Daily global macro briefing. Absorb the overnight macro picture in 90 seconds be
 | Primary | Bloomberg, FT, WSJ, Reuters |
 | Supplementary | CNBC, BBC Business |
 | China Local | 华尔街见闻, 财新, 信报, SCMP |
-| Sentiment | CNN (via Google News) |
-| Calendar | TradingEconomics (scraped) |
+| Sentiment | CNN |
+| Calendar | TradingEconomics |
 | Official | Federal Reserve, PBOC, HKMA |
 
 ## Delivery
