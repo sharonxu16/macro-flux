@@ -14,12 +14,12 @@ Built with MkDocs Material theme. Dark mode, search, mobile-friendly.
 
 ## Structure
 
-- **Overview** — The 3-5 sentence synthesis. Cross-market thesis in the final sentence.
-- **Narrative Watch** — 3-5 most consequential macro stories. Each: Fact → Macro Lens → Potential Market Impact.
-- **Global Radar** — Economic Indicators → Central Banks (PBOC → Fed → BOJ → BOK → CBC → RBA → ECB → BOE) → Geopolitics → Commodities → Equities.
-- **What to Watch** — 1-2 indicators/events in the next 24-48h with HKT timing.
-- **Economic Calendar** — Next 24h releases (US, CN, HK, EU, GB, JP, KR, TW, SG, AU). Consensus/prior from TradingEconomics.
-- **Full Reading List** — Sorted by source: Bloomberg → Reuters → WSJ → FT → CNBC → SCMP → BBC → CNN.
+- **Overview** — 3-5 sentence synthesis with cross-market thesis
+- **Narrative Watch** — Key macro stories: Fact → Macro Lens → Potential Market Impact
+- **Global Radar** — Thematic scan: Economic Indicators → Central Banks → Geopolitics → Commodities → Equities
+- **What to Watch** — 1-2 indicators/events for the next 24-48h with HKT timing
+- **Economic Calendar** — Next 24h high-impact releases, consensus/prior from TradingEconomics
+- **Full Reading List** — All referenced articles with source attribution
 
 ## Data Sources
 
