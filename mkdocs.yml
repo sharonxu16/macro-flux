@@ -27,7 +27,7 @@ theme:
 exclude_docs: |
   past/*
 nav:
-  - Latest: index.md
+  - Macro Flux: index.md
   - Past: archive.md
 extra_css:
   - stylesheets/extra.css
