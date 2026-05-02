@@ -1,6 +1,6 @@
 # About
 
-Macro Flux is what you read before the market reads you.
+Markets favor the prepared mind.
 
 One page. Every morning. 28 sources scanned, cross-referenced, and distilled — so you walk into the Asia open knowing what matters and what to do about it.
 
