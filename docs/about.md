@@ -31,6 +31,3 @@ More sources being added.
 
 AI-driven automated pipeline: 30+ sources → LLM synthesis → this page.
 
----
-
-Built by Sharon Xu.
