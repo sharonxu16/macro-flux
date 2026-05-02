@@ -26,6 +26,6 @@ One page. Every morning. 28 sources scanned, cross-referenced, and distilled —
 
 ## Delivery
 
-08:00 HKT. Overnight window (20:00–08:00). Every morning, no excuses.
+08:30 HKT. Overnight window (20:00–08:30). Every morning, no excuses.
 
 Automated pipeline: 28 sources → LLM synthesis → this page. No human in the loop, no latency, no bias.
