@@ -115,7 +115,7 @@ Beijing has told Chinese firms to ignore US sanctions on five refineries ([Bloom
 - **RBA Rate Decision (May 5)** — Consensus expects a hike to `4.35%`. A growing minority of economists expect a further rise. The RBA's tone on the Iran war's impact on Australian inflation will be critical.
 - **Trump-Xi Meeting (May 14)** — Trump insists the Beijing trip is on. The widening US-China sanctions war over Iranian oil sets a confrontational backdrop. Watch for any agreement on Iran sanctions enforcement or trade truce.
 - **ECB June Meeting** — Lagarde, Nagel, Makhlouf, and Rehn have all signaled a June hike is likely. Eurozone April CPI at `3%` reinforces the case. Watch for any de-escalation in Iran that could change the calculus.
-- **US ISM Services PMI ** — Watch for the services print vs consensus, given the manufacturing sector's input cost surge.
+- **US ISM Services PMI** — Watch for the services print vs consensus, given the manufacturing sector's input cost surge.
 - **Japan Golden Week FX Intervention Risk** — With liquidity thin during Golden Week, the BOJ may need to conduct a second round of intervention to defend the yen. Finance Minister's "keep your smartphone close" warning suggests readiness.
 
 > [!tip] ⚡ [AI Reasoning] What to Watch: The FOMC's three dissents mark a regime shift — the Fed's dovish forward guidance is now contested internally, and the market has not fully priced the risk that the next move is a hike, not a cut.
