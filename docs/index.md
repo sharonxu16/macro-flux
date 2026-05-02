@@ -8,8 +8,8 @@
 
 ---
 
-> [!abstract] Overview
-> The dominant macro theme remains the Iran war and its cascading effects: oil at `$126/bbl` intraday, a synchronized G-7 pivot toward rate hikes, and Japan’s first FX intervention in two years (`$34.5B`). The Fed’s leadership battle intensifies as Chair Powell vows not to be a "shadow chair," while the ECB and BoE warn of June rate rises. In China, the PBOC held its 1-year MLF rate at `2.50%` and expanded tariff-free access for 53 African nations, but the macro backdrop of rising oil and a hawkish Fed tilts against EM Asia FX. The common thread: oil supply risk is simultaneously tightening monetary policy, weakening Asian currencies, and inflating energy equities.
+!!! abstract "Overview"
+    The dominant macro theme remains the Iran war and its cascading effects: oil at `$126/bbl` intraday, a synchronized G-7 pivot toward rate hikes, and Japan’s first FX intervention in two years (`$34.5B`). The Fed’s leadership battle intensifies as Chair Powell vows not to be a "shadow chair," while the ECB and BoE warn of June rate rises. In China, the PBOC held its 1-year MLF rate at `2.50%` and expanded tariff-free access for 53 African nations, but the macro backdrop of rising oil and a hawkish Fed tilts against EM Asia FX. The common thread: oil supply risk is simultaneously tightening monetary policy, weakening Asian currencies, and inflating energy equities.
 
 ---
 
