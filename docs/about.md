@@ -2,7 +2,7 @@
 
 Markets favor the prepared mind.
 
-One page. Every morning. 28 sources scanned, cross-referenced, and distilled — so you walk into the Asia open knowing what matters and what to do about it.
+Macro Flux: One page. Every morning. 30+ sources scanned, cross-referenced, and distilled — so you walk into the Asia open knowing what matters and what to do about it.
 
 ## Structure
 
@@ -29,7 +29,7 @@ More sources being added.
 
 08:30 HKT. Overnight window (18:30–08:30).
 
-Automated pipeline: 28 sources → LLM synthesis → this page. No human in the loop, no latency, no bias.
+Automated pipeline: 30+ sources → LLM synthesis → this page. No human in the loop, no latency, no bias.
 
 ---
 
