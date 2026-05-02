@@ -19,7 +19,7 @@ One page. Every morning. 28 sources scanned, cross-referenced, and distilled —
 |---|---|
 | Primary | Bloomberg, FT, WSJ, Reuters |
 | Supplementary | CNBC, BBC Business, CNN |
-| China Local | 华尔街见闻, 财新, 信报, 中国基金报, 新华网, SCMP |
+| China Local | 华尔街见闻, 财新, 信报, 中国基金报, 新华网, 中国财经, SCMP |
 | Calendar | TradingEconomics |
 | Official | Federal Reserve, PBOC, HKMA, 国家统计局 |
 
