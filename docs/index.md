@@ -2,7 +2,7 @@
 
 # 🌊 Macro Flux
 
-<small>2026-05-01 00:00 — 2026-05-02 00:00 (HKT)</small>
+<small>May 1 12am to May 2 12am HKT</small>
 
 </div>
 
