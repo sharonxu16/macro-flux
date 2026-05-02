@@ -82,12 +82,12 @@
 
 /* Abstract/Overview callout */
 .md-typeset .admonition.abstract {
-  border-color: #0984e3;
-  background: rgba(9, 132, 227, 0.04);
+  border-color: #00897b;
+  background: rgba(0, 137, 123, 0.04);
 }
 
 .md-typeset .admonition.abstract .admonition-title {
-  color: #0984e3;
+  color: #00897b;
 }
 
 /* Tip callout — no green, clean */
