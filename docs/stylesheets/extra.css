@@ -130,9 +130,9 @@
   margin-bottom: .25em;
 }
 
-/* Remove excessive top margin on first heading */
+/* Hide h1 title — nav already shows 'Macro Flux' */
 .md-content h1:first-child {
-  margin-top: 0;
+  display: none;
 }
 
 /* Nav sidebar — more compact */
