@@ -30,3 +30,7 @@ More sources being added.
 08:30 HKT. Overnight window (20:00–08:30). Every morning, no excuses.
 
 Automated pipeline: 28 sources → LLM synthesis → this page. No human in the loop, no latency, no bias.
+
+---
+
+Built by Sharon Xu.
