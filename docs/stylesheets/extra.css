@@ -1,97 +1,159 @@
-/* Macro Flux — Custom styling */
+/* Macro Flux — Compact financial terminal styling */
 
-/* Typography */
+/* Typography — tighter */
 :root {
   --md-text-font: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
 
-body {
-  -webkit-font-smoothing: antialiased;
+.md-typeset {
+  font-size: .78rem;
+  line-height: 1.5;
 }
 
-/* Headings */
-h1 {
+.md-typeset h1 {
+  font-size: 1.3rem;
   font-weight: 700;
   letter-spacing: -0.02em;
-  color: var(--md-default-fg-color) !important;
+  margin-bottom: .3em;
 }
 
-h2 {
+.md-typeset h2 {
+  font-size: 1.0rem;
   font-weight: 600;
   letter-spacing: -0.01em;
   border-bottom: 1px solid var(--md-default-fg-color--lightest);
-  padding-bottom: .3em;
-  margin-top: 2em;
+  padding-bottom: .25em;
+  margin-top: 1.5em;
+  margin-bottom: .5em;
 }
 
-/* Tables — compact & clean */
+.md-typeset h3 {
+  font-size: .85rem;
+  margin-top: 1.2em;
+  margin-bottom: .3em;
+}
+
+.md-typeset p {
+  margin: .5em 0;
+}
+
+/* Tables — force compact, prevent horizontal scroll */
+.md-typeset__table {
+  overflow-x: visible !important;
+}
+
 .md-typeset table:not([class]) {
-  font-size: .8rem;
-  border-radius: 6px;
-  overflow: hidden;
-  box-shadow: none;
+  font-size: .75rem;
+  display: block;
+  overflow-x: auto;
+  border-radius: 4px;
 }
 
 .md-typeset table:not([class]) th {
-  background: var(--md-primary-fg-color);
-  color: var(--md-primary-bg-color);
+  font-size: .7rem;
+  padding: 6px 10px;
   font-weight: 600;
-  font-size: .75rem;
   text-transform: uppercase;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.04em;
+  white-space: nowrap;
 }
 
-/* Admonitions — Obsidian-style callouts */
+.md-typeset table:not([class]) td {
+  padding: 5px 10px;
+}
+
+/* Admonitions — subtle and compact */
 .md-typeset .admonition {
-  border-radius: 8px;
-  border-left-width: 4px;
-  font-size: .9rem;
+  border-radius: 6px;
+  border-left-width: 3px;
+  font-size: .8rem;
+  padding: .5em 1em;
+  margin: .8em 0;
 }
 
+.md-typeset .admonition .admonition-title {
+  font-size: .8rem;
+  margin-bottom: .2em;
+  padding: 0;
+  background: none !important;
+  border: none !important;
+}
+
+/* Abstract/Overview callout */
 .md-typeset .admonition.abstract {
   border-color: #0984e3;
-  background: rgba(9, 132, 227, 0.05);
+  background: rgba(9, 132, 227, 0.04);
 }
 
+.md-typeset .admonition.abstract .admonition-title {
+  color: #0984e3;
+}
+
+/* Tip callout — no green, clean */
 .md-typeset .admonition.tip {
-  border-color: #f9a825;
-  background: rgba(249, 168, 37, 0.05);
+  border-color: #6c757d;
+  background: rgba(108, 117, 125, 0.04);
 }
 
+.md-typeset .admonition.tip .admonition-title {
+  color: #6c757d;
+}
+
+/* Quote callout */
 .md-typeset .admonition.quote {
   border-color: #00a878;
-  background: rgba(0, 168, 120, 0.05);
+  background: rgba(0, 168, 120, 0.04);
 }
 
-/* Bold text — stronger emphasis */
+.md-typeset .admonition.quote .admonition-title {
+  color: #00a878;
+}
+
+/* Bold — strong, readable */
 .md-typeset strong {
   color: var(--md-default-fg-color);
+  font-weight: 600;
 }
 
-/* Links — subtle but clear */
+/* Links */
 .md-typeset a {
   font-weight: 500;
 }
 
 /* Compact lists */
+.md-typeset ul, .md-typeset ol {
+  margin: .4em 0;
+}
+
 .md-typeset ul li, .md-typeset ol li {
-  margin-bottom: .4em;
+  margin-bottom: .25em;
 }
 
-/* Mobile tweaks */
-@media screen and (max-width: 76.1875em) {
-  .md-typeset {
-    font-size: .85rem;
-  }
-  h2 {
-    margin-top: 1.5em;
-  }
+/* Remove excessive top margin on first heading */
+.md-content h1:first-child {
+  margin-top: 0;
 }
 
-/* Nav — cleaner */
+/* Nav sidebar — more compact */
+.md-nav {
+  font-size: .75rem;
+}
+
 .md-nav__title {
+  font-size: .7rem;
   font-weight: 700;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  font-size: .7rem;
+}
+
+/* Article area — max width tighter for readability */
+.md-grid {
+  max-width: 48rem;
+}
+
+/* Mobile */
+@media screen and (max-width: 76.1875em) {
+  .md-typeset {
+    font-size: .82rem;
+  }
 }
