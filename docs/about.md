@@ -23,7 +23,7 @@ One page. Every morning. 28 sources scanned, cross-referenced, and distilled —
 | Calendar | TradingEconomics |
 | Official | Federal Reserve, PBOC, HKMA |
 
-更多信源正在扩充中。
+More sources being added.
 
 ## Delivery
 
