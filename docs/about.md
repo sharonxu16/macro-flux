@@ -16,11 +16,11 @@ Daily global macro briefing. Absorb the overnight macro picture in 90 seconds be
 | Tier | Sources |
 |---|---|
 | Primary | Bloomberg, FT, WSJ, Reuters |
-| Supplementary | CNBC, SCMP, BBC Business |
-| China Local | 华尔街见闻, 财新, 信报, HKMA |
+| Supplementary | CNBC, BBC Business |
+| China Local | 华尔街见闻, 财新, 信报, SCMP |
 | Sentiment | CNN (via Google News) |
 | Calendar | TradingEconomics (scraped) |
-| Official | Federal Reserve, PBOC |
+| Official | Federal Reserve, PBOC, HKMA |
 
 ## Delivery
 
