@@ -18,11 +18,12 @@ One page. Every morning. 28 sources scanned, cross-referenced, and distilled —
 | Tier | Sources |
 |---|---|
 | Primary | Bloomberg, FT, WSJ, Reuters |
-| Supplementary | CNBC, BBC Business |
+| Supplementary | CNBC, BBC Business, CNN |
 | China Local | 华尔街见闻, 财新, 信报, SCMP |
-| Sentiment | CNN |
 | Calendar | TradingEconomics |
 | Official | Federal Reserve, PBOC, HKMA |
+
+更多信源正在扩充中。
 
 ## Delivery
 
