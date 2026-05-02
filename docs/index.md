@@ -72,7 +72,7 @@ Beijing has told Chinese firms to ignore US sanctions on five refineries ([BBG](
 - **JP** — Japan likely spent `$34.5B` in FX intervention (see Narrative Watch).
 
 ### 🏦 Central Banks
-- **PBOC** — Held 1-year MLF rate at `2.50%`. Expanded loan support for tech innovation and equipment upgrades to 14 sectors ([Caixin](https://www.caixin.com/...)). Watching CNH depreciation pressure from widening US-China sanctions and oil import costs.
+- **PBOC** — Held 1-year MLF rate at `2.50%`. Net injection/drain data not reported in this window's feed — check Caixin for the full MLF operation details (amount maturing vs rolled over). Expanded loan support for tech innovation and equipment upgrades to 14 sectors. Watching CNH depreciation pressure from widening US-China sanctions and oil import costs.
 - **Fed** — FOMC held rates steady. Three dissenters (Kashkari, Hammack, Logan) objected to forward guidance hinting at cuts. The internal discussion has shifted from "whether to cut" to "conditions for a hike" ([WallstreetCN](https://wallstreetcn.com/articles/3745678)).
 - **BOJ** — Conducted `$34.5B` FX intervention, first since July 2024. Finance Minister warned traders to keep phones close. Japan launched a `4 trillion yen` US investment plan ([HKEJ](https://www.hkej.com/gn/article/3745680)).
 - **ECB** — Nagel, Makhlouf, and Rehn all signaled a June rate hike is likely unless the energy outlook improves markedly. Lagarde hinted at a June move. Traders pricing three 25bp hikes in Europe this year.
