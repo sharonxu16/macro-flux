@@ -6,8 +6,8 @@ Global macro morning briefing for portfolio managers. Absorb the overnight macro
 
 | | Link |
 |---|---|
-| **Latest** | [sharonxu16.github.io/daily-briefing](https://sharonxu16.github.io/daily-briefing/) |
-| **Archive** | [sharonxu16.github.io/daily-briefing/archive.html](https://sharonxu16.github.io/daily-briefing/archive.html) |
+| **Latest** | [sharonxu16.github.io/macro-flux](https://sharonxu16.github.io/macro-flux/) |
+| **Archive** | [sharonxu16.github.io/macro-flux/archive.html](https://sharonxu16.github.io/macro-flux/archive.html) |
 
 Phone-optimized. Bookmark to home screen.
 
