@@ -24,6 +24,11 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
+exclude_docs: |
+  past/*
+nav:
+  - Latest: index.md
+  - Past: archive.md
 extra_css:
   - stylesheets/extra.css
 plugins:
