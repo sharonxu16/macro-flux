@@ -1,6 +1,8 @@
-# About Macro Flux
+# About
 
-Daily global macro briefing. Absorb the overnight macro picture in 90 seconds before Asia open.
+Macro Flux is what you read before the market reads you.
+
+One page. Every morning. 28 sources scanned, cross-referenced, and distilled — so you walk into the Asia open knowing what matters and what to do about it.
 
 ## Structure
 
@@ -24,7 +26,6 @@ Daily global macro briefing. Absorb the overnight macro picture in 90 seconds be
 
 ## Delivery
 
-- **Schedule**: 08:00 HKT overnight edition (20:00–08:00)
-- **Tone**: Central bank research note — measured, probabilistic, no hyperbole
-- **AI**: All AI-generated analysis prefixed with `[AI Reasoning]`
-- **Tech**: Python → RSS/HTML → LLM → MkDocs → GitHub Pages
+08:00 HKT. Overnight window (20:00–08:00). Every morning, no excuses.
+
+Automated pipeline: 28 sources → LLM synthesis → this page. No human in the loop, no latency, no bias.
