@@ -27,6 +27,7 @@ theme:
 nav:
   - Macro Flux: index.md
   - Past: archive.md
+  - About: about.md
 extra_css:
   - stylesheets/extra.css
 plugins:
