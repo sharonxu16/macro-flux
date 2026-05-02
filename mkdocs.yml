@@ -2,25 +2,30 @@ site_name: Macro Flux
 site_description: Daily Macro & Cross-Asset Trading Note
 theme:
   name: material
+  font:
+    text: Inter
   features:
     - navigation.instant
     - navigation.tracking
     - navigation.top
+    - content.code.copy
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
-      accent: blue
+      primary: blue grey
+      accent: blue grey
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
-      accent: blue
+      primary: blue grey
+      accent: amber
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
+extra_css:
+  - stylesheets/extra.css
 plugins:
   - search
   - callouts
