@@ -80,10 +80,14 @@
   border: none !important;
 }
 
-/* Abstract/Overview callout */
+/* Abstract/Overview callout — no icon, teal */
 .md-typeset .admonition.abstract {
   border-color: #00897b;
   background: rgba(0, 137, 123, 0.08);
+}
+
+.md-typeset .admonition.abstract .admonition-icon {
+  display: none;
 }
 
 .md-typeset .admonition.abstract .admonition-title {
