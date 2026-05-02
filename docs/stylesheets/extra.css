@@ -147,11 +147,6 @@
   text-transform: uppercase;
 }
 
-/* Article area — max width tighter for readability */
-.md-grid {
-  max-width: 48rem;
-}
-
 /* Mobile */
 @media screen and (max-width: 76.1875em) {
   .md-typeset {
