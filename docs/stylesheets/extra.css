@@ -86,8 +86,17 @@
   background: rgba(0, 137, 123, 0.08);
 }
 
-.md-typeset .admonition.abstract .admonition-icon {
-  display: none;
+/* Hide all admonition icons */
+.md-typeset .admonition .admonition-icon,
+.md-typeset .admonition.abstract .admonition-icon,
+.md-typeset .admonition.abstract > .admonition-title::before,
+.md-typeset .admonition.abstract > svg {
+  display: none !important;
+}
+
+.md-typeset .admonition.abstract .admonition-title::before {
+  display: none !important;
+  content: none !important;
 }
 
 .md-typeset .admonition.abstract .admonition-title {
