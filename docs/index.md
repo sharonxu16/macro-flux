@@ -35,7 +35,7 @@ Spirit Aviation Holdings ceased operations after failing to secure a `$500M` gov
 
 ### 📌 Beijing Orders Firms to Defy US Sanctions on Refiners
 
-**Fact** | Source: ([Bloomberg](https://www.bloomberg.com/news/articles/2026-05-02/beijing-tells-chinese-firms-to-ignore-us-sanctions-on-refiners)), ([Caixin](URL))
+**Fact** | Source: ([BBG](https://www.bloomberg.com/news/articles/2026-05-02/beijing-tells-chinese-firms-to-ignore-us-sanctions-on-refiners)), ([Caixin](URL))
 The Chinese government has instructed domestic firms to ignore US sanctions targeting Chinese oil refiners. This is a direct escalation of the sanctions confrontation, with Beijing explicitly ordering non-compliance with US "long-arm jurisdiction" ([Caixin](URL) — 中国商务部发布禁令：不得执行美对五家中企的“长臂管辖”).
 
 **[AI Reasoning] Macro Lens** — This is a regime shift in the US-China sanctions game. Beijing has moved from quiet non-compliance to explicit defiance. For oil markets, this means sanctioned barrels (Iranian, Russian) will continue flowing through Chinese buyers regardless of US threats, capping the upside from supply-side sanctions but increasing the risk of secondary sanctions on Chinese banks.
@@ -44,7 +44,7 @@ The Chinese government has instructed domestic firms to ignore US sanctions targ
 
 ### 📌 OPEC+ Provisionally Agrees June Quota Hike
 
-**Fact** | Source: ([Bloomberg](https://www.bloomberg.com/news/articles/2026-05-02/opec-provisionally-agrees-june-output-increase-delegate-says)), ([Reuters](URL))
+**Fact** | Source: ([BBG](https://www.bloomberg.com/news/articles/2026-05-02/opec-provisionally-agrees-june-output-increase-delegate-says)), ([Reuters](URL))
 Major OPEC+ nations provisionally agreed to another modest quota increase for June, in the group's first move since the UAE's surprise exit. The increase is symbolic given the Hormuz blockade is constraining actual supply. Iraq said oil output and exports could recover within a week once the Hormuz crisis ends ([Reuters](URL)).
 
 **[AI Reasoning] Macro Lens** — The OPEC+ quota hike is theater — the market is pricing the blockade, not quotas. With the UAE gone and Iran offline, the cartel's spare capacity narrative is shifting. The real supply lever is the Hormuz strait, not OPEC+ meeting rooms.
@@ -56,30 +56,30 @@ Major OPEC+ nations provisionally agreed to another modest quota increase for Ju
 ## 🌍 Global Radar
 
 ### 📊 Economic Indicators
-- **US Jobs Preview** — Bloomberg previews the April payrolls report showing labor market resilience despite the Iran war. Consensus expects `+240K` NFP, unemployment at `4.1%`, wage growth `4.2%` YoY ([Bloomberg](URL)).
+- **US Jobs Preview** — Bloomberg previews the April payrolls report showing labor market resilience despite the Iran war. Consensus expects `+240K` NFP, unemployment at `4.1%`, wage growth `4.2%` YoY ([BBG](URL)).
 - **Fed's Goolsbee** — Said recent inflation data was "bad news", reinforcing the stagflationary narrative ([Reuters](URL)).
 
 ### 🏦 Central Banks
 - **PBOC** — No new PBOC operations reported in this window (weekend). Next MLF operation expected mid-month. The Caixin Weekly notes 人民币国际化迎来窗口期 — a window period for RMB internationalization ([Caixin](URL)).
-- **Fed** — Multiple articles on Kevin Warsh's future role at the Fed ([Bloomberg](https://www.bloomberg.com/news/videos/2026-05-02/what-kevin-warsh-means-for-the-future-of-the-fed-video), [FT](https://www.ft.com/content/56028160-4581-4c8f-ade4-fc1da23bd033)). MarketWatch argues the Fed needs to communicate more clearly about higher inflation before raising rates ([MarketWatch](URL)). CNBC reports the bond market is more focused on Warsh's potential hawkish tilt than Dimon's credit recession warning ([CNBC](URL)).
+- **Fed** — Multiple articles on Kevin Warsh's future role at the Fed ([BBG](https://www.bloomberg.com/news/videos/2026-05-02/what-kevin-warsh-means-for-the-future-of-the-fed-video), [FT](https://www.ft.com/content/56028160-4581-4c8f-ade4-fc1da23bd033)). MarketWatch argues the Fed needs to communicate more clearly about higher inflation before raising rates ([MarketWatch](URL)). CNBC reports the bond market is more focused on Warsh's potential hawkish tilt than Dimon's credit recession warning ([CNBC](URL)).
 
 ### 🌐 Geopolitics & Policy
 - **US Troop Withdrawal** — Trump ordered the withdrawal of `5,000` troops from Germany. Top Republicans expressed concern ([WSJ](URL), [Reuters](URL)).
 - **Taiwan** — President William Lai arrived in eSwatini (Taiwan's sole African ally) on a trip Beijing called a political "stunt" ([SCMP](URL), [Reuters](URL)).
 - **North Korea** — Called US cyber threat claims a fabrication and warned of countermeasures ([Reuters](URL)). Kim Jong Un cast youth as the vanguard of state goals amid the Russia war ([Reuters](URL)).
-- **Cuba** — Trump expanded US sanctions, targeting foreign companies and banks doing business with Cuba ([Bloomberg](URL)).
+- **Cuba** — Trump expanded US sanctions, targeting foreign companies and banks doing business with Cuba ([BBG](URL)).
 
 ### 🛢️ Commodities
-- **Iran Oil** — Iran is juggling production cuts and storage strain to resist the US blockade. Exports have plunged; storage is rapidly filling; production curbs have begun ([Bloomberg](URL)).
+- **Iran Oil** — Iran is juggling production cuts and storage strain to resist the US blockade. Exports have plunged; storage is rapidly filling; production curbs have begun ([BBG](URL)).
 - **Yemen Oil Tanker Hijack** — An oil tanker was hijacked off the Shabwa coast, heading toward Somali waters ([Reuters](URL)).
 - **UK Airlines** — New contingency plans allow airlines to cancel flights weeks in advance over fuel shortages without losing takeoff/landing slots ([BBC](URL)).
 
 ### 📈 Equities
-- **S&P 500** — Extended its longest weekly winning streak since late 2024. Bloomberg asks whether this is a stock market "melt-up" driven by momentum-chasing and AI speculation that the worst of the Iran war is over ([Bloomberg](URL), [WSJ](URL)).
-- **Berkshire Hathaway** — Q1 operating earnings rose to `$11.35B` in Greg Abel's first quarter as CEO. Cash pile surged to a record `$397B`. Abel assured shareholders at the annual meeting ([Bloomberg](URL), [Reuters](URL), [WSJ](URL), [CNN](URL)).
-- **Spirit Airlines** — Shut down operations. Stock is worthless. Rival airlines (Delta, United, American) are scrambling to rebook passengers ([Bloomberg](URL), [CNBC](URL), [BBC](URL)).
-- **Corporate Earnings** — Q1 earnings season is delivering better-than-expected results, propelling US equities ([Bloomberg](URL)).
-- **Aegon, Barclays** — Warned investors to brace for a credit market downturn ([Bloomberg](URL)).
+- **S&P 500** — Extended its longest weekly winning streak since late 2024. Bloomberg asks whether this is a stock market "melt-up" driven by momentum-chasing and AI speculation that the worst of the Iran war is over ([BBG](URL), [WSJ](URL)).
+- **Berkshire Hathaway** — Q1 operating earnings rose to `$11.35B` in Greg Abel's first quarter as CEO. Cash pile surged to a record `$397B`. Abel assured shareholders at the annual meeting ([BBG](URL), [Reuters](URL), [WSJ](URL), [CNN](URL)).
+- **Spirit Airlines** — Shut down operations. Stock is worthless. Rival airlines (Delta, United, American) are scrambling to rebook passengers ([BBG](URL), [CNBC](URL), [BBC](URL)).
+- **Corporate Earnings** — Q1 earnings season is delivering better-than-expected results, propelling US equities ([BBG](URL)).
+- **Aegon, Barclays** — Warned investors to brace for a credit market downturn ([BBG](URL)).
 
 ---
 
