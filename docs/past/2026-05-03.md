@@ -2,7 +2,7 @@
 
 # 🌊 Macro Flux
 
-<small>may 2 6pm to may 3 8am HKT</small>
+<small>May 2 6pm to May 3 8am HKT</small>
 
 </div>
 
