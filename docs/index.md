@@ -18,7 +18,7 @@
 ### 📌 Iran War: Ceasefire Talks Hover Between New Proposal and Restrike Threats
 
 **Fact** | Source: ([SCMP](https://www.scmp.com/news/world/middle-east/article/3352245/trump-says-hes-reviewing-new-iran-proposal-end-war)), ([SCMP](https://www.scmp.com/news/world/middle-east/article/3352237/iran-will-not-accept-imposed-peace-trump-not-satisfied-negotiations)), ([FT](https://www.ft.com/content/359e5fdd-b56f-46cb-b3fd-70b367f3e2ef)), ([CNN](https://www.cnn.com/2026/05/02/middleeast/iran-war-latin-america-impact-intl-latam/index.html))
-Trump confirmed he is reviewing a new 14-point Iranian proposal delivered via Pakistan, replying to a US 9-point draft. He expressed displeasure with the current state of talks, adding "I'll let you know about it later" ([SCMP](URL)). A senior Iranian military officer said renewed fighting is "likely", and Iran stated it will not accept an "imposed" peace. Senator Lindsey Graham urged the US to "finish the job" if Iran does not yield ([FT](URL)). Trump separately warned the US could restart strikes "if they misbehave" ([Reuters](URL)). An Iranian official revealed Trump rejected an earlier proposal that would have opened the Strait of Hormuz before nuclear talks ([Reuters](URL)). The war has now been in a ceasefire since April 8 with only one failed round of talks. CNN reports the war is squeezing Latin America via expensive tortillas and fewer buses, transmitting oil costs into food and transport inflation across the developing world ([CNN](URL)).
+Trump confirmed he is reviewing a new 14-point Iranian proposal delivered via Pakistan, replying to a US 9-point draft. He expressed displeasure with the current state of talks, adding "I'll let you know about it later" ([SCMP](URL)). A senior Iranian military officer said renewed fighting is "likely", and Iran stated it will not accept an "imposed" peace. Senator Lindsey Graham urged the US to "finish the job" if Iran does not yield ([FT](URL)). Trump separately warned the US could restart strikes "if they misbehave" ([Reuters](https://www.reuters.com/)). An Iranian official revealed Trump rejected an earlier proposal that would have opened the Strait of Hormuz before nuclear talks ([Reuters](https://www.reuters.com/)). The war has now been in a ceasefire since April 8 with only one failed round of talks. CNN reports the war is squeezing Latin America via expensive tortillas and fewer buses, transmitting oil costs into food and transport inflation across the developing world ([CNN](https://www.cnn.com/)).
 
 **[AI Reasoning] Macro Lens** — The gap between Trump's "reviewing the proposal" and his simultaneous restrike threat is a binary risk for oil. Markets are pricing ceasefire probability, but the rejection of the strait-opening proposal shows the core disagreement (sanctions relief vs nuclear rollback) remains unresolved.
 
@@ -27,7 +27,7 @@ Trump confirmed he is reviewing a new 14-point Iranian proposal delivered via Pa
 ### 📌 Spirit Airlines Collapses: First Iran War Corporate Casualty
 
 **Fact** | Source: ([BBC](https://www.bbc.com/news/articles/cqxlnrqjvzyo)), ([CNBC](https://www.cnbc.com/2026/05/02/spirit-airlines-shutdown-inside-the-final-hours.html)), ([SCMP](https://www.scmp.com/news/world/united-states-canada/article/3352244/us-carrier-spirit-airlines-shuts-down-industrys-first-iran-war-casualty))
-Spirit Aviation Holdings ceased operations after failing to secure a `$500M` government bailout. Jet fuel prices have doubled during the two-month Iran war. The airline had been in talks with bondholders and the Trump administration, but discussions collapsed. All flights are canceled; rival carriers are scrambling to rebook stranded passengers. Transportation Secretary Duffy said there is no need for a broader budget airline bailout ([Reuters](URL)). Spirit is the first airline bankruptcy directly linked to the Iran conflict.
+Spirit Aviation Holdings ceased operations after failing to secure a `$500M` government bailout. Jet fuel prices have doubled during the two-month Iran war. The airline had been in talks with bondholders and the Trump administration, but discussions collapsed. All flights are canceled; rival carriers are scrambling to rebook stranded passengers. Transportation Secretary Duffy said there is no need for a broader budget airline bailout ([Reuters](https://www.reuters.com/)). Spirit is the first airline bankruptcy directly linked to the Iran conflict.
 
 **[AI Reasoning] Macro Lens** — Spirit's collapse is the canary in the coal mine for energy-intensive, low-margin sectors. The doubling of jet fuel has destroyed the ULCC (ultra-low-cost carrier) business model. This will transmit to travel demand compression, lower consumer discretionary spending, and potentially more airline distress if fuel stays elevated.
 
@@ -35,8 +35,8 @@ Spirit Aviation Holdings ceased operations after failing to secure a `$500M` gov
 
 ### 📌 Beijing Orders Firms to Defy US Sanctions on Refiners
 
-**Fact** | Source: ([BBG](https://www.bloomberg.com/news/articles/2026-05-02/beijing-tells-chinese-firms-to-ignore-us-sanctions-on-refiners)), ([Caixin](URL))
-The Chinese government has instructed domestic firms to ignore US sanctions targeting Chinese oil refiners. This is a direct escalation of the sanctions confrontation, with Beijing explicitly ordering non-compliance with US "long-arm jurisdiction" ([Caixin](URL) — 中国商务部发布禁令：不得执行美对五家中企的“长臂管辖”).
+**Fact** | Source: ([BBG](https://www.bloomberg.com/news/articles/2026-05-02/beijing-tells-chinese-firms-to-ignore-us-sanctions-on-refiners)), ([Caixin](https://www.caixin.com/))
+The Chinese government has instructed domestic firms to ignore US sanctions targeting Chinese oil refiners. This is a direct escalation of the sanctions confrontation, with Beijing explicitly ordering non-compliance with US "long-arm jurisdiction" ([Caixin](https://www.caixin.com/) — 中国商务部发布禁令：不得执行美对五家中企的“长臂管辖”).
 
 **[AI Reasoning] Macro Lens** — This is a regime shift in the US-China sanctions game. Beijing has moved from quiet non-compliance to explicit defiance. For oil markets, this means sanctioned barrels (Iranian, Russian) will continue flowing through Chinese buyers regardless of US threats, capping the upside from supply-side sanctions but increasing the risk of secondary sanctions on Chinese banks.
 
@@ -44,8 +44,8 @@ The Chinese government has instructed domestic firms to ignore US sanctions targ
 
 ### 📌 OPEC+ Provisionally Agrees June Quota Hike
 
-**Fact** | Source: ([BBG](https://www.bloomberg.com/news/articles/2026-05-02/opec-provisionally-agrees-june-output-increase-delegate-says)), ([Reuters](URL))
-Major OPEC+ nations provisionally agreed to another modest quota increase for June, in the group's first move since the UAE's surprise exit. The increase is symbolic given the Hormuz blockade is constraining actual supply. Iraq said oil output and exports could recover within a week once the Hormuz crisis ends ([Reuters](URL)).
+**Fact** | Source: ([BBG](https://www.bloomberg.com/news/articles/2026-05-02/opec-provisionally-agrees-june-output-increase-delegate-says)), ([Reuters](https://www.reuters.com/))
+Major OPEC+ nations provisionally agreed to another modest quota increase for June, in the group's first move since the UAE's surprise exit. The increase is symbolic given the Hormuz blockade is constraining actual supply. Iraq said oil output and exports could recover within a week once the Hormuz crisis ends ([Reuters](https://www.reuters.com/)).
 
 **[AI Reasoning] Macro Lens** — The OPEC+ quota hike is theater — the market is pricing the blockade, not quotas. With the UAE gone and Iran offline, the cartel's spare capacity narrative is shifting. The real supply lever is the Hormuz strait, not OPEC+ meeting rooms.
 
@@ -57,21 +57,21 @@ Major OPEC+ nations provisionally agreed to another modest quota increase for Ju
 
 ### 📊 Economic Indicators
 - **US Jobs Preview** — Bloomberg previews the April payrolls report showing labor market resilience despite the Iran war. Consensus expects `+240K` NFP, unemployment at `4.1%`, wage growth `4.2%` YoY ([BBG](URL)).
-- **Fed's Goolsbee** — Said recent inflation data was "bad news", reinforcing the stagflationary narrative ([Reuters](URL)).
+- **Fed's Goolsbee** — Said recent inflation data was "bad news", reinforcing the stagflationary narrative ([Reuters](https://www.reuters.com/)).
 
 ### 🏦 Central Banks
-- **PBOC** — No new PBOC operations reported in this window (weekend). Next MLF operation expected mid-month. The Caixin Weekly notes 人民币国际化迎来窗口期 — a window period for RMB internationalization ([Caixin](URL)).
+- **PBOC** — No new PBOC operations reported in this window (weekend). Next MLF operation expected mid-month. The Caixin Weekly notes 人民币国际化迎来窗口期 — a window period for RMB internationalization ([Caixin](https://www.caixin.com/)).
 - **Fed** — Multiple articles on Kevin Warsh's future role at the Fed ([BBG](https://www.bloomberg.com/news/videos/2026-05-02/what-kevin-warsh-means-for-the-future-of-the-fed-video), [FT](https://www.ft.com/content/56028160-4581-4c8f-ade4-fc1da23bd033)). MarketWatch argues the Fed needs to communicate more clearly about higher inflation before raising rates ([MarketWatch](URL)). CNBC reports the bond market is more focused on Warsh's potential hawkish tilt than Dimon's credit recession warning ([CNBC](URL)).
 
 ### 🌐 Geopolitics & Policy
 - **US Troop Withdrawal** — Trump ordered the withdrawal of `5,000` troops from Germany. Top Republicans expressed concern ([WSJ](URL), [Reuters](URL)).
 - **Taiwan** — President William Lai arrived in eSwatini (Taiwan's sole African ally) on a trip Beijing called a political "stunt" ([SCMP](URL), [Reuters](URL)).
-- **North Korea** — Called US cyber threat claims a fabrication and warned of countermeasures ([Reuters](URL)). Kim Jong Un cast youth as the vanguard of state goals amid the Russia war ([Reuters](URL)).
+- **North Korea** — Called US cyber threat claims a fabrication and warned of countermeasures ([Reuters](https://www.reuters.com/)). Kim Jong Un cast youth as the vanguard of state goals amid the Russia war ([Reuters](https://www.reuters.com/)).
 - **Cuba** — Trump expanded US sanctions, targeting foreign companies and banks doing business with Cuba ([BBG](URL)).
 
 ### 🛢️ Commodities
 - **Iran Oil** — Iran is juggling production cuts and storage strain to resist the US blockade. Exports have plunged; storage is rapidly filling; production curbs have begun ([BBG](URL)).
-- **Yemen Oil Tanker Hijack** — An oil tanker was hijacked off the Shabwa coast, heading toward Somali waters ([Reuters](URL)).
+- **Yemen Oil Tanker Hijack** — An oil tanker was hijacked off the Shabwa coast, heading toward Somali waters ([Reuters](https://www.reuters.com/)).
 - **UK Airlines** — New contingency plans allow airlines to cancel flights weeks in advance over fuel shortages without losing takeoff/landing slots ([BBC](URL)).
 
 ### 📈 Equities
