@@ -79,7 +79,6 @@ Trump ordered the withdrawal of `5,000` US troops from Germany. Germany stated t
 
 ### 🏦 Central Banks
 
-- **PBOC** — No PBOC actions reported in this window (May 2 evening to May 3 morning HKT). No MLF, LPR, RRR, or open market operation data was published during this period.
 
 - **Fed** — Kevin Warsh transition dominates Fed commentary ([BBG](https://www.bloomberg.com/news/videos/2026-05-02/what-kevin-warsh-means-for-the-future-of-the-fed-video), [FT](https://www.ft.com/content/56028160-4581-4c8f-ade4-fc1da23bd033)). Goolsbee calls inflation data "bad news" ([Reuters](https://www.reuters.com/article/goolsbee-says-inflation-bad-news)). The bond market is pricing the risk of rate hikes ([CNBC](https://www.cnbc.com/2026/05/02/kevin-warsh-federal-reserve-interest-rates-bonds-fixed-income.html)).
 
