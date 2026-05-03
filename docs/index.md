@@ -9,7 +9,7 @@
 ---
 
 > [!abstract] Overview
-> The weekend is dominated by the collapse of Spirit Airlines — the first major corporate casualty of the Iran war — and a volatile ceasefire track as Trump reviews a new 14-point Iranian proposal while simultaneously threatening to restart strikes. Beijing escalated its sanctions defiance, ordering Chinese firms to ignore US restrictions on refiners. OPEC+ provisionally agreed to another modest quota hike, a symbolic move that does little to offset the Hormuz blockade. The common thread: oil supply risk is destroying demand at the margin (airlines, consumers) while central banks face a worsening stagflationary trade-off.
+> The Iran ceasefire hangs on a knife-edge: Trump is reviewing a 14-point Iranian proposal while simultaneously threatening to restart strikes, and the 60-day war powers clock is ticking. Beijing ordered Chinese firms to ignore US sanctions on Iranian oil refiners, a direct escalation ahead of Trump-Xi talks. OPEC+ provisionally agreed to a modest June quota hike — a symbolic gesture that barely dents the Hormuz supply gap. Central banks remain caught between energy-driven inflation and war-induced growth fears, with ECB and BOE signaling June hikes. Spirit Airlines became the first corporate casualty of the war after a White House bailout collapsed, a micro event that reflects broader strain in energy-intensive industries.
 
 ---
 
