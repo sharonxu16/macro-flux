@@ -122,7 +122,7 @@ Trump ordered the withdrawal of `5,000` US troops from Germany. Germany stated t
 - **May 03 11:30 PM HKT | AU** — ANZ-Indeed Job Ads MoM. Consensus: -, Prior: -3.1%.
 - **May 03 11:30 PM HKT | AU** — Building Permits YoY Prel. Consensus: -, Prior: 14.0%.
 - **May 03 11:30 PM HKT | AU** — Private House Approvals MoM Prel. Consensus: -, Prior: 0.2%.
-- **01:30 AM HKT (May 04) | KR** — 2-Year KTB Auction. Consensus: -, Prior: 3.500%.
+- **May 04 01:30 AM HKT | KR** — 2-Year KTB Auction. Consensus: -, Prior: 3.500%.
 
 ---
 
