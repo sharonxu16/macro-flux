@@ -9,120 +9,176 @@
 ---
 
 > [!abstract] Overview
-> The Iran ceasefire hangs on a knife-edge: Trump is reviewing a 14-point Iranian proposal while simultaneously threatening to restart strikes, and the 60-day war powers clock is ticking. Beijing ordered Chinese firms to ignore US sanctions on Iranian oil refiners, a direct escalation ahead of Trump-Xi talks. OPEC+ provisionally agreed to a modest June quota hike — a symbolic gesture that barely dents the Hormuz supply gap. Central banks remain caught between energy-driven inflation and war-induced growth fears, with ECB and BOE signaling June hikes. Spirit Airlines became the first corporate casualty of the war after a White House bailout collapsed, a micro event that reflects broader strain in energy-intensive industries.
+> Iran war dynamics dominate the macro picture: Trump reviews a new 14-point Iranian proposal but threatens to restart strikes, while Tehran rejects an "imposed" peace and OPEC+ provisionally agrees a June quota increase despite the Hormuz blockade. The first major corporate casualty of the conflict materialized as Spirit Airlines shut down after a failed government bailout, sending a signal through credit markets. Domestically, Beijing explicitly told Chinese firms to ignore US sanctions on refiners, escalating the sanctions defiance posture. The S&P 500 extended its longest weekly winning streak since late 2024, but Aegon and Barclays warned investors to brace for a credit market downturn — the tension between equity momentum and credit stress is the key cross-asset disconnect to monitor.
 
 ---
 
 ## 🔬 Narrative Watch
 
-### 📌 Iran War: Ceasefire Talks Hover Between New Proposal and Restrike Threats
+### 📌 Iran War: Diplomatic Window Narrows as Trump Threatens Restart
 
-**Fact** | Source: ([SCMP](https://www.scmp.com/news/world/middle-east/article/3352245/trump-says-hes-reviewing-new-iran-proposal-end-war)), ([SCMP](https://www.scmp.com/news/world/middle-east/article/3352237/iran-will-not-accept-imposed-peace-trump-not-satisfied-negotiations)), ([FT](https://www.ft.com/content/359e5fdd-b56f-46cb-b3fd-70b367f3e2ef)), ([CNN](https://www.cnn.com/2026/05/02/middleeast/iran-war-latin-america-impact-intl-latam/index.html))
-Trump confirmed he is reviewing a new 14-point Iranian proposal delivered via Pakistan, replying to a US 9-point draft. He expressed displeasure with the current state of talks, adding "I'll let you know about it later" ([SCMP](URL)). A senior Iranian military officer said renewed fighting is "likely", and Iran stated it will not accept an "imposed" peace. Senator Lindsey Graham urged the US to "finish the job" if Iran does not yield ([FT](URL)). Trump separately warned the US could restart strikes "if they misbehave" ([Reuters](https://www.reuters.com/)). An Iranian official revealed Trump rejected an earlier proposal that would have opened the Strait of Hormuz before nuclear talks ([Reuters](https://www.reuters.com/)). The war has now been in a ceasefire since April 8 with only one failed round of talks. CNN reports the war is squeezing Latin America via expensive tortillas and fewer buses, transmitting oil costs into food and transport inflation across the developing world ([CNN](https://www.cnn.com/)).
+**Fact** | Sources: ([BBG](https://www.bloomberg.com/news/videos/2026-05-02/trump-rues-state-of-iran-talks-video)), ([Reuters](https://www.reuters.com/world/middle-east/trump-says-us-could-restart-iran-strikes-if-they-misbehave-2026-05-02/)), ([FT](https://www.ft.com/content/359e5fdd-b56f-46cb-b3fd-70b367f3e2ef)), ([SCMP](https://www.scmp.com/news/world/middle-east/article/3352245/trump-says-hes-reviewing-new-iran-proposal-end-war)), ([SCMP](https://www.scmp.com/news/world/middle-east/article/3352237/iran-will-not-accept-imposed-peace-trump-not-satisfied-negotiations))
 
-**[AI Reasoning] Macro Lens** — The gap between Trump's "reviewing the proposal" and his simultaneous restrike threat is a binary risk for oil. Markets are pricing ceasefire probability, but the rejection of the strait-opening proposal shows the core disagreement (sanctions relief vs nuclear rollback) remains unresolved.
+Trump expressed displeasure with current negotiations, saying he is reviewing a new 14-point Iranian proposal delivered via Pakistan and will "let you know about it later" ([BBG](https://www.bloomberg.com/news/videos/2026-05-02/trump-rues-state-of-iran-talks-video), [SCMP](https://www.scmp.com/news/world/middle-east/article/3352245/trump-says-hes-reviewing-new-iran-proposal-end-war)). Senator Lindsey Graham urged the US should "finish the job" if Iran does not yield ([FT](https://www.ft.com/content/359e5fdd-b56f-46cb-b3fd-70b367f3e2ef)). Trump separately said the US could restart strikes "if they misbehave" ([Reuters](https://www.reuters.com/world/middle-east/trump-says-us-could-restart-iran-strikes-if-they-misbehave-2026-05-02/)). A senior Iranian military officer said renewed fighting was "likely," and Iran will not accept an "imposed" peace ([SCMP](https://www.scmp.com/news/world/middle-east/article/3352237/iran-will-not-accept-imposed-peace-trump-not-satisfied-negotiations)). An Iranian official revealed a proposal to open the Strait of Hormuz before nuclear talks was rejected by Trump ([Reuters](https://www.reuters.com/world/middle-east/iranian-proposal-rejected-by-trump-would-open-strait-before-nuclear-talks-iran-official-says-2026-05-02/)). Iran is juggling oil cuts and storage strain to resist the US blockade, with exports plunging and storage rapidly filling ([BBG](https://www.bloomberg.com/news/articles/2026-05-02/iran-juggles-oil-cuts-and-storage-strain-to-resist-us-blockade)). OPEC+ provisionally agreed a June quota increase — a modest but symbolic move since the UAE's exit ([BBG](https://www.bloomberg.com/news/articles/2026-05-02/opec-provisionally-agrees-june-output-increase-delegate-says)). Iraq said oil output and exports can recover within a week once the Hormuz crisis ends ([Reuters](https://www.reuters.com/world/middle-east/iraq-says-oil-output-exports-can-recover-within-week-once-hormuz-crisis-ends-2026-05-02/)).
 
-**[AI Reasoning] Potential Market Impact** — Favors long oil vol (crude strangles) into the binary outcome. A failed ceasefire would push Brent above the `$75-80/bbl` range; a durable deal would see a sharp unwind of the war premium, hitting energy equities and relieving pressure on Asian FX.
+**[AI Reasoning] Macro Lens** — The rejection of an oil-for-talks deal (open strait before nuclear negotiations) signals maximum pressure is still the US framework. OPEC+'s June quota hike is symbolic — irrelevant while Hormuz is effectively closed. The real variable is whether the 14-point proposal creates a credible off-ramp or merely delays escalation.
 
-### 📌 Spirit Airlines Collapses: First Iran War Corporate Casualty
+**[AI Reasoning] Potential Market Impact** — Favors long crude and short risk assets exposed to jet fuel/transport costs. The Iran-Israel risk premium in oil is not yet fully priced for a restart scenario. Supports long USD vs. EM FX on safe-haven flows.
 
-**Fact** | Source: ([BBC](https://www.bbc.com/news/articles/cqxlnrqjvzyo)), ([CNBC](https://www.cnbc.com/2026/05/02/spirit-airlines-shutdown-inside-the-final-hours.html)), ([SCMP](https://www.scmp.com/news/world/united-states-canada/article/3352244/us-carrier-spirit-airlines-shuts-down-industrys-first-iran-war-casualty))
-Spirit Aviation Holdings ceased operations after failing to secure a `$500M` government bailout. Jet fuel prices have doubled during the two-month Iran war. The airline had been in talks with bondholders and the Trump administration, but discussions collapsed. All flights are canceled; rival carriers are scrambling to rebook stranded passengers. Transportation Secretary Duffy said there is no need for a broader budget airline bailout ([Reuters](https://www.reuters.com/)). Spirit is the first airline bankruptcy directly linked to the Iran conflict.
+### 📌 Spirit Airlines Shutdown: First Major Corporate Casualty of Iran War
 
-**[AI Reasoning] Macro Lens** — Spirit's collapse is the canary in the coal mine for energy-intensive, low-margin sectors. The doubling of jet fuel has destroyed the ULCC (ultra-low-cost carrier) business model. This will transmit to travel demand compression, lower consumer discretionary spending, and potentially more airline distress if fuel stays elevated.
+**Fact** | Sources: ([BBG](https://www.bloomberg.com/news/articles/2026-05-02/aegon-barclays-say-prepare-for-market-pain-credit-weekly)), ([BBC](https://www.bbc.com/news/articles/cqxlnrqjvzyo)), ([CNBC](https://www.cnbc.com/2026/05/02/spirit-airlines-shutdown-inside-the-final-hours.html)), ([SCMP](https://www.scmp.com/news/world/united-states-canada/article/3352244/us-carrier-spirit-airlines-shuts-down-industrys-first-iran-war-casualty))
 
-**[AI Reasoning] Potential Market Impact** — Supports short positions in high-yield energy-sensitive credit (airlines, logistics, trucking). The `$500M` bailout failure signals fiscal fatigue — expect more corporate defaults before the government steps in again. Favors long US Treasuries on the margin as recession risk rises.
+Spirit Aviation Holdings shut down operations after a $500M government bailout collapsed, stranding passengers and sending rival carriers into rapid-response mode ([BBG](https://www.bloomberg.com/news/videos/2026-05-02/spirit-airlines-shuts-down-at-airports-across-us-video), [BBC](https://www.bbc.com/news/articles/cqxlnrqjvzyo)). The collapse was triggered by a doubling of jet fuel prices during the two-month Iran war ([SCMP](https://www.scmp.com/news/world/united-states-canada/article/3352244/us-carrier-spirit-airlines-shuts-down-industrys-first-iran-war-casualty)). Aegon and Barclays warned investors to brace for a credit market downturn, with credit spreads likely to widen as the real economy absorbs higher energy costs ([BBG](https://www.bloomberg.com/news/articles/2026-05-02/aegon-barclays-say-prepare-for-market-pain-credit-weekly)). CNBC reported inside details of Spirit's final hours, with the CEO describing the airline's last days ([CNBC](https://www.cnbc.com/2026/05/02/spirit-airlines-shutdown-inside-the-final-hours.html), [WSJ](https://www.wsj.com/articles/spirits-ceo-on-the-airlines-last-days-00000000)). Transportation Secretary Duffy said there is no need for a broader US budget airline bailout ([Reuters](https://www.reuters.com/business/aerospace-defense/after-spirit-collapse-duffy-says-no-need-us-budget-airline-bailout-2026-05-02/)).
 
-### 📌 Beijing Orders Firms to Defy US Sanctions on Refiners
+**[AI Reasoning] Macro Lens** — Spirit's collapse is the canary in the coal mine for sectors with high fuel exposure and thin margins. The credit market warning from Aegon/Barclays is the more systemic signal — if jet fuel costs cascade into broader corporate distress, credit spreads will reprice, dragging on equities.
 
-**Fact** | Source: ([BBG](https://www.bloomberg.com/news/articles/2026-05-02/beijing-tells-chinese-firms-to-ignore-us-sanctions-on-refiners)), ([Caixin](https://www.caixin.com/))
-The Chinese government has instructed domestic firms to ignore US sanctions targeting Chinese oil refiners. This is a direct escalation of the sanctions confrontation, with Beijing explicitly ordering non-compliance with US "long-arm jurisdiction" ([Caixin](https://www.caixin.com/) — 中国商务部发布禁令：不得执行美对五家中企的“长臂管辖”).
+**[AI Reasoning] Potential Market Impact** — Favors short high-yield credit and long volatility. The airline sector is the first domino — watch for contagion to logistics, trucking, and any transport-intensive industry. Supports a tactical short on US HY energy-sensitive names.
 
-**[AI Reasoning] Macro Lens** — This is a regime shift in the US-China sanctions game. Beijing has moved from quiet non-compliance to explicit defiance. For oil markets, this means sanctioned barrels (Iranian, Russian) will continue flowing through Chinese buyers regardless of US threats, capping the upside from supply-side sanctions but increasing the risk of secondary sanctions on Chinese banks.
+### 📌 Beijing Tells Firms to Ignore US Sanctions on Refiners
 
-**[AI Reasoning] Potential Market Impact** — Supports long CNH vs USD in the near term (China is securing energy supply), but increases tail risk of US secondary sanctions on Chinese financial institutions, which would be sharply negative for Asia FX and credit. Favors long Brent/TiO spread as the discount for sanctioned crude widens.
+**Fact** | Source: ([BBG](https://www.bloomberg.com/news/articles/2026-05-02/beijing-tells-chinese-firms-to-ignore-us-sanctions-on-refiners))
 
-### 📌 OPEC+ Provisionally Agrees June Quota Hike
+Beijing has explicitly instructed Chinese firms to ignore US sanctions on refiners, escalating the sanctions defiance posture ([BBG](https://www.bloomberg.com/news/articles/2026-05-02/beijing-tells-chinese-firms-to-ignore-us-sanctions-on-refiners)). This is a direct challenge to the US sanctions regime targeting Iranian oil flows.
 
-**Fact** | Source: ([BBG](https://www.bloomberg.com/news/articles/2026-05-02/opec-provisionally-agrees-june-output-increase-delegate-says)), ([Reuters](https://www.reuters.com/))
-Major OPEC+ nations provisionally agreed to another modest quota increase for June, in the group's first move since the UAE's surprise exit. The increase is symbolic given the Hormuz blockade is constraining actual supply. Iraq said oil output and exports could recover within a week once the Hormuz crisis ends ([Reuters](https://www.reuters.com/)).
+**[AI Reasoning] Macro Lens** — This is a deliberate escalation of the sanctions war, signaling China will act as a buyer of last resort for Iranian crude. This increases the likelihood of secondary sanctions on Chinese entities, which would further disrupt global oil trade flows and potentially widen the Hormuz blockade's impact.
 
-**[AI Reasoning] Macro Lens** — The OPEC+ quota hike is theater — the market is pricing the blockade, not quotas. With the UAE gone and Iran offline, the cartel's spare capacity narrative is shifting. The real supply lever is the Hormuz strait, not OPEC+ meeting rooms.
-
-**[AI Reasoning] Potential Market Impact** — The quota hike is a non-event for crude prices. The real trade is the eventual reopening of Hormuz, which would release `2-3mb/d` of Iranian supply and crush the backwardation. Until then, oil remains bid on physical tightness.
+**[AI Reasoning] Potential Market Impact** — Favors long oil on the expectation that Chinese defiance will keep Iranian barrels flowing but at a higher risk premium. Supports a long USD/CNH bias as sanctions risk on Chinese banks could pressure the RMB.
 
 ---
 
 ## 🌍 Global Radar
 
 ### 📊 Economic Indicators
-- **US Jobs Preview** — Bloomberg previews the April payrolls report showing labor market resilience despite the Iran war. Consensus expects `+240K` NFP, unemployment at `4.1%`, wage growth `4.2%` YoY ([BBG](URL)).
-- **Fed's Goolsbee** — Said recent inflation data was "bad news", reinforcing the stagflationary narrative ([Reuters](https://www.reuters.com/)).
+
+- **US Jobs Report Preview**: Friday's report expected to show labor market resilience despite the Iran war, with consensus looking for a solid payroll print ([BBG](https://www.bloomberg.com/news/articles/2026-05-02/us-jobs-report-to-show-resilience-in-the-wake-of-iran-war)).
+- **Fed's Goolsbee**: Recent inflation data was "bad news" ([Reuters](https://www.reuters.com/business/recent-inflation-data-was-bad-news-feds-goolsbee-says-2026-05-02/)).
+- **US Food Aid**: More than 3 million people have lost federal food aid ([WSJ](https://www.wsj.com/articles/more-than-three-million-people-have-lost-federal-food-aid-00000000)).
 
 ### 🏦 Central Banks
-- **PBOC** — No new PBOC operations reported in this window (weekend). Next MLF operation expected mid-month. The Caixin Weekly notes 人民币国际化迎来窗口期 — a window period for RMB internationalization ([Caixin](https://www.caixin.com/)).
-- **Fed** — Multiple articles on Kevin Warsh's future role at the Fed ([BBG](https://www.bloomberg.com/news/videos/2026-05-02/what-kevin-warsh-means-for-the-future-of-the-fed-video), [FT](https://www.ft.com/content/56028160-4581-4c8f-ade4-fc1da23bd033)). MarketWatch argues the Fed needs to communicate more clearly about higher inflation before raising rates ([MarketWatch](URL)). CNBC reports the bond market is more focused on Warsh's potential hawkish tilt than Dimon's credit recession warning ([CNBC](URL)).
+
+- **PBOC** — No new PBOC operations reported in this window. The next MLF operation (typically mid-month) will be the key liquidity signal.
+- **Fed** — Kevin Warsh's incoming leadership dominates discussion. Glenn Hubbard discussed what Warsh means for the Fed's purpose, strategy, and independence ([BBG](https://www.bloomberg.com/news/videos/2026-05-02/what-kevin-warsh-means-for-the-future-of-the-fed-video)). MarketWatch argued the Fed needs to make it clear that higher inflation is coming and rates may rise ([MarketWatch](https://www.marketwatch.com/story/higher-inflation-is-on-the-way-the-fed-needs-to-make-this-clearer-before-it-raises-rates-142c6884)).
+- **RBI** — India's central bank tweaked the definition of shadow lenders, potentially reviving the debate about whether Tata Sons could be forced to list ([BBG](https://www.bloomberg.com/news/articles/2026-05-02/new-rules-for-india-shadow-banks-may-put-tata-sons-ipo-on-radar)).
 
 ### 🌐 Geopolitics & Policy
-- **US Troop Withdrawal** — Trump ordered the withdrawal of `5,000` troops from Germany. Top Republicans expressed concern ([WSJ](URL), [Reuters](URL)).
-- **Taiwan** — President William Lai arrived in eSwatini (Taiwan's sole African ally) on a trip Beijing called a political "stunt" ([SCMP](URL), [Reuters](URL)).
-- **North Korea** — Called US cyber threat claims a fabrication and warned of countermeasures ([Reuters](https://www.reuters.com/)). Kim Jong Un cast youth as the vanguard of state goals amid the Russia war ([Reuters](https://www.reuters.com/)).
-- **Cuba** — Trump expanded US sanctions, targeting foreign companies and banks doing business with Cuba ([BBG](URL)).
+
+- **Taiwan**: President William Lai arrived in eSwatini, the island's sole African ally, on a trip Beijing called a political "stunt" ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3352238/taiwans-william-lai-lands-eswatini-trip-beijing-calls-political-stunt), [Reuters](https://www.reuters.com/world/asia-pacific/taiwan-president-arrives-eswatini-after-blaming-china-cancellation-prior-trip-2026-05-02/)). Lai blamed China for the cancellation of his prior trip.
+- **North Korea**: Called US cyber threat claims a fabrication and warned of countermeasures ([Reuters](https://www.reuters.com/world/asia-pacific/north-korea-calls-us-cyber-threat-claims-fabrication-warns-countermeasures-2026-05-02/)). Kim Jong Un cast youth as the vanguard of state goals amid the Russia war ([Reuters](https://www.reuters.com/world/asia-pacific/north-koreas-kim-casts-youth-vanguard-state-goals-amid-russia-war-2026-05-02/)).
+- **US Troop Withdrawal**: Trump ordered the withdrawal of 5,000 US troops from Germany ([WSJ](https://www.wsj.com/articles/trump-orders-the-withdrawal-of-5000-u-s-troops-from-germany-00000000)). Top Republicans expressed concern ([Reuters](https://www.reuters.com/world/europe/top-republicans-express-concern-over-trump-plan-withdraw-troops-from-germany-2026-05-02/)), while Germany said it should spur Europe ([Reuters](https://www.reuters.com/world/europe/germany-says-us-troop-drawdown-should-spur-europe-but-top-republicans-worried-2026-05-02/)).
+- **Cuba**: Sweeping new US sanctions could chase international companies off the island ([BBG](https://www.bloomberg.com/news/articles/2026-05-02/cuba-s-remaining-lifelines-in-peril-as-trump-widens-us-sanctions)).
+- **India**: Modi is ditching Indian protectionism in favor of free trade ([BBG](https://www.bloomberg.com/news/newsletters/2026-05-02/how-modi-is-ditching-indian-protectionism-to-become-a-free-trader-new-economy)).
 
 ### 🛢️ Commodities
-- **Iran Oil** — Iran is juggling production cuts and storage strain to resist the US blockade. Exports have plunged; storage is rapidly filling; production curbs have begun ([BBG](URL)).
-- **Yemen Oil Tanker Hijack** — An oil tanker was hijacked off the Shabwa coast, heading toward Somali waters ([Reuters](https://www.reuters.com/)).
-- **UK Airlines** — New contingency plans allow airlines to cancel flights weeks in advance over fuel shortages without losing takeoff/landing slots ([BBC](URL)).
+
+- **Oil**: Iran juggles production cuts and storage strain as the US blockade tightens ([BBG](https://www.bloomberg.com/news/articles/2026-05-02/iran-juggles-oil-cuts-and-storage-strain-to-resist-us-blockade)). OPEC+ provisionally agreed a June quota increase ([BBG](https://www.bloomberg.com/news/articles/2026-05-02/opec-provisionally-agrees-june-output-increase-delegate-says)). Iraq says output can recover within a week once Hormuz reopens ([Reuters](https://www.reuters.com/world/middle-east/iraq-says-oil-output-exports-can-recover-within-week-once-hormuz-crisis-ends-2026-05-02/)). A Yemeni oil tanker was hijacked off Shabwa coast, heading towards Somali waters ([Reuters](https://www.reuters.com/world/middle-east/yemen-says-oil-tanker-hijacked-off-shabwa-coast-heads-towards-somali-waters-2026-05-02/)).
+- **Russia**: Oil exports keep flowing despite Ukrainian attacks ([WSJ](https://www.wsj.com/articles/russia-oil-exports-keep-flowing-despite-ukrainian-attacks-00000000)).
 
 ### 📈 Equities
-- **S&P 500** — Extended its longest weekly winning streak since late 2024. Bloomberg asks whether this is a stock market "melt-up" driven by momentum-chasing and AI speculation that the worst of the Iran war is over ([BBG](URL), [WSJ](URL)).
-- **Berkshire Hathaway** — Q1 operating earnings rose to `$11.35B` in Greg Abel's first quarter as CEO. Cash pile surged to a record `$397B`. Abel assured shareholders at the annual meeting ([BBG](URL), [Reuters](URL), [WSJ](URL), [CNN](URL)).
-- **Spirit Airlines** — Shut down operations. Stock is worthless. Rival airlines (Delta, United, American) are scrambling to rebook passengers ([BBG](URL), [CNBC](URL), [BBC](URL)).
-- **Corporate Earnings** — Q1 earnings season is delivering better-than-expected results, propelling US equities ([BBG](URL)).
-- **Aegon, Barclays** — Warned investors to brace for a credit market downturn ([BBG](URL)).
+
+- **S&P 500**: Extended the longest weekly winning streak since late 2024 ([WSJ](https://www.wsj.com/articles/s-p-500-extends-longest-weekly-winning-streak-since-late-2024-00000000)). Bloomberg asked whether this is a stock market melt-up, noting semiconductor stocks rose in 21 of the last 23 sessions ([BBG](https://www.bloomberg.com/news/articles/2026-05-02/is-this-a-stock-market-melt-up-here-are-ways-to-tell)).
+- **Corporate Earnings**: First-quarter earnings season is delivering better-than-expected results, propelling US equities from one record to the next ([BBG](https://www.bloomberg.com/news/articles/2026-05-02/corporate-america-earnings-beat-back-wall-street-s-wall-of-worry)).
+- **Berkshire Hathaway**: Cash pile surged to a record $397B in Greg Abel's first quarter as CEO, with Q1 earnings of $11.35B ([BBG](https://www.bloomberg.com/news/articles/2026-05-02/berkshire-hathaway-s-cash-pile-surges-to-record-397-billion), [BBG](https://www.bloomberg.com/news/videos/2026-05-02/berkshire-hathaway-posts-11-35-billion-earning-video)). Shareholders rejected a workforce oversight report but approved say-on-pay ([Reuters](https://www.reuters.com/business/berkshire-shareholders-reject-report-workforce-oversight-approve-say-on-pay-2026-05-02/)).
 
 ---
 
 ## 📅 Economic Calendar — Next 24 Hours
 
-- **11:00 PM HKT | AU** — TD-MI Inflation Gauge MoM. Consensus: -, Prior: 1.3%.
-- **11:30 PM HKT | KR** — S&P Global Manufacturing PMI. Consensus: -, Prior: 52.6.
-- **11:30 PM HKT | AU** — Building Permits MoM Prel. Consensus: -9.9%, Prior: 29.7%.
-- **11:30 PM HKT | AU** — ANZ-Indeed Job Ads MoM. Consensus: -, Prior: -3.1%.
-- **11:30 PM HKT | AU** — Building Permits YoY Prel. Consensus: -, Prior: 14.0%.
-- **11:30 PM HKT | AU** — Private House Approvals MoM Prel. Consensus: -, Prior: 0.2%.
-- **May 04 01:30 AM HKT | KR** — 2-Year KTB Auction. Consensus: -, Prior: 3.500%.
+- **11:00 PM HKT | AU** — TD-MI Inflation Gauge MoM. Consensus: -, Prior: 1.3%
+- **11:30 PM HKT | KR** — S&P Global Manufacturing PMI. Consensus: -, Prior: 52.6
+- **11:30 PM HKT | AU** — Building Permits MoM Prel. Consensus: -9.9%, Prior: 29.7%
+- **11:30 PM HKT | AU** — ANZ-Indeed Job Ads MoM. Consensus: -, Prior: -3.1%
+- **11:30 PM HKT | AU** — Building Permits YoY Prel. Consensus: -, Prior: 14.0%
+- **11:30 PM HKT | AU** — Private House Approvals MoM Prel. Consensus: -, Prior: 0.2%
+- **01:30 AM HKT (May 4) | KR** — 2-Year KTB Auction. Consensus: -, Prior: 3.500%
 
 ---
 
 ## ⚡ What to Watch
 
-- **KR S&P Global Manufacturing PMI** — 11:30 PM HKT. Watch for contraction/expansion signal vs 52.6 prior. Export demand proxy for Asia.
-- **US April NFP Report** — Friday May 8. Consensus `+240K`. A print below `+150K` would reignite recession fears despite the Iran war narrative.
+- **Korea S&P Global Manufacturing PMI** — 11:30 PM HKT. Prior was 52.6. Any print below 50 would signal contraction in a key trade-dependent economy amid the Iran war disruptions.
+- **Iran 14-Point Proposal Response** — Trump said he'll review the new proposal "exactly now." Any public rejection or acceptance will move oil, risk assets, and USD/CNH. Watch for statements over the weekend.
+- **Spirit Airlines Contagion** — Watch for any further airline or transport sector distress announcements. The collapse of bailout talks suggests the administration's willingness to let market forces work, which could accelerate credit repricing.
 
 ---
 
 ## 📚 Full Reading List
+**Bloomberg**:
+- [What Kevin Warsh Means for the Future of the Fed](https://www.bloomberg.com/news/videos/2026-05-02/what-kevin-warsh-means-for-the-future-of-the-fed-video)
+- [Beijing Tells Chinese Firms to Ignore US Sanctions on Refiners](https://www.bloomberg.com/news/articles/2026-05-02/beijing-tells-chinese-firms-to-ignore-us-sanctions-on-refiners)
+- [Cuba's Remaining Lifelines in Peril as Trump Widens US Sanctions](https://www.bloomberg.com/news/articles/2026-05-02/cuba-s-remaining-lifelines-in-peril-as-trump-widens-us-sanctions)
+- [How Modi Is Ditching Indian Protectionism in Favor of Free Trade](https://www.bloomberg.com/news/newsletters/2026-05-02/how-modi-is-ditching-indian-protectionism-to-become-a-free-trader-new-economy)
+- [Hungary Warns of Drought Hit to Agriculture From April Dry Spell](https://www.bloomberg.com/news/articles/2026-05-02/hungary-warns-of-drought-hit-to-agriculture-from-april-dry-spell)
+- [IMF Sees Ivory Coast Growth Easing as Import Costs Drive Deficit](https://www.bloomberg.com/news/articles/2026-05-02/imf-sees-ivory-coast-growth-easing-as-import-costs-drive-deficit)
+- [US Jobs Report to Show Resilience in the Wake of Iran War](https://www.bloomberg.com/news/articles/2026-05-02/us-jobs-report-to-show-resilience-in-the-wake-of-iran-war)
+- [Adam 'Not Satoshi' Back Is at Peace With Wall Street Crypto Era](https://www.bloomberg.com/news/articles/2026-05-02/adam-not-satoshi-back-is-at-peace-with-wall-street-crypto-era)
+- [Aegon, Barclays Say Prepare for Market Pain](https://www.bloomberg.com/news/articles/2026-05-02/aegon-barclays-say-prepare-for-market-pain-credit-weekly)
+- [Berkshire Hathaway Posts $11.35 Billion Earning](https://www.bloomberg.com/news/videos/2026-05-02/berkshire-hathaway-posts-11-35-billion-earning-video)
+- [Berkshire Hathaway's Cash Surges in Abel's First Quarter as CEO](https://www.bloomberg.com/news/articles/2026-05-02/berkshire-hathaway-s-cash-pile-surges-to-record-397-billion)
+- [Berkshire Investors Praise Greg Abel at Post-Buffett Meeting](https://www.bloomberg.com/news/articles/2026-05-02/berkshire-meeting-highlights-tough-balancing-act-for-greg-abel)
+- [Corporate America Earnings Beat Back Wall Street's Wall of Worry](https://www.bloomberg.com/news/articles/2026-05-02/corporate-america-earnings-beat-back-wall-street-s-wall-of-worry)
+- [Iran Juggles Oil Cuts and Storage Strain to Resist US Blockade](https://www.bloomberg.com/news/articles/2026-05-02/iran-juggles-oil-cuts-and-storage-strain-to-resist-us-blockade)
+- [Iran War Drags On as Blockade Continues in Hormuz](https://www.bloomberg.com/news/videos/2026-05-02/iran-war-drags-on-as-blockade-continues-in-hormuz-video)
+- [Is This a Stock Market Melt-Up? Here Are Ways to Tell](https://www.bloomberg.com/news/articles/2026-05-02/is-this-a-stock-market-melt-up-here-are-ways-to-tell)
+- [New Rules for India Shadow Banks May Put Tata Sons IPO on Radar](https://www.bloomberg.com/news/articles/2026-05-02/new-rules-for-india-shadow-banks-may-put-tata-sons-ipo-on-radar)
+- [OPEC+ Provisionally Agrees June Quota Increase, Delegate Says](https://www.bloomberg.com/news/articles/2026-05-02/opec-provisionally-agrees-june-output-increase-delegate-says)
+- [Spirit Airlines Shuts Down at Airports Across US](https://www.bloomberg.com/news/videos/2026-05-02/spirit-airlines-shuts-down-at-airports-across-us-video)
+- [Spirit Airlines Shuts Operations After White House Bailout Collapse](https://www.bloomberg.com/news/videos/2026-05-02/spirit-airlines-shuts-operations-after-bailout-collapse-video)
+- [Trump Rues State of Iran Talks, Says Prefers Not to Strike](https://www.bloomberg.com/news/videos/2026-05-02/trump-rues-state-of-iran-talks-video)
+- [UAE Departs OPEC as Iran Feel Economic Sting of Blockade](https://www.bloomberg.com/news/videos/2026-05-02/uae-departs-opec-as-iran-feel-economic-sting-of-blockade-video)
 
-**Bloomberg**: ([What Kevin Warsh Means](https://www.bloomberg.com/news/videos/2026-05-02/what-kevin-warsh-means-for-the-future-of-the-fed-video)), ([Beijing Tells Firms to Ignore Sanctions](https://www.bloomberg.com/news/articles/2026-05-02/beijing-tells-chinese-firms-to-ignore-us-sanctions-on-refiners)), ([Cuba Sanctions](https://www.bloomberg.com/news/articles/2026-05-02/cuba-s-remaining-lifelines-in-peril-as-trump-widens-us-sanctions)), ([US Jobs Preview](https://www.bloomberg.com/news/articles/2026-05-02/us-jobs-report-to-show-resilience-in-the-wake-of-iran-war)), ([Aegon Barclays Credit Warning](https://www.bloomberg.com/news/articles/2026-05-02/aegon-barclays-say-prepare-for-market-pain-credit-weekly)), ([Berkshire Cash Record](https://www.bloomberg.com/news/articles/2026-05-02/berkshire-hathaway-s-cash-pile-surges-to-record-397-billion)), ([Berkshire Meeting](https://www.bloomberg.com/news/articles/2026-05-02/berkshire-meeting-highlights-tough-balancing-act-for-greg-abel)), ([Corporate Earnings Beat](https://www.bloomberg.com/news/articles/2026-05-02/corporate-america-earnings-beat-back-wall-street-s-wall-of-worry)), ([Iran Oil Storage Strain](https://www.bloomberg.com/news/articles/2026-05-02/iran-juggles-oil-cuts-and-storage-strain-to-resist-us-blockade)), ([Stock Market Melt-Up](https://www.bloomberg.com/news/articles/2026-05-02/is-this-a-stock-market-melt-up-here-are-ways-to-tell)), ([OPEC+ Quota Hike](https://www.bloomberg.com/news/articles/2026-05-02/opec-provisionally-agrees-june-output-increase-delegate-says)), ([Spirit Shutdown](https://www.bloomberg.com/news/videos/2026-05-02/spirit-airlines-shuts-down-at-airports-across-us-video)), ([Trump Iran Talks](https://www.bloomberg.com/news/videos/2026-05-02/trump-rues-state-of-iran-talks-video))
+**Reuters**:
+- [North Korea calls US cyber threat claims a fabrication, warns of countermeasures](https://www.reuters.com/world/asia-pacific/north-korea-calls-us-cyber-threat-claims-fabrication-warns-countermeasures-2026-05-02/)
+- [North Korea's Kim casts youth as vanguard of state goals amid Russia war](https://www.reuters.com/world/asia-pacific/north-koreas-kim-casts-youth-vanguard-state-goals-amid-russia-war-2026-05-02/)
+- [Recent inflation data was 'bad news,' Fed's Goolsbee says](https://www.reuters.com/business/recent-inflation-data-was-bad-news-feds-goolsbee-says-2026-05-02/)
+- [Taiwan president arrives in Eswatini after blaming China for cancellation of prior trip](https://www.reuters.com/world/asia-pacific/taiwan-president-arrives-eswatini-after-blaming-china-cancellation-prior-trip-2026-05-02/)
+- [Iranian proposal rejected by Trump would open strait before nuclear talks, Iran official says](https://www.reuters.com/world/middle-east/iranian-proposal-rejected-by-trump-would-open-strait-before-nuclear-talks-iran-official-says-2026-05-02/)
+- [Iraq says oil output, exports can recover within a week once Hormuz crisis ends](https://www.reuters.com/world/middle-east/iraq-says-oil-output-exports-can-recover-within-week-once-hormuz-crisis-ends-2026-05-02/)
+- [OPEC+ set for another oil output quota hike despite Hormuz closure, sources say](https://www.reuters.com/world/middle-east/opec-set-for-another-oil-output-quota-hike-despite-hormuz-closure-sources-say-2026-05-02/)
+- [Trump says US could restart Iran strikes 'if they misbehave'](https://www.reuters.com/world/middle-east/trump-says-us-could-restart-iran-strikes-if-they-misbehave-2026-05-02/)
+- [After Spirit collapse, Duffy says no need for US budget airline bailout](https://www.reuters.com/business/aerospace-defense/after-spirit-collapse-duffy-says-no-need-us-budget-airline-bailout-2026-05-02/)
+- [Berkshire shareholders reject report on workforce oversight, approve say-on-pay](https://www.reuters.com/business/berkshire-shareholders-reject-report-workforce-oversight-approve-say-on-pay-2026-05-02/)
+- [Top Republicans express concern over Trump plan to withdraw troops from Germany](https://www.reuters.com/world/europe/top-republicans-express-concern-over-trump-plan-withdraw-troops-from-germany-2026-05-02/)
+- [Germany says US troop drawdown should spur Europe, but top Republicans worried](https://www.reuters.com/world/europe/germany-says-us-troop-drawdown-should-spur-europe-but-top-republicans-worried-2026-05-02/)
+- [Yemen says oil tanker hijacked off Shabwa coast, heads towards Somali waters](https://www.reuters.com/world/middle-east/yemen-says-oil-tanker-hijacked-off-shabwa-coast-heads-towards-somali-waters-2026-05-02/)
 
-**Reuters**: ([Goolsbee Inflation](URL)), ([Iran Proposal Rejected](URL)), ([OPEC+ Hike](URL)), ([Iraq Oil Recovery](URL)), ([Trump Restrike Threat](URL)), ([NK Cyber Claims](URL)), ([NK Kim Youth](URL)), ([Taiwan eSwatini](URL)), ([Spirit Aftermath](URL)), ([Berkshire Profit](URL)), ([Berkshire Shareholders](URL)), ([German Troop Withdrawal](URL))
+**WSJ**:
+- [More Than Three Million People Have Lost Federal Food Aid](https://www.wsj.com/articles/more-than-three-million-people-have-lost-federal-food-aid-00000000)
+- [S&P 500 Extends Longest Weekly Winning Streak Since Late 2024](https://www.wsj.com/articles/s-p-500-extends-longest-weekly-winning-streak-since-late-2024-00000000)
+- [Spirit Airlines Is Shutting Down. Here's What to Do If You Had Tickets.](https://www.wsj.com/articles/spirit-airlines-is-shutting-down-heres-what-to-do-if-you-had-tickets-00000000)
+- [Spirit's CEO on the Airline's Last Days](https://www.wsj.com/articles/spirits-ceo-on-the-airlines-last-days-00000000)
+- [Trump Orders the Withdrawal of 5,000 U.S. Troops From Germany](https://www.wsj.com/articles/trump-orders-the-withdrawal-of-5000-u-s-troops-from-germany-00000000)
+- [Russia Oil Exports Keep Flowing Despite Ukrainian Attacks](https://www.wsj.com/articles/russia-oil-exports-keep-flowing-despite-ukrainian-attacks-00000000)
+- [Iran War Gives U.S.'s Rivals a Real-Time Look at Its Firepower](https://www.wsj.com/articles/iran-war-gives-u-s-s-rivals-a-real-time-look-at-its-firepower-00000000)
 
-**WSJ**: ([S&P 500 Streak](URL)), ([Spirit Shutdown](URL)), ([German Troop Withdrawal](URL)), ([Berkshire CEO Abel](URL))
+**Financial Times**:
+- [Q&A: The future of the Federal Reserve](https://www.ft.com/content/56028160-4581-4c8f-ade4-fc1da23bd033)
+- [US should 'finish the job' if Iran does not yield, says Lindsey Graham](https://www.ft.com/content/359e5fdd-b56f-46cb-b3fd-70b367f3e2ef)
 
-**Financial Times**: ([Fed Q&A](https://www.ft.com/content/56028160-4581-4c8f-ade4-fc1da23bd033)), ([Graham Iran](https://www.ft.com/content/359e5fdd-b56f-46cb-b3fd-70b367f3e2ef))
+**CNBC**:
+- [JPMorgan's Jamie Dimon issued vague credit recession warning, but the bond market has more pressing issues](https://www.cnbc.com/2026/05/02/kevin-warsh-federal-reserve-interest-rates-bonds-fixed-income.html)
+- ['Godspeed my friend': Inside the final hours of Spirit Airlines](https://www.cnbc.com/2026/05/02/spirit-airlines-shutdown-inside-the-final-hours.html)
+- [Spirit Airlines shuts down after failing to reach a bailout deal, ending discount travel era](https://www.cnbc.com/2026/05/01/spirit-airlines-trump-bailout.html)
 
-**CNBC**: ([Spirit Final Hours](https://www.cnbc.com/2026/05/02/spirit-airlines-shutdown-inside-the-final-hours.html)), ([Airfare Iran War](https://www.cnbc.com/2026/05/02/iran-war-airfare-travel-airlines-plane-tickets-when-to-buy.html)), ([Bond Market Warsh](https://www.cnbc.com/2026/05/02/kevin-warsh-federal-reserve-interest-rates-bonds-fixed-income.html))
+**SCMP**:
+- [Beijing tells Chinese firms to ignore US sanctions on refiners](https://www.bloomberg.com/news/articles/2026-05-02/beijing-tells-chinese-firms-to-ignore-us-sanctions-on-refiners)
+- [Taiwan's William Lai lands in eSwatini on trip Beijing calls a political 'stunt'](https://www.scmp.com/news/china/diplomacy/article/3352238/taiwans-william-lai-lands-eswatini-trip-beijing-calls-political-stunt)
+- [Faith, hope and ancestry: William Lai's clan village in Beijing's push for cross-strait ties](https://www.scmp.com/news/china/politics/article/3352228/faith-hope-and-ancestry-william-lais-clan-village-beijings-push-cross-strait-ties)
+- [Beyond subsidies: what's really driving China's industrial climb](https://www.scmp.com/opinion/china-opinion/article/3351863/beyond-subsidies-whats-really-driving-chinas-industrial-climb)
+- [Iran will not accept 'imposed' peace, Trump not satisfied with negotiations](https://www.scmp.com/news/world/middle-east/article/3352237/iran-will-not-accept-imposed-peace-trump-not-satisfied-negotiations)
+- [Trump says he's reviewing new Iran proposal to end war](https://www.scmp.com/news/world/middle-east/article/3352245/trump-says-hes-reviewing-new-iran-proposal-end-war)
+- [US carrier Spirit Airlines shuts down, industry's first Iran war casualty](https://www.scmp.com/news/world/united-states-canada/article/3352244/us-carrier-spirit-airlines-shuts-down-industrys-first-iran-war-casualty)
 
-**SCMP**: ([Trump Reviews Iran Proposal](https://www.scmp.com/news/world/middle-east/article/3352245/trump-says-hes-reviewing-new-iran-proposal-end-war)), ([Iran No Imposed Peace](https://www.scmp.com/news/world/middle-east/article/3352237/iran-will-not-accept-imposed-peace-trump-not-satisfied-negotiations)), ([Spirit Collapse](https://www.scmp.com/news/world/united-states-canada/article/3352244/us-carrier-spirit-airlines-shuts-down-industrys-first-iran-war-casualty)), ([Taiwan eSwatini](https://www.scmp.com/news/china/diplomacy/article/3352238/taiwans-william-lai-lands-eswatini-trip-beijing-calls-political-stunt))
+**BBC**:
+- [Airlines can cancel flights in advance over fuel shortages, under new plans](https://www.bbc.com/news/articles/c794zd1vqn4o)
+- [Spirit Airlines shutting down after rescue talks collapse](https://www.bbc.com/news/articles/cqxlnrqjvzyo)
 
-**BBC**: ([Spirit Shutdown](https://www.bbc.com/news/articles/cqxlnrqjvzyo)), ([UK Airlines Fuel](https://www.bbc.com/news/articles/c794zd1vqn4o))
+**MarketWatch**:
+- [Higher inflation is on the way. The Fed needs to make this clear before it raises rates.](https://www.marketwatch.com/story/higher-inflation-is-on-the-way-the-fed-needs-to-make-this-clearer-before-it-raises-rates-142c6884)
+- [Private credit isn't safer than banks — it's just better at hiding losses](https://www.marketwatch.com/story/private-credit-isnt-safer-than-banks-its-just-better-at-hiding-losses-84937515)
 
-**CNN**: ([Iran War Latin America](https://www.cnn.com/2026/05/02/middleeast/iran-war-latin-america-impact-intl-latam/index.html)), ([Berkshire Q1](https://www.cnn.com/2026/05/02/investing/berkshire-hathaway-earnings-abel/index.html))
-
-**Caixin**: ([商务部禁令: 不得执行美对五家中企长臂管辖](URL)), ([人民币国际化迎来窗口期](URL))
-
-**MarketWatch**: ([Fed Communication](URL)), ([Private Credit](URL))
+**HKEJ**:
+- [索羅斯啟示錄：香港金融防禦的微觀轉型](https://www.hkej.com/)
 
 ---
 *[Past briefings](archive.md)*
