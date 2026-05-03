@@ -79,6 +79,7 @@ Trump ordered the withdrawal of `5,000` US troops from Germany. Germany stated t
 
 ### 🏦 Central Banks
 
+- **PBOC** — No PBOC actions reported in this window (May 2 evening to May 3 morning HKT). No MLF, LPR, RRR, or open market operation data was published during this period.
 
 - **Fed** — Kevin Warsh transition dominates Fed commentary ([BBG](https://www.bloomberg.com/news/videos/2026-05-02/what-kevin-warsh-means-for-the-future-of-the-fed-video), [FT](https://www.ft.com/content/56028160-4581-4c8f-ade4-fc1da23bd033)). Goolsbee calls inflation data "bad news" ([Reuters](https://www.reuters.com/article/goolsbee-says-inflation-bad-news)). The bond market is pricing the risk of rate hikes ([CNBC](https://www.cnbc.com/2026/05/02/kevin-warsh-federal-reserve-interest-rates-bonds-fixed-income.html)).
 
@@ -116,12 +117,12 @@ Trump ordered the withdrawal of `5,000` US troops from Germany. Germany stated t
 
 ## 📅 Economic Calendar — Next 24 Hours
 
-- **11:00 PM HKT | AU** — TD-MI Inflation Gauge MoM. Consensus: -, Prior: 1.3%.
-- **11:30 PM HKT | KR** — S&P Global Manufacturing PMI. Consensus: -, Prior: 52.6.
-- **11:30 PM HKT | AU** — Building Permits MoM Prel. Consensus: -9.9%, Prior: 29.7%.
-- **11:30 PM HKT | AU** — ANZ-Indeed Job Ads MoM. Consensus: -, Prior: -3.1%.
-- **11:30 PM HKT | AU** — Building Permits YoY Prel. Consensus: -, Prior: 14.0%.
-- **11:30 PM HKT | AU** — Private House Approvals MoM Prel. Consensus: -, Prior: 0.2%.
+- **May 03 11:00 PM HKT | AU** — TD-MI Inflation Gauge MoM. Consensus: -, Prior: 1.3%.
+- **May 03 11:30 PM HKT | KR** — S&P Global Manufacturing PMI. Consensus: -, Prior: 52.6.
+- **May 03 11:30 PM HKT | AU** — Building Permits MoM Prel. Consensus: -9.9%, Prior: 29.7%.
+- **May 03 11:30 PM HKT | AU** — ANZ-Indeed Job Ads MoM. Consensus: -, Prior: -3.1%.
+- **May 03 11:30 PM HKT | AU** — Building Permits YoY Prel. Consensus: -, Prior: 14.0%.
+- **May 03 11:30 PM HKT | AU** — Private House Approvals MoM Prel. Consensus: -, Prior: 0.2%.
 - **01:30 AM HKT (May 04) | KR** — 2-Year KTB Auction. Consensus: -, Prior: 3.500%.
 
 ---
