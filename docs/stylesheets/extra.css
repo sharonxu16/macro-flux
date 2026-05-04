@@ -87,10 +87,7 @@
 }
 
 /* Hide all admonition icons */
-.md-typeset .admonition .admonition-icon,
-.md-typeset .admonition.abstract .admonition-icon,
-.md-typeset .admonition.abstract > .admonition-title::before,
-.md-typeset .admonition.abstract > svg {
+.md-typeset :is(.admonition):is(.abstract, .info, .tip, .note, .warning, .danger, .quote, .question, .example) :is(.admonition-icon, .admonition-title::before, svg) {
   display: none !important;
 }
 
