@@ -8,7 +8,7 @@ Macro Flux: Your best macro news synthesizer. 50+ sources distilled and cross-re
 
 - **Overview** — LLM-synthesized narrative, cross-market thesis
 - **Narrative Watch** — Key macro stories: **Fact** (source excerpts) → **[AI Reasoning]** (model: macro lens + tactical trade)
-- **Global Radar** — Source excerpts by theme: Economic Indicators → Central Banks → Geopolitics → Commodities → Equities
+- **Global Radar** — Source excerpts by theme: Economic Indicators, Central Banks, Geopolitics, Commodities, Equities
 - **Economic Calendar** — Next 24h high-impact releases, consensus/prior from TradingEconomics
 - **Full Reading List** — All referenced articles with source attribution
 
