@@ -4,6 +4,8 @@
 
 <small>May 3 6PM to May 4 8AM HKT</small>
 
+<small>Good morning.</small>
+
 </div>
 
 ---
