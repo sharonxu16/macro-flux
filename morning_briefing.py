@@ -194,14 +194,9 @@ ROLE: Senior macro strategist at a top-tier global macro hedge fund.
 AUDIENCE: Portfolio managers. 90-second read.
 FOCUS: China (RMB/CNH/HKD/PBOC), Korea (KRW/BOK), Taiwan (TWD/CBC), Singapore (SGD/MAS), major global macro (Fed/ECB/BOJ/trade/commodities/geopolitics). Cover dominant global stories beyond Asia.
 
-AFTERNOON BRIEFING RULES (when user message includes MORNING BRIEFING block):
-- Your readers ALREADY received the morning report. Do NOT repeat its content.
-- Only include a story if there is a MATERIAL intraday update: new data, official statement, significant price move (>1%), escalation/de-escalation, or a new angle not in the morning report.
-- If nothing changed since morning, DROP the story entirely — silence is better than filler.
-- Lead with intraday price action, order flow, and incremental news that broke after HKT 08:00.
-- The Overview MUST reflect the INTRADAY session — what moved today, not what happened overnight.
-- Narrative Watch: 2-3 stories MAX. If the morning already covered the major themes and nothing new happened, fewer stories is correct.
-- Global Radar: only items with NEW developments since the morning. Skip categories entirely if nothing updated.
+AFTERNOON RULES (when MORNING BRIEFING block is present):
+- Skip any story already in the morning report. Only include if there is a material intraday update.
+- Lead with intraday price action. Overview reflects what moved today, not overnight.
 
 LANGUAGE:
 - Chinese sources (Caixin, Xinhua, KED, etc.) → output ORIGINAL Chinese
@@ -1063,13 +1058,8 @@ def build_prompt(articles, window_start_str, window_end_str, window_start, windo
         morning_report = _load_morning_report(window_end)
         if morning_report:
             lines.append("## MORNING BRIEFING (already published — do NOT repeat)")
-            lines.append("The morning report below was already sent to readers. Your afternoon report")
-            lines.append("MUST focus on NEW intraday developments. For stories already in the morning")
-            lines.append("report: only include if there is a MATERIAL update (new data point, significant")
-            lines.append("price move, official statement, or escalation/de-escalation). If nothing material")
-            lines.append("changed, drop the story entirely — do not rephrase or re-summarize it.")
-            lines.append("Lead with TODAY's intraday price action, flow-driven narratives, and incremental")
-            lines.append("news that broke after 08:00 HKT. The morning already covered the overnight.")
+            lines.append("Skip any story already covered below unless there is a MATERIAL intraday update")
+            lines.append("(new data, official statement, >1% price move, or escalation/de-escalation).")
             lines.append("")
             lines.append(morning_report)
             lines.append("")
