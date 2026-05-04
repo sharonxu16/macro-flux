@@ -2,7 +2,7 @@
 
 Markets favor the prepared mind.
 
-Macro Flux: One page. Every morning. 30+ sources scanned, cross-referenced, and distilled — so you walk into the Asia open knowing what matters and what to do about it.
+Macro Flux: One page. Twice daily. 41 sources scanned, cross-referenced, and distilled — so you walk into the Asia open knowing what matters and what to do about it.
 
 ## Structure
 
@@ -15,15 +15,74 @@ Macro Flux: One page. Every morning. 30+ sources scanned, cross-referenced, and 
 
 ## Data Sources
 
-| Tier | Sources |
-|---|---|
-| Primary | Bloomberg, FT, WSJ, Reuters |
-| Supplementary | CNBC, BBC Business, CNN |
-| China Local | 华尔街见闻, 财新, 信报, 中国基金报, 新华网, 中国财经, 央视新闻, SCMP |
-| Calendar | TradingEconomics |
-| Official | Federal Reserve, PBOC, HKMA, 国家统计局 |
+41 sources scanned every window: 34 RSS feeds + 7 scraped pages.
 
-More sources being added.
+### Central Banks & Official
+
+| Source | Coverage |
+|---|---|
+| Federal Reserve (Fed) | Press releases, FOMC statements |
+| European Central Bank (ECB) | Press releases, monetary policy |
+| San Francisco Fed | Research & speeches |
+| People's Bank of China (PBOC) | Open market operations, MLF, LPR |
+| Hong Kong Monetary Authority (HKMA) | Press releases |
+| EIA (US Energy Information Administration) | Today in Energy — daily supply/inventory analysis |
+| IEA (International Energy Agency) | Global demand/supply outlooks, emergency stockpiles |
+
+### Global Financial Media
+
+| Source | Coverage |
+|---|---|
+| Bloomberg | Economics, Markets |
+| Financial Times | Global Economy, Markets, Asia, Currencies |
+| Wall Street Journal | All sections |
+| Reuters | Global wire |
+| CNBC | Markets, World, Economy |
+| BBC | Business |
+| The Economist | Finance & economics |
+| CNN | Macro-filtered sentiment & breaking alerts |
+
+### Asia-Pacific
+
+| Source | Coverage |
+|---|---|
+| South China Morning Post (SCMP) | Economy, China Economy, Asia |
+| Korea Economic Daily (KED) | Global Korea |
+| 华尔街见闻 (WallstreetCN) | China macro, liquidity, FX |
+| 财新 (Caixin) | China economy & policy |
+| 信报 (HKEJ) | Hong Kong finance & markets |
+| 央视新闻 (CCTV) | China macro & policy |
+| 中国基金报 (ChnFund) | China macro |
+| 新华网 (Xinhua) | China economy |
+| 中国财经 (ChinaFinance) | China financial news |
+| 国家统计局 (NBSC) | Official data releases |
+
+### Geopolitics & War Monitor
+
+| Source | Coverage |
+|---|---|
+| US CENTCOM | US Central Command — Middle East operational reports |
+| ISW (Institute for the Study of War) | Daily battlefield assessments |
+| Al Jazeera | Middle East regional perspective & diplomatic signals |
+
+### Energy & Shipping
+
+| Source | Coverage |
+|---|---|
+| EIA Today in Energy | US official inventory, production, supply analysis |
+| IEA | Global emergency stockpiles, demand/supply outlooks |
+| S&P Global Commodity Insights | Real-time commodity markets intelligence |
+| Lloyd's List | Maritime shipping — freight rates, chokepoint disruptions |
+
+### Calendar
+
+| Source | Coverage |
+|---|---|
+| TradingEconomics | Economic calendar — consensus, prior, HKT times |
+
+### Aggregators
+
+Yahoo Finance, Investing.com — supplementary wire coverage.
 
 ## Delivery
 
@@ -34,5 +93,5 @@ Twice daily, fully automated:
 | **Morning** | 18:00–08:00 HKT (overnight) | ~08:30 HKT |
 | **Afternoon** | 08:00–18:00 HKT (intraday) | ~18:30 HKT |
 
-AI-driven pipeline: 30+ sources → LLM synthesis → this page.
+AI-driven pipeline: 41 sources → LLM synthesis → this page.
 
