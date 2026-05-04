@@ -186,4 +186,4 @@ Australia's central bank is set to entrench its status as a hawkish outlier with
 - [全球媒体聚焦 | 美媒：中国游客"五一"出行 树立规模与经济双标杆](https://news.google.com/rss/articles/CBMieEFVX3lxTE1pcVo2MmUwUkNZUTVXOWFtZ2lQY3RRY0MxZ1hVdHREWXFnenZmUG44SjBWbmdleW5QczY4eEhpNmNvVTd1MkxFR0JBcHV6MHd2QmJrRHhJZFlwdFlyb19LOWZkNjVJUERwWjNtakNGQmNJZ0tNZmp2Rw)
 
 ---
-*[Past briefings](archive.md)*
+*[Past Macro Flux](archive.md)*
