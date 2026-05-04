@@ -86,7 +86,11 @@
   background: rgba(0, 137, 123, 0.08);
 }
 
-/* Hide all admonition icons */
+/* Hide all admonition icons (CSS pseudo-element + inline SVG) */
+.md-typeset .admonition .admonition-title::before {
+  display: none !important;
+  content: none !important;
+}
 .md-typeset .admonition svg {
   display: none !important;
 }
