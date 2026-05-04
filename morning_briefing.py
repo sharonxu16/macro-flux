@@ -1233,7 +1233,7 @@ Then continue with the header below.]
 
 [For each HIGH-PRIORITY development (priority >= 10), use this exact structure. Group stories ONLY when they share a DIRECT causal or thematic link — do NOT force unrelated stories under a broad heading just because they involve the same country or region. If two stories are only tangentially related, give each its own ### 📌 block. When in doubt, separate.]
 
-**HEADLINE TONE — Avoid hyperbole**: Do NOT use words like "crisis", "collapse", "broken", "meltdown", "panic", "plunge", "soar" unless the event is genuinely extreme (e.g. multi-sigma move, first occurrence in decades, systemic breakdown). Use measured language: "decline" not "plunge", "tightening" not "squeeze", "divergence" not "fracture". The exception: when a genuine historical extreme occurs, call it what it is.
+**HEADLINE ANTI-HALLUCINATION**: Every claim in the `### 📌` headline MUST appear in at least one Fact citation below. No unsourced directional moves (e.g. "CNH fall" requires a cited CNH article), no unsourced country names, no synthesized narratives. If only KRW and JPY moved, write "KRW, JPY weaken" — do NOT add CNH or TWD.
 
 **FACT — Direct excerpt only**: Copy key sentences verbatim from source articles. Each excerpt on its own `>` line. No rephrasing, no summarizing, no connecting commentary. Group excerpts from the same story under one `### 📌` block. If two articles don't share a direct factual thread, they belong in separate Narrative Watch blocks. At the end of each block, all citations on one line wrapped in parentheses: `([Source 1](URL), [2](URL), [OtherSource](URL))`.]
 
