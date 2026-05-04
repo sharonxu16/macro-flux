@@ -1271,7 +1271,7 @@ Use `backticks` for ALL numeric values and tickers: `$125/bbl`, `3.2%`, `$34.5B`
 [Each bullet: one continuous excerpt line with `[Source](URL)` at end. Oil, gas, metals, ags — supply/demand, inventory, price moves with macro driver.]
 
 ### 📈 Equities
-[Each bullet: one continuous excerpt line with `[Source](URL)` at end. Index-level macro moves, sector rotation, vol regime. Single-name only if macro theme.]
+[Each bullet: one continuous excerpt line with `[Source](URL)` at end. Index futures moves, sector rotation, vol regime, investor sentiment (e.g. Fear & Greed, put/call), index options flow. Sector heavyweight stocks only if macro theme (e.g. TSMC for AI capex). NO individual corporate stories, NO M&A, NO single-stock earnings.]
 
 ""
 
