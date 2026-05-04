@@ -1297,7 +1297,6 @@ If the TRADINGECONOMICS table is empty or has no events, write: "No high-impact 
 [2-level nested bullets. Level 1: `- **SourceName**`. Level 2: 2-space-indented `  - [Headline](URL)`. Sort: BBG → Reuters → WSJ → FT → CNBC → SCMP → BBC → CNN → others. Omit sources with zero articles.]
 
 ---
-*[Past briefings](archive.md)*
 """)
     return "\n".join(lines)
 
