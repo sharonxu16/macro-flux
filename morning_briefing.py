@@ -1415,11 +1415,17 @@ def deploy_to_github_pages(report_md, window_end, briefing_type="morning"):
 
 
 def save_report(markdown, window_start, window_end, briefing_type="morning"):
-    """Save briefing to markdown file. Naming matches website: YYYY-MM-DD-{morning,afternoon}.md"""
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    """Save briefing to markdown file. Naming matches website: YYYY-MM-DD-{morning,afternoon}.md
+    On GitHub Actions where the local Obsidian path doesn't exist, saves to the repo docs/ instead."""
     date_str = window_end.strftime("%Y-%m-%d")
     filename = f"{date_str}-{briefing_type}.md"
-    path = OUTPUT_DIR / filename
+    try:
+        OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+        path = OUTPUT_DIR / filename
+    except FileNotFoundError:
+        # Running on GitHub Actions — save to repo docs/ as fallback
+        path = GITHUB_PAGES_REPO / "docs" / filename
+        path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(markdown, encoding="utf-8")
     print(f"\n[saved] {path}")
     return path
