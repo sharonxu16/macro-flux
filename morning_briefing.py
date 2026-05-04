@@ -287,6 +287,8 @@ FACTS vs AI ANALYSIS:
 > [!info] [AI Reasoning]
 > * **Base Case**: The escalation in Hormuz will likely keep Brent elevated near multi-week highs as the market reprices a permanent supply-risk premium, overriding the symbolic OPEC+ quota hike.
 > * **Tactical Trade**: **Long Brent front-month**; however, **PIVOT to flat/neutral** if "Project Freedom" concludes its first 24 hours without kinetic engagement, signaling the risk premium was overshot.
+>
+> Trade instrument rules: use spot, forwards, or options. NO NDFs (illiquid), no exotic structures. Keep it simple.
 
 MACRO STATE USAGE:
 - State provides continuity for AI Reasoning — it is NOT a source for fact sections
