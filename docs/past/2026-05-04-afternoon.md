@@ -41,8 +41,8 @@ Iranian state media says two missiles have struck a US navy destroyer to prevent
 China ordered companies to ignore US sanctions against five oil refiners accused of buying Iranian crude, an unprecedented pushback against American financial measures less than two weeks before a presidential summit, and the US action "violates international law and the basic norms of international relations", China's Ministry of Commerce said on Saturday ([SCMP 1](https://www.scmp.com/plus/news/china/diplomacy/article/3352361/china-says-ignore-us-sanctions-even-trump-visit-nears)). The sanctions cover a refinery in Dalian owned by Shanghai-listed Hengli Petrochemical, along with four independent "teapot" refineries ([BBG 3](https://www.bloomberg.com/news/articles/2026-05-04/china-s-rare-defiance-of-us-sanctions-sparks-showdown-over-banks-moqorgpw)). China and Indonesia have launched a new cross-border QR payment system, supporting Beijing's push to build a regional digital payments network as it pushes to internationalise the yuan and reduce dependence on the US dollar ([SCMP 2](https://www.scmp.com/economy/global-economy/article/3352360/china-indonesia-launch-cross-border-qr-payments-boost-global-yuan)).
 
 > [!info] [AI Reasoning]
-> * **Base Case**: The Blocking Rules activation introduces a binary legal risk for global banks operating in China, likely capping **CNH** upside near `7.25` and raising the premium for offshore FX hedging.
-> * **Tactical Trade**: **Short CNH via 1-month NDFs**; **PIVOT to long CNH** if the Xi-Trump summit produces a sanctions waiver for Chinese banks.
+> * **Base Case**: The Blocking Rules activation introduces a binary legal risk for global banks operating in China, likely capping **CNH** upside and raising the premium for offshore FX hedging.
+> * **Tactical Trade**: **Short CNH via forwards or options**; **PIVOT to long CNH** if the Xi-Trump summit produces a sanctions waiver for Chinese banks.
 
 ### 📌 BOK Hawkish Signal: Top Official Says It's "Time to Consider Rate Hike"
 

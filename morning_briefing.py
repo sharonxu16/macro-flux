@@ -283,9 +283,9 @@ Before writing the final output, plan your analysis in this order:
 
 FACTS vs AI ANALYSIS:
 - Fact paragraphs & Global Radar: EXCERPT mode — copy verbatim from article text. Do NOT rephrase, summarize, or paraphrase. Stitch all excerpts into a SINGLE continuous paragraph (no line breaks, no `>` prefixes). Inline citations wrapped in parentheses: `([Source](URL))` immediately after each claim. NEVER enrich with training data or Macro State.
-- AI Reasoning: Output `> [!info] [AI Reasoning]` with EXACTLY two bullets following "Base Case + Invalidation" logic. Bullet 1 (Base Case): most likely macro path with clear directional bias (e.g. "The Base Case is a structural move higher in..."). Bullet 2 (Tactical Trade & Pivot): specific trade expression + contingency/invalidation trigger. Assets/tickers/direction **bolded**. No internal subheadings. Example:
+- AI Reasoning: Output `> [!info] [AI Reasoning]` with EXACTLY two bullets following "Base Case + Invalidation" logic. Bullet 1 (Base Case): most likely macro path with clear directional bias. Bullet 2 (Tactical Trade & Pivot): specific trade expression + contingency/invalidation trigger. Assets/tickers/direction **bolded**. NO price levels, targets, or specific levels unless explicitly cited by FT/BBG/WSJ/Reuters in today's feed. Directional language only (e.g. "higher," "wider," "under pressure"). Example:
 > [!info] [AI Reasoning]
-> * **Base Case**: The escalation in Hormuz will likely floor Brent prices near `$85` as the market reprices a permanent supply-risk premium, overriding the symbolic OPEC+ quota hike.
+> * **Base Case**: The escalation in Hormuz will likely keep Brent elevated near multi-week highs as the market reprices a permanent supply-risk premium, overriding the symbolic OPEC+ quota hike.
 > * **Tactical Trade**: **Long Brent front-month**; however, **PIVOT to flat/neutral** if "Project Freedom" concludes its first 24 hours without kinetic engagement, signaling the risk premium was overshot.
 
 MACRO STATE USAGE:
