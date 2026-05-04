@@ -2,11 +2,13 @@
 
 Macro Flux: Your best macro news synthesizer. 50+ sources distilled and cross-referenced. Get informed in 90 seconds by asia open.
 
+**[AI Reasoning]** blocks are the only model-generated analysis. **Overview** is LLM synthesis — paraphrased narrative with cross-market connections. Everything else (**Fact**, **Global Radar**) is source excerpts with inline citations.
+
 ## Structure
 
-- **Overview** — 3-5 sentence synthesis with cross-market thesis
-- **Narrative Watch** — Key macro stories: Fact → Macro Lens → Potential Market Impact
-- **Global Radar** — Thematic scan: Economic Indicators → Central Banks → Geopolitics → Commodities → Equities
+- **Overview** — LLM-synthesized narrative, cross-market thesis
+- **Narrative Watch** — Key macro stories: **Fact** (source excerpts) → **[AI Reasoning]** (model: macro lens + tactical trade)
+- **Global Radar** — Source excerpts by theme: Economic Indicators → Central Banks → Geopolitics → Commodities → Equities
 - **Economic Calendar** — Next 24h high-impact releases, consensus/prior from TradingEconomics
 - **Full Reading List** — All referenced articles with source attribution
 
