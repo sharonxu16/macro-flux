@@ -1,8 +1,6 @@
 # About
 
-Markets favor the prepared mind.
-
-Macro Flux: One page. Twice daily. 47 sources scanned, cross-referenced, and distilled — purpose-built for traders focused on Greater China FX/Rates and cross-asset macro. Walk into the Asia open knowing what matters and what to do about it.
+Macro Flux: Your best macro news synthesizer. 50+ sources distilled and cross-referenced. Get informed in 90 seconds by asia open.
 
 ## Structure
 
@@ -10,7 +8,6 @@ Macro Flux: One page. Twice daily. 47 sources scanned, cross-referenced, and dis
 - **Narrative Watch** — Key macro stories: Fact → Macro Lens → Potential Market Impact
 - **Global Radar** — Thematic scan: Economic Indicators → Central Banks → Geopolitics → Commodities → Equities
 - **Economic Calendar** — Next 24h high-impact releases, consensus/prior from TradingEconomics
-- **What to Watch** — 1-2 indicators/events for the next 24-48h with HKT timing
 - **Full Reading List** — All referenced articles with source attribution
 
 ## Data Sources
