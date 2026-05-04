@@ -322,8 +322,7 @@ tags:
    | 09:30 AM | AU | Household Spending YoY | — | 4.6% |
    | 12:30 PM | AU | RBA Interest Rate Decision | 4.35% | 4.1% |
    Rules: Strip "Consensus:" and "Prior:" prefixes (raw numbers only). Use `—` for unavailable. Only include events from today's TradingEconomics feed.
-6. What to Watch (indicators + time; price levels only if sourced from today's feed)
-7. Full Reading List — 2-level nested Markdown bullets.
+6. Full Reading List — 2-level nested Markdown bullets.
    Level 1: bold source name `- **SourceName**`.
    Level 2: 2-space-indented clickable link `  - [Headline](URL)`.
    Structure each source block as:
@@ -1188,8 +1187,7 @@ Produce a markdown report for Obsidian following EXACTLY this structure and orde
 3. Narrative Watch
 4. Global Radar (includes Central Banks subsection)
 5. Economic Calendar — Next 24 Hours
-6. What to Watch
-7. Full Reading List
+6. Full Reading List
 
 ---
 
@@ -1284,12 +1282,6 @@ Use `backticks` for ALL numeric values and tickers: `$125/bbl`, `3.2%`, `$34.5B`
 | Time (HKT) | Rgn | Event | Est. | Prior |
 
 If the TRADINGECONOMICS table is empty or has no events, write: "No high-impact releases in the next 24 hours." Do NOT fill in events from memory or training data — ONLY use the provided table.
-
----
-
-## ⚡ What to Watch
-
-- [Event/indicator + expected time in HKT. Example: "US ISM Services PMI — 10:00 PM HKT. Watch for print vs 53.8 consensus." DO NOT mention price levels unless explicitly cited by FT/BBG/WSJ/Reuters or a named institution in today's feed.]
 
 ---
 
