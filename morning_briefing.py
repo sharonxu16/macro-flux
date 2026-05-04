@@ -283,12 +283,10 @@ Before writing the final output, plan your analysis in this order:
 
 FACTS vs AI ANALYSIS:
 - Fact paragraphs & Global Radar: EXCERPT mode — copy verbatim from article text. Do NOT rephrase, summarize, or paraphrase. Stitch all excerpts into a SINGLE continuous paragraph (no line breaks, no `>` prefixes). Inline citations wrapped in parentheses: `([Source](URL))` immediately after each claim. NEVER enrich with training data or Macro State.
-- AI Reasoning: Output `> [!info] [AI Reasoning]` with EXACTLY two bullets following "Base Case + Invalidation" logic. Bullet 1 (Base Case): most likely macro path with clear directional bias. Bullet 2 (Tactical Trade & Pivot): specific trade expression + contingency/invalidation trigger. Assets/tickers/direction **bolded**. NO price levels, targets, or specific levels unless explicitly cited by FT/BBG/WSJ/Reuters in today's feed. Directional language only (e.g. "higher," "wider," "under pressure"). Example:
+- AI Reasoning: Output `> [!info] [AI Reasoning]` with EXACTLY two bullets. Bullet 1 (Base Case): pure macro narrative — what this means for the policy/geopolitical landscape. NO market mentions, no asset names, no price direction. Bullet 2 (Tactical Trade & Pivot): directional view on specific assets — FX pairs **bolded** with direction only (e.g. **Long USD/CNH**, **Short KRW**), no instruments. NO price levels or targets unless explicitly cited by FT/BBG/WSJ/Reuters today. Example:
 > [!info] [AI Reasoning]
-> * **Base Case**: The escalation in Hormuz will likely keep Brent elevated near multi-week highs as the market reprices a permanent supply-risk premium, overriding the symbolic OPEC+ quota hike.
-> * **Tactical Trade**: **Long Brent front-month**; however, **PIVOT to flat/neutral** if "Project Freedom" concludes its first 24 hours without kinetic engagement, signaling the risk premium was overshot.
->
-> Trade instrument rules: use spot, forwards, or options. NO NDFs (illiquid), no exotic structures. Keep it simple.
+> * **Base Case**: The Hormuz escort operation raises the probability of a sustained US-Iran naval presence in the Strait, hardening the supply-risk premium and reducing the credibility of the ceasefire framework.
+> * **Tactical Trade**: **Long Brent**; however, **PIVOT to flat/neutral** if "Project Freedom" concludes its first 24 hours without kinetic engagement, signaling the risk premium was overshot.
 
 MACRO STATE USAGE:
 - State provides continuity for AI Reasoning — it is NOT a source for fact sections
@@ -1249,8 +1247,8 @@ The US military will support the launch of "Project Freedom" beginning Monday to
 Use `backticks` for ALL numeric values and tickers: `$125/bbl`, `3.2%`, `$34.5B`.]
 
 > [!info] [AI Reasoning]
-> * **Base Case**: [Most likely macro path with clear directional bias. E.g. "The Base Case is a structural move higher in..."]
-> * **Tactical Trade**: [Specific trade expression]; **PIVOT to [contingency]** if [invalidation trigger].
+> * **Base Case**: [Pure macro narrative — policy/geopolitical implication. NO markets, no assets.]
+> * **Tactical Trade**: [Directional view on specific assets, bolded, no instruments. E.g. **Long USD/CNH**]; **PIVOT to [contingency]** if [invalidation trigger].
 
 [Repeat for each priority theme.]
 
