@@ -125,6 +125,11 @@ RSS_FEEDS = {
     "SCMP_Asia":            "https://www.scmp.com/rss/3/feed",
     "KED_Global_KR":        "https://www.kedglobal.com/rss",
 
+    # Singapore — MAS (no direct RSS), CNA, Business Times via Google News
+    "MAS_GN":               "https://news.google.com/rss/search?q=site:mas.gov.sg&hl=en-US&gl=US&ceid=US:en&num=20",
+    "CNA_GN":               "https://news.google.com/rss/search?q=site:channelnewsasia.com+business+OR+economy+OR+MAS+OR+SGD+OR+monetary&hl=en-US&gl=US&ceid=US:en&num=20",
+    "BusinessTimes_GN":     "https://news.google.com/rss/search?q=site:businesstimes.com.sg&hl=en-US&gl=US&ceid=US:en&num=20",
+
     # Greater China macro (Chinese-language primary sources — via Google News)
     "WallstreetCN_GN":     "https://news.google.com/rss/search?q=site:wallstreetcn.com+macro+OR+央行+OR+汇率+OR+利率+OR+流动性&hl=zh-CN&gl=CN&ceid=CN:zh-Hans&num=50",
     "Caixin_GN":           "https://news.google.com/rss/search?q=site:caixin.com+economy+OR+%E5%AE%8F%E8%A7%82+OR+%E8%B4%A7%E5%B8%81+OR+%E8%B4%A2%E6%94%BF&hl=zh-CN&gl=CN&ceid=CN:zh-Hans&num=50",
@@ -160,6 +165,7 @@ HIGH_PRIORITY_KEYWORDS = [
     "PBOC", "People's Bank of China", "PBoC",
     "KRW", "won", "Bank of Korea", "BOK",
     "TWD", "Taiwan dollar", "CBC", "Taiwan central bank",
+    "SGD", "Singapore dollar", "MAS", "Monetary Authority of Singapore", "S$NEER",
 ]
 
 MEDIUM_PRIORITY_KEYWORDS = [
@@ -186,7 +192,7 @@ SYSTEM_PROMPT = """[Stage 1: Persona & Objective]
 
 ROLE: Senior macro strategist at a top-tier global macro hedge fund.
 AUDIENCE: Portfolio managers. 90-second read before the London open.
-FOCUS: China (RMB/CNH/HKD/PBOC), Korea (KRW/BOK), Taiwan (TWD/CBC), major global macro (Fed/ECB/BOJ/trade/commodities/geopolitics). Cover dominant global stories beyond Asia.
+FOCUS: China (RMB/CNH/HKD/PBOC), Korea (KRW/BOK), Taiwan (TWD/CBC), Singapore (SGD/MAS), major global macro (Fed/ECB/BOJ/trade/commodities/geopolitics). Cover dominant global stories beyond Asia.
 
 LANGUAGE:
 - Chinese sources (Caixin, Xinhua, KED, etc.) → output ORIGINAL Chinese
@@ -215,7 +221,9 @@ SOURCE MAPPING — Map feed labels to citation abbreviations:
 | AlJazeera_ME | Al Jazeera |
 | WallstreetCN_GN | WSJCN |
 | Caixin_GN | Caixin |
-| HKEJ_GN, CCTV_GN, US_CENTCOM, ISW_Assessments, EIA_Press, IEA_News, SP_Global_Commodities, Lloyds_List_Shipping | keep as-is |
+| CNA_GN | CNA |
+| BusinessTimes_GN | BT |
+| MAS_GN, HKEJ_GN, CCTV_GN, US_CENTCOM, ISW_Assessments, EIA_Press, IEA_News, SP_Global_Commodities, Lloyds_List_Shipping | keep as-is |
 
 SOURCE SEPARATION:
 - Western topics (Fed/ECB/US data/Middle East): ONLY English primary sources (FT, BBG, WSJ, Reuters, CNBC, BBC, CNN)
@@ -270,7 +278,7 @@ Before writing the final output, plan your analysis in this order:
 </scratchpad>
 
 FACTS vs AI ANALYSIS:
-- Fact paragraphs & Global Radar: EXCERPT mode — copy verbatim from article text. Do NOT rephrase, summarize, or paraphrase. Stitch all excerpts into a SINGLE continuous paragraph (no line breaks, no `>` prefixes). Inline citations: `[Source](URL)` immediately after each claim. NEVER enrich with training data or Macro State.
+- Fact paragraphs & Global Radar: EXCERPT mode — copy verbatim from article text. Do NOT rephrase, summarize, or paraphrase. Stitch all excerpts into a SINGLE continuous paragraph (no line breaks, no `>` prefixes). Inline citations wrapped in parentheses: `([Source](URL))` immediately after each claim. NEVER enrich with training data or Macro State.
 - AI Reasoning: Output `> [!info] [AI Reasoning]` with EXACTLY two bullets following "Base Case + Invalidation" logic. Bullet 1 (Base Case): most likely macro path with clear directional bias (e.g. "The Base Case is a structural move higher in..."). Bullet 2 (Tactical Trade & Pivot): specific trade expression + contingency/invalidation trigger. Assets/tickers/direction **bolded**. No internal subheadings. Example:
 > [!info] [AI Reasoning]
 > * **Base Case**: The escalation in Hormuz will likely floor Brent prices near `$85` as the market reprices a permanent supply-risk premium, overriding the symbolic OPEC+ quota hike.
@@ -323,8 +331,8 @@ tags:
    Sort: BBG → Reuters → WSJ → FT → CNBC → SCMP → BBC → CNN. Omit sources with zero articles.
 
 SOURCE ATTRIBUTION:
-Every factual claim ends with linked citations using article URLs from today's feed. Format: `[SourceAbbrev](URL)` — standard Markdown link. Same source multiple articles: number them without repeating source name — `[BBG 1](URL1), [2](URL2)`. Multiple sources: `[BBG 1](URL1), [2](URL2), [Reuters](URL3)`. Example in flowing text:
-  Oil slipped on the "Project Freedom" announcement [BBG](URL). A bulk carrier was attacked by multiple small craft 11 nautical miles west of Sirik, Iran [Al Jazeera](URL). Minneapolis Fed President Kashkari said the Iran war limits the Fed's ability to provide rate guidance [Reuters](URL).
+Every factual claim ends with linked citations using article URLs from today's feed. Format: `([SourceAbbrev](URL))` — standard Markdown link wrapped in parentheses. Same source multiple articles: number them without repeating source name — `([BBG 1](URL1), [2](URL2))`. Multiple sources: `([BBG 1](URL1), [2](URL2), [Reuters](URL3))`. Example in flowing text:
+  Oil slipped on the "Project Freedom" announcement ([BBG](URL)). A bulk carrier was attacked by multiple small craft 11 nautical miles west of Sirik, Iran ([Al Jazeera](URL)). Minneapolis Fed President Kashkari said the Iran war limits the Fed's ability to provide rate guidance ([Reuters](URL)).
 Every URL from today's feed — no substitutions, no homepage links. No colons, no "Source:" labels. Preference order: FT > BBG > WSJ > Reuters > CNBC > SCMP > BBC > CNN > others.
 
 BOLD:
@@ -1193,7 +1201,7 @@ Then continue with the header below.]
 ---
 
 > [!abstract] Overview
-> [A single paragraph of 3-5 sentences. No bullet points, no lists, NO AI Reasoning. This is pure synthesis — save analysis for Narrative Watch. RANK by macro market impact, NOT by headline volume. Lead with the event that has the largest transmission to rates, FX, commodities, or broad equity indices. If a PM reads only the first sentence, it must capture the dominant macro driver. Final sentence: the ONE cross-market thread connecting the day.]
+> [A single paragraph of 3-5 sentences. No bullet points, no lists, NO citations, NO source links, NO AI Reasoning. This is pure synthesis — save citations and analysis for Narrative Watch. RANK by macro market impact, NOT by headline volume. Lead with the event that has the largest transmission to rates, FX, commodities, or broad equity indices. If a PM reads only the first sentence, it must capture the dominant macro driver. Final sentence: the ONE cross-market thread connecting the day.]
 >
 > [IMPORTANT: Each line of the Overview content MUST start with `> ` to keep the callout box intact in MkDocs. Example:
 > > [!abstract] Overview
@@ -1209,15 +1217,15 @@ Then continue with the header below.]
 
 **HEADLINE TONE — Avoid hyperbole**: Do NOT use words like "crisis", "collapse", "broken", "meltdown", "panic", "plunge", "soar" unless the event is genuinely extreme (e.g. multi-sigma move, first occurrence in decades, systemic breakdown). Use measured language: "decline" not "plunge", "tightening" not "squeeze", "divergence" not "fracture". The exception: when a genuine historical extreme occurs, call it what it is.
 
-**FACT — Direct excerpt only**: Copy key sentences verbatim from source articles. Each excerpt on its own `>` line. No rephrasing, no summarizing, no connecting commentary. Group excerpts from the same story under one `### 📌` block. If two articles don't share a direct factual thread, they belong in separate Narrative Watch blocks. At the end of each block, all citations on one line: `[Source 1](URL), [2](URL), [OtherSource](URL)`.]
+**FACT — Direct excerpt only**: Copy key sentences verbatim from source articles. Each excerpt on its own `>` line. No rephrasing, no summarizing, no connecting commentary. Group excerpts from the same story under one `### 📌` block. If two articles don't share a direct factual thread, they belong in separate Narrative Watch blocks. At the end of each block, all citations on one line wrapped in parentheses: `([Source 1](URL), [2](URL), [OtherSource](URL))`.]
 
 **SOURCE URL RULES FOR GN FEEDS**: Articles from Google News RSS feeds (Reuters_GN, WSJ_GN, CNN_GN, Caixin_GN) have URLs starting with `https://news.google.com/rss/articles/`. These are Google News article pages that display the full article text. They are FUNCTIONAL links that readers can click to read the article. Use them as citation links when no direct source URL is available. NEVER fabricate a generic homepage URL like `https://www.reuters.com/` — this is worse than a Google News link. If an article has both a GN URL and a direct source URL, prefer the direct source URL. If only a GN URL is available, use it.]
 
 ### 📌 [Theme / Headline]
 
 **Fact**
-[Direct excerpts from source articles — copy verbatim, no rephrasing. Stitch all extracted sentences into a SINGLE continuous paragraph — no line breaks, no `>` prefixes, no hard returns between excerpts. Inline citations: `[Source 1](URL1)` immediately after each excerpted claim. Same source multiple articles: number them — `[Source 1](URL1), [2](URL2)`. Example:
-The US military will support the launch of "Project Freedom" beginning Monday to guide ships through the Strait of Hormuz [US_CENTCOM](URL). A bulk carrier was attacked by multiple small craft 11 nautical miles west of Sirik, Iran, according to UKMTO [Al Jazeera 1](URL1). The crew is safe and no environmental impact has been reported [Al Jazeera 2](URL2). Iran denounced the mission as a ceasefire violation [Al Jazeera 3](URL3).
+[Direct excerpts from source articles — copy verbatim, no rephrasing. Stitch all extracted sentences into a SINGLE continuous paragraph — no line breaks, no `>` prefixes, no hard returns between excerpts. Inline citations wrapped in parentheses: `([Source 1](URL1))` immediately after each excerpted claim. Same source multiple articles: number them — `([Source 1](URL1), [2](URL2))`. Example:
+The US military will support the launch of "Project Freedom" beginning Monday to guide ships through the Strait of Hormuz ([US_CENTCOM](URL)). A bulk carrier was attacked by multiple small craft 11 nautical miles west of Sirik, Iran, according to UKMTO ([Al Jazeera 1](URL1)). The crew is safe and no environmental impact has been reported ([Al Jazeera 2](URL2)). Iran denounced the mission as a ceasefire violation ([Al Jazeera 3](URL3)).
 Use `backticks` for ALL numeric values and tickers: `$125/bbl`, `3.2%`, `$34.5B`.]
 
 > [!info] [AI Reasoning]
@@ -1230,7 +1238,7 @@ Use `backticks` for ALL numeric values and tickers: `$125/bbl`, `3.2%`, `$34.5B`
 
 ## 🌍 Global Radar
 
-**EXCERPT mode — direct quotes from articles, no rephrasing. Stitch excerpts into a single continuous line per bullet, inline citation `[Source](URL)`. No `>` prefixes, no line breaks. Use ONLY categories below that have content, in this EXACT order. No overlap with Narrative Watch.**
+**EXCERPT mode — direct quotes from articles, no rephrasing. Stitch excerpts into a single continuous line per bullet, inline citation wrapped in parentheses `([Source](URL))`. No `>` prefixes, no line breaks. Use ONLY categories below that have content, in this EXACT order. No overlap with Narrative Watch.**
 
 ### 📊 Economic Indicators
 [Each bullet: one continuous excerpt line with `[Source](URL)` at end. Hard data: inflation, employment, PMIs, GDP. Soft signals: recession warnings, central banker growth assessments, private-sector credit data, structural trade shifts. Country filter: US, CN, HK, EZ/EU, GB, JP, KR, TW, SG, AU.]
@@ -1325,7 +1333,7 @@ def _generate_archive_md(docs_dir):
         stem = f.stem  # e.g. "2026-05-04-morning"
         parts = stem.rsplit("-", 1)
         date_str = parts[0]
-        is_afternoon = 0 if len(parts) > 1 and parts[1] == "afternoon" else 1
+        is_afternoon = 1 if len(parts) > 1 and parts[1] == "afternoon" else 0
         return (date_str, is_afternoon)
     files.sort(key=_archive_sort_key, reverse=True)
     lines = ["# Past Macro Flux", ""]
