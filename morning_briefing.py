@@ -191,8 +191,17 @@ OPEN_SOURCES = {"BBC_Business", "SCMP_Econ", "SCMP_China_Econ", "SCMP_Asia", "Ya
 SYSTEM_PROMPT = """[Stage 1: Persona & Objective]
 
 ROLE: Senior macro strategist at a top-tier global macro hedge fund.
-AUDIENCE: Portfolio managers. 90-second read before the London open.
+AUDIENCE: Portfolio managers. 90-second read.
 FOCUS: China (RMB/CNH/HKD/PBOC), Korea (KRW/BOK), Taiwan (TWD/CBC), Singapore (SGD/MAS), major global macro (Fed/ECB/BOJ/trade/commodities/geopolitics). Cover dominant global stories beyond Asia.
+
+AFTERNOON BRIEFING RULES (when user message includes MORNING BRIEFING block):
+- Your readers ALREADY received the morning report. Do NOT repeat its content.
+- Only include a story if there is a MATERIAL intraday update: new data, official statement, significant price move (>1%), escalation/de-escalation, or a new angle not in the morning report.
+- If nothing changed since morning, DROP the story entirely — silence is better than filler.
+- Lead with intraday price action, order flow, and incremental news that broke after HKT 08:00.
+- The Overview MUST reflect the INTRADAY session — what moved today, not what happened overnight.
+- Narrative Watch: 2-3 stories MAX. If the morning already covered the major themes and nothing new happened, fewer stories is correct.
+- Global Radar: only items with NEW developments since the morning. Skip categories entirely if nothing updated.
 
 LANGUAGE:
 - Chinese sources (Caixin, Xinhua, KED, etc.) → output ORIGINAL Chinese
@@ -1039,14 +1048,33 @@ def build_prompt(articles, window_start_str, window_end_str, window_start, windo
         return dt.strftime("%b %-d %I%p").replace(" 0", " ")
     display_range = f"{_fmt_dt(window_start)} to {_fmt_dt(window_end)} HKT"
     greeting = "Good morning." if briefing_type == "morning" else "Good afternoon."
+    briefing_label = "morning" if briefing_type == "morning" else "afternoon"
     lines = [
         f"News feed covering {window_start_str} to {window_end_str} (HKT).",
         "Source count and priority breakdown at the top, followed by every article.",
-        "Distill this into a structured morning briefing.",
+        f"Distill this into a structured {briefing_label} briefing.",
         "",
         "---",
         "",
     ]
+
+    # For afternoon briefings, inject the morning report so the LLM knows what was already covered
+    if briefing_type == "afternoon":
+        morning_report = _load_morning_report(window_end)
+        if morning_report:
+            lines.append("## MORNING BRIEFING (already published — do NOT repeat)")
+            lines.append("The morning report below was already sent to readers. Your afternoon report")
+            lines.append("MUST focus on NEW intraday developments. For stories already in the morning")
+            lines.append("report: only include if there is a MATERIAL update (new data point, significant")
+            lines.append("price move, official statement, or escalation/de-escalation). If nothing material")
+            lines.append("changed, drop the story entirely — do not rephrase or re-summarize it.")
+            lines.append("Lead with TODAY's intraday price action, flow-driven narratives, and incremental")
+            lines.append("news that broke after 08:00 HKT. The morning already covered the overnight.")
+            lines.append("")
+            lines.append(morning_report)
+            lines.append("")
+            lines.append("---")
+            lines.append("")
 
     # Source statistics
     from collections import Counter
@@ -1341,6 +1369,24 @@ def _generate_archive_md(docs_dir):
         stem = f.stem  # e.g. "2026-05-04-morning"
         lines.append(f"- [{stem}](past/{stem}.md)")
     (docs_dir / "archive.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+
+def _load_morning_report(window_end):
+    """Load today's morning report for afternoon briefing context.
+    Returns the markdown text (stripped of Full Reading List to save tokens), or None."""
+    date_str = window_end.strftime("%Y-%m-%d")
+    morning_path = GITHUB_PAGES_REPO / "docs" / "past" / f"{date_str}-morning.md"
+    if not morning_path.exists():
+        return None
+    text = morning_path.read_text(encoding="utf-8")
+    # Strip Full Reading List section (long, not needed for context)
+    frl_marker = "## 📚 Full Reading List"
+    if frl_marker in text:
+        text = text[:text.index(frl_marker)].strip()
+    # Truncate if still too long (keep under ~3000 chars for context window)
+    if len(text) > 4000:
+        text = text[:4000] + "\n\n[...truncated for context window...]"
+    return text
 
 
 def _load_macro_state():
