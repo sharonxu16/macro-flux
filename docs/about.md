@@ -12,7 +12,7 @@ Macro Flux: Your best macro news synthesizer. 50+ sources distilled and cross-re
 
 ## Data Sources
 
-47 sources scanned every window: 40 RSS feeds + 7 scraped pages.
+50 sources scanned every window: 43 RSS feeds + 7 scraped pages.
 
 ### Central Banks & Official
 
@@ -27,6 +27,7 @@ Macro Flux: Your best macro news synthesizer. 50+ sources distilled and cross-re
 | Central Bank of the Republic of China / Taiwan (CBC) | Press releases, TWD policy |
 | San Francisco Fed | Research & speeches |
 | People's Bank of China (PBOC) | Open market operations, MLF, LPR |
+| Monetary Authority of Singapore (MAS) | Press releases, monetary policy, S$NEER |
 | Hong Kong Monetary Authority (HKMA) | Press releases |
 
 ### Global Financial Media
@@ -56,6 +57,8 @@ Macro Flux: Your best macro news synthesizer. 50+ sources distilled and cross-re
 | 新华网 (Xinhua) | China economy |
 | 中国财经 (ChinaFinance) | China financial news |
 | 国家统计局 (NBSC) | Official data releases |
+| CNA (Channel NewsAsia) | Singapore business & economy |
+| The Business Times | Singapore finance & markets |
 
 ### Geopolitics & War Monitor
 
