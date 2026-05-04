@@ -42,7 +42,7 @@ China has ordered companies throughout the country not to comply with US sanctio
 
 > [!info] [AI Reasoning]
 > * **Base Case**: The "Blocking Rules" signal a new normal of selective financial decoupling, putting upward pressure on **USD/CNH** as capital flow risks rise.
-> * **Tactical Trade**: **Long USD/CNH 3-month NDF**; **PIVOT to neutral** if US refrains from immediate secondary sanctions, suggesting diplomatic space ahead of the summit.
+> * **Tactical Trade**: **Long USD/CNH** via forwards or options; **PIVOT to neutral** if US refrains from immediate secondary sanctions, suggesting diplomatic space ahead of the summit.
 
 ### 📌 Central Bank Divergence: RBA Hawkish Outlier, ECB Recession Fears, Fed Hemmed In
 
