@@ -2,7 +2,7 @@
 
 Markets favor the prepared mind.
 
-Macro Flux: One page. Twice daily. 47 sources scanned, cross-referenced, and distilled — so you walk into the Asia open knowing what matters and what to do about it.
+Macro Flux: One page. Twice daily. 47 sources scanned, cross-referenced, and distilled — purpose-built for traders focused on Greater China FX/Rates and cross-asset macro. Walk into the Asia open knowing what matters and what to do about it.
 
 ## Structure
 
