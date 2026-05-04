@@ -102,16 +102,6 @@ Australia's central bank is set to entrench its status as a hawkish outlier with
 
 ---
 
-## ⚡ What to Watch
-
-- **Iran "Project Freedom" launch** — Monday; monitor for first kinetic engagement. Successfully guided first ship or clash? Real-time risk repricing for **Brent** and **shipping equities**.
-- **RBA rate decision** — Tuesday 12:30 PM HKT. Expected `4.35%` (third straight hike). Guidance on future pace is key — will the RBA signal a pause?
-- **ECB Survey of Professional Forecasters** — 4:00 PM HKT. Will it confirm the "real and justified" recession concern flagged by Stournaras? Recession signal would pressure **EUR**.
-- **China "Blocking Rules" implementation** — watch for US reaction; any retaliation or secondary sanctions against Chinese banks could spike **USD/CNH**.
-- **US Factory Orders** (10:00 PM HKT) — consensus `0.5%` MoM. A miss would add to recession narrative and support rate-cut bets.
-
----
-
 ## 📚 Full Reading List
 
 **BBG**
