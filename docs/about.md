@@ -27,7 +27,12 @@ More sources being added.
 
 ## Delivery
 
-08:30 HKT. Overnight window (18:00–08:00).
+Twice daily, fully automated:
 
-AI-driven automated pipeline: 30+ sources → LLM synthesis → this page.
+| Edition | Window | Delivery |
+|---|---|---|
+| **Morning** | 18:00–08:00 HKT (overnight) | ~08:30 HKT |
+| **Afternoon** | 08:00–18:00 HKT (intraday) | ~18:30 HKT |
+
+AI-driven pipeline: 30+ sources → LLM synthesis → this page.
 
