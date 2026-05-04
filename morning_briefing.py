@@ -1265,7 +1265,7 @@ Use `backticks` for ALL numeric values and tickers: `$125/bbl`, `3.2%`, `$34.5B`
 [Each bullet: `**Bank Name** — excerpt text [Source](URL)`. Only banks with new announcements. ORDER: PBOC → Fed → BOJ → BOK → CBC → RBA → ECB → BOE → others.]
 
 ### 🌐 Geopolitics & Policy
-[Each bullet: one continuous excerpt line with `[Source](URL)` at end. Trade, sanctions, military, FX regime, sovereign/fiscal, capital controls, diplomacy. Every item must have clear market/macro transmission.]
+[Each bullet: one continuous excerpt line with `[Source](URL)` at end. Trade, sanctions, military, FX regime, sovereign/fiscal, capital controls, diplomacy. Every item must have clear market/macro transmission. NO corporate M&A, NO single-stock stories, NO earnings — those go in Equities or skip.]
 
 ### 🛢️ Commodities
 [Each bullet: one continuous excerpt line with `[Source](URL)` at end. Oil, gas, metals, ags — supply/demand, inventory, price moves with macro driver.]
