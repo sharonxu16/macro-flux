@@ -1422,8 +1422,8 @@ def save_report(markdown, window_start, window_end, briefing_type="morning"):
     try:
         OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
         path = OUTPUT_DIR / filename
-    except FileNotFoundError:
-        # Running on GitHub Actions — save to repo docs/ as fallback
+    except OSError:
+        # Running on GitHub Actions (no /Users/ on Linux) — save to repo docs/ as fallback
         path = GITHUB_PAGES_REPO / "docs" / filename
         path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(markdown, encoding="utf-8")
