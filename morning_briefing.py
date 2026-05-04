@@ -925,7 +925,7 @@ def _fetch_one_feed(name, url, window_start, window_end):
         pub_dt = _parse_published(entry)
 
         # Keep if within [window_start, window_end]; always keep if date unparseable
-        if pub_dt is not None and (pub_dt < window_start or pub_dt > window_end):
+        if pub_dt is not None and pub_dt.year >= 2020 and (pub_dt < window_start or pub_dt > window_end):
             continue
         in_window += 1
 
