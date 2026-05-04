@@ -9,7 +9,7 @@
 ---
 
 > [!abstract] Overview
-The Iran war's commodity shock is the dominant macro driver this window, with Detroit carmakers warning of a `$5bn` cost hit, clean energy stocks drawing record inflows, and Middle East states scrambling for overland bypass routes around Hormuz. Taiwan's president defied China by landing in Eswatini, drawing Beijing's sharp condemnation, while the Philippines accused Chinese ships of illegal marine research in a fresh South China Sea flare-up. The connecting thread: supply-chain disruption — from oil logistics to rare earths to automotive inputs — is now the market's central pricing problem, reinforcing stagflationary tail risks across EM and DM assets.
+> The Iran war's commodity shock is the dominant macro driver this window, with Detroit carmakers warning of a `$5bn` cost hit, clean energy stocks drawing record inflows, and Middle East states scrambling for overland bypass routes around Hormuz. Taiwan's president defied China by landing in Eswatini, drawing Beijing's sharp condemnation, while the Philippines accused Chinese ships of illegal marine research in a fresh South China Sea flare-up. The connecting thread: supply-chain disruption — from oil logistics to rare earths to automotive inputs — is now the market's central pricing problem, reinforcing stagflationary tail risks across EM and DM assets.
 
 ---
 
