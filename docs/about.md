@@ -2,7 +2,7 @@
 
 Markets favor the prepared mind.
 
-Macro Flux: One page. Twice daily. 41 sources scanned, cross-referenced, and distilled — so you walk into the Asia open knowing what matters and what to do about it.
+Macro Flux: One page. Twice daily. 47 sources scanned, cross-referenced, and distilled — so you walk into the Asia open knowing what matters and what to do about it.
 
 ## Structure
 
@@ -15,7 +15,7 @@ Macro Flux: One page. Twice daily. 41 sources scanned, cross-referenced, and dis
 
 ## Data Sources
 
-41 sources scanned every window: 34 RSS feeds + 7 scraped pages.
+47 sources scanned every window: 40 RSS feeds + 7 scraped pages.
 
 ### Central Banks & Official
 
@@ -31,8 +31,6 @@ Macro Flux: One page. Twice daily. 41 sources scanned, cross-referenced, and dis
 | San Francisco Fed | Research & speeches |
 | People's Bank of China (PBOC) | Open market operations, MLF, LPR |
 | Hong Kong Monetary Authority (HKMA) | Press releases |
-| EIA (US Energy Information Administration) | Today in Energy — daily supply/inventory analysis |
-| IEA (International Energy Agency) | Global demand/supply outlooks, emergency stockpiles |
 
 ### Global Financial Media
 
@@ -98,5 +96,5 @@ Twice daily, fully automated:
 | **Morning** | 18:00–08:00 HKT (overnight) | ~08:30 HKT |
 | **Afternoon** | 08:00–18:00 HKT (intraday) | ~18:30 HKT |
 
-AI-driven pipeline: 41 sources → LLM synthesis → this page.
+AI-driven pipeline: 47 sources → LLM synthesis → this page.
 
