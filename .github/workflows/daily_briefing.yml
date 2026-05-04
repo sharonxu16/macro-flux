@@ -1,0 +1,62 @@
+name: Daily Macro Briefing
+
+on:
+  schedule:
+    # HKT 8:05 AM = UTC 0:05, HKT 6:05 PM = UTC 10:05
+    - cron: '5 0,10 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Determine briefing type
+        id: type
+        run: |
+          HOUR=$(date -u +%H)
+          if [ "$HOUR" -lt 6 ]; then
+            echo "flag=--morning" >> $GITHUB_OUTPUT
+            echo "label=morning" >> $GITHUB_OUTPUT
+          else
+            echo "flag=--afternoon" >> $GITHUB_OUTPUT
+            echo "label=afternoon" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Generate briefing
+        env:
+          ANTHROPIC_AUTH_TOKEN: ${{ secrets.ANTHROPIC_AUTH_TOKEN }}
+          BRIEFING_REPO_PATH: ${{ github.workspace }}
+        run: python morning_briefing.py ${{ steps.type.outputs.flag }}
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto-generate ${{ steps.type.outputs.label }} briefing for $(date -u +'%Y-%m-%d')"
+            git push origin main
+          fi
+
+      - name: Deploy to GitHub Pages
+        run: |
+          pip install mkdocs-material mkdocs-callouts
+          mkdocs gh-deploy --force
