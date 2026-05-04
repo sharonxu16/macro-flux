@@ -2,8 +2,6 @@
 
 Macro Flux: Your best macro news synthesizer. 50+ sources distilled and cross-referenced. Get informed in 90 seconds by asia open.
 
-**[AI Reasoning]** blocks are the only model-generated analysis. **Overview** is LLM synthesis — paraphrased narrative with cross-market connections. Everything else (**Fact**, **Global Radar**) is source excerpts with inline citations.
-
 ## Structure
 
 - **Overview** — LLM-synthesized narrative, cross-market thesis
