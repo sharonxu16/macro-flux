@@ -62,10 +62,6 @@ Indian Prime Minister Narendra Modi’s ruling Hindu nationalist party on Monday
 > * **Base Case**: The West Bengal victory strengthens Modi’s political capital for contentious second-term reforms, including a uniform civil code and accelerated infrastructure spending, reinforcing India’s structural growth narrative.
 > * **Tactical Trade**: **Long INR** on reform optimism; **Long India equities** (via Nifty futures); **PIVOT to neutral** if the victory triggers a populist fiscal expansion.
 
-> [!tip] ⚡ [AI Reasoning] What to Watch
-> * **RBA Decision (12:30 PM HKT)**: The market expects a `4.35%` rate, a `25bp` hike from `4.1%`. A hawkish hold—or a smaller hike—given the oil shock stagflation risk would be a dovish surprise. A full `25bp` hike is the base case.
-> * **ISM Services PMI / JOLTs (10:00 PM HKT)**: Services PMI expected at `53.7` and JOLTs at `6.83M`. A miss on services could amplify the recession narrative; a strong JOLTs print would reinforce the Fed’s “well positioned” bias.
-> * **Trump-Xi Summit Preparation**: Bessent’s public pressure on China over Iran is a pre-negotiation signal. Any leaks about the summit agenda will directly move USD/CNH and Brent.
 
 ---
 
