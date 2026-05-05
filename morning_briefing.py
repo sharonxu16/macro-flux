@@ -361,8 +361,6 @@ TIGHTNESS CONSTRAINTS:
 - No preamble, no academic hedging, no defining basic concepts
 - No em dashes. Cut all redundancies.
 
-HIGH-CONVICTION SCENARIOS: Surface with > [!tip] ⚡ [AI Reasoning] What to Watch
-
 <state_update>
 After the Full Reading List, output updated state in this XML block (stripped before publishing):
 ## Active Narratives (max 4 — drop stale, add new)
@@ -1244,7 +1242,7 @@ Then continue with the header below.]
 
 **HEADLINE ANTI-HALLUCINATION**: Every claim in the `### 📌` headline MUST appear in at least one Fact citation below. No unsourced directional moves (e.g. "CNH fall" requires a cited CNH article), no unsourced country names, no synthesized narratives. If only KRW and JPY moved, write "KRW, JPY weaken" — do NOT add CNH or TWD.
 
-**FACT — Direct excerpt only**: Copy key sentences verbatim from source articles. Each excerpt on its own `>` line. No rephrasing, no summarizing, no connecting commentary. Group excerpts from the same story under one `### 📌` block. If two articles don't share a direct factual thread, they belong in separate Narrative Watch blocks. At the end of each block, all citations on one line wrapped in parentheses: `([Source 1](URL), [2](URL), [OtherSource](URL))`.]
+**FACT — Direct excerpt only**: Copy key sentences verbatim from source articles. Each excerpt on its own `>` line. No rephrasing, no summarizing, no connecting commentary. Group excerpts from the same story under one `### 📌` block. If two articles don't share a direct factual thread, they belong in separate Narrative Watch blocks. Inline citations are sufficient — do NOT add a separate citation line at the end of the block.]
 
 **SOURCE URL RULES FOR GN FEEDS**: Articles from Google News RSS feeds (Reuters_GN, WSJ_GN, CNN_GN, Caixin_GN) have URLs starting with `https://news.google.com/rss/articles/`. These are Google News article pages that display the full article text. They are FUNCTIONAL links that readers can click to read the article. Use them as citation links when no direct source URL is available. NEVER fabricate a generic homepage URL like `https://www.reuters.com/` — this is worse than a Google News link. If an article has both a GN URL and a direct source URL, prefer the direct source URL. If only a GN URL is available, use it.]
 
@@ -1265,7 +1263,7 @@ Use `backticks` for ALL numeric values and tickers: `$125/bbl`, `3.2%`, `$34.5B`
 
 ## 🌍 Global Radar
 
-**EXCERPT mode — direct quotes from articles, no rephrasing. Stitch excerpts into a single continuous line per bullet, inline citation wrapped in parentheses `([Source](URL))`. No `>` prefixes, no line breaks. Use ONLY categories below that have content, in this EXACT order. No overlap with Narrative Watch.**
+**EXCERPT mode — direct quotes from articles, no rephrasing. Each excerpt on its OWN bullet line starting with `- `, inline citation wrapped in parentheses `([Source](URL))` at the end. One excerpt per bullet. Use ONLY categories below that have content, in this EXACT order. No overlap with Narrative Watch.**
 
 ### 📊 Economic Indicators
 [Each bullet: one continuous excerpt line with `[Source](URL)` at end. Hard data: inflation, employment, PMIs, GDP. Soft signals: recession warnings, central banker growth assessments, private-sector credit data, structural trade shifts. Country filter: US, CN, HK, EZ/EU, GB, JP, KR, TW, SG, AU.]
