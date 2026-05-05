@@ -1,26 +1,26 @@
 # Macro State — Last updated: 2026-05-05
 
 ## Active Narratives (max 4 — drop stale, add new)
-1. [DAY 67, LIVE FIRE] **Strait of Hormuz Direct Clash** — US reports sinking Iranian fast boats and shooting down missiles; Iran claims missile strikes on US warship (denied) and hits UAE oil port and South Korean vessel. Oil at `$115`, shipping at standstill. Kalshi sees normal traffic only by August.
-2. [ACTIVE] **China Sanctions Defiance** — China formally ordered non‑compliance with US sanctions on five refiners. Bessent pressed China to open the strait ahead of the Xi‑Trump summit.
-3. [ACTIVE] **ECB June Hike Lock‑In** — Nagel sees case for hike without marked inflation progress; Dombrovskis warns of stagflationary shock.
-4. [NEW] **EU‑US Trade War Escalation** — Trump administration to move forward with `25%` EU car tariffs; EU vows action but urges restraint.
+1. [DAY 67, LIVE FIRE] **Strait of Hormuz Direct Clash** — Iran strikes UAE oil port and SK vessel. US escorts Maersk vessel through strait. South Korea rebuffs Project Freedom. Brent elevated above $110.
+2. [ACTIVE] **HSBC Miss Weighs on HSI** — Q1 profit misses on fraud charge, Iran provisions. HSI falls >300 pts. CFO maintains RoTE 17% target but flags HK CRE weakness.
+3. [ACTIVE] **China Sanctions Defiance & EU Trade Weapon** — China invokes anti-sanctions law. EU proposes new trade tool for May 29.
+4. [NEW] **Asia EM FX Pressure** — IDR record low, INR record low, PHP inflation surge pressures BSP. BI and RBI intervene.
 
 ## What We're Tracking (max 5 — remove resolved)
-1. RBA rate decision today at 12:30 PM HKT — market expects a third hike to `4.35%`.
-2. US ISM Services PMI and JOLTs job openings at 10:00 PM HKT — key for Fed path.
-3. Trump's `25%` EU auto tariff — potential EU retaliation.
-4. Xi‑Trump summit next week — China sanctions defiance adds pre‑summit tension.
-5. Hormuz "Project Freedom" operational credibility — no US warship escort for merchant vessels.
+1. RBA hiked to 4.35% and signaled pause — watch Bullock's post-meeting tone for forward guidance.
+2. US ISM Services PMI and JOLTs at 10 PM HKT — key for Fed path.
+3. EU auto tariff threat and new overcapacity weapon — EU-China trade tension rising.
+4. Xi-Trump summit next week — SK rebuff of Project Freedom adds pre-summit friction.
+5. KR inflation data tomorrow (May 6) — key for BOK path and KRW.
 
 ## Open Questions (max 3)
-1. Will the US‑Iran ceasefire hold or is a protracted naval engagement underway? The direct fire exchange yesterday makes the ceasefire fragile.
-2. Can China's refusal to enforce US sanctions on Iranian oil derail the summit?
-3. How quickly will the RBA react to the energy shock? Today's decision may signal a pause or acceleration.
+1. Will the US-Iran ceasefire hold after the new direct fire exchange and UAE attack? The first US-escorted transit reduces blockade but the supply risk premium remains high.
+2. Can HK equities stabilize after HSBC's miss, or does this signal a broader earnings downgrade cycle for Asia banks?
+3. How will the RBA and BSP react to the inflation surge from the Iran war? Are they ahead or behind the curve?
 
 ## Key Levels (max 5 — only with today's source citations)
-- Brent: surged to `$115` intraday on the US‑Iran clash ([BBG](https://www.bloomberg.com/news/articles/2026-05-04/latest-oil-market-news-and-analysis-for-may-5))
-- Comex Gold: settled at `$4519.50`, down `2.38%` ([WSJ](https://news.google.com/rss/articles/CBMioAFBVV95cUxOcGJqU1JLVDFJTGotOGE2b2swUm9tOGtzSE54SzV1Z3lkbjFlNkhCeEFmMUI0UnVtNzNkUG1vSkNFNHRtT0dYbzFMWGtrY09Nc1EwTlh5MW94M050WmZSLVpkOEpvcnZYQ2NfYVB5UVh3eUJyaXNtWlQwNVR5WkhLckRLUTRoZ01vd1NuZWhVRlRETmpGU1JWai1jWXJoUVJF))
-- S&P 500: slipped `0.1%` from all‑time high ([Reuters](https://news.google.com/rss/articles/CBMinwFBVV95cUxQMFZzU0o4cVloeVB2Q3hOb0wzeHhFMDlGMkxsT3FFZDhLdjJnei1qcFp1NDFFaXhyZzRtTTRoVFBWbzZHSUo0aXZIQkV3b2pfMUloTUliaWg3RXBlSTVlN3daSHhQNEdqWDNXb1Uwa2prVXMtdFVOZ0EzMk5sLWlzSTFEa0JoNGt6LXJiRWRmUVRYbVVhTzNhZ3pNbnMwd0E))
-- AU RBA rate: consensus `4.35%` vs prior `4.1%` (from TradingEconomics)
-- US ISM Services PMI: est `53.7` vs prior `54.0` (from TradingEconomics)
+- HSI: fell more than 300 pts intraday, giving back Monday's gains ([BBG](https://www.bloomberg.com/news/live-blog/2026-05-05/ftse-100-live-iran-war-trump-oil-prices-pound-hsbc-bonds-gold-what-s-moving-uk-markets-right-now-markets-today-mos7ez9p))
+- Brent crude: eased but held above $110 intraday ([CNBC](https://www.cnbc.com/2026/05/05/oil-prices-today-wti-brent-iran-war-trump-hormuz.html))
+- USD/IDR: rupiah set a new record low, triggering BI intervention ([BBG](https://www.bloomberg.com/news/articles/2026-05-05/idr-usd-indonesia-intervenes-in-markets-as-rupiah-sets-new-record-low))
+- USD/INR: rupee fell to a record low ([BBG](https://www.bloomberg.com/news/articles/2026-05-05/rupee-at-record-low-as-analysts-dust-off-2013-rbi-playbook))
+- AU RBA cash rate: hiked to 4.35% from 4.1%, third consecutive 25bp move ([BBG](https://www.bloomberg.com/news/articles/2026-05-05/rba-delivers-third-straight-rate-hike-cementing-outlier-status))
