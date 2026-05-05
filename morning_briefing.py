@@ -1306,6 +1306,51 @@ If the TRADINGECONOMICS table is empty or has no events, write: "No high-impact 
 # Claude API
 # ---------------------------------------------------------------------------
 
+def _validate_markdown(report):
+    """Post-process LLM output to fix common markdown syntax errors."""
+    import re
+    fixes = 0
+
+    # 1. Fix unbalanced brackets in markdown links: count [ and ]( per line
+    lines = report.split("\n")
+    for i, line in enumerate(lines):
+        opens = line.count("[")
+        link_defs = line.count("](")
+        closes = line.count("]") - link_defs  # ] that are not part of link
+        if opens > closes + link_defs:
+            # Missing closing bracket somewhere
+            pass  # Too complex to auto-fix safely
+
+    # 2. Fix unclosed parenthesized citation groups: ([Source](URL), [2](URL). → missing )
+    # Pattern: ([Text](URL).  where the outer ( is not closed before next sentence
+    _fix_count = [0]
+    def _fix_unclosed_parens(text):
+        # Find patterns like: , [N](URL). NextSentence — missing ) after URL
+        # Matches: ([Source 1](URL), [2](URL).  → should be ([Source 1](URL), [2](URL)).
+        pattern = r'(\(\[[^\]]+\]\([^)]+\),\s*\[(\d+)\]\(([^)]+)\))\.(\s+[A-Z])'
+        while re.search(pattern, text):
+            text = re.sub(pattern, r'\1).\4', text)
+            _fix_count[0] += 1
+        # Also: ([Source 1](URL), [2](URL) NextWord
+        pattern2 = r'(\(\[[^\]]+\]\([^)]+\),\s*\[(\d+)\]\(([^)]+)\))(\s+[A-Z])'
+        while re.search(pattern2, text):
+            text = re.sub(pattern2, r'\1)\4', text)
+            _fix_count[0] += 1
+        return text
+
+    report = _fix_unclosed_parens(report)
+
+    # 3. Check for unbalanced backticks
+    backtick_count = report.count("`")
+    if backtick_count % 2 != 0:
+        print(f"  [validate] ⚠️ Odd number of backticks ({backtick_count}) — possible unclosed code span")
+
+    if _fix_count[0] > 0:
+        print(f"  [validate] Fixed {_fix_count[0]} markdown syntax issue(s)")
+
+    return report
+
+
 def call_claude(user_message):
     """Call Claude API via Anthropic SDK."""
     base_url = os.environ.get("ANTHROPIC_BASE_URL", "https://api.deepseek.com/anthropic").rstrip("/")
@@ -1617,6 +1662,9 @@ def main():
             report = report_body.strip()
     elif report:
         print("  [state] No <state_update> found in LLM output — state not updated")
+
+    # Post-processing: validate and fix common markdown issues
+    report = _validate_markdown(report)
 
     # Stage 3: Save + Deploy
     print("\n[3/3] Saving report...")
