@@ -41,6 +41,8 @@ jobs:
       - name: Generate briefing
         env:
           ANTHROPIC_AUTH_TOKEN: ${{ secrets.ANTHROPIC_AUTH_TOKEN }}
+          ANTHROPIC_BASE_URL: https://api.deepseek.com/anthropic
+          ANTHROPIC_MODEL: deepseek-v4-pro[1m]
           BRIEFING_REPO_PATH: ${{ github.workspace }}
         run: python morning_briefing.py ${{ steps.type.outputs.flag }}
 

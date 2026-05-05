@@ -176,7 +176,7 @@ MEDIUM_PRIORITY_KEYWORDS = [
 ]
 
 OUTPUT_DIR = Path("/Users/sharonxu/Library/Mobile Documents/iCloud~md~obsidian/Documents/Claude_Workspace/02_Morning_Reports/News")
-MODEL = "claude-sonnet-4-20250514"
+MODEL = os.environ.get("ANTHROPIC_MODEL", "claude-sonnet-4-20250514")
 MAX_OUTPUT_TOKENS = 16384
 FEED_TIMEOUT = 10  # seconds per feed
 MAX_AGE_HOURS = 48
