@@ -995,8 +995,19 @@ def fetch_all_feeds(window_start, window_end):
                     all_articles.append(a)
 
     if not all_articles:
-        print("[error] No articles fetched from any feed.", file=sys.stderr)
-        sys.exit(1)
+        print("[error] No articles fetched from any feed. Retrying once in 30s...", file=sys.stderr)
+        time.sleep(30)
+        # Retry once — GitHub Actions runners occasionally have cold-start network issues
+        for fut in as_completed(futures):
+            articles = fut.result()
+            for a in articles:
+                link = a["link"]
+                if link not in seen_urls:
+                    seen_urls.add(link)
+                    all_articles.append(a)
+        if not all_articles:
+            print("[error] Still no articles after retry. Exiting.", file=sys.stderr)
+            sys.exit(1)
 
     all_articles.sort(key=lambda a: (-a["priority"], a["source"], a["title"]))
 
@@ -1217,7 +1228,7 @@ Then continue with the header below.]
 ---
 
 > [!abstract] Overview
-> [A single paragraph of 3-5 sentences. No bullet points, no lists, NO citations, NO source links, NO AI Reasoning. This is pure synthesis — save citations and analysis for Narrative Watch. RANK by macro market impact, NOT by headline volume. Lead with the event that has the largest transmission to rates, FX, commodities, or broad equity indices. If a PM reads only the first sentence, it must capture the dominant macro driver. Final sentence: the ONE cross-market thread connecting the day.]
+> [A single paragraph of 3-5 sentences. No bullet points, no lists. HARD BAN: NO source names in parentheses — no `(FT)`, `(BBG)`, `(Reuters)`, no source abbreviations of any kind. NO markdown citation links. NO AI Reasoning. This is pure synthesis in your own words — citations and analysis go in Narrative Watch, never here. RANK by macro market impact, NOT by headline volume. Lead with the event that has the largest transmission to rates, FX, commodities, or broad equity indices. If a PM reads only the first sentence, it must capture the dominant macro driver. Final sentence: the ONE cross-market thread connecting the day.]
 >
 > [IMPORTANT: Each line of the Overview content MUST start with `> ` to keep the callout box intact in MkDocs. Example:
 > > [!abstract] Overview
