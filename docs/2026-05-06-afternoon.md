@@ -1,10 +1,10 @@
 ---
 tags:
-  - Macro/Iran_Diplomacy
-  - Macro/Inflation
+  - Macro/Hormuz_Blockade
+  - Macro/AI_Rally
   - Asset/Brent
   - Asset/KRW
-  - Trade/Long_KRW
+  - Trade/Short_Brent
 ---
 
 <div align="center">
@@ -20,75 +20,92 @@ tags:
 ---
 
 > [!abstract] Overview
-> Iran’s top diplomat met China’s Wang Yi in Beijing and jointly endorsed a new Gulf security framework while calling for the prompt reopening of the Strait of Hormuz, injecting a fresh diplomatic narrative into the fragile de‑escalation. Oil prices extended overnight losses on the diplomatic push, yet shipowners scrambled for workarounds as the suspended US escort mission underscored the persistent physical supply risk. South Korea’s won strengthened after a stronger‑than‑expected consumer price print hardened bets on further Bank of Korea tightening, adding a hawkish regional current even as peace hopes lifted risk sentiment. The Kospi vaulted through 7,000 for the first time and Samsung’s market cap crossed $1 trillion, capping a tech‑led surge that swept Asian equities. The day’s cross‑current threads the possibility of a US‑Iran breakthrough against the reality of elevated energy costs that are already driving up inflation from Seoul to London.
+> Hopes for an end to the Iran war surged intraday after Axios reported the US and Iran are closing in on a one‑page memo to halt hostilities, sending Brent briefly below $100 and triggering a powerful risk‑on sweep across all asset classes.
+> The Kospi rocketed 6.5% to a new record above 7,000, propelled by Samsung’s market cap crossing $1 trillion on AI euphoria and the peace trade, while global bonds rallied as collapsing oil crushed rate‑hike bets.
+> China’s services sector unexpectedly strengthened in April, and Hong Kong retail sales leaped 12.8%, reinforcing the regional resilience narrative even as US gasoline prices topped $4.50 per gallon.
+> The dominant cross‑market thread is the rapid unwinding of the Hormuz war premium on growing diplomatic conviction.
 
 ---
 
 ## 🔬 Narrative Watch
 
-### 📌 Wang Yi and Iran’s Araghchi back new Gulf security framework, urge prompt Hormuz reopening
+### 📌 US and Iran near one‑page peace memo; oil briefly slips below $100, risk assets soar
 
 **Fact**
-Iranian Foreign Minister Abbas Araghchi arrived in Beijing for talks with Chinese Foreign Minister Wang Yi, with the meeting coming a week before US President Donald Trump’s scheduled visit to the Chinese capital ([Reuters](https://news.google.com/rss/articles/CBMivwFBVV95cUxPb0VDMHNmUDVwaE91azZpc0U3TjIzTTZQTDExSFh3X2NfNEpCZ0NEeGxtUVJrM29WN2dzRUlUNEhsLWd5eUVJclFMT2hfcTF1cTIxdkREeGVaM3NJXzltTzRjQ09xaXRhaE5mbzN6Uk1UYlFNMmxveGNxSUtSYmNjVG9lM1dYMGh0bzhvRk5rNFJyc1dKdURva21GMDJ1WkNDTU9GVHFhclFOQjRVdm9vYTI2dDBnR0hPNlJpRnNoZw)). Wang told Araghchi that China backs “the establishment of a regional peace and security framework led by regional countries” and called for “the prompt resumption of shipping traffic through the Strait of Hormuz” ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3352590/chinese-fm-wang-yi-calls-swift-reopening-strait-hormuz)). Wang added that “the international community should support regional countries in resolving the strait issue” ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3352590/chinese-fm-wang-yi-calls-swift-reopening-strait-hormuz)). Araghchi stated that Iran wants a “comprehensive agreement” with the United States ([Reuters](https://news.google.com/rss/articles/CBMinwFBVV95cUxPYy04enE2RGhod3NneGVSTEo4STVXQThRT1FlQmE3YlpZSWtFejhyWHJwTnZEczB1VzVjWmdyRXpfZXFQRFYyUlR0WXBOWkludjExaV9YVWFOQlhJOHJrSndhdVZQZlVCMjMtbUp1bDFzOUhaN1NfVlFZTlhDeGY5b2hwcHRYQldpZUs2SkxjSVZIbzhjVGpOOFc5TERvNzA)). The UAR said Iran’s proposal signals willingness to negotiate, but Tehran’s foreign ministry continues to deny any recent missile or drone attacks on the UAE ([Reuters](https://news.google.com/rss/articles/CBMitgFBVV95cUxNeTMwVFFqRDBsTzlWTk9fZkljc3NJYl9hSkhrSkZxRVNfU1hMeWVGcXgzdThfZWhXaEJ5b1dkc3JfYldxZUJFNzFEaURzdXl3ZTZSakVRZFhYazJFLVIxMnBFb1ZzS3JrbjBVTm1XR3ZhVnNUeVdEejJsbDVMRko1a1BOQm5wYXpWY0dvWFNmVFFMXzhJWXRobm1Td0hISHhfcmwzWmFoUk1BbG5JMWNkekVYYzZZZw)).
+US and Iran are closing in on a one‑page memo to end the war, Axios reported, citing a Pakistani source confirming the two sides are converging on the memorandum ([Reuters 1](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUHNJTHhoVmFfcWpPdGF3TGhuT0pTSk54dkNBXzZtRnN0bDNMOEZTZDVxS0d3eHYyaFA1RWVfODNBWWU0T3lkSFlEY21Ob2pXZHNNRkNqTVdfMk1UMFZRVVduYlAxdmR6Q3hEWlppRUpGaFJ1elB0SEVaV0hCS3ZHWTdqNnI3aGtmQXJXbm5JODJOZ1lDckRxY01jUDFoZW9tRlFWSzR0eDU), [2](https://news.google.com/rss/articles/CBMiugFBVV95cUxQTUNaSDhtcHVHQmhDZFoxUS1UZWRKTFR2R1AyNm5vU0N4dmVwVzJQZ3pJcVZlOVgwUXZQcXY5Zk9XOWJfQVpiV3VJalNIX0hPOEJlOEVncHduQnFIbUUtVlJ1TUJzN2owUXBtYjhRSDd0OHRfZ2JhWVhua2xVTktYWlZBMkZMRUpKNWF1eUt3UWxHdEpBcHBfaHpNTUh5RldjdDVUclRPYjNueU9pY3VheHBRV0hGS2ZOUlE)). Oil briefly dropped below `$100` a barrel and gas slumped as Iran evaluated the new US proposal ([BBG](https://www.bloomberg.com/news/articles/2026-05-06/oil-slumps-after-report-us-and-iran-near-deal-to-end-war)). Stocks and bonds rallied after the Axios report, with Asian shares higher and global bonds gaining as energy prices tumbled and rate‑hike expectations eased ([Reuters 3](https://news.google.com/rss/articles/CBMivwFBVV95cUxOSC1BVllvVGxQMU92TjdJWHBQNGR3Mnp3RmluRmMwRE5EcmU3aDFacXRfbWRJQjJjTUtXNVFjX1R4M2MwaWltazd2RWhFN2phTV9vU2JHSDkyRXZtc0xOd2FxYzUzMUVuX0xhUFgtM1N6R0ZqeHM0OEt3bkJFMXRENllkN282X0hoUkptRWYxa0loVjJqZzljeHNSVmdsV2VDbzRrTlpNMmgwaDV3WEdiUklQcFRoMldLazVJRTVCQQ), [BBG 2](https://www.bloomberg.com/news/articles/2026-05-06/gilts-lead-bonds-higher-as-hopes-for-peace-curb-rate-hike-bets)). US gasoline prices topped `$4.50` per gallon for the first time since July 2022 as drivers faced continued strain from the protracted Middle East conflict ([BBG 3](https://www.bloomberg.com/news/articles/2026-05-06/us-gasoline-hits-4-50-nears-all-time-high-as-iran-fuel-crunch-grows)).
 
 > [!info] [AI Reasoning]
-> * **Base Case**: China is stepping into the diplomatic vacuum as the Hormuz standoff persists, positioning Xi’s pre‑summit leverage while offering Iran a face‑saving mechanism. A regionally framed security framework that avoids a US‑centric architecture raises the odds of a negotiated settlement but leaves near‑term incentive structures unchanged.
-> * **Tactical Trade**: **Long KRW/JPY** (diplomatic progress reduces tail‑risk oil premium and lifts risk‑on, but KRW gains are capped by the inflation‑hike channel); **PIVOT to flat/neutral** on Asia FX longs if Araghchi’s visit produces no concrete de‑escalation statement.
+> * **Base Case**: The one‑page memo represents the most concrete de‑escalation signal yet, raising the probability of a near‑term Strait of Hormuz reopening and unwinding the energy supply shock that has driven global inflation and Fed tightening bets.
+> * **Tactical Trade**: **Short Brent**; **Long KRW and CNH** on the risk‑on bid; **Long US Treasuries** as hawkish Fed repricing fades; **PIVOT to neutral** if Iranian officials reject the memo.
 
-### 📌 Oil extends losses as Trump pauses Hormuz mission, but shipowners scramble for workarounds
+### 📌 Kospi closes up 6.5% as Samsung joins trillion‑dollar club on AI‑peace double‑boost
 
 **Fact**
-Oil prices fell sharply after President Trump said the US military operation to guide ships through the Strait of Hormuz would be paused because “Great Progress has been made on a final agreement to end the war with Iran” ([CNBC](https://www.cnbc.com/2026/05/06/oil-prices-trump-pauses-strait-of-hormuz-escort-effort.html)). The suspension of the short‑lived US plan underscored the difficulty of securing the narrow waterway, leaving shipowners grappling for credible workarounds ([BBG Markets](https://www.bloomberg.com/news/articles/2026-05-06/shipowners-grapple-for-fixes-in-hormuz-after-trump-drops-plan)). The Strait remains largely empty with no new commercial ship crossings recorded, while a CMA CGM container ship was hit in the Strait of Hormuz, injuring crew ([Reuters](https://news.google.com/rss/articles/CBMinAFBVV95cUxPM2IwVlNkTldxSHk5VmRFYWtaVTdIOEJLeWU5RTJka1prZTBMbllzQWwyMVdwRU90eHhLeVNUZkdIZWZ6ZHdacnM5VUVMMzNLall0M2swb0RMWFAxZ2RGaWYxR3ZGTmdxSFhNODdWUzlXNlc4bTRNSWVCS0VCWk5hNDEydjhCeDEyMEVBWVZKcnB1UUpRa2pTMW5vVWo)). US Defense Secretary Pete Hegseth said the ceasefire with Iran remains in place ([Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/5/6/iran-war-live-trump-says-hormuz-operation-paused-amid-us-tehran-talks)).
+South Korea’s Kospi surged to a new all‑time high, finishing the day up nearly `6.5%`, breaking the `7,000` level ([CNBC 1](https://www.cnbc.com/2026/05/06/asia-markets-today-kospi-hang-seng-asx-trump-iran-deal-.html), [HKEJ](https://news.google.com/rss/articles/CBMipwJBVV95cUxNWVowSF9NZllBQ1JqYUR3OW1rOFNjd3NxUS1kdGRrQktTYUtVQ2hQekV0ZFNEYnJtVjY1ZHNoWnhKb0llUll2ZXR1MHBDYUY5Q05DUXItV0NMMU1YdXJBQnhCemxfRTFOdnZGWmpRNzNoc1BlaWJFUGV2Y0sweEhIX0c3QkU3cjhCSk55ZEZubE0wSU9KUVNsOE5kZ1RoRkNsTXh4RGFFOUtvUXVvemp1UEktMzlFS3lJM1NobTVmRVA1LVoyRnUwcHJZbEhuYzhIWGJ1VVJRTDhaNm15bFhSSUFsMVFsOVdsRmdDVjdrQ0tCNzJPWlRNU05DNnhiaC1zdkZHMV83a1g1bUhYRmUwYlloNkdJQ293bDNCQ1R5VEpjLTRaSkVr)). Samsung Electronics’ market capitalisation surpassed `$1 trillion` as shares surged over 15% amid AI euphoria and peace‑driven relief for energy‑importing sectors ([FT](https://www.ft.com/content/4239a9e1-854d-4ae1-9792-a4a11d7ae5e8), [CNBC 2](https://www.cnbc.com/2026/05/06/samsung-electronics-ai-chip-rally-kospi-record-1-trillion.html)). The rally was reinforced by a broad AI chip stock surge after AMD’s strong forecast and continued optimism around AI capital spending ([Reuters](https://news.google.com/rss/articles/CBMioAFBVV95cUxQN296bno0NDZNanFzM1pGZGlMZUUtMHlwOXlDZGdpWmN3eWpPLXlBWFZaVjdEWk1Hc01JbElGUlc4R3JqTDdieC1Bek9ERnVJX1lkNTE0Q1JfRkZmWlY0ZzFnUi0zNmpONTd5VXRKV1EydGlURTkzbUtSSUZiMHMyQmpHeEtTbU1XTzRnVEhhWHRCTGw5Y1J3QXNCU0xNeGhW)).
 
 > [!info] [AI Reasoning]
-> * **Base Case**: The physical supply chain is still broken. A ceasefire declaration is not a tanker‑clearing event, and the attack on the CMA CGM vessel reinforces the risk that any diplomatic headway will be undermined by unresolved operational security on the water.
-> * **Tactical Trade**: **Long Brent** calendar spreads to capture backwardation; **PIVOT to flat** if a verified commercial vessel successfully transits the Strait without incident, signaling a genuine risk shift.
+> * **Base Case**: The extraordinary single‑day gain reflects a market aggressively pricing the peace dividend for Korean manufacturing inputs and the structural AI chip boom, reinforcing the Kospi’s status as the region’s AI/peace proxy.
+> * **Tactical Trade**: **Long KRW**, **Long Kospi**; however, the pace of the rally leaves the index vulnerable to a sharp reversal if peace talks stall.
 
-### 📌 South Korean won surges on hot CPI, hardening BOK tightening bets
+### 📌 China services PMI unexpectedly expands; Hong Kong retail sales jump 12.8%
 
 **Fact**
-The South Korean won outperformed in Asian currency trade on Wednesday after data showed consumer price inflation accelerated more than expected, reinforcing expectations of additional Bank of Korea interest‑rate hikes ([Investing.com](https://www.investing.com/news/forex-news/asia-fx-gains-amid-iran-peace-hopes-skorean-won-outperforms-after-hot-cpi-4661661)). The Kospi index also jumped, climbing past `7,000` for the first time, boosted by the AI‑chip rally and broad risk‑on sentiment driven by US‑Iran peace hopes ([CNBC](https://www.cnbc.com/2026/05/06/asia-markets-today-kospi-hang-seng-asx-trump-iran-deal-.html)). The won’s advance was further supported by a broadly weaker dollar as optimism for a deal grew ([Reuters](https://news.google.com/rss/articles/CBMioAFBVV95cUxNaVNWSGx0a2YxMGZVQjAxMDNDSUxsaXFsMWU4Z1VGNDJWRmRyMkxaUzZjczVBOUVxcjI0Wkdib3FoWUNwRkJyZG1YWjVSSFlQamZXSlNRT0R5WE12eWUtTWVqbngxQktFSnRxel80ZzUtMG1DaWxLM0RJVEFLSUoyUkNsUEh2ZHJFazljbVRpc0djd2M0Q1VWTHlVRkxOekhU)).
+China’s services activity unexpectedly expanded at a stronger pace in April, with the Caixin/S&P Global services PMI rising to `51.9` from `51.7` in March, showing firms absorbing the Iran‑war price shock without passing on higher costs ([BBG](https://www.bloomberg.com/news/articles/2026-05-06/china-s-services-gauge-shows-improvement-despite-war-price-shock), [SP Global](https://news.google.com/rss/articles/CBMijwFBVV95cUxONVpnbElObGFZNnpSMlJOYlBFYXJnYmNkS21pX19TOWI5MGt2NFlib1pSdGtPWl91dWstUHM5UTRGbHo1WWlLLTQ0V3oyVkdUdlh1NVd5dnVKeUE5a0hsU1hXeWZtbkhKbmtiUmlwVFNMdDBCMUNiNmtYOHFzOGxPejZrQUVNTlBqVjBPcTRhYw)). Hong Kong’s retail sales jumped by `12.8%` year‑on‑year in March, bringing first‑quarter growth to `9.8%`, driven by an `80.8%` surge in vehicle sales ahead of tax‑break expirations ([SCMP](https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3352608/hong-kong-retail-sales-jump-128-march-back-higher-car-sales)).
 
 > [!info] [AI Reasoning]
-> * **Base Case**: A cost‑push inflation shock when the central bank is already leaning hawkish forces a reassessment of the neutral rate, tightening financial conditions domestically even as global risk‑appetite improves. The BOK is now firmly ahead of the curve, limiting scope for risk‑on to lift KRW much further without actual rate action.
-> * **Tactical Trade**: **Long KRW vs JPY** to capture the immediate hawkish impulse and peace‑driven risk‑on, but **PIVOT to short KRW** if the BOK signals concern about growth, shifting to a two‑speed policy response.
+> * **Base Case**: Resilient services activity and consumption suggest that China’s domestic demand is weathering the energy shock better than feared, reducing downside risks to regional growth and easing pressure on Asia FX.
+> * **Tactical Trade**: **Long CNH**, **Long HKD** as the macro‑stability premium builds; **Long HSI** for a consumer‑led re‑rating.
 
-### 📌 Samsung vaults past $1 trillion; Kospi breaks 7,000 on AI euphoria
+### 📌 Yen surges to two‑month high on intervention chatter; dollar drops across board
 
 **Fact**
-Samsung Electronics Co.’s market valuation topped `$1` trillion after its shares more than quadrupled over the past year on booming demand for the chips used in artificial intelligence ([BBG Markets](https://www.bloomberg.com/news/articles/2026-05-06/samsung-hits-1-trillion-valuation-joining-tsmc-in-elite-club)). The Kospi surged past `7,000` for the first time, with Samsung’s stock jumping `15%` in a single session ([CNBC](https://www.cnbc.com/2026/05/06/samsung-electronics-ai-chip-rally-kospi-record-1-trillion.html)). The rally came after the company reported an over eight‑fold increase in first‑quarter operating profits last week ([CNBC](https://www.cnbc.com/2026/05/06/samsung-electronics-ai-chip-rally-kospi-record-1-trillion.html)). The broader tech enthusiasm lifted Chinese tech shares to a record high, joining a global AI‑driven rally that swept Asian markets ([BBG Markets](https://www.bloomberg.com/news/articles/2026-05-06/china-s-tech-gauge-jumps-to-record-high-on-ai-fueled-rally)).
+The Japanese yen surged to over a two‑month high amid reports of fresh intervention by Japanese authorities, with the dollar dropping broadly as optimism grew for a US‑Iran deal ([Reuters](https://news.google.com/rss/articles/CBMioAFBVV95cUxNaVNWSGx0a2YxMGZVQjAxMDNDSUxsaXFsMWU4Z1VGNDJWRmRyMkxaUzZjczVBOUVxcjI0Wkdib3FoWUNwRkJyZG1YWjVSSFlQamZXSlNRT0R5WE12eWUtTWVqbngxQktFSnRxel80ZzUtMG1DaWxLM0RJVEFLSUoyUkNsUEh2ZHJFazljbVRpc0djd2M0Q1VWTHlVRkxOekhU), [Investing](https://www.investing.com/news/forex-news/japanese-yen-surges-to-over-2mth-high-amid-reports-of-intervention-4661742)). The sharp move intensified chatter that the Ministry of Finance had stepped into the market, amplifying the broad dollar sell‑off on peace hopes.
 
 > [!info] [AI Reasoning]
-> * **Base Case**: The AI infrastructure capex story is now a global equity theme, overriding near‑term oil‑price angst. Asia’s semiconductor supply chains are absorbing war‑related energy costs because demand visibility is exceptionally clear, creating a positive but narrowly based growth impulse.
-> * **Tactical Trade**: **Long KRW** via equity‑inflow channel; **PIVOT to flat** on Kospi longs if US chip‑demand forecasts weaken, as Samsung’s valuation is now entirely dependent on a single thematic.
+> * **Base Case**: Apparent intervention, amplified by peace‑driven dollar weakness, is accelerating USD/JPY lower, which could compress import costs and reduce the urgency for BOJ tightening in the near term.
+> * **Tactical Trade**: **Short USD/JPY**; **PIVOT to flat** if the Ministry of Finance confirms no intervention.
+
+### 📌 Wang Yi calls for swift Hormuz reopening, backs Gulf‑led security framework
+
+**Fact**
+Chinese Foreign Minister Wang Yi called for a swift reopening of the Strait of Hormuz and voiced support for a new regional security framework led by Gulf countries during talks with his Iranian counterpart ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3352590/chinese-fm-wang-yi-calls-swift-reopening-strait-hormuz)). Wang said China backed “the establishment of a regional peace and security framework led by regional countries” ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3352590/chinese-fm-wang-yi-calls-swift-reopening-strait-hormuz)). The meeting came a week before President Trump’s planned trip to Beijing ([Reuters](https://news.google.com/rss/articles/CBMivwFBVV95cUxPb0VDMHNmUDVwaE91azZpc0U3TjIzTTZQTDExSFh3X2NfNEpCZ0NEeGxtUVJrM29WN2dzRUlUNEhsLWd5eUVJclFMT2hfcTF1cTIxdkREeGVaM3NJXzltTzRjQ09xaXRhaE5mbzN6Uk1UYlFNMmxveGNxSUtSYmNjVG9lM1dYMGh0bzhvRk5rNFJyc1dKdURva21GMDJ1WkNDTU9GVHFhclFOQjRVdm9vYTI2dDBnR0hPNlJpRnNoZw)).
+
+> [!info] [AI Reasoning]
+> * **Base Case**: Beijing is positioning as a credible diplomatic track to the US‑led process, potentially reducing the geopolitical risk premium on energy trade if a parallel framework yields concrete de‑escalation.
+> * **Tactical Trade**: **Long CNH** on the geopolitical diversification tailwind; **Short USD/Asia FX** if the China‑backed framework gains traction.
 
 ---
 
 ## 🌍 Global Radar
 
 ### 📊 Economic Indicators
-- China’s services activity unexpectedly expanded at a stronger pace in April, a private survey showed, even as price shocks from the Iran war ripple through the economy and companies choose not to pass on higher costs to customers ([BBG Econ](https://www.bloomberg.com/news/articles/2026-05-06/china-s-services-gauge-shows-improvement-despite-war-price-shock)).
-- Higher oil prices linked to the Iran conflict pushed Thailand’s headline inflation to near the top end of the central bank’s target, ending a year‑long stretch of falling prices ([BBG Econ](https://www.bloomberg.com/news/articles/2026-05-06/oil-shock-drives-thailand-inflation-to-near-top-end-of-target)).
-- UK businesses raised prices at the fastest pace in over three years, as the services PMI showed firms imposing fuel surcharges to pass on soaring raw material and energy costs despite a subdued economic backdrop ([BBG Econ](https://www.bloomberg.com/news/articles/2026-05-06/uk-firms-impose-fuel-surcharges-as-input-costs-soar-pmi-shows)).
-- US gasoline prices topped `$4.50` a gallon for the first time since July 2022, nearing the all‑time high as the prolonged conflict in the Middle East drives a fuel crunch ([BBG Econ](https://www.bloomberg.com/news/articles/2026-05-06/us-gasoline-hits-4-50-nears-all-time-high-as-iran-fuel-crunch-grows)).
+- China’s Caixin/S&P Global services PMI unexpectedly rose to `51.9` in April from `51.7` in March, as firms absorbed the Iran‑war price shock without passing on higher costs to customers ([BBG 1](https://www.bloomberg.com/news/articles/2026-05-06/china-s-services-gauge-shows-improvement-despite-war-price-shock), [SP Global](https://news.google.com/rss/articles/CBMijwFBVV95cUxONVpnbElObGFZNnpSMlJOYlBFYXJnYmNkS21pX19TOWI5MGt2NFlib1pSdGtPWl91dWstUHM5UTRGbHo1WWlLLTQ0V3oyVkdUdlh1NVd5dnVKeUE5a0hsU1hXeWZtbkhKbmtiUmlwVFNMdDBCMUNiNmtYOHFzOGxPejZrQUVNTlBqVjBPcTRhYw)).
+- Hong Kong retail sales jumped `12.8%` y/y in March to HK$33.9 billion, driven by an `80.8%` surge in car sales ahead of tax‑break expiry, taking Q1 growth to `9.8%` ([SCMP](https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3352608/hong-kong-retail-sales-jump-128-march-back-higher-car-sales)).
+- UK businesses raised prices at the fastest pace in over three years, imposing fuel surcharges as they sought to pass on soaring raw material and energy costs ([BBG 2](https://www.bloomberg.com/news/articles/2026-05-06/uk-firms-impose-fuel-surcharges-as-input-costs-soar-pmi-shows)).
+- Oil shock pushed Thailand’s inflation to near the top end of the central bank’s target, ending a year‑long stretch of falling prices ([BBG 3](https://www.bloomberg.com/news/articles/2026-05-06/oil-shock-drives-thailand-inflation-to-near-top-end-of-target)).
+- US gasoline prices topped `$4.50` per gallon for the first time since July 2022, nearing all‑time highs as drivers face persistent strain from the Middle East conflict ([BBG 4](https://www.bloomberg.com/news/articles/2026-05-06/us-gasoline-hits-4-50-nears-all-time-high-as-iran-fuel-crunch-grows)).
+- ECB wage tracker indicates negotiated wage pressures stable in 2026, but the central bank projects pay growth will accelerate in the second half of the year ([ECB](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260506~4ea17afd4a.en.html), [BBG 5](https://www.bloomberg.com/news/articles/2026-05-06/euro-zone-wage-growth-to-quicken-in-second-half-of-this-year)).
 
 ### 🏦 Central Banks
-- **ECB** — The ECB’s new wage tracker indicates negotiated wage pressures remain stable in 2026, but the central bank expects euro‑area pay growth to accelerate in the second half of the year, complicating the outlook as energy costs feed through ([ECB Press](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260506~4ea17afd4a.en.html), [BBG Econ](https://www.bloomberg.com/news/articles/2026-05-06/euro-zone-wage-growth-to-quicken-in-second-half-of-this-year)). ECB Executive Board member Piero Cipollone said the new energy shock requires policy to remain attentive, with scenarios pointing to heightened uncertainty ([ECB Press](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260506~1bbd4ed780.en.html)).
+- **ECB** — Euro‑area pay growth is set to quicken in the second half of the year, and the central bank is gauging whether spillovers from high energy costs will require it to increase interest rates ([BBG](https://www.bloomberg.com/news/articles/2026-05-06/euro-zone-wage-growth-to-quicken-in-second-half-of-this-year)).
+- **Norges Bank & Riksbank** — Both central banks are expected to keep rates steady this week, against contrasting inflation backdrops that starkly differ between the Nordic neighbours ([BBG](https://www.bloomberg.com/news/articles/2026-05-06/norges-bank-faces-close-call-as-riksbank-watches-decision-guide)).
+- **National Bank of Poland** — The central bank is set to keep rates unchanged for a second month, with policymakers expected to sharpen anti‑inflation rhetoric as the Iran conflict revives long‑dormant price pressures ([BBG](https://www.bloomberg.com/news/articles/2026-05-06/poland-set-to-match-steady-rates-with-hawkish-tone-on-iran-risks)).
+- **Bank Indonesia** — Indonesia tightened rules on foreign‑exchange purchases after the rupiah hit a new record low, in a bid to support the currency ([WSJ](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS0M1WFdUTWU1OHZNVHFyT1JfTTR5UVU5d0x6NmxtVHAyUDQydlNXOFA4bGltWVBiSHZpdlpaYmNuY216V2I5emRzYXJITDhxSXpyUHVEbnZuX1Y5VzA0Q1JRNWdvZEtmYkRSSk1SSlRtVm80akFTODhEekNmUkIzZ3hFQjh1NDFsdVYxb2dOZGhwYWhJVHl4SlN3MkdsQ295NDZzdENiRlFvc01ycFY0SS1rRWJVcFQ5QzRGLUlRUWc), [BusinessTimes](https://news.google.com/rss/articles/CBMivgFBVV95cUxPbkdmZWxENmVVcGtkUmxnbXBpSGVmN1p4Y2VIQjZIZnBMbmNDdnRzMlgwazd5d1pCRE42RjJ5UlVJeTQ4SDFpTG9hYlVYNnBPUUI4Wjd0YlpRMGNrNzl4bUp3R1Vka3VVZXMxZGlEdjJuaEhncUhGOE5xSkt4QUU3d1RJX2M2eXI4TkRiclZNek5pZ0lPSUpPSmVGQlJlQ2hMMDRxdXFUSFZLX0k2eERnV2RJQkdHS2x0dVdnZ3JB)).
 
 ### 🌐 Geopolitics & Policy
-- Japan has sent combat troops to the Philippines for the first time since World War II and participated in a ship‑sinking drill in the South China Sea, underscoring Tokyo’s rising willingness to project military power on China’s doorstep ([BBG Econ](https://www.bloomberg.com/news/articles/2026-05-06/japan-strikes-combat-role-in-south-china-sea-in-post-war-pivot)).
-- The US Army shot a Tomahawk missile from its Typhon Mid‑Range Capability launcher system in the Philippines during Balikatan drills, the first such firing since the system arrived two years ago, a move that drew a rebuke from China ([SCMP](https://www.scmp.com/news/asia/southeast-asia/article/3352548/us-army-fires-typhon-first-time-philippines-during-balikatan-drills)).
-- China is still supplying key components to drone factories in Iran and Russia, evading US sanctions through complex networks, according to a WSJ investigation ([WSJ](https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFh5S3V4a3hoZ1VHWWpaQ3NEcktQUHh6ci1aVFNucVMwMGtaZmk0X1dSTGNXZlozdDM5QmtXdUNhOUZtNW1TUTlZYjBkcl8wSjhKRmtEdVI2anFXRlc5UUJYWmJDTDcwa2ZXV092cDBmYXF1VmtCQmZsdVRxVGFHQlNYX0F3ZXFFRWtkRWxqZy1yQjQzVUhldzVoZzhqWkhTWDRFeDczRXlidWxiSkVjRllR)).
+- Japan sent combat troops to the Philippines for the first time since World War II, participating in a ship‑sinking drill in the South China Sea, underscoring Tokyo’s growing willingness to project military power on China’s doorstep ([BBG](https://www.bloomberg.com/news/articles/2026-05-06/japan-strikes-combat-role-in-south-china-sea-in-post-war-pivot)).
+- India and Vietnam agreed to strengthen economic and defence ties as both sides seek to deepen their partnership amid persistent Middle East tensions ([BBG](https://www.bloomberg.com/news/articles/2026-05-06/modi-lam-to-meet-as-india-and-vietnam-deepen-ai-defense-ties)).
+- The EU’s push to bar Chinese suppliers from critical infrastructure under its proposed Cybersecurity Act would cost the bloc an estimated €367.8 billion over five years, including €146.2 billion to rip out and replace Chinese hardware ([SCMP](https://www.scmp.com/economy/china-economy/article/3352610/eu-cyber-plan-barring-chinese-suppliers-will-cost-us430-billion-report)).
 
 ### 🛢️ Commodities
-- Oil prices fell on renewed hopes of a negotiated settlement to the Iran war, but the physical supply chain remains disrupted, with shipowners searching for credible workarounds after the US paused its Hormuz escort plan ([FT Markets](https://www.ft.com/content/8dd8d23a-2c5d-42c5-aedb-bbc1f49fcbea), [BBG Markets](https://www.bloomberg.com/news/articles/2026-05-06/shipowners-grapple-for-fixes-in-hormuz-after-trump-drops-plan)).
-- Metal exports from China, especially aluminum, are getting a significant lift from the war in the Middle East, which has cut regional supplies while boosting demand for clean‑tech products as fossil fuel prices soar ([BBG Markets](https://www.bloomberg.com/news/articles/2026-05-06/chinese-metals-demand-gets-lift-as-mideast-war-spurs-export-boom)).
+- Oil briefly dropped below `$100` a barrel and gas slumped as Iran evaluated a new US proposal to end the war, with Brent trading lower on optimism for a peace deal ([BBG](https://www.bloomberg.com/news/articles/2026-05-06/oil-slumps-after-report-us-and-iran-near-deal-to-end-war)).
+- Grain and oilseed futures slid in Chicago on the peace optimism, with soy oil falling from a three‑year high after Trump’s Hormuz pause ([BBG](https://www.bloomberg.com/news/articles/2026-05-06/soy-oil-falls-from-three-year-high-after-trump-s-hormuz-pause)).
+- New Zealand is looking at storing fuel in Malaysia and Singapore as the impacts of the Iran war expose the risks from its limited domestic storage capacity ([BBG](https://www.bloomberg.com/news/articles/2026-05-06/new-zealand-eyes-fuel-storage-options-in-singapore-and-malaysia)).
 
 ### 📈 Equities
-- South Korea’s Kospi broke `7,000` to hit a new all‑time high, with heavyweight Samsung surging `15%` after its market cap crossed `$1` trillion ([CNBC](https://www.cnbc.com/2026/05/06/asia-markets-today-kospi-hang-seng-asx-trump-iran-deal-.html)).
-- A gauge of Chinese tech shares surged to a record high, joining a broader artificial intelligence‑related rally sweeping across Asian markets ([BBG Markets](https://www.bloomberg.com/news/articles/2026-05-06/china-s-tech-gauge-jumps-to-record-high-on-ai-fueled-rally)).
-- Hong Kong’s Hang Seng Index rose more than `300` points to reclaim the `26,000` level, with buying concentrated in tech and property names, though southbound flows showed a net outflow of over `HK$8.5` billion ([HKEJ](https://news.google.com/rss/articles/CBMib0FVX3lxTE1wOUxDMVRUeTFjeGxNb0ZXQ3FPMG96MmFzUlc2NnVSZzVadF9RcHJfcVEwUzVUNHNBcFhmQUhjanJLM3VzVEV3dkVPUVBiUjcxV1VsTXRUY1ZzTXJuNDRMM3BqZ0FLcTRCZmR5dGlvVQ)).
-- China’s A‑share market reopened after the Labour Day holiday with the Shanghai Composite gaining `1.2%`, led by chip and AI‑related stocks ([HKEJ](https://news.google.com/rss/articles/CBMib0FVX3lxTE9NRkZuUXZWWER2Q19tRlV4N0NMZEhmUXJnUkFOYWpZLUZ3U2cxVnFEcW5UbFNnVlZHM1pMYkN3cEhLemVkNDRzZ05ibUZET2YtaThKT01TNTk4Vkp4VUgzR1piTUgtMlMtcTNQNnhXTQ)).
+- Asian stocks extended gains on peace hopes, with South Korea’s Kospi closing up nearly `6.5%` to a record above `7,000` and the Hang Seng rising `315` points to reclaim `26,000` ([WSJ](https://news.google.com/rss/articles/CBMilwFBVV95cUxPWWNxMnFqTDBxZE9OQmZySEx3MVdBOVBGVDZ3SE9adV9NMkFSbDlQRjNiQWRfeXBaS20yUXd6Q291SkFtNE1hT1NnamJhVlFxOTZ1aVRpMm9wbUVvU1FfR29qc0xsM21Jc2xxWWoxWmRMbmZHTFlZRUw4cjRjb0p4aEllb0I3YzNjaWFGazBXT3VaS21qbXJ3), [HKEJ](https://news.google.com/rss/articles/CBMib0FVX3lxTE1wOUxDMVRUeTFjeGxNb0ZXQ3FPMG96MmFzUlc2NnVSZzVadF9RcHJfcVEwUzVUNHNBcFhmQUhjanJLM3VzVEV3dkVPUVBiUjcxV1VsTXRUY1ZzTXJuNDRMM3BqZ0FLcTRCZmR5dGlvVQ)).
+- Global bonds rallied, with the Gilts market leading gains as hopes for a US‑Iran deal curbed rate‑hike bets ([BBG](https://www.bloomberg.com/news/articles/2026-05-06/gilts-lead-bonds-higher-as-hopes-for-peace-curb-rate-hike-bets)).
+- US chipmaker AMD’s strong AI‑fueled forecast sparked a broad rally in semiconductor stocks, adding fuel to the global tech advance ([Reuters](https://news.google.com/rss/articles/CBMioAFBVV95cUxQN296bno0NDZNanFzM1pGZGlMZUUtMHlwOXlDZGdpWmN3eWpPLXlBWFZaVjdEWk1Hc01JbElGUlc4R3JqTDdieC1Bek9ERnVJX1lkNTE0Q1JfRkZmWlY0ZzFnUi0zNmpONTd5VXRKV1EydGlURTkzbUtSSUZiMHMyQmpHeEtTbU1XTzRnVEhhWHRCTGw5Y1J3QXNCU0xNeGhW)).
 
 ---
 
@@ -96,96 +113,94 @@ Samsung Electronics Co.’s market valuation topped `$1` trillion after its sh
 
 | Time (HKT) | Rgn | Event | Est. | Prior |
 |---|---|---|---|---|
-| 06:00 PM | DE | New Car Registrations YoY | — | 16% |
-| 07:00 PM | US | MBA 30‑Year Mortgage Rate | — | 6.37% |
-| 07:00 PM | US | MBA Mortgage Applications | — | -1.6% |
-| 07:00 PM | US | MBA Mortgage Market Index | — | 298.5 |
-| 07:00 PM | US | MBA Mortgage Refinance Index | — | 977.9 |
-| 07:00 PM | US | MBA Purchase Index | — | 177.7 |
-| 08:15 PM | US | ADP Employment Change | 99K | 62K |
-| 08:30 PM | US | Treasury Refunding Announcement | — | — |
-| 10:30 PM | US | EIA Crude Oil Stocks Change | -2.8M | -6.233M |
-| 10:30 PM | US | EIA Gasoline Stocks Change | -1.7M | -6.075M |
-| 10:30 PM | US | EIA Crude Oil Imports Change | — | -1.968M |
-| 10:30 PM | US | EIA Cushing Crude Oil Stocks Change | — | -0.796M |
-| 10:30 PM | US | EIA Distillate Fuel Production Change | — | -0.013M |
-| 10:30 PM | US | EIA Distillate Stocks Change | -2.0M | -4.494M |
-| 10:30 PM | US | EIA Gasoline Production Change | — | -0.238M |
-| 10:30 PM | US | EIA Heating Oil Stocks Change | — | -0.625M |
-| 10:30 PM | US | EIA Refinery Crude Runs Change | — | 0.084M |
-| 11:30 PM | US | 17‑Week Bill Auction | — | 3.620% |
-| 05:00 AM | KR | Foreign Exchange Reserves | — | $423.66B |
-| 07:50 AM | JP | Monetary Base YoY | -10.5% | -11.6% |
-| 09:30 AM | AU | Balance of Trade | A$4.25B | A$5.686B |
-| 11:35 AM | JP | 6‑Month Bill Auction | — | 0.9464% |
-| 01:00 PM | SG | 6‑Month T‑Bill Auction | — | 1.4% |
-| 02:00 PM | DE | Factory Orders MoM | 1% | 0.9% |
-| 02:45 PM | FR | Balance of Trade | €-5.6B | €-5.8B |
-| 02:45 PM | FR | Current Account | — | €-1.8B |
-| 02:45 PM | FR | Exports | — | €52B |
-| 02:45 PM | FR | Imports | — | €57.8B |
-| 03:30 PM | FR | HCOB Construction PMI | — | 38.4 |
-| 03:30 PM | DE | HCOB Construction PMI | — | 48.0 |
-| 03:30 PM | IT | HCOB Construction PMI | — | 46.8 |
-| 04:30 PM | GB | S&P Global Construction PMI | 45.7 | 45.6 |
-| 04:40 PM | ES | 10‑Year Obligacion Auction | — | 3.435% |
-| 04:40 PM | ES | 15‑year index‑linked obligacion auction | — | — |
-| 04:40 PM | ES | 18‑year obligacion auction | — | — |
-| 04:40 PM | ES | 3‑Year Bonos Auction | — | 2.734% |
-| 05:00 PM | FR | 2035 oat auction | — | 3.73% |
-| 05:00 PM | FR | 2042 oat auction | — | 3.98% |
-| 05:00 PM | FR | 2046 oat auction | — | — |
-| 05:00 PM | FR | 2057 oat auction | — | — |
+| May 06 07:00 PM | US | MBA 30‑Year Mortgage Rate | — | 6.37% |
+| May 06 07:00 PM | US | MBA Mortgage Applications | — | -1.6% |
+| May 06 07:00 PM | US | MBA Mortgage Market Index | — | 298.5 |
+| May 06 07:00 PM | US | MBA Mortgage Refinance Index | — | 977.9 |
+| May 06 07:00 PM | US | MBA Purchase Index | — | 177.7 |
+| May 06 08:15 PM | US | ADP Employment Change | 99K | 61K |
+| May 06 08:30 PM | US | Treasury Refunding Announcement | — | — |
+| May 06 10:30 PM | US | EIA Crude Oil Stocks Change | -3.3M | -6.233M |
+| May 06 10:30 PM | US | EIA Gasoline Stocks Change | -2.1M | -6.075M |
+| May 06 10:30 PM | US | EIA Crude Oil Imports Change | — | -1.968M |
+| May 06 10:30 PM | US | EIA Cushing Crude Oil Stocks Change | — | -0.796M |
+| May 06 10:30 PM | US | EIA Distillate Fuel Production Change | — | -0.013M |
+| May 06 10:30 PM | US | EIA Distillate Stocks Change | -2.4M | -4.494M |
+| May 06 10:30 PM | US | EIA Gasoline Production Change | — | -0.238M |
+| May 06 10:30 PM | US | EIA Heating Oil Stocks Change | — | -0.625M |
+| May 06 10:30 PM | US | EIA Refinery Crude Runs Change | — | 0.084M |
+| May 06 11:30 PM | US | 17‑Week Bill Auction | — | 3.620% |
+| May 07 05:00 AM | KR | Foreign Exchange Reserves | — | $423.66B |
+| May 07 07:50 AM | JP | Monetary Base YoY | -10.5% | -11.6% |
+| May 07 09:30 AM | AU | Balance of Trade | A$4.25B | A$5.686B |
+| May 07 11:35 AM | JP | 6‑Month Bill Auction | — | 0.9464% |
+| May 07 01:00 PM | SG | 6‑Month T‑Bill Auction | — | 1.4% |
+| May 07 02:00 PM | DE | Factory Orders MoM | 1% | 0.9% |
+| May 07 02:45 PM | FR | Balance of Trade | €-5.6B | €-5.8B |
+| May 07 02:45 PM | FR | Current Account | — | €-1.8B |
+| May 07 02:45 PM | FR | Exports | — | €52B |
+| May 07 02:45 PM | FR | Imports | — | €57.8B |
+| May 07 03:30 PM | FR | HCOB Construction PMI | — | 38.4 |
+| May 07 03:30 PM | DE | HCOB Construction PMI | — | 48.0 |
+| May 07 03:30 PM | IT | HCOB Construction PMI | — | 46.8 |
+| May 07 04:30 PM | GB | S&P Global Construction PMI | 45.7 | 45.6 |
+| May 07 04:40 PM | ES | 10‑Year Obligacion Auction | — | 3.435% |
+| May 07 04:40 PM | ES | 15‑year index‑linked obligacion auction | — | — |
+| May 07 04:40 PM | ES | 18‑year obligacion auction | — | — |
+| May 07 04:40 PM | ES | 3‑Year Bonos Auction | — | 2.734% |
+| May 07 05:00 PM | FR | 2035 oat auction | — | 3.73% |
+| May 07 05:00 PM | FR | 2042 oat auction | — | 3.98% |
+| May 07 05:00 PM | FR | 2046 oat auction | — | — |
+| May 07 05:00 PM | FR | 2057 oat auction | — | — |
+| May 07 05:00 PM | SG | Foreign Exchange Reserves | — | S$540.9B |
 
 ---
 
 ## 📚 Full Reading List
 - **BBG**
-  - [Samsung Hits $1 Trillion Valuation, Joining TSMC in Elite Club](https://www.bloomberg.com/news/articles/2026-05-06/samsung-hits-1-trillion-valuation-joining-tsmc-in-elite-club)
-  - [Shipowners Grapple for Hormuz Fixes After Trump Drops Plan](https://www.bloomberg.com/news/articles/2026-05-06/shipowners-grapple-for-fixes-in-hormuz-after-trump-drops-plan)
-  - [China’s Tech Gauge Jumps to Record High on AI‑Fueled Rally](https://www.bloomberg.com/news/articles/2026-05-06/china-s-tech-gauge-jumps-to-record-high-on-ai-fueled-rally)
-  - [Japan Strikes Combat Role in South China Sea in Post‑War Pivot](https://www.bloomberg.com/news/articles/2026-05-06/japan-strikes-combat-role-in-south-china-sea-in-post-war-pivot)
-  - [China’s Surprise Services Upswing Shows Firms Absorb Price Shock](https://www.bloomberg.com/news/articles/2026-05-06/china-s-services-gauge-shows-improvement-despite-war-price-shock)
-  - [Oil Shock Drives Thailand Inflation to Near Top End of Target](https://www.bloomberg.com/news/articles/2026-05-06/oil-shock-drives-thailand-inflation-to-near-top-end-of-target)
-  - [UK Firms Impose Fuel Surcharges as Input Costs Soar, PMI Shows](https://www.bloomberg.com/news/articles/2026-05-06/uk-firms-impose-fuel-surcharges-as-input-costs-soar-pmi-shows)
+  - [Oil Slumps After Report US and Iran Near Deal to End War](https://www.bloomberg.com/news/articles/2026-05-06/oil-slumps-after-report-us-and-iran-near-deal-to-end-war)
+  - [Global Bonds Rally as Oil Falls on Hopes for US‑Iran Deal](https://www.bloomberg.com/news/articles/2026-05-06/gilts-lead-bonds-higher-as-hopes-for-peace-curb-rate-hike-bets)
   - [US Gasoline Hits $4.50, Nears All‑Time High as Iran Fuel Crunch Grows](https://www.bloomberg.com/news/articles/2026-05-06/us-gasoline-hits-4-50-nears-all-time-high-as-iran-fuel-crunch-grows)
+  - [China’s Services Gauge Shows Improvement Despite War Price Shock](https://www.bloomberg.com/news/articles/2026-05-06/china-s-services-gauge-shows-improvement-despite-war-price-shock)
+  - [UK Firms Impose Fuel Surcharges as Input Costs Soar, PMI Shows](https://www.bloomberg.com/news/articles/2026-05-06/uk-firms-impose-fuel-surcharges-as-input-costs-soar-pmi-shows)
+  - [Oil Shock Drives Thailand Inflation to Near Top End of Target](https://www.bloomberg.com/news/articles/2026-05-06/oil-shock-drives-thailand-inflation-to-near-top-end-of-target)
   - [Euro‑Zone Wage Growth to Quicken in Second Half of This Year](https://www.bloomberg.com/news/articles/2026-05-06/euro-zone-wage-growth-to-quicken-in-second-half-of-this-year)
-  - [CATL Bears Retreat in Hong Kong After Blockbuster Share Sale](https://www.bloomberg.com/news/articles/2026-05-06/catl-bears-retreat-in-hong-kong-after-blockbuster-share-sale)
-  - [Chinese Metals Demand Gets Lift as Iran War Spurs Export Boom](https://www.bloomberg.com/news/articles/2026-05-06/chinese-metals-demand-gets-lift-as-mideast-war-spurs-export-boom)
+  - [Norges Bank Faces Close Call as Riksbank Watches: Decision Guide](https://www.bloomberg.com/news/articles/2026-05-06/norges-bank-faces-close-call-as-riksbank-watches-decision-guide)
+  - [Poland Set to Match Steady Rates With Hawkish Tone on Iran Risks](https://www.bloomberg.com/news/articles/2026-05-06/poland-set-to-match-steady-rates-with-hawkish-tone-on-iran-risks)
+  - [Indonesia Central Bank Tightens Rules on Dollar Purchases to Support Rupiah](https://www.bloomberg.com/news/articles/2026-05-06/indonesia-s-purbaya-hails-end-of-5-growth-curse-but-analysts-have-doubts)
+  - [Japan Joins South China Sea Combat Drills With US and Philippines in Post‑War Pivot](https://www.bloomberg.com/news/articles/2026-05-06/japan-strikes-combat-role-in-south-china-sea-in-post-war-pivot)
+  - [Modi, Lam Meet as India and Vietnam Deepen AI, Defense Ties](https://www.bloomberg.com/news/articles/2026-05-06/modi-lam-to-meet-as-india-and-vietnam-deepen-ai-defense-ties)
+  - [Soy Oil Falls From Three‑Year High After Trump's Hormuz Pause](https://www.bloomberg.com/news/articles/2026-05-06/soy-oil-falls-from-three-year-high-after-trump-s-hormuz-pause)
+  - [New Zealand Eyes Fuel Storage Options in Singapore and Malaysia](https://www.bloomberg.com/news/articles/2026-05-06/new-zealand-eyes-fuel-storage-options-in-singapore-and-malaysia)
 - **Reuters**
+  - [US and Iran closing in on one‑page memo to end war, Axios reports](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUHNJTHhoVmFfcWpPdGF3TGhuT0pTSk54dkNBXzZtRnN0bDNMOEZTZDVxS0d3eHYyaFA1RWVfODNBWWU0T3lkSFlEY21Ob2pXZHNNRkNqTVdfMk1UMFZRVVduYlAxdmR6Q3hEWlppRUpGaFJ1elB0SEVaV0hCS3ZHWTdqNnI3aGtmQXJXbm5JODJOZ1lDckRxY01jUDFoZW9tRlFWSzR0eDU)
+  - [Pakistani source confirms US, Iran closing in on one‑page memo to end war](https://news.google.com/rss/articles/CBMiugFBVV95cUxQTUNaSDhtcHVHQmhDZFoxUS1UZWRKTFR2R1AyNm5vU0N4dmVwVzJQZ3pJcVZlOVgwUXZQcXY5Zk9XOWJfQVpiV3VJalNIX0hPOEJlOEVncHduQnFIbUUtVlJ1TUJzN2owUXBtYjhRSDd0OHRfZ2JhWVhua2xVTktYWlZBMkZMRUpKNWF1eUt3UWxHdEpBcHBfaHpNTUh5RldjdDVUclRPYjNueU9pY3VheHBRV0hGS2ZOUlE)
+  - [Stocks and bonds rally after Axios reports US Iran closing in on deal](https://news.google.com/rss/articles/CBMivwFBVV95cUxOSC1BVllvVGxQMU92TjdJWHBQNGR3Mnp3RmluRmMwRE5EcmU3aDFacXRfbWRJQjJjTUtXNVFjX1R4M2MwaWltazd2RWhFN2phTV9vU2JHSDkyRXZtc0xOd2FxYzUzMUVuX0xhUFgtM1N6R0ZqeHM0OEt3bkJFMXRENllkN282X0hoUkptRWYxa0loVjJqZzljeHNSVmdsV2VDbzRrTlpNMmgwaDV3WEdiUklQcFRoMldLazVJRTVCQQ)
+  - [Dollar drops as optimism grows for US‑Iran deal; yen surge ignites intervention chatter](https://news.google.com/rss/articles/CBMioAFBVV95cUxNaVNWSGx0a2YxMGZVQjAxMDNDSUxsaXFsMWU4Z1VGNDJWRmRyMkxaUzZjczVBOUVxcjI0Wkdib3FoWUNwRkJyZG1YWjVSSFlQamZXSlNRT0R5WE12eWUtTWVqbngxQktFSnRxel80ZzUtMG1DaWxLM0RJVEFLSUoyUkNsUEh2ZHJFazljbVRpc0djd2M0Q1VWTHlVRkxOekhU)
+  - [Japanese yen surges to over 2‑mth high amid reports of intervention](https://www.investing.com/news/forex-news/japanese-yen-surges-to-over-2mth-high-amid-reports-of-intervention-4661742)
   - [Iran foreign minister meets Chinese counterpart a week before Trump's Beijing trip](https://news.google.com/rss/articles/CBMivwFBVV95cUxPb0VDMHNmUDVwaE91azZpc0U3TjIzTTZQTDExSFh3X2NfNEpCZ0NEeGxtUVJrM29WN2dzRUlUNEhsLWd5eUVJclFMT2hfcTF1cTIxdkREeGVaM3NJXzltTzRjQ09xaXRhaE5mbzN6Uk1UYlFNMmxveGNxSUtSYmNjVG9lM1dYMGh0bzhvRk5rNFJyc1dKdURva21GMDJ1WkNDTU9GVHFhclFOQjRVdm9vYTI2dDBnR0hPNlJpRnNoZw)
-  - [Iran says it wants a 'comprehensive agreement' with US](https://news.google.com/rss/articles/CBMinwFBVV95cUxPYy04enE2RGhod3NneGVSTEo4STVXQThRT1FlQmE3YlpZSWtFejhyWHJwTnZEczB1VzVjWmdyRXpfZXFQRFYyUlR0WXBOWkludjExaV9YVWFOQlhJOHJrSndhdVZQZlVCMjMtbUp1bDFzOUhaN1NfVlFZTlhDeGY5b2hwcHRYQldpZUs2SkxjSVZIbzhjVGpOOFc5TERvNzA)
-  - [CMA CGM container ship hit in Strait of Hormuz, injuring crew](https://news.google.com/rss/articles/CBMinAFBVV95cUxPM2IwVlNkTldxSHk5VmRFYWtaVTdIOEJLeWU5RTJka1prZTBMbllzQWwyMVdwRU90eHhLeVNUZkdIZWZ6ZHdacnM5VUVMMzNLall0M2swb0RMWFAxZ2RGaWYxR3ZGTmdxSFhNODdWUzlXNlc4bTRNSWVCS0VCWk5hNDEydjhCeDEyMEVBWVZKcnB1UUpRa2pTMW5vVWo)
-  - [Korea's KOSPI breaks 7,000 as AI rally catapults Samsung into $1 trillion club](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRWZMNzN0TUlGVE45VksxbnoxV2lPWl9RVjY5U21BMU5uUEpMUnRtMTd5R3JZU2lRdVlrOEktRmxWcHJ5LUxydWYyNWVGX19oUEgzcTFtQ29IN1lXSTdaTmVweFdnaUt1V3dnb3VXLTVlcEJSa09JWXl4OGtuQmhjbmhvUkZKYkNLRkIxYVdkTVM2cUVZb3IzcHNOVFNacXJiNVNNOGZTWkpDUQ)
-  - [Dollar tumbles against yen as intervention chatter swirls, optimism grows for US‑Iran deal](https://news.google.com/rss/articles/CBMioAFBVV95cUxNaVNWSGx0a2YxMGZVQjAxMDNDSUxsaXFsMWU4Z1VGNDJWRmRyMkxaUzZjczVBOUVxcjI0Wkdib3FoWUNwRkJyZG1YWjVSSFlQamZXSlNRT0R5WE12eWUtTWVqbngxQktFSnRxel80ZzUtMG1DaWxLM0RJVEFLSUoyUkNsUEh2ZHJFazljbVRpc0djd2M0Q1VWTHlVRkxOekhU)
-  - [Samsung Electronics' market cap surpasses $1 trln after US AI chip stocks surge](https://news.google.com/rss/articles/CBMipAFBVV95cUxQbTVjT0djLWd1T3hRczZXWXBuUXpza1ZhS2p6cXJmbmdkZEMzZVBtbGQxanNXT3VSS3hSOHA1Ump6SnlFX0xyaC1KS3lBaU9oQmlsbndFc25aUHZocEVIbUE5eXJaNGxOT1ltazJEQmg4LTJfUE95VHJyQVdibHg5QjRldURwdEtXWmlOcFdNV0Q4OVFfM3EwRHhycnFRWE5Bcy11Ng)
 - **WSJ**
-  - [China Is Still Supplying Drone Factories in Iran, Russia Despite U.S. Sanctions](https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFh5S3V4a3hoZ1VHWWpaQ3NEcktQUHh6ci1aVFNucVMwMGtaZmk0X1dSTGNXZlozdDM5QmtXdUNhOUZtNW1TUTlZYjBkcl8wSjhKRmtEdVI2anFXRlc5UUJYWmJDTDcwa2ZXV092cDBmYXF1VmtCQmZsdVRxVGFHQlNYX0F3ZXFFRWtkRWxqZy1yQjQzVUhldzVoZzhqWkhTWDRFeDczRXlidWxiSkVjRllR)
+  - [Oil Falls, Risk Sentiment Rises as U.S. Avoids Iran Escalation](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMUp4NkxGbG9rQ0NFdnBxZjJpODYwcUloX3BydW9DRDhoYkU5dXVWY3NRVWlTR2xiaXBKV0E0QkR5WjhrM2pyeG1MS19lclBPSzdIRUxuT3J6M3UzcG05dkVmUXZ4SzBkUnFLWTlvTXhjRFMyWmdBdkY1a1lPMF9GcnZqQzhwUWk4UnNRRXhpbmIyUXI5U0dHYi0ycjdzdUtrYXVKUUxwdw)
+  - [Asian Stocks Advance Amid Hopes for U.S.‑Iran Peace Deal](https://news.google.com/rss/articles/CBMilwFBVV95cUxPWWNxMnFqTDBxZE9OQmZySEx3MVdBOVBGVDZ3SE9adV9NMkFSbDlQRjNiQWRfeXBaS20yUXd6Q291SkFtNE1hT1NnamJhVlFxOTZ1aVRpMm9wbUVvU1FfR29qc0xsM21Jc2xxWWoxWmRMbmZHTFlZRUw4cjRjb0p4aEllb0I3YzNjaWFGazBXT3VaS21qbXJ3)
   - [Samsung’s Market Value Hits $1 Trillion](https://news.google.com/rss/articles/CBMie0FVX3lxTFB2SUpzMHA3OFVrZVBGMF8wd19ZWHdkeEZnMXhpclpTWFNORjMyOWRTUnUzNllhclVxSEo4bXhnLXJSYUkzS2RZRjJnTFlKUXRQT3dwU3ZsdmVYSWM3RVFFTXhJQzJqMHpyZ3Z1YlAzYmZaNW9rWEd2VjdRUQ)
 - **FT**
-  - [Oil falls on signs of de‑escalation in Gulf](https://www.ft.com/content/8dd8d23a-2c5d-42c5-aedb-bbc1f49fcbea)
-  - [Iran’s top diplomat visits China ahead of Trump‑Xi summit](https://www.ft.com/content/f932425a-5023-426e-ae89-1521dbbfc07a)
+  - [Samsung Electronics hits $1tn value on AI euphoria](https://www.ft.com/content/4239a9e1-854d-4ae1-9792-a4a11d7ae5e8)
 - **CNBC**
-  - [Oil prices fall sharply on report U.S. and Iran closing in on a deal to end war](https://www.cnbc.com/2026/05/06/oil-prices-trump-pauses-strait-of-hormuz-escort-effort.html)
   - [South Korea's Kospi tops 7,000 to hit a new high as heavyweight Samsung surges 15%](https://www.cnbc.com/2026/05/06/asia-markets-today-kospi-hang-seng-asx-trump-iran-deal-.html)
-  - [Samsung crosses $1 trillion valuation as AI frenzy drives historic rally, lifting shares over 15%](https://www.cnbc.com/2026/05/06/samsung-electronics-ai-chip-rally-kospi-record-1-trillion.html)
+  - [Samsung crosses $1 trillion valuation as AI frenzy drives historic rally](https://www.cnbc.com/2026/05/06/samsung-electronics-ai-chip-rally-kospi-record-1-trillion.html)
   - [China presses Iran against resuming war, urges Hormuz reopening ahead of Trump‑Xi summit](https://www.cnbc.com/2026/05/06/china-iran-araghchi-wang-yi-trump-beijing-hormuz-talks.html)
 - **SCMP**
-  - [China’s Wang Yi and Iranian FM back new regional security framework in Gulf](https://www.scmp.com/news/china/diplomacy/article/3352590/chinese-fm-wang-yi-calls-swift-reopening-strait-hormuz)
-  - [US Army fires Typhon for first time in Philippines during Balikatan drills](https://www.scmp.com/news/asia/southeast-asia/article/3352548/us-army-fires-typhon-first-time-philippines-during-balikatan-drills)
+  - [Chinese FM Wang Yi calls for swift reopening of Strait of Hormuz](https://www.scmp.com/news/china/diplomacy/article/3352590/chinese-fm-wang-yi-calls-swift-reopening-strait-hormuz)
   - [Hong Kong retail sales jump 12.8% in March on back of higher car sales](https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3352608/hong-kong-retail-sales-jump-128-march-back-higher-car-sales)
-- **BBC**
-  - [Oil prices ease as US pauses Project Freedom to seek deal with Iran](https://www.bbc.com/news/articles/c4g8zejyyr3o)
-- **CNN**
-  - [Iranian FM meets with Chinese counterpart to discuss ‘regional and international developments’](https://news.google.com/rss/articles/CBMivAFBVV95cUxQclZWX0pPeF9hVDY0LVBzWFFwSkVHMTBpTUs1NmhvV3RndVVaUVlzODFLdTd6U3pvN2owQVE2SlM4dE0wVUY3MVcwaGFsN3h5M2xlVnI5X1FVOHcwNGxHRm5mOVhuV2JmbFM2ZVBhYUgxN19WV0dObGtuYWhTMkxPd0d4NGFQLTEybXF3QzlrdGNhNFRVVi1ZZm9lazJDSDhFdkhZbjNSRm15aks3U1hKRXcxRzRTUU5JbHVOTw)
-- **Investing**
-  - [Asia FX gains amid Iran peace hopes; S.Korean won outperforms after hot CPI](https://www.investing.com/news/forex-news/asia-fx-gains-amid-iran-peace-hopes-skorean-won-outperforms-after-hot-cpi-4661661)
-- **Al Jazeera**
-  - [Iran’s Araghchi holds talks with China’s Wang Yi in Beijing](https://www.aljazeera.com/news/2026/5/6/irans-araghchi-holds-talks-with-chinas-wang-yi-in-beijing)
-  - [Iran war live: Trump says Hormuz operation paused amid US, Tehran talks](https://www.aljazeera.com/news/liveblog/2026/5/6/iran-war-live-trump-says-hormuz-operation-paused-amid-us-tehran-talks)
+  - [EU cyber plan barring Chinese suppliers will cost US$430 billion: report](https://www.scmp.com/economy/china-economy/article/3352610/eu-cyber-plan-barring-chinese-suppliers-will-cost-us430-billion-report)
 - **ECB Press**
-  - [New data release: ECB wage tracker indicates negotiated wage pressures stable in 2026](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260506~4ea17afd4a.en.html)
-  - [Piero Cipollone: The new energy shock: economic scenarios and policy implications](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260506~1bbd4ed780.en.html)
+  - [ECB wage tracker indicates negotiated wage pressures stable in 2026](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260506~4ea17afd4a.en.html)
+- **Investing.com**
+  - [Japanese yen surges to over 2‑mth high amid reports of intervention](https://www.investing.com/news/forex-news/japanese-yen-surges-to-over-2mth-high-amid-reports-of-intervention-4661742)
 - **HKEJ**
-  - [港股走勢丨恒指高收315點返兩萬六 北水走資逾85億](https://news.google.com/rss/articles/CBMib0FVX3lxTE1wOUxDMVRUeTFjeGxNb0ZXQ3FPMG96MmFzUlc2NnVSZzVadF9RcHJfcVEwUzVUNHNBcFhmQUhjanJLM3VzVEV3dkVPUVBiUjcxV1VsTXRUY1ZzTXJuNDRMM3BqZ0FLcTRCZmR5dGlvVQ)
-  - [A股走勢丨滬指復市收升1.2% 深指創板漲逾2%](https://news.google.com/rss/articles/CBMib0FVX3lxTE9NRkZuUXZWWER2Q19tRlV4N0NMZEhmUXJnUkFOYWpZLUZ3U2cxVnFEcW5UbFNnVlZHM1pMYkN3cEhLemVkNDRzZ05ibUZET2YtaThKT01TNTk4Vkp4VUgzR1piTUgtMlMtcTNQNnhXTQ)
+  - [韓股收漲近6.5% 首破7000大關](https://news.google.com/rss/articles/CBMipwJBVV95cUxNWVowSF9NZllBQ1JqYUR3OW1rOFNjd3NxUS1kdGRrQktTYUtVQ2hQekV0ZFNEYnJtVjY1ZHNoWnhKb0llUll2ZXR1MHBDYUY5Q05DUXItV0NMMU1YdXJBQnhCemxfRTFOdnZGWmpRNzNoc1BlaWJFUGV2Y0sweEhIX0c3QkU3cjhCSk55ZEZubE0wSU9KUVNsOE5kZ1RoRkNsTXh4RGFFOUtvUXVvemp1UEktMzlFS3lJM1NobTVmRVA1LVoyRnUwcHJZbEhuYzhIWGJ1VVJRTDhaNm15bFhSSUFsMVFsOVdsRmdDVjdrQ0tCNzJPWlRNU05DNnhiaC1zdkZHMV83a1g1bUhYRmUwYlloNkdJQ293bDNCQ1R5VEpjLTRaSkVr)
+  - [港股高收315點返兩萬六](https://news.google.com/rss/articles/CBMib0FVX3lxTE1wOUxDMVRUeTFjeGxNb0ZXQ3FPMG96MmFzUlc2NnVSZzVadF9RcHJfcVEwUzVUNHNBcFhmQUhjanJLM3VzVEV3dkVPUVBiUjcxV1VsTXRUY1ZzTXJuNDRMM3BqZ0FLcTRCZmR5dGlvVQ)
+- **S&P Global**
+  - [China General Services PMI](https://news.google.com/rss/articles/CBMijwFBVV95cUxONVpnbElObGFZNnpSMlJOYlBFYXJnYmNkS21pX19TOWI5MGt2NFlib1pSdGtPWl91dWstUHM5UTRGbHo1WWlLLTQ0V3oyVkdUdlh1NVd5dnVKeUE5a0hsU1hXeWZtbkhKbmtiUmlwVFNMdDBCMUNiNmtYOHFzOGxPejZrQUVNTlBqVjBPcTRhYw)
+- **BusinessTimes**
+  - [Indonesia tightens rule on FX purchases after rupiah hit new record low](https://news.google.com/rss/articles/CBMivgFBVV95cUxPbkdmZWxENmVVcGtkUmxnbXBpSGVmN1p4Y2VIQjZIZnBMbmNDdnRzMlgwazd5d1pCRE42RjJ5UlVJeTQ4SDFpTG9hYlVYNnBPUUI4Wjd0YlpRMGNrNzl4bUp3R1Vka3VVZXMxZGlEdjJuaEhncUhGOE5xSkt4QUU3d1RJX2M2eXI4TkRiclZNek5pZ0lPSUpPSmVGQlJlQ2hMMDRxdXFUSFZLX0k2eERnV2RJQkdHS2x0dVdnZ3JB)
