@@ -759,12 +759,19 @@ def _fetch_te_calendar(window_end):
                      "Interest Rate", "Rate Decision", "Monetary Policy", "Meeting Minutes"]
 
     events = []
-    try:
-        req = ur.Request(TE_CALENDAR_URL, headers=HTTP_HEADERS)
-        resp = ur.urlopen(req, timeout=15, context=SSL_CTX)
-        html = resp.read().decode("utf-8", errors="replace")
-    except Exception as e:
-        print(f"  [warn] TradingEconomics calendar: fetch failed ({e})", file=sys.stderr)
+    html = None
+    for attempt in (1, 2):
+        try:
+            req = ur.Request(TE_CALENDAR_URL, headers=HTTP_HEADERS)
+            resp = ur.urlopen(req, timeout=20, context=SSL_CTX)
+            html = resp.read().decode("utf-8", errors="replace")
+            break
+        except Exception as e:
+            print(f"  [warn] TE calendar attempt {attempt}: {e}", file=sys.stderr)
+            if attempt == 1:
+                time.sleep(5)
+    if not html:
+        print(f"  [warn] TE calendar: fetch failed after 2 attempts", file=sys.stderr)
         return events
 
     # Parse rows
@@ -773,7 +780,9 @@ def _fetch_te_calendar(window_end):
         re.DOTALL,
     )
 
+    raw_count = 0
     for match in row_start_pattern.finditer(html):
+        raw_count += 1
         url, country, category, event_name, symbol = match.groups()
         row_start = match.start()
         depth = 1
@@ -855,6 +864,7 @@ def _fetch_te_calendar(window_end):
     for e in events:
         del e["hkt_dt"]
 
+    print(f"  TE Calendar: {raw_count} rows parsed → {len(events)} after country/window filter")
     return events
 
 
