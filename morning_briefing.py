@@ -18,6 +18,9 @@ from pathlib import Path
 
 import certifi
 ssl._create_default_https_context = lambda: ssl.create_default_context(cafile=certifi.where())
+SSL_CTX = ssl.create_default_context()
+SSL_CTX.check_hostname = False
+SSL_CTX.verify_mode = ssl.CERT_NONE
 
 import urllib.request
 import feedparser
@@ -758,7 +761,7 @@ def _fetch_te_calendar(window_end):
     events = []
     try:
         req = ur.Request(TE_CALENDAR_URL, headers=HTTP_HEADERS)
-        resp = ur.urlopen(req, timeout=15)
+        resp = ur.urlopen(req, timeout=15, context=SSL_CTX)
         html = resp.read().decode("utf-8", errors="replace")
     except Exception as e:
         print(f"  [warn] TradingEconomics calendar: fetch failed ({e})", file=sys.stderr)
