@@ -1452,8 +1452,15 @@ def _save_macro_state(state_content, window_end):
     state_path = GITHUB_PAGES_REPO / "docs" / "macro_state.md"
     date_str = window_end.strftime("%Y-%m-%d")
     header = f"# Macro State — Last updated: {date_str}\n\n"
+    state_text = header + state_content.strip() + "\n"
     state_path.parent.mkdir(parents=True, exist_ok=True)
-    state_path.write_text(header + state_content.strip() + "\n", encoding="utf-8")
+    state_path.write_text(state_text, encoding="utf-8")
+    # Also save to Obsidian vault for monitoring
+    vault_state = OUTPUT_DIR.parent / "macro_state.md"
+    try:
+        vault_state.write_text(state_text, encoding="utf-8")
+    except OSError:
+        pass  # GitHub Actions won't have the vault path
     print(f"  [state] Macro state saved ({len(state_content)} chars)")
 
 
