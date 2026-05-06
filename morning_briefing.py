@@ -365,7 +365,7 @@ TIGHTNESS CONSTRAINTS:
 - No em dashes. Cut all redundancies.
 
 <state_update>
-After the Full Reading List, output updated state in this XML block (stripped before publishing):
+After the Full Reading List, you MUST output updated state in this XML block. This is REQUIRED on every run — never skip it. The state is stripped before publishing so it won't appear in the final report:
 ## Active Narratives (max 4 — drop stale, add new)
 ## What We're Tracking (max 5 — remove resolved)
 ## Open Questions (max 3)
@@ -1309,6 +1309,8 @@ If the TRADINGECONOMICS table is empty or has no events, write: "No high-impact 
 
 ## 📚 Full Reading List
 [2-level nested bullets. Level 1: `- **SourceName**`. Level 2: 2-space-indented `  - [Headline](URL)`. Sort: BBG → Reuters → WSJ → FT → CNBC → SCMP → BBC → CNN → others. Omit sources with zero articles.]
+
+After the Full Reading List, output `<state_update>` block with updated macro state. REQUIRED — never skip.
 
 ---
 """)
