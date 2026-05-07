@@ -997,16 +997,24 @@ def fetch_all_feeds(window_start, window_end):
                 fut = executor.submit(_fetch_one_feed, name, url, window_start, window_end)
             futures[fut] = (name, url)
 
+        feed_articles = {}  # track per-feed article count
         for fut in as_completed(futures):
+            name, url = futures[fut]
             articles = fut.result()
+            feed_articles[name] = len(articles)
             for a in articles:
                 link = a["link"]
                 if link not in seen_urls:
                     seen_urls.add(link)
                     all_articles.append(a)
+        # Log feeds with zero articles
+        zeros = sorted([n for n, c in feed_articles.items() if c == 0])
+        if zeros:
+            print(f"  {len(zeros)}/{len(all_tasks)} feeds returned 0 articles: {', '.join(zeros[:10])}{'...' if len(zeros) > 10 else ''}")
 
     if not all_articles:
-        print("[error] No articles fetched from any feed. Retrying once in 30s...", file=sys.stderr)
+        print(f"[error] No articles fetched from any feed ({len(all_tasks)} feeds).", file=sys.stderr)
+        print("[error] Retrying once in 30s...", file=sys.stderr)
         time.sleep(30)
         # Retry once — GitHub Actions runners occasionally have cold-start network issues
         for fut in as_completed(futures):
