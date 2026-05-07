@@ -361,6 +361,11 @@ POTENTIAL MARKET IMPACT FORMATTING:
 
 TIGHTNESS CONSTRAINTS:
 - AI Reasoning: each bullet max 35 words
+- Fact paragraphs: max 250 words each. Be selective — not every article needs to be cited.
+- Global Radar: max 5 items per category. Skip categories entirely if nothing high-impact.
+- Narrative Watch: max 4 stories. Lead with the 2-3 most macro-relevant.
+- Full Reading List: only articles actually cited. Skip sources with zero citations.
+- Morning reports have a 24K output token ceiling — if you're running long, cut low-priority stories before cutting the calendar or reading list.
 - No preamble, no academic hedging, no defining basic concepts
 - No em dashes. Cut all redundancies.
 
