@@ -2,8 +2,8 @@ name: Daily Macro Briefing
 
 on:
   schedule:
-    # HKT 8:05 AM = UTC 0:05, HKT 6:05 PM = UTC 10:05
-    - cron: '5 0,10 * * *'
+    # HKT 9:07 AM = UTC 1:07, HKT 6:07 PM = UTC 10:07 (avoid :00/:05 congestion)
+    - cron: '7 1,10 * * *'
   workflow_dispatch:
 
 permissions:
