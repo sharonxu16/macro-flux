@@ -180,7 +180,7 @@ MEDIUM_PRIORITY_KEYWORDS = [
 
 OUTPUT_DIR = Path("/Users/sharonxu/Library/Mobile Documents/iCloud~md~obsidian/Documents/Claude_Workspace/02_Morning_Reports/News")
 MODEL = os.environ.get("ANTHROPIC_MODEL", "claude-sonnet-4-20250514")
-MAX_OUTPUT_TOKENS = 16384
+MAX_OUTPUT_TOKENS = 24576
 FEED_TIMEOUT = 10  # seconds per feed
 MAX_AGE_HOURS = 48
 LOCAL_TZ = timezone(timedelta(hours=8))  # HKT
