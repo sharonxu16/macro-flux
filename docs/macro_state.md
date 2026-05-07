@@ -1,25 +1,26 @@
-# Macro State — Last updated: 2026-05-06
+# Macro State — Last updated: 2026-05-07
 
 ## Active Narratives (max 4 — drop stale, add new)
-1. [ACTIVE] **US-Iran Peace Push & Hormuz De-escalation** — One-page memo closing in, oil briefly below $100, risk assets rally globally.
-2. [ACTIVE] **AI/Peace Equity Boom** — Kospi +6.5%, Samsung crosses $1T, AI capex euphoria reinforced by AMD forecast and DeepSeek funding talks.
-3. [ACTIVE] **China Resilience Narrative** — Services PMI unexpectedly up, HK retail sales jump, domestic demand absorbing energy shock.
-4. [NEW] **Yen Surge & BOJ Intervention Risk** — Large JPY move prompts intervention chatter, accelerating dollar weakness.
+1. [ACTIVE] **US‑Iran Peace Push & Hormuz De‑escalation** — One‑page memo advancing; oil briefly below `$100`; EM stocks at record highs; blockade still enforced with tanker disablement.
+2. [ACTIVE] **AI/Peace Equity Boom** — AI capex signals intensify through AMD, Nvidia/Corning, Anthropic; Nikkei record, global equities rally.
+3. [ACTIVE] **Yen Surge & Intervention Risk** — Sharp yen appreciation spurs intervention chatter; peace‑driven dollar weakness amplifies the move.
+4. [NEW] **China Hormuz Diplomacy & Summit Trade Tensions** — Beijing pressing Iran on strait reopening; Trump‑Xi meeting next week with major trade conflict building beneath the surface.
 
 ## What We're Tracking (max 5 — remove resolved)
-1. Finalisation of US-Iran peace memo and any Iranian public rejection.
-2. US ADP employment and EIA crude stocks — critical for oil supply and Fed path.
-3. ECB wage tracker and Cipollone speech implications for euro‑zone rate expectations.
-4. Follow‑up from Wang‑Araghchi meeting on Gulf security framework specifics.
-5. Trump‑Xi summit next week — will China’s role in Iran diplomacy feature?
+1. Finalisation of US‑Iran peace memo and any Iranian public rejection.
+2. US initial jobless claims and productivity data — key for Fed‑path reassessment.
+3. MOF/BOJ communication on yen intervention; actual intervention confirmation.
+4. EIA crude and product inventory trends — potential further tightening despite peace hopes.
+5. Any trade‑related announcements or posture shifts ahead of Trump‑Xi summit.
 
 ## Open Questions (max 3)
-1. Will the one‑page memo translate into a commercial transit reopening, or does the blockade risk persist?
-2. Can the AI‑chip rally sustain if the peace premium reverses and energy cost fears return?
-3. Is this yen surge a temporary intervention or the start of a sustained trend that compels a BOJ pivot?
+1. Will the one‑page memo translate into a commercial transit reopening, or does the blockade risk persist despite diplomatic progress?
+2. Can the global AI equipment cycle continue to power equities if peace quickly unwinds the energy‑cost tailwind for corporates?
+3. Is the yen’s move a genuine shift in BoJ‑intervention policy or merely a thin‑liquidity spike that will reverse on verbal pushback?
 
 ## Key Levels (max 5 — only with today's source citations)
-- Brent crude: briefly below `$100` ([BBG](https://www.bloomberg.com/news/articles/2026-05-06/oil-slumps-after-report-us-and-iran-near-deal-to-end-war))
-- Kospi: closed up `6.5%`, breaking `7,000` ([CNBC](https://www.cnbc.com/2026/05/06/asia-markets-today-kospi-hang-seng-asx-trump-iran-deal-.html), [HKEJ](https://news.google.com/rss/articles/CBMipwJBVV95cUxNWVowSF9NZllBQ1JqYUR3OW1rOFNjd3NxUS1kdGRrQktTYUtVQ2hQekV0ZFNEYnJtVjY1ZHNoWnhKb0llUll2ZXR1MHBDYUY5Q05DUXItV0NMMU1YdXJBQnhCemxfRTFOdnZGWmpRNzNoc1BlaWJFUGV2Y0sweEhIX0c3QkU3cjhCSk55ZEZubE0wSU9KUVNsOE5kZ1RoRkNsTXh4RGFFOUtvUXVvemp1UEktMzlFS3lJM1NobTVmRVA1LVoyRnUwcHJZbEhuYzhIWGJ1VVJRTDhaNm15bFhSSUFsMVFsOVdsRmdDVjdrQ0tCNzJPWlRNU05DNnhiaC1zdkZHMV83a1g1bUhYRmUwYlloNkdJQ293bDNCQ1R5VEpjLTRaSkVr))
-- Samsung market cap: crossed `$1 trillion` ([FT](https://www.ft.com/content/4239a9e1-854d-4ae1-9792-a4a11d7ae5e8), [CNBC](https://www.cnbc.com/2026/05/06/samsung-electronics-ai-chip-rally-kospi-record-1-trillion.html))
-- HSI: closed up `315` points, reclaiming `26,000` ([
+- Brent crude: briefly below `$100` ([BBG](https://www.bloomberg.com/news/articles/2026-05-06/latest-oil-market-news-and-analysis-for-may-7))
+- S&P 500: record close ([Reuters](https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ3V5RlZkMXFBanpJNkJ0YVlKRkxYamlXOF9kbjl4RDJtZjctOTd2cHZucnI4ckdCbXZ3LUhCQjdnckU4SVZwVU9jeE54Zzk0dy03RGlBMFFLZVRreHdBemhuOFpnY2dIWVVCdTZva3JFWHViN2dlclF1TnYwSWZSMlp4RjFWZHZKa1cxanM2SG5xVHZzN0VxNG5sQUF0UENxbERpdGpKbXFzakVn))
+- Nikkei 225: intraday record high ([BBG](https://www.bloomberg.com/news/articles/2026-05-06/japan-stocks-set-to-jump-at-market-reopen-on-iran-deal-optimism))
+- EM equity index: all‑time high ([BBG](https://www.bloomberg.com/news/articles/2026-05-06/emerging-stocks-hit-record-high-currencies-gain-on-iran-signals))
+- USD/JPY: surged to 10‑week low for the dollar (yen strength) amid intervention speculation ([Investing_Forex](https://www.investing.com/news/forex-news/yen-surges-to-10week-high-fueling-fresh-intervention-speculation-93CH-4664430))
