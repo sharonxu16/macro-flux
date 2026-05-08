@@ -28,6 +28,8 @@ import urllib.request
 import feedparser
 from anthropic import Anthropic
 
+from briefing_runtime import env_int, write_json_artifact, write_text_artifact
+
 
 def _load_env_from_claude_config():
     """Populate env vars from ~/.claude/settings.json if not already set.
@@ -188,10 +190,35 @@ MAX_AGE_HOURS = 48
 LOCAL_TZ = timezone(timedelta(hours=8))  # HKT
 MAX_ENHANCE_ARTICLES = 30       # max articles to fetch full text for
 ENHANCE_DELAY = 0.8             # seconds between full-text requests
+MAX_PROMPT_ARTICLES = env_int("MAX_PROMPT_ARTICLES", 240, min_value=80)
+MAX_GENERAL_ARTICLES = env_int("MAX_GENERAL_ARTICLES", 180, min_value=40)
+MAX_ARTICLES_PER_SOURCE = env_int("MAX_ARTICLES_PER_SOURCE", 25, min_value=5)
+MAX_PRIORITY_BODY_CHARS = env_int("MAX_PRIORITY_BODY_CHARS", 1600, min_value=400)
+MAX_CNN_BODY_CHARS = env_int("MAX_CNN_BODY_CHARS", 900, min_value=300)
+MAX_GENERAL_BODY_CHARS = env_int("MAX_GENERAL_BODY_CHARS", 500, min_value=150)
+MAX_MORNING_CONTEXT_CHARS = env_int("MAX_MORNING_CONTEXT_CHARS", 3000, min_value=1000)
 HTTP_HEADERS = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"}
 
 # Sources where simple HTTP GET can extract article text (no paywall / anti-bot)
 OPEN_SOURCES = {"BBC_Business", "SCMP_Econ", "SCMP_China_Econ", "SCMP_Asia", "Yahoo_Finance", "Investing_Forex"}
+
+CNN_MACRO_KEYWORDS = [
+    "fed ", "rate hike", "rate cut", "interest rate", "inflation", "recession",
+    "economy", "market", "stock", "bond", "treasury", "yield",
+    "tariff", "trade war", "sanction", "oil price", "crude", "energy crisis",
+    "housing market", "jobs report", "payroll", "layoff", "unemployment",
+    "wage growth", "congress", "white house", "dollar", "currency",
+    "china", "russia", "iran", "war", "military", "nato", "putin", "xi",
+    "central bank", "Wall Street", "stimulus", "debt ceiling", "gdp",
+    "consumer spending", "retail sales", "cost of living",
+    "bailout", "supply chain", "shortage", "crisis",
+]
+
+SOURCE_PROMPT_ORDER = [
+    "BBG", "Reuters", "WSJ", "FT", "CNBC", "SCMP", "BBC", "CNN",
+    "ECB", "Fed", "BOE", "BOJ", "BOK", "RBA", "MAS", "HKMA",
+    "WallstreetCN", "Caixin", "CCTV", "HKEJ",
+]
 
 SYSTEM_PROMPT = """[Stage 1: Persona & Objective]
 
@@ -1042,6 +1069,14 @@ def fetch_all_feeds(window_start, window_end):
             print("[error] Still no articles after retry. Exiting.", file=sys.stderr)
             sys.exit(1)
 
+    write_json_artifact("source_counts.json", {
+        "total_sources": len(all_tasks),
+        "total_articles_before_dedup": sum(feed_articles.values()),
+        "total_articles_after_dedup": len(all_articles),
+        "zero_feeds": sorted([n for n, c in feed_articles.items() if c == 0]),
+        "feed_article_counts": dict(sorted(feed_articles.items())),
+    })
+
     all_articles.sort(key=lambda a: (-a["priority"], a["source"], a["title"]))
 
     # Enhance top articles with full text — also parallelized
@@ -1079,8 +1114,93 @@ def fetch_all_feeds(window_start, window_end):
 # Prompt building
 # ---------------------------------------------------------------------------
 
+def _is_cnn_macro_article(article):
+    """Return True for CNN items with enough macro signal to enter the prompt."""
+    if not article["source"].startswith("CNN_"):
+        return False
+    text = f"{article['title']} {article.get('summary','')}".lower()
+    return any(kw in text for kw in CNN_MACRO_KEYWORDS)
+
+
+def _source_prompt_rank(source):
+    for rank, prefix in enumerate(SOURCE_PROMPT_ORDER):
+        if source.startswith(prefix):
+            return rank
+    return len(SOURCE_PROMPT_ORDER)
+
+
+def _article_key(article):
+    return article.get("link") or f"{article.get('source')}::{article.get('title')}"
+
+
+def _select_prompt_articles(articles):
+    """Select a bounded, high-signal article set for the LLM prompt."""
+    from collections import Counter
+
+    selected = []
+    seen = set()
+    source_counts = Counter()
+    general_count = 0
+
+    def add(article, force=False, counts_as_general=False):
+        nonlocal general_count
+        key = _article_key(article)
+        if key in seen:
+            return False
+        if not force:
+            if len(selected) >= MAX_PROMPT_ARTICLES:
+                return False
+            if source_counts[article["source"]] >= MAX_ARTICLES_PER_SOURCE:
+                return False
+            if counts_as_general and general_count >= MAX_GENERAL_ARTICLES:
+                return False
+        seen.add(key)
+        selected.append(article)
+        source_counts[article["source"]] += 1
+        if counts_as_general:
+            general_count += 1
+        return True
+
+    priority = [a for a in articles if a["priority"] >= 10]
+    cnn_signal = [a for a in articles if _is_cnn_macro_article(a)]
+    remaining = [
+        a for a in articles
+        if a["priority"] < 10 and not _is_cnn_macro_article(a)
+    ]
+    remaining.sort(key=lambda a: (-a["priority"], _source_prompt_rank(a["source"]), a["title"]))
+
+    for article in priority:
+        add(article, force=True)
+    for article in cnn_signal:
+        add(article)
+    for article in remaining:
+        add(article, counts_as_general=True)
+
+    meta = {
+        "articles_fetched": len(articles),
+        "articles_in_prompt": len(selected),
+        "articles_dropped": max(0, len(articles) - len(selected)),
+        "priority_articles_available": len(priority),
+        "cnn_signal_articles_available": len(cnn_signal),
+        "general_articles_in_prompt": general_count,
+        "max_prompt_articles": MAX_PROMPT_ARTICLES,
+        "max_general_articles": MAX_GENERAL_ARTICLES,
+        "max_articles_per_source": MAX_ARTICLES_PER_SOURCE,
+        "source_counts_in_prompt": dict(sorted(source_counts.items())),
+    }
+    return selected, meta
+
+
 def build_prompt(articles, window_start_str, window_end_str, window_start, window_end, te_events=None, briefing_type="morning"):
     """Build a Bloomberg-terminal-style dense feed for the LLM."""
+    original_article_count = len(articles)
+    articles, selection_meta = _select_prompt_articles(articles)
+    if len(articles) != original_article_count:
+        print(
+            f"  Prompt articles: {len(articles)}/{original_article_count} "
+            f"(source cap {MAX_ARTICLES_PER_SOURCE}, general cap {MAX_GENERAL_ARTICLES})"
+        )
+
     # Natural language date range for display
     def _fmt_dt(dt):
         return dt.strftime("%b %-d %I%p").replace(" 0", " ")
@@ -1113,7 +1233,8 @@ def build_prompt(articles, window_start_str, window_end_str, window_start, windo
     from collections import Counter
     source_counts = Counter(a["source"] for a in articles)
     lines.append("## FEED STATISTICS")
-    lines.append(f"Total articles: {len(articles)}")
+    lines.append(f"Total articles fetched: {original_article_count}")
+    lines.append(f"Articles included in prompt: {len(articles)}")
     lines.append(f"Sources hit: {len(source_counts)}")
     lines.append(f"Priority (CNY/KRW/TWD keywords >= 10): {sum(1 for a in articles if a['priority'] >= 10)}")
     lines.append(f"Medium (Fed/ECB/trade etc >= 3): {sum(1 for a in articles if 3 <= a['priority'] < 10)}")
@@ -1149,43 +1270,21 @@ def build_prompt(articles, window_start_str, window_end_str, window_start, windo
             lines.append(f"[{a['source']}] {a['title']}")
             body = a.get("full_text") or a.get("summary", "")
             if body:
-                lines.append(f"  {body[:2000]}")
+                lines.append(f"  {body[:MAX_PRIORITY_BODY_CHARS]}")
             if a["link"]:
                 lines.append(f"  URL: {a['link']}")
             lines.append("")
         lines.append("---")
 
     # CNN signal extraction — pre-filter: keep only articles with macro-relevant keywords
-    CNN_MACRO_KEYWORDS = [
-        "fed ", "rate hike", "rate cut", "interest rate", "inflation", "recession",
-        "economy", "market", "stock", "bond", "treasury", "yield",
-        "tariff", "trade war", "sanction", "oil price", "crude", "energy crisis",
-        "housing market", "jobs report", "payroll", "layoff", "unemployment",
-        "wage growth", "congress", "white house", "dollar", "currency",
-        "china", "russia", "iran", "war", "military", "nato", "putin", "xi",
-        "central bank", "Wall Street", "stimulus", "debt ceiling", "gdp",
-        "consumer spending", "retail sales", "cost of living",
-        "bailout", "supply chain", "shortage", "crisis",
-    ]
-    cnn_articles = []
-    for a in articles:
-        if not a["source"].startswith("CNN_"):
-            continue
-        # CNN_GN articles from Google News still need macro relevance check
-        if a["source"] == "CNN_GN":
-            text = f"{a['title']} {a.get('summary','')}".lower()
-            if not any(kw in text for kw in CNN_MACRO_KEYWORDS):
-                continue
-        text = f"{a['title']} {a.get('summary','')}".lower()
-        if any(kw in text for kw in CNN_MACRO_KEYWORDS):
-            cnn_articles.append(a)
+    cnn_articles = [a for a in articles if _is_cnn_macro_article(a)]
     if cnn_articles:
         lines.append("## CNN SIGNAL FEED (Sentiment & Speed — Must surface at least 1-2 in report)")
         for a in cnn_articles:
             lines.append(f"[{a['source']}] {a['title']}")
             body = a.get("full_text") or a.get("summary", "")
             if body:
-                lines.append(f"  {body[:1200]}")
+                lines.append(f"  {body[:MAX_CNN_BODY_CHARS]}")
             if a["link"]:
                 lines.append(f"  URL: {a['link']}")
             lines.append("")
@@ -1199,7 +1298,7 @@ def build_prompt(articles, window_start_str, window_end_str, window_start, windo
             lines.append(f"[{a['source']}] {a['title']}")
             body = a.get("full_text") or a.get("summary", "")
             if body:
-                lines.append(f"  {body[:800]}")
+                lines.append(f"  {body[:MAX_GENERAL_BODY_CHARS]}")
             if a["link"]:
                 lines.append(f"  URL: {a['link']}")
             lines.append("")
@@ -1336,7 +1435,20 @@ After the Full Reading List, output `<state_update>` block with updated macro st
 
 ---
 """)
-    return "\n".join(lines)
+    prompt = "\n".join(lines)
+    write_json_artifact("prompt_meta.json", {
+        **selection_meta,
+        "briefing_type": briefing_type,
+        "window_start_hkt": window_start_str,
+        "window_end_hkt": window_end_str,
+        "prompt_chars": len(prompt),
+        "estimated_prompt_tokens": len(prompt) // 4,
+        "max_priority_body_chars": MAX_PRIORITY_BODY_CHARS,
+        "max_cnn_body_chars": MAX_CNN_BODY_CHARS,
+        "max_general_body_chars": MAX_GENERAL_BODY_CHARS,
+    })
+    write_text_artifact("prompt_preview.txt", prompt[:12000])
+    return prompt
 
 
 # ---------------------------------------------------------------------------
@@ -1455,9 +1567,9 @@ def _load_morning_report(window_end):
     frl_marker = "## 📚 Full Reading List"
     if frl_marker in text:
         text = text[:text.index(frl_marker)].strip()
-    # Truncate if still too long (keep under ~3000 chars for context window)
-    if len(text) > 4000:
-        text = text[:4000] + "\n\n[...truncated for context window...]"
+    # Truncate if still too long; morning context is only for de-duplication.
+    if len(text) > MAX_MORNING_CONTEXT_CHARS:
+        text = text[:MAX_MORNING_CONTEXT_CHARS] + "\n\n[...truncated for context window...]"
     return text
 
 
@@ -1661,6 +1773,13 @@ def main():
 
     print(f"[macro-flux {briefing_type}] {window_start_str} → {window_end_str} (HKT)")
     print("=" * 60)
+    write_json_artifact("run_context.json", {
+        "briefing_type": briefing_type,
+        "window_start_hkt": window_start_str,
+        "window_end_hkt": window_end_str,
+        "model": MODEL,
+        "max_output_tokens": MAX_OUTPUT_TOKENS,
+    })
 
     # Stage 1: Fetch all RSS feeds
     total_sources = len(RSS_FEEDS) + len(HTML_SOURCES)
@@ -1686,6 +1805,7 @@ def main():
             break
         except Exception as e:
             print(f"  [error] Attempt {attempt}: {e}", file=sys.stderr)
+            write_text_artifact("llm_error.txt", f"Attempt {attempt}: {e}\n")
             if attempt == 1:
                 time.sleep(5)
 

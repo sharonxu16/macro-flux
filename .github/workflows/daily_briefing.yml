@@ -106,7 +106,21 @@ jobs:
           ANTHROPIC_BASE_URL: https://api.deepseek.com/anthropic
           ANTHROPIC_MODEL: deepseek-v4-pro
           BRIEFING_REPO_PATH: ${{ github.workspace }}
-        run: python morning_briefing.py ${{ steps.type.outputs.flag }} --from "${{ steps.type.outputs.window_from }}" --to "${{ steps.type.outputs.window_to }}"
+          RUN_ARTIFACTS_DIR: run_artifacts
+        run: |
+          set -o pipefail
+          python morning_briefing.py ${{ steps.type.outputs.flag }} --from "${{ steps.type.outputs.window_from }}" --to "${{ steps.type.outputs.window_to }}" 2>&1 | tee briefing-run.log
+
+      - name: Upload briefing debug artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: briefing-debug-${{ github.run_id }}
+          path: |
+            briefing-run.log
+            run_artifacts/
+          if-no-files-found: ignore
+          retention-days: 14
 
       - name: Commit and push
         run: |
