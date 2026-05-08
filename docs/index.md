@@ -1,114 +1,94 @@
 ---
 tags:
   - Macro/Hormuz_Blockade
-  - Macro/Tariffs
+  - Macro/China_Summit
   - Asset/Brent
-  - Asset/Gold
-  - Trade/Long_Brent
+  - Asset/CNH
+  - Asset/GBP
 ---
 <div align="center">
 
 # 🌊 Macro Flux
 
-<small>May 7 6PM to May 8 8AM HKT</small>
+<small>May 8 8AM to May 8 6PM HKT</small>
 
-<small>Good morning.</small>
+<small>Good afternoon.</small>
 
 </div>
 
 ---
 
 > [!abstract] Overview
-> The US-Iran ceasefire was severely tested overnight as both sides exchanged fire in the Strait of Hormuz, sending crude oil sharply higher and re‑injecting a supply‑disruption risk premium into global markets. A US trade court simultaneously struck down Trump’s 10% global tariff as illegal, while the president set a July 4 deadline for the EU to ratify a trade deal or face “much higher” levies. Within the Fed, three senior officials publicly aired dissent over the rate‑path signal, and ECB’s Schnabel warned rate hikes may be needed if the energy shock broadens. The cross‑currents reinforce a stagflationary impulse: conflict‑driven oil spikes collide with fractured central bank guidance and escalating tariff uncertainty.
+> Ceasefire hopes suffered a fresh blow as the UAE intercepted Iranian drones and missiles, forcing Trump to insist the truce still holds while oil prices surged and Asian equities dropped. Trump set a July 4 deadline for the EU to ratify its trade deal or face “much higher” levies, and he invited Boeing and Mastercard CEOs to join his Beijing summit next week, injecting two‑way risk into the trade outlook. Prime Minister Starmer defied heavy local election losses and said he would stay on, triggering a relief rally in gilts and sterling. Japan’s wage data kept a June rate rise on the table as intervention speculation simmered. The cross‑currents harden a stagflationary impulse in which energy‑supply fear, trade brinkmanship, and political fragility converge on sustained volatility.
 
 ---
 
 ## 🔬 Narrative Watch
 
-### 📌 US‑Iran Ceasefire Frays as Forces Exchange Fire in Hormuz
+### 📌 UAE Intercepts Iranian Drones as Ceasefire Strain Deepens
 
 **Fact**
-Oil jumped following renewed clashes between US and Iranian forces, jeopardizing the outlook for a deal to end the 10‑week war ([BBG](https://www.bloomberg.com/news/articles/2026-05-07/latest-oil-market-news-and-analysis-for-may-8)). The US military said it carried out retaliatory strikes against Iran after what it described as unprovoked attacks on its warships transiting the Strait of Hormuz ([Reuters](https://news.google.com/rss/articles/CBMixAFBVV95cUxOMTZwUEpxOWVFbWliMVZyLS1LNkx2bEV6cFRVUzRfN3pxY1Y5S0dhd3kwR0VtOTl2MVdhUEduLVc4Wm9HR0ZBbDNGYklrNEU0dlJyalBaZmpLU3FHc1RsTEdmclJUZXpRNC1vcU1WY1M3Q012Y1o3N096VlNwWTlaaC1qdGdLMFpnbDA2SmI4a2VIcjlYaW56cHVwYnRCcG5EUGxLMFpOZ0drZkVSczR1RUlPVThBY3RzRGEzbWNFMVF4RXhV)). Gulf states lifted restrictions that had blocked “Project Freedom” in the Strait of Hormuz ([WSJ](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY05rVzZsTXZMbHZZZ2ZNTUxjc0l0VmxyYU5rOGE3eURMQVVVUFNhWHNUZmY2NERPYmNOSlNaVmhtVHFGcm1KVk5mTkJTeFEwZVNCMjdXV20wZFM4cHI1bDQ3V1RtNnRHeE0yOFZlM0szM0VLbEE5YVFPTkJkVDhHLUpnY1BMSkEyU1pMdVlCcy05NzdQaDh1UnE2amJlTWQtNDhfSEU0bXhES1h2T0RFZTVKWDNuejlmbW5XQnJNVTQtYzg)). Iran’s military said it attacked US Navy ships after they targeted an Iranian tanker, and state media reported explosions near Bandar Abbas ([Al Jazeera](https://www.aljazeera.com/news/2026/5/7/explosions-heard-in-iran-as-state-media-reports-clashes-with-us-navy)). The US also struck Iran’s Qeshm port and Bandar Abbas ([Reuters](https://news.google.com/rss/articles/CBMixAFBVV95cUxOMTZwUEpxOWVFbWliMVZyLS1LNkx2bEV6cFRVUzRfN3pxY1Y5S0dhd3kwR0VtOTl2MVdhUEduLVc4Wm9HR0ZBbDNGYklrNEU0dlJyalBaZmpLU3FHc1RsTEdmclJUZXpRNC1vcU1WY1M3Q012Y1o3N096VlNwWTlaaC1qdGdLMFpnbDA2SmI4a2VIcjlYaW56cHVwYnRCcG5EUGxLMFpOZ0drZkVSczR1RUlPVThBY3RzRGEzbWNFMVF4RXhV)). A Chinese‑owned oil tanker was hit near the Strait while the US paused a ship‑protection plan ([Reuters](https://news.google.com/rss/articles/CBMixAFBVV95cUxOa3k1bVJQd0NHeHlYZmNKZmZhVkpQWk9PbV9OcWNSQ2VZcGpNdS1UeXgyTDFHSUtSdllmRHR3WmNOOEo5eDlOYnZCSGc5UkctRW1aS0tpZVdlek5DbTRNeFJWRkNVMEVZcks3SDBkWnRsaEo5amxmUmFNNHo2YXRmemp0YVFZd2F1cDM5LUQzZFVxNlRkYXNLcUY0V0NCVzEwTmcyeGF3YVNFWDgyWEkzYmdLenVlel9zbEJ6YkhGbmxLQ05y)). Neither side said the ceasefire was formally dead, though both accused the other of violations ([Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/5/8/iran-war-live-trump-says-ceasefire-still-in-effect-as-iran-us-clash)).
+The UAE intercepted Iranian drones and missiles as tensions escalated in the Strait of Hormuz, even as Donald Trump insisted the ceasefire was still in effect ([FT](https://www.ft.com/content/90225b9c-707c-4877-931d-5022d1ed583f)). The US military said it carried out retaliatory strikes against Iran after what it described as unprovoked attacks on its warships transiting the strait, while Iran accused the US of breaching the ceasefire and attacked American destroyers ([Reuters](https://news.google.com/rss/articles/CBMixAFBVV95cUxOMTZwUEpxOWVFbWliMVZyLS1LNkx2bEV6cFRVUzRfN3pxY1Y5S0dhd3kwR0VtOTl2MVdhUEduLVc4Wm9HR0ZBbDNGYklrNEU0dlJyalBaZmpLU3FHc1RsTEdmclJUZXpRNC1vcU1WY1M3Q012Y1o3N096VlNwWTlaaC1qdGdLMFpnbDA2SmI4a2VIcjlYaW56cHVwYnRCcG5EUGxLMFpOZ0drZkVSczR1RUlPVThBY3RzRGEzbWNFMVF4RXhV)). Brent crude rose sharply as both sides exchanged fire in the critical waterway ([Al Jazeera](https://www.aljazeera.com/economy/2026/5/8/oil-prices-jump-as-us-iran-trade-fire-in-strait-of-hormuz)). Trump said the ceasefire still holds but warned Iran to “sign the agreement fast” ([Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/8/trump-says-ceasefire-still-in-effect-but-iran-better-sign-agreement)). The US also struck Iran’s Qeshm port and Bandar Abbas ([Reuters](https://news.google.com/rss/articles/CBMixAFBVV95cUxOMTZwUEpxOWVFbWliMVZyLS1LNkx2bEV6cFRVUzRfN3pxY1Y5S0dhd3kwR0VtOTl2MVdhUEduLVc4Wm9HR0ZBbDNGYklrNEU0dlJyalBaZmpLU3FHc1RsTEdmclJUZXpRNC1vcU1WY1M3Q012Y1o3N096VlNwWTlaaC1qdGdLMFpnbDA2SmI4a2VIcjlYaW56cHVwYnRCcG5EUGxLMFpOZ0drZkVSczR1RUlPVThBY3RzRGEzbWNFMVF4RXhV)).
 
 > [!info] [AI Reasoning]
-> * **Base Case**: The exchange of fire materially raises the probability of a formal ceasefire collapse and prolongs the Strait’s effective closure, sustaining elevated energy costs and reinforcing global inflationary pressures.
-> * **Tactical Trade**: **Long Brent**; **PIVOT to flat/neutral** if a high‑level bilateral agreement is announced within the next 24 hours and the US‑escorted “Project Freedom” begins without further kinetic contact.
+> * **Base Case**: UAE interceptions physically widen the conflict radius, making a near‑term reopening of Hormuz less credible and entrenching the oil‑supply risk premium that feeds into global inflation.
+> * **Tactical Trade**: **Long Brent**; **PIVOT to flat/neutral** if a verified US‑Iran de‑escalation communiqué and unimpeded Project Freedom convoy transit materialise within 24 hours.
 
-### 📌 US Trade Court Rules 10% Global Tariff Illegal, Issues Narrow Block
+### 📌 Trump Readies Slimmed‑Down CEO Delegation for Beijing Summit
 
 **Fact**
-A US trade court ruled on Thursday that President Donald Trump’s 10% global tariffs are illegal but issued only a narrow block affecting the specific businesses that sued ([Reuters](https://news.google.com/rss/articles/CBMimgFBVV95cUxNWVVLLXRwc2ZYclkxUkZLVFJwVERMaF96WGpsOUdndDcyNXhXaEhvaU5WME9LT2xiWnJIbkRDX3hWSGpmbllUX2txRjRLWG8wWVg2Z090R2R6dk1PVUUtWmRoaGk2c3NLX0JxLUJNWDV2a2hVZUtqQUlaOUNybmFYMXl3RDhNX0VZcm1OVGhJZ0tSdEpVU3FoTk13)). The ruling represents a setback to the administration’s trade policy but could be appealed ([WSJ](https://news.google.com/rss/articles/CBMimgFBVV95cUxNSU9CQkR4eDJValRWcDJXTjdMbkhsbFliNHdjQUZKT3dxbnlSbUZxSV8ycnFxZ28teGlkNHRkQ1U1eUwzM2dLMWFVYzNTYkFhbm9aSXc1aFpEc0d4Rm5NcDhzcEYxTUVzdVhQdjVaYjRTQ1JqdmN4c29iU2otVWtEdkU1QVdHODVrbUszR1hDOWpkS2JLclJidkNR)). The small‑business plaintiffs had argued the tariffs exceeded presidential authority ([WSJ](https://news.google.com/rss/articles/CBMimgFBVV95cUxNSU9CQkR4eDJValRWcDJXTjdMbkhsbFliNHdjQUZKT3dxbnlSbUZxSV8ycnFxZ28teGlkNHRkQ1U1eUwzM2dLMWFVYzNTYkFhbm9aSXc1aFpEc0d4Rm5NcDhzcEYxTUVzdVhQdjVaYjRTQ1JqdmN4c29iU2otVWtEdkU1QVdHODVrbUszR1hDOWpkS2JLclJidkNR)).
+The Trump administration is inviting American CEOs from Boeing, Mastercard, Citigroup and other major corporations to join his delegation to China next week, according to multiple sources ([SCMP_Econ](https://www.scmp.com/economy/global-economy/article/3352883/trump-invites-boeing-mastercard-ceos-join-china-trip-next-week-sources)). Boeing CEO Kelly Ortberg said in April that the company was counting on the Trump administration to help unlock a long‑awaited major order from China ([SCMP_Econ](https://www.scmp.com/economy/global-economy/article/3352883/trump-invites-boeing-mastercard-ceos-join-china-trip-next-week-sources)). The White House considered inviting about a dozen business leaders, compared with the 29 high‑profile executives on Trump’s last visit in 2017, Reuters reported ([SCMP_Econ](https://www.scmp.com/plus/news/china/diplomacy/article/3352886/trumps-beijing-trip-iran-war-diplomacy-tech-earnings)). Global soybean participants are awaiting the US‑China meeting with mixed expectations ([SP_Global_Commodities](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQakoydHdoRkxNM3VaOWJ6ZHNneDMtVEtvR2MzdWRYcjJlNkx6RFczdHg4clI0enFNdENlNEhmWWxGQWZGWF95UldEZFUtWmpNbHQ0TERmT1RadG9LelAzS3hXVG5COUtDZVlpWmJQSGN4enQwdnJYbEZRcHZLVGJtcDBCQ2R4a2dhQUt5N3VyajV1RHYwNDc3aUNYamR5Wk1kaS15YlNMR1I5Um40VHZNYXpRR0QtQWxOZWg5UldXMUpBSE1ybFBwdWZfZ3A0VGhhdFhkMWE2c05lMzlOQ0ZkSUdMc29wZFZ4V3c)). Trump overnight also gave the EU a July 4 deadline to ratify its trade agreement or face “much higher” tariffs ([CNBC](https://www.cnbc.com/2026/05/08/trump-tariffs-trade-eu-europe-deal.html)).
 
 > [!info] [AI Reasoning]
-> * **Base Case**: The ruling puts a legal ceiling on broad tariff escalation, reducing the immediate risk of a universal import levy that would stoke consumer inflation and disrupt supply chains.
-> * **Tactical Trade**: **Short USD/KRW** on reduced trade‑war tail risk; **PIVOT to flat** if the administration announces an immediate appeal that extends the legal uncertainty.
+> * **Base Case**: The China summit holds a binary catalyst for trade sentiment; a Boeing deal would signal that Sino‑US tensions are being managed despite the Iran war, while a failure would amplify protectionist fears and add to global growth headwinds.
+> * **Tactical Trade**: **Favours a tactical easing of CNH downside hedges** ahead of the summit; **PIVOT to add downside CNH protection** if the EU rejects the July 4 deadline and the Beijing meeting fails to produce a concrete commercial outcome.
 
-### 📌 Trump Sets July 4 Deadline for EU Trade Deal or “Much Higher” Tariffs
+### 📌 Starmer Defies Heavy Losses, Gilts Rally on Political Survival
 
 **Fact**
-President Donald Trump said he told EU Commission President Ursula von der Leyen the bloc must ratify a trade deal by July 4 or “their Tariffs would immediately jump to much higher levels” ([BBC](https://www.bbc.com/news/articles/cp3pyk4nw3lo)). The July 4 deadline ties the tariff threat to the US 250th birthday ([Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ2NtR3ZqenZELXNGSTlzNFNjTnZfdldoMlJmWHNlTWgxRTNDT3RzNEpFT2dDZGJnY0x3Zko5aHgxbzZ5QmpoeFctR0NKSlBmZ01Xd2pWOWdRQThLZzlVemdiQkNvZF9zTHdOX1BMc0Q0NExaUU9QMFhEdVRuZGVwSWJUUHg0ZEdyYmJLVUtjWDVFUU9sR1NYSzh6a1FoRjJDdm00RHRnVGhIRjFDcTZKLXJ0TERDazg)). European officials had previously fallen short of agreement on the pact ([SCMP](https://www.scmp.com/news/world/united-states-canada/article/3352820/trump-gives-eu-until-july-4-ratify-deal-or-face-tariff-hike)).
+UK government bonds rallied as Prime Minister Keir Starmer said he would stay as Labour leader despite the party’s heavy losses in local elections ([BBG](https://www.bloomberg.com/news/articles/2026-05-08/uk-bonds-rally-as-starmer-says-he-ll-stay-as-prime-minister)). Sterling also rose as Starmer vowed to fight on ([Reuters](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRExwdTA1aVd6dDlyaXBpX1Q4YXRtc1ptdnVTcXdCbTcycWd5QmZZazdKTnJuSkhHbnpVUDR4aFJPaDgzWnNJZ1pfZzRNZUZqaXhLeE83a01Bdk9ubGNtZ3FXVUVob3JOdTZzaldVNVJ4cExlNEtDN3IyOHJSeHd1QWI2OHJmcE9qblRuSHhWNWlGenlqQ09KSnZsbEI4aHVLU0dDNGRSN2E)). The populist Reform UK party made early gains, punishing Labour in former strongholds ([Al Jazeera](https://www.aljazeera.com/news/2026/5/8/uks-labour-set-for-heavy-losses-in-elections-as-reform-makes-early-gains)). The result deepens doubts over Starmer’s ability to govern but removes the immediate threat of a leadership vacuum ([SCMP_Econ](https://www.scmp.com/news/world/europe/article/3352908/defiant-starmer-digs-after-uk-labours-local-election-drubbing)).
 
 > [!info] [AI Reasoning]
-> * **Base Case**: The explicit deadline raises the odds of a transatlantic trade disruption that would hit European exports and global risk sentiment, especially if the EU struggles to reach internal consensus.
-> * **Tactical Trade**: **Short EUR/USD** on tariff‑risk‑driven euro underperformance, **PIVOT to neutral** if this week’s US‑China summit yields a major trade breakthrough that reduces protectionist momentum.
+> * **Base Case**: Political continuity removes a near‑term tail risk for UK assets, but the surging Reform vote signals that fiscal populism and a harder line on trade could gain traction, complicating the medium‑term policy outlook.
+> * **Tactical Trade**: **Fading extreme gilt underperformance** is warranted in the very short term; however, **PIVOT to neutral** if polling suggests Reform could emerge as a credible governing alternative.
 
-### 📌 FOMC Dissent Widens; ECB Warns of Energy‑Shock Rate Hike
+### 📌 Japanese Wage Data Keeps June Hike in Play as Intervention Talk Swirls
 
 **Fact**
-Boston Fed President Susan Collins favored changing the FOMC statement language along with the two voting members who dissented ([BBG](https://www.bloomberg.com/news/articles/2026-05-07/fed-s-collins-favored-changing-fomc-statement-with-dissenters)). Cleveland Fed President Beth Hammack said the FOMC’s signal that interest rates could be cut soon was misleading given inflation risks from the war ([BBG](https://www.bloomberg.com/news/articles/2026-05-07/fed-s-hammack-says-fomc-signal-on-rate-path-was-misleading)). San Francisco Fed President Mary Daly played down divisions, signaling she would not have dissented as some colleagues did ([BBG](https://www.bloomberg.com/news/articles/2026-05-07/fed-s-daly-says-statement-language-is-less-important-than-action)). Separately, ECB Executive Board member Isabel Schnabel said the central bank would need to hike if the oil‑price shock broadened into broader inflation expectations and wages ([BBG](https://www.bloomberg.com/news/articles/2026-05-07/schnabel-says-ecb-will-need-to-hike-if-energy-shock-broadens)).
+March wage growth in Japan undershot expectations but pressure to tighten is still on, supportive of a June rate rise ([FT](https://www.ft.com/content/4cf79258-4289-47fa-b19a-46370b46791c)). Japan’s Ministry of Finance has intervened in the yen over the country’s Golden Week holiday, though markets are testing Tokyo’s resolve ([CNBC](https://www.cnbc.com/2026/05/07/japan-yen-intervention-boj-rate-gap-currency-pressure.html)). The service sector grew at the slowest pace in 11 months in April, according to the final au Jibun Bank PMI ([BusinessTimes](https://news.google.com/rss/articles/CBMipgFBVV95cUxQT1ZGOXhwbGEyMklFU3VvdElUQ0YzdTlQS0ZfcUg3WU9xdFl0N3pFT3hWZzJsaXRlZml2dk1maGRXeWRkV1E0N0gwbTBfR2d5ajJEMV9DeFVVRVhsTUs4ZnV2bUtqTDNPWkh3bE9oYk1RUkdQSWZxVlIzVDFjOVZhMDhoeWZDVU40QU5KdWRQVEJ2T00wbGVTVXd4RmtweTlQY1RLRHN3)).
 
 > [!info] [AI Reasoning]
-> * **Base Case**: The public dissent erodes the FOMC’s forward‑guidance credibility, raising the risk of a hawkish repricing once the war‑driven uncertainty recedes. Schnabel’s warning signals the ECB is on alert for a policy tightening if energy prices sustainably lift core inflation.
-> * **Tactical Trade**: **Short US rates** (favor higher front‑end yields) on breakdown of dovish consensus; **PIVOT to neutral** if Friday’s US payrolls print strongly amid a ceasefire breakthrough.
-
-### 📌 Trump’s China Summit On Track; CEO Delegation Invited
-
-**Fact**
-President Donald Trump is forging ahead with plans to hold a summit with President Xi Jinping next week in Beijing, despite unease among Chinese officials about holding the meeting before the war in Iran is resolved ([BBG](https://www.bloomberg.com/news/articles/2026-05-07/trump-s-summit-with-xi-is-on-despite-china-s-iran-concerns)). The White House is inviting CEOs from Nvidia, Apple, Boeing, Exxon, Qualcomm, Blackstone, Citigroup, and Visa to accompany the president ([SCMP](https://www.scmp.com/news/world/united-states-canada/article/3352821/white-house-inviting-ceos-nvidia-apple-trumps-china-trip-report-says)). China’s Premier Li Qiang told visiting US senator Steve Daines that Beijing hoped to maintain “stable and predictable” trade ties ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3352763/china-seeks-improved-us-ties-and-harmony-fm-wang-yi-tells-visiting-american-senators)).
-
-> [!info] [AI Reasoning]
-> * **Base Case**: The summit remains a potential de‑escalation catalyst, with a large corporate delegation suggesting a possible aircraft or energy deal that could ease trade tensions and provide China with a symbolic win.
-> * **Tactical Trade**: **Long CNH** into the summit on the prospect of a positive‑sum outcome; **PIVOT to short** if Chinese media hardens its Iran‑war rhetoric and signals deep displeasure with Washington.
+> * **Base Case**: A June rate hike would put further upward pressure on JGB yields and narrow the rate gap with the US, providing fundamental support for the yen beyond intervention; a dovish tilt would trigger a fresh sell‑off.
+> * **Tactical Trade**: **Aggressively scaling into long JPY positions** ahead of the June meeting once intervention‑driven volatility subsides.
 
 ---
 
 ## 🌍 Global Radar
 
 ### 📊 Economic Indicators
-- US productivity growth cooled in Q1 as hours worked rebounded, though it still rose ([BBG](https://www.bloomberg.com/news/articles/2026-05-07/productivity-growth-in-us-cools-on-rebound-in-hours-worked)).
-- US consumer borrowing increased in March by the most since late 2022, reflecting a surge in non‑revolving credit and higher card balances ([BBG](https://www.bloomberg.com/news/articles/2026-05-07/us-consumer-borrowing-increased-in-march-by-most-since-2022)).
-- US jobless claims rose last week ([WSJ](https://news.google.com/rss/articles/CBMigAFBVV95cUxPNXptV0FYV0E0b2xRcUlwQWlDMFJ4N0xna0dpVVg3bzlJRmtmRllPWm9aOXY0NWZ2cmxWRW9uVVlwNUZ5amdGYU5Dc3B5ckZaNG9VWGQ5bWkxZVZDOHdxU1BQMTc1WGxoTnBXam9jLWp1aTJWUHI5WnNVZTAwaE8waA)).
-- Japan’s real wages rose for a third consecutive month in March, supporting the BOJ’s case for further rate hikes ([BBG](https://www.bloomberg.com/news/articles/2026-05-07/japan-s-real-wages-rise-for-third-month-offering-relief-for-boj)).
-- Germany expects a €52‑billion ($58.9bn) federal tax‑revenue hole through 2030, blaming the Iran war ([BBG](https://www.bloomberg.com/news/articles/2026-05-07/germany-sees-52-billion-tax-hole-as-iran-war-hits-economy)).
-- US short‑term inflation expectations inched up in April, according to the New York Fed Survey ([BBG](https://www.bloomberg.com/news/articles/2026-05-07/short-term-inflation-expectations-edge-up-ny-fed-survey-finds)).
-- Whirlpool said the Iran war caused a “recession‑level industry decline” in the US as consumer confidence collapsed ([CNBC](https://www.cnbc.com/2026/05/07/whirlpool-says-iran-war-causing-recession-level-industry-decline-the-shares-are-down-20percent.html)).
+- German industrial production unexpectedly fell by `1.2%` in March, the second consecutive decline, adding to worries for Europe’s largest economy as it grapples with the Iran war ([BBG](https://www.bloomberg.com/news/articles/2026-05-08/german-industrial-production-unexpectedly-falls-for-second-month)).
+- Global food prices climbed to their highest level in more than three years as the Iran war disrupted supply chains ([BBG](https://www.bloomberg.com/news/articles/2026-05-08/food-prices-rise-to-highest-in-three-years-on-iran-war-costs)).
+- The Philippines vowed a rapid ramp‑up in government spending starting this month to revive an economy hit by a sharp slowdown in growth and surging consumer prices ([BBG](https://www.bloomberg.com/news/articles/2026-05-08/philippines-vows-to-boost-state-spending-as-data-raises-stagflation-specter)).
+- Japan’s service sector growth slowed to an 11‑month low in April, with the au Jibun Bank Services PMI coming in at `52.2` ([BusinessTimes](https://news.google.com/rss/articles/CBMipgFBVV95cUxQT1ZGOXhwbGEyMklFU3VvdElUQ0YzdTlQS0ZfcUg3WU9xdFl0N3pFT3hWZzJsaXRlZml2dk1maGRXeWRkV1E0N0gwbTBfR2d5ajJEMV9DeFVVRVhsTUs4ZnV2bUtqTDNPWkh3bE9oYk1RUkdQSWZxVlIzVDFjOVZhMDhoeWZDVU40QU5KdWRQVEJ2T00wbGVTVXd4RmtweTlQY1RLRHN3)).
 
 ### 🏦 Central Banks
-- **Fed** — Boston Fed President Collins favored changing the post‑meeting statement along with the two dissenters ([BBG](https://www.bloomberg.com/news/articles/2026-05-07/fed-s-collins-favored-changing-fomc-statement-with-dissenters)). Cleveland Fed Hammack called the rate‑cut signal misleading given war‑fueled inflation risks ([BBG](https://www.bloomberg.com/news/articles/2026-05-07/fed-s-hammack-says-fomc-signal-on-rate-path-was-misleading)). San Francisco Fed’s Daly said statement language is less important than action ([BBG](https://www.bloomberg.com/news/articles/2026-05-07/fed-s-daly-says-statement-language-is-less-important-than-action)).
-- **ECB** — Executive Board member Schnabel said the ECB will need to hike if the energy shock broadens into wages and inflation expectations ([BBG](https://www.bloomberg.com/news/articles/2026-05-07/schnabel-says-ecb-will-need-to-hike-if-energy-shock-broadens)).
-- **Banxico** — Cut its benchmark rate by 25 bp to 6.5% and declared its two‑year easing cycle over ([BBG](https://www.bloomberg.com/news/articles/2026-05-07/banxico-cuts-key-rate-to-6-5-in-possible-end-to-easing-cycle)).
-- **MNB** — Hungary’s vice governor signaled a rate cut as early as June could be on the cards, citing the forint’s post‑election rally ([BBG](https://www.bloomberg.com/news/articles/2026-05-07/hungary-looks-to-june-for-potential-rate-move-on-strong-forint)).
+- **ECB Vice President Guindos** said the status of the Strait of Hormuz will be “key” for the June monetary policy meeting ([BBG](https://www.bloomberg.com/news/articles/2026-05-08/ecb-s-guindos-says-status-of-hormuz-will-be-key-for-june-meeting)).
+- **Bank of England** minutes from the May 7 Market Participants Group meeting highlighted that financial market participants expect persistent inflationary pressure from the energy shock ([BOE_News](https://www.bankofengland.co.uk/minutes/2026/may/market-participants-group-meeting-7-may-2026)).
 
 ### 🌐 Geopolitics & Policy
-- The US sanctioned an Iraqi oil ministry official and Iran‑linked militias for aiding Iranian oil sales ([WSJ](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOWJpUFl3TWlFYXJJUTBtMy1oZ2YtYnRHSWE4cnByVVBOTmU0SkMzZmxxT3VtUzVoRFV4WnIyb3JGYjNPdWRpNldMNEVFenVoZlNpZWY5VFBfTy0zZERLeGVEY2RzQXhKUUczdDBMMlAwSlYyV1AwejRhcDI1VEVKNjh6Z3hRSTdLNk9kaUtNZDNkcHZNdGJNczlCdWJsRE1MMUVsQy1uUlBhaUJRZUZpWjAwaFFWck5B)).
-- The US expanded Cuba sanctions to a nickel joint venture tied to Canadian miner Sherritt, with implications for China‑linked battery supply chains ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3352815/us-targets-cuba-nickel-operation-move-implications-china-linked-supply-chains)).
-- China sentenced two former defence ministers, Wei Fenghe and Li Shangfu, to death with a two‑year reprieve for corruption ([WSJ](https://news.google.com/rss/articles/CBMivgFBVV95cUxPR0Ztam1STHRhamFLel9KeUprRVQ4cXM4d2FzRWlTSERVSEVzY3RaczNiT01McGRzTmttQlZQNUsxNGJLX2J2WW4xdmQxOTFjbVhoQklwTlQ0aGJ5VDh1amczYVhCWWlqSldxQTlaS29RTjZjQ1lvWGgyclVXOTZhLURGSE43dlZCRW5IMHc4TlZyaE5tYUNNMWNnMkE3UTJhcVZ6amp3eGJpeUd3bUF3LVdCYzRXc0NyX3psWGhR)).
-- A UK court convicted two men linked to the Hong Kong trade office of spying on activists for China ([FT](https://www.ft.com/content/f478746f-a8d4-4b96-8a28-c70babeb2f3d)).
-- Thailand and Cambodia pledged to pursue trust‑building measures and enforce a fragile ceasefire after last year’s deadly border fighting ([SCMP](https://www.scmp.com/news/asia/southeast-asia/article/3352802/thailand-cambodia-pledge-forge-lasting-peace-asean-meet-after-border-clashes)).
-- Ukraine struck deep inside Russia while Moscow doubled down on threats to strike Kyiv ahead of the May 9 Victory Day parade ([WSJ](https://news.google.com/rss/articles/CBMie0FVX3lxTFBvWjYtbUZTOVZwbkR3YWJJNFczRVNBWld4c19xbmt1LWNJV1Y3akpwVGlMS3RBMFVWR0hCZEdrRnNWeWNPTkFsNTJNUl9qT1R3QXlneEREek8yaXJOcThjQ3hyMndJVUREMTluMy1wdWxMaTFNY2hobGJDZw)).
+- The UAE intercepted Iranian drones and missiles, marking the first direct third‑party kinetic engagement in the current crisis ([FT](https://www.ft.com/content/90225b9c-707c-4877-931d-5022d1ed583f)).
+- Trump gave the EU until July 4 to ratify its trade agreement or face “much higher” tariffs ([CNBC](https://www.cnbc.com/2026/05/08/trump-tariffs-trade-eu-europe-deal.html)).
+- Southeast Asian leaders at the ASEAN summit called for deeper energy cooperation and a reopening of the Strait of Hormuz as the fuel crisis dominated the agenda ([Al Jazeera](https://www.aljazeera.com/economy/2026/5/8/southeast-asias-leaders-confront-fallout-from-iran-war-at-asean-summit)).
+- Global perceptions of the US have fallen below Russia under Trump, a new international survey finds ([Reuters](https://news.google.com/rss/articles/CBMisgFBVV95cUxQNFNJM1Uzd010R0QwdmMtOGRiTzNKMUhJckhsbXZJMUxEQ2tzZnNvbHh0dXZFbWFuSF9Da1FDOUgtWDd1emtPZk1kRGJacWU1SHNaZm1vNFl3dE03UWczNVlaUk85VU9Gay1tb1ZXM0l0aWZhVUxhTjNlM2daUW9OaG9TZVVXaV9pczdfRWdsSl9JMlJibE54R0xtYkQ1cS1aa1N0UGJaMkxwWU1DYXJWQk5R)).
+- China confirmed it helped Pakistan’s air force with on‑site technical support during last year’s war with India ([SCMP_China](https://www.scmp.com/news/china/military/article/3352863/china-confirms-it-helped-pakistans-air-force-during-last-years-war-india)).
 
 ### 🛢️ Commodities
-- Brent crude jumped following renewed US‑Iran hostilities, jeopardising peace efforts ([BBG](https://www.bloomberg.com/news/articles/2026-05-07/latest-oil-market-news-and-analysis-for-may-8)). Brent futures rose $2.69 to `$105.78` a barrel ([Reuters](https://www.google.com/url?q=https://www.reuters.com/markets/commodities/oil-prices-jump-renewed-us-iran-hostilities-2026-05-07/)).
-- Comex gold settled `0.38%` higher at `$4,699.80` as truce hopes dimmed ([WSJ](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdG03SzNLZG50TjlqSVJUbmc1RXFhQ1hobkdtNE85aWZBcWlNYkhrWkRXQUlLNWh2WWxOXzBIekpjbEIxdnBXdXFMcU16Sm5ZVEVsQTBUemczMTdLRElsa0ozcVNFYXhMQ2VxVmM5WWd0WUk1V0FraFJTZ1JSbVNpTnVRV0lkZW9Fa1JCclVjaXVMcFBhUmowc2w1bGtkamt5RUVlTjd5YjVheHY2aVVRbXptZlU)).
-- Poland’s central bank plans to increase its gold reserves by 105 tonnes ([WallstreetCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DR3JWR2tLTFg4UzVNbGJYeFJrUEFoMFRHWlp1SE9NZ1ZrVGVkUFdxS29POUVQMWgyNFdVQVFTYTl0dFk5dy1PUWw1VVJhRmw2UlB3)).
-- HKEX plans to relaunch gold futures in coming months to capture growing mainland Chinese demand ([SCMP](https://www.scmp.com/business/banking-finance/article/3352800/gold-futures-set-hong-kong-comeback-mainland-chinas-appetite-metal-grows)).
-- Saudi Arabia boosted logistics spending to blunt the impact of the Iran war and Strait closure, adding to its Q1 budget deficit ([BBG](https://www.bloomberg.com/news/articles/2026-05-07/saudi-arabia-boosted-logistics-spending-to-blunt-impact-of-war)).
+- Brent crude jumped after the US and Iran exchanged fire in the Strait of Hormuz, with oil prices rising on the back of renewed supply‑disruption fears ([Al Jazeera](https://www.aljazeera.com/economy/2026/5/8/oil-prices-jump-as-us-iran-trade-fire-in-strait-of-hormuz)).
+- Global sulfur prices have surged due to Middle East disruptions and a Chinese export ban ([SP_Global_Commodities](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUGtnMnFkQU1ETWZLYUpLVHlXMXlfTk9TQ25SaUVXdHE1bS1xczlFUlNUcE44ZVdBUHNLeG03LXFRVEtDemFHOE5oaG1ZRHA2UGVJdXNSWUphbGhXcFZ1bFBVVEt0T2V2UjZLcGM2UlRzcDk3eG11YzB5SVVQUGMxQmVXeUJWNUVvZ0ZNaHljTlBpWDB1QXhDZWJ6eTFmSXRlQjNRU2U3LUJQNzR2X0dGVlhNWUI0WFZvaG91dE15WDNuTzQ4STFlODRMTFpTZzZGbmRnZFNlcHJRVDEwWUdFcmJKZHk)).
+- A primary aluminum supply crunch is boosting scrap demand and prices ([SP_Global_Commodities](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVjNVNkFuR1RmT1RxVHRBZm9kRWRtMmV5MDJ1TGJnazl5NVZqZXZHYXNVY2c5U3pFNmVaRjZJckNCODdMZ0VvQVk3X2p6Vk55YWhnOUFTYVJKSGoyQWRIS0RBYl9qMjVGODBGRThqQnI0bDVpX1FKanJCeU1iV0xTUnVPX1dJMERiVGRvUDlIQ0R6R1dZYmFrUlRYVkItcjAtaHk2UWtXZV94YmJWWVdIcFV1NUlkTDJKX3JiWWlDQVBCODNfYUxOWlQ5WFIzaFB3NVhpWnNwazVYZw)).
 
 ### 📈 Equities
-- Asian stocks pulled back from a record high as escalating tensions revived oil‑supply fears ([BBG](https://www.bloomberg.com/news/articles/2026-05-07/us-stock-futures-fall-oil-climbs-on-iran-tensions-markets-wrap)).
-- The S&P 500 ended lower as chip stocks gave up gains ([Reuters](https://www.google.com/url?q=https://www.reuters.com/markets/us/stock-market-iran-tensions-2026-05-07/)).
-- The pan‑European Stoxx 600 closed in the red, reversing morning gains, as investors assessed Middle East peace prospects ([CNBC](https://www.cnbc.com/2026/05/07/european-stocks-investors-await-peace-proposal-outcome-markets.html)).
-- Nvidia will invest up to `$2.1` billion in IREN as part of an AI data‑center deal, fueling a continued AI equity bid ([CNBC](https://www.cnbc.com/2026/05/07/options-traders-love-this-under-the-radar-ai-play.html)).
+- Asia‑Pacific markets mostly fell as renewed US‑Iran clashes kept investors on edge, with Hong Kong’s Hang Seng sliding `232` points and chip stocks retreating ([CNBC](https://www.cnbc.com/2026/05/08/asia-pacific-today-updates-nikkei-225-kospi-sensex-asi-hang-seng-csi-300.html), [HKEJ](https://news.google.com/rss/articles/CBMib0FVX3lxTE5Rcm5IM2tmb19iQkg2RFpCMVlkU3FwWG5HOUFIY1d6OTAwR0xaYllqTGtDZVhRVU5yWVByS3BxVl9YYkhXNm9lNHFUOGlkMWdVU2pNYW5YX3pxSVRMRXZFMWg2eUNVbWpaVDZPSGFXQQ)).
 
 ---
 
@@ -116,103 +96,54 @@ President Donald Trump is forging ahead with plans to hold a summit with Preside
 
 | Time (HKT) | Rgn | Event | Est. | Prior |
 |---|---|---|---|---|
-| 08:30 AM | JP | S&P Global Composite PMI Final | — | 53.0 |
-| 08:30 AM | JP | S&P Global Services PMI Final | 51.2 | 53.4 |
-| 10:30 AM | KR | ktbi auction | — | 1.035% |
-| 11:35 AM | JP | 3‑Month Bill Auction | — | 0.8316% |
-| 02:00 PM | DE | Balance of Trade | €18.4B | €19.8B |
-| 02:00 PM | DE | Industrial Production MoM | 0.5% | -0.3% |
-| 02:00 PM | GB | Halifax House Price Index MoM | -0.1% | -0.5% |
-| 02:00 PM | GB | Halifax House Price Index YoY | 0.6% | 0.8% |
-| 03:00 PM | ES | Industrial Production YoY | — | -1.1% |
-| 05:00 PM | GB | BBA Mortgage Rate | — | 6.6% |
 | 08:30 PM | US | Non Farm Payrolls | 62K | 178K |
 | 08:30 PM | US | Unemployment Rate | 4.3% | 4.3% |
 | 08:30 PM | US | Average Hourly Earnings MoM | 0.3% | 0.2% |
 | 08:30 PM | US | Average Hourly Earnings YoY | 3.8% | 3.5% |
-| 08:30 PM | US | Participation Rate | — | 61.9% |
-| 08:30 PM | US | Average Weekly Hours | 34.2 | 34.2 |
-| 08:30 PM | US | Government Payrolls | — | -8K |
-| 08:30 PM | US | Manufacturing Payrolls | 5K | 15K |
-| 08:30 PM | US | Nonfarm Payrolls Private | 75K | 186K |
-| 08:30 PM | US | U‑6 Unemployment Rate | — | 8% |
 | 10:00 PM | US | Michigan Consumer Sentiment Prel | 49.5 | 49.8 |
-| 10:00 PM | US | Michigan 5 Year Inflation Expectations Prel | — | 3.5% |
-| 10:00 PM | US | Michigan Consumer Expectations Prel | 48.1 | 48.1 |
-| 10:00 PM | US | Michigan Current Conditions Prel | 52 | 52.5 |
-| 10:00 PM | US | Michigan Inflation Expectations Prel | — | 4.7% |
 | 10:00 PM | US | Wholesale Inventories MoM | 1.4% | 0.8% |
-| May 09 01:00 AM | US | Baker Hughes Oil Rig Count | — | 408 |
-| May 09 01:00 AM | US | Baker Hughes Total Rigs Count | — | 547 |
+| 09:00 AM (May 9) | CN | Balance of Trade | $83.3B | $51.13B |
+| 09:00 AM (May 9) | CN | Exports YoY | 7.9% | 2.5% |
+| 09:00 AM (May 9) | CN | Imports YoY | 15.2% | 27.8% |
 
 ---
 
 ## 📚 Full Reading List
-
 - **BBG**
-  - [Oil Climbs Following Fresh Clashes Between US and Iranian Forces](https://www.bloomberg.com/news/articles/2026-05-07/latest-oil-market-news-and-analysis-for-may-8)
-  - [Fed’s Collins Agreed With FOMC Dissenters Over Statement](https://www.bloomberg.com/news/articles/2026-05-07/fed-s-collins-favored-changing-fomc-statement-with-dissenters)
-  - [Fed’s Hammack Says FOMC Signal on Rate Path Was Misleading](https://www.bloomberg.com/news/articles/2026-05-07/fed-s-hammack-says-fomc-signal-on-rate-path-was-misleading)
-  - [Fed’s Daly Says Statement Language Is Less Important Than Action](https://www.bloomberg.com/news/articles/2026-05-07/fed-s-daly-says-statement-language-is-less-important-than-action)
-  - [Schnabel Says ECB Will Need to Hike If Energy Shock Broadens](https://www.bloomberg.com/news/articles/2026-05-07/schnabel-says-ecb-will-need-to-hike-if-energy-shock-broadens)
-  - [Trump–Xi Summit Stays on Track Despite China’s Iran Concerns](https://www.bloomberg.com/news/articles/2026-05-07/trump-s-summit-with-xi-is-on-despite-china-s-iran-concerns)
-  - [US Productivity Growth Cools on Rebound in Hours Worked](https://www.bloomberg.com/news/articles/2026-05-07/productivity-growth-in-us-cools-on-rebound-in-hours-worked)
-  - [US Consumer Borrowing Increased in March by Most Since 2022](https://www.bloomberg.com/news/articles/2026-05-07/us-consumer-borrowing-increased-in-march-by-most-since-2022)
-  - [Japan’s Real Wages Rise For Third Month to Keep BOJ on Hike Path](https://www.bloomberg.com/news/articles/2026-05-07/japan-s-real-wages-rise-for-third-month-offering-relief-for-boj)
-  - [Germany Sees €52 Billion Tax Hole as Iran War Hits Economy](https://www.bloomberg.com/news/articles/2026-05-07/germany-sees-52-billion-tax-hole-as-iran-war-hits-economy)
-  - [Short‑Term Inflation Expectations Edge Up, New York Fed Survey Finds](https://www.bloomberg.com/news/articles/2026-05-07/short-term-inflation-expectations-edge-up-ny-fed-survey-finds)
-  - [Banxico Cuts Rate in Split Vote, Declares Easing Cycle Over](https://www.bloomberg.com/news/articles/2026-05-07/banxico-cuts-key-rate-to-6-5-in-possible-end-to-easing-cycle)
-  - [Hungary Looks to June for Potential Rate Move on Strong Forint](https://www.bloomberg.com/news/articles/2026-05-07/hungary-looks-to-june-for-potential-rate-move-on-strong-forint)
-  - [Saudi Arabia Boosted Logistics Spending to Blunt Impact of War](https://www.bloomberg.com/news/articles/2026-05-07/saudi-arabia-boosted-logistics-spending-to-blunt-impact-of-war)
-  - [Asian Stocks Drop, Oil Climbs on Iran Tensions: Markets Wrap](https://www.bloomberg.com/news/articles/2026-05-07/us-stock-futures-fall-oil-climbs-on-iran-tensions-markets-wrap)
-
+  - [ECB’s Guindos Says Status of Hormuz Will Be Key for June Meeting](https://www.bloomberg.com/news/articles/2026-05-08/ecb-s-guindos-says-status-of-hormuz-will-be-key-for-june-meeting)
+  - [German Industrial Output Unexpectedly Falls for Second Month](https://www.bloomberg.com/news/articles/2026-05-08/german-industrial-production-unexpectedly-falls-for-second-month)
+  - [Food Prices Rise to Highest in Three Years on Iran War Costs](https://www.bloomberg.com/news/articles/2026-05-08/food-prices-rise-to-highest-in-three-years-on-iran-war-costs)
+  - [UK Bonds Rally as Starmer Says He’ll Stay as Prime Minister](https://www.bloomberg.com/news/articles/2026-05-08/uk-bonds-rally-as-starmer-says-he-ll-stay-as-prime-minister)
 - **Reuters**
-  - [Oil prices jump on renewed US‑Iran hostilities](https://news.google.com/rss/articles/CBMilAFBVV95cUxPb1ZZWVlWYlVTaXhlS2ZkTnQ0UUhrNGpVbTRVeHhMRGpkNmRSMTdySFdQWTZBT3VIa1d4VXRqZ3hXZklsX0V1MkxOSmN3LW9GUnV6UFFySXE5YnhXTmpiM3FQUTFlQ2ZmNkFvVG95ckZnX29oZVlRdnNxaElDWG1YeTlzczR1UkhxR1RXcWhqdzdQdDQx)
-  - [US military says it carries out retaliatory strikes against Iran](https://news.google.com/rss/articles/CBMiugFBVV95cUxPOE1uOURBaC03bzROOEdzRzdQOGFvc1hOanMxM2w2NS0wOFc2ei1Ga1JDMHBTd0QtVzh4ZGdXSE16TFhkM1lXTWRZXzZ3bDM1SFo3Y1JfXzRoV09fQmJZSUZmOHNpWVptcjBKanJxM21GUS1Ncjc2Qm1rOTFkTk9yck9XWWRfZVk2QWNrdHZNWGIxUEkwX29aMDZ5em5ZaHZfcWlTQ2tncGh5WXFRT2Q0NnhyOXJZU3dYOWc)
-  - [US military strikes Iran’s Qeshm port and Bandar Abbas, Fox News reporter says](https://news.google.com/rss/articles/CBMixAFBVV95cUxOMTZwUEpxOWVFbWliMVZyLS1LNkx2bEV6cFRVUzRfN3pxY1Y5S0dhd3kwR0VtOTl2MVdhUEduLVc4Wm9HR0ZBbDNGYklrNEU0dlJyalBaZmpLU3FHc1RsTEdmclJUZXpRNC1vcU1WY1M3Q012Y1o3N096VlNwWTlaaC1qdGdLMFpnbDA2SmI4a2VIcjlYaW56cHVwYnRCcG5EUGxLMFpOZ0drZkVSczR1RUlPVThBY3RzRGEzbWNFMVF4RXhV)
-  - [Chinese‑owned oil tanker hit near Hormuz as US pauses ship‑protection plan, report says](https://news.google.com/rss/articles/CBMixAFBVV95cUxOa3k1bVJQd0NHeHlYZmNKZmZhVkpQWk9PbV9OcWNSQ2VZcGpNdS1UeXgyTDFHSUtSdllmRHR3WmNOOEo5eDlOYnZCSGc5UkctRW1aS0tpZVdlek5DbTRNeFJWRkNVMEVZcks3SDBkWnRsaEo5amxmUmFNNHo2YXRmemp0YVFZd2F1cDM5LUQzZFVxNlRkYXNLcUY0V0NCVzEwTmcyeGF3YVNFWDgyWEkzYmdLenVlel9zbEJ6YkhGbmxLQ05y)
-  - [US trade court rules Trump tariffs illegal, but issues narrow block](https://news.google.com/rss/articles/CBMimgFBVV95cUxNWVVLLXRwc2ZYclkxUkZLVFJwVERMaF96WGpsOUdndDcyNXhXaEhvaU5WME9LT2xiWnJIbkRDX3hWSGpmbllUX2txRjRLWG8wWVg2Z090R2R6dk1PVUUtWmRoaGk2c3NLX0JxLUJNWDV2a2hVZUtqQUlaOUNybmFYMXl3RDhNX0VZcm1OVGhJZ0tSdEpVU3FoTk13)
-  - [Trump sets July 4 deadline for EU to comply with trade deal or face 'much higher' tariffs](https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ2NtR3ZqenZELXNGSTlzNFNjTnZfdldoMlJmWHNlTWgxRTNDT3RzNEpFT2dDZGJnY0x3Zko5aHgxbzZ5QmpoeFctR0NKSlBmZ01Xd2pWOWdRQThLZzlVemdiQkNvZF9zTHdOX1BMc0Q0NExaUU9QMFhEdVRuZGVwSWJUUHg0ZEdyYmJLVUtjWDVFUU9sR1NYSzh6a1FoRjJDdm00RHRnVGhIRjFDcTZKLXJ0TERDazg)
-  - [S&P 500 ends down as chip stocks give up gains](https://www.google.com/url?q=https://www.reuters.com/markets/us/stock-market-iran-tensions-2026-05-07/)
-
-- **WSJ**
-  - [Gulf States Lift Restrictions That Blocked ‘Project Freedom’ in Strait of Hormuz](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY05rVzZsTXZMbHZZZ2ZNTUxjc0l0VmxyYU5rOGE3eURMQVVVUFNhWHNUZmY2NERPYmNOSlNaVmhtVHFGcm1KVk5mTkJTeFEwZVNCMjdXV20wZFM4cHI1bDQ3V1RtNnRHeE0yOFZlM0szM0VLbEE5YVFPTkJkVDhHLUpnY1BMSkEyU1pMdVlCcy05NzdQaDh1UnE2amJlTWQtNDhfSEU0bXhES1h2T0RFZTVKWDNuejlmbW5XQnJNVTQtYzg)
-  - [Trade Court Rules Against Trump’s New Global Tariffs](https://news.google.com/rss/articles/CBMimgFBVV95cUxNSU9CQkR4eDJValRWcDJXTjdMbkhsbFliNHdjQUZKT3dxbnlSbUZxSV8ycnFxZ28teGlkNHRkQ1U1eUwzM2dLMWFVYzNTYkFhbm9aSXc1aFpEc0d4Rm5NcDhzcEYxTUVzdVhQdjVaYjRTQ1JqdmN4c29iU2otVWtEdkU1QVdHODVrbUszR1hDOWpkS2JLclJidkNR)
-  - [U.S Jobless Claims Rose Last Week](https://news.google.com/rss/articles/CBMigAFBVV95cUxPNXptV0FYV0E0b2xRcUlwQWlDMFJ4N0xna0dpVVg3bzlJRmtmRllPWm9aOXY0NWZ2cmxWRW9uVVlwNUZ5amdGYU5Dc3B5ckZaNG9VWGQ5bWkxZVZDOHdxU1BQMTc1WGxoTnBXam9jLWp1aTJWUHI5WnNVZTAwaE8waA)
-  - [Comex Gold Settles 0.38% Higher at $4699.80](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdG03SzNLZG50TjlqSVJUbmc1RXFhQ1hobkdtNE85aWZBcWlNYkhrWkRXQUlLNWh2WWxOXzBIekpjbEIxdnBXdXFMcU16Sm5ZVEVsQTBUemczMTdLRElsa0ozcVNFYXhMQ2VxVmM5WWd0WUk1V0FraFJTZ1JSbVNpTnVRV0lkZW9Fa1JCclVjaXVMcFBhUmowc2w1bGtkamt5RUVlTjd5YjVheHY2aVVRbXptZlU)
-  - [U.S. Sanctions Iraqi Official Over Allegedly Aiding Iranian Oil Sales](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOWJpUFl3TWlFYXJJUTBtMy1oZ2YtYnRHSWE4cnByVVBOTmU0SkMzZmxxT3VtUzVoRFV4WnIyb3JGYjNPdWRpNldMNEVFenVoZlNpZWY5VFBfTy0zZERLeGVEY2RzQXhKUUczdDBMMlAwSlYyV1AwejRhcDI1VEVKNjh6Z3hRSTdLNk9kaUtNZDNkcHZNdGJNczlCdWJsRE1MMUVsQy1uUlBhaUJRZUZpWjAwaFFWck5B)
-  - [China Hands Suspended Death Sentences to Former Defense Ministers for Corruption](https://news.google.com/rss/articles/CBMivgFBVV95cUxPR0Ztam1STHRhamFLel9KeUprRVQ4cXM4d2FzRWlTSERVSEVzY3RaczNiT01McGRzTmttQlZQNUsxNGJLX2J2WW4xdmQxOTFjbVhoQklwTlQ0aGJ5VDh1amczYVhCWWlqSldxQTlaS29RTjZjQ1lvWGgyclVXOTZhLURGSE43dlZCRW5IMHc4TlZyaE5tYUNNMWNnMkE3UTJhcVZ6amp3eGJpeUd3bUF3LVdCYzRXc0NyX3psWGhR)
-  - [Ukraine Strikes Deep Inside Russia](https://news.google.com/rss/articles/CBMie0FVX3lxTFBvWjYtbUZTOVZwbkR3YWJJNFczRVNBWld4c19xbmt1LWNJV1Y3akpwVGlMS3RBMFVWR0hCZEdrRnNWeWNPTkFsNTJNUl9qT1R3QXlneEREek8yaXJOcThjQ3hyMndJVUREMTluMy1wdWxMaTFNY2hobGJDZw)
-
+  - [US military says it carried out retaliatory strikes against Iran](https://news.google.com/rss/articles/CBMixAFBVV95cUxOMTZwUEpxOWVFbWliMVZyLS1LNkx2bEV6cFRVUzRfN3pxY1Y5S0dhd3kwR0VtOTl2MVdhUEduLVc4Wm9HR0ZBbDNGYklrNEU0dlJyalBaZmpLU3FHc1RsTEdmclJUZXpRNC1vcU1WY1M3Q012Y1o3N096VlNwWTlaaC1qdGdLMFpnbDA2SmI4a2VIcjlYaW56cHVwYnRCcG5EUGxLMFpOZ0drZkVSczR1RUlPVThBY3RzRGEzbWNFMVF4RXhV)
+  - [Sterling and gilts rise as Starmer vows to stay](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRExwdTA1aVd6dDlyaXBpX1Q4YXRtc1ptdnVTcXdCbTcycWd5QmZZazdKTnJuSkhHbnpVUDR4aFJPaDgzWnNJZ1pfZzRNZUZqaXhLeE83a01Bdk9ubGNtZ3FXVUVob3JOdTZzaldVNVJ4cExlNEtDN3IyOHJSeHd1QWI2OHJmcE9qblRuSHhWNWlGenlqQ09KSnZsbEI4aHVLU0dDNGRSN2E)
+  - [Global perceptions of US fall below Russia under Trump](https://news.google.com/rss/articles/CBMisgFBVV95cUxQNFNJM1Uzd010R0QwdmMtOGRiTzNKMUhJckhsbXZJMUxEQ2tzZnNvbHh0dXZFbWFuSF9Da1FDOUgtWDd1emtPZk1kRGJacWU1SHNaZm1vNFl3dE03UWczNVlaUk85VU9Gay1tb1ZXM0l0aWZhVUxhTjNlM2daUW9OaG9TZVVXaV9pczdfRWdsSl9JMlJibE54R0xtYkQ1cS1aa1N0UGJaMkxwWU1DYXJWQk5R)
 - **FT**
-  - [UK court convicts 2 men linked to Hong Kong trade office of spying](https://www.ft.com/content/f478746f-a8d4-4b96-8a28-c70babeb2f3d)
-
+  - [Trump says ceasefire still in effect after US and Iran clash – UAE intercepts Iranian drones and missiles](https://www.ft.com/content/90225b9c-707c-4877-931d-5022d1ed583f)
+  - [March wage growth in Japan supportive of June rate rise](https://www.ft.com/content/4cf79258-4289-47fa-b19a-46370b46791c)
 - **CNBC**
-  - [Whirlpool says Iran war causing 'recession‑level industry decline'](https://www.cnbc.com/2026/05/07/whirlpool-says-iran-war-causing-recession-level-industry-decline-the-shares-are-down-20percent.html)
-  - [European stocks end lower as peace prospects assessed](https://www.cnbc.com/2026/05/07/european-stocks-investors-await-peace-proposal-outcome-markets.html)
-  - [Nvidia to invest up to $2.1 billion in IREN](https://www.cnbc.com/2026/05/07/options-traders-love-this-under-the-radar-ai-play.html)
-
+  - [Trump threatens EU with ‘much higher’ tariffs if no trade deal signed by new deadline](https://www.cnbc.com/2026/05/08/trump-tariffs-trade-eu-europe-deal.html)
+  - [Japan may have fired its yen bazooka twice, but markets are testing Tokyo’s resolve](https://www.cnbc.com/2026/05/07/japan-yen-intervention-boj-rate-gap-currency-pressure.html)
+  - [Asia-Pacific markets mostly fall as renewed U.S.-Iran clashes keep investors on edge](https://www.cnbc.com/2026/05/08/asia-pacific-today-updates-nikkei-225-kospi-sensex-asi-hang-seng-csi-300.html)
 - **SCMP**
-  - [White House inviting Nvidia, Apple, Boeing CEOs on Trump’s China trip, report says](https://www.scmp.com/news/world/united-states-canada/article/3352821/white-house-inviting-ceos-nvidia-apple-trumps-china-trip-report-says)
-  - [China tells close Trump ally its wish list ahead of US leader’s Beijing trip](https://www.scmp.com/news/china/diplomacy/article/3352763/china-seeks-improved-us-ties-and-harmony-fm-wang-yi-tells-visiting-american-senators)
-  - [Trump gives EU until July 4 to ratify deal or face tariff hike](https://www.scmp.com/news/world/united-states-canada/article/3352820/trump-gives-eu-until-july-4-ratify-deal-or-face-tariff-hike)
-  - [US targets Cuba nickel operation in move with implications for China-linked supply chains](https://www.scmp.com/news/china/diplomacy/article/3352815/us-targets-cuba-nickel-operation-move-implications-china-linked-supply-chains)
-  - [Thailand, Cambodia pledge to forge lasting peace at Asean meet after border clashes](https://www.scmp.com/news/asia/southeast-asia/article/3352802/thailand-cambodia-pledge-forge-lasting-peace-asean-meet-after-border-clashes)
-  - [Gold futures set for Hong Kong comeback as mainland China’s appetite for the metal grows](https://www.scmp.com/business/banking-finance/article/3352800/gold-futures-set-hong-kong-comeback-mainland-chinas-appetite-metal-grows)
-
+  - [Trump invites Boeing, Mastercard CEOs to join China trip next week: sources](https://www.scmp.com/economy/global-economy/article/3352883/trump-invites-boeing-mastercard-ceos-join-china-trip-next-week-sources)
+  - [Trump’s Beijing trip, Iran war diplomacy, tech earnings](https://www.scmp.com/plus/news/china/diplomacy/article/3352886/trumps-beijing-trip-iran-war-diplomacy-tech-earnings)
+  - [China confirms it helped Pakistan’s air force during war with India last year](https://www.scmp.com/news/china/military/article/3352863/china-confirms-it-helped-pakistans-air-force-during-last-years-war-india)
+  - [Defiant Starmer digs in after UK Labour’s local election drubbing](https://www.scmp.com/news/world/europe/article/3352908/defiant-starmer-digs-after-uk-labours-local-election-drubbing)
 - **BBC**
-  - [Trump gives EU ultimatum deadline to approve trade deal with US](https://www.bbc.com/news/articles/cp3pyk4nw3lo)
-
-- **CNN**
-  - [US military strikes sites in Iran as countries exchange fire](https://news.google.com/rss/articles/CBMijAFBVV95cUxOWXUwRGdlNmJ0QlZ4YlNseHlhRFRoZlhxWG1jM0xMZnB0R1lyUVhBcjk2U0Y3U214Yzhib0o2RFF6dW5Hb0lZSkhCRXhBRU9XaTI5RWRMNXdER2RZdDBtT2ZMb01XZU9tRnhJLUNOd0dQTXRzdnNVTGhpcW9LSVF6c3hYSmU1MEN0aWo1QQ)
-  - [Trump’s attempt to impose new 10% tariffs gets struck down by a panel of judges](https://news.google.com/rss/articles/CBMimwFBVV95cUxQWHEyTVVvTlBteldLTnotZ0thdW9YSHNTaXRNYk9vNGF6LU55cXMzUmFLYTVmWWdaTkYzZzFRbkNMYThUc3RWMGptUEFvZi1YVTc3VXdKNUNZQWRJRFBDVkhBTk9mLVI3QlZueUxFM08xeldGWTdyQm54QVFGdkFIQTZKdWVBMkJpamZRUWE2ZWwtai1aMVVMYlYtRQ)
-
+  - [Oil prices rise after US and Iran exchange fire in Hormuz strait](https://www.bbc.com/news/articles/c86dp85g59xo)
 - **Al Jazeera**
-  - [Iran says it attacked US Navy ships after they targeted Iranian tanker](https://www.aljazeera.com/news/2026/5/7/explosions-heard-in-iran-as-state-media-reports-clashes-with-us-navy)
-  - [Iran war live: Trump says ceasefire still ‘in effect’ as Iran, US clash](https://www.aljazeera.com/news/liveblog/2026/5/8/iran-war-live-trump-says-ceasefire-still-in-effect-as-iran-us-clash)
-
-- **WallstreetCN**
-  - [全球最大黄金买家之一波兰央行：计划增持105吨黄金，金价短线拉升](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DR3JWR2tLTFg4UzVNbGJYeFJrUEFoMFRHWlp1SE9NZ1ZrVGVkUFdxS29POUVQMWgyNFdVQVFTYTl0dFk5dy1PUWw1VVJhRmw2UlB3)
-
-- **US_CENTCOM**
-  - [CENTCOM Protects U.S. Warships Transiting Strait of Hormuz](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOTRpUFEwYWVNWUk3eTB3SXl3VnlGV214ZnBYRThwMHhiTjZnOHppeDQtODJFZ0phZF9tMmd2a014dG9RMGlPUUhrLWdoTE13cnZvY2NOUDRwM04tMG9yazFfNFU2SkQzbU56YVc1VEVrbzJqbW5FMExqVHlmaXp3aGIyWkx0VEVsMEQ4VloweFctcExBdEJwNzJISVZSNjdQSjFyMGNGY3N6bksyNFlldkFxX3BUMGtQbEF1S3g4TGZoXzJ1b2c1Y25DSmIzYjRNa3JF)
+  - [Oil prices jump as US, Iran trade fire in Strait of Hormuz](https://www.aljazeera.com/economy/2026/5/8/oil-prices-jump-as-us-iran-trade-fire-in-strait-of-hormuz)
+  - [Trump says ceasefire still in effect, but Iran ‘better sign agreement fast’](https://www.aljazeera.com/video/newsfeed/2026/5/8/trump-says-ceasefire-still-in-effect-but-iran-better-sign-agreement)
+  - [Southeast Asia’s leaders confront fallout from Iran war at ASEAN summit](https://www.aljazeera.com/economy/2026/5/8/southeast-asias-leaders-confront-fallout-from-iran-war-at-asean-summit)
+  - [UK’s Labour set for heavy losses in elections as Reform makes early gains](https://www.aljazeera.com/news/2026/5/8/uks-labour-set-for-heavy-losses-in-elections-as-reform-makes-early-gains)
+- **Business Times**
+  - [Japan service sector growth slows to 11-month low in April: PMI](https://news.google.com/rss/articles/CBMipgFBVV95cUxQT1ZGOXhwbGEyMklFU3VvdElUQ0YzdTlQS0ZfcUg3WU9xdFl0N3pFT3hWZzJsaXRlZml2dk1maGRXeWRkV1E0N0gwbTBfR2d5ajJEMV9DeFVVRVhsTUs4ZnV2bUtqTDNPWkh3bE9oYk1RUkdQSWZxVlIzVDFjOVZhMDhoeWZDVU40QU5KdWRQVEJ2T00wbGVTVXd4RmtweTlQY1RLRHN3)
+- **HKEJ**
+  - [恒指走勢丨全日回吐232點 全周仍累升617點](https://news.google.com/rss/articles/CBMib0FVX3lxTE5Rcm5IM2tmb19iQkg2RFpCMVlkU3FwWG5HOUFIY1d6OTAwR0xaYllqTGtDZVhRVU5yWVByS3BxVl9YYkhXNm9lNHFUOGlkMWdVU2pNYW5YX3pxSVRMRXZFMWg2eUNVbWpaVDZPSGFXQQ)
+- **SP Global Commodities**
+  - [Global sulfur prices surge on Middle East disruptions, China export ban](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUGtnMnFkQU1ETWZLYUpLVHlXMXlfTk9TQ25SaUVXdHE1bS1xczlFUlNUcE44ZVdBUHNLeG03LXFRVEtDemFHOE5oaG1ZRHA2UGVJdXNSWUphbGhXcFZ1bFBVVEt0T2V2UjZLcGM2UlRzcDk3eG11YzB5SVVQUGMxQmVXeUJWNUVvZ0ZNaHljTlBpWDB1QXhDZWJ6eTFmSXRlQjNRU2U3LUJQNzR2X0dGVlhNWUI0WFZvaG91dE15WDNuTzQ4STFlODRMTFpTZzZGbmRnZFNlcHJRVDEwWUdFcmJKZHk)
+  - [INTERVIEW: Primary aluminum supply crunch boosts scrap demand, prices](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVjNVNkFuR1RmT1RxVHRBZm9kRWRtMmV5MDJ1TGJnazl5NVZqZXZHYXNVY2c5U3pFNmVaRjZJckNCODdMZ0VvQVk3X2p6Vk55YWhnOUFTYVJKSGoyQWRIS0RBYl9qMjVGODBGRThqQnI0bDVpX1FKanJCeU1iV0xTUnVPX1dJMERiVGRvUDlIQ0R6R1dZYmFrUlRYVkItcjAtaHk2UWtXZV94YmJWWVdIcFV1NUlkTDJKX3JiWWlDQVBCODNfYUxOWlQ5WFIzaFB3NVhpWnNwazVYZw)
+  - [Global soybean participants await US-China meeting with mixed expectations](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQakoydHdoRkxNM3VaOWJ6ZHNneDMtVEtvR2MzdWRYcjJlNkx6RFczdHg4clI0enFNdENlNEhmWWxGQWZGWF95UldEZFUtWmpNbHQ0TERmT1RadG9LelAzS3hXVG5COUtDZVlpWmJQSGN4enQwdnJYbEZRcHZLVGJtcDBCQ2R4a2dhQUt5N3VyajV1RHYwNDc3aUNYamR5Wk1kaS15YlNMR1I5Um40VHZNYXpRR0QtQWxOZWg5UldXMUpBSE1ybFBwdWZfZ3A0VGhhdFhkMWE2c05lMzlOQ0ZkSUdMc29wZFZ4V3c)
+- **BOE**
+  - [Minutes of the Market Participants Group meeting – 7 May 2026](https://www.bankofengland.co.uk/minutes/2026/may/market-participants-group-meeting-7-may-2026)

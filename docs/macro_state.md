@@ -1,26 +1,26 @@
 # Macro State — Last updated: 2026-05-08
 
-## Active Narratives (max 4)
-1. **US-Iran Ceasefire Collapse & Hormuz Escalation** — Overnight exchange of fire marks a clear breakdown; ceasefire still technically in effect but Project Freedom convoy feasibility uncertain after Saudi/Kuwait restrictions lifted.
-2. **Trump Tariff Uncertainty** — Court strikes down 10% global tariff (narrow block); July 4 EU deadline set; trade policy remains a two‑way risk.
-3. **Trump’s China Summit Prep** — Summit on track, CEO delegation invited; potential Boeing deal as a bilateral catalyst amid Iran war tensions.
-4. **Fed Dovish/Hawkish Split** — Collins, Daly, and Hammack publicly contest the FOMC’s rate‑cut signal; policy clarity eroding further.
+## Active Narratives (max 4 — drop stale, add new)
+1. **US-Iran Ceasefire Collapse Risk & Hormuz Escalation** — UAE interception expands conflict radius; Trump’s ceasefire claim persists but military confrontation widens.
+2. **Trump Trade Brinkmanship** — EU July 4 deadline set; China summit with CEO delegation may offer bilateral catalyst.
+3. **Starmer Political Survival & UK Gilt Rally** — Heavy local election losses prompt rally as immediate leadership vacuum averted.
+4. **BOJ June Hike Expectations & Yen Intervention** — Wage data supportive; intervention faces market tests.
 
-## What We’re Tracking (max 5)
-1. US April jobs report (Friday) — consensus at `62K` vs prior `178K`; a miss would amplify recession fears.
-2. “Project Freedom” convoy transit — Saudi/Kuwait restrictions lifted, but kinetic contact remains the immediate pivot.
-3. EU reaction to Trump’s July 4 deadline — any public rejection would raise trade war odds.
-4. PBOC gold reserve data and USD/CNY fixing — gold buying streak extends, watching for policy signal.
-5. ECB communication post‑Schnabel — whether other hawks echo the “hike if needed” warning.
+## What We’re Tracking (max 5 — remove resolved)
+1. US April payrolls (tonight) — consensus `62K` vs `178K`; a miss would amplify recession fears.
+2. UAE kinetic involvement and possible widening of Hormuz conflict.
+3. EU reaction to Trump’s July 4 deadline — any rejection would raise trade war odds.
+4. Trump-Xi summit outcome — Boeing deal as a potential de‑escalation signal.
+5. ECB June meeting communications post‑Guindos — how the bank frames energy shock.
 
 ## Open Questions (max 3)
-1. Can the US‑Iran ceasefire be salvaged after overnight clashes, or will the conflict harden into a prolonged standoff?
-2. Will Friday’s US payrolls validate the “recession‑level decline” cited by Whirlpool and the upswing in jobless claims?
-3. Can Trump’s China summit produce a tangible outcome (e.g., Boeing orders) that de‑escalates trade tensions and offsets the Iran shock?
+1. Can the US‑Iran ceasefire survive the UAE interception and reciprocal strikes without becoming a broader regional conflict?
+2. Will the US payrolls miss confirm a recession‑level decline, forcing the Fed to cut even amid energy inflation?
+3. Can the Trump‑Xi summit produce a Boeing deal that materially shifts the US‑China tariff outlook, offsetting Iran‑war risk?
 
 ## Key Levels (max 5 — only with today’s source citations)
-- Brent crude: `$105.78` on renewed clashes ([Reuters](https://news.google.com/rss/articles/CBMilAFBVV95cUxPb1ZZWVlWYlVTaXhlS2ZkTnQ0UUhrNGpVbTRVeHhMRGpkNmRSMTdySFdQWTZBT3VIa1d4VXRqZ3hXZklsX0V1MkxOSmN3LW9GUnV6UFFySXE5YnhXTmpiM3FQUTFlQ2ZmNkFvVG95ckZnX29oZVlRdnNxaElDWG1YeTlzczR1UkhxR1RXcWhqdzdQdDQx))
-- Comex Gold: `$4699.80` settle ([WSJ](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdG03SzNLZG50TjlqSVJUbmc1RXFhQ1hobkdtNE85aWZBcWlNYkhrWkRXQUlLNWh2WWxOXzBIekpjbEIxdnBXdXFMcU16Sm5ZVEVsQTBUemczMTdLRElsa0ozcVNFYXhMQ2VxVmM5WWd0WUk1V0FraFJTZ1JSbVNpTnVRV0lkZW9Fa1JCclVjaXVMcFBhUmowc2w1bGtkamt5RUVlTjd5YjVheHY2aVVRbXptZlU))
-- USD/JPY: intervention pressure persists; market questions BOJ/Finance Ministry resolve.
-- Chinese FX reserves: `$3.41T` in April, 18th straight month of gold buying.
-- S&P 500: ended lower as chip gains reversed; testing support near `5,200`.
+- Brent crude: jumped on renewed Hormuz clashes but no new specific level cited; prior was `$105.78`.
+- Hang Seng Index: `26,300` support area intraday ([HKEJ](https://news.google.com/rss/articles/CBMib0FVX3lxTE5Rcm5IM2tmb19iQkg2RFpCMVlkU3FwWG5HOUFIY1d6OTAwR0xaYllqTGtDZVhRVU5yWVByS3BxVl9YYkhXNm9lNHFUOGlkMWdVU2pNYW5YX3pxSVRMRXZFMWg2eUNVbWpaVDZPSGFXQQ)).
+- Sterling: rallied after Starmer pledge; specific levels not cited.
+- USD/JPY: intervention zone remains contested; no new level cited.
+- German industrial production: `-1.2%` m/m in March ([BBG](https://www.bloomberg.com/news/articles/2026-05-08/german-industrial-production-unexpectedly-falls-for-second-month)).
