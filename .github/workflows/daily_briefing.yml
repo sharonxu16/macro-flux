@@ -24,6 +24,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: daily-macro-briefing
@@ -33,6 +35,9 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 45
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Checkout repo
@@ -115,7 +120,16 @@ jobs:
             git push origin main
           fi
 
-      - name: Deploy to GitHub Pages
+      - name: Build site
         run: |
           pip install mkdocs-material mkdocs-callouts
-          mkdocs gh-deploy --force
+          mkdocs build
+
+      - name: Upload GitHub Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -11,7 +11,6 @@ import time
 import socket
 import ssl
 import re
-import threading
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -974,65 +973,72 @@ def fetch_all_feeds(window_start, window_end):
     seen_urls = set()
     all_articles = []
     all_tasks = []
+    html_fetchers = {
+        "PBOC_News": _fetch_pboc_html,
+        "HKMA_Press": _fetch_hkma_html,
+        "ChnFund_Macro": _fetch_chnfund_json,
+        "Xinhua_Fortune": _fetch_xinhua_html,
+        "NBSC_Releases": _fetch_nbsc_html,
+        "ChinaFinance_CN": _fetch_chinafinance_html,
+        "Caixin_Homepage": _fetch_caixin_homepage,
+    }
 
     # HTML-scraped sources + RSS feeds combined into a single task list
     for name, url in HTML_SOURCES.items():
-        all_tasks.append(("pboc", name, url))
+        all_tasks.append(("html", name, url))
     for name, url in RSS_FEEDS.items():
         all_tasks.append(("rss", name, url))
 
-    # Fetch all sources in parallel (8 workers)
-    with ThreadPoolExecutor(max_workers=8) as executor:
-        futures = {}
-        for task_type, name, url in all_tasks:
-            if task_type == "pboc":
-                fut = executor.submit(_fetch_pboc_html, name, url, window_start, window_end)
-            elif name.startswith("HKMA"):
-                fut = executor.submit(_fetch_hkma_html, name, url, window_start, window_end)
-            elif name.startswith("ChnFund"):
-                fut = executor.submit(_fetch_chnfund_json, name, url, window_start, window_end)
-            elif name.startswith("Xinhua"):
-                fut = executor.submit(_fetch_xinhua_html, name, url, window_start, window_end)
-            elif name.startswith("NBSC"):
-                fut = executor.submit(_fetch_nbsc_html, name, url, window_start, window_end)
-            elif name.startswith("ChinaFinance"):
-                fut = executor.submit(_fetch_chinafinance_html, name, url, window_start, window_end)
-            elif name.startswith("Caixin"):
-                fut = executor.submit(_fetch_caixin_homepage, name, url, window_start, window_end)
-            elif name.startswith("Caixin"):
-                fut = executor.submit(_fetch_caixin_html, name, url, window_start, window_end)
-            else:
-                fut = executor.submit(_fetch_one_feed, name, url, window_start, window_end)
-            futures[fut] = (name, url)
+    def _run_fetch_round():
+        """Fetch all configured sources once and return raw articles plus per-feed counts."""
+        round_articles = []
+        feed_articles = {}
+        with ThreadPoolExecutor(max_workers=8) as executor:
+            futures = {}
+            for task_type, name, url in all_tasks:
+                if task_type == "html":
+                    fetcher = html_fetchers[name]
+                else:
+                    fetcher = _fetch_one_feed
+                futures[executor.submit(fetcher, name, url, window_start, window_end)] = name
 
-        feed_articles = {}  # track per-feed article count
-        for fut in as_completed(futures):
-            name, url = futures[fut]
-            articles = fut.result()
-            feed_articles[name] = len(articles)
-            for a in articles:
-                link = a["link"]
-                if link not in seen_urls:
-                    seen_urls.add(link)
-                    all_articles.append(a)
-        # Log feeds with zero articles
-        zeros = sorted([n for n, c in feed_articles.items() if c == 0])
-        if zeros:
-            print(f"  {len(zeros)}/{len(all_tasks)} feeds returned 0 articles: {', '.join(zeros[:10])}{'...' if len(zeros) > 10 else ''}")
+            # Track per-feed article count
+            for fut in as_completed(futures):
+                name = futures[fut]
+                try:
+                    articles = fut.result()
+                except Exception as e:
+                    print(f"  [error] {name}: fetch task failed ({e})", file=sys.stderr)
+                    articles = []
+                feed_articles[name] = len(articles)
+                round_articles.extend(articles)
+        return round_articles, feed_articles
+
+    def _merge_articles(articles):
+        for a in articles:
+            link = a["link"]
+            if link not in seen_urls:
+                seen_urls.add(link)
+                all_articles.append(a)
+
+    round_articles, feed_articles = _run_fetch_round()
+    _merge_articles(round_articles)
+
+    # Log feeds with zero articles
+    zeros = sorted([n for n, c in feed_articles.items() if c == 0])
+    if zeros:
+        print(f"  {len(zeros)}/{len(all_tasks)} feeds returned 0 articles: {', '.join(zeros[:10])}{'...' if len(zeros) > 10 else ''}")
 
     if not all_articles:
         print(f"[error] No articles fetched from any feed ({len(all_tasks)} feeds).", file=sys.stderr)
         print("[error] Retrying once in 30s...", file=sys.stderr)
         time.sleep(30)
-        # Retry once — GitHub Actions runners occasionally have cold-start network issues
-        for fut in as_completed(futures):
-            articles = fut.result()
-            for a in articles:
-                link = a["link"]
-                if link not in seen_urls:
-                    seen_urls.add(link)
-                    all_articles.append(a)
+        round_articles, feed_articles = _run_fetch_round()
+        _merge_articles(round_articles)
         if not all_articles:
+            zeros = sorted([n for n, c in feed_articles.items() if c == 0])
+            if zeros:
+                print(f"  retry zero feeds: {', '.join(zeros[:10])}{'...' if len(zeros) > 10 else ''}")
             print("[error] Still no articles after retry. Exiting.", file=sys.stderr)
             sys.exit(1)
 
@@ -1711,9 +1717,10 @@ def main():
     # Save docs to local repo (sync — must complete before exit)
     _save_docs(report, window_end, briefing_type)
 
-    # Commit and push to GitHub in background thread
-    threading.Thread(target=deploy_to_github_pages, args=(report, window_end, briefing_type),
-                     daemon=True).start()
+    if os.environ.get("GITHUB_ACTIONS") == "true":
+        print("  [deploy] GitHub Actions will commit and deploy this report")
+    else:
+        deploy_to_github_pages(report, window_end, briefing_type)
 
     print("\nDone.")
 
