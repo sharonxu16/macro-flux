@@ -22,6 +22,9 @@ SSL_CTX = ssl.create_default_context()
 SSL_CTX.check_hostname = False
 SSL_CTX.verify_mode = ssl.CERT_NONE
 
+# Bypass macOS system proxy (not needed in HK; avoids Connection refused when Clash is off)
+os.environ['no_proxy'] = '*'
+
 import urllib.request
 import feedparser
 from anthropic import Anthropic
