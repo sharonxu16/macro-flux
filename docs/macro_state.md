@@ -1,26 +1,26 @@
-# Macro State — Last updated: 2026-05-07
+# Macro State — Last updated: 2026-05-08
 
-## Active Narratives (max 4 — drop stale, add new)
-1. [ACTIVE] **US‑Iran Peace Push & Strait of Hormuz Dynamics** — Iran still expected to formally respond; oil below `$100`; Asia stocks rally on peace meme.
-2. [NEW] **EU‑US Trade Deal Collapse** — Overnight talks failed, risking new tariffs on EU cars amid existing war‑induced supply strains.
-3. [NEW] **China Anti‑Sanctions Law & Loan Pause** — First invocation of 2021 law, banks told to halt loans to sanctioned refiners, raising summit uncertainty.
-4. [ACTIVE] **Yen Intervention & Market Testing** — $30B follow‑up intervention during Golden Week; yen weakens as markets question resolve; Bessent Japan visit next week.
+## Active Narratives (max 4)
+1. **US-Iran Ceasefire Collapse & Hormuz Escalation** — Overnight exchange of fire marks a clear breakdown; ceasefire still technically in effect but Project Freedom convoy feasibility uncertain after Saudi/Kuwait restrictions lifted.
+2. **Trump Tariff Uncertainty** — Court strikes down 10% global tariff (narrow block); July 4 EU deadline set; trade policy remains a two‑way risk.
+3. **Trump’s China Summit Prep** — Summit on track, CEO delegation invited; potential Boeing deal as a bilateral catalyst amid Iran war tensions.
+4. **Fed Dovish/Hawkish Split** — Collins, Daly, and Hammack publicly contest the FOMC’s rate‑cut signal; policy clarity eroding further.
 
-## What We're Tracking (max 5 — remove resolved)
-1. Iran’s formal response to the US peace proposal and any Hormuz reopening timeline.
-2. Norges Bank’s rate decision fallout and whether other western central banks follow suit.
-3. Bessent’s Japan visit next week and potential joint FX coordination.
-4. China‑EU trade tensions and the impact of the EU’s failure to finalize a US trade deal.
-5. EIA crude inventories and ongoing ‘plastic shock’ supply disruptions in Asia.
+## What We’re Tracking (max 5)
+1. US April jobs report (Friday) — consensus at `62K` vs prior `178K`; a miss would amplify recession fears.
+2. “Project Freedom” convoy transit — Saudi/Kuwait restrictions lifted, but kinetic contact remains the immediate pivot.
+3. EU reaction to Trump’s July 4 deadline — any public rejection would raise trade war odds.
+4. PBOC gold reserve data and USD/CNY fixing — gold buying streak extends, watching for policy signal.
+5. ECB communication post‑Schnabel — whether other hawks echo the “hike if needed” warning.
 
 ## Open Questions (max 3)
-1. Will Iran’s response to the US proposal lead to a formal ceasefire and a commercial Hormuz reopening, or will the conflict grind on with periodic escalations?
-2. Is the Norges Bank hike the start of a broader European tightening cycle, or a one‑off reaction to a specific energy price spike?
-3. Can the AI‑driven equity rally sustain momentum if peace quickly removes the energy‑cost tailwind for some sectors while trade tensions escalate?
+1. Can the US‑Iran ceasefire be salvaged after overnight clashes, or will the conflict harden into a prolonged standoff?
+2. Will Friday’s US payrolls validate the “recession‑level decline” cited by Whirlpool and the upswing in jobless claims?
+3. Can Trump’s China summit produce a tangible outcome (e.g., Boeing orders) that de‑escalates trade tensions and offsets the Iran shock?
 
 ## Key Levels (max 5 — only with today’s source citations)
-- Nikkei 225: topped `62,000` for the first time ([CNBC](https://www.cnbc.com/2026/05/07/japan-softbank-tech-shares-nikkei-to-record-high.html))
-- Oil (Brent): fell below `$100` intraday ([Reuters](https://news.google.com/rss/articles/CBMihAFBVV95cUxNSjgybFlUbGtvQkkxNUJZeHVsd3ZYMzN5MW9vLWk2TUZtZ1FRTUFsOXZhUEVEZnVuNG00THMzaTRtQWY5UENKb3F0dkc0ODdDQlJCSmhqWUpNMmhIaHBpV0poaVpYWXBHZ1ZwZUZvU2djWm5tYU1nNFJSQ1NFR2t5MFEyRy0))
-- Gold: two‑week high ([Reuters](https://news.google.com/rss/articles/CBMipAFBVV95cUxOa21wcmpORlVhZVFvRWs3QmduODVRMU9TenpJWXNIX1dpVUFFNzRleEQ0OVFGdkx1dXRkSmN5dXpSNlB1SmZrQ1d5V2czZVZZR3ZLcy1LLUlGRzVOS3Vib01ESGtiTlpDakVjdXFmR2NfWUFWdFhkWWZrWkpSQS1vQlZvbE5UcEVBQjEwQk9jVDFub0RnRjRvSWd2SUhzMWFnRmZITA))
-- USD/JPY: intervention‑era lows tested; market questions resolve ([CNBC](https://www.cnbc.com/2026/05/07/japan-yen-intervention-boj-rate-gap-currency-pressure.html))
-- Hang Seng Index: surged over `400` points ([HKEJ](https://news.google.com/rss/articles/CBMib0FVX3lxTE02Z0lkUHdXNmZ3cWlxZ0k1a2RmeGo4VFhLRUJLd3NocEZBUHk3VS11eWJjOWUzRFBONVBOYTQ5TFYxUm5ZakE2ZXhZa2UyWmtUX1VGelU4VDdKRGZxNnVUdDNSUnU1X0RZczRDNTgycw))
+- Brent crude: `$105.78` on renewed clashes ([Reuters](https://news.google.com/rss/articles/CBMilAFBVV95cUxPb1ZZWVlWYlVTaXhlS2ZkTnQ0UUhrNGpVbTRVeHhMRGpkNmRSMTdySFdQWTZBT3VIa1d4VXRqZ3hXZklsX0V1MkxOSmN3LW9GUnV6UFFySXE5YnhXTmpiM3FQUTFlQ2ZmNkFvVG95ckZnX29oZVlRdnNxaElDWG1YeTlzczR1UkhxR1RXcWhqdzdQdDQx))
+- Comex Gold: `$4699.80` settle ([WSJ](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdG03SzNLZG50TjlqSVJUbmc1RXFhQ1hobkdtNE85aWZBcWlNYkhrWkRXQUlLNWh2WWxOXzBIekpjbEIxdnBXdXFMcU16Sm5ZVEVsQTBUemczMTdLRElsa0ozcVNFYXhMQ2VxVmM5WWd0WUk1V0FraFJTZ1JSbVNpTnVRV0lkZW9Fa1JCclVjaXVMcFBhUmowc2w1bGtkamt5RUVlTjd5YjVheHY2aVVRbXptZlU))
+- USD/JPY: intervention pressure persists; market questions BOJ/Finance Ministry resolve.
+- Chinese FX reserves: `$3.41T` in April, 18th straight month of gold buying.
+- S&P 500: ended lower as chip gains reversed; testing support near `5,200`.
