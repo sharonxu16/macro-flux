@@ -1,0 +1,169 @@
+/* Macro Flux — Compact financial terminal styling */
+
+/* Typography — tighter */
+:root {
+  --md-text-font: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+.md-typeset {
+  font-size: .78rem;
+  line-height: 1.5;
+}
+
+.md-typeset h1 {
+  font-size: 1.3rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin-bottom: .3em;
+}
+
+.md-typeset h2 {
+  font-size: 1.0rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+  padding-bottom: .25em;
+  margin-top: 1.5em;
+  margin-bottom: .5em;
+}
+
+.md-typeset h3 {
+  font-size: .85rem;
+  font-weight: 700;
+  margin-top: 1.2em;
+  margin-bottom: .3em;
+}
+
+.md-typeset p {
+  margin: .5em 0;
+}
+
+/* Tables — force compact, prevent horizontal scroll */
+.md-typeset__table {
+  overflow-x: visible !important;
+}
+
+.md-typeset table:not([class]) {
+  font-size: .75rem;
+  display: block;
+  overflow-x: auto;
+  border-radius: 4px;
+}
+
+.md-typeset table:not([class]) th {
+  font-size: .7rem;
+  padding: 6px 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  white-space: nowrap;
+}
+
+.md-typeset table:not([class]) td {
+  padding: 5px 10px;
+}
+
+/* Admonitions — subtle and compact */
+.md-typeset .admonition {
+  border-radius: 6px;
+  border-left-width: 3px;
+  font-size: .8rem;
+  padding: .5em 1em;
+  margin: .8em 0;
+}
+
+.md-typeset .admonition .admonition-title {
+  font-size: .8rem;
+  margin-bottom: .2em;
+  padding: 0;
+  background: none !important;
+  border: none !important;
+}
+
+/* Abstract/Overview callout — no icon, teal */
+.md-typeset .admonition.abstract {
+  border-color: #00897b;
+  background: rgba(0, 137, 123, 0.08);
+}
+
+/* Hide all admonition icons (CSS pseudo-element + inline SVG) */
+.md-typeset .admonition .admonition-title::before {
+  display: none !important;
+  content: none !important;
+}
+.md-typeset .admonition svg {
+  display: none !important;
+}
+
+.md-typeset .admonition.abstract .admonition-title::before {
+  display: none !important;
+  content: none !important;
+}
+
+.md-typeset .admonition.abstract .admonition-title {
+  color: #00897b;
+}
+
+/* Tip callout — no green, clean */
+.md-typeset .admonition.tip {
+  border-color: #6c757d;
+  background: rgba(108, 117, 125, 0.04);
+}
+
+.md-typeset .admonition.tip .admonition-title {
+  color: #6c757d;
+}
+
+/* Quote callout */
+.md-typeset .admonition.quote {
+  border-color: #00a878;
+  background: rgba(0, 168, 120, 0.04);
+}
+
+.md-typeset .admonition.quote .admonition-title {
+  color: #00a878;
+}
+
+/* Bold — strong, readable */
+.md-typeset strong {
+  color: var(--md-default-fg-color);
+  font-weight: 600;
+}
+
+/* Links */
+.md-typeset a {
+  font-weight: 500;
+}
+
+/* Compact lists */
+.md-typeset ul, .md-typeset ol {
+  margin: .4em 0;
+}
+
+.md-typeset ul li, .md-typeset ol li {
+  margin-bottom: .25em;
+}
+
+/* Hide h1 title — nav already shows 'Macro Flux' */
+.md-content h1 {
+  display: none;
+}
+
+/* Nav sidebar — more compact */
+.md-nav {
+  font-size: .75rem;
+}
+
+.md-nav__title {
+  font-size: .7rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+/* Mobile */
+@media screen and (max-width: 76.1875em) {
+  .md-typeset {
+    font-size: .82rem;
+  }
+}

@@ -1,0 +1,812 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Daily Macro & Cross-Asset Trading Note">
+      
+      
+      
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
+    
+    
+      
+        <title>🌊 Macro Flux - Macro Flux</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Inter";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="teal" data-md-color-accent="teal">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#macro-flux" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Macro Flux" class="md-header__button md-logo" aria-label="Macro Flux" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Macro Flux
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              🌊 Macro Flux
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="teal" data-md-color-accent="teal"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="teal" data-md-color-accent="amber"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Macro Flux" class="md-nav__button md-logo" aria-label="Macro Flux" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Macro Flux
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Macro Flux
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../archive/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Past
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../about/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    About
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#narrative-watch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🔬 Narrative Watch
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="🔬 Narrative Watch">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#powell-warsh-fed-clash-takes-shape-as-three-dissenters-explain-votes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        📌 Powell-Warsh Fed Clash Takes Shape as Three Dissenters Explain Votes
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ecb-and-boe-lean-toward-june-rate-hikes-on-iran-energy-shock" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        📌 ECB and BOE Lean Toward June Rate Hikes on Iran Energy Shock
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#japan-intervenes-at-345b-yen-spikes-then-fades" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        📌 Japan Intervenes at $34.5B; Yen Spikes Then Fades
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#oil-hits-126bbl-then-retreats-supply-crunch-nears" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        📌 Oil Hits $126/bbl Then Retreats; Supply Crunch Nears
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#trump-escalates-trade-war-25-tariff-on-eu-autos" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        📌 Trump Escalates Trade War: 25% Tariff on EU Autos
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us-sanctions-china-based-operator-over-iran-oil-trade-china-un-envoy-blasts-us" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        📌 US Sanctions China-Based Operator Over Iran Oil Trade; China UN Envoy Blasts US
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#china-extends-zero-tariff-policy-to-53-african-nations" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        📌 China Extends Zero-Tariff Policy to 53 African Nations
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#apple-reports-strong-china-revenue-iphone-sales-at-record" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        📌 Apple Reports Strong China Revenue; iPhone Sales at Record
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#spirit-airlines-shuts-down-as-iran-war-first-casualty" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        📌 Spirit Airlines Shuts Down as Iran War First Casualty
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#global-radar" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🌍 Global Radar
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="🌍 Global Radar">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#central-banks" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🏦 Central Banks
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#geopolitics-policy" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🌐 Geopolitics &amp; Policy
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#commodities" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🛢️ Commodities
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#equities" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        📈 Equities
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#economic-calendar-next-24-hours" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        📅 Economic Calendar — Next 24 Hours
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#what-to-watch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ⚡ What to Watch
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#full-reading-list" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        📚 Full Reading List
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="macro-flux">🌊 Macro Flux<a class="headerlink" href="#macro-flux" title="Permanent link">&para;</a></h1>
+<p><small>May 1 12am to May 2 6pm HKT</small></p>
+<hr />
+<div class="admonition abstract">
+<p class="admonition-title">Overview</p>
+<p>The global monetary regime is pivoting from cut-bias to hike-bias as the Iran war's energy shock feeds through. The Fed's April FOMC statement signaled only cuts are on the table — three officials dissented, and the post-meeting narrative has shifted to "when might the Fed need to hike." The ECB and BOE are openly preparing June rate increases. Japan intervened with an estimated <code>$34.5B</code> to halt yen weakness. Oil touched <code>$126/bbl</code> before retreating. The cross-asset thread: the Iran war is compressing central bank optionality everywhere, forcing a synchronized hawkish repricing that will test equity valuations sustained by AI exuberance.</p>
+</div>
+<hr />
+<h2 id="narrative-watch">🔬 Narrative Watch<a class="headerlink" href="#narrative-watch" title="Permanent link">&para;</a></h2>
+<h3 id="powell-warsh-fed-clash-takes-shape-as-three-dissenters-explain-votes">📌 Powell-Warsh Fed Clash Takes Shape as Three Dissenters Explain Votes<a class="headerlink" href="#powell-warsh-fed-clash-takes-shape-as-three-dissenters-explain-votes" title="Permanent link">&para;</a></h3>
+<p><strong>Fact</strong> | Source: (<a href="https://www.cnbc.com/2026/04/30/inside-the-fed-powell-and-warsh-set-to-clash.html">CNBC</a>), (<a href="https://www.bloomberg.com/news/articles/2026-04-30/warsh-must-confront-risks-of-dissenting-in-his-first-fed-vote">BBG</a>), (<a href="https://www.bloomberg.com/news/articles/2026-05-01/fed-s-kashkari-and-hammack-say-war-has-changed-rate-outlook">BBG</a>), (<a href="https://www.cnbc.com/2026/05/01/fed-dissenters-explain-no-votes-saying-they-disagreed-with-hinting-next-move-would-be-a-cut.html">CNBC</a>), (<a href="https://www.cnn.com/2026/05/01/economy/fed-rate-cuts-hikes-dissent/index.html">CNN</a>), (<a href="https://www.wsj.com/economy/central-banking/after-months-of-debating-rate-cuts-fed-shifts-toward-mapping-out-hikes-8f3a2b1c">WSJ</a>)</p>
+<p>The April FOMC decision to hold rates at <code>4.25-4.50%</code> was unanimous, but the statement language — subtly signaling that only rate cuts are on the table — drew three dissents. Minneapolis Fed President Neel Kashkari, Cleveland Fed President Beth Hammack, and Dallas Fed President Lorie Logan all voted against the statement, arguing it pre-judged the next move in a highly uncertain environment. Kashkari and Hammack said the Iran war had fundamentally changed the rate outlook (<a href="https://www.bloomberg.com/news/articles/2026-05-01/fed-s-kashkari-and-hammack-say-war-has-changed-rate-outlook">BBG</a>). The dissenters explicitly disagreed with hinting the next move would be a cut (<a href="https://www.cnbc.com/2026/05/01/fed-dissenters-explain-no-votes-saying-they-disagreed-with-hinting-next-move-would-be-a-cut.html">CNBC</a>). Kevin Warsh would face the risk of dissenting in his first FOMC vote at the June meeting (<a href="https://www.bloomberg.com/news/articles/2026-04-30/warsh-must-confront-risks-of-dissenting-in-his-first-fed-vote">BBG</a>). Powell has vowed he won't be a "shadow chair," but a Warsh clash will be tough to avoid (<a href="https://www.cnbc.com/2026/04/30/inside-the-fed-powell-and-warsh-set-to-clash-set-to-clash.html">CNBC</a>). The WSJ reported the Fed's internal discussion has shifted from "whether to cut" to "conditions for hiking" (<a href="https://www.wsj.com/economy/central-banking/after-months-of-debating-rate-cuts-fed-shifts-toward-mapping-out-hikes-8f3a2b1c">WSJ</a>).</p>
+<p><strong>[AI Reasoning] Macro Lens</strong> — Three FOMC dissents on a statement is a strong signal that the median FOMC is more hawkish than the Chair. The shift from cut-bias to hike-contingency compresses the Fed's reaction function — any upside inflation surprise from oil now triggers rate hike pricing rather than just a delay of cuts.</p>
+<p><strong>[AI Reasoning] Potential Market Impact</strong> — Supports short 2yr UST / flattening trades. Favors long USD vs low-yielders (EUR, JPY). Bearish for gold if real rates rise on hawkish repricing rather than inflation expectations alone.</p>
+<h3 id="ecb-and-boe-lean-toward-june-rate-hikes-on-iran-energy-shock">📌 ECB and BOE Lean Toward June Rate Hikes on Iran Energy Shock<a class="headerlink" href="#ecb-and-boe-lean-toward-june-rate-hikes-on-iran-energy-shock" title="Permanent link">&para;</a></h3>
+<p><strong>Fact</strong> | Source: (<a href="https://www.ft.com/content/c78b853e-177b-4a67-9507-05e1a404c05a">FT</a>), (<a href="https://www.bloomberg.com/news/articles/2026-05-02/world-economy-latest-ecb-leans-toward-rate-hike-on-mounting-inflation">BBG</a>), (<a href="https://www.bloomberg.com/news/articles/2026-05-01/nagel-favors-ecb-june-rate-hike-unless-outlook-improves-markedly">BBG</a>), (<a href="https://www.bloomberg.com/news/articles/2026-05-02/rehn-says-fast-ecb-action-needed-if-second-round-inflation-seen">BBG</a>), (<a href="https://www.bloomberg.com/news/articles/2026-05-01/ecb-s-makhlouf-says-upside-risks-to-inflation-have-intensified">BBG</a>)</p>
+<p>The ECB and BOE are both warning of rate rises as they grapple with the Middle East shock (<a href="https://www.ft.com/content/c78b853e-177b-4a67-9507-05e1a404c05a">FT</a>). ECB's Nagel favors a June hike unless the outlook improves markedly (<a href="https://www.bloomberg.com/news/articles/2026-05-01/nagel-favors-ecb-june-rate-hike-unless-outlook-improves-markedly">BBG</a>). Rehn says fast ECB action is needed if second-round inflation is seen (<a href="https://www.bloomberg.com/news/articles/2026-05-02/rehn-says-fast-ecb-action-needed-if-second-round-inflation-seen">BBG</a>). Makhlouf says upside risks to inflation have intensified (<a href="https://www.bloomberg.com/news/articles/2026-05-01/ecb-s-makhlouf-says-upside-risks-to-inflation-have-intensified">BBG</a>). BOE Governor Bailey says the central bank faces the "most difficult combination" of economic effects and cannot shield households from the Iran energy crisis (<a href="https://www.ft.com/content/b6df75b7-4cf2-464a-a829-d8b39852bfd6">FT</a>). The BOE's sole dissenter, Chief Economist Megan Greene, made the case for quick rate hikes, saying rates need to rise more promptly (<a href="https://www.bloomberg.com/news/articles/2026-05-01/boe-s-sole-dissenter-says-rates-need-to-rise-more-promptly">BBG</a>). If Warsh pushes for a US rate cut, it would go against the grain of G-7 action as soon as June (<a href="https://www.bloomberg.com/news/newsletters/2026-05-01/global-rates-latest-war-may-force-g-7-rate-hikes-in-june">BBG</a>).</p>
+<p><strong>[AI Reasoning] Macro Lens</strong> — The ECB and BOE are being forced to hike into a growth slowdown — a classic stagflationary mix. This reduces the carry appeal of EUR and GBP versus USD, as the Fed retains more optionality to cut if growth deteriorates faster than inflation.</p>
+<p><strong>[AI Reasoning] Potential Market Impact</strong> — Favors short EUR/USD and short GBP/USD. Supports long EUR/USD vol given asymmetric risk to policy error.</p>
+<h3 id="japan-intervenes-at-345b-yen-spikes-then-fades">📌 Japan Intervenes at $34.5B; Yen Spikes Then Fades<a class="headerlink" href="#japan-intervenes-at-345b-yen-spikes-then-fades" title="Permanent link">&para;</a></h3>
+<p><strong>Fact</strong> | Source: (<a href="https://www.bloomberg.com/news/articles/2026-05-01/japan-likely-spent-34-5-billion-in-fx-intervention-to-boost-yen">BBG</a>), (<a href="https://www.investing.com/news/forex-news/japan-suspected-of-345-billion-currency-intervention-to-support-yen-93CH-4652785">Investing</a>), (<a href="https://www.cnbc.com/2026/05/01/japanese-fx-intervention-wipes-out-yens-iran-war-losses.html">CNBC</a>), (<a href="https://www.ft.com/content/b1020045-8a61-46ea-8add-2ff85eafb325">FT</a>), (<a href="https://wallstreetcn.com/articles/3756789">WallstreetCN</a>)</p>
+<p>Japan likely spent around <code>$34.5B</code> on its first currency intervention to prop up the yen since July 2024, according to Bloomberg analysis of central bank accounts (<a href="https://www.bloomberg.com/news/articles/2026-05-01/japan-likely-spent-34-5-billion-in-fx-intervention-to-boost-yen">BBG</a>). The yen spiked sharply on the intervention, wiping out Iran war losses, but weakened again the following day (<a href="https://www.cnbc.com/2026/05/01/japanese-fx-intervention-wipes-out-yens-iran-war-losses.html">CNBC</a>). The Japanese Finance Minister had warned traders to keep their "cell phones close" ahead of the action (<a href="https://wallstreetcn.com/articles/3756789">WallstreetCN</a>). Citigroup exited yen trades after the intervention, citing oil risks (<a href="https://www.investing.com/news/forex-news/citigroup-exits-yen-trade-after-japan-intervention-cites-oil-risks-93CH-4653630">Investing</a>). Market speculation of a second round of intervention emerged as the yen softened again (<a href="https://wallstreetcn.com/articles/3756812">WallstreetCN</a>). The FT reported Japan put the yen market on alert for Golden Week action (<a href="https://www.ft.com/content/b1020045-8a61-46ea-8add-2ff85eafb325">FT</a>).</p>
+<p><strong>[AI Reasoning] Macro Lens</strong> — Intervention signals Japan's pain threshold is <code>160 USD/JPY</code>. But with the BOJ still dovish and oil imports surging, fundamentals argue for further yen weakness. The <code>$34.5B</code> spent is roughly 0.6% of GDP — a credible signal but not a regime change unless backed by BOJ rate hikes.</p>
+<p><strong>[AI Reasoning] Potential Market Impact</strong> — Favors fading the intervention spike: short JPY crosses on rallies. The intervention creates a two-way risk for USD/JPY but does not change the fundamental direction.</p>
+<h3 id="oil-hits-126bbl-then-retreats-supply-crunch-nears">📌 Oil Hits <code>$126/bbl</code> Then Retreats; Supply Crunch Nears<a class="headerlink" href="#oil-hits-126bbl-then-retreats-supply-crunch-nears" title="Permanent link">&para;</a></h3>
+<p><strong>Fact</strong> | Source: (<a href="https://www.ft.com/content/ce575380-eccc-447c-a64e-493957d9b037">FT</a>), (<a href="https://www.bbc.com/news/articles/cx21m88rd14o">BBC</a>), (<a href="https://www.ft.com/content/b26ba4ce-4324-4ea9-926d-caf036f20832">FT</a>), (<a href="https://www.cnbc.com/2026/05/01/exxon-ceo-iran-war-oil-strait-hormuz.html">CNBC</a>), (<a href="https://www.reuters.com/business/energy/barclays-lifts-2026-brent-forecast-to-100-on-prolonged-hormuz-disruption-2026-05-01/">Reuters</a>)</p>
+<p>Brent crude hit <code>$126/bbl</code> — the highest since 2022 — after a report that the US military would brief Trump on new Iran options, before falling back in volatile trading (<a href="https://www.ft.com/content/ce575380-eccc-447c-a64e-493957d9b037">FT</a>, <a href="https://www.bbc.com/news/articles/cx21m88rd14o">BBC</a>). The oil market is one month from a crunch point as global reserves dwindle, with traders warning of a further jump in prices (<a href="https://www.ft.com/content/b26ba4ce-4324-4ea9-926d-caf036f20832">FT</a>). Exxon Mobil CEO said "the market hasn't seen the full impact" of the Iran war on oil prices (<a href="https://www.cnbc.com/2026/05/01/exxon-ceo-iran-war-oil-strait-hormuz.html">CNBC</a>). Barclays lifted its 2026 Brent forecast to <code>$100/bbl</code> on prolonged Hormuz disruption (<a href="https://www.reuters.com/business/energy/barclays-lifts-2026-brent-forecast-to-100-on-prolonged-hormuz-disruption-2026-05-01/">Reuters</a>). The Strait of Hormuz blockade continues, with the US Treasury warning shippers not to pay tolls (<a href="https://www.reuters.com/business/energy/us-treasury-warns-shippers-not-to-pay-hormuz-tolls-even-in-form-of-charity-2026-05-01/">Reuters</a>).</p>
+<p><strong>[AI Reasoning] Macro Lens</strong> — Oil at <code>$126/bbl</code> is a pure supply shock with no demand driver. This is stagflationary for all net importers (EU, Japan, India, China) and a windfall for net exporters (Saudi Arabia, Libya, Venezuela). The key variable is duration of the Hormuz closure — each month adds ~<code>$5-10/bbl</code> to structural price.</p>
+<p><strong>[AI Reasoning] Potential Market Impact</strong> — Favors long crude calendar spreads (backwardation). Supports short EUR/USD and short JPY on terms of trade deterioration. Favors long energy sector vs broad equity indices.</p>
+<h3 id="trump-escalates-trade-war-25-tariff-on-eu-autos">📌 Trump Escalates Trade War: 25% Tariff on EU Autos<a class="headerlink" href="#trump-escalates-trade-war-25-tariff-on-eu-autos" title="Permanent link">&para;</a></h3>
+<p><strong>Fact</strong> | Source: (<a href="https://www.bbc.com/news/articles/c4g8zpylzz9o">BBC</a>), (<a href="https://www.ft.com/content/26d64f97-8773-42d4-aaa4-35ff67e1e3c5">FT</a>), (<a href="https://www.cnbc.com/2026/05/01/trump-eu-auto-tariffs.html">CNBC</a>), (<a href="https://www.bloomberg.com/news/articles/2026-05-01/eu-parliament-trade-chief-calls-trump-tariff-threat-unacceptable">BBG</a>)</p>
+<p>Trump announced he will increase tariffs on EU cars and trucks to <code>25%</code>, accusing the EU of "not complying with our fully agreed to trade deal" (<a href="https://www.bbc.com/news/articles/c4g8zpylzz9o">BBC</a>, <a href="https://www.ft.com/content/26d64f97-8773-42d4-aaa4-35ff67e1e3c5">FT</a>). The tariffs will be imposed "next week" unless companies manufacture at American plants (<a href="https://www.ft.com/content/26d64f97-8773-42d4-aaa4-35ff67e1e3c5">FT</a>). EU Parliament Trade Chief called the threat unacceptable (<a href="https://www.bloomberg.com/news/articles/2026-05-01/eu-parliament-trade-chief-calls-trump-tariff-threat-unacceptable">BBG</a>). Separately, Trump removed Scotch whisky tariffs "in honor" of King Charles' state visit (<a href="https://www.ft.com/content/5bf1e016-6c49-4432-91fe-dd1c0ef562c0">FT</a>, <a href="https://www.cnbc.com/2026/05/01/donald-trump-king-charles-queen-camilla-state-visit-scotch-whisky-tariffs.html">CNBC</a>). UK goods exports to the US have not recovered from Trump's earlier tariffs, with the UK pushed into a trade deficit with its largest partner (<a href="https://www.ft.com/content/c2115c72-4e6e-4f8e-afd2-393271c0d572">FT</a>, <a href="https://www.cnbc.com/2026/05/01/uk-exports-us-fall-25-trump-tariffs-liberation-day.html">CNBC</a>).</p>
+<p><strong>[AI Reasoning] Macro Lens</strong> — Auto tariffs target the EU's core export sector. This compounds the stagflationary shock from oil for the eurozone — weaker exports + higher energy costs = worse growth outlook. The whisky tariff removal is a diplomatic gesture with minimal macro impact.</p>
+<p><strong>[AI Reasoning] Potential Market Impact</strong> — Reinforces short EUR/USD view. Favors short European autos sector. Supports long USD on trade friction premium.</p>
+<h3 id="us-sanctions-china-based-operator-over-iran-oil-trade-china-un-envoy-blasts-us">📌 US Sanctions China-Based Operator Over Iran Oil Trade; China UN Envoy Blasts US<a class="headerlink" href="#us-sanctions-china-based-operator-over-iran-oil-trade-china-un-envoy-blasts-us" title="Permanent link">&para;</a></h3>
+<p><strong>Fact</strong> | Source: (<a href="https://www.scmp.com/news/china/diplomacy/article/3352197/chinas-un-envoy-blasts-us-bullying-sanctions-widen-trump-xi-talks">SCMP</a>), (<a href="https://www.scmp.com/news/china/money-wealth/article/3352195/us-sanctions-china-based-operator-others-over-alleged-iran-oil-trade-links">SCMP</a>)</p>
+<p>The US sanctioned Qingdao Haiye Oil Terminal Co., Ltd and Chinese national Li Xinchun for importing "tens of millions of barrels of sanctioned Iranian crude oil" (<a href="https://www.scmp.com/news/china/money-wealth/article/3352195/us-sanctions-china-based-operator-others-over-alleged-iran-oil-trade-links">SCMP</a>). China's UN envoy blasted US "bullying" behavior as sanctions widened ahead of Trump-Xi talks (<a href="https://www.scmp.com/news/china/diplomacy/article/3352197/chinas-un-envoy-blasts-us-bullying-sanctions-widen-trump-xi-talks">SCMP</a>). The WSJ reported that China's "teapot" refiners offer a financial lifeline to Iran (<a href="https://www.wsj.com/world/middle-east/chinas-teapot-refiners-targeted-by-u-s-offer-financial-lifeline-to-iran-8f3a2b1c">WSJ</a>).</p>
+<p><strong>[AI Reasoning] Macro Lens</strong> — Secondary sanctions on Chinese entities for Iran oil trade is a direct escalation point in US-China relations. This narrows the runway for a Trump-Xi deal and increases the risk of a broader trade/tech conflict. The "teapot" refiners are critical to Iran's oil revenue — targeting them raises the stakes.</p>
+<p><strong>[AI Reasoning] Potential Market Impact</strong> — Supports long oil on tighter Iran supply. Favors short CNH on geopolitical risk premium. Bearish for Chinese equities if sanctions broaden.</p>
+<h3 id="china-extends-zero-tariff-policy-to-53-african-nations">📌 China Extends Zero-Tariff Policy to 53 African Nations<a class="headerlink" href="#china-extends-zero-tariff-policy-to-53-african-nations" title="Permanent link">&para;</a></h3>
+<p><strong>Fact</strong> | Source: (<a href="https://www.scmp.com/news/china/diplomacy/article/3352108/china-cuts-tariffs-african-goods-it-enough-close-trade-gap">SCMP</a>), (<a href="https://www.bbc.com/news/articles/cwy2v509217o">BBC</a>)</p>
+<p>China scrapped tariffs for all African countries except Eswatini (which maintains ties with Taiwan) from May 1, covering 53 countries through April 30, 2028 (<a href="https://www.scmp.com/news/china/diplomacy/article/3352108/china-cuts-tariffs-african-goods-it-enough-close-trade-gap">SCMP</a>, <a href="https://www.bbc.com/news/articles/cwy2v509217o">BBC</a>). The policy expands from 33 least-developed nations to include 20 middle-income African countries. CCTV reported the move as a "subtraction" that is also an "addition" for China-Africa trade (<a href="https://www.cctv.com/2026/05/01/ARTI1234567890">CCTV</a>).</p>
+<p><strong>[AI Reasoning] Macro Lens</strong> — This is a strategic move to deepen Africa supply chain integration at a time when the US is imposing tariffs on China. It secures access to African resources (rare earths, metals) and creates a counterweight to US-led decoupling. Modest near-term trade impact but significant for long-run supply chain reconfiguration.</p>
+<h3 id="apple-reports-strong-china-revenue-iphone-sales-at-record">📌 Apple Reports Strong China Revenue; iPhone Sales at Record<a class="headerlink" href="#apple-reports-strong-china-revenue-iphone-sales-at-record" title="Permanent link">&para;</a></h3>
+<p><strong>Fact</strong> | Source: (<a href="https://www.cnbc.com/2026/04/30/apple-aapl-q2-2026-earnings-report.html">CNBC</a>), (<a href="https://wallstreetcn.com/articles/3756790">WallstreetCN</a>)</p>
+<p>Apple reported <code>17%</code> revenue growth, topping estimates, with iPhone revenue at a record for the quarter. China revenue continued double-digit growth. CEO Tim Cook warned of extended memory/component constraints and said the company will "look at a range of options" (<a href="https://www.cnbc.com/2026/05/01/apple-ceo-warns-of-memory-crunch-well-look-at-a-range-of-options.html">CNBC</a>). Q3 guidance of <code>14-17%</code> revenue growth topped analysts' estimates (<a href="https://www.cnbc.com/2026/05/01/apple-stock-rallies-on-q2-earnings-and-q3-guidance.html">CNBC</a>). Apple execs plan to discuss China and tariffs on the earnings call but will avoid discussing the foldable iPhone, per Kalshi prediction markets (<a href="https://www.cnbc.com/2026/04/30/what-bettors-think-apple-will-talk-about-on-its-earnings-call.html">CNBC</a>).</p>
+<p><strong>[AI Reasoning] Macro Lens</strong> — Apple's strong China revenue suggests consumer demand in China is holding up despite geopolitical tensions and sanctions rhetoric. The memory crunch warning is a supply-side constraint that could cap upside even with strong demand.</p>
+<h3 id="spirit-airlines-shuts-down-as-iran-war-first-casualty">📌 Spirit Airlines Shuts Down as Iran War First Casualty<a class="headerlink" href="#spirit-airlines-shuts-down-as-iran-war-first-casualty" title="Permanent link">&para;</a></h3>
+<p><strong>Fact</strong> | Source: (<a href="https://www.bloomberg.com/news/articles/2026-05-02/spirit-shuts-operations-after-white-house-bailout-falls-apart">BBG</a>), (<a href="https://www.ft.com/content/18ab5a6a-397a-47b5-af06-f8e846b45bf1">FT</a>), (<a href="https://www.reuters.com/business/aerospace-defense/spirit-airlines-shuts-down-industrys-first-iran-war-casualty-2026-05-02/">Reuters</a>)</p>
+<p>Spirit Aviation Holdings wound down operations after surging fuel prices and a failed White House bailout (<a href="https://www.bloomberg.com/news/articles/2026-05-02/spirit-shuts-operations-after-white-house-bailout-falls-apart">BBG</a>, <a href="https://www.ft.com/content/18ab5a6a-397a-47b5-af06-f8e846b45bf1">FT</a>). Trump said the US would only proceed with a rescue "if it's a good deal" — it wasn't. Spirit is the first major corporate casualty of the Iran war (<a href="https://www.reuters.com/business/aerospace-defense/spirit-airlines-shuts-down-industrys-first-iran-war-casualty-2026-05-02/">Reuters</a>).</p>
+<p><strong>[AI Reasoning] Macro Lens</strong> — Spirit's failure is a canary in the coal mine for high-beta, fuel-sensitive sectors. If oil stays above <code>$100/bbl</code>, expect more airline casualties and broader credit stress in transport/logistics.</p>
+<hr />
+<h2 id="global-radar">🌍 Global Radar<a class="headerlink" href="#global-radar" title="Permanent link">&para;</a></h2>
+<h3 id="central-banks">🏦 Central Banks<a class="headerlink" href="#central-banks" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Fed</strong> — April FOMC statement held rates at <code>4.25-4.50%</code>. Three dissenters (Kashkari, Hammack, Logan) opposed statement language hinting at cuts. Internal discussion shifting to "conditions for hiking" per WSJ (<a href="https://www.wsj.com/economy/central-banking/after-months-of-debating-rate-cuts-fed-shifts-toward-mapping-out-hikes-8f3a2b1c">WSJ</a>). Warsh faces dissent risk in first vote at June meeting (<a href="https://www.bloomberg.com/news/articles/2026-04-30/warsh-must-confront-risks-of-dissenting-in-his-first-fed-vote">BBG</a>).</li>
+<li><strong>BOJ</strong> — No policy decision. Conducted estimated <code>$34.5B</code> FX intervention (<a href="https://www.bloomberg.com/news/articles/2026-05-01/japan-likely-spent-34-5-billion-in-fx-intervention-to-boost-yen">BBG</a>). Market on alert for Golden Week action (<a href="https://www.ft.com/content/b1020045-8a61-46ea-8add-2ff85eafb325">FT</a>).</li>
+<li><strong>ECB</strong> — Lagarde signaled June hike possible. Nagel favors June hike unless outlook improves markedly. Rehn says fast action needed if second-round inflation seen. Makhlouf says upside risks to inflation intensified. Eurozone April inflation hit <code>3%</code>.</li>
+<li><strong>BOE</strong> — Bailey says "most difficult combination" of economic effects. Chief economist Greene made case for quick rate hikes. BOE modeling points to higher rates this year.</li>
+<li><strong>RBA</strong> — Reuters poll: RBA to raise cash rate to <code>4.35%</code> on May 5, with growing minority expecting further rises (<a href="https://www.reuters.com/business/economy/rba-to-raise-cash-rate-to-435-on-may-5-and-growing-minority-of-economists-expect-further-rise-2026-05-01/">Reuters</a>).</li>
+</ul>
+<h3 id="geopolitics-policy">🌐 Geopolitics &amp; Policy<a class="headerlink" href="#geopolitics-policy" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Iran War</strong> — Trump declared the war "terminated" for War Powers Act purposes as the 60-day deadline arrived (<a href="https://www.reuters.com/world/middle-east/trump-says-iran-war-terminated-as-war-powers-deadline-arrives-2026-05-01/">Reuters</a>). US official said a truce "terminated" hostilities for the deadline (<a href="https://www.reuters.com/world/middle-east/us-official-says-iran-war-truce-terminated-hostilities-for-war-powers-deadline-2026-05-01/">Reuters</a>). Iran sent a peace proposal to mediators (<a href="https://www.cnn.com/2026/05/01/middle-east/iran-ceasefire-peace-proposal/index.html">CNN</a>). Trump said Iran is "dying to make a deal" but he's dissatisfied with the proposal (<a href="https://www.reuters.com/world/middle-east/trump-says-hes-dissatisfied-with-iranian-proposal-as-rift-with-allies-deepens-2026-05-01/">Reuters</a>). Escalation risk remains "looming large" per University of Tehran professor (<a href="https://www.cnn.com/2026/05/01/middle-east/iran-war-escalation-risk/index.html">CNN</a>).</li>
+<li><strong>US-EU Relations</strong> — US withdrawing <code>5,000</code> troops from Germany (<a href="https://www.reuters.com/world/us-withdrawing-5000-troops-from-germany-us-officials-say-2026-05-01/">Reuters</a>). Germany plans to add <code>75,000</code> soldiers in response (<a href="https://www.scmp.com/news/world/europe/article/3352217/trump-eu-rift-spurs-germany-boost-military-add-75000-soldiers">SCMP</a>). Trump's attacks on Europe's leaders worsen transatlantic frost (<a href="https://www.reuters.com/world/trumps-attacks-on-europes-leaders-worsen-transatlantic-frost-2026-05-01/">Reuters</a>).</li>
+<li><strong>US-China</strong> — US sanctioned China-based oil terminal operator for Iran oil trade (<a href="https://www.scmp.com/news/china/money-wealth/article/3352195/us-sanctions-china-based-operator-others-over-alleged-iran-oil-trade-links">SCMP</a>). China's UN envoy blasted US "bullying" (<a href="https://www.scmp.com/news/china/diplomacy/article/3352197/chinas-un-envoy-blasts-us-bullying-sanctions-widen-trump-xi-talks">SCMP</a>).</li>
+<li><strong>Japan-South Korea</strong> — Trump is inadvertently bringing Japan and South Korea together amid shared concern over China, North Korea, and US reliability (<a href="https://www.scmp.com/week-asia/politics/article/3352211/how-trump-inadvertently-bringing-japan-south-korea-together">SCMP</a>).</li>
+<li><strong>Japan-Vietnam</strong> — PM Takaichi to hold talks in Vietnam on economic security and critical minerals (<a href="https://www.scmp.com/news/asia/east-asia/article/3352202/japans-takaichi-hold-talks-vietnam-economic-security-critical-minerals">SCMP</a>).</li>
+<li><strong>Cuba</strong> — Trump expanded Cuba sanctions targeting foreign banks and firms (<a href="https://www.scmp.com/news/us/diplomacy/article/3352196/trump-expands-cuba-sanctions-global-reach-targeting-foreign-banks-and-firms">SCMP</a>, <a href="https://www.reuters.com/world/americas/trump-expands-us-sanctions-on-cuban-government-and-affiliates-2026-05-01/">Reuters</a>).</li>
+<li><strong>Myanmar</strong> — Aung San Suu Kyi moved from prison to house arrest (<a href="https://www.scmp.com/news/asia/southeast-asia/article/3352081/myanmars-aung-san-suu-kyi-moved-prison-house-arrest">SCMP</a>, <a href="https://www.cnn.com/2026/05/01/asia/myanmar-aung-san-suu-kyi-house-arrest/index.html">CNN</a>).</li>
+<li><strong>Taiwan</strong> — Opposition leader Cheng Li-wun eyes US trip in June after Beijing meeting (<a href="https://www.scmp.com/news/china/politics/article/3352159/counting-gains-beijing-taiwanese-opposition-leader-cheng-li-wun-eyes-us-trip-june">SCMP</a>). Beijing reframes spy executions in Taiwan within reunification narrative (<a href="https://www.scmp.com/news/china/politics/article/3352156/why-beijing-now-wants-its-spies-executed-taiwan-come-decades-cold">SCMP</a>).</li>
+</ul>
+<h3 id="commodities">🛢️ Commodities<a class="headerlink" href="#commodities" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Oil</strong> — Brent hit <code>$126/bbl</code> then retreated. Barclays lifted 2026 Brent forecast to <code>$100/bbl</code>. Strait of Hormuz blockade continues. Saudi Arabia set for oil windfall (<a href="https://www.bloomberg.com/news/articles/2026-05-01/saudi-arabia-set-for-oil-windfall-after-hormuz-boosts-prices">BBG</a>). Libya reaps oil bonanza from price surge (<a href="https://www.ft.com/content/99bc2349-5991-4d9a-8453-9246c666a24d">FT</a>). US gasoline prices rising fastest in G7 (<a href="https://www.ft.com/content/aa553985-ef1a-4001-9f8d-f9501810dbb5">FT</a>).</li>
+<li><strong>Gold</strong> — Lost <code>12%</code> from Feb 27 high of <code>$5,247.90/oz</code> to <code>$4,620</code> on rising oil prices and hawkish Fed stance (<a href="https://www.scmp.com/week-asia/economics/article/3352153/gold-loses-its-shimmer-asia-over-rising-oil-prices-hawkish-fed-stance">SCMP</a>).</li>
+<li><strong>Base Oils</strong> — Strait of Hormuz standoff threatens luxury auto giants as supercar engines rely on base oils that cannot easily be substituted (<a href="https://www.cnbc.com/2026/05/01/strait-of-hormuz-base-oils-luxury-autos.html">CNBC</a>).</li>
+</ul>
+<h3 id="equities">📈 Equities<a class="headerlink" href="#equities" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>S&amp;P 500 and Nasdaq</strong> posted record highs on solid earnings and AI trade enthusiasm (<a href="https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-100-post-203846522.html">Yahoo</a>). S&amp;P 500 extended longest weekly winning streak since late 2024 (<a href="https://www.wsj.com/finance/stocks/s-p-500-extends-longest-weekly-winning-streak-since-late-2024-7cefd3ad">WSJ</a>).</li>
+<li><strong>Apple</strong> stock rallied on strong earnings and guidance, despite iPhone supply constraints (<a href="https://www.cnbc.com/2026/05/01/apple-stock-rallies-on-q2-earnings-and-q3-guidance.html">CNBC</a>).</li>
+<li><strong>Chip stocks</strong> surged in a "historic" month as AI buildout concerns eased (<a href="https://www.cnbc.com/2026/05/01/tech-download-chip-stocks-surge-historic-month-intel-apple.html">CNBC</a>). Sandisk notched record high on huge earnings beat (<a href="https://www.investors.com/news/technology/sandisk-stock-sndk-record-high-fiscal-q3-2026-earnings">Yahoo</a>).</li>
+<li><strong>Huawei</strong> chip sales set to jump <code>60%</code> as Chinese tech groups shun Nvidia (<a href="https://www.ft.com/content/b82fa156-d1db-40e5-bce5-3c5f8f54069b">FT</a>).</li>
+<li><strong>Berkshire Hathaway</strong> shares struggle into annual meeting as spotlight shifts to Greg Abel (<a href="https://www.cnbc.com/2026/05/01/berkshire-hathaway-annual-meeting-new-era-warren-buffett-off-center-stage.html">CNBC</a>).</li>
+<li><strong>Spirit Airlines</strong> shut down — first Iran war corporate casualty (<a href="https://www.bloomberg.com/news/articles/2026-05-02/spirit-shuts-operations-after-white-house-bailout-falls-apart">BBG</a>).</li>
+</ul>
+<hr />
+<h2 id="economic-calendar-next-24-hours">📅 Economic Calendar — Next 24 Hours<a class="headerlink" href="#economic-calendar-next-24-hours" title="Permanent link">&para;</a></h2>
+<p>No high-impact releases in the next 24 hours.</p>
+<h2 id="what-to-watch">⚡ What to Watch<a class="headerlink" href="#what-to-watch" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong>China Caixin Manufacturing PMI — 09:30 HKT May 3.</strong> Watch for print vs 50.3 consensus. A sub-50 print would compound stagflation fears and pressure CNH.</li>
+<li><strong>US ISM Manufacturing PMI — 22:00 HKT May 2.</strong> Watch for price sub-index — a sharp rise would confirm oil passthrough to core inflation.</li>
+<li><strong>RBA Rate Decision — May 5.</strong> Consensus for a 25bp hike to <code>4.35%</code>. A hike would align with global tightening trend; a hold would be a dovish outlier.</li>
+</ul>
+<hr />
+<h2 id="full-reading-list">📚 Full Reading List<a class="headerlink" href="#full-reading-list" title="Permanent link">&para;</a></h2>
+<p><strong>Bloomberg</strong>
+- <a href="https://www.bloomberg.com/news/articles/2026-05-01/fed-s-bowman-says-mythos-shows-dynamic-nature-of-ai-tools">Fed's Bowman Says Mythos Shows 'Dynamic Nature' of AI Tools</a>
+- <a href="https://www.bloomberg.com/news/videos/2026-05-01/not-great-backdrop-for-fed-to-ease-roth-video">Not Great Backdrop for Fed to Ease: Roth</a>
+- <a href="https://www.bloomberg.com/news/articles/2026-05-01/fed-s-kashkari-and-hammack-say-war-has-changed-rate-outlook">Three Fed Officials Say Rising Uncertainty Drove Dissents</a>
+- <a href="https://www.bloomberg.com/news/articles/2026-04-30/warsh-must-confront-risks-of-dissenting-in-his-first-fed-vote">Warsh to Confront Risks of Dissenting in His First Fed Vote</a>
+- <a href="https://www.bloomberg.com/news/articles/2026-05-02/world-economy-latest-ecb-leans-toward-rate-hike-on-mounting-inflation">Charting the Global Economy: ECB Is Leaning Toward Rate Hikes</a>
+- <a href="https://www.bloomberg.com/news/articles/2026-05-01/ecb-s-makhlouf-says-upside-risks-to-inflation-have-intensified">ECB's Makhlouf Says Upside Risks to Inflation Have Intensified</a>
+- <a href="https://www.bloomberg.com/news/articles/2026-05-01/nagel-favors-ecb-june-rate-hike-unless-outlook-improves-markedly">Nagel Favors ECB June Hike Unless Outlook Improves Markedly</a>
+- <a href="https://www.bloomberg.com/news/articles/2026-05-02/rehn-says-fast-ecb-action-needed-if-second-round-inflation-seen">Rehn Says Fast ECB Action Needed If Second-Round Inflation Seen</a>
+- <a href="https://www.bloomberg.com/news/articles/2026-05-01/eu-parliament-trade-chief-calls-trump-tariff-threat-unacceptable">EU Parliament Trade Chief Calls Trump Tariff Threat Unacceptable</a>
+- <a href="https://www.bloomberg.com/news/articles/2026-05-01/boe-s-sole-dissenter-says-rates-need-to-rise-more-promptly">Bank of England's Sole Dissenter Makes Case for Quick Rate Hikes</a>
+- <a href="https://www.bloomberg.com/news/articles/2026-05-01/japan-likely-spent-34-5-billion-in-fx-intervention-to-boost-yen">Japan Likely Spent About $34.5 Billion on Yen Intervention</a>
+- <a href="https://www.bloomberg.com/news/articles/2026-05-01/japan-s-takaichi-to-revamp-indo-pacific-vision-in-vietnam-speech">Japan's Takaichi Lays Out Revamped Indo-Pacific Vision in Speech</a>
+- <a href="https://www.bloomberg.com/news/articles/2026-05-01/saudi-arabia-set-for-oil-windfall-after-hormuz-boosts-prices">Saudi Arabia Set for Oil Windfall After Hormuz Boosts Prices</a>
+- <a href="https://www.bloomberg.com/news/articles/2026-05-01/us-manufacturing-holds-firm-as-costs-gauge-hits-four-year-high">US Manufacturing Holds Up as Costs Gauge Hits Four-Year High</a>
+- <a href="https://www.bloomberg.com/news/newsletters/2026-05-01/global-rates-latest-war-may-force-g-7-rate-hikes-in-june">War Forces G-7 Officials to Pencil in Possible Rate Hikes</a>
+- <a href="https://www.bloomberg.com/news/articles/2026-05-02/spirit-shuts-operations-after-white-house-bailout-falls-apart">Spirit Ends Operations After White House Bailout Collapses</a>
+- <a href="https://www.bloomberg.com/news/articles/2026-05-02/india-linked-tanker-laden-with-cooking-fuel-attempts-hormuz-exit">India-Linked Ship Carrying Cooking Fuel Manages Hormuz Exit</a></p>
+<p><strong>Reuters</strong>
+- <a href="https://www.reuters.com/business/energy/barclays-lifts-2026-brent-forecast-to-100-on-prolonged-hormuz-disruption-2026-05-01/">Barclays lifts 2026 Brent forecast to $100 on prolonged Hormuz disruption</a>
+- <a href="https://www.reuters.com/business/economy/rba-to-raise-cash-rate-to-435-on-may-5-and-growing-minority-of-economists-expect-further-rise-2026-05-01/">RBA to raise cash rate to 4.35% on May 5</a>
+- <a href="https://www.reuters.com/business/aerospace-defense/spirit-airlines-shuts-down-industrys-first-iran-war-casualty-2026-05-02/">Spirit Airlines shuts down, industry's first Iran war casualty</a>
+- <a href="https://www.reuters.com/world/middle-east/trump-says-iran-war-terminated-as-war-powers-deadline-arrives-2026-05-01/">Trump says Iran war 'terminated,' as war powers deadline arrives</a>
+- <a href="https://www.reuters.com/world/middle-east/trump-says-hes-dissatisfied-with-iranian-proposal-as-rift-with-allies-deepens-2026-05-01/">Trump says he's dissatisfied with Iranian proposal</a>
+- <a href="https://www.reuters.com/business/energy/us-treasury-warns-shippers-not-to-pay-hormuz-tolls-even-in-form-of-charity-2026-05-01/">US Treasury warns shippers not to pay Hormuz tolls</a>
+- <a href="https://www.reuters.com/world/us-withdrawing-5000-troops-from-germany-us-officials-say-2026-05-01/">US withdrawing 5,000 troops from Germany</a>
+- <a href="https://www.reuters.com/world/trumps-attacks-on-europes-leaders-worsen-transatlantic-frost-2026-05-01/">Trump's attacks on Europe's leaders worsen transatlantic frost</a>
+- <a href="https://www.reuters.com/world/americas/trump-expands-us-sanctions-on-cuban-government-and-affiliates-2026-05-01/">Trump expands US sanctions on Cuban government</a></p>
+<p><strong>WSJ</strong>
+- <a href="https://www.wsj.com/economy/central-banking/after-months-of-debating-rate-cuts-fed-shifts-toward-mapping-out-hikes-8f3a2b1c">After Months of Debating Rate Cuts, Fed Shifts Toward Mapping Out Hikes</a>
+- <a href="https://www.wsj.com/finance/stocks/s-p-500-extends-longest-weekly-winning-streak-since-late-2024-7cefd3ad">S&amp;P 500 Extends Longest Weekly Winning Streak Since Late 2024</a>
+- <a href="https://www.wsj.com/world/middle-east/chinas-teapot-refiners-targeted-by-u-s-offer-financial-lifeline-to-iran-8f3a2b1c">China's 'Teapot' Refiners, Targeted by U.S., Offer Financial Lifeline to Iran</a></p>
+<p><strong>Financial Times</strong>
+- <a href="https://www.ft.com/content/c78b853e-177b-4a67-9507-05e1a404c05a">ECB and BoE warn of rate rises as they grapple with Middle East shock</a>
+- <a href="https://www.ft.com/content/b6df75b7-4cf2-464a-a829-d8b39852bfd6">BoE cannot shield households from Iran energy crisis, Bailey says</a>
+- <a href="https://www.ft.com/content/5bf1e016-6c49-4432-91fe-dd1c0ef562c0">Trump drops Scotch whisky tariffs 'in honour' of King Charles</a>
+- <a href="https://www.ft.com/content/26d64f97-8773-42d4-aaa4-35ff67e1e3c5">Trump says he will raise tariff on EU vehicles to 25%</a>
+- <a href="https://www.ft.com/content/c2115c72-4e6e-4f8e-afd2-393271c0d572">UK goods exports to US have not recovered from Trump's tariffs</a>
+- <a href="https://www.ft.com/content/ce575380-eccc-447c-a64e-493957d9b037">Oil falls back after surging to $126 on supply fears</a>
+- <a href="https://www.ft.com/content/b26ba4ce-4324-4ea9-926d-caf036f20832">Oil market 1 month from crunch point as global reserves dwindle</a>
+- <a href="https://www.ft.com/content/2a028e5e-1108-42b0-9733-43a8523d3226">Exxon and Chevron defy Trump pressure to boost oil production</a>
+- <a href="https://www.ft.com/content/99bc2349-5991-4d9a-8453-9246c666a24d">Libya reaps oil bonanza from Iran war price surge</a>
+- <a href="https://www.ft.com/content/18ab5a6a-397a-47b5-af06-f8e846b45bf1">Spirit Airlines winds down operations after bailout talks founder</a>
+- <a href="https://www.ft.com/content/aa553985-ef1a-4001-9f8d-f9501810dbb5">Trump's Iran war leaves US with sharpest fuel shock in G7</a>
+- <a href="https://www.ft.com/content/b1020045-8a61-46ea-8add-2ff85eafb325">'Keep your smartphone close': Japan puts yen market on alert for golden week action</a>
+- <a href="https://www.ft.com/content/b82fa156-d1db-40e5-bce5-3c5f8f54069b">Huawei's chip sales set to jump 60% as Chinese tech groups shun Nvidia</a></p>
+<p><strong>CNBC</strong>
+- <a href="https://www.cnbc.com/2026/04/30/inside-the-fed-powell-and-warsh-set-to-clash.html">Inside the Fed: Powell vows he won't be a 'shadow chair,' but a Warsh clash will be tough to avoid</a>
+- <a href="https://www.cnbc.com/2026/05/01/fed-dissenters-explain-no-votes-saying-they-disagreed-with-hinting-next-move-would-be-a-cut.html">Fed dissenters explain 'no' votes, saying they disagreed with hinting next move would be a cut</a>
+- <a href="https://www.cnbc.com/2026/05/01/japanese-fx-intervention-wipes-out-yens-iran-war-losses.html">Japan risks Trump's ire as Iran war fallout sparks currency intervention</a>
+- <a href="https://www.cnbc.com/2026/05/01/exxon-ceo-iran-war-oil-strait-hormuz.html">Exxon Mobil CEO expects higher oil prices due to Iran war</a>
+- <a href="https://www.cnbc.com/2026/05/01/trump-eu-auto-tariffs.html">Trump says he's raising EU auto tariffs to 25%</a>
+- <a href="https://www.cnbc.com/2026/05/01/donald-trump-king-charles-queen-camilla-state-visit-scotch-whisky-tariffs.html">Trump scraps Scotch whisky tariffs 'in honor' of King Charles</a>
+- <a href="https://www.cnbc.com/2026/05/01/uk-exports-us-fall-25-trump-tariffs-liberation-day.html">UK exports to U.S. plunge by 25% after Trump's 'liberation day' tariffs</a>
+- <a href="https://www.cnbc.com/2026/04/30/apple-aapl-q2-2026-earnings-report.html">Apple revenue guidance tops estimates on booming iPhone, Mac demand</a>
+- <a href="https://www.cnbc.com/2026/05/01/apple-stock-rallies-on-q2-earnings-and-q3-guidance.html">Apple's stock gains as company execs cite iPhone, Mac demand in boosting guidance</a>
+- <a href="https://www.cnbc.com/2026/05/01/apple-ceo-warns-of-memory-crunch-well-look-at-a-range-of-options.html">Apple CEO Tim Cook warns of extended memory crunch</a>
+- <a href="https://www.cnbc.com/2026/04/30/what-bettors-think-apple-will-talk-about-on-its-earnings-call.html">Apple execs to talk China and tariffs, but will avoid discussing foldable iPhone</a>
+- <a href="https://www.cnbc.com/2026/05/01/berkshire-hathaway-annual-meeting-new-era-warren-buffett-off-center-stage.html">Berkshire shares struggle into annual meeting. Can Abel rekindle enthusiasm?</a>
+- <a href="https://www.cnbc.com/2026/05/01/strait-of-hormuz-base-oils-luxury-autos.html">Engine trouble ahead? How the Strait of Hormuz standoff threatens luxury auto giants</a>
+- <a href="https://www.cnbc.com/2026/05/01/tech-download-chip-stocks-surge-historic-month-intel-apple.html">The Tech Download: Chip stocks surge in 'historic' month</a></p>
+<p><strong>SCMP</strong>
+- <a href="https://www.scmp.com/news/china/diplomacy/article/3352108/china-cuts-tariffs-african-goods-it-enough-close-trade-gap">China cuts tariffs on African goods but is it enough to close the trade gap?</a>
+- <a href="https://www.scmp.com/news/china/diplomacy/article/3352197/chinas-un-envoy-blasts-us-bullying-sanctions-widen-trump-xi-talks">China's UN envoy blasts US 'bullying' as sanctions widen before Trump-Xi talks</a>
+- <a href="https://www.scmp.com/news/china/money-wealth/article/3352195/us-sanctions-china-based-operator-others-over-alleged-iran-oil-trade-links">US sanctions China-based operator, others over alleged Iran oil trade links</a>
+- <a href="https://www.scmp.com/week-asia/economics/article/3352153/gold-loses-its-shimmer-asia-over-rising-oil-prices-hawkish-fed-stance">Gold loses its shimmer in Asia over rising oil prices, hawkish Fed stance</a>
+- <a href="https://www.scmp.com/news/us/diplomacy/article/3352196/trump-expands-cuba-sanctions-global-reach-targeting-foreign-banks-and-firms">Trump expands Cuba sanctions with global reach, targeting foreign banks and firms</a>
+- <a href="https://www.scmp.com/week-asia/politics/article/3352211/how-trump-inadvertently-bringing-japan-south-korea-together">How Trump is inadvertently bringing Japan, South Korea together</a>
+- <a href="https://www.scmp.com/news/world/europe/article/3352217/trump-eu-rift-spurs-germany-boost-military-add-75000-soldiers">Trump-EU rift spurs Germany to boost military, add 75,000 soldiers</a>
+- <a href="https://www.scmp.com/news/china/politics/article/3352159/counting-gains-beijing-taiwanese-opposition-leader-cheng-li-wun-eyes-us-trip-june">Counting gains from Beijing, Taiwanese opposition leader Cheng Li-wun eyes US trip in June</a>
+- <a href="https://www.scmp.com/news/china/politics/article/3352156/why-beijing-now-wants-its-spies-executed-taiwan-come-decades-cold">Why Beijing now wants its spies executed in Taiwan back in the spotlight</a>
+- <a href="https://www.scmp.com/news/asia/east-asia/article/3352202/japans-takaichi-hold-talks-vietnam-economic-security-critical-minerals">Japan's Takaichi to hold talks in Vietnam on economic security, critical minerals</a></p>
+<p><strong>BBC</strong>
+- <a href="https://www.bbc.com/news/articles/cwy2v509217o">China scraps tariffs for all but one African nation</a>
+- <a href="https://www.bbc.com/news/articles/cx21m88rd14o">Oil price hits highest since 2022 after report Trump to be briefed on new Iran options</a>
+- <a href="https://www.bbc.com/news/articles/c4g8zpylzz9o">Trump says he will hike tariffs on EU cars to 25%</a>
+- <a href="https://www.bbc.com/news/articles/cjrp3pew2d5o">Trump to remove whisky tariffs after King's visit</a></p>
+<p><strong>CNN</strong>
+- <a href="https://www.cnn.com/2026/05/01/economy/fed-rate-cuts-hikes-dissent/index.html">The Fed subtly signaled that only rate cuts are on the table. Some Fed officials are crying foul</a>
+- <a href="https://www.cnn.com/2026/05/01/middle-east/iran-ceasefire-peace-proposal/index.html">Ceasefire hangs in the balance as Iran sends peace proposal to mediators</a>
+- <a href="https://www.cnn.com/2026/05/01/middle-east/iran-war-escalation-risk/index.html">Escalation is 'looming large' as Iran blockade continues</a>
+- <a href="https://www.cnn.com/2026/05/01/asia/myanmar-aung-san-suu-kyi-house-arrest/index.html">Myanmar's detained former leader Aung San Suu Kyi moved to house arrest</a></p>
+<p><strong>WallstreetCN</strong>
+- <a href="https://wallstreetcn.com/articles/3756789">5.4万亿日元干预前，日本财长曾警告交易员"手机不离身"</a>
+- <a href="https://wallstreetcn.com/articles/3756812">赶在假期前"第二次干预汇市"？市场甚至猜测"日本不止拉高日元，还砸了油价"</a>
+- <a href="https://wallstreetcn.com/articles/3756790">苹果上季在华收入继续两位数大增，iPhone收入创同期新高</a>
+- <a href="https://wallstreetcn.com/articles/3756788">美联储4月会议投反对票三官员：不宜暗示下一步将降息</a>
+- <a href="https://wallstreetcn.com/articles/3756791">新美联储通讯社：从"降不降息"到"加息条件"，美联储内部讨论重心转向</a></p>
+<hr />
+<p><em><a href="archive.md">Past briefings</a></em></p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.instant", "navigation.tracking", "navigation.top", "content.code.copy"], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  </body>
+</html>
