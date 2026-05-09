@@ -334,6 +334,8 @@ FACTS vs AI ANALYSIS:
   2. Narrative change: classify as New / Acceleration / Deceleration / Reversal / Confirmation / Noise versus Macro State or the prior briefing.
   3. Transmission / Market Read: name the macro transmission chain, then give directional asset implications.
   4. Watchpoint / Confidence: concrete 24-72h confirmation/invalidation trigger plus Confidence: High / Medium / Low.
+  REQUIRED bullet labels: `What happened`, `Narrative change`, `Transmission / Market Read`, `Watchpoint / Confidence`.
+  FORMAT INVALID if any AI Reasoning block uses legacy labels: `Base Case` or `Tactical Trade`.
   NO new facts, no uncited numbers, no price targets unless explicitly cited by FT/BBG/WSJ/Reuters today. Example:
 > [!info] [AI Reasoning]
 > * **What happened**: The escort operation moved Hormuz risk from headline risk to an operational shipping constraint.
@@ -1417,6 +1419,8 @@ Use `backticks` for ALL numeric values and tickers: `$125/bbl`, `3.2%`, `$34.5B`
 > * **Transmission / Market Read**: [Growth / inflation / policy / liquidity / risk-premium / capital-flow channel, then directional asset view with bold assets.]
 > * **Watchpoint / Confidence**: [24-72h confirmation or invalidation trigger; Confidence: High / Medium / Low based on source quality and cross-source confirmation.]
 
+FORMAT CHECK: Every `> [!info] [AI Reasoning]` block must use exactly these four labels. Do not output legacy labels `Base Case` or `Tactical Trade`, even if they appear in prior reports or morning context.
+
 [Repeat for each priority theme.]
 
 ---
@@ -1485,6 +1489,31 @@ After the Full Reading List, output `<state_update>` block with updated macro st
 # ---------------------------------------------------------------------------
 # Claude API
 # ---------------------------------------------------------------------------
+
+def _has_legacy_ai_reasoning(report):
+    return bool(re.search(r"\*\s+\*\*(Base Case|Tactical Trade)\*\*:", report))
+
+
+def _repair_ai_reasoning_format(report):
+    repair_prompt = f"""Convert ONLY the AI Reasoning blocks in this markdown report to the required four-bullet format.
+
+Rules:
+- Preserve all non-AI-Reasoning content exactly.
+- Do not add facts, citations, sections, or sources.
+- Each `> [!info] [AI Reasoning]` block must contain exactly these labels:
+  1. `What happened`
+  2. `Narrative change`
+  3. `Transmission / Market Read`
+  4. `Watchpoint / Confidence`
+- Do not output legacy labels `Base Case` or `Tactical Trade`.
+- Return the full markdown report only.
+
+<report>
+{report}
+</report>
+"""
+    return call_claude(repair_prompt)
+
 
 def _validate_markdown(report):
     """Post-process LLM output to fix common markdown syntax errors."""
@@ -1586,6 +1615,23 @@ def _generate_archive_md(docs_dir):
     (docs_dir / "archive.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
+def _strip_ai_reasoning_blocks(markdown):
+    """Remove prior report AI Reasoning blocks used only for afternoon de-duplication."""
+    lines = markdown.splitlines()
+    cleaned = []
+    skipping = False
+    for line in lines:
+        if line.startswith("> [!info] [AI Reasoning]"):
+            skipping = True
+            continue
+        if skipping:
+            if line.startswith(">") or not line.strip():
+                continue
+            skipping = False
+        cleaned.append(line)
+    return "\n".join(cleaned).strip()
+
+
 def _load_morning_report(window_end):
     """Load today's morning report for afternoon briefing context.
     Returns the markdown text (stripped of Full Reading List to save tokens), or None."""
@@ -1598,6 +1644,7 @@ def _load_morning_report(window_end):
     frl_marker = "## 📚 Full Reading List"
     if frl_marker in text:
         text = text[:text.index(frl_marker)].strip()
+    text = _strip_ai_reasoning_blocks(text)
     # Truncate if still too long; morning context is only for de-duplication.
     if len(text) > MAX_MORNING_CONTEXT_CHARS:
         text = text[:MAX_MORNING_CONTEXT_CHARS] + "\n\n[...truncated for context window...]"
@@ -1857,6 +1904,19 @@ def main():
             report = report_body.strip()
     elif report:
         print("  [state] No <state_update> found in LLM output — state not updated")
+
+    if _has_legacy_ai_reasoning(report):
+        print("  [format] Legacy AI Reasoning labels detected; requesting format-only repair")
+        write_text_artifact("legacy_ai_reasoning_report.txt", report)
+        try:
+            repaired = _repair_ai_reasoning_format(report)
+            if repaired and not _has_legacy_ai_reasoning(repaired):
+                report = repaired
+                print("  [format] AI Reasoning format repaired")
+            else:
+                print("  [format] Repair did not fully remove legacy labels; keeping original output")
+        except Exception as e:
+            print(f"  [format] Repair failed: {e}", file=sys.stderr)
 
     # Post-processing: validate and fix common markdown issues
     report = _validate_markdown(report)
