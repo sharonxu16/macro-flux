@@ -1,26 +1,26 @@
-# Macro State — Last updated: 2026-05-08
+# Macro State — Last updated: 2026-05-09
 
-## Active Narratives (max 4 — drop stale, add new)
-1. **US-Iran Ceasefire Collapse Risk & Hormuz Escalation** — UAE interception expands conflict radius; Trump’s ceasefire claim persists but military confrontation widens.
-2. **Trump Trade Brinkmanship** — EU July 4 deadline set; China summit with CEO delegation may offer bilateral catalyst.
-3. **Starmer Political Survival & UK Gilt Rally** — Heavy local election losses prompt rally as immediate leadership vacuum averted.
-4. **BOJ June Hike Expectations & Yen Intervention** — Wage data supportive; intervention faces market tests.
+## Active Narratives
+1. **US-Iran Ceasefire Frays (Hormuz)** — Reciprocal tanker strikes and ship seizures; NACHO trade gaining traction as a prolonged disruption is priced.
+2. **Trump Ukraine-Russia Ceasefire** — Three-day truce (May 9-11) announced with a prisoner swap, but market impact is muted given the short timeframe.
+3. **US Jobs + Consumer Divergence** — Payrolls beat at +115K pushes S&P 500 to records, but consumer sentiment hits a record low on gas prices, reinforcing stagflation fears.
+4. **AI Chip Rotation** — Intel, AMD, Micron surge on a "changing of the guard" trade as Apple and Intel reach a preliminary chip-making deal; Nvidia lags.
 
-## What We’re Tracking (max 5 — remove resolved)
-1. US April payrolls (tonight) — consensus `62K` vs `178K`; a miss would amplify recession fears.
-2. UAE kinetic involvement and possible widening of Hormuz conflict.
-3. EU reaction to Trump’s July 4 deadline — any rejection would raise trade war odds.
-4. Trump-Xi summit outcome — Boeing deal as a potential de‑escalation signal.
-5. ECB June meeting communications post‑Guindos — how the bank frames energy shock.
+## What We're Tracking
+1. Iran's formal reply to the US peace proposal.
+2. Whether the Russia-Ukraine three-day ceasefire holds, especially on Victory Day (May 9).
+3. European crude and product inventory data for signs of a physical supply crunch.
+4. PBOC's daily USD/CNY fixing and Saturday's China trade data for signs of policy easing.
+5. May 14 Senate Banking Committee crypto bill vote.
 
-## Open Questions (max 3)
-1. Can the US‑Iran ceasefire survive the UAE interception and reciprocal strikes without becoming a broader regional conflict?
-2. Will the US payrolls miss confirm a recession‑level decline, forcing the Fed to cut even amid energy inflation?
-3. Can the Trump‑Xi summit produce a Boeing deal that materially shifts the US‑China tariff outlook, offsetting Iran‑war risk?
+## Open Questions
+1. Is the US-Iran ceasefire operationally dead after the reciprocal strikes, or can the MOU framework salvage talks?
+2. Can consumer confidence recover without lower gasoline prices, or will the sentiment data flow accelerate a consumption slowdown?
+3. Is the AI chip rotation from Nvidia to Intel/AMD a tactical shift or the start of a broader unwind in the Nvidia trade?
 
-## Key Levels (max 5 — only with today’s source citations)
-- Brent crude: jumped on renewed Hormuz clashes but no new specific level cited; prior was `$105.78`.
-- Hang Seng Index: `26,300` support area intraday ([HKEJ](https://news.google.com/rss/articles/CBMib0FVX3lxTE5Rcm5IM2tmb19iQkg2RFpCMVlkU3FwWG5HOUFIY1d6OTAwR0xaYllqTGtDZVhRVU5yWVByS3BxVl9YYkhXNm9lNHFUOGlkMWdVU2pNYW5YX3pxSVRMRXZFMWg2eUNVbWpaVDZPSGFXQQ)).
-- Sterling: rallied after Starmer pledge; specific levels not cited.
-- USD/JPY: intervention zone remains contested; no new level cited.
-- German industrial production: `-1.2%` m/m in March ([BBG](https://www.bloomberg.com/news/articles/2026-05-08/german-industrial-production-unexpectedly-falls-for-second-month)).
+## Key Levels
+- S&P 500: record close, sixth straight weekly gain ([BBG](https://www.bloomberg.com/news/videos/2026-05-08/stocks-hit-record-high-on-jobs-as-chipmakers-surge-video))
+- US 10Y yield: traders now focusing on inflation data after the jobs beat ([BBG](https://www.bloomberg.com/news/articles/2026-05-08/treasuries-gain-ahead-of-us-payrolls-with-jobs-growth-expected))
+- Brent crude: slipped on the week as ceasefire talks progress, but NACHO trade implies persistent upside risk ([CNBC](https://www.cnbc.com/2026/05/08/traders-nacho-trade-strait-hormuz-oil-markets-taco-trump-iran.html))
+- USD/JPY: supported by rate differential as Fed is "quickly running out of reasons to cut" ([CNBC](https://www.cnbc.com/2026/05/08/the-federal-reserve-is-quickly-running-out-of-reasons-to-cut-interest-rates.html))
+- UK 10Y gilt yield: eased on Starmer's decision to stay after local election losses ([CNBC](https://www.cnbc.com/2026/05/08/uk-election-result-keir-starmer-reform-uk-green-council-markets-gilts.html))
