@@ -2,11 +2,14 @@ name: Daily Macro Briefing
 
 on:
   schedule:
-    # HKT 9:07 AM = UTC 1:07, HKT 6:07 PM = UTC 10:07.
+    # HKT 8:20 AM = UTC 00:20, with 8:30 AM backup = UTC 00:30.
+    # HKT 6:20 PM = UTC 10:20, with 6:30 PM backup = UTC 10:30.
     # Keep these as separate entries so delayed GitHub runners still know
     # which report/window the scheduled event was intended to generate.
-    - cron: '7 1 * * *'
-    - cron: '7 10 * * *'
+    - cron: '20 0 * * *'
+    - cron: '30 0 * * *'
+    - cron: '20 10 * * *'
+    - cron: '30 10 * * *'
   workflow_dispatch:
     inputs:
       briefing_type:
@@ -62,10 +65,13 @@ jobs:
           manual_type = os.environ.get("INPUT_BRIEFING_TYPE", "").strip()
           manual_date = os.environ.get("INPUT_RUN_DATE_HKT", "").strip()
 
-          if schedule == "7 1 * * *":
+          morning_schedules = {"20 0 * * *", "30 0 * * *"}
+          afternoon_schedules = {"20 10 * * *", "30 10 * * *"}
+
+          if schedule in morning_schedules:
               briefing_type = "morning"
               target_date = datetime.now(timezone.utc).date()
-          elif schedule == "7 10 * * *":
+          elif schedule in afternoon_schedules:
               briefing_type = "afternoon"
               target_date = datetime.now(timezone.utc).date()
           else:
@@ -100,7 +106,21 @@ jobs:
           INPUT_BRIEFING_TYPE: ${{ inputs.briefing_type }}
           INPUT_RUN_DATE_HKT: ${{ inputs.run_date_hkt }}
 
+      - name: Skip existing scheduled briefing
+        id: existing
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          REPORT_PATH: docs/past/${{ steps.type.outputs.target_date }}-${{ steps.type.outputs.label }}.md
+        run: |
+          if [ "$EVENT_NAME" = "schedule" ] && [ -s "$REPORT_PATH" ]; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            echo "Scheduled briefing already exists at $REPORT_PATH; skipping duplicate backup run."
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Generate briefing
+        if: steps.existing.outputs.skip != 'true'
         env:
           ANTHROPIC_AUTH_TOKEN: ${{ secrets.ANTHROPIC_AUTH_TOKEN }}
           ANTHROPIC_BASE_URL: https://api.deepseek.com/anthropic
@@ -112,7 +132,7 @@ jobs:
           python morning_briefing.py ${{ steps.type.outputs.flag }} --from "${{ steps.type.outputs.window_from }}" --to "${{ steps.type.outputs.window_to }}" 2>&1 | tee briefing-run.log
 
       - name: Upload briefing debug artifacts
-        if: always()
+        if: always() && steps.existing.outputs.skip != 'true'
         uses: actions/upload-artifact@v4
         with:
           name: briefing-debug-${{ github.run_id }}
@@ -123,6 +143,7 @@ jobs:
           retention-days: 14
 
       - name: Commit and push
+        if: steps.existing.outputs.skip != 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -135,15 +156,18 @@ jobs:
           fi
 
       - name: Build site
+        if: steps.existing.outputs.skip != 'true'
         run: |
           pip install mkdocs-material mkdocs-callouts
           mkdocs build
 
       - name: Upload GitHub Pages artifact
+        if: steps.existing.outputs.skip != 'true'
         uses: actions/upload-pages-artifact@v3
         with:
           path: site
 
       - name: Deploy to GitHub Pages
+        if: steps.existing.outputs.skip != 'true'
         id: deployment
         uses: actions/deploy-pages@v4
