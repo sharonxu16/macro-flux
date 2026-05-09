@@ -295,6 +295,19 @@ Sources: EIA_Press (inventory/production data), IEA_News (global outlooks, emerg
 
 CROSS-REFERENCING: Energy/shipping sources → physical supply picture. FT/BBG/WSJ → financial market transmission (crude futures, energy equities, inflation breakevens, petrocurrency FX). Physical flow data leads financial pricing. Military sources (US_CENTCOM, ISW, AlJazeera) → operational WHAT. Financial sources (FT/BBG/WSJ/Reuters) → market SO WHAT. Cite both when both relevant.
 
+NARRATIVE WATCH SELECTION — Rank candidate stories by market usefulness, not keyword volume:
+
+| Criterion | Priority |
+|---|---|
+| Direct transmission to rates, FX, commodities, broad equity indices, credit, or cross-border capital flows | Highest |
+| Clear surprise versus Macro State or the prior briefing | Highest |
+| Policy reaction function, official response, or next 24-72h catalyst | High |
+| Cross-source confirmation from FT/BBG/WSJ/Reuters/CNBC plus relevant primary/local source | High |
+| China/Korea/Taiwan/Singapore local-market relevance | High |
+| Single-stock, corporate earnings, personality, or process-only politics without macro transmission | Low |
+
+SELECTION CONSTRAINT: Narrative Watch uses this table. HIGH-PRIORITY FEED is an input bucket, not an automatic output order.
+
 ANTI-FABRICATION — Every factual claim MUST be traceable to a specific article in today's feed:
 - Numbers, names, dates, events, price levels, titles, roles, biographical claims → all from today's feed
 - Use article's exact framing: 'nominated' stays 'nominated', 'incoming' stays 'incoming'
@@ -305,23 +318,34 @@ ANTI-FABRICATION — Every factual claim MUST be traceable to a specific article
 
 <scratchpad>
 Before writing the final output, plan your analysis in this order:
-1. Scan all feeds — identify top 3-5 stories ranked by macro impact
+1. Scan all feeds — identify top 3-5 stories ranked by market usefulness, not headline volume
 2. Check war monitor feeds for hard signal triggers (categories 1-3)
 3. Check energy feeds for supply shock triggers (categories 1-3)
 4. Cross-reference military WHAT with financial SO WHAT (FT/BBG/WSJ)
-5. Check Macro State for narrative continuity (for AI Reasoning context only)
-6. Rank Overview: macro impact > headline volume. Corporate bankruptcy never leads over central bank pivot or geopolitical escalation
+5. Check Macro State to classify each candidate as New / Acceleration / Reversal / Confirmation / Noise
+6. Map each chosen narrative through one transmission chain: growth, inflation, policy, liquidity, risk premium, or capital flows
+7. Rank Overview: macro impact > headline volume. Corporate bankruptcy never leads over central bank pivot or geopolitical escalation
 </scratchpad>
 
 FACTS vs AI ANALYSIS:
-- Fact paragraphs & Global Radar: EXCERPT mode — copy verbatim from article text. Do NOT rephrase, summarize, or paraphrase. Stitch all excerpts into a SINGLE continuous paragraph (no line breaks, no `>` prefixes). Inline citations wrapped in parentheses: `([Source](URL))` immediately after each claim. NEVER enrich with training data or Macro State.
-- AI Reasoning: Output `> [!info] [AI Reasoning]` with EXACTLY two bullets. Bullet 1 (Base Case): pure macro narrative — what this means for market sentiment, economic growth, central bank policy, fiscal policy, or geopolitical/domestic politics. NO market mentions, no asset names, no price direction. Bullet 2 (Tactical Trade & Pivot): directional view on specific assets — FX pairs **bolded** with direction only (e.g. **Long USD/CNH**, **Short KRW**), no instruments. NO price levels or targets unless explicitly cited by FT/BBG/WSJ/Reuters today. Example:
+- Narrative Watch Fact paragraphs: EXCERPT mode — copy verbatim from article text. Do NOT rephrase, summarize, or paraphrase. Stitch selected excerpts into a SINGLE continuous paragraph (no line breaks, no `>` prefixes). Inline citations wrapped in parentheses: `([Source](URL))` immediately after each claim. NEVER enrich with training data or Macro State.
+- Global Radar: EXCERPT mode — one direct excerpt per bullet. Do NOT rephrase, summarize, or paraphrase.
+- AI Reasoning: Output `> [!info] [AI Reasoning]` with EXACTLY four bullets. Keep excerpts in Fact; put judgment ONLY in these bullets.
+  1. What happened: one-sentence judgment grounded only in the Fact excerpts.
+  2. Narrative change: classify as New / Acceleration / Reversal / Confirmation / Noise versus Macro State or the prior briefing.
+  3. Transmission / Market Read: name the macro transmission chain, then give directional asset implications.
+  4. Watchpoint / Confidence: concrete 24-72h confirmation/invalidation trigger plus Confidence: High / Medium / Low.
+  NO new facts, no uncited numbers, no price targets unless explicitly cited by FT/BBG/WSJ/Reuters today. Example:
 > [!info] [AI Reasoning]
-> * **Base Case**: The Hormuz escort operation raises the probability of a sustained US-Iran naval presence in the Strait, hardening the supply-risk premium and reducing the credibility of the ceasefire framework.
-> * **Tactical Trade**: **Long Brent**; however, **PIVOT to flat/neutral** if "Project Freedom" concludes its first 24 hours without kinetic engagement, signaling the risk premium was overshot.
+> * **What happened**: The escort operation moved Hormuz risk from headline risk to an operational shipping constraint.
+> * **Narrative change**: Acceleration versus Macro State because military protection is now attached to commercial transit rather than only diplomatic messaging.
+> * **Transmission / Market Read**: Risk-premium channel favors **long Brent** and **short KRW** until transit normalizes.
+> * **Watchpoint / Confidence**: Pivot to neutral if first convoy clears without kinetic contact; Confidence: Medium due to cross-source confirmation but volatile official messaging.
 
 MACRO STATE USAGE:
-- State provides continuity for AI Reasoning — it is NOT a source for fact sections
+- State provides continuity for AI Reasoning and narrative-change classification — it is NOT a source for fact sections
+- Use State to decide whether today's feed creates New / Acceleration / Reversal / Confirmation / Noise
+- If prior state uses an older format, translate it mentally into active narratives, watchpoints, open questions, and key levels before writing `<state_update>`
 - Cross-day cumulative counts ('third hike since Hormuz closure', 'Day 16 of the blockade', 'fourth consecutive week') are BANNED in Fact sections UNLESS a source article in TODAY's feed explicitly states that exact number
 - State says 'third hike' + today's articles only say 'OPEC+ agreed a 188k bpd increase' → write ONLY what the article says. Reserve cumulative context for [AI Reasoning] sections
 
@@ -346,7 +370,7 @@ tags:
 ---
 1. Header (date range)
 2. Overview (ranked by impact; single paragraph; no AI Reasoning; cross-market thesis in last sentence)
-3. Narrative Watch (Fact → AI Reasoning)
+3. Narrative Watch (Fact excerpts → AI Reasoning: What happened / Narrative change / Transmission & Market Read / Watchpoint & Confidence)
 4. Global Radar (Economic Indicators → Central Banks → Geopolitics → Commodities → Equities)
 5. Economic Calendar — Output as a Markdown table. Each event is one table row with these 5 columns:
    | Time (HKT) | Rgn | Event | Est. | Prior |
@@ -371,7 +395,7 @@ Every factual claim ends with linked citations using article URLs from today's f
 Every URL from today's feed — no substitutions, no homepage links. No colons, no "Source:" labels. Preference order: FT > BBG > WSJ > Reuters > CNBC > SCMP > BBC > CNN > others.
 
 BOLD:
-- Permitted locations: (a) headings, (b) hard war signals from GEOPOLITICS & WAR MONITOR (categories 1-2), (c) severe energy chokepoint disruptions (Energy category 1)
+- Permitted locations: (a) headings, (b) hard war signals from GEOPOLITICS & WAR MONITOR (categories 1-2), (c) severe energy chokepoint disruptions (Energy category 1), (d) directional asset views inside AI Reasoning
 - Bold ONLY the key signal, not surrounding context
 - All other body text: no bold
 
@@ -385,14 +409,13 @@ TONE:
 POTENTIAL MARKET IMPACT FORMATTING:
 - Asset class, specific ticker, and directional bias MUST be **bold**
 - Example: "Favors **short KRW** and **long USD/Asia FX** on risk-off"
-- Example: "Supports **long-dated Brent** calendar spreads"
 - Example: "Tilts risks toward **higher USD/CNH**"
 
 TIGHTNESS CONSTRAINTS:
-- AI Reasoning: each bullet max 35 words
+- AI Reasoning: exactly four bullets; each bullet max 28 words
 - Fact paragraphs: max 250 words each. Be selective — not every article needs to be cited.
-- Global Radar: max 5 items per category. Skip categories entirely if nothing high-impact.
-- Narrative Watch: max 4 stories. Lead with the 2-3 most macro-relevant.
+- Global Radar: max 4 items per category. Skip categories entirely if nothing high-impact.
+- Narrative Watch: max 3 stories. Use a 4th only if it changes cross-asset pricing or a major Asia FX narrative.
 - Full Reading List: only articles actually cited. Skip sources with zero citations.
 - Morning reports have a 24K output token ceiling — if you're running long, cut low-priority stories before cutting the calendar or reading list.
 - No preamble, no academic hedging, no defining basic concepts
@@ -400,10 +423,10 @@ TIGHTNESS CONSTRAINTS:
 
 <state_update>
 After the Full Reading List, you MUST output updated state in this XML block. This is REQUIRED on every run — never skip it. The state is stripped before publishing so it won't appear in the final report:
-## Active Narratives (max 4 — drop stale, add new)
-## What We're Tracking (max 5 — remove resolved)
-## Open Questions (max 3)
-## Key Levels (max 5 — only with today's source citations)
+## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
+## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
+## Open Questions (max 3 — only unresolved questions that affect positioning)
+## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
 </state_update>"""
 
 
@@ -1249,13 +1272,15 @@ def build_prompt(articles, window_start_str, window_end_str, window_start, windo
     macro_state = _load_macro_state()
     if macro_state:
         lines.append("## MACRO STATE (Persistent PM's Notebook — from prior briefings)")
-        lines.append("This is YOUR prior analysis for continuity awareness. Use it to inform")
-        lines.append("[AI Reasoning] sections and to track evolving narratives. Do NOT use it")
-        lines.append("as a factual source in Fact sections or Global Radar — only today's feed")
-        lines.append("articles provide reportable facts. HARD BAN: no cumulative counts like")
-        lines.append("'third hike since Hormuz closure' or 'Day 16 of blockade' in Fact sections")
-        lines.append("unless today's articles explicitly state that number. Count in AI Reasoning.")
-        lines.append("Update the state at the end of your output.")
+        lines.append("This is YOUR prior analysis for continuity awareness. Use it to classify")
+        lines.append("today's narratives as New / Acceleration / Reversal / Confirmation / Noise")
+        lines.append("inside [AI Reasoning]. Do NOT use it as a factual source in Fact sections")
+        lines.append("or Global Radar — only today's feed articles provide reportable facts.")
+        lines.append("HARD BAN: no cumulative counts like 'third hike since Hormuz closure' or")
+        lines.append("'Day 16 of blockade' in Fact sections unless today's articles explicitly")
+        lines.append("state that number. If this state uses an older schema, convert it into")
+        lines.append("Active Narratives / Watchpoints / Open Questions / Key Levels in the")
+        lines.append("final <state_update> block.")
         lines.append("")
         lines.append(macro_state)
         lines.append("")
@@ -1372,11 +1397,11 @@ Then continue with the header below.]
 
 ## 🔬 Narrative Watch
 
-[For each HIGH-PRIORITY development (priority >= 10), use this exact structure. Group stories ONLY when they share a DIRECT causal or thematic link — do NOT force unrelated stories under a broad heading just because they involve the same country or region. If two stories are only tangentially related, give each its own ### 📌 block. When in doubt, separate.]
+[Choose Narrative Watch stories by market usefulness: cross-asset transmission, surprise versus Macro State, policy reaction function, next 24-72h catalyst, source quality, and Asia FX relevance. Feed priority is input metadata, not output order. Group stories ONLY when they share a DIRECT causal or thematic link — do NOT force unrelated stories under a broad heading just because they involve the same country or region. If two stories are only tangentially related, give each its own ### 📌 block. When in doubt, separate.]
 
 **HEADLINE ANTI-HALLUCINATION**: Every claim in the `### 📌` headline MUST appear in at least one Fact citation below. No unsourced directional moves (e.g. "CNH fall" requires a cited CNH article), no unsourced country names, no synthesized narratives. If only KRW and JPY moved, write "KRW, JPY weaken" — do NOT add CNH or TWD.
 
-**FACT — Direct excerpt only**: Copy key sentences verbatim from source articles. Each excerpt on its own `>` line. No rephrasing, no summarizing, no connecting commentary. Group excerpts from the same story under one `### 📌` block. If two articles don't share a direct factual thread, they belong in separate Narrative Watch blocks. Inline citations are sufficient — do NOT add a separate citation line at the end of the block.]
+**FACT — Direct excerpt only**: Copy key sentences verbatim from source articles. No rephrasing, no summarizing, no connecting commentary. Stitch selected excerpts into one continuous paragraph. Group excerpts from the same story under one `### 📌` block. If two articles don't share a direct factual thread, they belong in separate Narrative Watch blocks. Inline citations are sufficient — do NOT add a separate citation line at the end of the block.]
 
 **SOURCE URL RULES FOR GN FEEDS**: Articles from Google News RSS feeds (Reuters_GN, WSJ_GN, CNN_GN, Caixin_GN) have URLs starting with `https://news.google.com/rss/articles/`. These are Google News article pages that display the full article text. They are FUNCTIONAL links that readers can click to read the article. Use them as citation links when no direct source URL is available. NEVER fabricate a generic homepage URL like `https://www.reuters.com/` — this is worse than a Google News link. If an article has both a GN URL and a direct source URL, prefer the direct source URL. If only a GN URL is available, use it.]
 
@@ -1388,8 +1413,10 @@ The US military will support the launch of "Project Freedom" beginning Monday to
 Use `backticks` for ALL numeric values and tickers: `$125/bbl`, `3.2%`, `$34.5B`.]
 
 > [!info] [AI Reasoning]
-> * **Base Case**: [Pure macro narrative — policy/geopolitical implication. NO markets, no assets.]
-> * **Tactical Trade**: [Directional view on specific assets, bolded, no instruments. E.g. **Long USD/CNH**]; **PIVOT to [contingency]** if [invalidation trigger].
+> * **What happened**: [One-sentence judgment grounded only in the Fact excerpts; no new facts.]
+> * **Narrative change**: [New / Acceleration / Reversal / Confirmation / Noise versus Macro State or the prior briefing; explain why.]
+> * **Transmission / Market Read**: [Growth / inflation / policy / liquidity / risk-premium / capital-flow channel, then directional asset view with bold assets.]
+> * **Watchpoint / Confidence**: [24-72h confirmation or invalidation trigger; Confidence: High / Medium / Low based on source quality and cross-source confirmation.]
 
 [Repeat for each priority theme.]
 
@@ -1414,8 +1441,6 @@ Use `backticks` for ALL numeric values and tickers: `$125/bbl`, `3.2%`, `$34.5B`
 ### 📈 Equities
 [Each bullet: one continuous excerpt line with `[Source](URL)` at end. Index futures moves, sector rotation, vol regime, investor sentiment (e.g. Fear & Greed, put/call), index options flow. Sector heavyweight stocks only if macro theme (e.g. TSMC for AI capex). NO individual corporate stories, NO M&A, NO single-stock earnings.]
 
-""
-
 ---
 
 ## 📅 Economic Calendar — Next 24 Hours
@@ -1432,6 +1457,13 @@ If the TRADINGECONOMICS table is empty or has no events, write: "No high-impact 
 [2-level nested bullets. Level 1: `- **SourceName**`. Level 2: 2-space-indented `  - [Headline](URL)`. Sort: BBG → Reuters → WSJ → FT → CNBC → SCMP → BBC → CNN → others. Omit sources with zero articles.]
 
 After the Full Reading List, output `<state_update>` block with updated macro state. REQUIRED — never skip.
+
+<state_update>
+## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
+## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
+## Open Questions (max 3 — only unresolved questions that affect positioning)
+## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
+</state_update>
 
 ---
 """)

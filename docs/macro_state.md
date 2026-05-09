@@ -1,16 +1,16 @@
 # Macro State — Last updated: 2026-05-09
 
 ## Active Narratives
-1. **US-Iran Ceasefire Frays (Hormuz)** — Reciprocal tanker strikes and ship seizures; NACHO trade gaining traction as a prolonged disruption is priced.
-2. **Trump Ukraine-Russia Ceasefire** — Three-day truce (May 9-11) announced with a prisoner swap, but market impact is muted given the short timeframe.
-3. **US Jobs + Consumer Divergence** — Payrolls beat at +115K pushes S&P 500 to records, but consumer sentiment hits a record low on gas prices, reinforcing stagflation fears.
-4. **AI Chip Rotation** — Intel, AMD, Micron surge on a "changing of the guard" trade as Apple and Intel reach a preliminary chip-making deal; Nvidia lags.
+1. **US-Iran Ceasefire Frays (Hormuz)** — Status: Acceleration; reciprocal tanker strikes and ship seizures keep a prolonged disruption priced; next trigger: Iran's formal reply to the US peace proposal.
+2. **Trump Ukraine-Russia Ceasefire** — Status: New; the May 9-11 truce and prisoner swap create a short-dated de-escalation test; next trigger: whether the ceasefire holds through Victory Day.
+3. **US Jobs + Consumer Divergence** — Status: Acceleration; payroll resilience and record-low consumer sentiment keep stagflation risk alive; next trigger: whether weak sentiment appears in spending or claims data.
+4. **AI Chip Rotation** — Status: New; Intel, AMD, and Micron strength challenges the Nvidia-led AI equity narrative; next trigger: whether follow-through appears in index leadership and capex commentary.
 
-## What We're Tracking
+## Watchpoints
 1. Iran's formal reply to the US peace proposal.
-2. Whether the Russia-Ukraine three-day ceasefire holds, especially on Victory Day (May 9).
+2. Whether the Russia-Ukraine three-day ceasefire holds through May 11.
 3. European crude and product inventory data for signs of a physical supply crunch.
-4. PBOC's daily USD/CNY fixing and Saturday's China trade data for signs of policy easing.
+4. PBOC's daily USD/CNY fixing and China trade data for signs of policy easing.
 5. May 14 Senate Banking Committee crypto bill vote.
 
 ## Open Questions
