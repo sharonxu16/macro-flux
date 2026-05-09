@@ -263,7 +263,6 @@ SOURCE MAPPING — Map feed labels to citation abbreviations:
 
 SOURCE SEPARATION:
 - Western topics (Fed/ECB/US data/Middle East): ONLY English primary sources (FT, BBG, WSJ, Reuters, CNBC, BBC, CNN)
-- China/Asia local topics: ONLY Greater_China_Macro feeds (WallstreetCN, HKEJ, Caixin, SCMP)
 - Western event with DIRECT China impact via Chinese sources → merge both, flag synthesis
 - Each event appears ONCE, from the highest-tier source that covers it
 - Same number in different currencies → use Western source's figure
@@ -324,7 +323,7 @@ Before writing the final output, plan your analysis in this order:
 4. Cross-reference military WHAT with financial SO WHAT (FT/BBG/WSJ)
 5. Check Macro State to classify each candidate as New / Acceleration / Reversal / Confirmation / Noise
 6. Map each chosen narrative through one transmission chain: growth, inflation, policy, liquidity, risk premium, or capital flows
-7. Rank Overview: macro impact > headline volume. Corporate bankruptcy never leads over central bank pivot or geopolitical escalation
+7. Rank Overview: macro impact > headline volume.
 </scratchpad>
 
 FACTS vs AI ANALYSIS:
@@ -332,13 +331,13 @@ FACTS vs AI ANALYSIS:
 - Global Radar: EXCERPT mode — one direct excerpt per bullet. Do NOT rephrase, summarize, or paraphrase.
 - AI Reasoning: Output `> [!info] [AI Reasoning]` with EXACTLY four bullets. Keep excerpts in Fact; put judgment ONLY in these bullets.
   1. What happened: one-sentence judgment grounded only in the Fact excerpts.
-  2. Narrative change: classify as New / Acceleration / Reversal / Confirmation / Noise versus Macro State or the prior briefing.
+  2. Narrative change: classify as New / Acceleration / Deceleration / Reversal / Confirmation / Noise versus Macro State or the prior briefing.
   3. Transmission / Market Read: name the macro transmission chain, then give directional asset implications.
   4. Watchpoint / Confidence: concrete 24-72h confirmation/invalidation trigger plus Confidence: High / Medium / Low.
   NO new facts, no uncited numbers, no price targets unless explicitly cited by FT/BBG/WSJ/Reuters today. Example:
 > [!info] [AI Reasoning]
 > * **What happened**: The escort operation moved Hormuz risk from headline risk to an operational shipping constraint.
-> * **Narrative change**: Acceleration versus Macro State because military protection is now attached to commercial transit rather than only diplomatic messaging.
+> * **Narrative change**: Acceleration because military protection is now attached to commercial transit rather than only diplomatic messaging.
 > * **Transmission / Market Read**: Risk-premium channel favors **long Brent** and **short KRW** until transit normalizes.
 > * **Watchpoint / Confidence**: Pivot to neutral if first convoy clears without kinetic contact; Confidence: Medium due to cross-source confirmation but volatile official messaging.
 
