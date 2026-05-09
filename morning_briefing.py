@@ -329,16 +329,14 @@ Before writing the final output, plan your analysis in this order:
 FACTS vs AI ANALYSIS:
 - Narrative Watch Fact paragraphs: EXCERPT mode — copy verbatim from article text. Do NOT rephrase, summarize, or paraphrase. Stitch selected excerpts into a SINGLE continuous paragraph (no line breaks, no `>` prefixes). Inline citations wrapped in parentheses: `([Source](URL))` immediately after each claim. NEVER enrich with training data or Macro State.
 - Global Radar: EXCERPT mode — one direct excerpt per bullet. Do NOT rephrase, summarize, or paraphrase.
-- AI Reasoning: Output `> [!info] [AI Reasoning]` with EXACTLY four bullets. Keep excerpts in Fact; put judgment ONLY in these bullets.
-  1. What happened: one-sentence judgment grounded only in the Fact excerpts.
-  2. Narrative change: classify as New / Acceleration / Deceleration / Reversal / Confirmation / Noise versus Macro State or the prior briefing.
-  3. Transmission / Market Read: name the macro transmission chain, then give directional asset implications.
-  4. Watchpoint / Confidence: concrete 24-72h confirmation/invalidation trigger plus Confidence: High / Medium / Low.
-  REQUIRED bullet labels: `What happened`, `Narrative change`, `Transmission / Market Read`, `Watchpoint / Confidence`.
-  FORMAT INVALID if any AI Reasoning block uses legacy labels: `Base Case` or `Tactical Trade`.
+- AI Reasoning: Output `> [!info] [AI Reasoning]` with EXACTLY three bullets. Keep excerpts in Fact; put judgment ONLY in these bullets.
+  1. Narrative change: classify as New / Acceleration / Deceleration / Reversal / Confirmation / Noise versus Macro State or the prior briefing.
+  2. Transmission / Market Read: name the macro transmission chain, then give directional asset implications.
+  3. Watchpoint / Confidence: concrete 24-72h confirmation/invalidation trigger plus Confidence: High / Medium / Low.
+  REQUIRED bullet labels: `Narrative change`, `Transmission / Market Read`, `Watchpoint / Confidence`.
+  FORMAT INVALID if any AI Reasoning block uses legacy or redundant labels: `What happened`, `Base Case`, or `Tactical Trade`.
   NO new facts, no uncited numbers, no price targets unless explicitly cited by FT/BBG/WSJ/Reuters today. Example:
 > [!info] [AI Reasoning]
-> * **What happened**: The escort operation moved Hormuz risk from headline risk to an operational shipping constraint.
 > * **Narrative change**: Acceleration because military protection is now attached to commercial transit rather than only diplomatic messaging.
 > * **Transmission / Market Read**: Risk-premium channel favors **long Brent** and **short KRW** until transit normalizes.
 > * **Watchpoint / Confidence**: Pivot to neutral if first convoy clears without kinetic contact; Confidence: Medium due to cross-source confirmation but volatile official messaging.
@@ -371,7 +369,7 @@ tags:
 ---
 1. Header (date range)
 2. Overview (ranked by impact; single paragraph; no AI Reasoning; cross-market thesis in last sentence)
-3. Narrative Watch (Fact excerpts → AI Reasoning: What happened / Narrative change / Transmission & Market Read / Watchpoint & Confidence)
+3. Narrative Watch (Fact excerpts → AI Reasoning: Narrative change / Transmission & Market Read / Watchpoint & Confidence)
 4. Global Radar (Economic Indicators → Central Banks → Geopolitics → Commodities → Equities)
 5. Economic Calendar — Output as a Markdown table. Each event is one table row with these 5 columns:
    | Time (HKT) | Rgn | Event | Est. | Prior |
@@ -413,7 +411,7 @@ POTENTIAL MARKET IMPACT FORMATTING:
 - Example: "Tilts risks toward **higher USD/CNH**"
 
 TIGHTNESS CONSTRAINTS:
-- AI Reasoning: exactly four bullets; each bullet max 28 words
+- AI Reasoning: exactly three bullets; each bullet max 28 words
 - Fact paragraphs: max 250 words each. Be selective — not every article needs to be cited.
 - Global Radar: max 4 items per category. Skip categories entirely if nothing high-impact.
 - Narrative Watch: max 3 stories. Use a 4th only if it changes cross-asset pricing or a major Asia FX narrative.
@@ -1414,12 +1412,11 @@ The US military will support the launch of "Project Freedom" beginning Monday to
 Use `backticks` for ALL numeric values and tickers: `$125/bbl`, `3.2%`, `$34.5B`.]
 
 > [!info] [AI Reasoning]
-> * **What happened**: [One-sentence judgment grounded only in the Fact excerpts; no new facts.]
 > * **Narrative change**: [New / Acceleration / Reversal / Confirmation / Noise versus Macro State or the prior briefing; explain why.]
 > * **Transmission / Market Read**: [Growth / inflation / policy / liquidity / risk-premium / capital-flow channel, then directional asset view with bold assets.]
 > * **Watchpoint / Confidence**: [24-72h confirmation or invalidation trigger; Confidence: High / Medium / Low based on source quality and cross-source confirmation.]
 
-FORMAT CHECK: Every `> [!info] [AI Reasoning]` block must use exactly these four labels. Do not output legacy labels `Base Case` or `Tactical Trade`, even if they appear in prior reports or morning context.
+FORMAT CHECK: Every `> [!info] [AI Reasoning]` block must use exactly these three labels. Do not output redundant or legacy labels `What happened`, `Base Case`, or `Tactical Trade`, even if they appear in prior reports or morning context.
 
 [Repeat for each priority theme.]
 
@@ -1428,6 +1425,8 @@ FORMAT CHECK: Every `> [!info] [AI Reasoning]` block must use exactly these four
 ## 🌍 Global Radar
 
 **EXCERPT mode — direct quotes from articles, no rephrasing. Each excerpt on its OWN bullet line starting with `- `, inline citation wrapped in parentheses `([Source](URL))` at the end. One excerpt per bullet. Use ONLY categories below that have content, in this EXACT order. No overlap with Narrative Watch.**
+
+**DEDUP RULE:** Before writing Global Radar, list the concrete events already covered in Narrative Watch. Omit any Global Radar bullet about the same event, datapoint, policy call, market move, or source article. Example: if Narrative Watch covers China exports/imports or Goldman delaying Fed cuts, Global Radar must NOT repeat those items in Economic Indicators or Central Banks. Global Radar is for additional high-impact items only.
 
 ### 📊 Economic Indicators
 [Each bullet: one continuous excerpt line with `[Source](URL)` at end. Hard data: inflation, employment, PMIs, GDP. Soft signals: recession warnings, central banker growth assessments, private-sector credit data, structural trade shifts. Country filter: US, CN, HK, EZ/EU, GB, JP, KR, TW, SG, AU.]
@@ -1490,22 +1489,21 @@ After the Full Reading List, output `<state_update>` block with updated macro st
 # Claude API
 # ---------------------------------------------------------------------------
 
-def _has_legacy_ai_reasoning(report):
-    return bool(re.search(r"\*\s+\*\*(Base Case|Tactical Trade)\*\*:", report))
+def _has_invalid_ai_reasoning_labels(report):
+    return bool(re.search(r"\*\s+\*\*(What happened|Base Case|Tactical Trade)\*\*:", report))
 
 
 def _repair_ai_reasoning_format(report):
-    repair_prompt = f"""Convert ONLY the AI Reasoning blocks in this markdown report to the required four-bullet format.
+    repair_prompt = f"""Convert ONLY the AI Reasoning blocks in this markdown report to the required three-bullet format.
 
 Rules:
 - Preserve all non-AI-Reasoning content exactly.
 - Do not add facts, citations, sections, or sources.
 - Each `> [!info] [AI Reasoning]` block must contain exactly these labels:
-  1. `What happened`
-  2. `Narrative change`
-  3. `Transmission / Market Read`
-  4. `Watchpoint / Confidence`
-- Do not output legacy labels `Base Case` or `Tactical Trade`.
+  1. `Narrative change`
+  2. `Transmission / Market Read`
+  3. `Watchpoint / Confidence`
+- Do not output redundant or legacy labels `What happened`, `Base Case`, or `Tactical Trade`.
 - Return the full markdown report only.
 
 <report>
@@ -1905,16 +1903,16 @@ def main():
     elif report:
         print("  [state] No <state_update> found in LLM output — state not updated")
 
-    if _has_legacy_ai_reasoning(report):
-        print("  [format] Legacy AI Reasoning labels detected; requesting format-only repair")
-        write_text_artifact("legacy_ai_reasoning_report.txt", report)
+    if _has_invalid_ai_reasoning_labels(report):
+        print("  [format] Invalid AI Reasoning labels detected; requesting format-only repair")
+        write_text_artifact("invalid_ai_reasoning_report.txt", report)
         try:
             repaired = _repair_ai_reasoning_format(report)
-            if repaired and not _has_legacy_ai_reasoning(repaired):
+            if repaired and not _has_invalid_ai_reasoning_labels(repaired):
                 report = repaired
                 print("  [format] AI Reasoning format repaired")
             else:
-                print("  [format] Repair did not fully remove legacy labels; keeping original output")
+                print("  [format] Repair did not fully remove invalid labels; keeping original output")
         except Exception as e:
             print(f"  [format] Repair failed: {e}", file=sys.stderr)
 
