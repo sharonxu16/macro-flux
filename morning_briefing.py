@@ -1493,6 +1493,75 @@ def _has_invalid_ai_reasoning_labels(report):
     return bool(re.search(r"\*\s+\*\*(What happened|Base Case|Tactical Trade)\*\*:", report))
 
 
+def _normalize_ai_reasoning_format(report):
+    """Deterministically convert legacy AI Reasoning blocks to the current 3-bullet schema."""
+    lines = report.splitlines()
+    output = []
+    i = 0
+
+    def _bullet_value(block_lines, label):
+        pattern = re.compile(rf"^>\s*\*\s+\*\*{re.escape(label)}\*\*:\s*(.*)$")
+        for block_line in block_lines:
+            match = pattern.match(block_line)
+            if match:
+                return match.group(1).strip()
+        return ""
+
+    while i < len(lines):
+        line = lines[i]
+        if not line.startswith("> [!info] [AI Reasoning]"):
+            output.append(line)
+            i += 1
+            continue
+
+        block = [line]
+        i += 1
+        while i < len(lines) and (lines[i].startswith(">") or not lines[i].strip()):
+            block.append(lines[i])
+            i += 1
+
+        base_case = _bullet_value(block, "Base Case")
+        tactical_trade = _bullet_value(block, "Tactical Trade")
+        narrative_change = _bullet_value(block, "Narrative change")
+        transmission = _bullet_value(block, "Transmission / Market Read")
+        watchpoint = _bullet_value(block, "Watchpoint / Confidence")
+
+        if base_case or tactical_trade:
+            pivot_match = re.search(r"\bPIVOT\s+to\s+(.+)$", tactical_trade, flags=re.IGNORECASE)
+            if pivot_match:
+                transmission_text = tactical_trade[:pivot_match.start()].strip(" ;.*")
+                watchpoint_text = f"Pivot to {pivot_match.group(1).replace('**', '').strip()}"
+            else:
+                transmission_text = tactical_trade.strip()
+                watchpoint_text = "Monitor the next 24-72h catalyst cited in the Fact section."
+
+            normalized = [
+                "> [!info] [AI Reasoning]",
+                f"> * **Narrative change**: Confirmation: {base_case}",
+                f"> * **Transmission / Market Read**: {transmission_text or base_case}",
+                f"> * **Watchpoint / Confidence**: {watchpoint_text}; Confidence: Medium.",
+            ]
+            output.extend(normalized)
+            output.append("")
+            continue
+
+        normalized = ["> [!info] [AI Reasoning]"]
+        if narrative_change:
+            normalized.append(f"> * **Narrative change**: {narrative_change}")
+        if transmission:
+            normalized.append(f"> * **Transmission / Market Read**: {transmission}")
+        if watchpoint:
+            normalized.append(f"> * **Watchpoint / Confidence**: {watchpoint}")
+
+        if len(normalized) == 4:
+            output.extend(normalized)
+            output.append("")
+        else:
+            output.extend([b for b in block if "**What happened**" not in b])
+
+    return "\n".join(output)
+
+
 def _repair_ai_reasoning_format(report):
     repair_prompt = f"""Convert ONLY the AI Reasoning blocks in this markdown report to the required three-bullet format.
 
@@ -1904,8 +1973,12 @@ def main():
         print("  [state] No <state_update> found in LLM output — state not updated")
 
     if _has_invalid_ai_reasoning_labels(report):
-        print("  [format] Invalid AI Reasoning labels detected; requesting format-only repair")
+        print("  [format] Invalid AI Reasoning labels detected; applying deterministic normalization")
         write_text_artifact("invalid_ai_reasoning_report.txt", report)
+        report = _normalize_ai_reasoning_format(report)
+
+    if _has_invalid_ai_reasoning_labels(report):
+        print("  [format] Deterministic normalization incomplete; requesting format-only repair")
         try:
             repaired = _repair_ai_reasoning_format(report)
             if repaired and not _has_invalid_ai_reasoning_labels(repaired):
