@@ -30,8 +30,9 @@ tags:
 A Qatari natural gas tanker crossed the Strait of Hormuz on Sunday for the first time since the start of the Iran war, heading for Pakistan ([SCMP](https://www.scmp.com/news/world/middle-east/article/3353029/trump-awaits-irans-response-amid-relative-calm-hormuz)). The QatarEnergy-operated carrier Al Kharaitiyat "appears to have transited the Strait of Hormuz, marking the country's first export out of the region since the Iran war began" ([BBG](https://www.bloomberg.com/news/articles/2026-05-10/qatar-sends-first-lng-shipment-through-hormuz-since-war-started)). Saudi Aramco's boss warned of a long disruption to oil markets from the near closure of the Strait of Hormuz, while the company reported a jump in profit following higher prices and its ability to redirect exports via a pipeline bypassing the vital waterway ([BBG](https://www.bloomberg.com/news/articles/2026-05-10/aramco-profit-climbs-as-war-driven-oil-rise-offsets-export-hit)). The company said its East-West pipeline has helped to mitigate the energy shock caused by the Iran war ([CNBC](https://www.cnbc.com/2026/05/10/saudi-aramco-q1-profit-jumps-26percent-as-key-pipeline-reaches-capacity.html)). The wait stretched on for Iran's response to a US proposal to end 10 weeks of war, as the world's largest oil company warned it would take months for the market to return to normal even if the Strait of Hormuz reopened immediately ([BBG](https://www.bloomberg.com/news/articles/2026-05-10/us-awaits-iran-reply-as-aramco-says-hormuz-opening-no-quick-fix)). A cargo vessel coming from Abu Dhabi was attacked in Qatar's waters ([Reuters](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSE96bUZWYWdjX3dMWjhTdkY5eWEwOXI1eElSalVKUnFCNmRYVUdBUkY4d2NPd3huN3VndUoyMWFzZDdBMXU5S0l3SjhoYVNBYkMyWUw2Tkd3WEtyWk44czQ3c2YweHBfRnI2UFc3dkFhS0U2bnVXeFJaNFcxcC1kZFB3WGphYWdBSkpxSldNaEhZUVdaU2lZN2RrUjhkSUtYWFFpUDF6UmJUSEhicnJjSXdUT2g)). Malaysia's Prime Minister Anwar Ibrahim will unveil a plan soon to shore up the country's oil supply as uncertainties stemming from the conflict in Iran continue ([BBG](https://www.bloomberg.com/news/articles/2026-05-10/anwar-to-outline-malaysia-oil-supply-continuity-plan-bernama)). Satellite images have captured a suspected oil slick spanning dozens of square kilometres near Iran's Kharg Island ([Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/10/satellite-images-show-likely-oil-slick-off-irans-kharg-island)).
 
 > [!info] [AI Reasoning]
-> * **Base Case**: The Qatari tanker transit tests the de facto security guarantee, but Aramco's "no quick fix" guidance hardens the supply-risk premium into the Xi-Trump summit.
-> * **Tactical Trade**: **Long Brent**; however, **PIVOT to flat/neutral** if Iran delivers a formal ceasefire acceptance, signaling the risk premium has peaked near term.
+> * **Narrative change**: Acceleration: The first Qatari LNG transit tests the de facto security guarantee, while Aramco's "no quick fix" guidance keeps the supply-risk premium alive into the Xi-Trump summit.
+> * **Transmission / Market Read**: Risk-premium channel favors **long Brent** while physical transit remains fragile.
+> * **Watchpoint / Confidence**: Pivot to flat/neutral if Iran delivers a formal ceasefire acceptance, signaling the risk premium has peaked near term; Confidence: Medium.
 
 ### 📌 US Sanctions on Chinese Companies Ahead of Xi-Trump Summit
 
@@ -39,8 +40,9 @@ A Qatari natural gas tanker crossed the Strait of Hormuz on Sunday for the first
 The US imposed sanctions on Chinese companies for allegedly helping Iran ([FT](https://www.ft.com/content/f0774270-bf41-41da-98ba-b4cb034cbf67)). The sanctions come as the wait stretched on for Iran's response to a US proposal to end 10 weeks of war ([BBG](https://www.bloomberg.com/news/articles/2026-05-10/us-awaits-iran-reply-as-aramco-says-hormuz-opening-no-quick-fix)). "Crude diplomacy casts shadow over Trump-Xi summit" as a quiet power play to build up strategic oil reserves changes the energy dynamic between China and the U.S. ahead of the Beijing summit in May ([CNBC](https://www.cnbc.com/2026/05/10/global-week-ahead-crude-diplomacy-casts-shadow-over-trump-xi-summit.html)).
 
 > [!info] [AI Reasoning]
-> * **Base Case**: US sanctions on Chinese entities for Iran-linked activity raise the risk of retaliatory measures at the summit, narrowing Beijing's space for trade concessions.
-> * **Tactical Trade**: **Short USD/CNH** into the summit if China's April credit data surprises to the upside; **Long USD/CNH** on any PBOC fixing breach above `7.25`.
+> * **Narrative change**: Acceleration: US sanctions on Chinese entities for Iran-linked activity add a summit friction point and narrow Beijing's space for trade concessions.
+> * **Transmission / Market Read**: Geopolitical and capital-flow channels favor **long USD/CNH** on retaliation risk, with **short USD/CNH** only if China credit data surprises enough to offset summit risk.
+> * **Watchpoint / Confidence**: Watch any Chinese retaliation signal or PBOC fixing breach above `7.25`; Confidence: Medium.
 
 ### 📌 Trump's Auto Tariffs: European Carmakers Take €8bn Hit
 
@@ -48,8 +50,9 @@ The US imposed sanctions on Chinese companies for allegedly helping Iran ([FT](h
 European carmakers have taken an `€8bn` hit from Trump tariffs ([FT](https://www.ft.com/content/bc9b78d2-cb92-4607-b9a0-f10c330f24d3)). More than half of US voters disapprove of Trump's handling of the economy, as the Iran war and inflation hit the president's approval ratings and weigh on Republican midterm prospects, according to an FT poll ([FT](https://www.ft.com/content/d08de75e-4a62-4475-9754-7f6d186f7eeb)).
 
 > [!info] [AI Reasoning]
-> * **Base Case**: The €8bn hit to European auto earnings embeds a negative terms-of-trade shock for the eurozone, reinforcing the ECB's dovish bias as the region's export engine stalls.
-> * **Tactical Trade**: **Short EUR/USD**; however, **PIVOT to flat** if the Xi-Trump summit yields a surprise tariff rollback on autos, removing a key source of EUR downside.
+> * **Narrative change**: Confirmation: The `€8bn` hit to European auto earnings embeds a negative terms-of-trade shock for the eurozone and reinforces the ECB's dovish bias.
+> * **Transmission / Market Read**: Growth and trade channels favor **short EUR/USD** as the region's export engine absorbs tariff damage.
+> * **Watchpoint / Confidence**: Pivot to flat if the Xi-Trump summit yields a surprise tariff rollback on autos; Confidence: Medium.
 
 ### 📌 Fed AI Debate: Rate Hike vs Stagflation Scenarios
 
@@ -57,8 +60,9 @@ European carmakers have taken an `€8bn` hit from Trump tariffs ([FT](https://w
 A Federal Reserve official said: "If AI succeeds, that will lead to rate hikes; if AI fails, that leads to stagflation" ([WallstreetCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qaFZnZ0JpLTJhSERJeTNYcXVRMG5VWHJTSGpncExRR3VIaU1ObTNhYlRwSG1QaE1zNmgxMi1jaFF1R0ZRQmNUbklfaW1HLTlrQlUw)).
 
 > [!info] [AI Reasoning]
-> * **Base Case**: The Fed framing AI as a binary macro shock — either disinflationary productivity boom or stagflationary disruption — keeps rate guidance in suspended animation, buying the FOMC time as the data-dependent camp waits for evidence.
-> * **Tactical Trade**: **Short 2y UST yields** if the next CPI print comes in below `3.0%`, confirming the non-AI disinflation path; **PIVOT to long 5y** if AI capex surveys show hyper-investment that risks overheating.
+> * **Narrative change**: New: The Fed framing AI as either a productivity boom or a stagflation shock keeps rate guidance suspended while policymakers wait for evidence.
+> * **Transmission / Market Read**: Policy-expectations channel favors **short 2y UST yields** if the next CPI print confirms disinflation.
+> * **Watchpoint / Confidence**: Pivot to long 5y if AI capex surveys show hyper-investment that risks overheating; Confidence: Low.
 
 ---
 

@@ -1531,7 +1531,13 @@ def _normalize_ai_reasoning_format(report):
         if base_case or tactical_trade:
             pivot_match = re.search(r"\bPIVOT\s+to\s+(.+)$", tactical_trade, flags=re.IGNORECASE)
             if pivot_match:
-                transmission_text = tactical_trade[:pivot_match.start()].strip(" ;.*")
+                transmission_text = tactical_trade[:pivot_match.start()].strip(" ;.")
+                transmission_text = re.sub(
+                    r"\s*;\s*(however|but)\s*,?\s*$",
+                    "",
+                    transmission_text,
+                    flags=re.IGNORECASE,
+                ).strip()
                 watchpoint_text = f"Pivot to {pivot_match.group(1).replace('**', '').strip()}"
             else:
                 transmission_text = tactical_trade.strip()
@@ -1641,6 +1647,10 @@ def _validate_markdown(report):
     report, template_instruction_leaks = _remove_template_instruction_leaks(report)
     if template_instruction_leaks:
         print(f"  [validate] Removed {template_instruction_leaks} template instruction leak line(s)")
+
+    if _has_invalid_ai_reasoning_labels(report):
+        report = _normalize_ai_reasoning_format(report)
+        print("  [validate] Normalized invalid AI Reasoning labels")
 
     # 1. Fix unbalanced brackets in markdown links: count [ and ]( per line
     lines = report.split("\n")
