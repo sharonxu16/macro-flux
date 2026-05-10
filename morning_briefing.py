@@ -328,6 +328,7 @@ Before writing the final output, plan your analysis in this order:
 
 FACTS vs AI ANALYSIS:
 - Narrative Watch Fact paragraphs: EXCERPT mode — copy verbatim from article text. Do NOT rephrase, summarize, or paraphrase. Stitch selected excerpts into a SINGLE continuous paragraph (no line breaks, no `>` prefixes). Inline citations wrapped in parentheses: `([Source](URL))` immediately after each claim. NEVER enrich with training data or Macro State.
+- Citation validity: Fact and Global Radar citations MUST be clickable markdown links from today's feed. If a claim is inferred, extrapolated, unsupported, or lacks a feed URL, omit the claim. Never output bracketed source notes such as `([SCMP — Note: ...])`, `extrapolated`, `inferred`, or `no source`.
 - Global Radar: EXCERPT mode — one direct excerpt per bullet. Do NOT rephrase, summarize, or paraphrase.
 - AI Reasoning: Output `> [!info] [AI Reasoning]` with EXACTLY three bullets. Keep excerpts in Fact; put judgment ONLY in these bullets.
   1. Narrative change: classify as New / Acceleration / Deceleration / Reversal / Confirmation / Noise versus Macro State or the prior briefing.
@@ -1402,6 +1403,8 @@ Then continue with the header below.]
 
 **FACT — Direct excerpt only**: Copy key sentences verbatim from source articles. No rephrasing, no summarizing, no connecting commentary. Stitch selected excerpts into one continuous paragraph. Group excerpts from the same story under one `### 📌` block. If two articles don't share a direct factual thread, they belong in separate Narrative Watch blocks. Inline citations are sufficient — do NOT add a separate citation line at the end of the block.]
 
+**CITATION VALIDITY CHECK**: Every Fact citation must be a clickable markdown link from today's feed: `([Source](URL))`. If a claim is inferred, extrapolated, unsupported, or lacks a feed URL, omit that claim. Never output bracketed source notes such as `([SCMP — Note: ...])`, `extrapolated`, `inferred`, or `no source`.
+
 **SOURCE URL RULES FOR GN FEEDS**: Articles from Google News RSS feeds (Reuters_GN, WSJ_GN, CNN_GN, Caixin_GN) have URLs starting with `https://news.google.com/rss/articles/`. These are Google News article pages that display the full article text. They are FUNCTIONAL links that readers can click to read the article. Use them as citation links when no direct source URL is available. NEVER fabricate a generic homepage URL like `https://www.reuters.com/` — this is worse than a Google News link. If an article has both a GN URL and a direct source URL, prefer the direct source URL. If only a GN URL is available, use it.]
 
 ### 📌 [Theme / Headline]
@@ -1582,10 +1585,41 @@ Rules:
     return call_claude(repair_prompt)
 
 
+def _remove_invalid_citation_notes(report):
+    """Drop sentences where the model emitted a non-source note as if it were a citation."""
+    invalid_citation = re.compile(
+        r"\(\[[^\]\n]*(?:Note:|extrapolat|inferred|unsupported|uncited|no source)[^\]\n]*\]\)",
+        flags=re.IGNORECASE,
+    )
+    removed = 0
+    cleaned_lines = []
+    for line in report.splitlines():
+        if not invalid_citation.search(line):
+            cleaned_lines.append(line)
+            continue
+
+        sentences = re.split(r"(?<=[.!?])\s+", line)
+        kept = []
+        for sentence in sentences:
+            if invalid_citation.search(sentence):
+                removed += 1
+                continue
+            kept.append(sentence)
+        cleaned_line = " ".join(kept).strip()
+        if cleaned_line:
+            cleaned_lines.append(cleaned_line)
+
+    return "\n".join(cleaned_lines), removed
+
+
 def _validate_markdown(report):
     """Post-process LLM output to fix common markdown syntax errors."""
     import re
     fixes = 0
+
+    report, invalid_citation_notes = _remove_invalid_citation_notes(report)
+    if invalid_citation_notes:
+        print(f"  [validate] Removed {invalid_citation_notes} invalid citation note sentence(s)")
 
     # 1. Fix unbalanced brackets in markdown links: count [ and ]( per line
     lines = report.split("\n")

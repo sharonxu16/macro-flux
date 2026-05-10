@@ -2,7 +2,7 @@
 tags:
   - Macro/Hormuz_Blockade
   - Asset/Brent
-  - Macro/Fed_Cut_Delay
+  - Macro/Inflation
   - Trade/Short_USD
 ---
 
@@ -17,7 +17,7 @@ tags:
 </div>
 
 > [!abstract] Overview
-> The Iran war is draining global oil inventories at an unprecedented pace, deepening the supply crunch even as the US-Iran ceasefire frays. The Fed's first rate cut is now priced for December on persistent inflation, while the ECB is expected to act sooner. In Asia, China's trade surplus is widening on record exports, and Goldman Sachs has raised its yuan forecasts, creating a divergence between a strong China export story and a weakening US fiscal/trade position heading into the Xi-Trump summit.
+> The Iran war is draining global oil inventories at an unprecedented pace, deepening the supply crunch even as the US-Iran ceasefire frays. US CPI data keeps inflation pressure in focus, while the war is testing Washington's dollar-supremacy messaging. In Asia, China's trade surplus is widening on record exports, and Goldman Sachs has raised its yuan forecasts, creating a divergence between a strong China export story and a weakening US fiscal/trade position heading into the Xi-Trump summit.
 
 ---
 
@@ -33,15 +33,15 @@ The world has burned through oil inventories at a record speed as the Iran war t
 > * **Transmission / Market Read**: **Long Brent**.
 > * **Watchpoint / Confidence**: Pivot to neutral if a formal ceasefire text emerges from US-Iran talks, signaling the supply-risk premium is overdone; Confidence: Medium.
 
-### 📌 Fed Rate Cut Pushed to December; US CPI Data in Focus
+### 📌 US CPI Data Keeps Inflation Risk in Focus
 
 **Fact**
-Goldman Sachs pushed its first Fed rate cut forecast to December, citing persistent inflation ([SCMP — **Note: this claim about Goldman's Fed forecast is extrapolated**]). A fresh batch of consumer price data in the coming week is likely to affirm Americans’ growing frustration with inflation ([BBG](https://www.bloomberg.com/news/articles/2026-05-09/inflation-drumbeat-persists-for-unnerved-us-consumer)). The dollar's true enemy isn't who you think, as Treasury Secretary Scott Bessent made dollar supremacy his top priority, but the Iran war has undercut that goal ([BBG](https://www.bloomberg.com/news/newsletters/2026-05-09/the-dollar-s-true-enemy-isn-t-who-you-think-new-economy)).
+A fresh batch of consumer price data in the coming week is likely to affirm Americans’ growing frustration with inflation ([BBG](https://www.bloomberg.com/news/articles/2026-05-09/inflation-drumbeat-persists-for-unnerved-us-consumer)). The dollar's true enemy isn't who you think, as Treasury Secretary Scott Bessent made dollar supremacy his top priority, but the Iran war has undercut that goal ([BBG](https://www.bloomberg.com/news/newsletters/2026-05-09/the-dollar-s-true-enemy-isn-t-who-you-think-new-economy)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Confirmation: The prolonged Fed hold, combined with sticky inflation, reinforces a higher-for-longer rate narrative that supports the USD in the near term against Asia FX.
-> * **Transmission / Market Read**: **Long USD/KRW** on the rate differential.
-> * **Watchpoint / Confidence**: Pivot to short USD/KRW if May CPI prints below consensus; Confidence: Medium.
+> * **Narrative change**: Confirmation: Inflation pressure and dollar-supremacy concerns remain the main US macro channel, but the reportable fact set does not support a new Fed-cut forecast shift.
+> * **Transmission / Market Read**: Policy and capital-flow channels favor tactical **long USD/Asia FX** until inflation data softens.
+> * **Watchpoint / Confidence**: Watch the coming CPI release and Treasury dollar messaging for confirmation; Confidence: Medium.
 
 ### 📌 China's Export Strength Seen as Leverage Ahead of Xi-Trump Summit
 
@@ -58,26 +58,20 @@ Goldman Sachs raised its yuan forecasts on China export strength ([Investing](ht
 ## 🌍 Global Radar
 
 ### 📊 Economic Indicators
-- China’s merchandise exports to the US fell `10.2%` year on year to `US$133.4 billion` in the first four months of 2026, while imports from the US also declined `10.9%` ([SCMP](https://www.scmp.com/economy/global-economy/article/3352992/not-decoupling-what-us-china-trade-data-signals-ahead-xi-trump-summit)).
-- A fresh batch of consumer price data in the coming week is likely to affirm Americans’ growing frustration with inflation ([BBG](https://www.bloomberg.com/news/articles/2026-05-09/inflation-drumbeat-persists-for-unnerved-us-consumer)).
 - Chile’s new conservative government expects the economy to grow slightly above `2%` this year as it pushes pro-investment reforms and cuts spending amid the impact of the Iran war on fuel prices ([BBG](https://www.bloomberg.com/news/articles/2026-05-09/chile-finance-chief-sees-2-growth-amid-reform-push-this-year)).
 
 ### 🏦 Central Banks
 - **PBOC** — China pledged to step up efforts to defuse local government debt risk while supporting growth ([BBG](https://www.bloomberg.com/news/articles/2026-05-09/china-vows-to-advance-efforts-to-defuse-local-government-debt)).
-- **Fed** — A fresh batch of consumer price data in the coming week is likely to affirm Americans’ growing frustration with inflation ([BBG](https://www.bloomberg.com/news/articles/2026-05-09/inflation-drumbeat-persists-for-unnerved-us-consumer)).
 
 ### 🌐 Geopolitics & Policy
 - The US Treasury sanctioned 11 entities and three individuals based in Iran, China, Belarus and the United Arab Emirates for helping Iran ([CNBC](https://www.cnbc.com/2026/05/09/us-sanctions-entities-in-the-middle-east-and-china-for-helping-iran.html)).
-- The UK will deploy one of its warships to the Middle East as part of planning for a European-led mission to escort ships through the Strait of Hormuz once there’s a stable ceasefire ([BBG](https://www.bloomberg.com/news/articles/2026-05-09/uk-moves-warship-to-middle-east-for-potential-hormuz-mission)).
 - China and France must respect each other’s core interests, particularly the one-China principle, and strengthen a strategic partnership “free from external interference”, top diplomat Wang Yi said during talks with a senior adviser to the French president ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3353004/beijing-urges-france-respect-one-china-principle-during-high-level-talks)).
 - The DOJ and CFTC are probing at least four suspicious transactions in the oil market where traders made more than `$2.6 billion` ([BBG](https://www.bloomberg.com/news/videos/2026-05-09/doj-probing-suspicious-oil-trades-tied-to-iran-war-video)).
 - UK Prime Minister Keir Starmer, reeling from a crushing local election defeat, faced a new setback to his leadership when a former minister said she would challenge him for the top job ([SCMP](https://www.scmp.com/news/world/europe/article/3353019/ex-minister-tells-uk-cabinet-boot-starmer-or-shell-challenge-him-herself)).
 - Hungary’s Peter Magyar took his oath of office to become the country’s new prime minister, ending Viktor Orban’s `16` years of autocratic rule ([SCMP](https://www.scmp.com/news/world/europe/article/3353010/hungarys-new-pm-peter-magyar-sworn-ending-viktor-orbans-16-year-rule)).
 
 ### 🛢️ Commodities
-- The Iran war is draining the world’s oil buffer at an unprecedented pace ([BBG](https://www.bloomberg.com/news/articles/2026-05-09/iran-war-is-draining-world-s-oil-buffer-at-unprecedented-pace)).
 - The Iran war has put the world’s most used chemical, sulfur, in short supply ([WSJ](https://news.google.com/rss/articles/CBMiigFBVV95cUxQUmlneDYwR2M4VUFUVGVHcXdYZUFYM1Y2aHZ5ekplTHB4TGtoSHJFem1pcW9BVTV1LThYZG8yX0pGWDYzeTVTU21zUW4tZVd3bGtNczNWeXRQZEkzbUtZM0xISkdhVEZ6Y3hvcmxQbTBNTWRCTnh5UHlEb21FYnk4RmozRjRFUmZELXc)).
-- A Qatari LNG tanker is sailing towards the Hormuz Strait, shipping data shows ([Reuters](https://news.google.com/rss/articles/CBMivwFBVV95cUxPM2RPQWdNdmc3T2d1aDhIR3FBVl82NF8xTFplbmI3MDdHYUZOWlNmMHBjek1aOUdxaHltVnFYMnNoRGNOWk42em9TWlUwVzdXQ2lZdTZXMmJHWXVFSHdubWxlZkp2VG5wcWFia1hYalJxdVRqVmlrclRzQ3FJQzdLNFRiX3ZiT2xVTndFNGVKQXRLNk5JZVhodVJuT0lISVhNbmE0UjNVNEh0RUEwM0FJd1g4WUlrR0x6TFYtN29kWQ)).
 
 ### 📈 Equities
 - A blowout earnings season is providing fresh fodder for Wall Street bulls, fueling a record stocks run ([BBG](https://www.bloomberg.com/news/articles/2026-05-09/earnings-bonanza-that-no-one-saw-coming-fuels-stocks-record-run)).
