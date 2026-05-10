@@ -182,7 +182,10 @@ MEDIUM_PRIORITY_KEYWORDS = [
     "Korea", "Taiwan", "TSMC",
 ]
 
-OUTPUT_DIR = Path("/Users/sharonxu/Library/Mobile Documents/iCloud~md~obsidian/Documents/Claude_Workspace/02_Morning_Reports/News")
+OUTPUT_DIR = Path(os.environ.get(
+    "OBSIDIAN_OUTPUT_DIR",
+    "/Users/sharonxu/Library/Mobile Documents/iCloud~md~obsidian/Documents/Macro Flux/02_Morning_Reports/News",
+))
 MODEL = os.environ.get("ANTHROPIC_MODEL", "claude-sonnet-4-20250514")
 MAX_OUTPUT_TOKENS = 24576
 FEED_TIMEOUT = 10  # seconds per feed
