@@ -19,8 +19,6 @@ tags:
 
 > [!abstract] Overview
 > A Qatari LNG tanker crossed the Strait of Hormuz for the first time since the war began, while Aramco warned that reopening the route would not quickly restore market normalcy, keeping supply risks elevated. The US sanctioned Chinese companies for allegedly helping Iran, adding a new friction point days before the Xi-Trump summit, while European carmakers took an €8bn hit from Trump tariffs. The PBOC holds firepower as the RMB rally stalls on summit uncertainty, with April credit data in focus. Markets are pricing the tension between a fragile ceasefire holding and the deepening structural damage to global energy trade.
->
-> Each line of the Overview content MUST start with `> ` to keep the callout box intact in MkDocs.
 
 ---
 

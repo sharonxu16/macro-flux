@@ -1387,12 +1387,8 @@ Then continue with the header below.]
 
 > [!abstract] Overview
 > [A single paragraph of 3-5 sentences. No bullet points, no lists. HARD BAN: NO source names in parentheses — no `(FT)`, `(BBG)`, `(Reuters)`, no source abbreviations of any kind. NO markdown citation links. NO AI Reasoning. This is pure synthesis in your own words — citations and analysis go in Narrative Watch, never here. RANK by macro market impact, NOT by headline volume. Lead with the event that has the largest transmission to rates, FX, commodities, or broad equity indices. If a PM reads only the first sentence, it must capture the dominant macro driver. Final sentence: the ONE cross-market thread connecting the day.]
->
-> [IMPORTANT: Each line of the Overview content MUST start with `> ` to keep the callout box intact in MkDocs. Example:
-> > [!abstract] Overview
-> > First sentence of synthesis.
-> > Second sentence.
-> > Third sentence.]
+
+OVERVIEW OUTPUT RULE: Output only the Overview paragraph inside the `> [!abstract] Overview` callout. Do not output template notes, examples, bracketed instructions, or markdown-formatting explanations. Every Overview content line must start with `> `.
 
 ---
 
@@ -1615,6 +1611,24 @@ def _remove_invalid_citation_notes(report):
     return "\n".join(cleaned_lines), removed
 
 
+def _remove_template_instruction_leaks(report):
+    """Remove prompt/template instructions that occasionally leak into the markdown report."""
+    leak_patterns = [
+        "Each line of the Overview content MUST start",
+        "keep the callout box intact in MkDocs",
+        "OVERVIEW OUTPUT RULE:",
+        "Do not output template notes",
+    ]
+    removed = 0
+    cleaned_lines = []
+    for line in report.splitlines():
+        if any(pattern in line for pattern in leak_patterns):
+            removed += 1
+            continue
+        cleaned_lines.append(line)
+    return "\n".join(cleaned_lines), removed
+
+
 def _validate_markdown(report):
     """Post-process LLM output to fix common markdown syntax errors."""
     import re
@@ -1623,6 +1637,10 @@ def _validate_markdown(report):
     report, invalid_citation_notes = _remove_invalid_citation_notes(report)
     if invalid_citation_notes:
         print(f"  [validate] Removed {invalid_citation_notes} invalid citation note sentence(s)")
+
+    report, template_instruction_leaks = _remove_template_instruction_leaks(report)
+    if template_instruction_leaks:
+        print(f"  [validate] Removed {template_instruction_leaks} template instruction leak line(s)")
 
     # 1. Fix unbalanced brackets in markdown links: count [ and ]( per line
     lines = report.split("\n")
