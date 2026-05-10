@@ -1,25 +1,26 @@
 # Macro State — Last updated: 2026-05-10
 
 ## Active Narratives
-1. **Iran War Supply Crunch (Hormuz)** — Status: Escalating; global oil inventory draining at record pace; US awaits Iranian reply to ceasefire proposal; UK deploys warship for potential escort mission.
-2. **Fed Cut Delay** — Status: Intact; first cut pushed to December on persistent inflation; May CPI data next trigger.
-3. **China Export Strength & Summit Leverage** — Status: Accelerating; record exports and widening trade surplus give Beijing stronger hand ahead of Xi-Trump summit; Goldman Sachs raises yuan forecast.
-4. **UK Political Turmoil** — Status: Emerging; PM Starmer faces leadership challenge after crushing local election defeat.
+1. **Iran War Supply Crunch (Hormuz)** — Status: Escalating; first Qatari LNG tanker transits Strait of Hormuz; Aramco warns "no quick fix" even if route reopens; US awaits Iranian ceasefire reply; cargo vessel attacked in Qatari waters.
+2. **US-China Summit Friction** — Status: Intensifying; US sanctions Chinese companies for helping Iran days before Xi-Trump meeting; crude diplomacy casts shadow over talks.
+3. **European Auto Tariff Shock** — Status: Materialized; EU carmakers take €8bn hit from Trump tariffs, weighing on eurozone trade outlook.
+4. **Fed AI Debate** — Status: Emerging; Fed official frames AI as binary macro shock — rate hike vs stagflation — keeping guidance suspended.
 
 ## Watchpoints
-1. Iran's formal reply to the US peace proposal.
-2. May US CPI data (next week) for inflation persistence.
-3. Xi-Trump summit (next week) — outcome and any tariff/Hormuz announcements.
-4. Qatari LNG tanker transit through Hormuz as a real-time supply test.
-5. Canada's Carney openness to deeper US-Mexico trade ties.
+1. Iran's formal reply to the US ceasefire proposal.
+2. China April credit data (loans, TSF) — Caixin survey points to a "small month" with corporate loan/bond seesaw.
+3. Xi-Trump summit outcome — any tariff rollback or Hormuz-related announcements.
+4. Further Hormuz transit tests — additional Qatari or other LNG/oil tankers attempting passage.
+5. China CPI/PPI data (May 11) — PPI seen at `1.5%` vs prior `0.5%`, key for PBOC easing calculus.
 
 ## Open Questions
-1. Can the inventory drain sustain Brent above $80/bbl without triggering a demand destruction response?
-2. Is the PBOC's local government debt resolution plan credible enough to shift credit risk perception?
-3. Will the UK political crisis spill over into GBP or UK gilt market volatility?
+1. Will the Qatari tanker transit prove a one-off or the start of a de facto reopening under naval escort protection?
+2. Can China's PPI recovery sustain without triggering new PBOC tightening expectations that would cap the rally in onshore bonds?
+3. Are Trump's auto tariffs a negotiating chip ahead of the summit or a structural reset that forces permanent supply chain reconfiguration?
 
 ## Key Levels
-- Brent crude: elevated on record inventory drain; `$80/bbl` psychological level in focus ([BBG](https://www.bloomberg.com/news/articles/2026-05-09/iran-war-is-draining-world-s-oil-buffer-at-unprecedented-pace))
-- China April exports to US: `$133.4 billion` (down `10.2%` YoY) ([SCMP](https://www.scmp.com/economy/global-economy/article/3352992/not-decoupling-what-us-china-trade-data-signals-ahead-xi-trump-summit))
-- US oil trade suspicious transactions: `$2.6 billion` ([BBG](https://www.bloomberg.com/news/videos/2026-05-09/doj-probing-suspicious-oil-trades-tied-to-iran-war-video))
-- Hungary: Peter Magyar sworn in, ending Orban's 16-year rule ([SCMP](https://www.scmp.com/news/world/europe/article/3353010/hungarys-new-pm-peter-magyar-sworn-ending-viktor-orbans-16-year-rule))
+- Brent crude: elevated on Aramco's "no quick fix" warning; `$80/bbl` psychological level in focus ([BBG](https://www.bloomberg.com/news/articles/2026-05-10/us-awaits-iran-reply-as-aramco-says-hormuz-opening-no-quick-fix))
+- China PPI YoY consensus: `1.5%` (May 11 release) vs prior `0.5%` ([TradingEconomics](https://tradingeconomics.com/china/producer-prices))
+- European carmaker tariff hit: `€8bn` ([FT](https://www.ft.com/content/bc9b78d2-cb92-4607-b9a0-f10c330f24d3))
+- Panama Canal revenue boost: up to `15%` due to Iran war reshaping trade routes ([FT](https://www.ft.com/content/0dd9368e-33e5-488e-a0b3-c7ad1f7953d3))
+- US voter disapproval of Trump's economic handling: more than `50%` ([FT](https://www.ft.com/content/d08de75e-4a62-4475-9754-7f6d186f7eeb))
