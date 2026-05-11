@@ -11,6 +11,7 @@ import time
 import socket
 import ssl
 import re
+from difflib import SequenceMatcher
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -1654,6 +1655,118 @@ def _remove_tradingeconomics_global_radar_leaks(report):
     return "\n".join(cleaned_lines), removed
 
 
+def _normalize_support_text(text):
+    text = re.sub(r"\[[^\]]+\]\([^)]+\)", " ", text)
+    text = re.sub(r"https?://\S+", " ", text)
+    text = re.sub(r"[*_`>#|]", " ", text)
+    text = re.sub(r"\s+", " ", text)
+    return text.strip().lower()
+
+
+def _article_support_index(articles):
+    index = {}
+    for article in articles or []:
+        link = article.get("link")
+        if not link:
+            continue
+        body = " ".join(
+            str(article.get(key, ""))
+            for key in ("title", "summary", "full_text")
+            if article.get(key)
+        )
+        index[link] = _normalize_support_text(body)
+    return index
+
+
+def _claim_supported_by_source(claim, source_text):
+    claim = _normalize_support_text(claim)
+    if not claim or not source_text:
+        return False
+
+    # Very short claims are too easy to match accidentally; require them to be title-level exact-ish.
+    claim_words = claim.split()
+    if len(claim_words) < 7:
+        return claim in source_text
+
+    if claim in source_text:
+        return True
+
+    window_size = max(len(claim), 140)
+    best = SequenceMatcher(None, claim, source_text[:window_size]).ratio()
+    step = max(40, window_size // 3)
+    for start in range(0, max(1, len(source_text) - window_size + 1), step):
+        chunk = source_text[start:start + window_size]
+        best = max(best, SequenceMatcher(None, claim, chunk).ratio())
+        if best >= 0.72:
+            return True
+
+    claim_tokens = {w for w in claim_words if len(w) > 3}
+    source_tokens = set(source_text.split())
+    if len(claim_tokens) >= 8:
+        overlap = len(claim_tokens & source_tokens) / len(claim_tokens)
+        return overlap >= 0.78
+    return False
+
+
+def _split_cited_segments(line):
+    citation = re.compile(r"\(\[[^\]]+\]\((https?://[^)]+)\)(?:,\s*\[[^\]]+\]\((https?://[^)]+)\))*\)")
+    segments = []
+    pos = 0
+    for match in citation.finditer(line):
+        segment = line[pos:match.end()].strip()
+        urls = re.findall(r"\]\((https?://[^)]+)\)", match.group(0))
+        if segment:
+            segments.append((segment, urls))
+        pos = match.end()
+    trailing = line[pos:].strip()
+    if trailing and not re.fullmatch(r"[.。;；,，:：!?！？\s]+", trailing):
+        segments.append((trailing, []))
+    return segments
+
+
+def _remove_unsupported_global_radar_segments(report, articles):
+    """Keep Global Radar in excerpt mode by dropping cited segments not found in source text."""
+    if not articles:
+        return report, 0
+
+    support_index = _article_support_index(articles)
+    lines = report.splitlines()
+    cleaned = []
+    in_global_radar = False
+    removed = 0
+
+    for line in lines:
+        if line.startswith("## "):
+            in_global_radar = line.startswith("## 🌍 Global Radar")
+            cleaned.append(line)
+            continue
+
+        if not in_global_radar or not line.startswith("- "):
+            cleaned.append(line)
+            continue
+
+        kept_segments = []
+        for segment, urls in _split_cited_segments(line):
+            if not urls:
+                removed += 1
+                continue
+            claim = re.sub(r"^[-\s.。;；,，:：!?！？]*(?:\*\*[^*]+\*\*\s*[—-]\s*)?", "", segment)
+            if any(_claim_supported_by_source(claim, support_index.get(url, "")) for url in urls):
+                kept_segments.append(segment)
+            else:
+                removed += 1
+
+        if kept_segments:
+            rebuilt = " ".join(kept_segments)
+            if not rebuilt.startswith("- "):
+                rebuilt = "- " + rebuilt.lstrip("- ").strip()
+            if not re.search(r"[.!?。！？]\s*$", rebuilt):
+                rebuilt += "."
+            cleaned.append(rebuilt)
+
+    return "\n".join(cleaned), removed
+
+
 def _normalize_header_greeting(report, briefing_type):
     """Force the header greeting to match the requested briefing type."""
     expected = "Good morning." if briefing_type == "morning" else "Good afternoon."
@@ -1665,7 +1778,7 @@ def _normalize_header_greeting(report, briefing_type):
     )
 
 
-def _validate_markdown(report):
+def _validate_markdown(report, articles=None):
     """Post-process LLM output to fix common markdown syntax errors."""
     import re
     fixes = 0
@@ -1685,6 +1798,10 @@ def _validate_markdown(report):
     report, te_leaks = _remove_tradingeconomics_global_radar_leaks(report)
     if te_leaks:
         print(f"  [validate] Removed {te_leaks} TradingEconomics Global Radar leak line(s)")
+
+    report, unsupported_radar_segments = _remove_unsupported_global_radar_segments(report, articles)
+    if unsupported_radar_segments:
+        print(f"  [validate] Removed {unsupported_radar_segments} unsupported Global Radar segment(s)")
 
     # 1. Fix unbalanced brackets in markdown links: count [ and ]( per line
     lines = report.split("\n")
@@ -2097,7 +2214,7 @@ def main():
             print(f"  [format] Repair failed: {e}", file=sys.stderr)
 
     # Post-processing: validate and fix common markdown issues
-    report = _validate_markdown(report)
+    report = _validate_markdown(report, articles)
     report = _normalize_header_greeting(report, briefing_type)
 
     # Stage 3: Save + Deploy
