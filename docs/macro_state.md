@@ -1,26 +1,25 @@
-# Macro State — Last updated: 2026-05-10
+# Macro State — Last updated: 2026-05-11
 
 ## Active Narratives
-1. **Iran War Supply Crunch (Hormuz)** — Status: Escalating; first Qatari LNG tanker transits Strait of Hormuz; Aramco warns "no quick fix" even if route reopens; US awaits Iranian ceasefire reply; cargo vessel attacked in Qatari waters.
-2. **US-China Summit Friction** — Status: Intensifying; US sanctions Chinese companies for helping Iran days before Xi-Trump meeting; crude diplomacy casts shadow over talks.
-3. **European Auto Tariff Shock** — Status: Materialized; EU carmakers take €8bn hit from Trump tariffs, weighing on eurozone trade outlook.
-4. **Fed AI Debate** — Status: Emerging; Fed official frames AI as binary macro shock — rate hike vs stagflation — keeping guidance suspended.
+1. **Iran War Supply Crunch (Hormuz)** — Status: Acceleration; Trump rejects Tehran's ceasefire reply as "TOTALLY UNACCEPTABLE"; 40+ nations meet Monday on escort mission; Pimco flags Fed rate hike risk; South Korean ship hit by "unidentified aircraft."
+2. **US-China Summit Friction** — Status: Confirmation; He Lifeng to meet Bessent in Seoul days before Trump-Xi Beijing meeting; China enters with rare-earth confidence signaling willingness to retaliate.
+3. **Fed AI / Stagflation Debate** — Status: Emerging; Pimco CIO sees risk of Fed hiking due to Iran war; gold falls on inflation fears; oil rally boosts breakevens.
+4. **European Auto Tariff Shock** — Status: Fading from active watch; no new tariff articles in the window.
 
 ## Watchpoints
-1. Iran's formal reply to the US ceasefire proposal.
-2. China April credit data (loans, TSF) — Caixin survey points to a "small month" with corporate loan/bond seesaw.
-3. Xi-Trump summit outcome — any tariff rollback or Hormuz-related announcements.
-4. Further Hormuz transit tests — additional Qatari or other LNG/oil tankers attempting passage.
-5. China CPI/PPI data (May 11) — PPI seen at `1.5%` vs prior `0.5%`, key for PBOC easing calculus.
+1. Monday's 40-nation Hormuz escort planning meeting — outcomes on force composition and timeline.
+2. China April CPI/PPI data (May 11 09:30 HKT) — PPI `1.5%` consensus is key for PBOC easing.
+3. He Lifeng-Bessent Seoul trade talks readout — any tariff rollback or Hormuz-related announcements.
+4. Iran's military response to Trump's rejection — "new guiding measures" from Supreme Leader.
+5. Further Hormuz transit tests — any additional commercial vessels attempting passage under escort.
 
 ## Open Questions
-1. Will the Qatari tanker transit prove a one-off or the start of a de facto reopening under naval escort protection?
-2. Can China's PPI recovery sustain without triggering new PBOC tightening expectations that would cap the rally in onshore bonds?
-3. Are Trump's auto tariffs a negotiating chip ahead of the summit or a structural reset that forces permanent supply chain reconfiguration?
+1. Will Monday's escort planning meeting produce a concrete timeline for reopening Hormuz, or does Trump's rejection reset the clock to zero?
+2. Can China's PPI recovery sustain without triggering new PBOC tightening expectations that would cap the onshore bond rally?
+3. Is the Iranian Supreme Leader's "new guiding measures" rhetoric a prelude to asymmetric retaliation or a diplomatic pressure tactic?
 
 ## Key Levels
-- Brent crude: elevated on Aramco's "no quick fix" warning; `$80/bbl` psychological level in focus ([BBG](https://www.bloomberg.com/news/articles/2026-05-10/us-awaits-iran-reply-as-aramco-says-hormuz-opening-no-quick-fix))
+- Brent crude: elevated on Trump's rejection and Aramco's 1-billion-barrel loss warning; `$80/bbl` psychological level in focus ([Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxNS3pDSldwZm11Y3h3RTVCMVhYTkR6SEVldlhObExxSmJzUjdqSEdvdUd4UHp0ZWcwTmVYdHFnWjFWcmVHLS1fYUV1anpGTGZSajlNNHV6T2tETmlkT0hUVFUwXzhVQzF5VjB6dWQtZjlYNlRYb2VoRGgxdU9BTDZ0THRub2xvQ1B1eXFMTmdtUjhacFZXY094YS05Skl6eEJuYU5CX3BsTHlQOGtEbV9PZW1TQjFDS1FkR3dhRGNR))
 - China PPI YoY consensus: `1.5%` (May 11 release) vs prior `0.5%` ([TradingEconomics](https://tradingeconomics.com/china/producer-prices))
-- European carmaker tariff hit: `€8bn` ([FT](https://www.ft.com/content/bc9b78d2-cb92-4607-b9a0-f10c330f24d3))
-- Panama Canal revenue boost: up to `15%` due to Iran war reshaping trade routes ([FT](https://www.ft.com/content/0dd9368e-33e5-488e-a0b3-c7ad1f7953d3))
-- US voter disapproval of Trump's economic handling: more than `50%` ([FT](https://www.ft.com/content/d08de75e-4a62-4475-9754-7f6d186f7eeb))
+- Gold: fell on inflation fears after Trump's rejection, level to watch is last Friday's close ([BBG](https://www.bloomberg.com/news/articles/2026-05-10/gold-falls-as-trump-rejection-of-iran-offer-fans-inflation-fears))
+- USD/JPY: pullback remains corrective as intervention risk persists above `160` ([BT](https://news.google.com/rss/articles/CBMivwFBVV95cUxNZml1OFkzcXlZNENVNUxyZm1nNm5Qc2lXVjNuOFdCVW5GQV84N293N0NHWGZOM2xfVFJmYjlTZWt0TE5hS0diRUdVck1Na0k0a0tBWlFXVzBhcG5OSE4zR0NmcE1KQ2kyc0gyaVlGUDAzVGlodUVjUlB1Zm0tQTd5bHBXQzVLbm1mbVlLZzZiZWsyMXMyZFM1bjUwRGF6TVFHYmZxd1lzOV9hTjd1UjAtQi1IZ2EwdmFheW4talJIUQ))
