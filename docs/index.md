@@ -13,7 +13,7 @@ tags:
 
 <small>May 10 6PM to May 11 8AM HKT</small>
 
-<small>Good afternoon.</small>
+<small>Good morning.</small>
 
 </div>
 

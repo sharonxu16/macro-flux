@@ -1638,6 +1638,17 @@ def _remove_template_instruction_leaks(report):
     return "\n".join(cleaned_lines), removed
 
 
+def _normalize_header_greeting(report, briefing_type):
+    """Force the header greeting to match the requested briefing type."""
+    expected = "Good morning." if briefing_type == "morning" else "Good afternoon."
+    return re.sub(
+        r"<small>Good (morning|afternoon)\.</small>",
+        f"<small>{expected}</small>",
+        report,
+        count=1,
+    )
+
+
 def _validate_markdown(report):
     """Post-process LLM output to fix common markdown syntax errors."""
     import re
@@ -2059,6 +2070,7 @@ def main():
 
     # Post-processing: validate and fix common markdown issues
     report = _validate_markdown(report)
+    report = _normalize_header_greeting(report, briefing_type)
 
     # Stage 3: Save + Deploy
     print("\n[3/3] Saving report...")
