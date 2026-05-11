@@ -20,7 +20,7 @@ tags:
 ---
 
 > [!abstract] Overview
-> President Trump rejected Iran's ceasefire proposal as "TOTALLY UNACCEPTABLE," setting oil prices for a gap-higher open in Asia after a weekend of diplomatic breakdown and military posturing. US equity futures slipped and gold fell as investors repriced inflation risk from the prolonged Strait of Hormuz closure. China's CPI/PPI duo is today's hard-data test for PBOC easing calculus, with PPI seen accelerating to 1.5% YoY. The Trump-Xi summit frame is now clearer: Beijing enters with rare-earth confidence, while Vice-Premier He Lifeng will meet US Treasury Secretary Bessent in Seoul for pre-summit trade talks. The cross-asset signal is stagflation—higher oil yields higher breakevens but lower equity risk appetite, tilting the session toward long commodities and short Asia FX.
+> President Trump rejected Iran's ceasefire proposal as "TOTALLY UNACCEPTABLE," setting oil prices for a gap-higher open in Asia after a weekend of diplomatic breakdown and military posturing. US equity futures slipped and gold fell as investors repriced inflation risk from the prolonged Strait of Hormuz closure. China's CPI/PPI releases are today's scheduled hard-data test for PBOC easing calculus. The Trump-Xi summit frame is now clearer: Beijing enters with rare-earth confidence, while Vice-Premier He Lifeng will meet US Treasury Secretary Bessent in Seoul for pre-summit trade talks. The cross-asset signal is stagflation—higher oil yields higher breakevens but lower equity risk appetite, tilting the session toward long commodities and short Asia FX.
 
 ---
 
@@ -61,8 +61,6 @@ A South Korean cargo ship hit in the Strait of Hormuz six days ago was struck by
 ## 🌍 Global Radar
 
 ### 📊 Economic Indicators
-- China's PPI YoY for April is expected at `1.5%` vs prior `0.5%` ([TradingEconomics](https://tradingeconomics.com/china/producer-prices))
-- China's CPI YoY for April is expected at `0.8%` vs prior `1.0%` ([TradingEconomics](https://tradingeconomics.com/china/inflation-cpi))
 - The retail trades added nearly `22,000` jobs in April, accounting for about one-fifth of total job growth ([CNBC](https://www.cnbc.com/2026/05/10/retailer-hiring-consumer-warning-jobs-report.html))
 
 ### 🏦 Central Banks

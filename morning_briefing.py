@@ -1338,6 +1338,7 @@ def build_prompt(articles, window_start_str, window_end_str, window_start, windo
         lines.append("")
         lines.append("## TRADINGECONOMICS ECONOMIC CALENDAR (Pre-processed — HKT times, next 24h only)")
         lines.append("Use this data directly for the Economic Calendar section. Times already in HKT. Events already filtered and sorted.")
+        lines.append("Calendar values are scheduled releases/consensus/prior only, not published data. Do not cite TradingEconomics or these future events in Overview, Narrative Watch, or Global Radar.")
         lines.append("")
         lines.append("| Time (HKT) | Country | Event | Consensus | Prior |")
         lines.append("|------------|---------|-------|-----------|-------|")
@@ -1433,8 +1434,10 @@ FORMAT CHECK: Every `> [!info] [AI Reasoning]` block must use exactly these thre
 
 **DEDUP RULE:** Before writing Global Radar, list the concrete events already covered in Narrative Watch. Omit any Global Radar bullet about the same event, datapoint, policy call, market move, or source article. Example: if Narrative Watch covers China exports/imports or Goldman delaying Fed cuts, Global Radar must NOT repeat those items in Economic Indicators or Central Banks. Global Radar is for additional high-impact items only.
 
+**CALENDAR EXCLUSION RULE:** TradingEconomics calendar rows are scheduled events with Est./Prior values, not news excerpts or released data. Never cite TradingEconomics in Global Radar. Do not write future CPI/PPI/GDP/PMI consensus as if the data has printed. Put scheduled releases only in Economic Calendar.
+
 ### 📊 Economic Indicators
-[Each bullet: one continuous excerpt line with `[Source](URL)` at end. Hard data: inflation, employment, PMIs, GDP. Soft signals: recession warnings, central banker growth assessments, private-sector credit data, structural trade shifts. Country filter: US, CN, HK, EZ/EU, GB, JP, KR, TW, SG, AU.]
+[Each bullet: one continuous excerpt line with `[Source](URL)` at end. Hard data ONLY after publication: inflation, employment, PMIs, GDP. Soft signals: recession warnings, central banker growth assessments, private-sector credit data, structural trade shifts. Calendar consensus/estimates for unreleased events are NOT hard data and must be omitted here. Country filter: US, CN, HK, EZ/EU, GB, JP, KR, TW, SG, AU.]
 
 ### 🏦 Central Banks
 [Each bullet: `**Bank Name** — excerpt text [Source](URL)`. Only banks with new announcements. ORDER: PBOC → Fed → BOJ → BOK → CBC → RBA → ECB → BOE → others.]
@@ -1638,6 +1641,18 @@ def _remove_template_instruction_leaks(report):
     return "\n".join(cleaned_lines), removed
 
 
+def _remove_tradingeconomics_global_radar_leaks(report):
+    """TradingEconomics calendar rows belong only in the Economic Calendar table."""
+    removed = 0
+    cleaned_lines = []
+    for line in report.splitlines():
+        if line.startswith("- ") and "TradingEconomics" in line:
+            removed += 1
+            continue
+        cleaned_lines.append(line)
+    return "\n".join(cleaned_lines), removed
+
+
 def _normalize_header_greeting(report, briefing_type):
     """Force the header greeting to match the requested briefing type."""
     expected = "Good morning." if briefing_type == "morning" else "Good afternoon."
@@ -1665,6 +1680,10 @@ def _validate_markdown(report):
     if _has_invalid_ai_reasoning_labels(report):
         report = _normalize_ai_reasoning_format(report)
         print("  [validate] Normalized invalid AI Reasoning labels")
+
+    report, te_leaks = _remove_tradingeconomics_global_radar_leaks(report)
+    if te_leaks:
+        print(f"  [validate] Removed {te_leaks} TradingEconomics Global Radar leak line(s)")
 
     # 1. Fix unbalanced brackets in markdown links: count [ and ]( per line
     lines = report.split("\n")
