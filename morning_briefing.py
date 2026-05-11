@@ -200,6 +200,7 @@ MAX_PRIORITY_BODY_CHARS = env_int("MAX_PRIORITY_BODY_CHARS", 1600, min_value=400
 MAX_CNN_BODY_CHARS = env_int("MAX_CNN_BODY_CHARS", 900, min_value=300)
 MAX_GENERAL_BODY_CHARS = env_int("MAX_GENERAL_BODY_CHARS", 500, min_value=150)
 MAX_MORNING_CONTEXT_CHARS = env_int("MAX_MORNING_CONTEXT_CHARS", 3000, min_value=1000)
+MIN_ARTICLES_TO_PUBLISH = env_int("MIN_ARTICLES_TO_PUBLISH", 20, min_value=1)
 HTTP_HEADERS = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"}
 
 # Sources where simple HTTP GET can extract article text (no paywall / anti-bot)
@@ -2031,6 +2032,14 @@ def main():
     priority_count = sum(1 for a in articles if a["priority"] >= 10)
     medium_count = sum(1 for a in articles if 3 <= a["priority"] < 10)
     print(f"  Total: {len(articles)} articles ({priority_count} high-priority, {medium_count} medium)")
+    if len(articles) < MIN_ARTICLES_TO_PUBLISH:
+        msg = (
+            f"Only {len(articles)} articles fetched; below publish threshold "
+            f"{MIN_ARTICLES_TO_PUBLISH}. Aborting to avoid publishing a hollow report."
+        )
+        print(f"  [error] {msg}", file=sys.stderr)
+        write_text_artifact("fetch_quality_gate.txt", msg + "\n")
+        sys.exit(2)
 
     # Fetch TradingEconomics economic calendar (next 24h events with consensus/prior)
     te_events = _fetch_te_calendar(window_end)
