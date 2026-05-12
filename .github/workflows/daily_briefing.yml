@@ -2,12 +2,15 @@ name: Daily Macro Briefing
 
 on:
   schedule:
-    # HKT 8:20 AM = UTC 00:20, with 8:30 AM backup = UTC 00:30.
+    # HKT 8:20 AM = UTC 00:20, 8:30 AM backup = UTC 00:30.
+    # HKT 9:20/9:30 AM are late backups for delayed/missed GitHub runners.
     # HKT 6:20 PM = UTC 10:20, with 6:30 PM backup = UTC 10:30.
     # Keep these as separate entries so delayed GitHub runners still know
     # which report/window the scheduled event was intended to generate.
     - cron: '20 0 * * *'
     - cron: '30 0 * * *'
+    - cron: '20 1 * * *'
+    - cron: '30 1 * * *'
     - cron: '20 10 * * *'
     - cron: '30 10 * * *'
   workflow_dispatch:
@@ -65,7 +68,7 @@ jobs:
           manual_type = os.environ.get("INPUT_BRIEFING_TYPE", "").strip()
           manual_date = os.environ.get("INPUT_RUN_DATE_HKT", "").strip()
 
-          morning_schedules = {"20 0 * * *", "30 0 * * *"}
+          morning_schedules = {"20 0 * * *", "30 0 * * *", "20 1 * * *", "30 1 * * *"}
           afternoon_schedules = {"20 10 * * *", "30 10 * * *"}
 
           if schedule in morning_schedules:

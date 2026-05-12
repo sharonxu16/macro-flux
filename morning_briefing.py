@@ -48,6 +48,9 @@ def _load_env_from_claude_config():
         if key not in os.environ:
             os.environ[key] = value
 
+
+_load_env_from_claude_config()
+
 # ---------------------------------------------------------------------------
 # Constants
 # ---------------------------------------------------------------------------
@@ -187,7 +190,9 @@ OUTPUT_DIR = Path(os.environ.get(
     "OBSIDIAN_OUTPUT_DIR",
     "/Users/sharonxu/Library/Mobile Documents/iCloud~md~obsidian/Documents/Macro Flux/02_Morning_Reports/News",
 ))
-MODEL = os.environ.get("ANTHROPIC_MODEL", "claude-sonnet-4-20250514")
+MODEL = os.environ.get("ANTHROPIC_MODEL", "deepseek-v4-pro")
+if MODEL.lower().startswith("deepseek-v4-pro"):
+    MODEL = "deepseek-v4-pro"
 MAX_OUTPUT_TOKENS = 24576
 FEED_TIMEOUT = 10  # seconds per feed
 MAX_AGE_HOURS = 48
