@@ -1,26 +1,26 @@
-# Macro State — Last updated: 2026-05-12
+# Macro State — Last updated: 2026-05-13
 
 ## Active Narratives
-- **Iran Hormuz Blockade** — Status: Acceleration; Trump’s “life support” comments and the “Nacho” trade confirm the market is pricing a prolonged closure; next trigger: Trump-Xi summit on Thursday.
-- **Global Rate Shock & Policy Divergence** — Status: Acceleration; BOJ, ECB, and BOK all signaled tightening today as oil-driven inflation forces a hawkish repricing; next trigger: US CPI tonight.
-- **UK Political Crisis** — Status: Acceleration; the gilt and sterling sell-off signals the crisis is now a global risk event, with long-term borrowing costs at their highest since 1998; next trigger: Starmer cabinet meeting outcome.
-- **Trump-Xi Summit** — Status: Confirmation; high stakes with Taiwan arms and Lai on the agenda, but the meeting is now framed within an escalating energy-supply and inflation crisis.
+- **US CPI Acceleration & Fed Hawkish Repricing** — Status: Acceleration; 3.8% headline and services overheating warning erased rate-cut bets completely and lifted hike odds, tightening financial conditions globally.
+- **UK Political Crisis & Gilt Shock** — Status: Acceleration; 30Y gilt yield hit century high, sterling slid, and leadership challenge odds jumped, making the UK a systemic risk event.
+- **Iran Ceasefire on Life Support / Hormuz Blockade** — Status: Confirmation; Peace talks remain stalled, Iran leverages energy deals with Iraq/Pakistan, and Hegseth underscores military option.
+- **South Korea Yield Break & Hawkish Turn** — Status: Confirmation; 10Y KTB breached 4% on oil and AI export dynamics, cementing market expectations of a BOK rate hike.
 
 ## Watchpoints
-1. US CPI (May 12, 8:30 PM HKT) — a core print above `0.3% MoM` or headline above `3.7% YoY` would accelerate the global bond sell-off.
-2. Starmer leadership challenge — any cabinet resignation or a formal challenge timeline would further punish gilts and sterling.
-3. PBOC daily CNY fix — with “cuts” language removed from the monetary policy report, watch for a stronger fix to signal a shift from easing to stability.
-4. Trump-Xi summit readout on Iran oil — any deal to revive US energy exports to China or an agreement to limit Iranian purchases would be a high-impact catalyst for Brent.
-5. Trump delaying a move to lower tariffs on beef imports signals trade friction even ahead of the summit; watch for any protectionist pivot during the Beijing meetings.
+1. US PPI (May 13, 08:30 PM HKT) — if core PPI MoM exceeds 0.3%, the bond sell-off accelerates.
+2. Fed Chair confirmation vote (likely May 13) — a swift elevation of Warsh could bring policy uncertainty.
+3. Starmer cabinet meeting / any resignation — would trigger further gilt and sterling volatility.
+4. Trump-Xi summit (May 14-16) — deliverables on Iran oil, semiconductor trade, and Taiwan arms sales will shape risk appetite and commodity markets.
+5. Samsung strike escalation (Korea) — any production disruption adds to supply‑side inflation fears in Asia tech.
 
 ## Open Questions
-1. If US CPI confirms accelerating inflation, will the Fed’s incoming chair Warsh face immediate pressure from Trump to cut rates into a supply shock?
-2. Can the PBOC maintain stability in the CNY fix as imported inflation fears mount and the policy stance shifts from easing?
-3. Will the Trump-Xi summit produce a tangible de-escalation on Iran, or will it become a flashpoint for new trade and technology tensions?
+- Will the global bond sell‑off force the Fed under Warsh to signal a more aggressive tightening path against Trump’s pressure to ease?
+- Can the PBOC maintain a stable CNY fix as imported energy inflation mounts and the policy stance pivots from easing to stability?
+- Will the Trump‑Xi summit produce a tangible de‑escalation on Iran, or become a flashpoint for new technology and trade tensions?
 
 ## Key Levels
-- Brent crude `$106/bbl` — the new floor following Trump’s rejection of the peace offer; a break above on summit failure targets a new leg higher.
-- `GBP/USD` — sterling slumped on the UK political crisis; a break below recent lows would signal an acute loss of confidence in UK assets.
-- South Korea 10Y bond yield `4%` — a sustained break above this psychological level confirms a structural hawkish turn by the BOK.
-- `USD/JPY` — yen policy coordination between the US and Japan provides a backstop; a break above intervention territory would signal the BOJ is losing control.
-- `USD/CNY` fix — any shift above the recent tight range would confirm the PBOC is acquiescing to imported inflation pressures.
+- US 10Y yield — sustained break above recent highs would confirm a structural shift in rate expectations; watch for auction results.
+- Brent crude `$105–$106/bbl` — a break above on summit failure or further blockade news targets a new leg higher.
+- `GBP/USD` — a break below recent lows signals acute loss of confidence in UK assets.
+- South Korea 10Y yield `4%` — sustained above confirms a hawkish BOK pivot and capital outflows from KRW.
+- `USD/JPY` — intervention risks rise if BOJ fails to signal tightening amid global yield surge.
