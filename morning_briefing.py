@@ -11,8 +11,9 @@ import time
 import socket
 import ssl
 import re
+import signal
 from difflib import SequenceMatcher
-from concurrent.futures import ThreadPoolExecutor, as_completed
+from concurrent.futures import ThreadPoolExecutor, as_completed, TimeoutError as FutureTimeoutError
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -199,6 +200,8 @@ MAX_AGE_HOURS = 48
 LOCAL_TZ = timezone(timedelta(hours=8))  # HKT
 MAX_ENHANCE_ARTICLES = 30       # max articles to fetch full text for
 ENHANCE_DELAY = 0.8             # seconds between full-text requests
+ENHANCE_TIMEOUT_SECONDS = env_int("ENHANCE_TIMEOUT_SECONDS", 90, min_value=10)
+RUN_TIMEOUT_SECONDS = env_int("RUN_TIMEOUT_SECONDS", 2400, min_value=300)
 MAX_PROMPT_ARTICLES = env_int("MAX_PROMPT_ARTICLES", 240, min_value=80)
 MAX_GENERAL_ARTICLES = env_int("MAX_GENERAL_ARTICLES", 180, min_value=40)
 MAX_ARTICLES_PER_SOURCE = env_int("MAX_ARTICLES_PER_SOURCE", 25, min_value=5)
@@ -1128,15 +1131,24 @@ def fetch_all_feeds(window_start, window_end):
             return article["source"], True
         return article["source"], False
 
-    with ThreadPoolExecutor(max_workers=6) as executor:
+    executor = ThreadPoolExecutor(max_workers=6)
+    try:
         fut_to_article = {
             executor.submit(_enhance_one, all_articles[i]): all_articles[i]
             for i in range(enhance_count)
         }
-        for fut in as_completed(fut_to_article):
-            src, ok = fut.result()
-            if ok:
-                enhanced += 1
+        try:
+            for fut in as_completed(fut_to_article, timeout=ENHANCE_TIMEOUT_SECONDS):
+                src, ok = fut.result()
+                if ok:
+                    enhanced += 1
+        except FutureTimeoutError:
+            pending = sum(1 for fut in fut_to_article if not fut.done())
+            print(f"  [warn] Full-text enhancement timed out with {pending} pending article(s); continuing with RSS summaries", file=sys.stderr)
+            for fut in fut_to_article:
+                fut.cancel()
+    finally:
+        executor.shutdown(wait=False, cancel_futures=True)
 
     if enhanced:
         print(f"  Enhanced: {enhanced}/{enhance_count} articles with full text")
@@ -2082,8 +2094,27 @@ def _parse_time_arg(arg, name):
         sys.exit(1)
 
 
+def _handle_run_timeout(signum, frame):
+    msg = f"Run exceeded hard timeout of {RUN_TIMEOUT_SECONDS}s; aborting so backup schedules can retry."
+    print(f"  [error] {msg}", file=sys.stderr)
+    write_text_artifact("run_timeout.txt", msg + "\n")
+    sys.exit(124)
+
+
+def _arm_run_timeout():
+    if RUN_TIMEOUT_SECONDS and hasattr(signal, "SIGALRM"):
+        signal.signal(signal.SIGALRM, _handle_run_timeout)
+        signal.alarm(RUN_TIMEOUT_SECONDS)
+
+
+def _clear_run_timeout():
+    if hasattr(signal, "SIGALRM"):
+        signal.alarm(0)
+
+
 def main():
     _load_env_from_claude_config()
+    _arm_run_timeout()
 
     # Parse --from / --to / --morning / --afternoon / --overnight (deprecated alias)
     from_arg = None
@@ -2136,6 +2167,18 @@ def main():
 
     window_start_str = window_start.strftime("%Y-%m-%d %H:%M")
     window_end_str = window_end.strftime("%Y-%m-%d %H:%M")
+
+    explicit_window = bool(from_arg and to_arg)
+    report_date = window_end.date() if briefing_type == "morning" else window_start.date()
+    report_name = f"{report_date:%Y-%m-%d}-{briefing_type}.md"
+    existing_report_paths = [
+        OUTPUT_DIR / report_name,
+        GITHUB_PAGES_REPO / "docs" / "past" / report_name,
+    ]
+    if not explicit_window and any(path.exists() and path.stat().st_size > 0 for path in existing_report_paths):
+        print(f"[macro-flux {briefing_type}] {report_name} already exists; skipping automatic backup run.")
+        _clear_run_timeout()
+        return
 
     print(f"[macro-flux {briefing_type}] {window_start_str} → {window_end_str} (HKT)")
     print("=" * 60)
@@ -2234,6 +2277,7 @@ def main():
     else:
         deploy_to_github_pages(report, window_end, briefing_type)
 
+    _clear_run_timeout()
     print("\nDone.")
 
 

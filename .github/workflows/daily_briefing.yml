@@ -77,18 +77,30 @@ jobs:
           morning_schedules = {"20 0 * * *", "30 0 * * *", "20 1 * * *", "30 1 * * *"}
           afternoon_schedules = {"20 10 * * *", "30 10 * * *", "40 10 * * *", "50 10 * * *", "0 11 * * *"}
 
+          def target_date_for(label):
+              if label == "morning":
+                  return now_hkt.date() if now_hkt.hour >= 6 else now_hkt.date() - timedelta(days=1)
+              if label == "afternoon":
+                  return now_hkt.date() if now_hkt.hour >= 12 else now_hkt.date() - timedelta(days=1)
+              raise SystemExit(f"Unsupported briefing_type: {label}")
+
           if event_name == "schedule":
-              target_date = now_hkt.date()
               if schedule in morning_schedules:
                   briefing_type = "morning"
               elif schedule in afternoon_schedules:
                   briefing_type = "afternoon"
               else:
-                  # GitHub occasionally runs scheduled workflows with an unexpected/blank
-                  # schedule string. Fall back to HKT wall-clock instead of defaulting to
-                  # morning and incorrectly skipping an existing morning report.
-                  briefing_type = "afternoon" if now_hkt.hour >= 12 else "morning"
+                  # GitHub can deliver delayed scheduled jobs with a blank/unexpected schedule
+                  # string. Before 06:00 HKT, treat it as a delayed prior-day afternoon run
+                  # instead of generating a future morning window.
+                  if now_hkt.hour < 6:
+                      briefing_type = "afternoon"
+                  elif now_hkt.hour < 12:
+                      briefing_type = "morning"
+                  else:
+                      briefing_type = "afternoon"
                   print(f"Unrecognized schedule {schedule!r}; inferred {briefing_type} from HKT time {now_hkt:%Y-%m-%d %H:%M}")
+              target_date = target_date_for(briefing_type)
           else:
               briefing_type = manual_type or "morning"
               if manual_date:
