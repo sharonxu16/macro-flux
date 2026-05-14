@@ -1,5 +1,6 @@
 # Past Macro Flux
 
+- [2026-05-14-morning](past/2026-05-14-morning.md)
 - [2026-05-13-afternoon](past/2026-05-13-afternoon.md)
 - [2026-05-13-morning](past/2026-05-13-morning.md)
 - [2026-05-12-afternoon](past/2026-05-12-afternoon.md)
