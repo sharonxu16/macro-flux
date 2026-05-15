@@ -3,20 +3,22 @@ name: Daily Macro Briefing
 on:
   schedule:
     # HKT 8:20 AM = UTC 00:20, 8:30 AM backup = UTC 00:30.
-    # HKT 9:20/9:30 AM are late backups for delayed/missed GitHub runners.
+    # HKT 9:20/9:30/10:30 AM are late backups for delayed/missed GitHub runners.
     # HKT 6:20 PM = UTC 10:20, 6:30 PM backup = UTC 10:30.
-    # HKT 6:40/6:50/7:00 PM are late backups for delayed/missed GitHub runners.
+    # HKT 6:40/6:50/7:00/8:30 PM are late backups for delayed/missed GitHub runners.
     # Keep these as separate entries so delayed GitHub runners still know
     # which report/window the scheduled event was intended to generate.
     - cron: '20 0 * * *'
     - cron: '30 0 * * *'
     - cron: '20 1 * * *'
     - cron: '30 1 * * *'
+    - cron: '30 2 * * *'
     - cron: '20 10 * * *'
     - cron: '30 10 * * *'
     - cron: '40 10 * * *'
     - cron: '50 10 * * *'
     - cron: '0 11 * * *'
+    - cron: '30 12 * * *'
   workflow_dispatch:
     inputs:
       briefing_type:
@@ -74,8 +76,8 @@ jobs:
           manual_date = os.environ.get("INPUT_RUN_DATE_HKT", "").strip()
           now_hkt = datetime.now(timezone.utc) + timedelta(hours=8)
 
-          morning_schedules = {"20 0 * * *", "30 0 * * *", "20 1 * * *", "30 1 * * *"}
-          afternoon_schedules = {"20 10 * * *", "30 10 * * *", "40 10 * * *", "50 10 * * *", "0 11 * * *"}
+          morning_schedules = {"20 0 * * *", "30 0 * * *", "20 1 * * *", "30 1 * * *", "30 2 * * *"}
+          afternoon_schedules = {"20 10 * * *", "30 10 * * *", "40 10 * * *", "50 10 * * *", "0 11 * * *", "30 12 * * *"}
 
           def target_date_for(label):
               if label == "morning":
@@ -155,6 +157,11 @@ jobs:
           ANTHROPIC_MODEL: deepseek-v4-pro
           BRIEFING_REPO_PATH: ${{ github.workspace }}
           RUN_ARTIFACTS_DIR: run_artifacts
+          PYTHONUNBUFFERED: "1"
+          FETCH_ROUND_TIMEOUT_SECONDS: "180"
+          ENHANCE_TIMEOUT_SECONDS: "90"
+          LLM_TIMEOUT_SECONDS: "240"
+          RUN_TIMEOUT_SECONDS: "3000"
         run: |
           set -o pipefail
           python morning_briefing.py ${{ steps.type.outputs.flag }} --from "${{ steps.type.outputs.window_from }}" --to "${{ steps.type.outputs.window_to }}" 2>&1 | tee briefing-run.log

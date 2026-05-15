@@ -32,6 +32,13 @@ from anthropic import Anthropic
 
 from briefing_runtime import env_int, write_json_artifact, write_text_artifact
 
+# launchd captures stdout/stderr to files; line buffering keeps progress visible while a run is active.
+try:
+    sys.stdout.reconfigure(line_buffering=True)
+    sys.stderr.reconfigure(line_buffering=True)
+except AttributeError:
+    pass
+
 
 def _load_env_from_claude_config():
     """Populate env vars from ~/.claude/settings.json if not already set.
@@ -200,7 +207,9 @@ MAX_AGE_HOURS = 48
 LOCAL_TZ = timezone(timedelta(hours=8))  # HKT
 MAX_ENHANCE_ARTICLES = 30       # max articles to fetch full text for
 ENHANCE_DELAY = 0.8             # seconds between full-text requests
+FETCH_ROUND_TIMEOUT_SECONDS = env_int("FETCH_ROUND_TIMEOUT_SECONDS", 180, min_value=30)
 ENHANCE_TIMEOUT_SECONDS = env_int("ENHANCE_TIMEOUT_SECONDS", 90, min_value=10)
+LLM_TIMEOUT_SECONDS = env_int("LLM_TIMEOUT_SECONDS", 240, min_value=60)
 RUN_TIMEOUT_SECONDS = env_int("RUN_TIMEOUT_SECONDS", 2400, min_value=300)
 MAX_PROMPT_ARTICLES = env_int("MAX_PROMPT_ARTICLES", 240, min_value=80)
 MAX_GENERAL_ARTICLES = env_int("MAX_GENERAL_ARTICLES", 180, min_value=40)
@@ -1057,9 +1066,10 @@ def fetch_all_feeds(window_start, window_end):
     def _run_fetch_round():
         """Fetch all configured sources once and return raw articles plus per-feed counts."""
         round_articles = []
-        feed_articles = {}
-        with ThreadPoolExecutor(max_workers=8) as executor:
-            futures = {}
+        feed_articles = {name: 0 for _, name, _ in all_tasks}
+        executor = ThreadPoolExecutor(max_workers=8)
+        futures = {}
+        try:
             for task_type, name, url in all_tasks:
                 if task_type == "html":
                     fetcher = html_fetchers[name]
@@ -1067,16 +1077,36 @@ def fetch_all_feeds(window_start, window_end):
                     fetcher = _fetch_one_feed
                 futures[executor.submit(fetcher, name, url, window_start, window_end)] = name
 
-            # Track per-feed article count
-            for fut in as_completed(futures):
-                name = futures[fut]
-                try:
-                    articles = fut.result()
-                except Exception as e:
-                    print(f"  [error] {name}: fetch task failed ({e})", file=sys.stderr)
-                    articles = []
-                feed_articles[name] = len(articles)
-                round_articles.extend(articles)
+            # Track per-feed article count, but never let one stuck source hold the whole report.
+            try:
+                completed = 0
+                for fut in as_completed(futures, timeout=FETCH_ROUND_TIMEOUT_SECONDS):
+                    completed += 1
+                    name = futures[fut]
+                    try:
+                        articles = fut.result()
+                    except Exception as e:
+                        print(f"  [error] {name}: fetch task failed ({e})", file=sys.stderr)
+                        articles = []
+                    feed_articles[name] = len(articles)
+                    round_articles.extend(articles)
+            except FutureTimeoutError:
+                pending = [name for fut, name in futures.items() if not fut.done()]
+                print(
+                    f"  [warn] Feed fetch round timed out after {FETCH_ROUND_TIMEOUT_SECONDS}s; "
+                    f"continuing without {len(pending)} pending source(s): {', '.join(pending[:8])}"
+                    f"{'...' if len(pending) > 8 else ''}",
+                    file=sys.stderr,
+                )
+                write_json_artifact("fetch_timeout_sources.json", {
+                    "timeout_seconds": FETCH_ROUND_TIMEOUT_SECONDS,
+                    "pending_sources": pending,
+                    "completed_sources": completed,
+                })
+                for fut in futures:
+                    fut.cancel()
+        finally:
+            executor.shutdown(wait=False, cancel_futures=True)
         return round_articles, feed_articles
 
     def _merge_articles(articles):
@@ -1870,7 +1900,7 @@ def call_claude(user_message):
     client = Anthropic(
         base_url=base_url,
         api_key=api_key,
-        timeout=180,
+        timeout=LLM_TIMEOUT_SECONDS,
     )
     response = client.messages.create(
         model=MODEL,
@@ -2191,6 +2221,10 @@ def main():
         "window_end_hkt": window_end_str,
         "model": MODEL,
         "max_output_tokens": MAX_OUTPUT_TOKENS,
+        "fetch_round_timeout_seconds": FETCH_ROUND_TIMEOUT_SECONDS,
+        "enhance_timeout_seconds": ENHANCE_TIMEOUT_SECONDS,
+        "llm_timeout_seconds": LLM_TIMEOUT_SECONDS,
+        "run_timeout_seconds": RUN_TIMEOUT_SECONDS,
     })
 
     # Stage 1: Fetch all RSS feeds
