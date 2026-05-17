@@ -1,22 +1,23 @@
-# Macro State — Last updated: 2026-05-16
+# Macro State — Last updated: 2026-05-17
 
 ## Active Narratives
-- **Oil Supply Shock Intensifies (UAE OPEC Exit + Trump‑Iran)** — Status: New/Acceleration; UAE exit fractures producer cohesion, Trump warns Iran, oil surges >3%. Next trigger: OPEC+ emergency response, UAE production statement.
-- **Bond Rout & Fed Hike Pricing** — Status: Acceleration; global bonds pounded by inflation fears, traders price hike. Next trigger: US PCE, Warsh remarks.
-- **Taiwan Arms Uncertainty Eases as Trump Opposes Independence** — Status: Reversal; Trump’s anti‑independence line reduces tail risk, but arms decision pending. Next trigger: Formal US arms decision within 48h.
-- **Samsung Strike Risk Recedes** — Status: Reversal; union resumes Monday talks, lowering disruption risk. Next trigger: Monday’s negotiation outcome.
+- **US-China Trade & Investment Framework** — Status: New; structured tariff rollback, aircraft purchases, farm access commitments shift bilateral macro risk; next trigger is formal tariff reduction schedule and Taiwan arms decision.
+- **Oil Supply Shock Intensifies** — Status: Acceleration; US lapse of Russian seaborne oil waiver and Iran's Hormuz lane management plans add to physical supply stress; next trigger is Iran's formal Hormuz mechanism publication and any SPR release.
+- **Bond Rout & Fed Split Under Warsh** — Status: Acceleration; rising yields threaten AI stock momentum, Warsh inherits visibly divided FOMC; next trigger is Warsh's first public remarks and any FOMC dissent signal.
+- **Iran Hormuz Toll Mechanism** — Status: New; Tehran signals imminent publication of professional traffic management system for designated shipping lanes; next trigger is the actual mechanism publication with toll or transit conditions.
 
 ## Watchpoints
-1. Formal US decision on Taiwan arms package — triggers TWD/tech risk within 48h.
-2. OPEC+ emergency meeting or UAE output statement — controls oil price trajectory.
-3. Putin‑Xi summit May 19‑20 — defines Russia‑China axis and sanctions risk.
-4. Samsung union talks Monday — determines KRW/Kospi relief.
-5. US PCE and Warsh first remarks — confirms bond/hike narrative.
+1. Formal US tariff reduction schedule and Taiwan arms decision — determines US-China deal credibility within 48h.
+2. Iran's publication of the Hormuz shipping management mechanism — controls oil supply and risk premium trajectory.
+3. Warsh's first remarks as Fed Chair — confirms bond/hike narrative and committee dynamics.
+4. APEC ministerial in Suzhou with Taiwan attendance — tests cross-strait pragmatism and Beijing's tolerance.
+5. Russia oil waiver lapse market impact — sanctions enforcement and alternative supply routes.
 
 ## Open Questions
-- Will UAE exit trigger a broader OPEC+ fracturing or a price war?
-- Will the US‑China oil/LNG deal materialise and partially offset Hormuz risk?
-- Can Putin’s Beijing visit undermine the tentative US‑China reset?
+- Will the US-China tariff rollback be reciprocal and sequenced, or remain "preliminary"?
+- Does Iran's Hormuz mechanism constitute de facto tolling or a blockade-by-regulation?
+- Can Warsh unite a split FOMC behind a coherent rate path amid sticky inflation?
 
 ## Key Levels
-(No new price levels from today’s feed; prior levels persist.)
+- `Brent` — UBS all-time-low inventory warning by end-May if Hormuz remains closed ([CNBC](https://www.cnbc.com/2026/05/16/oil-inventory-stockpile-iran-war-strait-hormuz.html)).
+- `China NIM 1.40%` — Q1 2026 commercial bank net interest margin hits new low with rising NPLs, adding pressure for PBOC easing ([Caixin](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TRjNmTEdFZEdlT0tDa0g0Si14SDY1aW5XaEo0MEZVVDg3dXBCcFlfdnVQOTQ0VjBKWWtqbDRpbUxaUjRydURkWWFSR1U2Q1EtRnd2RFJidC1rMER4OUt3TU53)).
