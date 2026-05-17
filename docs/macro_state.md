@@ -1,23 +1,25 @@
 # Macro State — Last updated: 2026-05-17
 
 ## Active Narratives
-- **US-China Trade & Investment Framework** — Status: New; structured tariff rollback, aircraft purchases, farm access commitments shift bilateral macro risk; next trigger is formal tariff reduction schedule and Taiwan arms decision.
-- **Oil Supply Shock Intensifies** — Status: Acceleration; US lapse of Russian seaborne oil waiver and Iran's Hormuz lane management plans add to physical supply stress; next trigger is Iran's formal Hormuz mechanism publication and any SPR release.
-- **Bond Rout & Fed Split Under Warsh** — Status: Acceleration; rising yields threaten AI stock momentum, Warsh inherits visibly divided FOMC; next trigger is Warsh's first public remarks and any FOMC dissent signal.
-- **Iran Hormuz Toll Mechanism** — Status: New; Tehran signals imminent publication of professional traffic management system for designated shipping lanes; next trigger is the actual mechanism publication with toll or transit conditions.
+- **Iran Hormuz Oil Supply Shock** — Status: Acceleration; a specific bank warning labels June Hormuz reopening as "wishful thinking" and predicts a summer oil price spike to $135 Brent that could shock equities; next trigger is Iran’s formal publication of the traffic management mechanism in the “near future.”
+- **Bond Rout & AI Stock Tension** — Status: Acceleration; the bond selloff is now explicitly framed as a direct threat to AI valuations, pitting EPS upgrade speed against rising yields; next trigger is Nvidia’s earnings and any FOMC dissent under incoming Chair Warsh.
+- **US-China Trade Detente: Tactical, Not Strategic** — Status: Confirmation; the morning’s trade framework matures into a sober assessment that the summit produced tactical concessions but no strategic breakthrough; next trigger is the formal tariff reduction schedule and the US Taiwan arms decision.
 
 ## Watchpoints
-1. Formal US tariff reduction schedule and Taiwan arms decision — determines US-China deal credibility within 48h.
-2. Iran's publication of the Hormuz shipping management mechanism — controls oil supply and risk premium trajectory.
-3. Warsh's first remarks as Fed Chair — confirms bond/hike narrative and committee dynamics.
-4. APEC ministerial in Suzhou with Taiwan attendance — tests cross-strait pragmatism and Beijing's tolerance.
-5. Russia oil waiver lapse market impact — sanctions enforcement and alternative supply routes.
+1. Iran’s publication of the Strait of Hormuz traffic management mechanism — controls oil supply and risk premium trajectory within 48 hours.
+2. Nvidia’s upcoming earnings — confirms whether AI earnings momentum can outpace the yield-driven derating.
+3. Formal US tariff reduction schedule and Taiwan arms decision — determines credibility and durability of the US-China trade truce.
+4. Warsh’s first remarks as Fed Chair — sets the tone for the split FOMC and the bond market’s rate trajectory.
+5. Gulf pipeline infrastructure timelines — any acceleration in alternative oil export routes shifts the Hormuz risk premium.
 
 ## Open Questions
-- Will the US-China tariff rollback be reciprocal and sequenced, or remain "preliminary"?
-- Does Iran's Hormuz mechanism constitute de facto tolling or a blockade-by-regulation?
-- Can Warsh unite a split FOMC behind a coherent rate path amid sticky inflation?
+- Will Iran’s Hormuz mechanism constitute de facto tolling, a blockade-by-regulation, or a temporary transit management?
+- Can the AI earnings cycle withstand the bond selloff, or will Nvidia’s report confirm a regime shift to yield-driven equity derating?
+- Is the US-China tariff rollback sequenced and durable enough to offset the inflationary impulse from the physical energy supply shock?
 
 ## Key Levels
-- `Brent` — UBS all-time-low inventory warning by end-May if Hormuz remains closed ([CNBC](https://www.cnbc.com/2026/05/16/oil-inventory-stockpile-iran-war-strait-hormuz.html)).
-- `China NIM 1.40%` — Q1 2026 commercial bank net interest margin hits new low with rising NPLs, adding pressure for PBOC easing ([Caixin](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TRjNmTEdFZEdlT0tDa0g0Si14SDY1aW5XaEo0MEZVVDg3dXBCcFlfdnVQOTQ0VjBKWWtqbDRpbUxaUjRydURkWWFSR1U2Q1EtRnd2RFJidC1rMER4OUt3TU53)).
+- `Brent` — a bank warns summer prices could hit `$135` and shock equities if Hormuz remains closed beyond June ([WallstreetCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE40UnpyT1ZlbDVvNDZRS3dpa1UydXplMnZKaVlkMVNhTUlUM3hfcFMwcjNUdFJrWllkUFF2eDJuVUt5NFNpLVhYVlhZMnBlVVdhdHlB)).
+- `JGB yields` — record highs trigger repatriation bets, with Japanese investors expected to sell US Treasuries ([FT](https://www.ft.com/content/6e363bc3-3114-4ddf-9f3b-67f031b3ef92)).
+- `CNH` — the stability of the currency pair hinges on the formal US tariff rollback schedule and whether the Taiwan arms decision avoids escalation.
+- `Gulf freight rates` — surging as trucks replace tanker shipping for cargo, a physical gauge of Hormuz closure stress ([FT 2](https://www.ft.com/content/0c2adc44-5dcf-4273-943e-9899a1ce44ff)).
+- `Nvidia` — positioned as the week’s pivotal catalyst for the “AI EPS vs. yields” contest ([Reuters](https://news.google.com/rss/articles/CBMilAFBVV95cUxQaFZSSGtLRFNqdlFfZnhJNVZpN09yOWs3X3ZZdGpiR21wY3BORHM1aW9iVDdTVWxXQXRieFptaUhzcUpiV0FrYWJ1RHVYcVRhVlh6cnp6WXR6TURQaWRqSUxzVUo0WXdXc3dTdVFmQXpzOGNsRHRGR1daLXQ3LThiZWhoZEpfZ25YZDVubFdlWHNZQXRF)).
