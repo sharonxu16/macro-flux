@@ -242,6 +242,23 @@ SOURCE_PROMPT_ORDER = [
     "WallstreetCN", "Caixin", "CCTV", "HKEJ",
 ]
 
+# For China-related stories, prioritize official / Chinese-language primary sources
+# before global English media so China narratives are not crowded out by BBG/Reuters.
+CHINA_SOURCE_PROMPT_ORDER = [
+    "PBOC", "HKMA", "NBSC", "Xinhua", "ChinaFinance", "ChnFund",
+    "Caixin", "WallstreetCN", "CCTV", "HKEJ", "SCMP",
+    "Reuters", "BBG", "WSJ", "FT", "CNBC", "BBC", "CNN",
+    "Fed", "ECB", "BOE", "BOJ", "BOK", "RBA", "MAS",
+]
+
+CHINA_TOPIC_KEYWORDS = [
+    "china", "chinese", "beijing", "shanghai", "hong kong", "hkma",
+    "pboc", "people's bank of china", "yuan", "renminbi",
+    "rmb", "cny", "cnh", "hkd", "xi jinping",
+    "中国", "北京", "上海", "香港", "中国人民银行", "央行", "人民币",
+    "离岸人民币", "在岸人民币", "汇率", "关税", "贸易", "财政", "宏观",
+]
+
 SYSTEM_PROMPT = """[Stage 1: Persona & Objective]
 
 ROLE: Senior macro strategist at a top-tier global macro hedge fund.
@@ -1199,11 +1216,25 @@ def _is_cnn_macro_article(article):
     return any(kw in text for kw in CNN_MACRO_KEYWORDS)
 
 
-def _source_prompt_rank(source):
-    for rank, prefix in enumerate(SOURCE_PROMPT_ORDER):
+def _source_prompt_rank(source, order=SOURCE_PROMPT_ORDER):
+    for rank, prefix in enumerate(order):
         if source.startswith(prefix):
             return rank
-    return len(SOURCE_PROMPT_ORDER)
+    return len(order)
+
+
+def _is_china_related_article(article):
+    source = article.get("source", "")
+    if _source_prompt_rank(source, CHINA_SOURCE_PROMPT_ORDER) < CHINA_SOURCE_PROMPT_ORDER.index("Reuters"):
+        return True
+    text = f"{source} {article.get('title', '')} {article.get('summary', '')}".lower()
+    return any(kw.lower() in text for kw in CHINA_TOPIC_KEYWORDS)
+
+
+def _article_prompt_sort_key(article):
+    if _is_china_related_article(article):
+        return (0, _source_prompt_rank(article["source"], CHINA_SOURCE_PROMPT_ORDER), -article["priority"], article["title"])
+    return (1, -article["priority"], _source_prompt_rank(article["source"]), article["title"])
 
 
 def _article_key(article):
@@ -1244,7 +1275,8 @@ def _select_prompt_articles(articles):
         a for a in articles
         if a["priority"] < 10 and not _is_cnn_macro_article(a)
     ]
-    remaining.sort(key=lambda a: (-a["priority"], _source_prompt_rank(a["source"]), a["title"]))
+    priority.sort(key=_article_prompt_sort_key)
+    remaining.sort(key=_article_prompt_sort_key)
 
     for article in priority:
         add(article, force=True)
