@@ -2041,11 +2041,8 @@ def _save_macro_state(state_content, window_end):
     print(f"  [state] Macro state saved ({len(state_content)} chars)")
 
 
-def _save_docs(report_md, window_end, briefing_type="morning"):
-    """Save markdown to docs/ for MkDocs build. Runs synchronously."""
-    repo = GITHUB_PAGES_REPO
-    if not (repo / ".git").exists():
-        return
+def _write_docs_to_repo(repo, report_md, window_end, briefing_type="morning"):
+    """Write report files into a repo checkout without touching git state."""
     date_str = window_end.strftime("%Y-%m-%d")
     docs_dir = repo / "docs"
     docs_dir.mkdir(parents=True, exist_ok=True)
@@ -2058,40 +2055,82 @@ def _save_docs(report_md, window_end, briefing_type="morning"):
     _generate_archive_md(docs_dir)
 
 
+def _save_docs(report_md, window_end, briefing_type="morning"):
+    """Save markdown to docs/ for MkDocs build. Runs synchronously."""
+    repo = GITHUB_PAGES_REPO
+    if not (repo / ".git").exists():
+        return
+    _write_docs_to_repo(repo, report_md, window_end, briefing_type)
+
+
 def deploy_to_github_pages(report_md, window_end, briefing_type="morning"):
-    """Commit and push to GitHub. MkDocs site builds via GitHub Actions."""
+    """Commit and push using a clean origin/main worktree, avoiding local branch divergence."""
+    import shutil
     import subprocess
-    try:
-        repo = GITHUB_PAGES_REPO
-        if not (repo / ".git").exists():
-            print(f"  [deploy] Repo not found at {repo}, skipping")
-            return
-        date_str = window_end.strftime("%Y-%m-%d")
+    import tempfile
 
-        # Pull latest first
-        subprocess.run(["git", "-C", str(repo), "pull", "--rebase", "origin", "main"],
-                       capture_output=True, timeout=30)
+    repo = GITHUB_PAGES_REPO
+    if not (repo / ".git").exists():
+        print(f"  [deploy] Repo not found at {repo}, skipping")
+        return
 
-        # Commit and push
-        subprocess.run(["git", "-C", str(repo), "add", "-A"],
-                       capture_output=True, timeout=10)
-        result = subprocess.run(
-            ["git", "-C", str(repo), "commit", "-m",
-             f"Briefing {date_str}-{briefing_type} {datetime.now(LOCAL_TZ).strftime('%H:%M')} (HKT)"],
-            capture_output=True, timeout=10
-        )
-        if result.returncode in (0, 1):
-            push = subprocess.run(["git", "-C", str(repo), "push", "origin", "main"],
+    date_str = window_end.strftime("%Y-%m-%d")
+    commit_msg = f"Briefing {date_str}-{briefing_type} {datetime.now(LOCAL_TZ).strftime('%H:%M')} (HKT)"
+    local_state = repo / "docs" / "macro_state.md"
+
+    for attempt in (1, 2):
+        tmp_dir = None
+        try:
+            subprocess.run(["git", "-C", str(repo), "fetch", "origin", "main"],
+                           capture_output=True, timeout=60, check=True)
+            tmp_dir = Path(tempfile.mkdtemp(prefix="macro-flux-deploy-", dir="/private/tmp"))
+            worktree = tmp_dir / "repo"
+            subprocess.run(["git", "-C", str(repo), "worktree", "add", "--detach", str(worktree), "origin/main"],
+                           capture_output=True, timeout=60, check=True)
+
+            _write_docs_to_repo(worktree, report_md, window_end, briefing_type)
+            if local_state.exists():
+                target_state = worktree / "docs" / "macro_state.md"
+                target_state.parent.mkdir(parents=True, exist_ok=True)
+                shutil.copy2(local_state, target_state)
+
+            subprocess.run(["git", "-C", str(worktree), "config", "user.name", "sharonxu16"],
+                           capture_output=True, timeout=10)
+            subprocess.run(["git", "-C", str(worktree), "config", "user.email", "sharonxu16@users.noreply.github.com"],
+                           capture_output=True, timeout=10)
+            subprocess.run(["git", "-C", str(worktree), "add", "-A"],
+                           capture_output=True, timeout=10, check=True)
+            result = subprocess.run(["git", "-C", str(worktree), "commit", "-m", commit_msg],
+                                    capture_output=True, timeout=20)
+            if result.returncode == 1:
+                print("  [deploy] No changes to commit")
+                return
+            if result.returncode != 0:
+                print(f"  [deploy] ⚠️ Commit failed: {result.stderr.decode()[:200]}")
+                return
+
+            push = subprocess.run(["git", "-C", str(worktree), "push", "origin", "HEAD:main"],
                                   capture_output=True, timeout=300)
             if push.returncode == 0:
                 print(f"  [deploy] ✅ {GITHUB_PAGES_URL}")
-            else:
-                print(f"  [deploy] ⚠️ Push failed: {push.stderr.decode()[:200]}")
-        else:
-            print(f"  [deploy] ⚠️ Commit failed: {result.stderr.decode()[:200]}")
+                return
+            print(f"  [deploy] ⚠️ Push attempt {attempt} failed: {push.stderr.decode()[:200]}")
+        except Exception as e:
+            print(f"  [deploy] ⚠️ Deploy attempt {attempt} failed: {e}")
+        finally:
+            if tmp_dir is not None:
+                try:
+                    worktree = tmp_dir / "repo"
+                    if worktree.exists():
+                        subprocess.run(["git", "-C", str(repo), "worktree", "remove", "--force", str(worktree)],
+                                       capture_output=True, timeout=30)
+                    shutil.rmtree(tmp_dir, ignore_errors=True)
+                except Exception:
+                    pass
+        if attempt == 1:
+            time.sleep(2)
 
-    except Exception as e:
-        print(f"  [deploy] ⚠️ Deploy skipped: {e}")
+    print("  [deploy] ⚠️ Deploy failed after retry")
 
 
 def save_report(markdown, window_start, window_end, briefing_type="morning"):
