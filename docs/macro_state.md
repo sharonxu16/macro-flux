@@ -1,23 +1,23 @@
-# Macro State — Last updated: 2026-05-18
+# Macro State — Last updated: 2026-05-19
 
 ## Active Narratives
-- **Hormuz energy shock and oil surge** — Status: Acceleration; IEA inventory warning and Kharg Island tanker cluster keep supply‑fear premium firmly in place. Next trigger: any transit breakthrough or new kinetic incident.
-- **China slowdown and stimulus re‑ignition** — Status: New; April data misses across the board force growth‑concern repricing and raise PBOC easing odds. Next trigger: PBOC rate/RRR signal or fiscal response.
-- **Global bond rout with fiscal‑expansion dimension** — Status: Acceleration; Japan’s extra‑budget U‑turn adds fiscal‑supply fear to oil‑inflation pressure, lifting JGB, Bund, and UST yields. Next trigger: G‑7 communiqué or further fiscal pledges.
-- **Samsung strike risk reversal** — Status: Reversal; court ruling temporarily defuses imminent strike, unwinding some KRW and Kospi risk premium. Next trigger: any labor reaction or government override.
+- **Hormuz energy shock and oil surge** — Status: Reversal; Trump's call-off of the military strike on Iran and the US waiver on Russian oil sanctions are easing the extreme supply-fear premium. Next trigger: any kinetic incident or formal ceasefire progress.
+- **Global bond rout with fiscal-expansion dimension** — Status: Acceleration; Japan's 30Y yield hitting a record and US 10Y yield touching a 1-year high amid rising inflation fears fueled by the Iran war. Next trigger: G-7 communiqué or Warsh's first policy signals on Friday.
+- **China slowdown and stimulus re-ignition** — Status: Confirmation; the global sell-off of US Treasuries by China underscores capital flow and yield management pressures. Next trigger: PBOC Loan Prime Rate decision on May 20.
+- **Samsung strike risk reversal** — Status: Fading; no new updates in this window suggest the narrative is losing immediate market impact for KRW and Kospi.
 ## Watchpoints
-1. PBOC liquidity operation or rate‑cut hint within 48 hours — catalyst for CNH and Chinese equities.
-2. G‑7 finance minister communiqué on bond‑market coordination or further Iran sanctions — determines yield direction.
-3. IEA/OPEC emergency supply response — if inventories keep falling, Brent could test `$120`.
-4. Samsung strike reactivation — if union defies court ruling, KRW and Kospi risk‑off resumes.
-5. US‑China Phase‑One deal implementation details — any tariff‑delay announcement could flip trade sentiment.
+1. Formal US-Iran ceasefire proposal or direct talks within 48 hours — would accelerate oil and risk premium reversal.
+2. G-7 finance minister communiqué on bond market turmoil — any coordinated signal of intervention would cap the bond selloff.
+3. Kevin Warsh’s swearing-in and any initial policy remarks on Friday — sets the tone for the Fed’s inflation fight.
+4. PBOC 1Y and 5Y Loan Prime Rate setting on May 20 — a cut would confirm the growth-scare pivot for Chinese assets.
+5. Further Russian oil sanction relief signals — would further cap Brent upside and ease inflation expectations.
 ## Open Questions
-- Will the China slowdown force a meaningful policy‑easing pivot from Beijing, or will officials remain cautious?
-- Can Japan’s fiscal expansion and global bond selloff trigger a systemic credit stress event?
-- Is the global oil‑inflation shock severe enough to push US and European yields to levels that force central banks to intervene?
+- Can the Trump-Xi “placeholder” summit produce durable tariff or trade stability, or will tensions reignite?
+- Is the bond selloff severe enough to force central banks, starting with the Fed under Warsh, into a hawkish pivot?
+- Will China’s domestic policy response be sufficient to offset the external oil shock and trade headwinds?
 ## Key Levels
-- `Brent crude` — near `$110`; sustained break above `$110` signals full‑supply shock, while failure to hold would ease energy fears.
-- `CNH` — under pressure from China data misses; a move above `7.25` would price in a growth‑scare premium.
-- `US 30Y yield` — flirting with `5%`; a close above `5%` would trigger fresh equity‑selloff and risk‑asset liquidations.
-- `Kospi` — rebounded from correction but remains fragile; a break back below 2,500 would reinstate risk‑off for KRW.
-- `Hang Seng Index` — tested 250‑day moving average; failure to hold could open downside toward 18,000.
+- `Brent crude` — fell below `$110` on the Iran strike call-off; a sustained move below `$105` would confirm the supply-shock premium is unwinding.
+- `US 10Y yield` — touched the highest level in a year per CNBC; a decisive break above this threshold would intensify the bond vigilante narrative.
+- `JP 30Y yield` — hit a record high per CNBC; further acceleration would amplify global sovereign debt stress.
+- `CN LPR 1Y/5Y` — holding at `3%`/`3.5%` is the consensus; a cut would signal a policy pivot and pressure CNH.
+- `HSI` — HSI night futures closed at `25558`, a `117`-point discount to spot, suggesting fragile risk appetite heading into the open.
