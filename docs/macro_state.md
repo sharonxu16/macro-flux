@@ -1,23 +1,23 @@
 # Macro State — Last updated: 2026-05-19
 
 ## Active Narratives
-- **Hormuz energy shock and oil surge** — Status: Reversal; Trump's call-off of the military strike on Iran and the US waiver on Russian oil sanctions are easing the extreme supply-fear premium. Next trigger: any kinetic incident or formal ceasefire progress.
-- **Global bond rout with fiscal-expansion dimension** — Status: Acceleration; Japan's 30Y yield hitting a record and US 10Y yield touching a 1-year high amid rising inflation fears fueled by the Iran war. Next trigger: G-7 communiqué or Warsh's first policy signals on Friday.
-- **China slowdown and stimulus re-ignition** — Status: Confirmation; the global sell-off of US Treasuries by China underscores capital flow and yield management pressures. Next trigger: PBOC Loan Prime Rate decision on May 20.
-- **Samsung strike risk reversal** — Status: Fading; no new updates in this window suggest the narrative is losing immediate market impact for KRW and Kospi.
+- **Global bond rout with stagflationary Fed risk** — Status: Acceleration; Citi’s 5.5% 30Y call, BofA flagging secondary inflation, and Fed rate-hike fears deepen the selloff, now dragging Asian EM currencies to record lows. Next trigger: Warsh’s first policy remarks on Friday.
+- **Iran de-escalation with maximalist peace demands** — Status: Confirmation; Trump’s strike delay and Iran’s reparations/withdrawal proposal extend the fragile thaw but embed protracted-negotiation risk. Next trigger: US response to Iran’s terms within 48 hours.
+- **Central bank growth-inflation vise** — Status: Acceleration; RBA, BOJ, OECD, and G-7 all signaling the war-driven macro squeeze is worsening, limiting policy room. Next trigger: Bank Indonesia rate decision on May 20 and PBOC LPR on May 20.
+- **Asian capital-flight and EM currency stress** — Status: Acceleration; IDR, INR, PHP hit historic lows on bond-driven outflows, while Singapore stocks hit records on haven rotation. Next trigger: any coordinated G-7 or BIS intervention signal.
 ## Watchpoints
-1. Formal US-Iran ceasefire proposal or direct talks within 48 hours — would accelerate oil and risk premium reversal.
-2. G-7 finance minister communiqué on bond market turmoil — any coordinated signal of intervention would cap the bond selloff.
-3. Kevin Warsh’s swearing-in and any initial policy remarks on Friday — sets the tone for the Fed’s inflation fight.
-4. PBOC 1Y and 5Y Loan Prime Rate setting on May 20 — a cut would confirm the growth-scare pivot for Chinese assets.
-5. Further Russian oil sanction relief signals — would further cap Brent upside and ease inflation expectations.
+1. Kevin Warsh’s swearing-in and initial policy remarks on Friday — sets the inflation-fighting tone and 5.5% UST trajectory.
+2. Formal US response to Iran’s reparations/withdrawal demand — rejection rekindles oil risk premium.
+3. PBOC 1Y and 5Y Loan Prime Rate on May 20 — a cut would confirm growth-scare pivot and pressure CNH.
+4. Bank Indonesia rate decision on May 20 (consensus 5%) — a hold or hike signal would test IDR and EM sentiment.
+5. G-7 communiqué on coordinated responses to bond and energy market turmoil — any fiscal or monetary coordination language.
 ## Open Questions
-- Can the Trump-Xi “placeholder” summit produce durable tariff or trade stability, or will tensions reignite?
-- Is the bond selloff severe enough to force central banks, starting with the Fed under Warsh, into a hawkish pivot?
-- Will China’s domestic policy response be sufficient to offset the external oil shock and trade headwinds?
+- Will the Fed under Warsh be forced into a hawkish pivot despite war-driven growth fears, and what does that mean for the 30Y yield?
+- Can China’s Putin-Xi summit produce an energy-supply framework that insulates Asia from further oil shocks?
+- Is the EM currency selloff severe enough to force coordinated Asian central bank action or capital controls?
 ## Key Levels
-- `Brent crude` — fell below `$110` on the Iran strike call-off; a sustained move below `$105` would confirm the supply-shock premium is unwinding.
-- `US 10Y yield` — touched the highest level in a year per CNBC; a decisive break above this threshold would intensify the bond vigilante narrative.
-- `JP 30Y yield` — hit a record high per CNBC; further acceleration would amplify global sovereign debt stress.
-- `CN LPR 1Y/5Y` — holding at `3%`/`3.5%` is the consensus; a cut would signal a policy pivot and pressure CNH.
-- `HSI` — HSI night futures closed at `25558`, a `117`-point discount to spot, suggesting fragile risk appetite heading into the open.
+- `US 30Y yield` — Citi targets `5.5%` as the next key focus; a sustained breach above `5.25%` accelerates the bond vigilante and EM contagion narratives.
+- `Brent crude` — falling on peace hopes; a sustained break below `$105` would unwind the war premium, but `$100` is the psychological floor.
+- `USD/IDR` — at historic lows amid export-control speculation; a break above `16,500` could trigger emergency BI measures.
+- `CN LPR 1Y/5Y` — holding at `3%`/`3.5%` is consensus; a cut would confirm the domestic growth pivot and pressure CNH.
+- `HSI` — closed at `26,000` vicinity; resistance at `26,500` caps upside without a decisive bond-market or Iran peace breakthrough.
