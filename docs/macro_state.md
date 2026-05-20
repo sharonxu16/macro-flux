@@ -1,23 +1,23 @@
 # Macro State — Last updated: 2026-05-20
 
 ## Active Narratives
-- **Global bond rout with stagflationary Fed risk** — Status: Acceleration; 30Y UST breaches `5.18%`, forcing a capitulation dynamic and dragging Asian equities and EM currencies to fresh lows. Next trigger: 20Y JGB auction today and Warsh’s swearing-in on Friday.
-- **Iran de-escalation with maximalist pressure** — Status: Confirmation; Trump extends ceasefire with an ultimatum while simultaneously imposing new sanctions on currency exchange and shadow fleet, keeping the oil risk premium elevated. Next trigger: Expiration of the “two to three day” ultimatum.
-- **Putin-Xi energy axis and CNH internationalization** — Status: New; Back-to-back visits by Trump and Putin crystallize a strategic energy and currency pivot, with a blockbuster gas deal potentially denominated in yuan. Next trigger: Joint statement from the summit.
-- **Asian capital-flight and EM currency stress** — Status: Acceleration; IDR hits a record `17,720` low and BI is now expected to hike, while Prabowo’s dismissive remarks worsen the policy credibility gap. Next trigger: Bank Indonesia rate decision on May 20.
+- **Indonesia EM stress and commodity seizure** — Status: Acceleration; BI’s surprise half-point hike and Prabowo’s radical export-control grab deepen the capital-flight and currency-crisis narrative, directly pressuring IDR and regional FX. Next trigger: export-control implementation details and BI’s post-meeting guidance.
+- **Iran war escalation and NATO spillover** — Status: Acceleration; Iran’s threat to widen the war and the first Hormuz transit test raise the geopolitical risk premium, while the Lithuanian drone incursion adds a new European front. Next trigger: outcome of supertanker transit and any US/NATO response.
+- **G10 central bank divergence** — Status: New; ECB’s Wunsch conditions a June hike on the war, while a sharp UK inflation drop unwinds BOE tightening bets, creating a stark policy split. Next trigger: June ECB and BOE meetings; further UK inflation data.
+- **US‑China trade talks pivot** — Status: Confirmation; China signaled willingness to accept some tariff increase while confirming the 200‑jet Boeing order, keeping the truce extension alive but with concessions. Next trigger: formal tariff truce extension announcement.
 ## Watchpoints
-1. Bank Indonesia rate decision and policy statement at 3:30 PM HKT — a hold or a dovish hike would trigger the next leg of the EM FX selloff.
-2. PBOC 1Y and 5Y Loan Prime Rate at 9:15 AM HKT — a surprise cut would signal a domestic growth panic and pressure CNH.
-3. Expiration of Trump’s “two to three day” Iran ultimatum — a strike would blow out the oil risk premium; a quiet expiration would unwind it.
-4. Kevin Warsh’s swearing-in as Fed Chair on Friday — his first policy remarks will set the tone for the bond market’s next move.
-5. 20Y JGB and 20Y UST auctions — these will test whether the global duration selloff is driven by genuine real-money outflows or tactical futures positioning.
+- 1. Indonesian rupiah stability — a break above 18,000 would signal systemic EM FX crisis and force further emergency measures.
+- 2. Super‑tanker transit through Hormuz — successful or blocked passage will define near‑term oil supply risk.
+- 3. Nvidia earnings — confirmation or disappointment will steer the global tech/equity risk appetite narrative.
+- 4. 20‑year US Treasury auction (May 21) — demand will test the global duration sell-off’s stamina.
+- 5. Samsung 18‑day strike commencement — supply disruption could spike memory‑chip prices and rattle Korea.
 ## Open Questions
-- Will a hawkish BI rate hike be sufficient to stop the rupiah’s freefall, or are capital controls now on the table?
-- Can the Putin-Xi summit produce a definitive energy supply framework that insulates China from a full Hormuz shock?
-- Is the velocity of the long-end bond selloff forcing a coordinated G-7 or BIS response to stabilize the dollar funding market?
+- Will Prabowo’s export‑control decree trigger a legal or market backlash severe enough to unwind the policy quickly?
+- Is the Lithuanian drone incursion an isolated incident or the start of a Belarus‑NATO front that forces ECB to weigh defense spending over inflation?
+- Can the BI‑Prabowo shock sufficiently stabilize IDR, or are direct capital controls next?
 ## Key Levels
-- `US 30Y yield` — Breached `5.18%`, a 19-year high; Citi targets `5.5%`, which would likely trigger a cross-asset VaR shock.
-- `Brent crude` — Steady near `$105` as `$150` call options receive size; a decisive move above `$110` starts repricing global inflation expectations.
-- `USD/IDR` — Hit a record `17,720`; a break above `18,000` would be a systemic signal for ASEAN FX.
-- `HSI` — Futures closed at `25,603`, pointing to a lower open; support at `25,500` is the line in the sand against a full-blown EM equity panic.
-- `JGB 20Y yield` — Approaching `3%`; a failed auction would confirm a global duration buyers’ strike.
+- `USD/IDR` — Record low near `17,720`; `18,000` is the psychological break level (BBG).
+- `Brent crude` — Hovering near `$105`; a break above `$110` on Hormuz disruption would repricing global inflation expectations (BBG).
+- `US 30‑year yield` — Reached `5.18%`, a 19‑year high; `5.5%` is Citi’s near‑term target (BBG).
+- `GBP/USD` and `EUR/GBP` — UK inflation drop repricing BOE path; `EUR/GBP` at `0.85` support in focus (BBG).
+- `KRW` — Samsung strike risk adds to chip supply fears; USD/KRW above `1450` would signal broader Asia FX vulnerability (SCMP).
