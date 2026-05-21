@@ -1,26 +1,26 @@
 # Macro State — Last updated: 2026-05-21
 
 ## Active Narratives
-- **Iran de-escalation and Hormuz transit breakthrough** — Status: Reversal; tankers transit and US “final stages” talk collapsing the geopolitical risk premium that had kept oil and inflation fears elevated. Next trigger: further tanker passages and any Iranian backlash.
-- **Fed hawkish tilt** — Status: Acceleration; FOMC minutes reveal more officials ready to hike and drop the easing bias, strengthening the hawkish base case even as energy costs fall. Next trigger: May core PCE, June FOMC.
-- **Indonesia EM stress and commodity state control** — Status: Acceleration; Prabowo’s decree requiring state‑led export of palm oil, coal, and ferroalloys deepens capital‑flight and supply‑shock fears, pressuring IDR and regional FX. Next trigger: export‑control implementation details and market reaction.
-- **China trade surplus and yuan appreciation debate** — Status: New; a prominent former official proposes `15‑20%` gradual yuan appreciation to rebalance the record surplus, opening a new policy conversation that could strengthen CNH if echoed by authorities. Next trigger: official PBOC or State Council signals.
+- **Eurozone stagflation shock** — Status: Acceleration; PMI data confirms the energy shock is crushing activity, closing the ECB’s window to look through inflation. Next trigger: US PMI flash tonight for global synchronization signal.
+- **KOSPI/Samsung supply-chain de-risking** — Status: Reversal; averted strike removes a key overhang for global AI supply chains, sending the KOSPI up `8%`. Next trigger: union ratification vote.
+- **Iran peace-deal fragility** — Status: Deceleration; hopes of a swift deal are fading as diplomatic gaps persist and record inventory draws show physical tightness. Next trigger: confirmation of a bridging agreement within 48h.
+- **Fed hawkish tilt vs collapsing growth** — Status: Holding; the hawkish FOMC minutes from May are colliding with softening activity data, setting up a high-stakes policy tension. Next trigger: US S&P Global PMI and initial jobless claims tonight.
 
 ## Watchpoints
-- 1. Further Hormuz tanker transits without incident — will confirm supply normalisation or refreeze on Iranian action.
-- 2. Trump‑Taiwan call and Beijing’s response — could quickly reverse the trade‑truce calm and hit TWD/tech.
-- 3. May core PCE release and Fed speak before June FOMC — will test whether the hawkish minutes translate into concrete guidance.
-- 4. Indonesia’s export‑control decree implementation — immediate impact on palm oil/coal shipments and IDR.
-- 5. BOJ market soundings on bond purchase cuts — a hawkish shift would accelerate JGB and global yield moves.
+- 1. US S&P Global PMI flash tonight — a contraction print would confirm global synchronized downturn and cement stagflation fears.
+- 2. Samsung union ratification vote on tentative wage deal — will confirm the risk premium unwind in KRW and KOSPI or reopen tail risk.
+- 3. Oil price trajectory through $100/bbl Brent — a break below would fully unwind the Iran premium; a rebound toward $110 signals peace-deal failure.
+- 4. May core PCE and any pre-FOMC Fed speak — will test whether the hawkish minutes translate into concrete guidance amid collapsing European data.
+- 5. China’s response to the Taiwan-Lai Trump call signals — any countermeasures could rapidly reverse the trade-truce calm and hit TWD/tech.
 
 ## Open Questions
-- Can the US‑Iran talks turn the Hormuz transit into a durable ceasefire, or will Iran seek a price for every passage?
-- Will the yuan appreciation proposal gain official traction and shift CNH direction, or remain a lone voice?
-- Does the Fed’s hawkish tilt withstand falling energy‑led inflation, or will oil relief force a dovish pivot before June?
+- Can the global economy withstand a prolonged period of tight oil supply and elevated energy costs without tipping into broad recession?
+- Will the Fed’s hawkish bias survive deteriorating growth data, or will the oil shock force a dovish pivot?
+- Does the eurozone contraction spread to the US, or does the American economy decouple on energy independence?
 
 ## Key Levels
-- `Brent crude` — holding near `$105/bbl` after the `~6%` plunge; a break below `$100` would fully unwind the Iran premium (FT, BBG).
-- `USD/IDR` — edging back toward `17,720`; the `18,000` psychological barrier remains the systemic EM FX risk line (prior state, today’s SCMP acceleration).
-- `CNH` — the `15‑20%` appreciation talk introduces a medium‑term strengthening bias; near‑term moves will track PBOC fixing and trade data.
-- `30‑year US Treasury yield` — fell on the oil relief but still elevated near `5%`; a break above `5.18%` would challenge yesterday’s move (prior state, Hawkish Fed).
-- `KRW` — Samsung strike resolution (union vote on tentative pay plan) removes a supply‑chain tail risk, supporting the currency near current levels (Caixin_Homepage).
+- `EUR/USD` — heading toward parity risk as PMIs confirm contraction; a break below `1.05` would accelerate the stagflation discount (BBG eurozone PMI).
+- `Brent crude` — hovering near `$107` after rebounding from `$105`; a break back above `$110` signals peace-deal failure (BBG oil rebound).
+- `KOSPI` — surged `8%` on Samsung deal; sustained gains above the `3,000` level would confirm structural risk-premium compression (Al Jazeera).
+- `S&P Global US Manufacturing PMI Flash` — consensus `53.8` vs prior `54.5`; a print below `50` would be a major recession signal (TradingEconomics calendar).
+- `30-year US Treasury yield` — remains near `5%` as inflation fears and hawkish Fed offset growth fears; a break above `5.18%` would confirm the bear-steepening regime (prior state).
