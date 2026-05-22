@@ -1,26 +1,26 @@
 # Macro State — Last updated: 2026-05-22
 
 ## Active Narratives
-- **Iran peace‑deal fragility with tentative Hormuz thaw** — Status: Deceleration (potential Reversal if convoy traffic sustains); yesterday’s tanker exit offers a crack in the blockade but supreme leader’s uranium demand keeps talks deadlocked; next trigger: further vessel movements and US‑Iran meeting signals.
-- **US manufacturing surge and hawkish Fed pivot risk** — Status: Acceleration; the biggest factory expansion in four years coupled with still‑strong jobless claims undermines the global‑slump thesis and revives tightening bets; next trigger: Michigan sentiment tonight and any Fed commentary.
-- **Eurozone stagflation shock** — Status: Acceleration; French economic resilience is crumbling and UK consumer confidence among low earners is in free‑fall, reinforcing the energy‑shock contraction; next trigger: German Ifo and US final consumer sentiment.
-- **US‑Taiwan cross‑strait tension escalation** — Status: New; a halted Pentagon visit and Trump’s openness to a leader‑level call inject fresh geopolitical risk into tech supply chains and Asia FX; next trigger: official Chinese response and any concrete call announcement.
+- **Taiwan cross‑strait escalation** — Acceleration: US Navy explicitly paused the `$14bn` arms sale citing war munitions needs, Beijing reiterated firm opposition, and Taipei said it was not informed; this raises the risk premium on TWD and semiconductor supply chains. Next trigger: any official US‑Taiwan notification or Trump clarification.
+- **Eurozone stagflation meets ECB hawkish intent** — Confirmation: Lagarde insists inflation expectations are anchored and a June rate hike is likely, but French business confidence slumped and growth divergence is widening; markets will test how far the ECB can tighten before recession forces a pause. Next trigger: June ECB meeting and updated staff projections.
+- **China capital‑control tightening** — New: The securities regulator’s crackdown on Futu, Tiger Brokers and other cross‑border platforms marks a sudden escalation in closure of unofficial outflows, potentially supporting CNH in the short run but heightening regulatory risk for HK‑listed fintech names. Next trigger: official penalty announcements and forced‑liquidation timelines.
+- **Korea FX intervention signal** — New: The finance ministry’s warning that won weakness is excessive opens the door to potential intervention; it may cap USD/KRW upside temporarily but underlying dollar strength from the Iran war limits scope. Next trigger: actual spot intervention or an emergency BoK meeting.
 
 ## Watchpoints
-- 1. Sustained multi‑vessel Hormuz transit over next 48h — a repeat convoy would mark a genuine shift in Iran’s blockade posture.
-- 2. US Michigan 5‑year inflation expectations final tonight — a print above `3.4%` would amplify hawkish Fed repricing.
-- 3. German Ifo Business Climate — a decline would deepen the eurozone stagflation narrative.
-- 4. Official Beijing reaction to the $14bn arms package and Trump‑Lai talk signals — counter‑measures could hit TWD and tech.
-- 5. Japanese yen intervention risk around the Monday holidays — thin liquidity could magnify any BOJ or MOF action.
+- 1. US‑Taiwan arms sale — formal notification or Trump tweet that reverses the pause.
+- 2. June ECB rate decision and Lagarde’s press conference — any hint of a dovish tilt would squeeze EUR shorts.
+- 3. CNH fix and onshore/offshore spread — if the PBoC leans against depreciation simultaneously, the crackdown may be part of a coordinated defence.
+- 4. Spot USD/KRW intervention — a sudden drop that deviates from dollar‑driven moves would confirm authorities are behind the move.
+- 5. US Michigan final consumer sentiment tonight — a print below `48.2` with higher inflation expectations would intensify stagflation trades and pressure Asia FX further.
 
 ## Open Questions
-- Will the opening at Hormuz hold or was the Wednesday convoy a one‑off concession that reverses back to near‑total closure?
-- Can the US manufacturing sector sustain momentum in the face of elevated energy costs, or is the May surge just a temporary stockpiling blip?
-- Does the escalation in Taiwan tensions derail the fragile Xi‑Trump truce and reignite tariff risks for Asia supply chains?
+- Will the US arms‑sale pause be permanent or a temporary adjustment linked to munitions levels, and will Trump double‑down on calling Taiwan’s leader?
+- Can the ECB carry through with a rate hike in June if French and Italian business activity continues to contract?
+- Does the China crackdown on cross‑border brokerages signal a broader tightening of the capital account that will eventually push CNH higher, or is it merely a one‑off enforcement action?
 
 ## Key Levels
-- `Brent crude` — currently hovering near the `$107` area; a sustained break below `$105` on confirmed peace progress would unwind war premium, while a rally above `$110` signals deal failure (BBG oil rise, Rapidan note).
-- `USD/CNH` — potential upside toward `7.30` if Taiwan tensions escalate, as CNY fix adjustments and capital‑flow fears weigh on the CNH.
-- `S&P Global US Manufacturing PMI Flash` — final May print in two days; a reading above `53.8` would confirm the stockpiling‑driven expansion.
-- `30‑year US Treasury yield` — remained near `5%`; a break above `5.18%` would confirm the bear‑steepening regime on hawkish Fed fears.
-- `USD/TRY` — lira under severe stress after Turkey liquidated almost all its Treasury holdings; the rate is at risk of another disorderly leg higher if energy costs persist.
+- `USD/KRW` — near the `1,380` area; a break above `1,400` would test the finance ministry’s resolve, while a swift drop below `1,360` on thin volumes would imply intervention (BBG verbal warning).
+- `EUR/USD` — testing `1.05`; a close below this level after ECB hawkish talk would confirm growth‑divergence as the dominant driver (Barclays via Investing.com).
+- `Brent crude` — hovering around `$107`; a move above `$110` on peace‑talk failure would reinforce Renminbi and won depreciation (WSJ 2% climb, Barclays $100 call).
+- `USD/CNH` — near `7.28`; the cross‑border broker crackdown may temporarily support CNH, but any sign of PBoC tolerance for a weaker fixing toward `7.30` would invite fresh shorts.
+- `Michigan 5‑year inflation expectations final` — expectation `3.4%` versus prior `3.5%`; a print above `3.5%` would accelerate hawkish Fed repricing and push up US yields and the dollar further.
