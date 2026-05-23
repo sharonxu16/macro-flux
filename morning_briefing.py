@@ -1514,7 +1514,7 @@ FORMAT CHECK: Every `> [!info] [AI Reasoning]` block must use exactly these thre
 
 ## 🌍 Global Radar
 
-**EXCERPT mode — direct quotes from articles, no rephrasing. Each excerpt on its OWN bullet line starting with `- `, inline citation wrapped in parentheses `([Source](URL))` at the end. One excerpt per bullet. Use ONLY categories below that have content, in this EXACT order. No overlap with Narrative Watch.**
+**EXCERPT mode — direct quotes from articles, no rephrasing. Each excerpt on its OWN bullet line starting with `- `, inline citation wrapped in parentheses `([Source](URL))` at the end. One excerpt per bullet. Use ONLY categories below that have content, in this EXACT order. No overlap with Narrative Watch. If a category has no valid bullets, OMIT that category heading entirely. Never output empty Global Radar category headings.**
 
 **DEDUP RULE:** Before writing Global Radar, list the concrete events already covered in Narrative Watch. Omit any Global Radar bullet about the same event, datapoint, policy call, market move, or source article. Example: if Narrative Watch covers China exports/imports or Goldman delaying Fed cuts, Global Radar must NOT repeat those items in Economic Indicators or Central Banks. Global Radar is for additional high-impact items only.
 
@@ -1849,6 +1849,65 @@ def _remove_unsupported_global_radar_segments(report, articles):
     return "\n".join(cleaned), removed
 
 
+def _remove_empty_global_radar_sections(report):
+    """Drop Global Radar subsection headings that have no bullet content."""
+    lines = report.splitlines()
+    cleaned = []
+    in_global_radar = False
+    pending_heading = None
+    pending_body = []
+    removed = 0
+
+    def flush_pending():
+        nonlocal pending_heading, pending_body, removed
+        if pending_heading is None:
+            return
+        has_bullet = any(line.startswith("- ") for line in pending_body)
+        if has_bullet:
+            cleaned.append(pending_heading)
+            cleaned.extend(pending_body)
+        else:
+            # Preserve section separators that belong to the following top-level section.
+            for body_line in pending_body:
+                if body_line.strip() == "---":
+                    cleaned.append(body_line)
+            removed += 1
+        pending_heading = None
+        pending_body = []
+
+    for line in lines:
+        if line.startswith("## "):
+            if in_global_radar:
+                flush_pending()
+            in_global_radar = line.startswith("## 🌍 Global Radar")
+            cleaned.append(line)
+            continue
+
+        if not in_global_radar:
+            cleaned.append(line)
+            continue
+
+        if line.startswith("### "):
+            flush_pending()
+            pending_heading = line
+            pending_body = []
+            continue
+
+        if pending_heading is not None:
+            pending_body.append(line)
+        else:
+            cleaned.append(line)
+
+    if in_global_radar:
+        flush_pending()
+
+    # Avoid stacks of blank lines left by removed empty categories, while keeping
+    # the standard blank line after horizontal rules before top-level headings.
+    result = re.sub(r"\n{3,}", "\n\n", "\n".join(cleaned))
+    result = re.sub(r"\n---\n(?=## )", "\n---\n\n", result)
+    return result, removed
+
+
 def _normalize_header_greeting(report, briefing_type):
     """Force the header greeting to match the requested briefing type."""
     expected = "Good morning." if briefing_type == "morning" else "Good afternoon."
@@ -1884,6 +1943,10 @@ def _validate_markdown(report, articles=None):
     report, unsupported_radar_segments = _remove_unsupported_global_radar_segments(report, articles)
     if unsupported_radar_segments:
         print(f"  [validate] Removed {unsupported_radar_segments} unsupported Global Radar segment(s)")
+
+    report, empty_radar_sections = _remove_empty_global_radar_sections(report)
+    if empty_radar_sections:
+        print(f"  [validate] Removed {empty_radar_sections} empty Global Radar section(s)")
 
     # 1. Fix unbalanced brackets in markdown links: count [ and ]( per line
     lines = report.split("\n")

@@ -63,12 +63,6 @@ Korean stocks rebounded from the brink of a correction, led by Samsung Electroni
 ### 📊 Economic Indicators
 - Switzerland’s economy grew faster than anticipated in the first quarter, weathering a spike in energy prices and a strengthening franc that took effect at the outbreak of the Iran war ([BBG](https://www.bloomberg.com/news/articles/2026-05-18/switzerland-grows-more-than-expected-despite-franc-energy-spike)).
 
-### 🏦 Central Banks
-
-### 🌐 Geopolitics & Policy
-
-### 🛢️ Commodities
-
 ### 📈 Equities
 - Indonesian stocks dropped and the rupiah fell to a record low as markets reopened after a holiday, swept up in the global inflation‑driven selloff ([BBG](https://www.bloomberg.com/news/articles/2026-05-18/indonesian-rupiah-falls-to-record-low-on-oil-as-markets-reopen)).
 

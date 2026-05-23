@@ -79,12 +79,6 @@ China’s securities regulator plans to penalise Futu Holdings, Tiger Brokers an
 - **BOE** — The Bank of England will only raise rates this year under an energy‑shortages scenario, according to the FT’s Monetary Policy Radar team ([FT](https://www.ft.com/content/40d3e67b-508a-451e-b232-bf7e2b5d19a6)).
 - **Philippines** — Central bank Governor Remolona said monetary authorities will have to react aggressively to avoid falling behind the curve in taming price pressures spurred by the Iran war ([BBG](https://www.bloomberg.com/news/articles/2026-05-22/philippine-central-bank-chief-open-to-off-cycle-rate-hike-media)).
 
-### 🌐 Geopolitics & Policy
-
-### 🛢️ Commodities
-
-### 📈 Equities
-
 ---
 
 ## 📅 Economic Calendar — Next 24 Hours

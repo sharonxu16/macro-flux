@@ -67,12 +67,8 @@ The Trump-Xi summit produced tactical concessions but little strategic breakthro
 ### 🏦 Central Banks
 - Record high Japanese government bond yields are triggering bets on repatriation, with fund managers saying Japanese investors will sell out of US Treasuries to invest in JGBs ([FT](https://www.ft.com/content/6e363bc3-3114-4ddf-9f3b-67f031b3ef92)).
 
-### 🌐 Geopolitics & Policy
-
 ### 🛢️ Commodities
 - Vietnam’s largest oil refinery continues to diversify crude supply and is confident it can maintain stable operations through June despite the Hormuz disruption ([BBG](https://www.bloomberg.com/news/articles/2026-05-17/vietnam-s-largest-refinery-sees-stable-operations-through-june)).
-
-### 📈 Equities
 
 ---
 

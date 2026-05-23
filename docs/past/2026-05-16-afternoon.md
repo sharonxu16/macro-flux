@@ -70,16 +70,8 @@ Samsung Electronics and its South Korean union will resume pay talks on Monday, 
 
 ## 🌍 Global Radar
 
-### 📊 Economic Indicators
-
 ### 🏦 Central Banks
 - **ECB** — Modest ECB Rate Hike Would Limit Economic Pain, Stournaras Says ([BBG](https://www.bloomberg.com/news/articles/2026-05-16/modest-ecb-rate-hike-would-limit-economic-pain-stournaras-says)).
-
-### 🌐 Geopolitics & Policy
-
-### 🛢️ Commodities
-
-### 📈 Equities
 
 ---
 

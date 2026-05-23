@@ -79,8 +79,6 @@ Oil rebounded after plummeting on Wednesday, as President Donald Trump said the 
 - Copper slumped as traders awaited the next developments in the Middle East, with the potential for renewed hostilities pushing up oil prices and hurting sentiment in equities markets ([BBG](https://www.bloomberg.com/news/articles/2026-05-21/base-metals-drift-as-us-and-iran-trade-threats-on-peace-deal)).
 - Indonesian palm oil prices tumbled after President Prabowo Subianto unveiled plans to impose state control over exports of several key commodities, including the edible oil ([BBG](https://www.bloomberg.com/news/articles/2026-05-21/indonesian-palm-oil-sinks-as-commodity-overhaul-sows-confusion)).
 
-### 📈 Equities
-
 ---
 
 ## 📅 Economic Calendar — Next 24 Hours

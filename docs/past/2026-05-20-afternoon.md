@@ -66,8 +66,6 @@ Iran threatened on Wednesday to widen the war "beyond the region" if the United 
 ### 🏦 Central Banks
 - **Iceland** — Iceland’s central bank raised borrowing costs for a second time since the outbreak of the Middle East war to quell persistent price pressure ([BBG](https://www.bloomberg.com/news/articles/2026-05-20/iceland-delivers-second-hike-in-two-months-to-cool-economy)).
 
-### 🌐 Geopolitics & Policy
-
 ### 🛢️ Commodities
 - A benchmark Asia rice price rose to the highest in more than a year as worries mount over harvests across the region ([BBG](https://www.bloomberg.com/news/articles/2026-05-20/rice-prices-extend-rally-to-one-year-high-as-crop-concerns-mount)).
 - China imported a record amount of palladium last month, as local prices that have raced ahead of global ones lured inflows ([BBG](https://www.bloomberg.com/news/articles/2026-05-20/china-s-palladium-imports-surge-as-local-futures-lure-inflows)).

@@ -69,10 +69,6 @@ A sense is setting in among investment professionals that we have a serious prob
 - Japan’s trade minister held brief talks with his Chinese counterpart amid a diplomatic row ([Reuters](https://news.google.com/rss/articles/CBMixgFBVV95cUxQSE05RnZ3NDI5Y3pMeWxSajJGZEozT3pzeURvTm1PMnRBaGNZb3ZNMjBGbFBERmVRTGpKcV9Fa0RSWXpMcDFiTGNQTVpzS1pWejloa2NFQ1RENzJZYW5Mb0ZLTVU2enV1bWhGaFlaNVp5ZTI1UVBIc3drWkFSeHZ6Ujg0TkpMVE9lV2d1S2l3MlF1NTdROVlRNDAwd2Z5LTd4MFAzTlNtdVhhZ1A1andrVFBwWjRENmE5cmE2b3dBeXlDcVFGLXc)).
 - China’s decision to ease residency restrictions on social insurance applicants will help unleash positive, long‑term economic growth, analysts say ([SCMP](https://www.scmp.com/news/china/politics/article/3354618/will-chinas-residency-changes-social-insurance-unlock-economic-growth)).
 
-### 🛢️ Commodities
-
-### 📈 Equities
-
 ---
 
 ## 📅 Economic Calendar — Next 24 Hours
