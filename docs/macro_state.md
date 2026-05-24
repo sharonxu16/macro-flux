@@ -1,24 +1,26 @@
 # Macro State — Last updated: 2026-05-24
 
-## Active Narratives
-- **Iran peace deal brinkmanship** — Status: Reversal; Trump’s claim of a largely negotiated deal rekindles de‑escalation hopes, but Tehran’s refusal to compromise and the ongoing blockade keep the outcome a knife’s edge; next trigger: announcement of final deal terms and first Strait of Hormuz transit.
-- **Stagflation intensifies** — Status: Confirmation; war‑driven inflation pushing the Fed’s preferred gauge toward `4%` and India’s third fuel‑price hike in eight days underscore the collision of sticky prices and eroding growth; next trigger: US PCE release and any Fed commentary on tolerance.
-- **Ukraine war escalation** — Status: New; Russia’s massive missile barrage on Kyiv in retaliation raises the geopolitical risk premium anew; next trigger: NATO or US response, further energy supply threats.
-- **Fed hawkish regime under Warsh with constraints** — Status: Confirmation; new chair’s overhaul may need patience, but the inflation backdrop keeps a tightening bias intact; next trigger: Warsh’s first public speech and June FOMC.
+## Active Narratives (max 4)
+- **Iran peace deal on verge of execution** — Status: Acceleration; tangible Hormuz transit and official optimism push the deal from rhetoric toward implementation; next trigger: formal announcement and further tanker movements.
+- **Taiwan‑China maritime standoff** — Status: New; direct coast guard confrontation at top of South China Sea revives cross‑strait risk premium; next trigger: official statements from Taipei/Beijing.
+- **China coal mine disaster** — Status: New; deadliest mine accident in years challenges energy security narrative and may trigger safety crackdowns that constrain coal supply; next trigger: inspection orders and production impact.
+- **Stagflation intensifies** — Status: Confirmation; ECB pressure for more hikes and HSBC warning of persistent inflation despite any Iran deal keep the stagflation trade alive; next trigger: US PCE release.
 
-## Watchpoints
-- Trump’s promised “shortly” announcement of the Iran deal and any actual reopening of the Strait of Hormuz.
-- April US PCE inflation print — a `4%` handle would harden the stagflation trade.
-- Warsh’s first public remarks — any dovish nuance would squeeze USD longs.
-- Russian escalation in Ukraine prompting fresh sanctions or energy supply disruptions.
-- India’s continued fuel price adjustments — a fourth hike would signal deepening global energy pass‑through.
+## Watchpoints (max 5)
+- Formal US‑Iran ceasefire and Hormuz reopening announcement.
+- Second LNG/oil tanker transit through Hormuz.
+- ECB rate‑signal follow‑up from other officials.
+- China‑Taiwan official responses to standoff.
+- Chinese government‑ordered mine safety audits and coal output disruption.
 
-## Open Questions
-- Will the contradictory signals from Trump and Tehran resolve into a verifiable ceasefire that reopens Hormuz, or will the blockade persist?
-- Can the Fed under Warsh navigate a `4%` inflation print without accelerating rate hikes, given the record‑low consumer sentiment?
-- Will the Ukraine escalation divert resources and attention from the Iran conflict, or become a secondary front in the broader geopolitical risk picture?
+## Open Questions (max 3)
+- Will Iran’s refusal to hand over enriched uranium delay or derail the final deal?
+- Does the Taiwan‑China standoff represent a one‑off incident or a new pattern of escalation?
+- Can the US PCE print a `4%` handle, cementing stagflation despite easing Hormuz risks?
 
-## Key Levels
-- `Brent crude` — support near `$100` if a credible Hormuz reopening is announced; a break below would unwind the energy risk premium ([BBG](https://www.bloomberg.com/news/articles/2026-05-23/us-says-its-blockade-against-iran-has-redirected-100-vessels)).
-- `UST 2Y yield` — approaching post‑GFC highs; a push through `4.75%` would confirm the hawkish regime ([BBG](https://www.bloomberg.com/news/articles/2026-05-23/warsh-s-fed-regime-change-may-require-patience-consensus)).
-- `USD/CNH` — near `7.28`; a break toward `7.30` on a clean PBOC fix would invite fresh shorts, though a risk‑on turn from Iran could cap the pair ([FT](https://www.ft.com/content/c6b15d3a-a4b6-42c4-8804-84d5efe4b81f); previous state).
+## Key Levels (max 5)
+- `Brent crude` — break below `$100` would unwind most war premium.
+- `USD/CNH` — support at `7.25`; a break lower on deal optimism would reinforce short‑USD bias.
+- `USD/TWD` — risk of retesting `33.0` if standoff escalates.
+- `EUR/USD` — push above `1.10` on ECB hawkish repricing; seen as `1.0950` resistance ([BBG](http://www.bloomberg.com/news/articles/2026-05-24/ecb-faces-pressure-to-hike-as-iran-war-feeds-prices-kocher-says)).
+- `UST 2Y` — hold above `4.70%` sustains hawkish Fed fears ([prior state]).
