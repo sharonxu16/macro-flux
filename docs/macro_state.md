@@ -1,26 +1,22 @@
-# Macro State — Last updated: 2026-05-24
+# Macro State — Last updated: 2026-05-25
 
-## Active Narratives (max 4)
-- **Iran peace deal on verge of execution** — Status: Acceleration; tangible Hormuz transit and official optimism push the deal from rhetoric toward implementation; next trigger: formal announcement and further tanker movements.
-- **Taiwan‑China maritime standoff** — Status: New; direct coast guard confrontation at top of South China Sea revives cross‑strait risk premium; next trigger: official statements from Taipei/Beijing.
-- **China coal mine disaster** — Status: New; deadliest mine accident in years challenges energy security narrative and may trigger safety crackdowns that constrain coal supply; next trigger: inspection orders and production impact.
-- **Stagflation intensifies** — Status: Confirmation; ECB pressure for more hikes and HSBC warning of persistent inflation despite any Iran deal keep the stagflation trade alive; next trigger: US PCE release.
+## Active Narratives
+- **Iran peace deal near but uranium impasse lingers** — Status: Acceleration; Hormuz transit and Rubio’s “good news” signals push the deal closer, but Tehran’s refusal to hand over enriched uranium injects a roadblock risk; next trigger: formal ceasefire/Hormuz reopening and resolution of the uranium issue.
+- **Trump revives Taiwan risk with arms sale and Lai call** — Status: New; a `$14 billion` arms pause and planned direct call with Taiwan’s president threaten to reignite cross‑strait tension just as an earlier standoff resolved; next trigger: actual call and China’s reaction.
+- **Global stagflation confirmation broadens** — Status: Acceleration; Singapore officially cuts its outlook citing energy‑war drag, ECB flags inflation revisions, and the Warsh‑era Treasury market prices a 2026 rate hike, cementing the stagflation narrative; next trigger: US PCE and ECB June staff projections.
+- **Ukraine‑Russia escalation with Oreshnik missile** — Status: New; massive Russian strike on Kyiv with a medium‑range ballistic missile and Ukraine’s emergency UNSC demand add geopolitical risk premium; next trigger: potential Western response.
 
-## Watchpoints (max 5)
-- Formal US‑Iran ceasefire and Hormuz reopening announcement.
-- Second LNG/oil tanker transit through Hormuz.
-- ECB rate‑signal follow‑up from other officials.
-- China‑Taiwan official responses to standoff.
-- Chinese government‑ordered mine safety audits and coal output disruption.
+## Watchpoints
+- US‑Iran formal ceasefire and Hormuz reopening announcement; uranium handover agreement.
+- Trump‑Lai phone call and any PRC military or diplomatic retaliation.
+- ECB President Lagarde’s specific inflation revision in June.
+- Singapore GDP final print (QoQ `0.1%` est.) and MAS policy signals.
+- US PCE inflation print (next major stagflation test).
 
-## Open Questions (max 3)
-- Will Iran’s refusal to hand over enriched uranium delay or derail the final deal?
-- Does the Taiwan‑China standoff represent a one‑off incident or a new pattern of escalation?
-- Can the US PCE print a `4%` handle, cementing stagflation despite easing Hormuz risks?
+## Open Questions
+- Will Iran’s refusal to hand over enriched uranium derail or delay the final accord?
+- Does Trump’s Taiwan arms sale and call signal a new pattern of escalation, and can Beijing tolerate it?
+- Can the Fed’s Warsh‑era rate‑hike pricing survive if the Iran war ends and energy prices collapse?
 
-## Key Levels (max 5)
-- `Brent crude` — break below `$100` would unwind most war premium.
-- `USD/CNH` — support at `7.25`; a break lower on deal optimism would reinforce short‑USD bias.
-- `USD/TWD` — risk of retesting `33.0` if standoff escalates.
-- `EUR/USD` — push above `1.10` on ECB hawkish repricing; seen as `1.0950` resistance ([BBG](http://www.bloomberg.com/news/articles/2026-05-24/ecb-faces-pressure-to-hike-as-iran-war-feeds-prices-kocher-says)).
-- `UST 2Y` — hold above `4.70%` sustains hawkish Fed fears ([prior state]).
+## Key Levels
+- **Brent crude** — break below `$99.16` would unwind most war premium; today’s low is `$99.16` ([SCMP](https://www.scmp.com/news/article/3354707/crude-oil-drops-us-inches-towards-iran-deal-reopen-strait-hormuz)).
