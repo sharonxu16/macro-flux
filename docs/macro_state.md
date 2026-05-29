@@ -1,26 +1,26 @@
-# Macro State — Last updated: 2026-05-28
+# Macro State — Last updated: 2026-05-29
 
 ## Active Narratives
-- **Hormuz ceasefire whipsaw — hopes of a deal surface then rapidly fade** — Status: Reversal; the reported outline deal reverses morning's hard "no deal" stance, but contradictory military strikes and Kuwait interceptions undermine confidence. Next trigger: formal US or Iranian government statement confirming or denying ceasefire terms.
-- **Global hawkish repricing intensifies with stagflationary framing** — Status: Acceleration; Goolsbee's explicit "stagflationary" warning and BOK's two dissents plus raised inflation forecast widen the hawkish coalition beyond prior Fed commentary. Next trigger: US Core PCE YoY and Initial Jobless Claims at 20:30 HKT.
-- **EU-China trade rift widens as Brussels prepares harder line** — Status: New; the EU Commission's Friday debate on "China shock 2.0" and potential supplier-diversification mandates mark a concrete escalation from prior tariff-only discussions. Next trigger: Friday's EU Commission meeting outcome and any Chinese retaliatory rhetoric.
-- **China stimulus and yuan internationalization provide fragile offset** — Status: Confirmation; PBOC's directive to boost May lending and Russia's yuan bond sale reinforce the morning's trade-diplomacy narrative but remain secondary to the global risk-off impulse.
+- **Hormuz ceasefire deal — tentative truce with Trump-veto risk** — Status: Reversal from prior "hopes fade"; the memorandum-of-understanding framework shifts the oil risk-premium trajectory, but Trump’s delayed approval, simultaneous new sanctions on Iranian military oil sales, and Cosco’s fleet pullout create a binary catalyst rather than a resolved outcome. Next trigger: Trump formal statement within 48 hours.
+- **Global hawkish coalition broadens with ECB urgency and inline PCE** — Status: Acceleration; the `3.3%` Core PCE print validates stagflationary pricing, ECB minutes explicitly warn waiting is "increasingly inappropriate," and Fed’s Musalem publicly challenges Chair Warsh’s AI-disinflation thesis, widening internal hawkish dissent. Next trigger: June FOMC rhetoric and ECB June meeting signals.
+- **EU-China trade escalation moves from tariffs to structural investment controls** — Status: Acceleration; six major EU member states backed the Industrial Accelerator Act’s broad parameters, shifting the conflict from tariff lines to investment-conditioning rules, while Temu’s `€200m` fine adds enforcement optics. Next trigger: IAA legislative text or formal Chinese Commerce Ministry response.
+- **China stimulus and yuan internationalization hold fragile bid** — Status: Confirmation; PBOC interbank NCD issuance signals continued liability-structure adjustments, and China’s 5G base station rollout exceeding 5 million units underscores infrastructure push, but EU trade headwinds and capital-outflow pressures offset the domestic easing impulse. Next trigger: PBOC May aggregate financing and loan data for lending-directive follow-through.
 
 ## Watchpoints
-- Formal US or Iranian statement on the ceasefire outline — confirmation or denial will dictate the next leg for oil, gold, and Asia FX.
-- US Core PCE Price Index YoY (est. `3.3%`) at 20:30 HKT — a print at or above consensus cements the stagflationary Fed narrative.
-- ECB Monetary Policy Meeting Accounts at 19:30 HKT — any energy-shock references that signal a June hike path adjustment.
-- EU Commission debate on Friday — concrete trade measures against China would directly impact CNH and European auto/industrial equities.
-- Further IRGC or US military action in the Gulf — Kuwait air defense interceptions signal the conflict radius is expanding.
+- Trump approval or rejection of the Iran MOU — formal statement dictates the next `$10+/bbl` move in Brent and the Asia FX risk-on/risk-off regime.
+- European preliminary CPI prints for May (France `08:45 HKT`, Spain `09:00 HKT`, Italy `11:00 HKT`) — upside surprises would compound ECB urgency and lift EUR/USD.
+- PBOC open-market operation and any MLF/LPR/RRR signal — a follow-up easing move would validate the capital-flow offset narrative for CNH.
+- EU IAA legislative process — formal adoption timeline and any Chinese retaliatory trade rhetoric.
+- Gaza escalation trajectory — Netanyahu’s `70%` takeover claim and Hamas ceasefire-collapse warning raise regional instability risk premium.
 
 ## Open Questions
-- Will the ceasefire report prove to be a genuine diplomatic breakthrough or another false dawn that resets oil risk premium higher?
-- Can the PBOC's lending directive translate into a sustained CNH bid that decouples from the broader Asia FX sell-off, or will EU trade escalation cap yuan optimism?
-- Does tonight's PCE print validate Goolsbee's stagflationary warning and trigger a renewed global duration sell-off that drags Asia rates higher?
+- Will the Hormuz ceasefire survive Trump’s review, or does the sanctions-truce contradiction signal a deal structure that markets have mispriced?
+- Can the PBOC’s domestic easing offset the structural trade headwind from the EU’s Industrial Accelerator Act and sustain CNH stability?
+- Does the broadening hawkish coalition in the Fed and ECB force a front-loaded rate path that triggers a fresh Asia carry-trade unwind?
 
 ## Key Levels
-- **Brent crude** — whipsawed on the ceasefire report; a close back above `$96` signals the risk premium is reasserting ([BBG](https://www.bloomberg.com/news/articles/2026-05-28/industrial-metals-decline-as-gulf-strikes-dampen-deal-optimism)).
-- **USD/KRW** — BOK hold at `2.5%` with two hawkish dissents leaves KRW vulnerable; a break above the morning high would signal renewed depreciation pressure ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BQ0Zzdmc4ekFDRnNOSjRJbUVIRGh3ZnE2cXdxWFpaRGFuWmtlSHBSSEV1R29jMFlZM0RXT2twZzVPdU1JZ29wZ2x6THU4cy1NaDR3)).
-- **US 10-year yield** — testing recent range highs; a break above `4.25%` on a hot PCE would confirm a new leg higher ([prior state]).
-- **Gold** — rebounded from two-month lows on the ceasefire report; a break below `$1,900/oz` would open `$1,850` support if diplomacy fails again ([Reuters](https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGk4TXB1amNOZ3NwU3NjcWFXUkZVMk93OUtMX0xSZWVvWE9aMDEyUkFEa1k1WWlIdkFfd0hYNUlReEtuMnhmQnViX2ZZVFdDMUdlZzBvT2VXTVVhQzhqY25YNXhYa3gtbnRQWXBmd1dKT1kwYWZOdnRUd2lJTHkwMUQ2X2dnRTVLNDFhbno1dVNBcWZwd3RiODNORnEzMU1OSTV2cFYxYVlUTXQxNWNN)).
-- **Hang Seng Index** — `25,000` held on a closing basis after intraday breach; a sustained break below this psychological level would signal risk-off capitulation in Hong Kong equities ([HKEJ](https://news.google.com/rss/articles/CBMib0FVX3lxTE5oWnowbzZkRDBMTHgxcDdoMFZBRDlOaTdQMmsyN24yd295WEtSUXVYaVFtU05EeC1sMkxIRldxVW51LWktdFJTek5PdzdjY3NqalJ4cjhYN2VEZGo5WFQ1X2kxQzNqOVFZbzVXRWVOVQ)).
+- **Brent crude** — collapsed to six-week lows on the truce extension; a close back above `$96` would signal the risk premium is reasserting if Trump rejects the deal ([BBG](https://www.bloomberg.com/news/articles/2026-05-28/oil-edges-lower-at-open-on-tentative-deal-to-extend-iran-truce)).
+- **Gold** — rally above `$4,500/oz` reflects ceasefire-disinflation pricing; a move below `$4,400` would indicate renewed geopolitical anxiety ([BBG](https://www.bloomberg.com/news/articles/2026-05-28/gold-holds-gain-as-us-iran-truce-hopes-calm-inflation-fears)).
+- **Hang Seng Index** — closed at `25,182.39`; a sustained break above `25,500` would confirm risk-on rotation, while a failure below `25,000` resets the bear case ([Xinhua](https://www.news.cn/fortune/20260529/9aa32be4e2454310a72f1c6065fe94db/c.html)).
+- **EUR/USD** — ECB urgency versus Fed hawkish dissent creates two-way risk; a break above `1.08` on hot European CPI would confirm a policy-divergence squeeze.
+- **USD/CNH** — PBOC easing bias versus EU trade headwinds creates offsetting pressures; the `7.30` level is the near-term battleground for capital-flow direction.
