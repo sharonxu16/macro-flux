@@ -1,25 +1,26 @@
-# Macro State — Last updated: 2026-05-30
+# Macro State — Last updated: 2026-05-31
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Shangri-La Dialogue exposes US-China defense vacuum and Hegseth’s tough posture** — Status: New; the Pentagon chief’s “alarm” on China plus Beijing’s empty chair create a fresh Asia risk premium with direct CNH and TWD FX implications. Next trigger: official Chinese response within 24 hours.
-- **Trump-Iran deal enters binary limbo as final approval withheld and strike readiness signaled** — Status: Acceleration; the ceasefire framework shifts from holding to inconclusive, with Pentagon warning strikes could resume. Next trigger: Trump formal statement on deal within 48 hours.
-- **US-Taiwan policy confusion reopens as Congress reaffirms support after Trump’s ‘negotiating chip’ remark** — Status: New; congressional pushback against the executive’s transactional framing injects fresh cross-strait uncertainty. Next trigger: White House or Taipei clarification of arms-sales posture.
-- **ECB hawkish acceleration on French/Spanish inflation** — Status: Confirmation; the pre-June hike urgency holds. Next trigger: ECB June meeting decision and staff projections.
+- **Shangri-La Dialogue shifts to guarded improvement but structural rivalry persists** — Status: Reversal from “tough posture/vacuum” to cautious de-escalation; Hegseth hails improved ties, China cools rhetoric, but competition continues. Next trigger: any US-China defense bilateral or joint statement from the dialogue.
+- **China growth stagnation confirmed by May PMI at 50.0** — Status: Confirmation; data in line but reinforces stagnation, keeping pressure on PBOC. Next trigger: PBOC easing signal (RRR cut, LPR adjustment).
+- **Iran–US Hormuz standoff intensifies with Iran reasserting control and US military action** — Status: Acceleration; deal elusive, blockade persists, shipping costs spike. Next trigger: any toll agreement or tanker passage normalization.
+- **AI-driven equity boom supports Korea and Taiwan inflows** — Status: New; AI capex and supply chain bets fuel KOSPI and Asian tech, potentially supporting KRW/TWD. Next trigger: further AI-related capital flows data or tech earnings.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- China’s NBS Manufacturing PMI (May 31, 09:30 HKT) — a print at or below the `50` consensus would reinforce domestic growth fears against the Shangri-La geopolitical backdrop.
-- Trump approval or rejection of the Iran MOU — formal statement dictates the next `$10+/bbl` move in Brent.
-- ECB June meeting decision — a `50bp` hike would be a hawkish surprise vs current `25bp` pricing.
-- Official Chinese government or PLA response to the Shangri-La Dialogue no-show and Hegseth’s remarks.
-- Any Taiwan defense-related statement from the White House or Taipei countering or reinforcing the congressional reaffirmation.
+- China’s PMI follow-up — any official stimulus announcement within 48h of the weak print.
+- Shangri-La closing statements for a joint communiqué or further bilateral meeting between US and China.
+- Iran MOU final sign-off or strike restart warning from Trump/Pentagon.
+- Further US enforcement actions in the Gulf of Oman that signal escalated blockade enforcement.
+- South Korea KOSPI record highs and foreign equity inflows data confirming AI-driven capital flows.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will the Shangri-La vacuum and Hegseth’s hawkish posture accelerate capital outflows from CNH and TWD ahead of the China PMI release?
-- Can the ECB deliver a front-loaded rate path without breaking eurozone sovereign spreads?
-- Does the Trump-Iran deal’s binary nature create enough two-way oil vol to stall the broader risk-on rotation in European equities?
+- Will the guarded improvement in US-China rhetoric translate into a sustained reduction in CNH and TWD risk premium?
+- Can AI-driven equity inflows offset the drag from persistent Hormuz energy costs on the Korean won?
+- Does stagnation in China’s manufacturing force accelerated PBOC easing, and will that support or weaken CNH?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- **USD/CNH** — The Shangri-La risk premium and China’s absence favor upside; `7.30` remains the near-term battleground for capital-flow direction.
-- **Brent crude** — The unconsummated Iran deal and Hegseth’s strike-readiness warning cap the ceasefire sell-off; a close back above `$96` would signal the risk premium is reasserting (morning level still active).
-- **EUR/USD** — ECB hawkish acceleration on inflation prints tilts two-way risk toward an upside break; a close above `1.08` would confirm policy-divergence squeeze.
-- **USD/TWD** — Congressional pushback on Trump’s “negotiating chip” language reopens cross-strait policy risk; watch for a break above the year’s intervention band as the new risk premium embeds.
+- **USD/CNH** — `7.30` remains the battleground; PMI stagnation favors upside, but improved US-China tone could cap moves.
+- **Brent crude** — `$96` level from prior state retains significance; today’s intensified Hormuz risk supports retesting it.
+- **KOSPI** — approaching all-time highs; equity inflows from AI boom could break resistance, strengthening KRW.
+- **Container freight rates** — Xinhua reports sharp spike due to the Strait crisis; sustained elevation will feed into goods inflation across Asia.
+- **US beef prices** — record highs signal broad food commodity inflation, reinforcing global price pressures and complicating central bank rate paths.
