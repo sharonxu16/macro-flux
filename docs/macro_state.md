@@ -1,25 +1,17 @@
-# Macro State — Last updated: 2026-05-26
+# Macro State — Last updated: 2026-05-30
 
 ## Active Narratives
-- **US-Iran peace deal sprint with Hormuz reopening, asset unfreeze, but nuclear/sanctions impasse lingers** — Status: Acceleration; tankers transiting, asset-unfreeze understanding reached, Rubio signals deal in 24-48h, but WSJ reports bogging down over uranium and sanctions scope; next trigger: formal ceasefire/Hormuz reopening and resolution of uranium issue.
-- **Warsh-era Treasury curve flashes higher-for-longer** — Status: Confirmation; curve steepening and US yields seen outpacing EZ peers even as oil slides on peace hopes; next trigger: US PCE print and Warsh’s first public comments as incoming Chair.
-- **Israel escalates Lebanon front despite peace talks** — Status: Acceleration; Netanyahu orders intensified strikes, far-right ministers demand return to war; injects regional fragmentation risk into the peace-trade thesis; next trigger: whether Lebanon front is included in any US-Iran ceasefire framework.
-- **Global stagflation confirmation with ECB vigilance** — Status: Confirmation; Villeroy says no second-round effects detected yet, but energy-shock inflation risks persist; next trigger: ECB June staff projections and Eurozone inflation data.
-
+- **Iran peace deal nears finality** — Acceleration; Trump’s “final determination” binary event could resolve or reignite the uranium impasse, with immediate Brent and risk premium consequences. Next trigger: official determination announcement.
+- **Shangri-La alliance friction reignites US-China risk** — New; Hegseth’s mixed praise-and-criticism plus Taiwan arms-sale reference creates new TWD/KRW risk premium from a previously dormant policy venue. Next trigger: China’s formal response.
+- **Singapore structural cost-migration deepens** — Confirmation; tangible corporate relocations to Malaysia underscore the stagflation-cost challenge, tilting growth risks lower. Next trigger: Q2 GDP or MAS policy signal.
 ## Watchpoints
-- Formal US-Iran ceasefire announcement and Hormuz reopening timeline (30-day window per Nikkei).
-- US strikes in Iran — confirmation of scale and whether they derail or accelerate the negotiation endgame.
-- Warsh’s first public Fed commentary — any shift in perceived reaction function.
-- Australia monthly CPI (May 27) — critical for RBA path.
-- Singapore industrial production (May 26) — test of manufacturing resilience amid energy shock.
-
+- Trump Iran determination (hours — binary outcome for oil and risk).
+- Chinese foreign-ministry reaction to Hegseth’s Shangri-La speech (24h).
+- NBS Manufacturing PMI (est. 50, prior 50.3) and Non‑Manufacturing PMI (est. 49.5, prior 49.4) — immediate China growth signal, 31 May morning.
+- Further corporate relocation announcements from Singapore — confirmation of cost-driven outflow trend.
 ## Open Questions
-- Will Iran’s refusal to hand over enriched uranium derail or merely delay the final accord?
-- Can the Warsh-era higher-for-longer rates pricing survive a full Hormuz reopening and oil price collapse?
-- Will Israel’s Lebanon escalation undermine the broader US-Iran de-escalation framework?
-
+- Will the uranium handover be part of the final Iran deal terms?
+- How will Beijing calibrate its response to Hegseth’s simultaneous praise for China ties and criticism of its regional role?
+- Can Singapore’s growth momentum withstand the early-stage corporate migration without a policy adjustment?
 ## Key Levels
-- **Brent crude** — intraday low near `$99`; break below would unwind most war premium; today’s strike headlines lifted off those lows.
-- **Stoxx 600** — fully erased Iran-war losses per BT; technical resistance at pre-Feb 28 levels.
-- **USD/DXY** — softening on peace hopes, but Warsh hawkish curve limits downside.
-- **UST 10Y** — higher-for-longer repricing versus bunds; watch for breakout above recent range.
+- No new price-level citations in today’s feed.
