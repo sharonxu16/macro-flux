@@ -1,22 +1,24 @@
-# Macro State — Last updated: 2026-06-01
+# Macro State — Last updated: 2026-06-02
 
-## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Middle East Multi‑Front Escalation** — Acceleration; Israeli strikes on Beirut suburbs and renewed US‑Iran attacks deepen the war premium on oil and risk aversion, directly delaying the Iran ceasefire. Next trigger: Hezbollah retaliation or failed US‑Iran “final determination.”
-- **South Korea Export Boom / BOK Hawkishness** — Confirmation ; May exports hit a four‑decade high, cementing the case for higher Korean rates but offset by regional war risk. Next trigger: June 2 Korean CPI (`3.0% YoY` expected) and any BOK policy signals.
-- **China Outbound Investment Curbs** — New; Beijing tightens capital‑flow rules in the tech rivalry, adding a defensive layer to the managed yuan. Next trigger: publication of restricted‑sector list and any US chip‑policy response.
-- **Global AI‑Equity Decoupling** — Confirmation; EM stocks at record on AI euphoria despite oil‑driven inflation fears, extending the divergence between risk assets and macro‑war risks. Next trigger: US ISM Manufacturing Prices to gauge input‑cost pass‑through.
+## Active Narratives (max 4)
+- **Middle East Multi‑Front Escalation** — Acceleration; Iran suspends contact, cargo ship attacked in Persian Gulf, oil spikes. Next trigger: Hezbollah retaliation or new US‑Iran military exchange, ISM Prices.
+- **South Korea BOK Hawkishness** — Confirmation; May CPI accelerates, reinforcing rate‑hiking bias. Next trigger: BOK communication and 30y KTB auction.
+- **China Outbound‑Investment & Tech‑Sanctions Offensive** — Acceleration; new regulations banning sectors, 63‑item tech‑sanctions draft published. Next trigger: final restricted‑list publication, US response.
+- **Global AI‑Equity Decoupling** — Confirmation; AI IPOs and capex boom sustain sentiment despite Middle East risk‑off. Next trigger: ISM Manufacturing Prices, Nvidia/AMD performance.
 
-## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- US ISM Manufacturing PMI and Prices this evening — if Prices spike >85.5, reinforces stagflation fears.
-- Hezbollah military response to Beirut strikes — direct escalation could spike Brent >$130/bbl.
-- Korea June 2 CPI (`3.0% YoY` expected) — print near consensus would validate BOK hawkishness.
-- Trump’s “final determination” on Iran deal — binary outcome for oil and Asian FX risk premia.
-- China’s outbound investment directive details — sector restrictions could accelerate tech‑decoupling trades.
+## Watchpoints (max 5)
+- US ISM Manufacturing Prices this evening — if the price index spikes further, stagflation fears intensify.
+- Iran’s next military or diplomatic step after suspending talks — direct escalation could push Brent above `$130/bbl`.
+- Korea 30y KTB auction — yield outcome will gauge market conviction in BOK tightening.
+- Publication of China’s full outbound‑investment restricted‑sector list.
+- Any US Commerce Department response to chip‑export loophole and Chinese tech sanctions.
 
-## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will the Lebanon‑Iran linkage collapse the ceasefire or force a faster US‑Iran deal?
-- Can the AI‑driven equity rally survive a simultaneous Brent spike and BOK tightening cycle?
-- How will Beijing calibrate its capital‑control stance if the US tightens chip export rules further?
+## Open Questions (max 3)
+- Will the Iran‑Lebanon linkage force a complete collapse of cease‑fire talks or accelerate a US‑Iran deal?
+- Can AI equity momentum persist if Brent sustains above `$100` and the BOK tightens further?
+- How aggressive will Beijing’s capital‑control enforcement become, and will it spill over to CNH and Hong Kong property?
 
-## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- No new price‑level citations in today’s feed.
+## Key Levels (max 5)
+- **Brent**: `$93/bbl` — holding near one‑month high; a breach above `$100` would signal full risk‑premium repricing ([BBG](https://www.bloomberg.com/news/articles/2026-06-01/latest-oil-market-news-and-analysis-for-june-2)).
+- **KRW**: under pressure from oil and hawkish BOK; next KTB auction yield to watch.
+- **Aluminium**: four‑year high, adding to global cost‑push fears ([Reuters](https://news.google.com/rss/articles/CBMirwFBVV95cUxPM3dKNC1BTklXam5pRnZOeVBMWURSWUpRYzdhN1NvLWhQVHFCQjRvUk1mSXpqN2MzOEdhdEtNd0dWSS1heTMtOVJSTVdLMlBISTBMRGNpVzQ1bHNCVHMzRXk5T0hrSFIxLUJaZGl4TmpoclhxYUhaZzhLc0xidnVoYmpmUUprcC1MY0dObTQxaDAyMmtVYkhxcVFRREJZbVRXVUJFM3dmTGRJNDh4M3lJ)).
