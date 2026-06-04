@@ -1,26 +1,23 @@
-# Macro State — Last updated: 2026-06-03
+# Macro State — Last updated: 2026-06-04
 
 ## Active Narratives
-- **Middle East Oil & Hormuz Risk** — Acceleration; Iran strikes Kuwait and US retaliates near Hormuz, deepening supply disruption and crushing ceasefire hopes; watch for further civilian infrastructure targeting.
-- **US Forced‑Labor Tariff Wave** — New; proposal of 10%+ tariffs on 60 trading partners revives global trade war risk; next trigger is formal USTR initiation or retaliatory measures.
-- **BOJ June Hike Signal** — New; Governor Ueda explicitly flags a high chance of a rate hike this month; June 16‑17 BOJ decision is the key catalyst.
-- **OECD Global Recession Warning** — Confirmation; multilateral body cuts 2026 growth to 2.8% and warns of severe slump if Iran war persists; reinforces stagflationary expectations.
-
+- **US Tariff Resurgence** — New; the forced-labour 301 probe triggers a multi‑country tariff shock with direct China‑EU impact, reopening a broad protectionism channel. Next trigger: EU‑China talks on Thursday and any retaliatory measures.
+- **Middle East De‑escalation with Hormuz Pipe Hedge** — Reversal; Trump’s troop‑loss redline, the Lebanon ceasefire deal, and Gulf pipelines temper the prior oil‑supply panic, though the conflict remains unresolved. Next trigger: formal US‑Iran ceasefire statement or successful pipeline financing commitment.
+- **Sticky US Inflation & Hawkish Fed** — Acceleration; Beige Book, ISM prices, ADP strength, and Logan’s rate‑hike warning solidify the “higher‑for‑longer” narrative, shifting the market’s focus from payrolls to price data. Next trigger: May non‑farm payrolls and average hourly earnings on Friday.
+- **Indonesia EM Stress** — Acceleration; the rupiah nears 18,000 and stocks hit five‑year lows, raising intervention and contagion risks across Asian FX. Next trigger: BI verbal or outright intervention above 18,000.
 ## Watchpoints
-- Kuwait/Iran/US de‑escalation announcement or ceasefire progress — immediate oil reversal.
-- USTR formal commencement of forced‑labor tariff investigation or Section 301 action.
-- BOJ June 16‑17 monetary policy statement and any dissent.
-- US ISM Services PMI and ADP employment (today) — validate labor tightness pre‑payrolls.
-- China’s Caixin services PMI follow‑through data — confirm domestic demand recovery.
-
+- EU‑China Paris talks on 4 Jun — any tariff retaliation or joint statement could escalate trade tensions.
+- US May non‑farm payrolls (5 Jun) — consensus ~150k? if above 180k and wages accelerate, a June‑July hike narrative solidifies.
+- Israel‑Lebanon ceasefire implementation — whether Hezbollah complies and the truce holds beyond 72 hours.
+- Indonesia rupiah breaking through 18,000 — watch for BI rate‑hike signals or FX intervention.
+- Gulf pipeline project developments — further details on route, capacity, and timeline would materially lower crude risk premium.
 ## Open Questions
-- Will the direct attack on Kuwait harden coalition resolve and prolong the Hormuz closure into 2H26?
-- Can US forced‑labor tariffs survive legal challenge or will they be scaled back?
-- How will US‑China trade tensions evolve in parallel with the EU‑China trade fight?
-
+- Will the forced‑labour tariffs survive legal challenges or quickly fragment under WTO/retaliation, or does this mark a durable new tariff regime?
+- Can the US consumer and labour market stay strong despite rising gasoline costs and tariff‑driven imported goods inflation?
+- Does the Lebanon ceasefire open a path for a broader US‑Iran pact, or will compensation and sanctions disputes stall talks?
 ## Key Levels
-- Brent crude: breaking above `$96` on Kuwait escalation today; next resistance near `$100` if strait remains closed.
-- USD/JPY: approaching `160` before Ueda’s remarks; June hike signal may cap upside and push toward `155`.
-- KOSPI: up 100% YTD, testing record levels; beneficiaries of AI chip demand but vulnerable to trade risk.
-- Hang Seng: lost `26,000` despite northbound inflows; `25,500` is next support if risk‑off deepens.
-- Gold: slipping on hawkish rates, near `$2,300`; break below would question safe‑haven bid.
+- Brent crude: held below recent highs following the Lebanon deal; a sustained move below `$88` would confirm de‑escalation pricing, while a break above `$96` would signal fresh supply disruption.
+- USD/IDR: approaching `18,000` — a breach may trigger direct BI intervention or an emergency rate hike, raising EM Asia risk premia.
+- S&P 500: fell on Iran‑clash and Broadcom weakness; support at `5,300` — a break below could turn the nine‑session streak into a deeper correction.
+- 2‑year US Treasury yield: testing recent highs near `5.0%`; a break above `5.10%` on strong payrolls would price a higher terminal rate.
+- Gold: holding around `$2,320`, but a break below `$2,300` would challenge the safe‑haven bid as real rates rise.
