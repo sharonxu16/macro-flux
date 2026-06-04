@@ -19,9 +19,46 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: 3.x
-      - run: pip install mkdocs-material mkdocs-callouts
+      - run: pip install -r requirements.txt mkdocs-material mkdocs-callouts
       - run: mkdocs build
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site
       - uses: actions/deploy-pages@v4
+        id: deployment
+      - name: Send email notification
+        env:
+          BRIEFING_EMAIL_RECIPIENTS: ${{ secrets.BRIEFING_EMAIL_RECIPIENTS }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          SMTP_FROM: ${{ secrets.SMTP_FROM }}
+          SMTP_STARTTLS: ${{ secrets.SMTP_STARTTLS }}
+          SMTP_USE_SSL: ${{ secrets.SMTP_USE_SSL }}
+          PAGE_URL: ${{ steps.deployment.outputs.page_url }}
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          import os
+          import morning_briefing as mb
+
+          report_path = Path("docs/index.md")
+          report = report_path.read_text(encoding="utf-8")
+          header = report.split("</div>", 1)[0]
+          date_match = re.search(r"<small>(.*?)</small>", header)
+          greeting_match = re.search(r"<small>Good (morning|afternoon)\.</small>", header)
+          briefing_type = greeting_match.group(1) if greeting_match else "briefing"
+          report_name = f"latest-{briefing_type}.md"
+          if date_match:
+              safe_date = re.sub(r"[^0-9A-Za-z]+", "-", date_match.group(1)).strip("-").lower()
+              report_name = f"{safe_date}-{briefing_type}.md"
+          mb.send_briefing_email(
+              report,
+              report_name,
+              briefing_type,
+              report_path,
+              website_url=os.environ.get("PAGE_URL") or mb.GITHUB_PAGES_URL,
+          )
+          PY
