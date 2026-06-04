@@ -16,6 +16,8 @@ import json
 import multiprocessing as mp
 import tempfile
 import traceback
+import smtplib
+from email.message import EmailMessage
 from difflib import SequenceMatcher
 from concurrent.futures import ThreadPoolExecutor, as_completed, TimeoutError as FutureTimeoutError
 from datetime import datetime, timedelta, timezone
@@ -45,10 +47,8 @@ except AttributeError:
 
 
 def _load_env_from_claude_config():
-    """Populate env vars from ~/.claude/settings.json if not already set.
+    """Populate missing env vars from ~/.claude/settings.json.
     Ensures the script works when run from cron (which lacks Claude Code's env injection)."""
-    if os.environ.get("ANTHROPIC_AUTH_TOKEN"):
-        return  # Already set (running inside Claude Code)
     config_path = Path.home() / ".claude" / "settings.json"
     if not config_path.exists():
         return
@@ -2259,6 +2259,101 @@ def save_report(markdown, window_start, window_end, briefing_type="morning"):
     return path
 
 
+def _env_flag(name, default=False):
+    value = os.environ.get(name)
+    if value is None:
+        return default
+    return value.strip().lower() in {"1", "true", "yes", "on"}
+
+
+def _email_recipients():
+    raw = os.environ.get("BRIEFING_EMAIL_RECIPIENTS", "")
+    for sep in (";", "\n"):
+        raw = raw.replace(sep, ",")
+    return [item.strip() for item in raw.split(",") if item.strip()]
+
+
+def _extract_overview(markdown):
+    lines = markdown.splitlines()
+    overview = []
+    in_overview = False
+    for line in lines:
+        if line.startswith("> [!abstract] Overview"):
+            in_overview = True
+            continue
+        if in_overview:
+            if line.startswith("---") or line.startswith("## "):
+                break
+            if line.startswith(">"):
+                overview.append(line.lstrip("> ").strip())
+            elif line.strip():
+                overview.append(line.strip())
+    return "\n".join(part for part in overview if part).strip()
+
+
+def send_briefing_email(report_md, report_name, briefing_type, report_path=None, website_url=GITHUB_PAGES_URL):
+    """Send a completion email when SMTP settings are configured."""
+    recipients = _email_recipients()
+    smtp_host = os.environ.get("SMTP_HOST", "").strip()
+    smtp_port = env_int("SMTP_PORT", 587, min_value=1)
+    smtp_user = os.environ.get("SMTP_USER", "").strip()
+    smtp_password = os.environ.get("SMTP_PASSWORD", "")
+    smtp_from = os.environ.get("SMTP_FROM", smtp_user).strip()
+
+    if not recipients:
+        print("  [email] No BRIEFING_EMAIL_RECIPIENTS configured; skipping")
+        return False
+    if not smtp_host or not smtp_from:
+        print("  [email] SMTP_HOST/SMTP_FROM not configured; skipping")
+        return False
+
+    label = briefing_type.capitalize()
+    subject = f"Macro Flux {label} Briefing - {report_name.replace('.md', '')}"
+    overview = _extract_overview(report_md)
+    body_parts = [
+        f"Macro Flux {label} briefing finished.",
+        f"Report: {report_name}",
+        f"Website: {website_url}",
+    ]
+    if report_path:
+        body_parts.append(f"Local path: {report_path}")
+    if overview:
+        body_parts.extend(["", "Overview:", overview])
+    body_parts.extend(["", "Full markdown report is attached."])
+
+    msg = EmailMessage()
+    msg["From"] = smtp_from
+    msg["To"] = ", ".join(recipients)
+    msg["Subject"] = subject
+    msg.set_content("\n".join(body_parts))
+    msg.add_attachment(
+        report_md.encode("utf-8"),
+        maintype="text",
+        subtype="markdown",
+        filename=report_name,
+    )
+
+    try:
+        use_ssl = _env_flag("SMTP_USE_SSL", smtp_port == 465)
+        use_starttls = _env_flag("SMTP_STARTTLS", not use_ssl)
+        smtp_cls = smtplib.SMTP_SSL if use_ssl else smtplib.SMTP
+        with smtp_cls(smtp_host, smtp_port, timeout=30) as smtp:
+            if not use_ssl:
+                smtp.ehlo()
+                if use_starttls:
+                    smtp.starttls()
+                    smtp.ehlo()
+            if smtp_user and smtp_password:
+                smtp.login(smtp_user, smtp_password)
+            smtp.send_message(msg)
+        print(f"  [email] Sent briefing email to {len(recipients)} recipient(s)")
+        return True
+    except Exception as exc:
+        print(f"  [email] ⚠️ Failed to send email: {exc}", file=sys.stderr)
+        write_text_artifact("email_error.txt", repr(exc) + "\n")
+        return False
+
+
 def fallback_report(articles, window_start, window_end):
     """Produce a headline-only report when Claude API is unavailable."""
     start_str = window_start.strftime("%Y-%m-%d %H:%M")
@@ -2489,10 +2584,12 @@ def main():
     # Save docs to local repo (sync — must complete before exit)
     _save_docs(report, window_end, briefing_type)
 
+    report_name = path.name
     if os.environ.get("GITHUB_ACTIONS") == "true":
         print("  [deploy] GitHub Actions will commit and deploy this report")
     else:
         deploy_to_github_pages(report, window_end, briefing_type)
+        send_briefing_email(report, report_name, briefing_type, path)
 
     _clear_run_timeout()
     print("\nDone.")

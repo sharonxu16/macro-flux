@@ -206,3 +206,34 @@ jobs:
         if: steps.existing.outputs.skip != 'true'
         id: deployment
         uses: actions/deploy-pages@v4
+
+      - name: Send email notification
+        if: steps.existing.outputs.skip != 'true'
+        env:
+          BRIEFING_EMAIL_RECIPIENTS: ${{ secrets.BRIEFING_EMAIL_RECIPIENTS }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          SMTP_FROM: ${{ secrets.SMTP_FROM }}
+          SMTP_STARTTLS: ${{ secrets.SMTP_STARTTLS }}
+          SMTP_USE_SSL: ${{ secrets.SMTP_USE_SSL }}
+          REPORT_PATH: docs/past/${{ steps.type.outputs.target_date }}-${{ steps.type.outputs.label }}.md
+          BRIEFING_LABEL: ${{ steps.type.outputs.label }}
+          PAGE_URL: ${{ steps.deployment.outputs.page_url }}
+        run: |
+          python - <<'PY'
+          import os
+          from pathlib import Path
+          import morning_briefing as mb
+
+          path = Path(os.environ["REPORT_PATH"])
+          report = path.read_text(encoding="utf-8")
+          mb.send_briefing_email(
+              report,
+              path.name,
+              os.environ["BRIEFING_LABEL"],
+              path,
+              website_url=os.environ.get("PAGE_URL") or mb.GITHUB_PAGES_URL,
+          )
+          PY
