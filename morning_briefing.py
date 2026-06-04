@@ -12,6 +12,10 @@ import socket
 import ssl
 import re
 import signal
+import json
+import multiprocessing as mp
+import tempfile
+import traceback
 from difflib import SequenceMatcher
 from concurrent.futures import ThreadPoolExecutor, as_completed, TimeoutError as FutureTimeoutError
 from datetime import datetime, timedelta, timezone
@@ -1988,7 +1992,7 @@ def _validate_markdown(report, articles=None):
     return report
 
 
-def call_claude(user_message):
+def _call_claude_once(user_message):
     """Call Claude API via Anthropic SDK."""
     base_url = os.environ.get("ANTHROPIC_BASE_URL", "https://api.deepseek.com/anthropic").rstrip("/")
     api_key = os.environ["ANTHROPIC_AUTH_TOKEN"]
@@ -2010,6 +2014,48 @@ def call_claude(user_message):
         if getattr(block, "type", None) == "text":
             return block.text
     return response.content[0].text
+
+
+def _call_claude_worker(user_message, result_path):
+    try:
+        text = _call_claude_once(user_message)
+        payload = {"ok": True, "text": text}
+    except BaseException as exc:
+        payload = {
+            "ok": False,
+            "error": repr(exc),
+            "traceback": traceback.format_exc(),
+        }
+    Path(result_path).write_text(json.dumps(payload), encoding="utf-8")
+
+
+def call_claude(user_message):
+    """Call Claude in a child process so launchd cannot hang forever on a stuck SDK call."""
+    with tempfile.TemporaryDirectory(prefix="macro_flux_llm_") as tmpdir:
+        result_path = Path(tmpdir) / "result.json"
+        proc = mp.Process(target=_call_claude_worker, args=(user_message, str(result_path)))
+        proc.start()
+        proc.join(LLM_TIMEOUT_SECONDS)
+
+        if proc.is_alive():
+            proc.terminate()
+            proc.join(10)
+            if proc.is_alive() and hasattr(proc, "kill"):
+                proc.kill()
+                proc.join(5)
+            msg = f"Claude API call exceeded hard timeout of {LLM_TIMEOUT_SECONDS}s"
+            write_text_artifact("llm_timeout.txt", msg + "\n")
+            raise TimeoutError(msg)
+
+        if not result_path.exists():
+            raise RuntimeError(f"Claude worker exited without writing result (exit code {proc.exitcode})")
+
+        payload = json.loads(result_path.read_text(encoding="utf-8"))
+        if payload.get("ok"):
+            return payload.get("text", "")
+
+        write_text_artifact("llm_worker_error.txt", payload.get("traceback", payload.get("error", "")))
+        raise RuntimeError(payload.get("error", "Claude worker failed"))
 
 
 # ---------------------------------------------------------------------------
