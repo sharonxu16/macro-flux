@@ -54,11 +54,12 @@ jobs:
           if date_match:
               safe_date = re.sub(r"[^0-9A-Za-z]+", "-", date_match.group(1)).strip("-").lower()
               report_name = f"{safe_date}-{briefing_type}.md"
-          mb.send_briefing_email(
+          ok = mb.send_briefing_email(
               report,
               report_name,
               briefing_type,
               report_path,
               website_url=os.environ.get("PAGE_URL") or mb.GITHUB_PAGES_URL,
           )
+          raise SystemExit(0 if ok else 1)
           PY

@@ -229,11 +229,12 @@ jobs:
 
           path = Path(os.environ["REPORT_PATH"])
           report = path.read_text(encoding="utf-8")
-          mb.send_briefing_email(
+          ok = mb.send_briefing_email(
               report,
               path.name,
               os.environ["BRIEFING_LABEL"],
               path,
               website_url=os.environ.get("PAGE_URL") or mb.GITHUB_PAGES_URL,
           )
+          raise SystemExit(0 if ok else 1)
           PY
