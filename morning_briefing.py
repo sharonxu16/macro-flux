@@ -2309,29 +2309,18 @@ def send_briefing_email(report_md, report_name, briefing_type, report_path=None,
 
     label = briefing_type.capitalize()
     subject = f"Macro Flux {label} Briefing - {report_name.replace('.md', '')}"
-    overview = _extract_overview(report_md)
     body_parts = [
         f"Macro Flux {label} briefing finished.",
         f"Report: {report_name}",
-        f"Website: {website_url}",
+        "",
+        report_md,
     ]
-    if report_path:
-        body_parts.append(f"Local path: {report_path}")
-    if overview:
-        body_parts.extend(["", "Overview:", overview])
-    body_parts.extend(["", "Full markdown report is attached."])
 
     msg = EmailMessage()
     msg["From"] = smtp_from
     msg["To"] = ", ".join(recipients)
     msg["Subject"] = subject
     msg.set_content("\n".join(body_parts))
-    msg.add_attachment(
-        report_md.encode("utf-8"),
-        maintype="text",
-        subtype="markdown",
-        filename=report_name,
-    )
 
     try:
         use_ssl = _env_flag("SMTP_USE_SSL", smtp_port == 465)
