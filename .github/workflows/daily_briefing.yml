@@ -160,7 +160,7 @@ jobs:
           PYTHONUNBUFFERED: "1"
           FETCH_ROUND_TIMEOUT_SECONDS: "180"
           ENHANCE_TIMEOUT_SECONDS: "90"
-          LLM_TIMEOUT_SECONDS: "240"
+          LLM_TIMEOUT_SECONDS: "360"
           RUN_TIMEOUT_SECONDS: "3000"
         run: |
           set -o pipefail
