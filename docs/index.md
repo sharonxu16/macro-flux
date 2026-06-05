@@ -34,7 +34,7 @@ South Korea stocks fell over `5%` as tech heavyweights followed a plunge in Wall
 > [!info] [AI Reasoning]
 > * **Narrative change**: Acceleration — Kospi losses widened from morning's `~4%` to over `5%` intraday, with BOK now explicitly monitoring record retail leverage, adding a financial-stability dimension to the tech rout.
 > * **Transmission / Market Read**: Risk-premium and capital-flow channels favor **short KRW** and **short Kospi**; BOK's leverage warning adds policy-constraint risk that limits intervention appetite even as the won nears `1,500`.
-> * **Watchpoint / Confidence**: Kospi closing level versus `2,500` psychological support and any BOK emergency statement before tonight's US payrolls; Confidence: High due to cross-source confirmation and official BOK acknowledgment of leverage risks.
+> * **Watchpoint / Confidence**: Kospi closing level and any BOK emergency statement before tonight's US payrolls; Confidence: High due to cross-source confirmation and official BOK acknowledgment of leverage risks.
 
 ### 📌 Chinese and Hong Kong Investors Barred From SpaceX's $75 Billion IPO on US Security Grounds
 

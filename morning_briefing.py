@@ -382,7 +382,9 @@ FACTS vs AI ANALYSIS:
   3. Watchpoint / Confidence: concrete 24-72h confirmation/invalidation trigger plus Confidence: High / Medium / Low.
   REQUIRED bullet labels: `Narrative change`, `Transmission / Market Read`, `Watchpoint / Confidence`.
   FORMAT INVALID if any AI Reasoning block uses legacy or redundant labels: `What happened`, `Base Case`, or `Tactical Trade`.
-  NO new facts, no uncited numbers, no price targets unless explicitly cited by FT/BBG/WSJ/Reuters today. Example:
+  NO new facts, no uncited numbers, no price targets unless explicitly cited by FT/BBG/WSJ/Reuters today.
+  TECHNICAL LEVEL BAN: AI Reasoning is NOT allowed to invent support, resistance, psychological levels, entry points, stops, targets, or closing-threshold numbers. Mention a concrete level ONLY if the exact level and its meaning appear in today's cited Fact excerpt. Otherwise write "price action", "closing level", or "policy response" without the number.
+  MACRO STATE LEVEL BAN: Prior Macro State key levels are memory, not evidence. Do NOT repeat them in today's report unless today's feed explicitly re-cites the same level and why it matters. Example:
 > [!info] [AI Reasoning]
 > * **Narrative change**: Acceleration because military protection is now attached to commercial transit rather than only diplomatic messaging.
 > * **Transmission / Market Read**: Risk-premium channel favors **long Brent** and **short KRW** until transit normalizes.
@@ -392,6 +394,7 @@ MACRO STATE USAGE:
 - State provides continuity for AI Reasoning and narrative-change classification — it is NOT a source for fact sections
 - Use State to decide whether today's feed creates New / Acceleration / Reversal / Confirmation / Noise
 - If prior state uses an older format, translate it mentally into active narratives, watchpoints, open questions, and key levels before writing `<state_update>`
+- Do NOT copy Macro State key levels into Overview, Fact, Global Radar, or AI Reasoning unless today's feed explicitly cites the exact level and its market meaning
 - Cross-day cumulative counts ('third hike since Hormuz closure', 'Day 16 of the blockade', 'fourth consecutive week') are BANNED in Fact sections UNLESS a source article in TODAY's feed explicitly states that exact number
 - State says 'third hike' + today's articles only say 'OPEC+ agreed a 188k bpd increase' → write ONLY what the article says. Reserve cumulative context for [AI Reasoning] sections
 
@@ -1512,6 +1515,7 @@ Use `backticks` for ALL numeric values and tickers: `$125/bbl`, `3.2%`, `$34.5B`
 > * **Watchpoint / Confidence**: [24-72h confirmation or invalidation trigger; Confidence: High / Medium / Low based on source quality and cross-source confirmation.]
 
 FORMAT CHECK: Every `> [!info] [AI Reasoning]` block must use exactly these three labels. Do not output redundant or legacy labels `What happened`, `Base Case`, or `Tactical Trade`, even if they appear in prior reports or morning context.
+TECHNICAL LEVEL CHECK: Watchpoints may reference price action or closing levels, but must NOT name support/resistance/psychological/target/entry/stop numbers unless the exact number and level meaning appear in the cited Fact excerpt above.
 
 [Repeat for each priority theme.]
 
@@ -1742,6 +1746,46 @@ def _remove_tradingeconomics_global_radar_leaks(report):
     return "\n".join(cleaned_lines), removed
 
 
+def _remove_uncited_ai_reasoning_technical_levels(report):
+    """Drop source-free technical level phrases from AI Reasoning watchpoints."""
+    level_terms = re.compile(
+        r"(?:support|resistance|psychological|target|entry|stop(?:-loss)?|breakout|breakdown)",
+        re.IGNORECASE,
+    )
+    level_number = r"`?\d[\d,]*(?:\.\d+)?(?:%|x|bp|bps)?`?"
+    directional_level = re.compile(
+        rf"\s+(?:versus|vs\.?|near|around|above|below|at|through|toward|towards)\s+{level_number}\s+(?:psychological\s+)?(?:support|resistance|level|target|entry|stop(?:-loss)?|breakout|breakdown)",
+        re.IGNORECASE,
+    )
+    named_level = re.compile(
+        rf"\s+(?:psychological\s+)?(?:support|resistance|target|entry|stop(?:-loss)?|breakout|breakdown)\s+(?:at|near|around|of)?\s*{level_number}",
+        re.IGNORECASE,
+    )
+
+    removed = 0
+    cleaned_lines = []
+    in_ai_reasoning = False
+    for line in report.splitlines():
+        if line.startswith("> [!info] [AI Reasoning]"):
+            in_ai_reasoning = True
+            cleaned_lines.append(line)
+            continue
+        if in_ai_reasoning and not line.startswith(">"):
+            in_ai_reasoning = False
+
+        if in_ai_reasoning and line.startswith("> *") and level_terms.search(line):
+            cleaned = directional_level.sub("", line)
+            cleaned = named_level.sub("", cleaned)
+            if cleaned != line:
+                removed += 1
+                line = re.sub(r"\s+([,;:.])", r"\1", cleaned)
+                line = re.sub(r"\s{2,}", " ", line).rstrip()
+
+        cleaned_lines.append(line)
+
+    return "\n".join(cleaned_lines), removed
+
+
 def _normalize_support_text(text):
     text = re.sub(r"\[[^\]]+\]\([^)]+\)", " ", text)
     text = re.sub(r"https?://\S+", " ", text)
@@ -1960,6 +2004,10 @@ def _validate_markdown(report, articles=None):
     report, te_leaks = _remove_tradingeconomics_global_radar_leaks(report)
     if te_leaks:
         print(f"  [validate] Removed {te_leaks} TradingEconomics Global Radar leak line(s)")
+
+    report, uncited_technical_levels = _remove_uncited_ai_reasoning_technical_levels(report)
+    if uncited_technical_levels:
+        print(f"  [validate] Removed {uncited_technical_levels} uncited AI Reasoning technical level phrase(s)")
 
     report, unsupported_radar_segments = _remove_unsupported_global_radar_segments(report, articles)
     if unsupported_radar_segments:
