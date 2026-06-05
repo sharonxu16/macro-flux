@@ -1913,6 +1913,22 @@ def _remove_empty_global_radar_sections(report):
     return result, removed
 
 
+def _ensure_nonempty_global_radar(report):
+    """Replace a blank Global Radar section with an explicit source-validation note."""
+    pattern = re.compile(r"(^## 🌍 Global Radar\n)(.*?)(\n---\n\n## 📅 Economic Calendar)", re.MULTILINE | re.DOTALL)
+    match = pattern.search(report or "")
+    if not match:
+        return report, False
+    body = match.group(2)
+    if any(line.startswith("- ") for line in body.splitlines()):
+        return report, False
+    placeholder = (
+        "\nNo additional high-impact items outside Narrative Watch after "
+        "deduplication and source-support validation.\n"
+    )
+    return report[:match.start()] + match.group(1) + placeholder + match.group(3) + report[match.end():], True
+
+
 def _normalize_header_greeting(report, briefing_type):
     """Force the header greeting to match the requested briefing type."""
     expected = "Good morning." if briefing_type == "morning" else "Good afternoon."
@@ -1952,6 +1968,10 @@ def _validate_markdown(report, articles=None):
     report, empty_radar_sections = _remove_empty_global_radar_sections(report)
     if empty_radar_sections:
         print(f"  [validate] Removed {empty_radar_sections} empty Global Radar section(s)")
+
+    report, blank_radar_placeholder = _ensure_nonempty_global_radar(report)
+    if blank_radar_placeholder:
+        print("  [validate] Global Radar was blank after validation; inserted source-validation note")
 
     # 1. Fix unbalanced brackets in markdown links: count [ and ]( per line
     lines = report.split("\n")

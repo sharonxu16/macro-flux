@@ -61,6 +61,8 @@ Mainland Chinese investors are rushing to open accounts at Hong Kong banks and b
 
 ## 🌍 Global Radar
 
+No additional high-impact items outside Narrative Watch after deduplication and source-support validation.
+
 ---
 
 ## 📅 Economic Calendar — Next 24 Hours
