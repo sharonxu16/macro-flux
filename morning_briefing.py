@@ -1993,6 +1993,31 @@ def _validate_markdown(report, articles=None):
     return report
 
 
+def _missing_required_report_sections(report, require_state_update=False):
+    """Return required report sections that are absent from an LLM result."""
+    checks = [
+        ("Overview", r"^> \[!abstract\] Overview"),
+        ("Narrative Watch", r"^## 🔬 Narrative Watch"),
+        ("Global Radar", r"^## 🌍 Global Radar"),
+        ("Economic Calendar", r"^## 📅 Economic Calendar"),
+        ("Full Reading List", r"^## 📚 Full Reading List"),
+    ]
+    missing = [name for name, pattern in checks if not re.search(pattern, report or "", re.MULTILINE)]
+    if require_state_update and "<state_update>" not in (report or ""):
+        missing.append("state_update")
+    return missing
+
+
+def _assert_report_complete(report, stage, require_state_update=False):
+    missing = _missing_required_report_sections(report, require_state_update=require_state_update)
+    if not missing:
+        return
+    msg = f"Incomplete report after {stage}; missing: {', '.join(missing)}"
+    write_text_artifact(f"incomplete_report_{stage}.txt", (report or "") + "\n")
+    write_text_artifact(f"incomplete_report_{stage}_missing.txt", msg + "\n")
+    raise ValueError(msg)
+
+
 def _call_claude_once(user_message):
     """Call Claude API via Anthropic SDK."""
     base_url = os.environ.get("ANTHROPIC_BASE_URL", "https://api.deepseek.com/anthropic").rstrip("/")
@@ -2010,11 +2035,22 @@ def _call_claude_once(user_message):
         messages=[{"role": "user", "content": user_message}],
         thinking={"type": "enabled", "budget_tokens": 8192},
     )
+    stop_reason = getattr(response, "stop_reason", None)
+    if stop_reason:
+        print(f"  Claude stop_reason: {stop_reason}")
+
     # Extended thinking returns multiple content blocks; extract just the text
     for block in response.content:
         if getattr(block, "type", None) == "text":
-            return block.text
-    return response.content[0].text
+            text = block.text
+            break
+    else:
+        text = response.content[0].text
+
+    if stop_reason == "max_tokens":
+        write_text_artifact("llm_max_tokens_partial.txt", text)
+        raise RuntimeError("Claude response stopped at max_tokens before completing the report")
+    return text
 
 
 def _call_claude_worker(user_message, result_path):
@@ -2565,8 +2601,16 @@ def main():
     for attempt in (1, 2):
         try:
             user_message = build_prompt(articles, window_start_str, window_end_str, window_start, window_end, te_events, briefing_type)
+            if attempt > 1:
+                user_message += (
+                    "\n\nCRITICAL RETRY INSTRUCTION: The previous output was incomplete. "
+                    "Regenerate the full briefing from the beginning and do not stop until "
+                    "Global Radar, Economic Calendar, Full Reading List, and <state_update> are all present."
+                )
             print(f"  Prompt: {len(user_message)} chars (~{len(user_message)//4} tokens)")
-            report = call_claude(user_message)
+            candidate = call_claude(user_message)
+            _assert_report_complete(candidate, f"llm_attempt_{attempt}", require_state_update=True)
+            report = candidate
             break
         except Exception as e:
             print(f"  [error] Attempt {attempt}: {e}", file=sys.stderr)
@@ -2575,8 +2619,10 @@ def main():
                 time.sleep(5)
 
     if not report:
-        print("  Falling back to RSS-only report...")
-        report = fallback_report(articles, window_start, window_end)
+        msg = "LLM failed to produce a complete briefing after retries; aborting instead of publishing a partial report."
+        print(f"  [error] {msg}", file=sys.stderr)
+        write_text_artifact("incomplete_report_abort.txt", msg + "\n")
+        sys.exit(3)
 
     # Parse macro state update from LLM output (strip before publishing)
     if report and "<state_update>" in report:
@@ -2612,6 +2658,11 @@ def main():
     # Post-processing: validate and fix common markdown issues
     report = _validate_markdown(report, articles)
     report = _normalize_header_greeting(report, briefing_type)
+    try:
+        _assert_report_complete(report, "post_validation", require_state_update=False)
+    except ValueError as e:
+        print(f"  [error] {e}", file=sys.stderr)
+        sys.exit(3)
 
     # Stage 3: Save + Deploy
     print("\n[3/3] Saving report...")
