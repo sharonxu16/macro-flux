@@ -18,6 +18,7 @@ import tempfile
 import traceback
 import smtplib
 from email.message import EmailMessage
+from html import escape
 from difflib import SequenceMatcher
 from concurrent.futures import ThreadPoolExecutor, as_completed, TimeoutError as FutureTimeoutError
 from datetime import datetime, timedelta, timezone
@@ -2291,6 +2292,50 @@ def _extract_overview(markdown):
     return "\n".join(part for part in overview if part).strip()
 
 
+def _markdown_email_html(markdown_text, title):
+    email_markdown = markdown_text
+    try:
+        import markdown as markdown_lib
+        rendered = markdown_lib.markdown(
+            email_markdown,
+            extensions=["extra", "sane_lists", "nl2br"],
+            output_format="html5",
+        )
+    except Exception:
+        rendered = "<pre>" + escape(email_markdown) + "</pre>"
+
+    return f"""<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <style>
+    body {{ font-family: Arial, Helvetica, sans-serif; color: #1f2933; line-height: 1.55; font-size: 15px; }}
+    .container {{ max-width: 860px; margin: 0 auto; padding: 20px; }}
+    .meta {{ color: #667085; font-size: 13px; margin-bottom: 20px; }}
+    h1, h2, h3 {{ color: #111827; line-height: 1.25; margin: 24px 0 10px; }}
+    h1 {{ font-size: 24px; }}
+    h2 {{ font-size: 20px; border-bottom: 1px solid #e5e7eb; padding-bottom: 6px; }}
+    h3 {{ font-size: 17px; }}
+    p {{ margin: 10px 0; }}
+    ul, ol {{ padding-left: 24px; margin: 10px 0; }}
+    li {{ margin: 5px 0; }}
+    blockquote {{ border-left: 4px solid #9ca3af; margin: 14px 0; padding: 8px 14px; background: #f8fafc; color: #374151; }}
+    table {{ border-collapse: collapse; width: 100%; margin: 14px 0; }}
+    th, td {{ border: 1px solid #d0d5dd; padding: 7px 9px; vertical-align: top; }}
+    th {{ background: #f3f4f6; text-align: left; }}
+    code {{ font-family: Consolas, Menlo, monospace; background: #f3f4f6; padding: 1px 4px; border-radius: 3px; }}
+    pre {{ white-space: pre-wrap; word-wrap: break-word; background: #f8fafc; border: 1px solid #e5e7eb; padding: 12px; }}
+    a {{ color: #175cd3; }}
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="meta">{escape(title)}</div>
+    {rendered}
+  </div>
+</body>
+</html>"""
+
 def send_briefing_email(report_md, report_name, briefing_type, report_path=None, website_url=GITHUB_PAGES_URL):
     """Send a completion email when SMTP settings are configured."""
     recipients = _email_recipients()
@@ -2320,7 +2365,9 @@ def send_briefing_email(report_md, report_name, briefing_type, report_path=None,
     msg["From"] = smtp_from
     msg["To"] = ", ".join(recipients)
     msg["Subject"] = subject
-    msg.set_content("\n".join(body_parts))
+    body_text = "\n".join(body_parts)
+    msg.set_content(body_text)
+    msg.add_alternative(_markdown_email_html(report_md, "Macro Flux " + label + " Briefing - " + report_name), subtype="html")
 
     try:
         use_ssl = _env_flag("SMTP_USE_SSL", smtp_port == 465)
