@@ -2348,6 +2348,14 @@ def _extract_overview(markdown):
     return "\n".join(part for part in overview if part).strip()
 
 
+def _email_report_body(markdown_text):
+    """Keep email readable by excluding the link-heavy reading-list appendix."""
+    marker = "\n## 📚 Full Reading List"
+    if marker in markdown_text:
+        return markdown_text.split(marker, 1)[0].rstrip()
+    return markdown_text
+
+
 def _markdown_email_html(markdown_text, title):
     email_markdown = markdown_text
     try:
@@ -2410,11 +2418,12 @@ def send_briefing_email(report_md, report_name, briefing_type, report_path=None,
 
     label = briefing_type.capitalize()
     subject = f"Macro Flux {label} Briefing - {report_name.replace('.md', '')}"
+    email_report_md = _email_report_body(report_md)
     body_parts = [
         f"Macro Flux {label} briefing finished.",
         f"Report: {report_name}",
         "",
-        report_md,
+        email_report_md,
     ]
 
     msg = EmailMessage()
@@ -2423,7 +2432,7 @@ def send_briefing_email(report_md, report_name, briefing_type, report_path=None,
     msg["Subject"] = subject
     body_text = "\n".join(body_parts)
     msg.set_content(body_text)
-    msg.add_alternative(_markdown_email_html(report_md, "Macro Flux " + label + " Briefing - " + report_name), subtype="html")
+    msg.add_alternative(_markdown_email_html(email_report_md, "Macro Flux " + label + " Briefing - " + report_name), subtype="html")
 
     try:
         use_ssl = _env_flag("SMTP_USE_SSL", smtp_port == 465)
