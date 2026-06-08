@@ -1,0 +1,76 @@
+name: Send Existing Briefing Email
+
+on:
+  workflow_dispatch:
+    inputs:
+      report_path:
+        description: "Markdown report path, e.g. docs/past/2026-06-08-morning.md"
+        required: true
+        type: string
+      briefing_label:
+        description: "morning or afternoon"
+        required: true
+        default: morning
+        type: choice
+        options:
+          - morning
+          - afternoon
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  send:
+    if: github.event_name == 'workflow_dispatch' || startsWith(github.event.head_commit.message, 'Send briefing email:')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Send briefing email
+        env:
+          BRIEFING_EMAIL_RECIPIENTS: ${{ secrets.BRIEFING_EMAIL_RECIPIENTS }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          SMTP_FROM: ${{ secrets.SMTP_FROM }}
+          SMTP_STARTTLS: ${{ secrets.SMTP_STARTTLS }}
+          SMTP_USE_SSL: ${{ secrets.SMTP_USE_SSL }}
+          INPUT_REPORT_PATH: ${{ inputs.report_path }}
+          INPUT_BRIEFING_LABEL: ${{ inputs.briefing_label }}
+          COMMIT_MESSAGE: ${{ github.event.head_commit.message }}
+        run: |
+          python - <<'PY'
+          import os
+          from pathlib import Path
+          import morning_briefing as mb
+
+          report_path = os.environ.get("INPUT_REPORT_PATH", "").strip()
+          briefing_label = os.environ.get("INPUT_BRIEFING_LABEL", "").strip()
+          commit_message = os.environ.get("COMMIT_MESSAGE", "")
+
+          if not report_path:
+              prefix = "Send briefing email:"
+              if not commit_message.startswith(prefix):
+                  raise SystemExit("Missing report_path and no Send briefing email commit message")
+              payload = commit_message[len(prefix):].strip().split()
+              if not payload:
+                  raise SystemExit("Commit message must be: Send briefing email: <report_path> [morning|afternoon]")
+              report_path = payload[0]
+              briefing_label = payload[1] if len(payload) > 1 else "morning"
+
+          path = Path(report_path)
+          report = path.read_text(encoding="utf-8")
+          ok = mb.send_briefing_email(report, path.name, briefing_label, path)
+          raise SystemExit(0 if ok else 1)
+          PY
