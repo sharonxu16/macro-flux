@@ -222,6 +222,12 @@ MAX_ARTICLES_PER_SOURCE = env_int("MAX_ARTICLES_PER_SOURCE", 15, min_value=5)
 MAX_PRIORITY_BODY_CHARS = env_int("MAX_PRIORITY_BODY_CHARS", 1200, min_value=400)
 MAX_CNN_BODY_CHARS = env_int("MAX_CNN_BODY_CHARS", 700, min_value=300)
 MAX_GENERAL_BODY_CHARS = env_int("MAX_GENERAL_BODY_CHARS", 350, min_value=150)
+MONDAY_MORNING_MAX_PROMPT_ARTICLES = env_int("MONDAY_MORNING_MAX_PROMPT_ARTICLES", 220, min_value=120)
+MONDAY_MORNING_MAX_GENERAL_ARTICLES = env_int("MONDAY_MORNING_MAX_GENERAL_ARTICLES", 165, min_value=80)
+MONDAY_MORNING_MAX_ARTICLES_PER_SOURCE = env_int("MONDAY_MORNING_MAX_ARTICLES_PER_SOURCE", 22, min_value=8)
+MONDAY_MORNING_MAX_PRIORITY_BODY_CHARS = env_int("MONDAY_MORNING_MAX_PRIORITY_BODY_CHARS", 1400, min_value=500)
+MONDAY_MORNING_MAX_CNN_BODY_CHARS = env_int("MONDAY_MORNING_MAX_CNN_BODY_CHARS", 800, min_value=300)
+MONDAY_MORNING_MAX_GENERAL_BODY_CHARS = env_int("MONDAY_MORNING_MAX_GENERAL_BODY_CHARS", 450, min_value=150)
 MAX_MORNING_CONTEXT_CHARS = env_int("MAX_MORNING_CONTEXT_CHARS", 3000, min_value=1000)
 MIN_ARTICLES_TO_PUBLISH = env_int("MIN_ARTICLES_TO_PUBLISH", 20, min_value=1)
 HTTP_HEADERS = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"}
@@ -465,6 +471,7 @@ TIGHTNESS CONSTRAINTS:
 - Fact paragraphs: max 250 words each. Be selective — not every article needs to be cited.
 - Global Radar: max 4 items per category. Skip categories entirely if nothing high-impact.
 - Narrative Watch: max 3 stories. Use a 4th only if it changes cross-asset pricing or a major Asia FX narrative.
+- Monday morning long-window exception: if the user prompt says the report covers Fri 18:00 to Mon 08:00 HKT, use the expanded limits in that prompt for weekend catch-up breadth.
 - Full Reading List: only articles actually cited. Skip sources with zero citations.
 - Morning reports have a 24K output token ceiling — if you're running long, cut low-priority stories before cutting the calendar or reading list.
 - No preamble, no academic hedging, no defining basic concepts
@@ -1249,9 +1256,22 @@ def _article_key(article):
     return article.get("link") or f"{article.get('source')}::{article.get('title')}"
 
 
-def _select_prompt_articles(articles):
+def _is_monday_morning_long_window(window_start, window_end, briefing_type):
+    """Monday morning catches up from Friday 18:00 through Monday 08:00 HKT."""
+    return (
+        briefing_type == "morning"
+        and window_end.weekday() == 0
+        and (window_end - window_start) >= timedelta(hours=48)
+    )
+
+
+def _select_prompt_articles(articles, long_window=False):
     """Select a bounded, high-signal article set for the LLM prompt."""
     from collections import Counter
+
+    max_prompt_articles = MONDAY_MORNING_MAX_PROMPT_ARTICLES if long_window else MAX_PROMPT_ARTICLES
+    max_general_articles = MONDAY_MORNING_MAX_GENERAL_ARTICLES if long_window else MAX_GENERAL_ARTICLES
+    max_articles_per_source = MONDAY_MORNING_MAX_ARTICLES_PER_SOURCE if long_window else MAX_ARTICLES_PER_SOURCE
 
     selected = []
     seen = set()
@@ -1264,11 +1284,11 @@ def _select_prompt_articles(articles):
         if key in seen:
             return False
         if not force:
-            if len(selected) >= MAX_PROMPT_ARTICLES:
+            if len(selected) >= max_prompt_articles:
                 return False
-            if source_counts[article["source"]] >= MAX_ARTICLES_PER_SOURCE:
+            if source_counts[article["source"]] >= max_articles_per_source:
                 return False
-            if counts_as_general and general_count >= MAX_GENERAL_ARTICLES:
+            if counts_as_general and general_count >= max_general_articles:
                 return False
         seen.add(key)
         selected.append(article)
@@ -1300,9 +1320,10 @@ def _select_prompt_articles(articles):
         "priority_articles_available": len(priority),
         "cnn_signal_articles_available": len(cnn_signal),
         "general_articles_in_prompt": general_count,
-        "max_prompt_articles": MAX_PROMPT_ARTICLES,
-        "max_general_articles": MAX_GENERAL_ARTICLES,
-        "max_articles_per_source": MAX_ARTICLES_PER_SOURCE,
+        "max_prompt_articles": max_prompt_articles,
+        "max_general_articles": max_general_articles,
+        "max_articles_per_source": max_articles_per_source,
+        "long_window": long_window,
         "source_counts_in_prompt": dict(sorted(source_counts.items())),
     }
     return selected, meta
@@ -1311,11 +1332,13 @@ def _select_prompt_articles(articles):
 def build_prompt(articles, window_start_str, window_end_str, window_start, window_end, te_events=None, briefing_type="morning"):
     """Build a Bloomberg-terminal-style dense feed for the LLM."""
     original_article_count = len(articles)
-    articles, selection_meta = _select_prompt_articles(articles)
+    monday_morning_long_window = _is_monday_morning_long_window(window_start, window_end, briefing_type)
+    articles, selection_meta = _select_prompt_articles(articles, long_window=monday_morning_long_window)
     if len(articles) != original_article_count:
         print(
             f"  Prompt articles: {len(articles)}/{original_article_count} "
-            f"(source cap {MAX_ARTICLES_PER_SOURCE}, general cap {MAX_GENERAL_ARTICLES})"
+            f"(source cap {selection_meta['max_articles_per_source']}, "
+            f"general cap {selection_meta['max_general_articles']})"
         )
 
     # Natural language date range for display
@@ -1324,6 +1347,18 @@ def build_prompt(articles, window_start_str, window_end_str, window_start, windo
     display_range = f"{_fmt_dt(window_start)} to {_fmt_dt(window_end)} HKT"
     greeting = "Good morning." if briefing_type == "morning" else "Good afternoon."
     briefing_label = "morning" if briefing_type == "morning" else "afternoon"
+    priority_body_chars = MONDAY_MORNING_MAX_PRIORITY_BODY_CHARS if monday_morning_long_window else MAX_PRIORITY_BODY_CHARS
+    cnn_body_chars = MONDAY_MORNING_MAX_CNN_BODY_CHARS if monday_morning_long_window else MAX_CNN_BODY_CHARS
+    general_body_chars = MONDAY_MORNING_MAX_GENERAL_BODY_CHARS if monday_morning_long_window else MAX_GENERAL_BODY_CHARS
+    overview_sentence_limit = "4-6" if monday_morning_long_window else "3-5"
+    fact_word_limit = 320 if monday_morning_long_window else 250
+    ai_word_limit = 34 if monday_morning_long_window else 28
+    global_item_limit = 6 if monday_morning_long_window else 4
+    narrative_watch_limit = (
+        "max 4 stories. Use a 5th only if it changes cross-asset pricing, a major Asia FX narrative, or a major weekend geopolitical/policy setup."
+        if monday_morning_long_window
+        else "max 3 stories. Use a 4th only if it changes cross-asset pricing or a major Asia FX narrative."
+    )
     lines = [
         f"News feed covering {window_start_str} to {window_end_str} (HKT).",
         "Source count and priority breakdown at the top, followed by every article.",
@@ -1332,6 +1367,17 @@ def build_prompt(articles, window_start_str, window_end_str, window_start, windo
         "---",
         "",
     ]
+    if monday_morning_long_window:
+        lines.extend([
+            "## MONDAY MORNING LONG-WINDOW MODE",
+            "This report covers the full weekend catch-up window: Friday 18:00 to Monday 08:00 HKT.",
+            "Increase breadth only where useful: include major weekend policy, geopolitics, macro data, Asia FX/rates, commodities, and cross-asset market moves.",
+            "Do not pad with thin weekend noise; longer is allowed because the email is the user's Monday catch-up brief.",
+            f"Expanded limits: Overview {overview_sentence_limit} sentences; Fact paragraphs max {fact_word_limit} words; AI Reasoning bullets max {ai_word_limit} words; Global Radar max {global_item_limit} items per category; Narrative Watch {narrative_watch_limit}",
+            "",
+            "---",
+            "",
+        ])
 
     # For afternoon briefings, inject the morning report so the LLM knows what was already covered
     if briefing_type == "afternoon":
@@ -1389,7 +1435,7 @@ def build_prompt(articles, window_start_str, window_end_str, window_start, windo
             lines.append(f"[{a['source']}] {a['title']}")
             body = a.get("full_text") or a.get("summary", "")
             if body:
-                lines.append(f"  {body[:MAX_PRIORITY_BODY_CHARS]}")
+                lines.append(f"  {body[:priority_body_chars]}")
             if a["link"]:
                 lines.append(f"  URL: {a['link']}")
             lines.append("")
@@ -1403,7 +1449,7 @@ def build_prompt(articles, window_start_str, window_end_str, window_start, windo
             lines.append(f"[{a['source']}] {a['title']}")
             body = a.get("full_text") or a.get("summary", "")
             if body:
-                lines.append(f"  {body[:MAX_CNN_BODY_CHARS]}")
+                lines.append(f"  {body[:cnn_body_chars]}")
             if a["link"]:
                 lines.append(f"  URL: {a['link']}")
             lines.append("")
@@ -1417,7 +1463,7 @@ def build_prompt(articles, window_start_str, window_end_str, window_start, windo
             lines.append(f"[{a['source']}] {a['title']}")
             body = a.get("full_text") or a.get("summary", "")
             if body:
-                lines.append(f"  {body[:MAX_GENERAL_BODY_CHARS]}")
+                lines.append(f"  {body[:general_body_chars]}")
             if a["link"]:
                 lines.append(f"  URL: {a['link']}")
             lines.append("")
@@ -1480,7 +1526,7 @@ Then continue with the header below.]
 ---
 
 > [!abstract] Overview
-> [A single paragraph of 3-5 sentences. No bullet points, no lists. HARD BAN: NO source names in parentheses — no `(FT)`, `(BBG)`, `(Reuters)`, no source abbreviations of any kind. NO markdown citation links. NO AI Reasoning. This is pure synthesis in your own words — citations and analysis go in Narrative Watch, never here. RANK by macro market impact, NOT by headline volume. Lead with the event that has the largest transmission to rates, FX, commodities, or broad equity indices. If a PM reads only the first sentence, it must capture the dominant macro driver. Final sentence: the ONE cross-market thread connecting the day.]
+> [A single paragraph of {overview_sentence_limit} sentences. No bullet points, no lists. HARD BAN: NO source names in parentheses — no `(FT)`, `(BBG)`, `(Reuters)`, no source abbreviations of any kind. NO markdown citation links. NO AI Reasoning. This is pure synthesis in your own words — citations and analysis go in Narrative Watch, never here. RANK by macro market impact, NOT by headline volume. Lead with the event that has the largest transmission to rates, FX, commodities, or broad equity indices. If a PM reads only the first sentence, it must capture the dominant macro driver. Final sentence: the ONE cross-market thread connecting the day.]
 
 OVERVIEW OUTPUT RULE: Output only the Overview paragraph inside the `> [!abstract] Overview` callout. Do not output template notes, examples, bracketed instructions, or markdown-formatting explanations. Every Overview content line must start with `> `.
 
@@ -1578,9 +1624,10 @@ After the Full Reading List, output `<state_update>` block with updated macro st
         "window_end_hkt": window_end_str,
         "prompt_chars": len(prompt),
         "estimated_prompt_tokens": len(prompt) // 4,
-        "max_priority_body_chars": MAX_PRIORITY_BODY_CHARS,
-        "max_cnn_body_chars": MAX_CNN_BODY_CHARS,
-        "max_general_body_chars": MAX_GENERAL_BODY_CHARS,
+        "max_priority_body_chars": priority_body_chars,
+        "max_cnn_body_chars": cnn_body_chars,
+        "max_general_body_chars": general_body_chars,
+        "monday_morning_long_window": monday_morning_long_window,
     })
     write_text_artifact("prompt_preview.txt", prompt[:12000])
     return prompt
@@ -2617,9 +2664,13 @@ def main():
         window_end = today_8am + timedelta(hours=10)
         briefing_type = "afternoon"
     else:
-        # Morning (default): yesterday 18:00 → today 08:00
+        # Morning (default): yesterday 18:00 → today 08:00.
+        # Monday morning catches up from Friday 18:00 → Monday 08:00.
         window_end = today_8am
-        window_start = today_8am - timedelta(hours=14)
+        if today_8am.weekday() == 0:
+            window_start = today_8am - timedelta(hours=62)
+        else:
+            window_start = today_8am - timedelta(hours=14)
         briefing_type = "morning"
 
     window_start_str = window_start.strftime("%Y-%m-%d %H:%M")

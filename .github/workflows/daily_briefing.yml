@@ -111,7 +111,9 @@ jobs:
                   target_date = now_hkt.date()
 
           if briefing_type == "morning":
-              start = f"{target_date - timedelta(days=1)} 18:00"
+              # Monday morning is the weekend catch-up: Friday 18:00 -> Monday 08:00 HKT.
+              start_date = target_date - timedelta(days=3 if target_date.weekday() == 0 else 1)
+              start = f"{start_date} 18:00"
               end = f"{target_date} 08:00"
               flag = "--morning"
           elif briefing_type == "afternoon":
