@@ -1,26 +1,24 @@
-# Macro State — Last updated: 2026-06-07
+# Macro State — Last updated: 2026-06-08
 
-## Active Narratives (max 4)
-- **Iran War Escalation — Strait of Hormuz Now a Battlefield** — Status: Acceleration; direct US‑Iran engagement in the strait deepens the physical supply‑shock risk and threatens tanker transit. Next trigger: any tanker rerouting, strait closure signals, or US/NATO response.
-- **North Korea Nuclear Posturing + Xi Summit** — Status: Confirmation; Xi’s visit is underway, raising the stakes for a provocative joint statement or military display. Next trigger: Xi‑Kim joint statement text and any weapons test during the visit.
-- **BOK Measures to Stem Won Slide** — Status: New (policy response); Seoul deploys anti‑speculation tools after the won came under severe geopolitical and external‑demand pressure. Next trigger: USD/KRW opening Monday and details of measures.
-- **East Asia Maritime Tension — China‑Japan‑Philippines** — Status: New; Beijing’s largest patrol ship deployment east of Taiwan combines with a warning that Japan and the Philippines are a regional risk. Next trigger: further Chinese naval posturing or protest from Tokyo/Manila.
+## Active Narratives
+- **Iran War Escalation** — Status: Acceleration; missile strikes on Israel and Trump’s ultimatum intensify oil supply risk and regional risk premia, with OPEC+ output hike limited by shipping restrictions. Next trigger: Netanyahu retaliation or ceasefire acceptance.
+- **Fed Hawkish Repricing** — Status: Confirmation/Acceleration; Goldman Sachs drops rate-cut call, bond traders price CPI surge, and Trump pressures Warsh, solidifying higher-for-longer expectations and USD strength. Next trigger: US CPI data, Warsh speech.
+- **North Korea Nuclear Leverage** — Status: Acceleration; “irreversible” nuclear declaration and munitions inspection ahead of Xi’s visit raise Northeast Asia geopolitical risk, pressuring KRW and risk assets. Next trigger: Xi-Kim summit statement or any missile test.
+- **Asia FX Under Siege** — Status: Confirmation; hawkish Fed, Iran war oil spike, and North Korea threats intensify depreciation pressure on KRW, CNH, and other regional currencies. Next trigger: BOK intervention, CNH fixing stabilization.
 
-## Watchpoints (max 5)
-- Strait of Hormuz transit disruption: tanker rerouting, war‑risk insurance spike, or any official advisory of restricted passage.
-- Xi‑Kim joint statement: any language on nuclear cooperation or maritime claims.
-- BOK measure specifics and Monday USD/KRW opening level as an efficacy test.
-- Additional Chinese patrol movements near Taiwan or the East China Sea.
-- Monday’s Brent open — gap size relative to Friday’s close will quantify the weekend risk premium.
+## Watchpoints
+- Netanyahu’s decision on retaliation or acceptance of Trump-backed Iran deal.
+- US CPI release and any Warsh remarks confirming or pushing back on rate hike.
+- Xi-Kim joint communiqué or North Korean military demonstration during the visit.
+- Brent crude sustained above recent spike highs; further OPEC+ emergency meeting.
+- USD/KRW intervention if spot approaches prior stress levels.
 
-## Open Questions (max 3)
-- Will the Strait of Hormuz face a partial or full temporary closure to commercial shipping?
-- Can BOK measures offset the simultaneous geopolitical double shock from Iran and North Korea?
-- Will the Xi‑Kim summit produce a concrete security cooperation threat that alters the regional risk premium?
+## Open Questions
+- Will the Iran oil shock and possible CPI surge force the Fed to hike, or will growth fears delay tightening?
+- Can Asian central banks coordinate FX defense amid simultaneous oil, rate, and geopolitical shocks?
+- Does Kim’s nuclear posture increase the probability of a military provocation during Xi’s visit?
 
-## Key Levels (max 5)
-- **Brent crude** — Monday open vs Friday close; the gap will price the weekend’s Hormuz battlefield escalation.
-- **USD/KRW** — Monday’s opening print; intervention and geopolitical tailwinds compound to test prior intervention zones.
-- **TWD (USD/TWD)** — opening level will reflect the combined Taiwan‑strait and East China Sea risk premium.
-- **Gold** — PBOC’s continued buying provides a demand floor; watch any intraday move driven by geopolitical flows.
-- **Kospi** — opening Monday as a gauge of risk sentiment; heavy hedging demand could amplify a down‑move if global risk appetite deteriorates further.
+## Key Levels
+- Brent crude: recent spike highs following Iran missile attack, as cited in FT.
+- USD/KRW: elevated levels near intervention-sensitive zone (state reference, no new level cited today).
+- US 10-year yield: moves above recent peaks if CPI and Fed repricing intensify.
