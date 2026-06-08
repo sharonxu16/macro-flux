@@ -1,9 +1,9 @@
 ---
 tags:
-  - Macro/Iran_War_Escalation
   - Macro/Fed_Hawkish_Repricing
-  - Asset/Brent
-  - Asset/JPY
+  - Asset/US_Equities
+  - Asset/Gold
+  - Asset/KRW
   - Trade/Short_Asia_FX
 ---
 
@@ -11,7 +11,7 @@ tags:
 
 # 🌊 Macro Flux
 
-<small>Jun 7 6PM to Jun 8 8AM HKT</small>
+<small>Jun 5 6PM to Jun 8 8AM HKT</small>
 
 <small>Good morning.</small>
 
@@ -20,67 +20,58 @@ tags:
 ---
 
 > [!abstract] Overview
-> The Iran-Israel war escalates with waves of missiles launched at Israel, jeopardizing the fragile ceasefire, driving oil sharply higher and intensifying supply disruption risk as OPEC+ hikes output face shipping constraints, directly lifting energy costs and regional risk premia. Simultaneously, hawkish Fed expectations harden: Goldman Sachs abandons its rate-cut call, bond traders price higher CPI, and Trump pressures incoming chair Warsh for a cut, reinforcing the US rate-hike narrative. A tech-led equity selloff, Japan’s stock slump, and North Korea’s nuclear saber rattling ahead of Xi Jinping’s visit compound Asia risk aversion. These converging shocks tighten global financial conditions, raise oil-linked inflation fears, and strengthen the dollar against a broad swath of Asian currencies.
+> The dominant macro shock this weekend was the “Black Friday” US equity rout — the Nasdaq and S&P 500’s worst day of the year — triggered by a blowout May nonfarm payrolls report that rekindled inflation fears and crushed remaining hopes for a 2026 Fed rate cut. Gold erased all 2026 gains and silver plunged 8.5% as the dollar and US yields soared, while AI and chip stocks hemorrhaged over $1 trillion in market value. Geopolitical flashpoints intensified: Iran fired missiles at Israel, North Korea declared its nuclear program “irreversible” on the eve of Xi Jinping’s visit, and South Korea unveiled measures to stem a won slide amid post-election protests. The PBOC continued to accumulate gold and China’s FX reserves rose, providing a modest Asia FX buffer. The single thread connecting the weekend is a violent rotation out of risk assets and commodities into the dollar, fueled by US exceptionalism, hawkish Fed repricing, and escalating geopolitical risk premia.
 
 ---
 
 ## 🔬 Narrative Watch
 
-### 📌 Iran Missile Strikes and Oil Supply Choke
+### 📌 US equity crash and Fed “no-cut” repricing after monster payrolls
 
 **Fact**
-Iran fired waves of missiles at Israel after an Israeli airstrike on Beirut ([WSJ](https://news.google.com/rss/articles/CBMirwFBVV95cUxQWi1qZHpOOXlndl9pb25lRldfN09RVjVYVU1OQWt5OUVLRWl0UXpxblFyTjlwcV9oRVhKdGxfTlA5QnZTcVVYdHlNLVNENm5CYXRNNlNQSXF6U2c0ZVhxd0tkbXBBY19jUm9DTG9zbGtlY3VrTEJWMVVfMXNBemxVQ180MXk5SVI3dlB6a3dmN1dMQnpvUV9RaHFvd2lLZnJuUGoxUDJ5b09hSkUwcWhB)). The fragile ceasefire between the U.S. and Iran has been in place since early April but is now in jeopardy ([CNBC](https://www.cnbc.com/2026/06/07/iran-fires-missiles-israel-ceasefire-strains.html)). Oil prices jumped after the missiles threatened the ceasefire, and traders worry that new strikes could escalate into a return to all-out conflict in the Middle East ([FT](https://www.ft.com/content/7eced198-5045-4447-885b-7aa0dfe4490d)). President Trump told the FT that Israeli Prime Minister Netanyahu will have “no choice” but to accept a deal with Iran, stating he “calls the shots” after urging the Israeli leader not to retaliate against Tehran ([FT](https://www.ft.com/content/a0ce59f9-fbde-49e8-9158-fba3d4079859)). OPEC and allies pledged an oil-output hike for the fourth successive month, but the impact will be limited by shipping restrictions as the Middle East war chokes exports ([WSJ](https://news.google.com/rss/articles/CBMivwFBVV95cUxPVWtaR2locV83bWJGRDhfd0tHS1g5WGQtNmpqZ2VTN2VqN29rRFNhN3VJanVjWGVfU1NiYTRUNWxkQXRxSnhKMzYtc1Y1VEhieDV4UHZUR2xxX3NlOGtwVGI2YlczR2FVNEwxc21COGFueHFaV0FtMVlMdlpDWTNoMFh1N1pfUFN6WlEybnRZZ3dKY2o1czRoNkRrVzN2b0RBX3FFRVphbUhUZmUtUGNrMlBZOFBsd2REeUZfUjBLWQ), [FT](https://www.ft.com/content/7b4b646a-414c-46fe-9fbb-7f773632f860)). Air France-KLM is cautiously resuming Gulf flights, returning to Riyadh while keeping Dubai, Tel Aviv, and Beirut closed ([BBG](https://www.bloomberg.com/news/videos/2026-06-07/air-france-klm-ceo-discusses-resuming-gulf-flights-video)).
+US nonfarm payrolls surged by `172,000` in May, nearly double expectations, and the unemployment rate held at `4.3%` ([WallstreetCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vd2JYMm9uc2U4WUYyNEJwQ2xjQlBoOGtkcWk5dS11ZnduT2FWN0lCaWl0ZjRBTEpPdTNFWk9JNUFkeURad0xrekczOFNZZ3RpdFdJ)). Goldman Sachs dropped its rate-cut call and no longer expects the Fed to reduce rates this year ([WallstreetCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE81QVVIOGY0XzBEN1RnY2U2SHV4b2QyZl9IUjBMREh0ajVMVkM2TzF6ekx4SHR0UUVnRzI2RlpaSm1WeU5ZZEN0ZklJUkhid29EazFF)). The “new Fed wire” reported that hawkish Fed officials may restart rate hikes ([WallstreetCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmYnVFRHFsV3FpT3I5emg1c3ZPdGpIVkhTY1dTWFJhSlUxUXl2VVJjRmM1cXpyZjFNNzVTS1FOczNXMTdoS3h0ZnVoOVBPZlpwd0FN)). The Nasdaq and S&P 500 suffered their worst day of the year as AI stocks tumbled and Fed rate-hike odds jumped ([CNN](https://news.google.com/rss/articles/CBMickFVX3lxTE1qZ1JvYUtaNTZFYjUyTEVzZzlJMzBUTmFGOHVCYzNrS2o3ZHYyR2RPOFp3c1oybEJTNS1tQXJmZGhENGtJR3V3YV90YnRmM0R3SnZMRHozLV82am42ZGo1dmY0djRSLWJ1TzhGZ0JSeGNpQQ)). US chip stocks erased more than `$1 trillion` in market value in a single day, with the Philadelphia Semiconductor Index posting its biggest one-day drop in six years ([WallstreetCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ldFphWTlzN0NRU3dRU19WN1pTY2tualY0S0ZaejVCLUV0VEFtNVQxSTNMVG05OWRTTDFRdlFSS09pbnZsZnZiMzRfRW1PMEpPRDNJ)). Gold erased all 2026 gains and silver crashed `8.5%` as the strong jobs data boosted rate-hike expectations ([WallstreetCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1UkhkUFRkc2dlWEplVDlIM0Q1S0xCNHlZSVg2bjBOcWZ2bWZwUF9obzFvQVZXV3VtMmp3bVNRZlhGMzhyZWpPRFM2MVpzUHJObndR)). Trump’s NEC Director Kevin Hassett said market pricing for a rate hike is wrong, and Trump claimed the “terrific” jobs report should lift stocks ([WallstreetCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CN3hxdVN4aUdmVDFpd05rVGdTRVphanUzeXRfV2k4LTRtRG44QVFCWE81ZFo3TXZiT3NDbTItYldyWXkzQzR5MGZUS243Q1dkOWxB)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Acceleration from prior Iran escalation state; missile volleys, Trump’s ultimatum to Netanyahu, and shipping-restricted OPEC+ hike intensify both oil supply and geopolitical risk.
-> * **Transmission / Market Read**: Risk-premium and inflation channels favor **long Brent**, **short KRW**, and **long USD/Asia FX** until ceasefire solidifies or supply chains normalize.
-> * **Watchpoint / Confidence**: Netanyahu’s response to Trump’s “no choice” pressure and any further missile exchange; Confidence: High given cross-source confirmation and immediate oil price reaction.
+> * **Narrative change**: Acceleration. Prior hawkish Fed repricing now becomes a “no-cut” consensus; gold wipeout and chip crash signal a regime shift.
+> * **Transmission / Market Read**: Rate-hike and USD-strength channel; favors **short gold/silver**, **short Asia FX**, **long USD**, and **short US tech/risk**.
+> * **Watchpoint / Confidence**: US CPI release this week confirming or cooling the wage/inflation impulse; Confidence: High due to multi-source confirmation of payroll beat and Fed repricing.
 
-### 📌 Fed Rate Repricing Hardens on Goldman Shift and Trump Pressure
+### 📌 North Korea declares nuclear program “irreversible” ahead of Xi visit
 
 **Fact**
-Goldman Sachs no longer expects a Federal Reserve interest-rate cut this year ([BBG](https://www.bloomberg.com/news/articles/2026-06-07/goldman-sachs-no-longer-expects-fed-interest-rate-cut-this-year-mq44uu26)). Bond traders are betting on a CPI surge that bolsters the case for a Fed policy pivot ([BBG](https://www.bloomberg.com/news/articles/2026-06-07/bond-traders-bet-on-a-cpi-surge-that-bolsters-case-for-fed-pivot)). President Trump said a Fed rate increase would be wrong ahead of Kevin Warsh’s debut as Fed chair, again calling for a cut ([BBG](https://www.bloomberg.com/news/articles/2026-06-07/trump-says-fed-rate-increase-would-be-wrong-again-calls-for-cut), [FT](https://www.ft.com/content/056789c0-d316-4b02-be24-2f75208790dd)). Voters are souring on Trump’s handling of inflation and grocery prices as the Iran war deepens discontent, according to an FT poll ([FT](https://www.ft.com/content/e8a0a845-c812-4158-ba1b-85613719f861)).
+North Korea said on Sunday that its nuclear weapons programme was “irreversible”, challenging the US push for denuclearisation a day before Chinese President Xi Jinping’s visit ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3356257/north-korea-says-its-nuclear-programme-irreversible-ahead-chinese-leaders-visit), [Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxOVjIxc3JQdWJBUHNieVRPZjF0RUlyZjBBdVJjSFNrdEVJRTEwakEydDJjaEtNc0d6WE5BY3JhbkE5ZXlvc3ZkYUxzVW8tQzhoSklGNE9jMmZEcnk3dU1lZ0prd3ZBc2VqUGMtdlN2eUNVVFlvSkd0OHR4RlBvb05oaE9DbkRFT2JMaGVjQzRoTWYtcmdIdWM5TEJ4c3NicFFzZG5YdjVzODFJeUZ1TDR2d1otbVF4YXM)). Kim Jong-un’s sister Kim Yo-jong issued the statement, while Kim separately stated he sees a nuclear deterrent role for the navy ([BBG](https://www.bloomberg.com/news/articles/2026-06-06/north-korea-s-kim-says-he-sees-nuclear-deterrent-role-for-navy)). Analysts see the timing as calibrated to Xi’s arrival, with Kim seeking to project confidence and defiance ([Reuters](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMGZqUnhSNFBwVl9yTk1La2t0a2g0SzNranpqS0F2c1BJQ3NHRHJoaXVfMEQ2aGVaMVRWTXV0c2FiNFZsaEtNbGg4LTQzM2pSYk85Q3NnUktzekt4OXNfeWZ2LUFmVUdSTHpXNTZpOWZwWFVrT3poZWQ1UTJONHNieHhLUVM3QURwSlB2cDhxY0JTTEYzUXlrZ1daYnlfS2NXWktZTGJ2RU4zUQ)). Separately, Xi’s visit to Pyongyang, his first in seven years, aims to reinforce ties at a time when denuclearisation appears increasingly out of reach ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3356235/will-xis-north-korea-visit-show-kim-china-remains-pyongyangs-most-vital-ally)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Confirmation of prior hawkish Fed repricing, accelerated by Goldman’s reversal and mounting inflation anxiety from oil and CPI bets.
-> * **Transmission / Market Read**: Policy channel supports **higher US yields** and **stronger USD**, weighing on **Asia FX** and **risk-sensitive equities**, with tech selloff reinforcing tightening conditions.
-> * **Watchpoint / Confidence**: CPI print and any Warsh speech; Confidence: High—multiple major banks aligning with higher-for-longer pricing.
+> * **Narrative change**: Acceleration. Nuclear irreversibility rhetoric raises the stakes for Northeast Asia security just as Xi arrives in Pyongyang.
+> * **Transmission / Market Read**: Geopolitical risk-premium channel; supports **short KRW**, **short TWD**, and **long gold** on tactical haven spikes despite the broader gold rout.
+> * **Watchpoint / Confidence**: Any joint communiqué or missile test during Xi’s visit that signals military coordination or provocation; Confidence: Medium, multi-source but dependent on action over words.
 
-### 📌 North Korea Nuclear Rhetoric Ahead of Xi Visit
+### 📌 China FX reserves rise, PBOC accelerates gold purchases for 19th straight month
 
 **Fact**
-North Korea says its nuclear programme is “irreversible” ahead of Chinese leader Xi Jinping’s visit, with Kim Yo-jong rejecting the “anachronistic” US push for denuclearisation ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3356257/north-korea-says-its-nuclear-programme-irreversible-ahead-chinese-leaders-visit)). Beijing is concerned about Pyongyang’s closer ties with Russia and is expected to highlight the importance of its economic support, with Xi’s North Korea visit seen as a bid to show Kim that China remains its most vital ally ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3356235/will-xis-north-korea-visit-show-kim-china-remains-pyongyangs-most-vital-ally)). North Korean leader Kim Jong Un has inspected munitions at a weapons factory ([Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/6/7/north-koreas-kim-jong-un-inspects-munitions-at-weapons-factory-2)).
+China’s foreign exchange reserves rose to `$3.4422 trillion` at the end of May, up from the prior month ([Xinhua](https://www.news.cn/fortune/20260607/3d8c22b3b655420c862dc3fac1774144/c.html), [Caixin](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KUUFONFFaWXZaRTBXRmI5NlBxMnBQYk9BZnRzT0x4TV8xSURoYnFrNlYxamZSVllkV296UFpOckZVeE1IaUZMc0N5VnlDSGVYSFdJaFBVTHpEQkxEeHJPZHVB)). The PBOC added `320,000 ounces` of gold to its reserves in May, marking the 19th consecutive month of purchases ([WallstreetCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yY0U3cDBqVjN2a2djbmdpanBqb1locWJYV09pTUtvcUFTLWF0eGRJT1I2VE11UFIteFVidUdVTkxHQXhCUFBpTkMyeU9PUWJWZEJn), [Caixin](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KUUFONFFaWXZaRTBXRmI5NlBxMnBQYk9BZnRzT0x4TV8xSURoYnFrNlYxamZSVllkV296UFpOckZVeE1IaUZMc0N5VnlDSGVYSFdJaFBVTHpEQkxEeHJPZHVB)). The stockpile accumulation comes as China seeks to diversify away from dollar assets amid rising geopolitical tensions.
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Acceleration of prior North Korean naval nuclear narrative; official “irreversible” declaration and munitions inspection harden the threat posture just as Xi arrives.
-> * **Transmission / Market Read**: Risk-premium channel tilts toward **short KRW** and **long JPY** on defensive flows, with potential spillover if a joint statement or provocation materializes.
-> * **Watchpoint / Confidence**: Xi-Kim summit communiqué and any missile test during the visit; Confidence: Medium due to elevated rhetoric but no kinetic action yet.
+> * **Narrative change**: Confirmation of the PBOC’s steady de-dollarization, providing a modest cushion for the yuan against broad USD strength.
+> * **Transmission / Market Read**: Reserve-management and confidence channel; supports a tighter **USD/CNH** trading range and limits CNH depreciation tail risks.
+> * **Watchpoint / Confidence**: Next month’s reserve data and any shift in the pace of gold purchases; Confidence: High, as the trend is well-established and multi-sourced.
+
+### 📌 South Korea unveils won-stabilisation measures as post-election protests erupt
+
+**Fact**
+South Korea unveiled measures to stem the won slide and curb speculation ([BBG](https://www.bloomberg.com/news/articles/2026-06-07/south-korea-unveils-measures-to-stem-won-slide-curb-speculation)). Separately, around `10,000` protesters gathered outside a vote-counting site on Saturday demanding a re-run of local elections after a ballot shortage, marking a second day of rallies ([SCMP](https://www.scmp.com/news/asia/east-asia/article/3356218/south-korean-protesters-demand-election-re-run-after-ballot-shortage)).
+
+> [!info] [AI Reasoning]
+> * **Narrative change**: Acceleration of Korea risk; FX intervention measures coincide with political fragility, compounding KRW pressure.
+> * **Transmission / Market Read**: Twin policy and governance risk channels; favors **short KRW** despite official steps, and **long USD/KRW** as elections risk lingers.
+> * **Watchpoint / Confidence**: BOK’s concrete intervention operations or political resolution in coming days; Confidence: Medium, source on measures is headline-only, protests confirmed.
 
 ---
 
 ## 🌍 Global Radar
 
-### 📊 Economic Indicators
-
-- Voters sour on Trump’s handling of inflation and grocery prices as the Iran war deepens discontent, an FT poll shows ([FT](https://www.ft.com/content/e8a0a845-c812-4158-ba1b-85613719f861)).
-
-### 🏦 Central Banks
-
-- Goldman Sachs no longer expects a Federal Reserve interest-rate cut this year ([BBG](https://www.bloomberg.com/news/articles/2026-06-07/goldman-sachs-no-longer-expects-fed-interest-rate-cut-this-year-mq44uu26)).
-
 ### 🌐 Geopolitics & Policy
-
-- European leaders are ready to support ceasefire talks between Ukraine and Russia ([Reuters](https://news.google.com/rss/articles/CBMilwFBVV95cUxQZjRUNmJIWk5NM3pWZURGaWt0Sm1FZWlzT0FFQTBfNkZWaGxsZjhzb2tpM0RvSnhUZEY5YVpSUmxlMUh0VkNKVjFDRnFVbjloajRBVWlpbUs4OGxHVWZMWUdQbzI4S3ZzMjBQTFpfWVRzZWxVQUlZWHBLUjJnSVo2T3o2MGNGb1FPbERwQ05KVmlRNkJud0Rz)).
-- China expanded its nuclear warhead stockpile over the past year and may have increased deployed numbers, while major powers are “walking away” from disarmament, according to SIPRI ([SCMP](https://www.scmp.com/news/china/military/article/3356269/china-adds-warheads-nuclear-powers-walk-away-disarmament-sipri)).
-- An Arab attacker opened fire in central Israel, killing one and wounding five, amid heightened tensions following Israeli settler attacks ([SCMP](https://www.scmp.com/news/world/middle-east/article/3356282/arab-attacker-opens-fire-central-israel-killing-1-and-wounding-5)).
-
-### 🛢️ Commodities
-
-- Oil prices jumped after Iran missiles threatened the fragile ceasefire, with traders worried about a return to all-out Middle East conflict ([FT](https://www.ft.com/content/7eced198-5045-4447-885b-7aa0dfe4490d)).
-
-### 📈 Equities
-
-- Japan’s stocks sank as the tech selloff and Iran tensions hit sentiment ([BBG](https://www.bloomberg.com/news/articles/2026-06-07/japan-s-stocks-set-to-sink-on-tech-selloff-middle-east-worries)).
+- **Beijing sent its largest patrol ship** east of Taiwan following Japan-Philippine boundary talks, with a coastguard flotilla already in the area ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3356242/beijing-sends-largest-patrol-ship-east-taiwan-after-japan-philippine-boundary-talks)).
 
 ---
 
@@ -88,59 +79,65 @@ North Korea says its nuclear programme is “irreversible” ahead of Chinese le
 
 | Time (HKT) | Rgn | Event | Est. | Prior |
 |---|---|---|---|---|
-| Jun 08 10:30 AM | **KR** | 3-Year KTB Auction | — | 3.583% |
-| Jun 08 01:00 PM | **JP** | Eco Watchers Survey Current | — | 40.8 |
-| Jun 08 01:00 PM | **JP** | Eco Watchers Survey Outlook | — | 39.4 |
-| Jun 08 02:00 PM | **DE** | Factory Orders MoM | -1.2% | 5% |
-| Jun 08 09:00 PM | **FR** | 12-Month BTF Auction | — | 2.588% |
-| Jun 08 09:00 PM | **FR** | 3-Month BTF Auction | — | 2.289% |
-| Jun 08 09:00 PM | **FR** | 6-Month BTF Auction | — | 2.440% |
-| Jun 08 11:00 PM | **US** | Consumer Inflation Expectations | — | 3.6% |
-| Jun 08 11:30 PM | **US** | 3-Month Bill Auction | — | 3.630% |
-| Jun 08 11:30 PM | **US** | 6-Month Bill Auction | — | 3.665% |
-| Jun 09 07:00 AM | **KR** | GDP Growth Rate QoQ Final | 1.7% | -0.2% |
-| Jun 09 07:00 AM | **KR** | GDP Growth Rate YoY Final | 3.6% | 1.6% |
-| Jun 09 07:01 AM | **GB** | BRC Retail Sales Monitor YoY | 0.6% | -3.4% |
-| Jun 09 08:30 AM | **AU** | Westpac Consumer Confidence Change | — | 3.5% |
-| Jun 09 08:30 AM | **AU** | Westpac Consumer Confidence Index | — | 83 |
-| Jun 09 09:30 AM | **AU** | NAB Business Confidence | — | -24 |
+| 10:30 AM | KR | 3-Year KTB Auction | — | 3.583% |
+| 01:00 PM | JP | Eco Watchers Survey Current | — | 40.8 |
+| 01:00 PM | JP | Eco Watchers Survey Outlook | — | 39.4 |
+| 02:00 PM | DE | Factory Orders MoM | -1.2% | 5% |
+| 09:00 PM | FR | 12-Month BTF Auction | — | 2.588% |
+| 09:00 PM | FR | 3-Month BTF Auction | — | 2.289% |
+| 09:00 PM | FR | 6-Month BTF Auction | — | 2.440% |
+| 11:00 PM | US | Consumer Inflation Expectations | — | 3.6% |
+| 11:30 PM | US | 3-Month Bill Auction | — | 3.630% |
+| 11:30 PM | US | 6-Month Bill Auction | — | 3.665% |
+| 07:00 AM | KR | GDP Growth Rate QoQ Final | 1.7% | -0.2% |
+| 07:00 AM | KR | GDP Growth Rate YoY Final | 3.6% | 1.6% |
+| 07:01 AM | GB | BRC Retail Sales Monitor YoY | 0.6% | -3.4% |
+| 08:30 AM | AU | Westpac Consumer Confidence Change | — | 3.5% |
+| 08:30 AM | AU | Westpac Consumer Confidence Index | — | 83 |
+| 09:30 AM | AU | NAB Business Confidence | — | -24 |
 
 ---
 
 ## 📚 Full Reading List
 
 - **BBG**
-  - [Goldman Sachs No Longer Expects Fed Interest-Rate Cut This Year](https://www.bloomberg.com/news/articles/2026-06-07/goldman-sachs-no-longer-expects-fed-interest-rate-cut-this-year-mq44uu26)
-  - [Bond Traders Bet on a CPI Surge That Bolsters Case for Fed Pivot](https://www.bloomberg.com/news/articles/2026-06-07/bond-traders-bet-on-a-cpi-surge-that-bolsters-case-for-fed-pivot)
-  - [Trump Says Fed Rate Increase Would Be Wrong Ahead of Warsh Debut](https://www.bloomberg.com/news/articles/2026-06-07/trump-says-fed-rate-increase-would-be-wrong-again-calls-for-cut)
-  - [US Stock Futures Drop After Tech Selloff, Oil Up: Markets Wrap](https://www.bloomberg.com/news/articles/2026-06-07/us-stock-futures-drop-after-tech-selloff-oil-up-markets-wrap)
-  - [Japan’s Stocks Sink as Tech Selloff, Iran Tensions Hit Sentiment](https://www.bloomberg.com/news/articles/2026-06-07/japan-s-stocks-set-to-sink-on-tech-selloff-middle-east-worries)
-  - [Air France-KLM CEO Discusses Resuming Gulf Flights](https://www.bloomberg.com/news/videos/2026-06-07/air-france-klm-ceo-discusses-resuming-gulf-flights-video)
-  - [Air New Zealand Steps Up Flight Cuts as Fuel Costs Mount](https://www.bloomberg.com/news/articles/2026-06-07/air-new-zealand-steps-up-flight-cuts-as-fuel-costs-mount)
+  - [North Korea’s Kim Says He Sees Nuclear Deterrent Role for Navy](https://www.bloomberg.com/news/articles/2026-06-06/north-korea-s-kim-says-he-sees-nuclear-deterrent-role-for-navy)
+  - [Korea Unveils Measures to Stem Won Slide, Curb Speculation](https://www.bloomberg.com/news/articles/2026-06-07/south-korea-unveils-measures-to-stem-won-slide-curb-speculation)
+
 - **Reuters**
-  - [Taiwan coast guard 'expels' Chinese ships from restricted waters](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdVBmYXhiV1Z4ckpxR1dvTkxzdnhLekNsb1JabVhLeDVLLV9SeGpva1d4Q291MHc0UDkwSjl0N0h6TUpURXB1Zjdob0JzZzlCQ3NVZWh5NnRuVHVxLURubjBROXVIM2tuRmcwLUg0QWoyR3J0b0RiM2pOTEMwcm5EZXdISDZwLUhVZndQS0MxTmZENkppaGxtSlRiMFdIYjZEck9oZ3l5a2Y)
-  - [European leaders ready to support ceasefire talks between Ukraine, Russia](https://news.google.com/rss/articles/CBMilwFBVV95cUxQZjRUNmJIWk5NM3pWZURGaWt0Sm1FZWlzT0FFQTBfNkZWaGxsZjhzb2tpM0RvSnhUZEY5YVpSUmxlMUh0VkNKVjFDRnFVbjloajRBVWlpbUs4OGxHVWZMWUdQbzI4S3ZzMjBQTFpfWVRzZWxVQUlZWHBLUjJnSVo2T3o2MGNGb1FPbERwQ05KVmlRNkJud0Rz)
-- **WSJ**
-  - [Iran Fires Waves of Missiles at Israel After Israeli Airstrike on Beirut](https://news.google.com/rss/articles/CBMirwFBVV95cUxQWi1qZHpOOXlndl9pb25lRldfN09RVjVYVU1OQWt5OUVLRWl0UXpxblFyTjlwcV9oRVhKdGxfTlA5QnZTcVVYdHlNLVNENm5CYXRNNlNQSXF6U2c0ZVhxd0tkbXBBY19jUm9DTG9zbGtlY3VrTEJWMVVfMXNBemxVQ180MXk5SVI3dlB6a3dmN1dMQnpvUV9RaHFvd2lLZnJuUGoxUDJ5b09hSkUwcWhB)
-  - [OPEC, Allies Pledge Oil-Output Hike Even as Middle East War Chokes Exports](https://news.google.com/rss/articles/CBMivwFBVV95cUxPVWtaR2locV83bWJGRDhfd0tHS1g5WGQtNmpqZ2VTN2VqN29rRFNhN3VJanVjWGVfU1NiYTRUNWxkQXRxSnhKMzYtc1Y1VEhieDV4UHZUR2xxX3NlOGtwVGI2YlczR2FVNEwxc21COGFueHFaV0FtMVlMdlpDWTNoMFh1N1pfUFN6WlEybnRZZ3dKY2o1czRoNkRrVzN2b0RBX3FFRVphbUhUZmUtUGNrMlBZOFBsd2REeUZfUjBLWQ)
-- **FT**
-  - [Oil prices jump after Iran missiles threaten fragile ceasefire](https://www.ft.com/content/7eced198-5045-4447-885b-7aa0dfe4490d)
-  - [Trump says Netanyahu will have ‘no choice’ but to accept a deal with Iran](https://www.ft.com/content/a0ce59f9-fbde-49e8-9158-fba3d4079859)
-  - [Trump piles pressure on Warsh with call for rate cut](https://www.ft.com/content/056789c0-d316-4b02-be24-2f75208790dd)
-  - [Opec+ increases production quotas for fourth successive month](https://www.ft.com/content/7b4b646a-414c-46fe-9fbb-7f773632f860)
-  - [Voters sour on Trump’s handling of inflation and grocery prices — FT poll](https://www.ft.com/content/e8a0a845-c812-4158-ba1b-85613719f861)
-  - [How high will the Iran war push US inflation?](https://www.ft.com/content/994938d4-c97f-448e-a0b9-fdc55b9697cb)
+  - [North Korea reaffirms nuclear status a day before Chinese president's visit](https://news.google.com/rss/articles/CBMitwFBVV95cUxOVjIxc3JQdWJBUHNieVRPZjF0RUlyZjBBdVJjSFNrdEVJRTEwakEydDJjaEtNc0d6WE5BY3JhbkE5ZXlvc3ZkYUxzVW8tQzhoSklGNE9jMmZEcnk3dU1lZ0prd3ZBc2VqUGMtdlN2eUNVVFlvSkd0OHR4RlBvb05oaE9DbkRFT2JMaGVjQzRoTWYtcmdIdWM5TEJ4c3NicFFzZG5YdjVzODFJeUZ1TDR2d1otbVF4YXM)
+  - [With China's Xi in North Korea, Kim to project confidence, defiance](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMGZqUnhSNFBwVl9yTk1La2t0a2g0SzNranpqS0F2c1BJQ3NHRHJoaXVfMEQ2aGVaMVRWTXV0c2FiNFZsaEtNbGg4LTQzM2pSYk85Q3NnUktzekt4OXNfeWZ2LUFmVUdSTHpXNTZpOWZwWFVrT3poZWQ1UTJONHNieHhLUVM3QURwSlB2cDhxY0JTTEYzUXlrZ1daYnlfS2NXWktZTGJ2RU4zUQ)
+
 - **CNBC**
-  - [Fragile ceasefire in jeopardy as Iran reportedly fires missiles at Israel](https://www.cnbc.com/2026/06/07/iran-fires-missiles-israel-ceasefire-strains.html)
+  - [Oil prices rise after Iran fires missiles at Israel, escalating regional tensions](https://www.cnbc.com/2026/06/08/oil-prices-today-us-iran-missile-middle-east-israel-opec.html)
+
 - **SCMP**
   - [North Korea says its nuclear programme is ‘irreversible’ ahead of Chinese leader’s visit](https://www.scmp.com/news/china/diplomacy/article/3356257/north-korea-says-its-nuclear-programme-irreversible-ahead-chinese-leaders-visit)
   - [Will Xi’s North Korea visit show Kim that China remains Pyongyang’s most vital ally?](https://www.scmp.com/news/china/diplomacy/article/3356235/will-xis-north-korea-visit-show-kim-china-remains-pyongyangs-most-vital-ally)
-  - [China adds warheads as nuclear powers ‘walk away’ from disarmament: SIPRI](https://www.scmp.com/news/china/military/article/3356269/china-adds-warheads-nuclear-powers-walk-away-disarmament-sipri)
-  - [Arab attacker opens fire in central Israel, killing 1 and wounding 5](https://www.scmp.com/news/world/middle-east/article/3356282/arab-attacker-opens-fire-central-israel-killing-1-and-wounding-5)
-- **BBC** (none cited)
+  - [South Korean protesters demand ‘election re-run’ after ballot shortage](https://www.scmp.com/news/asia/east-asia/article/3356218/south-korean-protesters-demand-election-re-run-after-ballot-shortage)
+  - [Beijing deploys new missiles matching Patriots opposite Taiwan](https://www.scmp.com/news/china/military/article/3356216/beijing-deploys-new-missiles-matching-patriots-opposite-taiwan)
+  - [Beijing sends largest patrol ship east of Taiwan after Japan-Philippine boundary talks](https://www.scmp.com/news/china/diplomacy/article/3356242/beijing-sends-largest-patrol-ship-east-taiwan-after-japan-philippine-boundary-talks)
+
 - **CNN**
-  - [CNN speaks with Iranian Foreign Ministry spokesperson](https://news.google.com/rss/articles/CBMikwFBVV95cUxQSjRtcDZhT21LOEh4Si1GYnFKUnNZSHdPUjZXWlJrQUV6V2NDenp3MGRkLUlhdGJMSHBXRWNkdlFYRG1GNlUtM0sxU3FGZkVBU2l2bDlNemRTTloxSUdLQ2dYaVlxVURpalBBWUpqQk5GeFdqMGpfTHVCY3BXYm82ZVdEYWduOVNBS2hXWHN4a0dpMEE)
-- **Al Jazeera**
-  - [North Korea’s Kim Jong Un inspects munitions at weapons factory](https://www.aljazeera.com/video/newsfeed/2026/6/7/north-koreas-kim-jong-un-inspects-munitions-at-weapons-factory-2)
+  - [Nasdaq, S&P 500 suffer worst day of year as AI stocks tumble and Fed rate-hike odds rise](https://news.google.com/rss/articles/CBMickFVX3lxTE1qZ1JvYUtaNTZFYjUyTEVzZzlJMzBUTmFGOHVCYzNrS2o3ZHYyR2RPOFp3c1oybEJTNS1tQXJmZGhENGtJR3V3YV90YnRmM0R3SnZMRHozLV82am42ZGo1dmY0djRSLWJ1TzhGZ0JSeGNpQQ)
+  - [Exclusive: Iran supreme leader’s adviser says talks deadlocked over $24 billion and warns of wider war](https://news.google.com/rss/articles/CBMinwFBVV95cUxQWnA5aVNZalFpYVdlWHJuSE41QUlIbGFrNkdiV1Q3RzdTekJqM2oza09hcWZZMFBUNVlGN3g4eVZUc3puNmZWNjJERWFNYTRZRkZRd2pIcVVEam5KSTFmcWxlZG93ejJONDdVMnhzcVdXblB1OTQ0eG84RG9pZ1lHTlJmTXQ1UWF1VnVmZEhZNG1paEc0anlDUlBYejBPWU0)
+  - [Ukraine targets St. Petersburg in what Russia calls an ‘unprecedented’ attack](https://news.google.com/rss/articles/CBMifEFVX3lxTFBBYzFPMWhvZTUwYnJDeVVQb3FKTVRqTmpVY0tScDU5ZEsxenVFcGdYN2xhM2NiTkxjTkNyMk9sVWh6WGJXbWRPa01Ia2JQeHZfNmlibUh4T3IwTS02cGNkcDNiU005amVvWVg0aE8tb0NiWXBQbzIycGhvN2M)
+
 - **Caixin**
   - [5月中国央行“加仓”黄金32万盎司 外储升至3.44万亿美元](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KUUFONFFaWXZaRTBXRmI5NlBxMnBQYk9BZnRzT0x4TV8xSURoYnFrNlYxamZSVllkV296UFpOckZVeE1IaUZMc0N5VnlDSGVYSFdJaFBVTHpEQkxEeHJPZHVB)
+  - [5月中国机器人产业指数环比升6.4% 工业机器人出口增速超产量](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FLTU3a3NuNTBoQVlaaGFLQjVZZnlHdklwTlJjXzZ1RE55WHR1UFkwVHEyR1RtcG53cTIxNHRCbllKSGt0T3RkeUduUEJKNVR6YUd4WVA3VEF3cEQyX2NBVHNjczM)
+
+- **WallstreetCN**
+  - [炸裂！美国5月非农新增就业17.2万人，超过预期近一倍，失业率维持在4.3%](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vd2JYMm9uc2U4WUYyNEJwQ2xjQlBoOGtkcWk5dS11ZnduT2FWN0lCaWl0ZjRBTEpPdTNFWk9JNUFkeURad0xrekczOFNZZ3RpdFdJ)
+  - [强劲非农后，高盛“投降”：不再预计美联储今年降息](https://news.google.com/rss/articles/CBMiU0FVX3lxTE81QVVIOGY0XzBEN1RnY2U2SHV4b2QyZl9IUjBMREh0ajVMVkM2TzF6ekx4SHR0UUVnRzI2RlpaSm1WeU5ZZEN0ZklJUkhid29EazFF)
+  - [非农重燃通胀担忧，“新美联储通讯社”：美联储鹰派或重启加息](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmYnVFRHFsV3FpT3I5emg1c3ZPdGpIVkhTY1dTWFJhSlUxUXl2VVJjRmM1cXpyZjFNNzVTS1FOczNXMTdoS3h0ZnVoOVBPZlpwd0FN)
+  - [黄金抹去2026年全部涨幅，白银单日暴跌8.5%，美国强劲就业数据推升加息预期](https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1UkhkUFRkc2dlWEplVDlIM0Q1S0xCNHlZSVg2bjBOcWZ2bWZwUF9obzFvQVZXV3VtMmp3bVNRZlhGMzhyZWpPRFM2MVpzUHJObndR)
+  - [美国芯片股单日蒸发逾万亿美元市值，费城半导体指数创六年最大单日跌幅](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ldFphWTlzN0NRU3dRU19WN1pTY2tualY0S0ZaejVCLUV0VEFtNVQxSTNMVG05OWRTTDFRdlFSS09pbnZsZnZiMzRfRW1PMEpPRDNJ)
+  - [特朗普称美股应随“绝佳”就业报告上涨，哈塞特表示定价年内加息是错误的](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CN3hxdVN4aUdmVDFpd05rVGdTRVphanUzeXRfV2k4LTRtRG44QVFCWE81ZFo3TXZiT3NDbTItYldyWXkzQzR5MGZUS243Q1dkOWxB)
+  - [中国央行加速增持黄金！连续19个月增持，5月环比增加32万盎司](https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yY0U3cDBqVjN2a2djbmdpanBqb1locWJYV09pTUtvcUFTLWF0eGRJT1I2VE11UFIteFVidUdVTkxHQXhCUFBpTkMyeU9PUWJWZEJn)
+  - [高盛金属主管谈“金银铜铝”：金银承压，铜有风险，铝最确定](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aQmZJSWhoNmp1WFJhaVl4MF9xMUx6ajBlR0NhNnc5cnRTbFpsdW5JUjlGOU9Eb19MTlo5aVd1WFgybWxiTzRzSlpsMTlpTkd2X19J)
+
+- **Xinhua**
+  - [5月末我国外汇储备升至34422亿美元](https://www.news.cn/fortune/20260607/3d8c22b3b655420c862dc3fac1774144/c.html)
+  - [主要产油国宣布7月继续保持增产](https://www.news.cn/fortune/20260607/e0743c175f56480d95d711934448694d/c.html)
+  - [韩国股市开盘暴跌熔断](https://www.news.cn/fortune/20260608/16694aeeebd1406aa086730952b1bd82/c.html)
