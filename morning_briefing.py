@@ -2443,8 +2443,20 @@ def _extract_overview(markdown):
     return "\n".join(part for part in overview if part).strip()
 
 
+def _strip_yaml_frontmatter(markdown_text):
+    """Remove Obsidian/MkDocs frontmatter from email-only markdown."""
+    lines = markdown_text.splitlines()
+    if not lines or lines[0].strip() != "---":
+        return markdown_text
+    for idx in range(1, min(len(lines), 80)):
+        if lines[idx].strip() == "---":
+            return "\n".join(lines[idx + 1:]).lstrip()
+    return markdown_text
+
+
 def _email_report_body(markdown_text):
-    """Keep email readable by excluding the link-heavy reading-list appendix."""
+    """Keep email readable by excluding frontmatter and link-heavy appendix."""
+    markdown_text = _strip_yaml_frontmatter(markdown_text)
     marker = "\n## 📚 Full Reading List"
     if marker in markdown_text:
         return markdown_text.split(marker, 1)[0].rstrip()
