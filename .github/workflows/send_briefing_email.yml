@@ -24,7 +24,7 @@ permissions:
 
 jobs:
   send:
-    if: github.event_name == 'workflow_dispatch' || startsWith(github.event.head_commit.message, 'Send briefing email:')
+    if: github.event_name == 'workflow_dispatch' || startsWith(github.event.head_commit.message, 'Send briefing email:') || startsWith(github.event.head_commit.message, 'Briefing ')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -60,14 +60,22 @@ jobs:
           commit_message = os.environ.get("COMMIT_MESSAGE", "")
 
           if not report_path:
-              prefix = "Send briefing email:"
-              if not commit_message.startswith(prefix):
-                  raise SystemExit("Missing report_path and no Send briefing email commit message")
-              payload = commit_message[len(prefix):].strip().split()
-              if not payload:
-                  raise SystemExit("Commit message must be: Send briefing email: <report_path> [morning|afternoon]")
-              report_path = payload[0]
-              briefing_label = payload[1] if len(payload) > 1 else "morning"
+              if commit_message.startswith("Send briefing email:"):
+                  payload = commit_message[len("Send briefing email:"):].strip().split()
+                  if not payload:
+                      raise SystemExit("Commit message must be: Send briefing email: <report_path> [morning|afternoon]")
+                  report_path = payload[0]
+                  briefing_label = payload[1] if len(payload) > 1 else "morning"
+              elif commit_message.startswith("Briefing "):
+                  # Local/launchd deploy commits look like:
+                  # Briefing 2026-06-09-morning 08:32 (HKT)
+                  report_stem = commit_message.split()[1]
+                  if not (report_stem.endswith("-morning") or report_stem.endswith("-afternoon")):
+                      raise SystemExit(f"Cannot infer report from commit message: {commit_message}")
+                  briefing_label = "morning" if report_stem.endswith("-morning") else "afternoon"
+                  report_path = f"docs/past/{report_stem}.md"
+              else:
+                  raise SystemExit("Missing report_path and unsupported commit message")
 
           path = Path(report_path)
           report = path.read_text(encoding="utf-8")
