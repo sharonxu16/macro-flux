@@ -1,26 +1,24 @@
-# Macro State — Last updated: 2026-06-08
+# Macro State — Last updated: 2026-06-09
 
-## Active Narratives (max 4)
-- **Tech Deleveraging & AI Rout in Seoul** — Status: Acceleration; KOSPI crashes over 8%, circuit breakers fired, leveraged ETF malfunctions as crowded long-tech positions unwind violently on Fed hike fears. Next trigger: BOK/FSS emergency stabilization measures, margin call volume data.
-- **Fed Hawkish Repricing & USD Surge** — Status: Confirmation; dollar hits two-month peak as rate-hike bets ramp, tightening global financial conditions and crushing EM and Asian FX. Next trigger: US consumer inflation expectations release, FOMC decision next week.
-- **Xi-Kim Summit & North Korea Nuclear Posturing** — Status: Confirmation; Xi’s arrival in Pyongyang with full military honors, denuclearization off the table, and Russian-backed military tech transfers sustain elevated peninsula risk. Next trigger: joint statement or military demonstration.
-- **Global Demand Slowdown Alarms** — Status: New; Singapore PM warns on growth risks, German factory orders miss badly, Iran war chokes e-commerce and oil supply, signaling a broadening demand shock beyond Asia tech.
+## Active Narratives
+- **Tech Deleveraging Pauses on Iran‑Israel Cool‑Down but Pentagon Blacklist Reinjects Risk** — Status: Reversal/New; Asian equities bounce as AI rout pauses, but US blacklisting of Alibaba, BYD and Baidu threatens a fresh leg down for China‑linked tech names. Next trigger: opening‑gap reaction in ADRs and HK/Shanghai tech shares.
+- **Fed Hawkish Repricing Sustains USD Pressure on EM** — Status: Confirmation; Citadel Securities warns of a forced rate hike, and US household financial worries spike to mid‑2022 highs, keeping Fed‑tightening bets elevated and propping up the dollar against Asian FX.
+- **Xi‑Kim Summit Cements No‑Denuclearisation Stance, Raises KRW Risk Premium** — Status: Confirmation; the four‑point proposal and open‑ended military cooperation language remove any near‑term diplomatic off‑ramp, supporting a structural premium on USD/KRW.
+- **Global Demand Softening Deepens** — Status: Acceleration; US household stress, China car‑sales downturn, and NY Fed job‑seeker woes broaden the demand‑slowdown signal beyond manufacturing, threatening a negative feedback loop for EM exports.
 
-## Watchpoints (max 5)
-- Circuit breaker re-trigger or official stabilization statement from Korean financial authorities.
-- KRW spot testing intervention levels; BOK or MOEF verbal or actual FX smoothing.
-- Xi-Kim joint communiqué for any nuclear or military cooperation language.
-- US consumer inflation expectations tonight and NFIB survey tomorrow for Fed hike conviction.
-- ECB rate decision this week; economists warn of 2011-style policy error.
+## Watchpoints
+- Gap‑down or sharp sell‑off in Alibaba, BYD, Baidu ADRs/HK shares at the Asian open; any official Chinese retaliation.
+- Circuit‑breaker re‑trigger or emergency stabilisation statement from Korean financial authorities.
+- Joint Xi‑Kim communiqué that mentions explicit military technology transfers.
+- US NFIB survey (today) and US consumer inflation expectations for further Fed hike conviction.
+- KOSPI daily close relative to prior‑session circuit‑breaker levels; sustained weakness would confirm dead‑cat bounce.
 
-## Open Questions (max 3)
-- Will forced Korean tech deleveraging metastasize into a broader EM and Asia FX funding crisis?
-- Can the BOK or Korean government stem the equity rout without intervening directly in the FX market?
-- Does the Xi-Kim summit produce a de-facto China-North Korea-Russia axis that structurally raises Northeast Asia’s risk premium?
+## Open Questions
+- Will the Pentagon blacklist trigger a broader decoupling sell‑off that reverses the Asian equity rebound?
+- Can Korean authorities contain tech deleveraging without direct FX intervention, given reinvigorated geopolitical risk?
+- Does the Xi‑Kim axis reach a de‑facto military cooperation pact that structurally reprices Northeast Asia assets?
 
-## Key Levels (max 5)
-- KOSPI: down over 8% intraday, triggering circuit breakers ([BBG](https://www.bloomberg.com/news/articles/2026-06-08/korean-stocks-tumble-as-investors-rush-to-offload-tech-shares)).
-- USD index: two-month highs as Fed hike bets ramp ([Reuters](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSjVId2FNeVRWMUxYOThKUi1uRmtrZzhnTnQ2U01uQTNDWFpVWFItUzRMT3BPWTFkU0pGajQ4WHRWMjNYb1JMSWl0bzYtTzRuQlg0WUdvdUkzdjRDc1VyUTA4c3VHSEZRZ01vNmhSZ1B6andZM1R4TVhTWjE5ZnBmeTh6aWpGWWFZQmdXQ21qVnB5ZHI2Zm9DTHFqbHI1SFdvXzNzYVc3NUk)).
-- RBI FX defense tool: surpasses `$110 billion` mark, a new record ([BBG](https://www.bloomberg.com/news/articles/2026-06-08/india-rupee-defense-lifts-key-forex-tool-past-110-billion-mark)).
-- Asia coal benchmark: highest in over two years on Indonesia export rules ([BBG](https://www.bloomberg.com/news/articles/2026-06-08/asia-coal-prices-rise-to-22-month-high-on-indonesia-export-rules)).
-- German factory orders: larger-than-expected decline in April ([BBG](https://www.bloomberg.com/news/articles/2026-06-08/german-factory-orders-fell-more-than-expected-in-april-on-cars)).
+## Key Levels
+- KOSPI: previous session’s circuit‑breaker level; any close below that would invalidate the bounce ([BBG](https://www.bloomberg.com/news/articles/2026-06-08/stock-market-today-dow-s-p-live-updates)).
+- USD index: off two‑month highs but supported by Citadel’s forced‑hike warning ([BBG](https://www.bloomberg.com/news/articles/2026-06-08/citadel-securities-sees-risk-of-fed-forced-to-raise-rates-soon)).
+- China trade balance and exports/imports data (11:00 HKT) will be the next hard‑data test of external demand strength.
