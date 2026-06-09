@@ -57,6 +57,7 @@ jobs:
 
           report_path = os.environ.get("INPUT_REPORT_PATH", "").strip()
           briefing_label = os.environ.get("INPUT_BRIEFING_LABEL", "").strip()
+          subject_prefix = ""
           commit_message = os.environ.get("COMMIT_MESSAGE", "")
 
           if not report_path:
@@ -66,6 +67,7 @@ jobs:
                       raise SystemExit("Commit message must be: Send briefing email: <report_path> [morning|afternoon]")
                   report_path = payload[0]
                   briefing_label = payload[1] if len(payload) > 1 else "morning"
+                  subject_prefix = " ".join(payload[2:]) if len(payload) > 2 else ""
               elif commit_message.startswith("Briefing "):
                   # Local/launchd deploy commits look like:
                   # Briefing 2026-06-09-morning 08:32 (HKT)
@@ -79,6 +81,6 @@ jobs:
 
           path = Path(report_path)
           report = path.read_text(encoding="utf-8")
-          ok = mb.send_briefing_email(report, path.name, briefing_label, path)
+          ok = mb.send_briefing_email(report, path.name, briefing_label, path, subject_prefix=subject_prefix)
           raise SystemExit(0 if ok else 1)
           PY

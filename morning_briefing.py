@@ -2507,7 +2507,7 @@ def _markdown_email_html(markdown_text, title):
 </body>
 </html>"""
 
-def send_briefing_email(report_md, report_name, briefing_type, report_path=None, website_url=GITHUB_PAGES_URL):
+def send_briefing_email(report_md, report_name, briefing_type, report_path=None, website_url=GITHUB_PAGES_URL, subject_prefix=None):
     """Send a completion email when SMTP settings are configured."""
     recipients = _email_recipients()
     smtp_host = os.environ.get("SMTP_HOST", "").strip()
@@ -2525,6 +2525,8 @@ def send_briefing_email(report_md, report_name, briefing_type, report_path=None,
 
     label = briefing_type.capitalize()
     subject = f"Macro Flux {label} Briefing - {report_name.replace('.md', '')}"
+    if subject_prefix:
+        subject = f"{subject_prefix} - {subject}"
     email_report_md = _email_report_body(report_md)
     body_parts = [
         f"Macro Flux {label} briefing finished.",
