@@ -1,24 +1,25 @@
 # Macro State — Last updated: 2026-06-11
 
 ## Active Narratives
-- **US‑Iran War Enters New Phase of Escalation and Chinese‑Entity Sanctions** — Status: Acceleration; fresh strikes and sanctions on Chinese entities broaden the conflict’s financial and geopolitical footprint, sustaining risk premia and supply‑disruption fears. Next trigger: any ceasefire signal or further military action.  
-- **US Sticky Inflation Reinforces Fed Hike Bets Despite Soft Core CPI** — Status: Confirmation; headline CPI at `4.2%` keeps a 2026 hike fully priced, driving dollar strength and weighing on gold/silver, even with moderating core. Next trigger: US PPI tonight and FOMC next week.  
-- **BOJ June Hike in Doubt After Governor Ueda’s Hospitalisation** — Status: New; Ueda’s sudden absence threatens to derail a widely expected rate increase, weakening the yen and adding to Asia FX fragility. Next trigger: deputy governor comments on meeting plans and Ueda’s health update.
+- **US‑Iran De‑escalation Pause** — Status: New; cease‑fire hopes reverse oil and safe‑haven trades, unwinding morning risk premia. Next trigger: official confirmation of talks or renewed strikes.
+- **ECB Hikes Into Energy‑Driven Inflation** — Status: Confirmation; first hike since 2023 arrives with Iran war as an emergency accelerant. Next trigger: ECB statement and press conference tone on growth vs. inflation.
+- **China‑EU Trade Tensions Spike** — Status: New; abrupt cancellation of high‑level meetings re‑prices trade war risk across euro‑linked and Chinese assets. Next trigger: EU retaliation or any resumption signal.
+- **BOJ June Hike Still Priced Despite Ueda Hospitalization** — Status: Acceleration; markets still expect a hike, but political uncertainty from Ueda’s absence creates a tail risk for a dovish surprise. Next trigger: deputy governor comments and Ueda health update.
 
 ## Watchpoints
-- US‑Iran 48‑hour de‑escalation or further kinetic action (ceasefire or new strike).  
-- US PPI release tonight — any upside shock that cements a Fed hike and lifts USD.  
-- BOJ deputy governor statement on Ueda’s ability to participate in the June meeting; yen reaction if delay becomes explicit.  
-- Taiwan‑China and North Korea tensions — any further military signalling or sanctions responses.  
-- ECB decision tomorrow — rate move path amid Iran war uncertainty and regional growth.
+- US‑Iran statement within 24h confirming or denying ceasefire.
+- US PPI tonight (8:30 HKT) — an upward shock cements USD bid, a soft read opens the door to risk‑on rotation.
+- ECB decision and Lagarde press conference (20:15 HKT) — any dovish nuance on Iran‑energy pass‑through reverses EUR gains.
+- China‑EU trade‑talk status change in next 48h — any EU retaliation escalates CNH and EUR/CNH risk.
+- BOJ deputy governor signals on whether June meeting proceeds normally; market pricing for a hike vs. delay.
 
 ## Open Questions
-- Will the US‑Iran conflict broaden to involve Chinese‑linked entities directly, elevating US‑China trade and financial sanctions risk?  
-- Can the Fed’s hike expectations withstand a series of softer core prints, or will the dollar correct if growth fears emerge?  
-- Does Ueda’s hospitalisation delay the BOJ hike, and how will recent yen weakness influence the deputy’s decision?
+- Will the Iran ceasefire stick, or is this a temporary pause that keeps energy risk premium elevated?
+- Does the ECB’s hike cement a broader DM tightening wave that pressures Asia FX further, or does peace hope reduce that pressure?
+- Can China’s break with the EU compound into a broader decoupling, and will it force the renminbi weaker?
 
 ## Key Levels
-- Brent crude: sustained move above immediate resistance on physical supply fears from fresh Iran strikes; recent oil price rise on the day confirms upward pressure ([Xinhua](https://www.news.cn/fortune/20260611/7201455f33e04e70b9cc12f8dcd298a3/c.html)).  
-- USD/JPY: yen weakness after Ueda news; no explicit level published, but a break above recent range would signal faster depreciation momentum ([WSJ](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSGFuWDBFTi1Relc0ZnhhQ29reEJmTnpXbmNFdTdMakwzRnpnbEdObU94bUw5MVZVX1AwaldYXzBpdzk4YXQ5MFpuY0k0SEFjZ09fWkF1LWs0V2dRZzQ0bjEtRzREZGxmdGlYUXZiQ0syeU5zX1V5cTdSaXVrOS0xbTlCYjBBUGdjc0ptNTdfMWdsZk4tdWxtc19ENG5ZRy1vd011X2F2cUloVDNM)).  
-- Nasdaq: `2%` sell‑off on Iran escalation and tech rotation, reflecting risk‑off pressure ([WallstreetCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6ckVHYVZ5ekljUG96a3NxcElWU195LVVHcmNFaC1vWHB6M1gyS1ZyODVGOFZMQi1XdTB6Z042d2FvRlA5dlk2T0ZtemlFNC1uRDc0)).  
-- Gold: third day of decline despite geopolitical shock; the breakdown below recent support underscores the dominance of rate‑hike repricing over haven demand ([BBG](https://www.bloomberg.com/news/articles/2026-06-10/gold-falls-for-third-day-as-us-launches-fresh-strikes-on-iran)).
+- Brent crude: down `1%` intraday on ceasefire hopes, testing immediate downside ([WallstreetCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzWGNJWDZhNjF1N3lFbm1rcmpKVW5SdGhqTVBEWklOZENzUDAwaWRUUDlEdDZfUWNIZmN0T1E5ekI2U0Y0MGs4cmJKU1FtS3ZjeHFZ)).
+- Gold: stabilising near `$4085` after a six‑month low, capped by rate‑hike fears ([WallstreetCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzWGNJWDZhNjF1N3lFbm1rcmpKVW5SdGhqTVBEWklOZENzUDAwaWRUUDlEdDZfUWNIZmN0T1E5ekI2U0Y0MGs4cmJKU1FtS3ZjeHFZ), [Reuters](https://news.google.com/rss/articles/CBMitgFBVV95cUxOY0RQOFgzZFBuaHBaZ2wzd3gxeHhzU0hSX2tKYzBKaGhzeEo1NWtPc0NQTERGQ09KLWI5bDNTUTIyemNXZjRrTzJfWEZZMlh1VDZ4YUl2WlBtVjBIbXg5YjlGTzRQV2NlUmVUSUFpOTJMME5JRWRjS0Z5ajByRy1jSE5OUjZ4VEtvTlpFODJWMVRqWC12TEd1aUREWkpfLVJvN3NXeUFaU3ViRElTX3dkT3FNM2dNZw)).
+- Hang Seng: down `158 points`, recovers `24,000` but Alibaba leading losses on regulatory setback ([HKEJ](https://news.google.com/rss/articles/CBMiigNBVV95cUxPVVc4VVJPWTJ6SU5SUm5qaUx5aDZPMnJjTnVUSGJMOWJrNkEyd0I1TjJTSHFpSkp5ak9Tc2lUdnk2VmRma2U2ajF5RFhVMG1Sdm9iR2VyemdPQkhpUF9fbllpeEoyMjdsd09wejg1UkhQYXpMbFBiRENqNDZhVFFPN0xDUC1odWlWNGxlWm1MTnVSNzh5TFR3ZEJmLVFYZEt6WXBsOW5UMXpCT3BiVDV6RC02LUgwLV9KS0FCeTlsd0dweEtQYU5yZGlJdlo5OExTRy1wYlZ4ZWRWblRCYzRnUmlKWng4NGdCOU5JcEpMSnN5enJGc3hsR0M5VFBTYkJobG1EV0UySmVsb1VsOVVmRHZMMWZwMGlhVkUwRFUzd1NoRFhMeVc3VUZjZFBGV0FlYVN3Z3REZ1ZUU0RLUVZXZDRIcVBCTDUyYk5kRU9Ha2o4RFZhTi1oalc1Vkg2Tld4VTJIQnpjNDZ4R1FLYkpqRWE1N3MtZHpCeDZ6R216Z3duLVFiRHdRa1Nn)).
+- EUR/USD: poised for a knee‑jerk bid if the ECB hike is delivered without growth warnings, but fragile if dovish ([Reuters](https://news.google.com/rss/articles/CBMirwFBVV95cUxObkUxSDl1cTN2SUI4UEZoRHJOOVVHajBCRDhwR19lN2ItLWRITmxOamJOQi1oaHZNSEFGNFF6RE9fWXF5ZEtBbkFzQ0NIY2lqOFhTZm1fTkgwXzhJVlQ1RFlzREx2eHN4VEw2RTJ0NlpnSktfWHFzQVN2UTNyU3dneDZHclFjTkdnX0NyS0JSLVFsWEVTWTZHRm1vQ1BjX0hHT2R3QWN4QjV3RXVXTVhF)).
