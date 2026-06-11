@@ -195,7 +195,7 @@ HIGH_PRIORITY_KEYWORDS = [
 MEDIUM_PRIORITY_KEYWORDS = [
     "Fed", "Federal Reserve", "ECB", "BOE", "BOJ",
     "emerging market", "Asia FX", "Asia currency",
-    "trade war", "tariff", "sanction",
+    "trade war", "tariff", "tariffs", "sanction", "sanctions",
     "Korea", "Taiwan", "TSMC",
 ]
 
@@ -210,7 +210,7 @@ MAX_OUTPUT_TOKENS = 24576
 FEED_TIMEOUT = 10  # seconds per feed
 MAX_AGE_HOURS = 48
 LOCAL_TZ = timezone(timedelta(hours=8))  # HKT
-MAX_ENHANCE_ARTICLES = 30       # max articles to fetch full text for
+MAX_ENHANCE_ARTICLES = env_int("MAX_ENHANCE_ARTICLES", 45, min_value=10)
 ENHANCE_DELAY = 0.8             # seconds between full-text requests
 FETCH_ROUND_TIMEOUT_SECONDS = env_int("FETCH_ROUND_TIMEOUT_SECONDS", 180, min_value=30)
 ENHANCE_TIMEOUT_SECONDS = env_int("ENHANCE_TIMEOUT_SECONDS", 90, min_value=10)
@@ -245,6 +245,58 @@ CNN_MACRO_KEYWORDS = [
     "central bank", "Wall Street", "stimulus", "debt ceiling", "gdp",
     "consumer spending", "retail sales", "cost of living",
     "bailout", "supply chain", "shortage", "crisis",
+]
+
+MACRO_RELEVANCE_KEYWORDS = [
+    "fed", "federal reserve", "ecb", "boe", "boj", "bok", "rba", "pboc",
+    "central bank", "interest rate", "rate hike", "rate cut", "inflation",
+    "cpi", "ppi", "pce", "gdp", "pmi", "jobs", "payroll", "unemployment",
+    "treasury", "bond", "yield", "dollar", "currency", "fx", "yuan", "rmb",
+    "renminbi", "cny", "cnh", "hkd", "krw", "won", "twd", "sgd", "trade",
+    "tariff", "tariffs", "sanction", "sanctions", "export", "import", "oil", "crude", "gas", "lng",
+    "gold", "copper", "commodity", "shipping", "equities", "stocks", "market",
+    "futures", "volatility", "credit", "liquidity", "stimulus", "fiscal",
+    "debt", "default", "geopolitics", "war", "strike", "missile", "iran",
+    "taiwan", "korea", "china", "hong kong", "singapore",
+    "央行", "利率", "降息", "加息", "通胀", "通膨", "物价", "cpi", "ppi",
+    "人民币", "汇率", "离岸人民币", "在岸人民币", "美元", "美债", "收益率",
+    "关税", "制裁", "出口", "进口", "贸易", "原油", "油价", "黄金",
+    "股市", "债市", "财政", "刺激", "经济", "宏观",
+]
+
+LOW_RELEVANCE_PATTERNS = [
+    r"\bcelebrity\b", r"\bsports?\b", r"\bfootball\b", r"\bsoccer\b",
+    r"\bbasketball\b", r"\btennis\b", r"\bmotorcycle\b", r"\bcancer\b",
+    r"\bpope\b", r"\bchurch\b", r"\bbasilica\b", r"\btouris[mt]\b",
+    r"\brestaurant\b", r"\bmovie\b", r"\bfilm\b", r"\bmusic\b",
+    r"\bcrime\b", r"\bmurder\b", r"\bweather\b",
+    r"明星", r"体育", r"摩托", r"癌", r"教皇", r"教堂", r"电影", r"音乐",
+]
+
+HARD_MACRO_KEYWORDS = [
+    "fed", "ecb", "boe", "boj", "bok", "rba", "pboc", "central bank",
+    "interest rate", "rate hike", "rate cut", "inflation", "cpi", "ppi",
+    "pce", "gdp", "pmi", "jobs", "payroll", "treasury", "bond", "yield",
+    "currency", "fx", "yuan", "rmb", "renminbi", "cny", "cnh", "hkd",
+    "krw", "twd", "trade", "tariff", "tariffs", "sanction", "sanctions", "oil", "crude", "gold",
+    "commodity", "shipping", "futures", "volatility", "liquidity",
+    "stimulus", "fiscal", "debt", "default",
+    "央行", "利率", "降息", "加息", "通胀", "cpi", "ppi", "人民币",
+    "汇率", "美元", "美债", "收益率", "关税", "制裁", "出口", "进口",
+    "原油", "油价", "黄金", "财政", "刺激", "宏观",
+]
+
+BLOCKED_FULL_TEXT_MARKERS = [
+    "are you a robot",
+    "detected unusual activity",
+    "requiring captcha",
+    "please make sure you are authorized",
+    "enable javascript",
+    "access denied",
+    "subscribe now",
+    "sign in to continue",
+    "log in to continue",
+    "please verify you are a human",
 ]
 
 SOURCE_PROMPT_ORDER = [
@@ -515,7 +567,7 @@ def fetch_full_text(url, source):
             resp = urllib.request.urlopen(req, timeout=10)
             html = resp.read().decode("utf-8", errors="replace")
             text = _html_to_text(html, source)
-            if text and len(text) > 300:
+            if _usable_full_text(text):
                 return text
         except Exception:
             pass
@@ -527,12 +579,20 @@ def fetch_full_text(url, source):
         req = urllib.request.Request(proxy_url, headers={**HTTP_HEADERS, "Accept": "text/plain"})
         resp = urllib.request.urlopen(req, timeout=15)
         text = resp.read().decode("utf-8", errors="replace")
-        if text and len(text) > 500:
+        if _usable_full_text(text, min_chars=500):
             return text[:8000]  # cap at 8K chars per article
     except Exception:
         pass
 
     return None
+
+
+def _usable_full_text(text, min_chars=300):
+    """Reject crawler block pages before they can pollute the LLM prompt."""
+    if not text or len(text.strip()) < min_chars:
+        return False
+    lower = text.lower()
+    return not any(marker in lower for marker in BLOCKED_FULL_TEXT_MARKERS)
 
 
 def _fetch_pboc_html(name, url, window_start, window_end):
@@ -1008,15 +1068,28 @@ def _parse_published(entry):
     return None
 
 
+def _keyword_in_text(keyword, text):
+    """Match English keywords on token boundaries; keep substring matching for CJK."""
+    keyword = keyword.lower()
+    text = text.lower()
+    if re.fullmatch(r"[a-z0-9$%./&' -]+", keyword):
+        return re.search(rf"(?<![a-z0-9'’]){re.escape(keyword)}(?![a-z0-9'’])", text) is not None
+    return keyword in text
+
+
+def _any_keyword_in_text(keywords, text):
+    return any(_keyword_in_text(kw, text) for kw in keywords)
+
+
 def priority_score(title, summary):
     """Score an article by keyword matches. Higher = more relevant."""
     text = f"{title} {summary}".lower()
     score = 0
     for kw in HIGH_PRIORITY_KEYWORDS:
-        if kw.lower() in text:
+        if _keyword_in_text(kw, text):
             score += 10
     for kw in MEDIUM_PRIORITY_KEYWORDS:
-        if kw.lower() in text:
+        if _keyword_in_text(kw, text):
             score += 3
     return score
 
@@ -1179,8 +1252,10 @@ def fetch_all_feeds(window_start, window_end):
 
     all_articles.sort(key=lambda a: (-a["priority"], a["source"], a["title"]))
 
-    # Enhance top articles with full text — also parallelized
-    enhance_count = min(MAX_ENHANCE_ARTICLES, len(all_articles))
+    # Enhance prompt-eligible articles first so scarce full-text slots go to macro signal.
+    enhance_candidates = [a for a in all_articles if _is_prompt_eligible_article(a)]
+    enhance_candidates.extend(a for a in all_articles if a not in enhance_candidates)
+    enhance_count = min(MAX_ENHANCE_ARTICLES, len(enhance_candidates))
     enhanced = 0
 
     def _enhance_one(article):
@@ -1197,7 +1272,7 @@ def fetch_all_feeds(window_start, window_end):
     executor = ThreadPoolExecutor(max_workers=6)
     try:
         fut_to_article = {
-            executor.submit(_enhance_one, all_articles[i]): all_articles[i]
+            executor.submit(_enhance_one, enhance_candidates[i]): enhance_candidates[i]
             for i in range(enhance_count)
         }
         try:
@@ -1228,7 +1303,35 @@ def _is_cnn_macro_article(article):
     if not article["source"].startswith("CNN_"):
         return False
     text = f"{article['title']} {article.get('summary','')}".lower()
-    return any(kw in text for kw in CNN_MACRO_KEYWORDS)
+    return _any_keyword_in_text(CNN_MACRO_KEYWORDS, text)
+
+
+def _article_text_for_screening(article):
+    return f"{article.get('source', '')} {article.get('title', '')} {article.get('summary', '')} {article.get('full_text', '')}".lower()
+
+
+def _is_low_relevance_article(article):
+    text = _article_text_for_screening(article)
+    return any(re.search(pattern, text, flags=re.IGNORECASE) for pattern in LOW_RELEVANCE_PATTERNS)
+
+
+def _has_macro_relevance(article):
+    text = _article_text_for_screening(article)
+    if any(marker in text for marker in BLOCKED_FULL_TEXT_MARKERS):
+        return False
+    if _any_keyword_in_text(MACRO_RELEVANCE_KEYWORDS, text):
+        return True
+    return article.get("priority", 0) >= 3
+
+
+def _is_prompt_eligible_article(article):
+    """Keep prompt space for macro signal and drop obvious crawler/soft-news noise."""
+    if not _has_macro_relevance(article):
+        return False
+    text = _article_text_for_screening(article)
+    if _is_low_relevance_article(article) and not _any_keyword_in_text(HARD_MACRO_KEYWORDS, text):
+        return False
+    return True
 
 
 def _source_prompt_rank(source, order=SOURCE_PROMPT_ORDER):
@@ -1269,6 +1372,8 @@ def _select_prompt_articles(articles, long_window=False):
     """Select a bounded, high-signal article set for the LLM prompt."""
     from collections import Counter
 
+    original_count = len(articles)
+    articles = [a for a in articles if _is_prompt_eligible_article(a)]
     max_prompt_articles = MONDAY_MORNING_MAX_PROMPT_ARTICLES if long_window else MAX_PROMPT_ARTICLES
     max_general_articles = MONDAY_MORNING_MAX_GENERAL_ARTICLES if long_window else MAX_GENERAL_ARTICLES
     max_articles_per_source = MONDAY_MORNING_MAX_ARTICLES_PER_SOURCE if long_window else MAX_ARTICLES_PER_SOURCE
@@ -1314,9 +1419,11 @@ def _select_prompt_articles(articles, long_window=False):
         add(article, counts_as_general=True)
 
     meta = {
-        "articles_fetched": len(articles),
+        "articles_fetched": original_count,
+        "articles_after_quality_filter": len(articles),
+        "articles_filtered_quality": max(0, original_count - len(articles)),
         "articles_in_prompt": len(selected),
-        "articles_dropped": max(0, len(articles) - len(selected)),
+        "articles_dropped": max(0, original_count - len(selected)),
         "priority_articles_available": len(priority),
         "cnn_signal_articles_available": len(cnn_signal),
         "general_articles_in_prompt": general_count,
@@ -1340,6 +1447,8 @@ def build_prompt(articles, window_start_str, window_end_str, window_start, windo
             f"(source cap {selection_meta['max_articles_per_source']}, "
             f"general cap {selection_meta['max_general_articles']})"
         )
+    if selection_meta.get("articles_filtered_quality"):
+        print(f"  Prompt quality filter: removed {selection_meta['articles_filtered_quality']} low-signal/block-page article(s)")
 
     # Natural language date range for display
     def _fmt_dt(dt):
@@ -2711,6 +2820,7 @@ def main():
         "model": MODEL,
         "max_output_tokens": MAX_OUTPUT_TOKENS,
         "fetch_round_timeout_seconds": FETCH_ROUND_TIMEOUT_SECONDS,
+        "max_enhance_articles": MAX_ENHANCE_ARTICLES,
         "enhance_timeout_seconds": ENHANCE_TIMEOUT_SECONDS,
         "llm_timeout_seconds": LLM_TIMEOUT_SECONDS,
         "run_timeout_seconds": RUN_TIMEOUT_SECONDS,
