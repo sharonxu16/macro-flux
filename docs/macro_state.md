@@ -1,26 +1,25 @@
 # Macro State — Last updated: 2026-06-12
 
 ## Active Narratives
-- **US-Iran Peace Deal Imminent** — Status: New (Reversal from prior De-escalation Pause); Trump cancels strikes, signals weekend deal; rewrites entire cross-asset risk premium. Next trigger: Official confirmation or denial of signed deal.
-- **ECB Hikes With Hawkish Bias** — Status: Confirmation with Acceleration; first hike since 2023 lands, but Lagarde’s “broadening inflation” warning and July hike possibility extend the hawkish path. Next trigger: ECB minutes or official July guidance in next 48h.
-- **Stagflationary US Data Reinforces No-Cut Fed** — Status: Confirmation; PPI surge, tariff lock-in, and Yellen’s “no cuts” verdict solidify the Fed-on-hold narrative. Next trigger: Michigan inflation expectations tonight.
-- **China-EU Trade Tensions Spike** — Status: Confirmation; high-level meeting cancellations reported; potential CNH and EUR/CNH volatility. Next trigger: EU retaliation or any resumption signal.
+- **US-Iran Peace Deal Accelerating Toward Sunday Signing** — Status: Acceleration; Geneva memorandum report and Hormuz reopening claim lift probability from signaling to calendar event; rewrites energy risk premium and rate expectations across all assets. Next trigger: Sunday Geneva signing outcome.
+- **Israel-Lebanon Escalation Vector Emerges** — Status: New; Israeli defense minister warns of large-scale Lebanon operations, US pledges military support; introduces independent risk premium offset to Iran peace optimism. Next trigger: Israeli kinetic action or US force posture change within 24-72h.
+- **ECB Hawkish Path Solidifies** — Status: Confirmation with Acceleration; Nagel explicitly flags July hike, multiple council members endorse tightening as energy shock broadens; ECB remains on track for second consecutive hike. Next trigger: ECB minutes or July guidance clarity.
+- **China Domestic Demand Weakness Persists** — Status: Confirmation; May credit growth slows on weak private demand despite policy push; yuan internationalization structural trend continues. Next trigger: PBOC MLF rate decision next week.
 
 ## Watchpoints
-- Iran confirmation or denial of signed weekend deal — the binary catalyst for risk-on versus risk-off reversal.
-- Michigan 5-year inflation expectations tonight — uptick above `3.9%` cements the stagflationary USD bid.
-- ECB officials’ comments on July hike probability in the next 48h; any dovish walkback reverses EUR gains.
-- BOK’s 50-year KTB auction today — yield direction amid global rate-hike pressures and improving risk sentiment.
-- China-EU trade talk status; any EU retaliation escalates CNH risk.
+- Sunday Geneva memorandum signing — confirmation or failure is binary catalyst for risk-on vs risk-off.
+- Michigan 5-year inflation expectations tonight — uptick above `3.9%` cements stagflationary USD bid against peace dividend.
+- Any Israeli kinetic action in Lebanon or US CENTCOM force posture change — would reintroduce Middle East risk premium.
+- ECB officials' July hike commentary over the weekend — any dovish walkback reverses EUR gains.
+- PBOC MLF operation next week — rate cut signal would confirm easing pivot.
 
 ## Open Questions
-- Will the Iran ceasefire stick, removing the energy risk premium entirely, or is this a temporary pause?
-- Does the ECB’s hawkish pivot survive the peace dividend if energy prices continue to fall?
-- Can the peace dividend overcome the stagflationary US data and tariff persistence to sustain a broad USD decline?
+- Will the Iran ceasefire stick and reopen Hormuz, or is this a temporary diplomatic pause that reverses on non-signature?
+- Does the Israel-Lebanon escalation threat materially offset Hormuz reopening optimism in energy and FX markets?
+- Can the peace dividend overcome persistent US stagflationary data and tariff lock-in to sustain a broad USD decline?
 
 ## Key Levels
-- Brent crude: extending declines, testing April lows on peace hopes ([BBG](https://www.bloomberg.com/news/articles/2026-06-11/latest-oil-market-news-and-analysis-for-june-12)).
-- Gold: settled at `$4090.30`, near six-month lows as haven demand fades ([WSJ](https://news.google.com/rss/articles/CBMiugFBVV95cUxNc2hJVHZ1YS13THpBS3NDN2pJNnloWmktQzlRYi1QNFg3TkQ2WEw0X3phai1jNkFmSnFPQUVycExLdHhoN19EMVUyaHBPV2RXcDRXUndGdFQwNnBiUW9FMERJSlNCYVZhcDhzT0ZMTkhFSEJ1eTY2WUhrOGJiZDEwaE5RSzVEZU1kSjhFUDAtUjNhZklsTk13bUMxQUhMOGdaM2JGd250enhjRlR3VVRwaXFoaXpkQ25sMGc)).
-- USD index: fell the most in a month as haven bid unwound ([BBG](https://www.bloomberg.com/news/articles/2026-06-11/dollar-drops-the-most-in-a-month-as-trump-says-the-war-is-ending)).
-- KOSPI: surged over `7%` in morning trade, retracing war-driven losses ([ChnFund](https://www.chnfund.com/article/AR8a1552fd-c165-c091-a63b-3a21cb6515b8)).
-- US PPI: largest annual gain in three-and-a-half years, reinforcing inflation stickiness ([Reuters](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYTVIQ0lPVDVsWHMxbEdTR0xKMWZDTFhYbjh3VTlEblpieUJZVXpWQTBGOWozZGRwNGE4VmwwSWNLUEN5dVR3Uk5PcmpPcDlpN1pRU2JCS2dNZTFua1daRGdFeHBBUUlvWUI0aFZ5S3JYb2h5aGFOTFFPdF8zY05RRE9fbHFPZXZ1Z2lGMnZ1TUJSSTdYTE5nTlN4Q2RPS0U5cFpjUWpmRVRBU18wZDhjZFJQUzloSUVMNXprZ2wwUGt2Mkk)).
+- Brent crude: dropped below `$89`, touching near two-month lows on peace hopes ([WSJ](https://news.google.com/rss/articles/CBMirAFBVV95cUxNREZGMkpKRHhuOTlBU3VScTdDWGtRZWV4OHdyVkZZbTR0UElBTVF6RWktTXNHbzFmNkJpTzBCMGpIRUo3RVVlSzJMV3EzT3ZMV0l0YXpDS2JsMFJHR2NWd2VtUS16SFJBYnY0S3hPWEU0aXNWVHd5dzMySDZtWWs2LUlRR2JTTGRHcEtWS2J5SmROa2l6QXA3aDFKdFk5QkdQd0F4UE4zUXpORkdT)).
+- USD index: firm after falling the most in over a month as traders weigh ceasefire prospects ([Reuters](https://news.google.com/rss/articles/CBMiswFBVV95cUxONC04MExBWDdBT2lMaDd6aXBldkN4VWRjV0N3TlEyLVVzQmloWDhGNTZLU2k0b2xUUW5KRjRMdmVobFZMc2l0TmY2dEhpamVwbWlmeEpnb1l0RkZnWEFZbTNXYWFBY0piNmZwTlZMNWJGenkxV3BpdGlrbWJKWjlNWlloOEhla3l3aVVTOWd5d0tacndjSFF5ZUJqNFF4T1lnUE8zYmJiTU5sZXpIbFVKU3B5aw)).
+- Michigan 5-year inflation expectations: prior `3.9%` — any uptick tonight reinforces stagflationary Fed-on-hold pricing.
+- Copper: surged on Iran peace deal prospects, reversing three-week lows ([BBG](https://www.bloomberg.com/news/articles/2026-06-12/copper-rallies-from-three-week-low-as-trump-flags-iran-deal)).
