@@ -1,22 +1,26 @@
-# Macro State — Last updated: 2026-06-14
+# Macro State — Last updated: 2026-06-15
 
 ## Active Narratives
-- **US-Iran Peace Deal — Signing Timeline Dispute** — Status: Reversal; Sunday ceremony absent from public schedule, introducing downside risk to risk‑on positions that had priced an imminent signing. Next trigger: Official ceremony announcement or delay statement before Monday open.
-- **China Cross‑Border Digital Currency Platform** — Status: New; Beijing rolls out multi‑central‑bank payments infrastructure aiming to compete with the dollar‑based system, a slow‑moving structural challenge with long‑term implications for CNH and DXY. Next trigger: Official launch or volume milestones.
-- **Global Central Bank Week — FOMC, BOJ, China Activity Data** — Status: Upcoming catalyst; the first FOMC meeting under Chair Warsh and a potential BOJ hike could repricing rate expectations, with Goldman flagging a Treasury‑yield threshold for equities. Next trigger: FOMC statement and dot‑plot, BOJ decision, China May data.
-- **Global Equity Momentum / Kospi MSCI Watch** — Status: Fading; no new developments today; fresh trigger would be MSCI consultation or reclassification announcement.
+- **US‑Iran Peace Deal — Signing Pending** — Status: Acceleration; deal agreement and promised Friday signing abruptly unwind war risk premium, but Israeli strikes and Iranian delay signals keep execution risk live; next trigger is Friday ceremony or pre‑positioning remarks.
+- **FOMC / BOJ Central Bank Week** — Status: Upcoming catalyst; Warsh’s inaugural meeting and a likely BOJ hike could repricing global rate expectations, with Goldman flagging `5%` 10‑year UST as equity threat; next triggers are BOJ rate decision Tuesday and FOMC dot‑plot Wednesday.
+- **China Domestic Demand Weakness** — Status: Confirmation; May credit data and consumption‑contraction warning reinforce the narrative of a two‑speed Chinese economy, fueling expectations for further PBOC easing; next trigger is Monday’s industrial production and retail sales.
+- **China Cross‑Border Digital Currency Platform** — Status: Confirmation; official launch of Shanghai entity and multi‑central‑bank backing solidifies de‑dollarization infrastructure; next trigger is concrete launch dates and transaction volumes.
 
 ## Watchpoints
-- Iran signing ceremony status by Monday Asian open — whether a deal is signed, postponed, or collapses.
-- Trump social media post before the Geneva window, setting tone for risk assets.
-- FOMC statement and dot‑plot: any shift in rate‑path projections that challenges the mid‑2027 hold consensus.
-- BOJ rate decision and forward guidance — a hike would strengthen JPY and tighten global financial conditions.
-- Chinese May activity data release — gauging post‑stimulus momentum.
+- Confirmation of Friday Iran deal signing ceremony — any delay or breakdown would reinstate oil risk premium.
+- BOJ rate decision and forward guidance on Tuesday; a hike accompanied by hawkish language would strengthen JPY and tighten global conditions.
+- FOMC statement and dot‑plot on Wednesday — any shift in rate‑path projections challenging mid‑2027 hold consensus.
+- China May industrial production and retail sales on Monday morning — a deeper consumer contraction would intensify CNH downside and PBOC action speculation.
+- Israeli‑Hezbollah escalation trajectory — further Beirut strikes could derail the US‑Iran deal and trigger risk‑off.
 
 ## Open Questions
-- Will the Iran deal be signed in time for Monday’s session, or will the process slide into G7 diplomacy next week?
-- Can the new China‑led payments platform gain adoption quickly enough to alter trade‑settlement flows in Asia and the Gulf?
-- Does South Korea’s MSCI moment materialise before global risk appetite turns on Iran deal disappointment?
+- Will Iran’s last‑minute demands or regional spoilers prevent the Friday signing and reopen the risk premium?
+- Does China’s consumer contraction accelerate into outright deflation, forcing a stronger PBOC response in the coming weeks?
+- Can the cross‑border digital currency platform gain critical adoption in Gulf‑Asia trade flows, or remains symbolic?
 
 ## Key Levels
-- Brent crude: Friday’s dip below `$86` on deal optimism poised for snapback toward `$90` on delayed ceremony ([SCMP](https://www.scmp.com/news/world/middle-east/article/3357026/trump-says-deal-end-war-be-signed-sunday-iran-questions-timing); [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/6/14/signing-of-us-iran-deal-not-on-trumps-public-schedule)).
+- Brent crude: Friday’s plunge below `$86` on deal hopes; a snap back above `$90` would signal deal failure or escalation, reversing risk‑on trades.
+- USD/JPY: sitting near multi‑decade highs with nine‑year speculative short yen bets; a BOJ hike could trigger a sharp move toward `145`.
+- 10‑year UST yield: Goldman’s `5%` threshold for equity stress; any move above that level could trigger broad risk‑off.
+- USD/CNH: hovering near recent peaks; weak China retail sales could push it toward `7.35`, while PBOC fixing strength may cap.
+- Japan and Korea equity indices: surged on Hormuz reopening; if the deal stalls, expect give‑back of most peace‑trade gains.
