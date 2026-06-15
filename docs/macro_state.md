@@ -1,26 +1,36 @@
 # Macro State — Last updated: 2026-06-15
 
 ## Active Narratives
-- **US‑Iran Peace Deal — Signing Pending** — Status: Acceleration; deal agreement and promised Friday signing abruptly unwind war risk premium, but Israeli strikes and Iranian delay signals keep execution risk live; next trigger is Friday ceremony or pre‑positioning remarks.
-- **FOMC / BOJ Central Bank Week** — Status: Upcoming catalyst; Warsh’s inaugural meeting and a likely BOJ hike could repricing global rate expectations, with Goldman flagging `5%` 10‑year UST as equity threat; next triggers are BOJ rate decision Tuesday and FOMC dot‑plot Wednesday.
-- **China Domestic Demand Weakness** — Status: Confirmation; May credit data and consumption‑contraction warning reinforce the narrative of a two‑speed Chinese economy, fueling expectations for further PBOC easing; next trigger is Monday’s industrial production and retail sales.
-- **China Cross‑Border Digital Currency Platform** — Status: Confirmation; official launch of Shanghai entity and multi‑central‑bank backing solidifies de‑dollarization infrastructure; next trigger is concrete launch dates and transaction volumes.
+- **US‑Iran Hormuz Reopening & Commodity Unwind** — Status: Acceleration; concrete transit and a plunge in energy/industrial commodities confirm de‑escalation, but Nagel and China oil‑demand risk keep the disinflation narrative contested. Next trigger: multiple vessel transits without kinetic incidents and Brent stabilising near session lows.
+- **Trump Tariff Escalation at G7** — Status: New; a 100% wine‑tariff threat revives trade‑war risk for European assets right as the Iran risk premium fades, introducing cross‑currents into FX and equities. Next trigger: EU/French response or formal tariff order within 48h.
+- **BOJ June Hike to 1%** — Status: Confirmation; the rate increase is fully priced in, but the yen is expected to remain under pressure unless the BOJ signals a sustained tightening cycle. Next trigger: BOJ statement and press conference on June 16.
+- **ECB Hawkishness Intact Despite Hormuz Reopening** — Status: Deceleration; Nagel explicitly says no inflation relief in sight, which could limit EUR downside and prevent a full risk‑on rotation in European rates. Next trigger: Any dovish shift by other ECB members or a sharp fall in inflation prints.
 
 ## Watchpoints
-- Confirmation of Friday Iran deal signing ceremony — any delay or breakdown would reinstate oil risk premium.
-- BOJ rate decision and forward guidance on Tuesday; a hike accompanied by hawkish language would strengthen JPY and tighten global conditions.
-- FOMC statement and dot‑plot on Wednesday — any shift in rate‑path projections challenging mid‑2027 hold consensus.
-- China May industrial production and retail sales on Monday morning — a deeper consumer contraction would intensify CNH downside and PBOC action speculation.
-- Israeli‑Hezbollah escalation trajectory — further Beirut strikes could derail the US‑Iran deal and trigger risk‑off.
+- Multiple commercial vessels traversing Strait of Hormuz without incident →
+  confirms supply‑normalisation thesis; Brent holds near session lows.
+- Trump follow‑through on wine tariff threat during G7 (formal order or
+  retaliatory EU move).
+- BOJ June 16 decision: confirm 1% hike, then watch forward‑guidance tone
+  for yen reversal signal.
+- US NY Empire State Manufacturing Index and Industrial Production tonight;
+  a strong print could revive Fed‑hawk expectations and temper bond rally.
+- China‑Indonesia nickel talks outcome; if escalation threatens `$50bn`
+  investment, nickel and IDR could come under pressure.
 
 ## Open Questions
-- Will Iran’s last‑minute demands or regional spoilers prevent the Friday signing and reopen the risk premium?
-- Does China’s consumer contraction accelerate into outright deflation, forcing a stronger PBOC response in the coming weeks?
-- Can the cross‑border digital currency platform gain critical adoption in Gulf‑Asia trade flows, or remains symbolic?
+- Will the Hormuz reopening fully crush the energy risk premium, or does the
+  Chinese demand recovery and Nagel’s hawkishness keep inflation‑linked assets
+  supported?
+- Can the G7 tariff threat metastasise into a broader US‑EU trade war, and
+  does that override the Hormuz‑driven risk‑on for European FX?
+- Does a dovish BOJ hike tomorrow cement the yen’s structural weakness, or
+  can the rate move restore some support?
 
 ## Key Levels
-- Brent crude: Friday’s plunge below `$86` on deal hopes; a snap back above `$90` would signal deal failure or escalation, reversing risk‑on trades.
-- USD/JPY: sitting near multi‑decade highs with nine‑year speculative short yen bets; a BOJ hike could trigger a sharp move toward `145`.
-- 10‑year UST yield: Goldman’s `5%` threshold for equity stress; any move above that level could trigger broad risk‑off.
-- USD/CNH: hovering near recent peaks; weak China retail sales could push it toward `7.35`, while PBOC fixing strength may cap.
-- Japan and Korea equity indices: surged on Hormuz reopening; if the deal stalls, expect give‑back of most peace‑trade gains.
+- Brent crude: down sharply intraday on Hormuz transit, with further
+  downside contingent on uninterrupted shipping flows ([Caixin](https://news.google.com/rss/articles/CBMiakFVX3lxTE5XOEppREt4SGxTaDZyd3dyVUlVR1ZrNXBwY1V4TDI3dHhYWV9zX1dqWUU1Z3otQ003anZjUVJDbEFLY3o3RzFxWGFXV2IyVnRUUjJqTGkxTWRoemFGQ1dpcU5lemNzZmpZN3c)).
+- Hang Seng Index: up `124` points, resisted at `25,000` and the 10‑day
+  moving average ([HKEJ](https://news.google.com/rss/articles/CBMib0FVX3lxTE1UelR1TDFSbEVhQ0dVeDgzQU5kS2FXUS1GeXB1aTdmUGtwMU9RcUlzVjNTYURhUlBmT0pPNkswSEF5aEoyTEVRRC1lZEUzUjNrM0ZpSkdNSE1XSTJkY0pQVFVIeVgtLXhFRzJZVnpZSQ)).
+- Shanghai Composite: opened `0.55%` higher ([Caixin](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiUU5xZkxIRVBEc3lLWDBXYkVmSWdFVG9nN1l6MVJtaG5XUFNsRnpBem1ucmthOHFSOG1FQzNITk52RkhEel9pUjJlQkJ3YldQTVhNbXd4X04ySVdxQ25LN3pB)).
+- Aluminum: two‑month low after peace deal ([BBG](https://www.bloomberg.com/news/articles/2026-06-15/copper-pops-higher-as-us-iran-agreement-puts-bulls-in-charge)).
