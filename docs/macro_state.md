@@ -1,23 +1,22 @@
 # Macro State — Last updated: 2026-06-16
 
 ## Active Narratives
-- **US‑Iran Hormuz Reopening & Commodity Unwind** — Status: Acceleration; draft MoU signed, Trump says Hormuz could reopen Friday; oil and yields plunge, but Nagel and Chinese sanctions ambiguity keep disinflation contested. Next trigger: multiple vessels transit without incident, formal Hormuz reopening Friday, sanctions relief timeline for Chinese importers.
-- **Trump Tariff Escalation** — Status: Acceleration; 100% wine tariff threat adds trade‑war risk for Europe, reviving risk‑premium on EUR and European equities. Next trigger: formal tariff order or EU/French retaliation within 48‑72h.
-- **EU‑China Deterioration** — Status: New; EU says China trained Russian troops, weighs sanctions and trade measures, opening a new geopolitical pressure point for Chinese assets. Next trigger: any concrete EU sanctions announcement or retaliatory measures targeting Chinese entities.
-- **BOJ June Hike to 1%** — Status: Confirmation; hike fully priced, but yen and JGBs hinge on Uchida’s forward guidance today. Next trigger: BOJ statement and Uchida briefing Jun 16.
+- **BOJ hawkish tightening cycle** — Status: New; hike to 1% with open-ended guidance signals a sustained rate path, not a one-off; yen and JGB yields supported. Next trigger: Uchida remarks and June 17 trade/machinery orders.
+- **China domestic demand slide** — Status: Acceleration; retail sales contraction and faster property decline increase downside growth risks and policy-easing expectations. Next trigger: any PBOC LPR cut or fiscal stimulus announcement.
+- **US‑Iran Hormuz reopening delay** — Status: Deceleration; shipowner caution and Iranian demands push back physical supply normalization, keeping energy risk premium elevated. Next trigger: first verified Hormuz convoy transit without incident and sanctions relief timeline.
+- **Trump trade‑war refocus** — Status: Acceleration; threat of new tariffs on EU goods revives trade‑risk premium for EUR and European equities despite Iran de‑escalation. Next trigger: formal tariff order or EU retaliation.
 
 ## Watchpoints
-- Multiple commercial vessels transiting Strait of Hormuz without incident → confirms supply normalization; Brent holds near post‑deal lows.
-- Trump follow‑through on wine tariff threat (formal order or EU retaliation).
-- EU sanctions announcement against Chinese entities over Russian troop training allegations.
-- BOJ decision and Uchida forward guidance (today) — dovish or hawkish tilt will determine yen direction.
-- US housing starts/permits and import/export prices tonight (Jun 16) — strong prints could revive Fed‑hawk expectations.
+- Uchida commentary and BOJ board member remarks post‑hike; JGB and yen price action around `1%` policy rate.
+- Chinese policymakers’ reaction to weak May data — any easing move before month‑end.
+- Oil tanker traffic data and shipping-route monitoring to verify Hormuz reopening claims.
+- Trump tariff announcement or EU retaliatory statement within 48‑72h.
+- Tonight’s US housing starts, permits, and import/export prices — could revive Fed‑hawk bets.
 
 ## Open Questions
-- Will the Hormuz reopening fully crush energy risk premium, or will Chinese demand recovery and Nagel’s hawkishness keep inflation‑linked assets supported?
-- Can the G7‑plus‑France tariff threat metastasise into a broader US‑EU trade war, and does that override the Hormuz‑driven risk‑on for European FX?
-- Does EU‑China tension on Russia training translate into new trade measures, further weighing on CNH and Chinese equities?
+- Will Japan’s rate normalization accelerate further, driving sustained yen appreciation and unwinding of carry trades?
+- Can China’s domestic weakness be offset by export strength, or will it force a policy pivot that re‑rates CNH and Chinese assets?
+- Will Trump’s tariff pivot trigger a new round of US‑EU trade escalation that overrides Hormuz‑driven risk‑on?
 
 ## Key Levels
-- Hang Seng futures night session: `24,799`, low water `44` points to cash, indicating some profit‑taking after the rally ([HKEJ](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQN1lSdFd2Um9obW0xb3kxLW0zTmxUWkE3VFp0akFhaGE4VGVTeWtxVWk2bzVuQlUzbE5OTV85cEg3NEdmN2MwVVZlZTdEeHpmeHFWRHhlVnppakd2SFhjNUdndGg5TXZ6Vm5UOTFiUGhjNmljTy00d2ljcDBtMkpZOWZMaU85WnpySVozRzU2SU9OT2Z5bks4VnEwRlNtTlZqY3dMR2UzQzh1bVdmQVMtYnlQeEFTa0VtX2JwQ2RrVnI2Wm5aZHY5dlJva29IMGdnSnVVNWhscWh4TGxUNlBKd2w5eUI5QWlB)).
-- Shanghai Composite opened `0.55%` higher, suggesting initial positive spillover from the peace deal but limited follow‑through ([Caixin](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiUU5xZkxIRVBEc3lLWDBXYkVmSWdFVG9nN1l6MVJtaG5XUFNsRnpBem1ucmthOHFSOG1FQzNITk52RkhEel9pUjJlQkJ3YldQTVhNbXd4X04ySVdxQ25LN3pB)).
+- USD/JPY steady near `139.50` immediately after BOJ hike, showing limited yen strength so far; next move hinges on Uchida guidance ([Reuters](https://news.google.com/rss/articles/CBMirAFBVV95cUxQUUExX2IzZ1JzLWdOMUlBdFlyMmJCVS1KeDFLTlZ6RjRDYlBCcE1ZMG4zaTJYOVg0ZGlvdmlpWUNTdUlaOC1vRmhJalJCZTBrWTRVMzEyNEZjZTJzRDB1WDl2eFlrdU0xSFdFNlY5eDNJV0RLYTFvUGlfSS1CQXlUUzdON0hlR1BKbXhOY1dIR3JxcDdMMUVzcVRpTnN6LWZJZWR6clQ0ZE40Ykdr)).
