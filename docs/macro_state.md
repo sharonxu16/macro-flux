@@ -1,22 +1,24 @@
-# Macro State — Last updated: 2026-06-16
+# Macro State — Last updated: 2026-06-17
 
-## Active Narratives
-- **BOJ hawkish tightening cycle** — Status: New; hike to 1% with open-ended guidance signals a sustained rate path, not a one-off; yen and JGB yields supported. Next trigger: Uchida remarks and June 17 trade/machinery orders.
-- **China domestic demand slide** — Status: Acceleration; retail sales contraction and faster property decline increase downside growth risks and policy-easing expectations. Next trigger: any PBOC LPR cut or fiscal stimulus announcement.
-- **US‑Iran Hormuz reopening delay** — Status: Deceleration; shipowner caution and Iranian demands push back physical supply normalization, keeping energy risk premium elevated. Next trigger: first verified Hormuz convoy transit without incident and sanctions relief timeline.
-- **Trump trade‑war refocus** — Status: Acceleration; threat of new tariffs on EU goods revives trade‑risk premium for EUR and European equities despite Iran de‑escalation. Next trigger: formal tariff order or EU retaliation.
+## Active Narratives (max 4)
+- **Fed Warsh Era Uncertainty** — Status: New; first meeting as chair introduces unknown dot-plot and balance-sheet guidance, splitting bond market. Next trigger: dot plot and Warsh press conference Jun 17.
+- **US‑Iran Hormuz Reopening & Commodity Unwind** — Status: Acceleration but with frictions; peace deal signed, oil crashes, but ECB and US intel signal persistent disruption risk. Next trigger: first commercial vessels transiting without incident.
+- **China H‑Share Underperformance on AI Rotation** — Status: New; global capital favoring non-China AI supply chains sidelines China’s internet-heavy benchmark. Next trigger: any China AI policy catalyst or DeepSeek breakout.
+- **BOJ June Hike to 1%** — Status: Confirmation (hike done) but yen weakness on dovish Uchida guidance. Next trigger: further BOJ communication or US rate path.
 
-## Watchpoints
-- Uchida commentary and BOJ board member remarks post‑hike; JGB and yen price action around `1%` policy rate.
-- Chinese policymakers’ reaction to weak May data — any easing move before month‑end.
-- Oil tanker traffic data and shipping-route monitoring to verify Hormuz reopening claims.
-- Trump tariff announcement or EU retaliatory statement within 48‑72h.
-- Tonight’s US housing starts, permits, and import/export prices — could revive Fed‑hawk bets.
+## Watchpoints (max 5)
+- Fed dot plot and Warsh press conference Jun 17 afternoon US time.
+- First commercial vessels transiting Strait of Hormuz without incident to confirm supply normalization.
+- Any China AI policy breakthrough or DeepSeek-linked catalyst that could reverse the rotation out of H‑shares.
+- US May retail sales tonight — strong print could revive hawkish Fed expectations.
+- Further escalation in UK‑Russia maritime incident or NATO response.
 
-## Open Questions
-- Will Japan’s rate normalization accelerate further, driving sustained yen appreciation and unwinding of carry trades?
-- Can China’s domestic weakness be offset by export strength, or will it force a policy pivot that re‑rates CNH and Chinese assets?
-- Will Trump’s tariff pivot trigger a new round of US‑EU trade escalation that overrides Hormuz‑driven risk‑on?
+## Open Questions (max 3)
+- Will Warsh’s dot plot and balance-sheet tilt validate Citi’s dovish call or lean hawkish, setting the USD/Asia FX tone?
+- Can the Hormuz supply normalization fully crush energy risk premium, or will ECB warnings and Iran capability keep a floor under oil and EUR?
+- Does China’s H‑share underperformance metastasize into a broader CNH headwind, or is it contained to equity flows?
 
-## Key Levels
-- USD/JPY steady near `139.50` immediately after BOJ hike, showing limited yen strength so far; next move hinges on Uchida guidance ([Reuters](https://news.google.com/rss/articles/CBMirAFBVV95cUxQUUExX2IzZ1JzLWdOMUlBdFlyMmJCVS1KeDFLTlZ6RjRDYlBCcE1ZMG4zaTJYOVg0ZGlvdmlpWUNTdUlaOC1vRmhJalJCZTBrWTRVMzEyNEZjZTJzRDB1WDl2eFlrdU0xSFdFNlY5eDNJV0RLYTFvUGlfSS1CQXlUUzdON0hlR1BKbXhOY1dIR3JxcDdMMUVzcVRpTnN6LWZJZWR6clQ0ZE40Ykdr)).
+## Key Levels (max 5)
+- Hang Seng night session: `24,510`, 16‑point premium over cash, recovering from session low of `24,447` ([HKEJ](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUTBpb0JkcDlhMzNReFlLSDE5U2F1RmdTU3pyTmNEa09JT3pVX2h6VlNXT2dFZzllcjFDc213ZlRKZmg0eW5mUVBqOTRjRUxyeEV3bTJ0YkZuS2dmZzd1SW1KY1lEVlJ3am1JR3lVdlhqVndFM2Zock93Nk1ERTVLbWl4Q3p3bVdJT3QtbmY4YjhfYi1xVzM3VW9yV0tBZGtQb1RCS1c5dGwzcnNIZGc4bnRhWUxZLWM0XzAycWpPZ2pRVW1sbGNlWThKUXh4LVhWSUtiaDZsTDVvdXRTZ1pYeG5UdWFnSGpD)).
+- Brent crude: oil saw a “大幅下跌” ([Xinhua](https://www.news.cn/fortune/20260617/4ed4b0701b7c418a8f807acf31ecf158/c.html)) but no exact level cited, ongoing decline trend.
+- USD/JPY: yen weakened after BOJ hike to 1%, no level cited; direction matters.
