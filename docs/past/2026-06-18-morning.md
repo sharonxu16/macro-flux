@@ -2,11 +2,10 @@
 tags:
   - Macro/Fed_Hawkish
   - Asset/USD
-  - Asset/UST
+  - Asset/Brent
   - Trade/Long_USD
-  - Trade/Short_UST
+  - Trade/Short_EU_Autos
 ---
-
 <div align="center">
 
 # 🌊 Macro Flux
@@ -20,60 +19,48 @@ tags:
 ---
 
 > [!abstract] Overview
-> The Federal Reserve held rates unchanged at Chair Kevin Warsh's debut meeting but delivered a resoundingly hawkish signal: nine officials now project a 2026 hike, the statement purged all cutting bias, and traders fully priced a September move, triggering an aggressive bond market selloff, a `~1%` dollar surge, and a sharp equity retreat. The Fed repricing collided with President Trump's formal signing of an interim Iran peace deal that aims to reopen the Strait of Hormuz, creating cross-currents that lifted crude supply expectations while gold found support from deal optimism. Separately, G7 and European Union actions hardened against China, with German backing for US-style tariffs and a formal critical minerals alliance designed to reduce reliance on Beijing, as German Chancellor Merz claimed the yuan is undervalued by up to `30%`. The intersection of a newly hawkish Fed, an energy-risk de-escalation, and escalating Western trade pressure on China frames a complex macro environment favoring a stronger dollar, steeper yield curves, and heightened Asia FX divergence.
+> The Federal Reserve’s first meeting under Chair Kevin Warsh produced a hawkish hold, with nine of 18 officials projecting a rate increase by year‑end, propelling the dollar to its biggest gain in three months and sending US equities sharply lower. The US and Iran published a 14‑point memorandum to end the war, but President Trump immediately labelled it unfinished while major shippers signalled reluctance to resume Hormuz transits, keeping a floor under crude. Meanwhile, Europe coalesced around a tougher China strategy: Germany endorsed France’s push for US‑style tariffs, the G7 launched a critical minerals alliance to curb reliance on China, and German opposition leader Merz called the yuan up to 30 % undervalued. A newly hawkish Fed and unresolved Middle East diplomacy are tightening financial conditions and reinforcing dollar demand, while rising trade‑policy friction adds a structural overhang for Asian export currencies.
 
 ---
 
 ## 🔬 Narrative Watch
 
-### 📌 Fed Begins Warsh Era With Hawkish Hold, Rate Hike Fully Priced by October
+### 📌 Fed’s Hawkish Debut Under Warsh
 
 **Fact**
-The US Federal Reserve held interest rates steady on Wednesday, but policymakers expect a hike in borrowing costs later this year amid growing concerns about inflation lodged above the US central bank's 2 per cent target. New quarterly projections showed nine Fed officials now anticipate a hike in rates by the end of 2026, and an updated policy statement dropped the previous reference to the next move being a rate cut ([SCMP](https://www.scmp.com/news/world/united-states-canada/article/3357477/us-fed-begins-warsh-era-hold-interest-rates-may-hike-later-year)). Short-dated US Treasury yields leaped as Federal Reserve officials signaled they expect an interest-rate hike in the coming months, pushing traders to fully price in higher borrowing costs by October ([BBG](https://www.bloomberg.com/news/articles/2026-06-17/us-yields-jump-as-fed-dots-boost-trader-bets-on-a-2026-rate-hike)). Federal Reserve Chairman Kevin Warsh vowed to restore price stability following his first policy meeting since taking the helm of the US central bank ([BBG](https://www.bloomberg.com/news/articles/2026-06-17/fed-holds-rates-steady-officials-split-over-hikes-this-year)). Warsh put his stamp on the US central bank with a bevy of changes coming out of his first policy meeting, setting the stage for the wider overhaul of the institution he promised before he took the helm. The dot plot showed only 18 forecasts, as Warsh himself declined to submit one ([BBG](https://www.bloomberg.com/news/articles/2026-06-17/warsh-puts-stamp-on-fed-with-immediate-changes-to-usual-routine)). Warsh said he is appointing a task force to examine the central bank's `$6.7 trillion` balance sheet ([BBG](https://www.bloomberg.com/news/articles/2026-06-17/warsh-forms-fed-task-force-to-review-6-7-trillion-balance-sheet)). JPMorgan Asset Management's Bob Michele expressed surprise at the hawkish tilt, saying policymakers sense more risk from inflation pressures than Wall Street had expected ([BBG](https://www.bloomberg.com/news/articles/2026-06-17/jpmorgan-s-michele-says-fed-market-message-is-to-brace-for-hikes)). Wall Street sank on bets the Fed will hike rates this year, while the dollar jumped ([Reuters](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdkJCUU94WGx5UkN1MWF6aFdac2FRV2c4NVd4WHVkTXE3clBpZzVpdndJQmVJTDd1RllVdGtwNDZtS0xoYVNmZFFqSHJhUlBYczQxMXZKZ2hvSGdPOExILURHT1R3UHdYY2VwZWxoUE9SN2U0OW8zTDNBUHRYWU5VVUhkZWVuTE83OHk3a09XMWt6SEpwRjZMRE1janN2SGV3Wi1JbjBlaEQ0cmdy)). The year-end 2026 median projection for the federal funds rate stands at `3.750%` ([BBG](https://www.bloomberg.com/news/articles/2026-06-17/the-fed-s-new-dot-plot-after-its-june-policy-meeting-chart)).
+The Federal Reserve held interest rates steady on Wednesday but nine officials now anticipate a hike by the end of 2026, and an updated policy statement emphasized the commitment to returning inflation to 2 % ([SCMP](https://www.scmp.com/news/world/united-states-canada/article/3357477/us-fed-begins-warsh-era-hold-interest-rates-may-hike-later-year)). The dollar surged the most in three months as the dot‑plot showed a split: nine of 18 policymakers pencilled in a rate increase this year ([BBG 1](https://www.bloomberg.com/news/articles/2026-06-17/dollar-rallies-as-fed-officials-open-door-to-2026-rate-hike), [2](https://www.bloomberg.com/news/articles/2026-06-17/fed-holds-rates-steady-officials-split-over-hikes-this-year)). Traders now fully price a hike by October ([WallstreetCN 1](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtM3lQcUpZMmNpRHZXdGEtM29wQ214VVBsMkM5bmVkMHNDaWE5MG9CcmJxSmJycWJpUTk0ZU9ORVZ0SnlnMFBkY1VLYk9ORjJiNHJz)). Chair Warsh launched five internal task forces, including a review of the Fed’s `$6.7` trillion balance sheet, and did not submit a personal rate forecast, leaving only 18 dots in the plot ([BBG 3](https://www.bloomberg.com/news/articles/2026-06-17/warsh-forms-fed-task-force-to-review-6-7-trillion-balance-sheet), [4](https://www.bloomberg.com/news/articles/2026-06-17/why-the-fed-s-dot-plot-showed-only-18-forecasts)). US equities fell significantly on the hawkish surprise ([Xinhua](https://www.news.cn/fortune/20260618/a5eac65a95584667affe1b3f27fbcb6e/c.html)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Acceleration of hawkish Fed repricing; Warsh era begins with operational overhaul and explicit rate-hike signal, resolving prior uncertainty.
-> * **Transmission / Market Read**: Policy channel and rates volatility favor **long USD**, **short UST duration**, and **short US equities** until terminal rate expectations stabilize.
-> * **Watchpoint / Confidence**: September hike pricing stability and Warsh's task force interim reports; Confidence: High given cross-source Fed confirmation and market repricing.
+> * **Narrative change**: Acceleration — the inaugural Warsh FOMC reveals a far more hawkish committee alignment than the prior Macro State’s “uncertainty” posture, moving rate hikes firmly into the 2026 outlook.
+> * **Transmission / Market Read**: Policy channel lifts US rates and the dollar, pressuring EM currencies and risk assets; favors **long USD/Asia FX** and **short US equities**.
+> * **Watchpoint / Confidence**: BoE decision tonight and US jobless claims; if BoE surprises hawkish or claims stay low, the global bond sell‑off extends. Confidence: High.
 
-### 📌 Trump Signs Iran Peace Deal, Hormuz Reopening Accelerates but Normalization Incomplete
+### 📌 Iran Peace Deal Fragility
 
 **Fact**
-Oil fell as an interim US-Iran peace deal went into effect, putting the focus on how quickly transits through the Strait of Hormuz can be ramped up as Persian Gulf producers restart shut-in fields ([BBG](https://www.bloomberg.com/news/articles/2026-06-17/latest-oil-market-news-and-analysis-for-june-18)). US equity futures climbed and oil prices retreated as President Donald Trump signed an interim deal to end the war with Iran and reopen the Strait of Hormuz ([BBG](https://www.bloomberg.com/news/articles/2026-06-17/asian-stocks-bonds-to-fall-on-hawkish-fed-signals-markets-wrap)). As US President Donald Trump moves to reopen the Strait of Hormuz through a peace deal with Iran, major shipping companies such as Maersk are likely to stop short of resuming normal operations in the near term amid lingering concerns about the waterway's security and the durability of the agreement ([SCMP](https://www.scmp.com/economy/global-economy/article/3357429/why-us-iran-deal-may-fail-revive-shipping-through-strait-hormuz)). Gold rose, supported by the signing of an interim peace deal between the US and Iran, even as the Federal Reserve signaled a rate hike later in the year ([BBG](https://www.bloomberg.com/news/articles/2026-06-17/gold-holds-decline-after-bets-increase-on-fed-hike-this-year)). The IEA sees significant 2027 oil surplus after Hormuz recovery ([Reuters](https://news.google.com/rss/articles/CBMivwFBVV95cUxQazMyeHVJZDM1MVBBamxXaVI2NnNfSjUyb3NtYUdETUk4MWRBQk41SDZKcWRLWUhrblhJVnlwV2hLS011TXZWSjVQWFNReDRjc3F6Q0xBc0k1YU5ESnhtTU5oMUgya2prWlZIRVFLamlVWXlaN0xrWS1sd01mT05rN3p5UmVoRG1Sb3dYWkp5YmZydHpjUlE5a2JtOXlZSlg1WkR0eUUtTTY4TGYzNnlTUC1TREE3QmRrd3FBeUk4Yw)). The US Navy has redeployed an amphibious strike group originally bound for the Middle East to the South China Sea, a move experts say may signal Washington shifting its focus back to the Pacific region ([SCMP](https://www.scmp.com/news/china/military/article/3357439/iran-war-comes-close-us-pulling-warships-back-west-pacific)).
+The US and Iran released the official “Islamabad Memorandum of Understanding” setting out 14 points to end the war and reopen the Strait of Hormuz ([SCMP 1](https://www.scmp.com/news/us/diplomacy/article/3357480/us-and-iran-publish-their-official-agreement-heres-whats-it), [CCTV](https://news.google.com/rss/articles/CBMieEFVX3lxTE5pVUswU2cwOFN1SmZ3bFZENzJBX09keUU3VGI3U3RZcGRxSW1sX2VNTEVRdGRLUklEc3hMcGZmbmRjeTBDNlZfOW5Wd0xfZ29IVk1PYXVERlFwZTctcUdHVWQ4N0ZBOWFUWmpONnczcjZyN2RWMzl1Xw)). Hours later President Trump said the framework was “not final” and warned of a rapid deterioration back to military conflict if he is dissatisfied with final terms ([SCMP 2](https://www.scmp.com/news/china/diplomacy/article/3357465/not-final-trump-flips-again-iran-deal-plans-press-conference-france)). Major shipping companies such as Maersk are expected to stop short of normal operations in the near term amid lingering security concerns and doubts about the agreement’s durability ([SCMP 3](https://www.scmp.com/economy/global-economy/article/3357429/why-us-iran-deal-may-fail-revive-shipping-through-strait-hormuz)). Oil prices rose on Wednesday as optimism over the deal competed with the hawkish Fed ([Xinhua](https://www.news.cn/fortune/20260618/a3f1b5cdb80041cca96fe27736e49e75/c.html)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Acceleration of normalization from diplomatic deal toward physical reopening, though shipping caution tempers full supply return.
-> * **Transmission / Market Read**: Supply-risk-premium compression favors **short Brent crude** while **long gold** benefits from tentative peace; shipping hesitancy caps downside momentum.
-> * **Watchpoint / Confidence**: First Maersk or major liner commercial transit through Hormuz without incident; Confidence: Medium given shipping industry skepticism on deal durability.
+> * **Narrative change**: Reversal — the prior Macro State assumed “physical normalization accelerates”; today’s events show the deal is unfinished and shippers remain cautious, reversing the smooth‑normalization assumption.
+> * **Transmission / Market Read**: Risk‑premium channel supports **Brent** and **gold** as a hedge against renewed Hormuz disruption, while capping the dollar’s rally on safe‑haven rotation.
+> * **Watchpoint / Confidence**: Trump’s press conference in France and any official routing changes by Maersk will confirm whether normalization stalls; Confidence: Medium.
 
-### 📌 G7 and EU Harden China Trade Stance, Merz Claims Yuan Undervalued by 30%
+### 📌 EU‑China Trade Front Hardens
 
 **Fact**
-G7 sets up critical minerals alliance, platform to cut reliance on China ([Reuters](https://news.google.com/rss/articles/CBMipAFBVV95cUxPenZ4Yi1yLTlKa0NWWUduYUFvWlo3SHBBdFliTTh1MXUxbHVFaGI5TFlzM1dCQmpzclptSDdubUYzUmNoN3pNcFhEbE80RHZNZ0k0VXBnUFhSSWlrZXY5RXRHWGhwWmJIVUJFMzhJcDRsclBTamp3WHBaOE5MdjJYREtLemFpSmNmd05yd0thRFZZMzg0cHNzY2xnTkptd0hDdnlQNg)). Germany backs French push for US-style tariffs and quotas, a proposal that would allow the European Commission to move faster in shielding industries from Chinese import glut ([FT](https://www.ft.com/content/06b7fe04-25f7-445b-824a-135ae73596a5)). German Chancellor Merz at G7 claimed China's currency is undervalued by up to `30%` ([Investing](https://www.investing.com/news/forex-news/merz-at-g7-chinas-currency-undervalued-by-up-to-30-93CH-4746889)). A broad coalition of EU members now support the development of a tough new trade strategy that could see the bloc move toward imposing tariffs, quotas, and other restrictions on Chinese goods similar to those imposed by the US ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3357470/europe-rallies-around-tough-new-china-strategy-ahead-key-summit)). Trump likes Canada's Chinese EV deal, Carney says after chat caught on hot mic; the deal allows a capped number of Chinese electric vehicles to be imported at a low-tariff rate ([SCMP](https://www.scmp.com/news/world/united-states-canada/article/3357479/trump-likes-canadas-chinese-ev-deal-carney-says-after-chat-caught-hot-mic)).
+Germany formally backed France’s proposal for US‑style tariffs and quotas that would allow the European Commission to move faster in shielding industries from a Chinese import glut ([FT](https://www.ft.com/content/06b7fe04-25f7-445b-824a-135ae73596a5)). The G7 launched a critical‑minerals alliance and a dedicated platform to cut reliance on China ([Reuters](https://news.google.com/rss/articles/CBMipAFBVV95cUxPenZ4Yi1yLTlKa0NWWUduYUFvWlo3SHBBdFliTTh1MXUxbHVFaGI5TFlzM1dCQmpzclptSDdubUYzUmNoN3pNcFhEbE80RHZNZ0k0VXBnUFhSSWlrZXY5RXRHWGhwWmJIVUJFMzhJcDRsclBTamp3WHBaOE5MdjJYREtLemFpSmNmd05yd0thRFZZMzg0cHNzY2xnTkptd0hDdnlQNg)). German opposition leader Merz told the G7 that China’s currency is undervalued by up to 30 % ([Investing_Forex](https://www.investing.com/news/forex-news/merz-at-g7-chinas-currency-undervalued-by-up-to-30-93CH-4746889)). BMW shares sank to a five‑year low after a profit warning that included a China slowdown and Iran‑war disruption ([CNBC](https://www.cnbc.com/2026/06/17/bmw-profit-warning-autos-cars-china-iran.html), [Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxOTVBHYTAycFp5MmdoVGNRbE12eWJzT0c5U1NPbURoNmxHQUJZcEdEaHJ5MGU1dDhFUUw0cV9ZM0VpMGIzWk5XY1pqcFpoblJCM3NBektPRzh2clF4OW9JWnRTa25kMkk3a1NmRlVySXNubUZWUjE4bTBBTlV5MEtMd1FQajR0THZyeXdnZ0xlaFk0YXI1ZV9GZTk2b3YzMjd4aEZtZXkybnZXdXRoNDZtZDNJbFhzUVNQWlE)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Acceleration of Western trade-policy coordination against China, with explicit currency-undervaluation claim adding FX dimension to tariff risk.
-> * **Transmission / Market Read**: Trade and capital-flow channels support **short CNH** and **short EUR/Asia exporter FX**; favors **long European defense/industrial policy beneficiaries**.
-> * **Watchpoint / Confidence**: EU summit decisions on China tariffs and any US Treasury currency report follow-through; Confidence: Medium due to multi-country negotiation complexity.
+> * **Narrative change**: New — a broad EU coalition now favours accelerated trade barriers against China, adding a structural overhang not reflected in the prior Macro State.
+> * **Transmission / Market Read**: Trade‑disruption channel likely weakens the euro on growth fears, supports **long USD**, and adds downward pressure on **CNH** as retaliation risks rise.
+> * **Watchpoint / Confidence**: EU summit conclusions and any Chinese retaliation signal; BMW’s warning already reveals the macro‑corporate transmission. Confidence: Medium.
 
 ---
 
 ## 🌍 Global Radar
 
-### 📊 Economic Indicators
-- US retail sales jumped in May in a sign consumers are weathering the petrol price shock from the Iran conflict, showing the economy remains in robust shape as Kevin Warsh takes charge of the Fed ([FT](https://www.ft.com/content/a1cef91a-e590-4b01-a81e-5a1f9488cffe)).
-- UK inflation unexpectedly held steady at `2.8%` in May, easing Bank of England fears of a lasting impact from the Iran war ([FT](https://www.ft.com/content/25ce9b8d-bc00-41cf-9f8c-bd526baf2eed)).
-
-### 🏦 Central Banks
-- **BOE** — The Bank of England is expected to hold interest rates on Thursday as inflation proves less of a threat than feared and energy costs fall on hopes for an end to the conflict in the Middle East ([BBG](https://www.bloomberg.com/news/articles/2026-06-17/boe-set-to-hold-rates-with-energy-shock-receding-decision-guide)).
-- **CBC (Taiwan)** — Taiwan's central bank is expected to leave its benchmark interest rate unchanged for a ninth straight quarter, though a roaring economy and accelerating inflation are creating pressure for it to turn hawkish ([BBG](https://www.bloomberg.com/news/articles/2026-06-17/taiwan-seen-holding-benchmark-rate-even-as-inflation-speeds-up)).
-
 ### 🌐 Geopolitics & Policy
-- In a possible sign of shifting US stance on Hong Kong, a senior State Department official will meet a delegation of the American Chamber of Commerce in Hong Kong ([SCMP](https://www.scmp.com/news/china/politics/article/3357447/us-warming-hong-kong-high-level-meeting-business-group-signals-shift)).
-
-### 🛢️ Commodities
-- Oil fell as the interim US-Iran peace deal went into effect, with the focus now on how quickly transits through the Strait of Hormuz can ramp up as Persian Gulf producers restart shut-in fields ([BBG](https://www.bloomberg.com/news/articles/2026-06-17/latest-oil-market-news-and-analysis-for-june-18)).
-- Gold rose, supported by the peace deal optimism even as the hawkish Fed signaled a rate hike later in the year ([BBG](https://www.bloomberg.com/news/articles/2026-06-17/gold-holds-decline-after-bets-increase-on-fed-hike-this-year)).
+- The US Navy redeployed an amphibious strike group originally bound for the Middle East to the South China Sea, a shift experts say may signal Washington refocusing on the Pacific after months of distraction from the Iran war ([SCMP](https://www.scmp.com/news/china/military/article/3357439/iran-war-comes-close-us-pulling-warships-back-west-pacific)).
 
 ---
 
@@ -81,93 +68,78 @@ G7 sets up critical minerals alliance, platform to cut reliance on China ([Reute
 
 | Time (HKT) | Rgn | Event | Est. | Prior |
 |---|---|---|---|---|
-| 11:35 AM | JP | 52-Week Bill Auction | — | 1.1357% |
-| 01:00 PM | SG | 6-Month T-Bill Auction | — | 1.48% |
-| 02:00 PM | GB | Unemployment Rate | 5% | 5% |
-| 02:00 PM | GB | Average Earnings incl. Bonus (3Mo/Yr) | 4% | 4.1% |
-| 02:00 PM | GB | Employment Change | 75K | 148K |
-| 02:00 PM | GB | Average Earnings excl. Bonus (3Mo/Yr) | 3.2% | 3.4% |
-| 02:00 PM | GB | Claimant Count Change | 25.8K | 26.5K |
-| 02:00 PM | GB | HMRC Payrolls Change | — | -100K |
-| 03:30 PM | ID | Interest Rate Decision | 5.75% | 5.50% |
-| 03:30 PM | ID | Deposit Facility Rate | 4.75% | 4.50% |
-| 04:00 PM | IT | Current Account | — | €1748M |
-| 04:40 PM | ES | 10-Year Obligacion Auction | — | 3.392% |
-| 04:40 PM | ES | 14-year Obligacion Auction | — | 3.655% |
-| 04:40 PM | ES | 7-Year Obligacion Auction | — | 3.164% |
-| 05:00 PM | FR | 2029 OAT Auction | — | 2.94% |
-| 05:00 PM | FR | 2032 OAT Auction | — | 3.25% |
-| 05:00 PM | FR | 2034 OAT Auction | — | 3.61% |
-| 06:00 PM | FR | 2032 OAT€i Auction | — | — |
-| 06:00 PM | FR | 2038 OAT€i Auction | — | — |
-| 06:00 PM | FR | 2040 OAT€i Auction | — | — |
-| 06:00 PM | DE | Bundesbank Monthly Report | — | — |
-| 07:00 PM | TR | MPC Meeting Summary | — | — |
-| 07:00 PM | GB | BoE Interest Rate Decision | 3.75% | 3.75% |
-| 08:30 PM | US | Initial Jobless Claims | 225K | 229K |
-| 08:30 PM | US | Philadelphia Fed Manufacturing Index | 10 | -0.4 |
-| 08:30 PM | US | Continuing Jobless Claims | 1800K | 1795K |
-| 08:30 PM | US | Jobless Claims 4-week Average | — | 219K |
-| 08:30 PM | US | Philly Fed Business Conditions | — | 53.2 |
-| 08:30 PM | US | Philly Fed CAPEX Index | — | 30.90 |
-| 08:30 PM | US | Philly Fed Employment | — | -2.8 |
-| 08:30 PM | US | Philly Fed New Orders | — | -1.7 |
-| 08:30 PM | US | Philly Fed Prices Paid | — | 47.90 |
-| 10:00 PM | US | CB Leading Index MoM | 0.1% | 0.1% |
-| 10:30 PM | US | EIA Natural Gas Stocks Change | — | 108Bcf |
-| 11:30 PM | US | 4-Week Bill Auction | — | 3.595% |
-| 11:30 PM | US | 8-Week Bill Auction | — | 3.610% |
-| 12:00 AM | US | 15-Year Mortgage Rate | — | 5.84% |
-| 12:00 AM | US | 30-Year Mortgage Rate | — | 6.52% |
-| 01:00 AM | US | 5-Year TIPS Auction | — | 1.367% |
-| 01:00 AM | US | Baker Hughes Oil Rig Count | — | 433 |
+| Jun 18 11:35 AM | JP | 52‑Week Bill Auction | — | 1.1357% |
+| Jun 18 01:00 PM | SG | 6‑Month T‑Bill Auction | — | 1.48% |
+| Jun 18 02:00 PM | GB | Unemployment Rate | 5% | 5% |
+| Jun 18 02:00 PM | GB | Average Earnings incl. Bonus (3Mo/Yr) | 4% | 4.1% |
+| Jun 18 02:00 PM | GB | Employment Change | 75K | 148K |
+| Jun 18 02:00 PM | GB | Average Earnings excl. Bonus (3Mo/Yr) | 3.2% | 3.4% |
+| Jun 18 02:00 PM | GB | Claimant Count Change | 25.8K | 26.5K |
+| Jun 18 02:00 PM | GB | HMRC Payrolls Change | — | -100K |
+| Jun 18 03:30 PM | ID | Interest Rate Decision | 5.75% | 5.50% |
+| Jun 18 03:30 PM | ID | Deposit Facility Rate | 4.75% | 4.50% |
+| Jun 18 04:00 PM | IT | Current Account | — | €1748M |
+| Jun 18 04:40 PM | ES | 10‑Year Obligacion Auction | — | 3.392% |
+| Jun 18 04:40 PM | ES | 14‑year obligacion auction | — | 3.655% |
+| Jun 18 04:40 PM | ES | 7‑Year Obligacion Auction | — | 3.164% |
+| Jun 18 05:00 PM | FR | 2029 OAT Auction | — | 2.94% |
+| Jun 18 05:00 PM | FR | 2032 oat auction | — | 3.25% |
+| Jun 18 05:00 PM | FR | 2034 oat auction | — | 3.61% |
+| Jun 18 06:00 PM | FR | 2032 oat€i auction | — | — |
+| Jun 18 06:00 PM | FR | 2038 oat€i auction | — | — |
+| Jun 18 06:00 PM | FR | 2040 oat€i auction | — | — |
+| Jun 18 06:00 PM | DE | Bundesbank Monthly Report | — | — |
+| Jun 18 07:00 PM | TR | MPC Meeting Summary | — | — |
+| Jun 18 07:00 PM | GB | BoE Interest Rate Decision | 3.75% | 3.75% |
+| Jun 18 08:30 PM | US | Initial Jobless Claims | 225K | 229K |
+| Jun 18 08:30 PM | US | Philadelphia Fed Manufacturing Index | 10 | -0.4 |
+| Jun 18 08:30 PM | US | Continuing Jobless Claims | 1800K | 1795K |
+| Jun 18 08:30 PM | US | Jobless Claims 4‑week Average | — | 219K |
+| Jun 18 08:30 PM | US | Philly Fed Business Conditions | — | 53.2 |
+| Jun 18 08:30 PM | US | Philly Fed CAPEX Index | — | 30.90 |
+| Jun 18 08:30 PM | US | Philly Fed Employment | — | -2.8 |
+| Jun 18 08:30 PM | US | Philly Fed New Orders | — | -1.7 |
+| Jun 18 08:30 PM | US | Philly Fed Prices Paid | — | 47.90 |
+| Jun 18 10:00 PM | US | cb leading index mom | 0.1% | 0.1% |
+| Jun 18 10:30 PM | US | EIA Natural Gas Stocks Change | — | 108Bcf |
+| Jun 18 11:30 PM | US | 4‑Week Bill Auction | — | 3.595% |
+| Jun 18 11:30 PM | US | 8‑Week Bill Auction | — | 3.610% |
+| Jun 19 12:00 AM | US | 15‑Year Mortgage Rate | — | 5.84% |
+| Jun 19 12:00 AM | US | 30‑Year Mortgage Rate | — | 6.52% |
+| Jun 19 01:00 AM | US | 5‑Year TIPS Auction | — | 1.367% |
+| Jun 19 01:00 AM | US | Baker Hughes Oil Rig Count | — | 433 |
 
 ---
 
 ## 📚 Full Reading List
 - **BBG**
   - [Fed Officials Edge Closer to Rate Hikes as Warsh Takes Helm](https://www.bloomberg.com/news/articles/2026-06-17/fed-holds-rates-steady-officials-split-over-hikes-this-year)
-  - [Traders Fully Price in a Rate Hike by October on Hawkish Fed](https://www.bloomberg.com/news/articles/2026-06-17/us-yields-jump-as-fed-dots-boost-trader-bets-on-a-2026-rate-hike)
-  - [Warsh Puts Stamp on Fed With Immediate Changes to Usual Routine](https://www.bloomberg.com/news/articles/2026-06-17/warsh-puts-stamp-on-fed-with-immediate-changes-to-usual-routine)
-  - [Warsh Forms Task Force to Review Fed's $6.7 Trillion Balance Sheet](https://www.bloomberg.com/news/articles/2026-06-17/warsh-forms-fed-task-force-to-review-6-7-trillion-balance-sheet)
-  - [JPMorgan's Michele Says Fed Market Message Is to Brace for Hikes](https://www.bloomberg.com/news/articles/2026-06-17/jpmorgan-s-michele-says-fed-market-message-is-to-brace-for-hikes)
-  - [What the Fed's New Dot Plot Looks Like](https://www.bloomberg.com/news/articles/2026-06-17/the-fed-s-new-dot-plot-after-its-june-policy-meeting-chart)
-  - [Oil Slides as Trump's Hormuz Agreement Lifts Outlook for Supply](https://www.bloomberg.com/news/articles/2026-06-17/latest-oil-market-news-and-analysis-for-june-18)
-  - [US Futures Rally, Oil Slips as Trump Signs Deal: Markets Wrap](https://www.bloomberg.com/news/articles/2026-06-17/asian-stocks-bonds-to-fall-on-hawkish-fed-signals-markets-wrap)
-  - [Gold Jumps as Peace Deal Optimism Counters Hawkish Fed](https://www.bloomberg.com/news/articles/2026-06-17/gold-holds-decline-after-bets-increase-on-fed-hike-this-year)
-  - [Japan Intervention Risk Mounts as Yen Drops to Lowest Since 2024](https://www.bloomberg.com/news/articles/2026-06-17/yen-slides-to-weakest-level-versus-dollar-since-july-2024-mqih9kot)
-  - [BOJ Will Hike Rates Again by December, Says 90% of Economists](https://www.bloomberg.com/news/articles/2026-06-17/boj-will-hike-rates-again-by-december-says-90-of-economists)
-  - [BOE Set to Hold Rates With Energy Shock Receding: Decision Guide](https://www.bloomberg.com/news/articles/2026-06-17/boe-set-to-hold-rates-with-energy-shock-receding-decision-guide)
-  - [Taiwan Seen Holding Policy Rate Even as Inflation Speeds Up](https://www.bloomberg.com/news/articles/2026-06-17/taiwan-seen-holding-benchmark-rate-even-as-inflation-speeds-up)
-  - [Strategists Eye Yen Intervention, Yuan Resilient Post-Fed](https://www.bloomberg.com/news/articles/2026-06-17/markets-alert-for-japan-intervention-after-fed-strategists-say)
+  - [Dollar Steamrolls Peers as Fed Opens Door for 2026 Rate Hike](https://www.bloomberg.com/news/articles/2026-06-17/dollar-rallies-as-fed-officials-open-door-to-2026-rate-hike)
+  - [Warsh Forms Task Force to Review Fed’s $6.7 Trillion Balance Sheet](https://www.bloomberg.com/news/articles/2026-06-17/warsh-forms-fed-task-force-to-review-6-7-trillion-balance-sheet)
+  - [What a Missing Dot Revealed at the Fed](https://www.bloomberg.com/news/articles/2026-06-17/why-the-fed-s-dot-plot-showed-only-18-forecasts)
+  - [Fed’s Warsh Signals Revamp, But Offers Little Substance on Rates](https://www.bloomberg.com/news/articles/2026-06-17/fed-s-warsh-signals-revamp-but-offers-little-substance-on-rates)
 - **Reuters**
-  - [Fed chief Warsh skips rate-path 'dot,' launches communications review](https://news.google.com/rss/articles/CBMitwFBVV95cUxNTG5nNUJBczdIMjlwaWxza0xkbFdjTmRUOEJTQ0RKU0pkUDJISS1WWlN3a010aFY3WE9KYUxQejAtY0ZvdVBGdVpaZUdocThiV2lqVy11M0lhaU82WjA3dkhYRXBMSkdBdnA1NkhqWFpRdlJwZEM3SzJnWmFXdlc0SGktSUlneGV3OVF4MjNXQ1dITzQ5bVlJX3Q2MXdqQmJlN1BfS1F5VGlQQ2tqNXV4YnZDNVgyX1k)
-  - [Dollar jumps as Fed holds rates but projects one hike later this year](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdkJCUU94WGx5UkN1MWF6aFdac2FRV2c4NVd4WHVkTXE3clBpZzVpdndJQmVJTDd1RllVdGtwNDZtS0xoYVNmZFFqSHJhUlBYczQxMXZKZ2hvSGdPOExILURHT1R3UHdYY2VwZWxoUE9SN2U0OW8zTDNBUHRYWU5VVUhkZWVuTE83OHk3a09XMWt6SEpwRjZMRE1janN2SGV3Wi1JbjBlaEQ0cmdy)
-  - [Wall Street sinks on bets Fed will hike rates this year](https://news.google.com/rss/articles/CBMikwFBVV95cUxNUklQakNqNVVPRDVvUllkUHFYYVB4SXZTX3VkWml5eXJBRlJsZU4tclpReXJYc0dMTXhHaV9ySEtvTUpqbWhUcmI2YWM3THlWV1ZuUFpraFBTRldqUGJnZUN4ckRTV1BFc0NoZ0MwcDlPM1FQNE9sOVlyWjZLUFpDd0NxX1dYel9DMXltRmxjLTBvX2c)
-  - [IEA sees significant 2027 oil surplus after Hormuz recovery](https://news.google.com/rss/articles/CBMivwFBVV95cUxQazMyeHVJZDM1MVBBamxXaVI2NnNfSjUyb3NtYUdETUk4MWRBQk41SDZKcWRLWUhrblhJVnlwV2hLS011TXZWSjVQWFNReDRjc3F6Q0xBc0k1YU5ESnhtTU5oMUgya2prWlZIRVFLamlVWXlaN0xrWS1sd01mT05rN3p5UmVoRG1Sb3dYWkp5YmZydHpjUlE5a2JtOXlZSlg1WkR0eUUtTTY4TGYzNnlTUC1TREE3QmRrd3FBeUk4Yw)
-  - [G7 sets up critical minerals alliance, platform to cut reliance on China](https://news.google.com/rss/articles/CBMipAFBVV95cUxPenZ4Yi1yLTlKa0NWWUduYUFvWlo3SHBBdFliTTh1MXUxbHVFaGI5TFlzM1dCQmpzclptSDdubUYzUmNoN3pNcFhEbE80RHZNZ0k0VXBnUFhSSWlrZXY5RXRHWGhwWmJIVUJFMzhJcDRsclBTamp3WHBaOE5MdjJYREtLemFpSmNmd05yd0thRFZZMzg0cHNzY2xnTkptd0hDdnlQNg)
+  - [G7 sets up critical minerals alliance, platform to cut reliance on China](https://news.google.com/rss/articles/CBMipAFBVV95cUxPenZ4Yi1yLTlKa0NWWUduYUFvWlo3SHBBdFliTTh1MXUxbHVFaGI5TFlzM1dCQmpzclptSDdubUYzUmNoN3pNcFhEbE80RHZNZ0k0VXBnUFhSSWlrZXY5RXRHWGhwWmJIVUJFMzhJcDRsclBTamp3WHBaOE5MdjJYREtLemFpSmNmd05yd0thRFZZMzg0cHNzY2xnTkptd0hDdnlQNg))
+  - [BMW shares sink after profit warning highlights China and Iran risk](https://news.google.com/rss/articles/CBMiugFBVV95cUxOTVBHYTAycFp5MmdoVGNRbE12eWJzT0c5U1NPbURoNmxHQUJZcEdEaHJ5MGU1dDhFUUw0cV9ZM0VpMGIzWk5XY1pqcFpoblJCM3NBektPRzh2clF4OW9JWnRTa25kMkk3a1NmRlVySXNubUZWUjE4bTBBTlV5MEtMd1FQajR0THZyeXdnZ0xlaFk0YXI1ZV9GZTk2b3YzMjd4aEZtZXkybnZXdXRoNDZtZDNJbFhzUVNQWlE))
 - **FT**
-  - [US retail sales jump in sign consumers are weathering petrol shock](https://www.ft.com/content/a1cef91a-e590-4b01-a81e-5a1f9488cffe)
-  - [UK inflation unexpectedly holds steady at 2.8% in May](https://www.ft.com/content/25ce9b8d-bc00-41cf-9f8c-bd526baf2eed)
   - [Germany backs French push for US-style tariffs and quotas](https://www.ft.com/content/06b7fe04-25f7-445b-824a-135ae73596a5)
 - **CNBC**
   - [BMW stock slumps to 5-year low as Iran war and China slowdown spark profit warning](https://www.cnbc.com/2026/06/17/bmw-profit-warning-autos-cars-china-iran.html)
 - **SCMP**
   - [US Fed begins Warsh era with hold on interest rates, may hike later this year](https://www.scmp.com/news/world/united-states-canada/article/3357477/us-fed-begins-warsh-era-hold-interest-rates-may-hike-later-year)
+  - [The US and Iran publish their official agreement. Here’s what’s in it](https://www.scmp.com/news/us/diplomacy/article/3357480/us-and-iran-publish-their-official-agreement-heres-whats-it)
+  - [‘Not final’: Trump flips again on Iran deal, plans press conference in France](https://www.scmp.com/news/china/diplomacy/article/3357465/not-final-trump-flips-again-iran-deal-plans-press-conference-france)
   - [Why the US-Iran deal may fail to revive shipping through the Strait of Hormuz](https://www.scmp.com/economy/global-economy/article/3357429/why-us-iran-deal-may-fail-revive-shipping-through-strait-hormuz)
   - [As the Iran war comes to a close, is the US pulling warships back to the west Pacific?](https://www.scmp.com/news/china/military/article/3357439/iran-war-comes-close-us-pulling-warships-back-west-pacific)
-  - [Europe rallies around tough new China strategy ahead of key summit](https://www.scmp.com/news/china/diplomacy/article/3357470/europe-rallies-around-tough-new-china-strategy-ahead-key-summit)
-  - [Trump likes Canada's Chinese EV deal, Carney says after chat caught on hot mic](https://www.scmp.com/news/world/united-states-canada/article/3357479/trump-likes-canadas-chinese-ev-deal-carney-says-after-chat-caught-hot-mic)
-  - [The white paper making China's case for new rules for the world's new frontiers](https://www.scmp.com/news/china/diplomacy/article/3357445/white-paper-making-chinas-case-new-rules-over-worlds-new-frontiers)
-  - [China moves to end 'irrational' food-delivery subsidies and the sector's price wars](https://www.scmp.com/tech/article/3357458/china-moves-end-irrational-food-delivery-subsidies-and-sectors-price-wars)
-  - [Is the US warming up to Hong Kong? High-level meeting with business group signals shift](https://www.scmp.com/news/china/politics/article/3357447/us-warming-hong-kong-high-level-meeting-business-group-signals-shift)
-- **CNN**
-  - [How to read the US-Iran draft agreement: Big commitments from Washington, not from Tehran](https://news.google.com/rss/articles/CBMijgFBVV95cUxQSEtWSnRTNlg1ak1CQ21LU2I3TTdBNkJFOGZLRnBOREpEWXJZSVJMUUtVSkEyLXF0eFVZTFIwb0NKWkxIbkRBU2tiRE9fZkE4akFBSE9pYVdZTzJTVVIyQkZxSG9rd2YxYzJ6QnVoRlA2SWs1Rjk5WnJaelNIenM0SF82RzRtdDRXdFllZDBR)
-- **Others**
-  - [Investing — Merz at G7: China's currency undervalued by up to 30%](https://www.investing.com/news/forex-news/merz-at-g7-chinas-currency-undervalued-by-up-to-30-93CH-4746889)
-  - [CNA — Economists raise inflation forecasts and lower GDP growth slightly: MAS survey](https://news.google.com/rss/articles/CBMif0FVX3lxTE5ob3JvTHlQdG5vaU1Ob0tQNHViTzNsVDlOcWRNTTZadUpQQndYRGRQU3E3VHk3S0pOMGxiVXJCRDdRdHlBWXJsTkRBQThmbWFFeERCcUZOVFdfZ2d1VFpYdDlSWUNWWFY0Q2pkbElYWnMzNEpJYUxFZXFfdjYtLW8)
-  - [Xinhua — 纽约股市三大股指17日显著下跌](https://www.news.cn/fortune/20260618/a5eac65a95584667affe1b3f27fbcb6e/c.html)
-  - [WSJCN — 美联储鹰派转向，美股债遭"双杀"，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫](https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wenN6clBlX1NFYlN5Y3luNWFYcE1zQmdtdFYtcUxCOTN3anNOUE1GTklYcml2OXNid21sQWE3ZzI5UGFVMnY5a2dRQ2E0dVVWYVpv)
-  - [BT — European shares end higher as markets await Iran deal details, Fed policy; BMW slides](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNYzdvTmtlbnd6M1hESGZrbVB2cElUeHBRY2FndkhldmhrUzNDcnpPb3dBbjJYVDhLQjJockhvd19PY3RMSGJSQlNSTVQ1MGIzM0NPV2FWM0xSbzY5LXp5d01TSVFpaUpyZ0xtblk5RlUwLUMyVk5WSW9OZDlRdFJrRHZ0Sm5HZFlGSkxIaE92bXIwS1cyeERKdWY4RDd1QkJYRGhYTXg2azg5MWJPdFdzRkZ6VnktQmo1Wm5VMGxfbVFhRFdIZ0hiNzRKRVlEb0g0TlRuZ2ExdGwwWENSNURVc1A2VnZKdzkxNl9zRjNzYw)
-  - [ChnFund — 日韩股市集体高开，日经225指数再创新高](https://www.chnfund.com/article/AR457017dd-6080-5680-0fc6-3a21ea86efa7)
-  - [HKMA_Press — HKMA's Response to US Fed's Interest Rate Decision](https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/06/20260618-3/)
+- **CNA**
+  - [Economists raise inflation forecasts and lower GDP growth slightly: MAS survey](https://news.google.com/rss/articles/CBMif0FVX3lxTE5ob3JvTHlQdG5vaU1Ob0tQNHViTzNsVDlOcWRNTTZadUpQQndYRGRQU3E3VHk3S0pOMGxiVXJCRDdRdHlBWXJsTkRBQThmbWFFeERCcUZOVFdfZ2d1VFpYdDlSWUNWWFY0Q2pkbElYWnMzNEpJYUxFZXFfdjYtLW8))
+- **WallstreetCN**
+  - [美联储半数官员想加息！交易员全面定价10月前将加息](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtM3lQcUpZMmNpRHZXdGEtM29wQ214VVBsMkM5bmVkMHNDaWE5MG9CcmJxSmJycWJpUTk0ZU9ORVZ0SnlnMFBkY1VLYk9ORjJiNHJz)
+  - [债券“南向通”非银扩容落地：险企、理财子持续跟进](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvRC1OSGQ3dGNZMC1jWmlIZHh5VU9KdnZsOWF3WjE5aTZFV3kwU0JhVzB3Z1ZDZmpaaHYzZWNtNDdueWFmQ01vb1RiV1J5VXliOF9R)
+- **Xinhua**
+  - [纽约股市三大股指17日显著下跌](https://www.news.cn/fortune/20260618/a5eac65a95584667affe1b3f27fbcb6e/c.html)
+  - [国际油价17日上涨](https://www.news.cn/fortune/20260618/a3f1b5cdb80041cca96fe27736e49e75/c.html)
+- **CCTV**
+  - [伊朗方面披露美伊谅解备忘录文本内容](https://news.google.com/rss/articles/CBMieEFVX3lxTE5pVUswU2cwOFN1SmZ3bFZENzJBX09keUU3VGI3U3RZcGRxSW1sX2VNTEVRdGRLUklEc3hMcGZmbmRjeTBDNlZfOW5Wd0xfZ29IVk1PYXVERlFwZTctcUdHVWQ4N0ZBOWFUWmpONnczcjZyN2RWMzl1Xw))
+- **Investing_Forex**
+  - [Merz at G7: China’s currency undervalued by up to 30%](https://www.investing.com/news/forex-news/merz-at-g7-chinas-currency-undervalued-by-up-to-30-93CH-4746889)

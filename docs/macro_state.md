@@ -1,26 +1,24 @@
 # Macro State — Last updated: 2026-06-18
 
 ## Active Narratives (max 4)
-- **Fed Warsh Era Hawkish Acceleration** — Status: Acceleration; nine officials now project 2026 hike, statement purged cutting bias, traders fully price September move; operational overhaul signals institutional regime change. Next trigger: Warsh task force interim reports, September meeting pricing stability.
-- **Hormuz Physical Normalization Underway but Incomplete** — Status: Acceleration; deal formally signed and in effect, tankers repositioning, but major shippers like Maersk hold back on full normalization amid security and durability concerns, capping full supply return. Next trigger: first major liner commercial transit without incident.
-- **G7/EU China Trade Escalation With Currency Dimension** — Status: Acceleration; Germany backs French push for US-style tariffs and quotas, G7 launches critical minerals alliance to cut China reliance, Merz claims yuan `30%` undervalued, broad EU coalition supports tough new trade strategy. Next trigger: EU summit decisions and any US Treasury currency report follow-through.
-- **PBOC Framework Shift Toward Fed-Style Corridor** — Status: Confirmation; corridor narrowing and new repo facility launch continue to modernize yuan liquidity management; no new PBOC operational news today to shift narrative. Next trigger: first operations and usage data for the new repo facility.
+- **Fed Warsh Hawkish Pivot** — Status: Acceleration; first FOMC under Warsh shows 9 of 18 officials projecting a 2026 hike, dollar surges and yields jump, marking a decisive shift from prior uncertainty. Next trigger: BoE decision, US jobless claims, further Fedspeak.
+- **Hormuz Normalization in Doubt** — Status: Reversal; peace deal is published but Trump calls it unfinished and major shippers remain cautious, reversing the earlier assumption of rapid physical normalization. Next trigger: Trump France press conference, Maersk routing announcement.
+- **EU-China Trade Confrontation** — Status: New; Germany backs French tariff push, G7 launches minerals alliance, and Merz calls the yuan deeply undervalued, opening a new front of trade‑policy risk. Next trigger: EU summit conclusions, any Chinese retaliation.
+- **ECB Hawkish Pushback Against Oil Disinflation** — Status: Fading; no fresh ECB communication today, and stabilizing crude reduces immediate pressure, though the narrative persists in the background.
 
 ## Watchpoints (max 5)
-- BOE interest rate decision Thursday evening; expected hold at `3.75%` with energy shock receding; any hawkish dissent or guidance shift would test gilt and sterling pricing.
-- Japan yen intervention risk; yen hit weakest since July 2024 on hawkish Fed; MOF response threshold a key tactical trigger for Asia FX.
-- First commercial vessel transit through Hormuz without incident, confirming full normalization and potentially triggering further crude downside.
-- EU summit decisions on China trade strategy; any concrete tariff or quota announcements would escalate trade-war risk and pressure CNH and European cyclicals.
-- Indonesia rate decision (consensus `5.75%`, prior `5.50%`); hike expected; rupiah stabilization and impact on EM Asia risk sentiment.
+- Trump press conference on Iran deal; any signal of re‑escalation would break the fragile truce and lift oil risk premium.
+- Maersk and other container lines’ formal resumption decisions on Hormuz transits.
+- Any Chinese response to EU tariff momentum or G7 minerals alliance.
+- US initial jobless claims and Philadelphia Fed index for labor‑market consistency with the hawkish FOMC.
+- BoE rate decision; a hawkish surprise would extend the global bond rout and support USD.
 
 ## Open Questions (max 3)
-- Will the PBOC's corridor narrowing succeed in anchoring short-term market rates amid a hawkish global rate environment and dollar strength?
-- Can the ECB sustain its hawkish guidance if crude continues to slide and the EU hardens its China trade stance, risking growth?
-- Will the Hormuz deal's durability survive its first test, or will shipping industry caution prove justified, keeping a risk premium in crude?
+- Will the Fed’s hawkish dots translate into actual tightening if global growth and trade frictions deteriorate?
+- Can the US‑Iran framework survive the implementation phase, or will the Hormuz risk premium return?
+- How aggressively will the EU move toward China tariffs, and what will China’s counter‑measures look like?
 
 ## Key Levels (max 5)
-- Fed year-end 2026 median dot: `3.750%` — anchors terminal rate expectations and validates hawkish repricing across the US curve ([BBG](https://www.bloomberg.com/news/articles/2026-06-17/the-fed-s-new-dot-plot-after-its-june-policy-meeting-chart)).
-- USD/JPY at weakest since July 2024 — intervention threshold being tested; yen depreciation momentum a direct transmission of hawkish Fed ([BBG](https://www.bloomberg.com/news/articles/2026-06-17/yen-slides-to-weakest-level-versus-dollar-since-july-2024-mqih9kot)).
-- Brent crude: tanker repositioning and Hormuz deal signal ongoing sell-off pressure; physical normalization speed will determine downside magnitude ([BBG](https://www.bloomberg.com/news/articles/2026-06-17/latest-oil-market-news-and-analysis-for-june-18)).
-- Nikkei 225 at `71,392.33` record high — BOJ rate expectations and yen weakness driving equity divergence from US; Japan reflation trade remains intact ([ChnFund](https://www.chnfund.com/article/AR457017dd-6080-5680-0fc6-3a21ea86efa7)).
-- UK 2-year gilt yield direction — BOE decision Thursday will resolve whether inflation flatlining at `2.8%` translates to sustained rate-hold pricing or opens door to cuts ([FT](https://www.ft.com/content/25ce9b8d-bc00-41cf-9f8c-bd526baf2eed)).
+- DXY — surged most in three months after the hawkish FOMC, direction marked but no specific level cited in today’s feed.
+- US 2‑year Treasury yield — jumped as traders fully priced an October rate hike, no precise closing level cited.
+- Brent crude — rose on peace‑deal optimism, adding to‑day’s positive close; no specific level cited.
