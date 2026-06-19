@@ -1,25 +1,25 @@
-# Macro State — Last updated: 2026-06-18
+# Macro State — Last updated: 2026-06-19
 
 ## Active Narratives (max 4)
-- **Fed Warsh Hawkish Pivot** — Status: Acceleration; the dot‑plot shock is now transmitting forcefully through Asian equities and FX, with dollar at a one‑year high and Japan forced into verbal intervention. Next trigger: US initial jobless claims and Philly Fed tonight.
-- **Hormuz Normalization in Doubt** — Status: Reversal; tanker booking failures for Iraqi crude show physical flows have not resumed despite the signed peace deal, and domestic US criticism adds political fragility. Next trigger: any confirmed Hormuz transit booking by a major crude tanker.
-- **Ukraine‑Russia Escalation** — Status: New; the largest drone attack on Moscow since the full‑scale war began injects fresh geopolitical risk and safe‑haven demand. Next trigger: Russia’s official retaliation response.
-- **EU‑China Trade Confrontation** — Status: Confirmation; still present in the background with US‑style tariff pushes and G7 minerals alliance, though no major intraday developments.
+- **Fed Warsh Hawkish Pivot** — Status: Acceleration; strong US data and surging hike bets reinforce the hawkish shift, driving dollar to one-year high. Next trigger: any dovish Fed speaker or soft inflation print that tempers July hike expectations.
+- **US-Iran Peace Deal Signed but Fragile** — Status: New phase (signed MOU, immediate Hormuz reopening pledge); the prior "normalization in doubt" narrative reverses, but deep skepticism persists. Next trigger: confirmed tanker booking through Hormuz.
+- **Ukraine-Russia Escalation** — Status: Acceleration; largest drone attack on Moscow since the full-scale war began shatters security assumptions. Next trigger: Kremlin's official retaliation response within 24-48h.
+- **Global Central Bank Hawkish Synchronization** — Status: Confirmation; BOE hold with hawkish dissent and ECB neutral-rate uplift echo the Fed's tough stance, tightening global financial conditions. Next trigger: any central bank communication that signals a pause.
 
 ## Watchpoints (max 5)
-- US initial jobless claims and Philadelphia Fed index tonight — soft data could moderate the hawkish dollar bid.
-- Bank of England rate decision (19:00 HKT) — a hawkish hold or surprise would extend the global tightening narrative.
-- First successful crude tanker booking through Hormuz — would unwind the physical risk premium.
-- Kremlin statement or military response to the Moscow drone attack — escalation would lift oil and safe havens.
-- Any Chinese retaliation against EU tariff momentum or G7 minerals alliance.
+- First successful major crude tanker transit through Hormuz after the MOU signing.
+- Kremlin's retaliation statement or military action following the Moscow drone attack.
+- Any dovish-leaning Fed speech or softer-than-expected US PCE inflation next week that challenges the July hike pricing.
+- BoE’s next data prints (retail sales, UK CPI) that could tilt the 7-2 vote toward a hike.
+- EU-China trade tension escalation after leaders discuss tougher measures.
 
 ## Open Questions (max 3)
-- Will the Fed actually deliver a 2026 hike if global growth deteriorates under trade and geopolitical stress?
-- Can the Iran peace deal translate into physical shipping normalization despite the political and insurance obstacles?
-- How far will the Ukraine‑Russia escalation spiral, and will it trigger a broader European security rethink?
+- Will the Fed actually deliver a 2026 hike if the peace deal eases oil prices and global growth falters?
+- Can the Iran peace deal translate into sustained physical shipping normalization despite the political and insurance obstacles?
+- How far will the Ukraine-Russia escalation spiral, and will it trigger a broader European security rethink?
 
 ## Key Levels (max 5)
-- **DXY** — hit a one‑year high today on Fed hike bets, driving broad dollar strength ([Reuters](https://news.google.com/rss/articles/CBMiswFBVV95cUxPaDB0RVFwMXFkQjhPUWdNeVBFLUVIQV93YktaR01GR1Jpc2pDNmVJQW9vUGxnU0pCZE9NUW9tdmdUMW1KQkJmdVotLUx0UlZtcF8wMkY2YjhQWnZwS19WUlI4dENPQTdwMTFvQ1l6eFlXTGlwQmdSWWtOMmwzeTVWTjdiSDZsOXh5cFhKN3c0UUJzbi1lS2xSeTJuWWdRTzJUSl9wYlFCMFhvSGlIRXU3LXlmSQ)).
-- **USD/JPY** — rapid yen weakness prompted Japanese currency diplomat to issue a warning that authorities are ready to act ([Reuters](https://news.google.com/rss/articles/CBMiswFBVV95cUxPaDB0RVFwMXFkQjhPUWdNeVBFLUVIQV93YktaR01GR1Jpc2pDNmVJQW9vUGxnU0pCZE9NUW9tdmdUMW1KQkJmdVotLUx0UlZtcF8wMkY2YjhQWnZwS19WUlI4dENPQTdwMTFvQ1l6eFlXTGlwQmdSWWtOMmwzeTVWTjdiSDZsOXh5cFhKN3c0UUJzbi1lS2xSeTJuWWdRTzJUSl9wYlFCMFhvSGlIRXU3LXlmSQ)).
-- **Hang Seng Index** — tumbled over `500` points intraday, losing the `24,000` level as northbound flows fled ([HKEJ](https://news.google.com/rss/articles/CBMitgJBVV95cUxPS21GYlAxXzlneFdkVU9oMUJNQUJMUzJpZEtJc2tIR01ZdHNkTGJhR1RXRkJPSmM2NTNJb2QxbXU1TTI2XzdqZGxUMWVwd3dfaVFuTVN0OWlTZXRwOFhIUUl0MndsLV9vLXZXVVlNekJDd3FiSWEyRFk0T3ZSdGVOazdzeTlUOGlsbnBnb3BFUUdlUWxvQXhlc1VrWTh2eWtscmU2ZXVyT2gwYTloRnZNQzlxSG40U2RPRWpUNkxvMFoyNkdOV2VsOHN0ZE0ybTgtbWZGNHRFVkRGTnhGWmQzRVdhckJBX0VoRXdTNzBPNnhqMlR1eFllR1dMTTJjRDh5N01NaHcwV09sNjJBMWVfQjN6ZGFTbXNiQlBMM0s3UW4zTENOVkpUVWZ3dmhNMlNyTUpwcElB)).
-- **Brent crude** — supported by tanker‑booking failures and Ukraine escalation, though early‑session decline was tied to peace‑deal headlines.
+- **DXY** — hit a one-year high on Fed rate-hike bets, driving broad dollar strength ([BBG](http://www.bloomberg.com/news/articles/2026-06-18/dollar-rally-builds-as-hawkish-fed-meeting-stokes-rate-hike-bets)).
+- **US 2-year yield** — rose almost another 3bp, holding at one-year highs on rate-hike fears ([CNBC](https://www.cnbc.com/2026/06/18/treasury-yields-investors-warsh-fed-interest-rates.html)).
+- **Brent crude** — supported by peace deal hopes on the surface, but fragile implementation and Russian waiver expiry add two-sided risk ([SP Global](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ0VXYnMwaWd0bU1CUXVabVRmYnFTdFhCb3lmQXktT3RiLUlLNHVHTGRIaUxBd0xrS2ItdGlEVDFhMkxpbVdkcGtOemJVclZYeDJOOXhSUzJoMXI0a2dLaEpqdDFOSVJKd3ppUE5wT1N2RmtGdXZnSTg5THhnajJTWkdJTkw3NXp4U2JibDhNTFE5eHhvUk5JNEJSX3BEYnI3YTRZVGpyUmNKd0xISS1SdEs0TEhfUTVWd1lmQjRMSlBTemE2WE42bXByQy1LZUs5d3c)).
+- **BoE Bank Rate** — held at `3.75%` with a 7-2 vote, signaling caution while two dissenters demanded immediate tightening ([BBG](https://www.bloomberg.com/news/articles/2026-06-18/boe-holds-rates-in-7-2-vote-as-it-waits-for-iran-deal-to-pan-out)).
