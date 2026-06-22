@@ -163,8 +163,8 @@ jobs:
           FETCH_ROUND_TIMEOUT_SECONDS: "180"
           MAX_ENHANCE_ARTICLES: "45"
           ENHANCE_TIMEOUT_SECONDS: "90"
-          LLM_TIMEOUT_SECONDS: "360"
-          RUN_TIMEOUT_SECONDS: "3000"
+          LLM_TIMEOUT_SECONDS: "420"
+          RUN_TIMEOUT_SECONDS: "4200"
         run: |
           set -o pipefail
           python morning_briefing.py ${{ steps.type.outputs.flag }} --from "${{ steps.type.outputs.window_from }}" --to "${{ steps.type.outputs.window_to }}" 2>&1 | tee briefing-run.log
