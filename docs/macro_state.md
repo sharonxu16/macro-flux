@@ -1,26 +1,26 @@
-# Macro State — Last updated: 2026-06-22
+# Macro State — Last updated: 2026-06-23
 
 ## Active Narratives (max 4)
-- **US‑Iran Peace Implementation Accelerating** — Status: Acceleration; physical tanker transits, asset unfreezing, and Lebanon progress mark concrete normalization. Next trigger: sustained commercial shipping flows through Hormuz over the next week.
-- **China‑US Trade War Escalation** — Status: New; Beijing retaliates with export controls on 10 US firms tied to defense, aerospace, and rare earths, raising supply‑chain disruption risk. Next trigger: Washington’s official response or additional blacklist actions.
-- **Fed Warsh Hawkish Pivot Driving Dollar Strength** — Status: Confirmation; no new Fed commentary today, but the hawkish pricing continues to underpin DXY near one‑year highs. Next trigger: US data or any dovish Fed speaker that could shift July‑hike expectations.
-- **UK Political Instability and GBP Free‑fall** — Status: New; PM Starmer resigns, pound tumbles to 2026 low, and fiscal‑risk premium resurfaces. Next trigger: Labour leadership contest outcome and any fiscal policy plan within days.
+- **US-Iran Peace Implementation Accelerating With Friction** — Status: Acceleration; concrete sanction waivers and asset unfreezing proceed, but Trump’s conditional language and food-purchase dispute introduce uncertainty. Next trigger: first Iranian crude cargo under eased sanctions, and resolution of agricultural trade disagreement.
+- **China-US/EU Currency Valuation Tensions Emerge** — Status: New; Lagarde explicitly calls for G7-level talks on yuan undervaluation citing 15-16% IMF estimate, raising risk of a multilateral currency dispute. Next trigger: official Chinese response and any US Treasury/IMF follow-up.
+- **Fed Hawkish Repricing and Dollar Surge** — Status: Acceleration; BofA and Deutsche Bank join September-hike calls, Goolsbee warns inflation is heading the wrong way, dollar pushes to one-year highs. Next trigger: US PMI flash today and core PCE later this week.
+- **UK Political Instability and Gilt Market Vigilance** — Status: Confirmation; Starmer resignation triggers speculation on next chancellor and possible fiscal rule changes, keeping UK bond risk premium elevated. Next trigger: Labour leadership contest outcome and any fiscal framework statement.
 
 ## Watchpoints (max 5)
-- Frequency and consistency of non‑Iranian commercial tanker transits via Hormuz in the coming 48‑72h.
-- US government’s specific retaliation to China’s new export‑control list.
-- UK Labour leadership front‑runner and early fiscal signals.
-- BOK or Korean financial authorities’ steps to address chip‑windfall property risks.
-- Next US inflation or labor market print that tests the Fed hike probability.
+- China’s official reaction to Lagarde’s yuan undervaluation claim; any MOFCOM or PBOC statement.
+- US Treasury designation of China as a currency manipulator or formal bilateral talks.
+- First confirmed loading of Iranian crude for US refineries under the waived sanctions window.
+- US S&P Global PMI prints (manufacturing and services) and Richmond Fed index, testing hard-data support for hawkish Fed bets.
+- Singapore CPI release for any signal of accelerating core inflation that could shift MAS stance.
 
 ## Open Questions (max 3)
-- Will the Hormuz transit normalization hold if Lebanese‑linked tensions flare again?
-- How far will the US‑China strategic trade conflict escalate, and could rare‑earth supply be severely restricted?
-- Can the UK political transition contain gilt‑market stress, or will it spill into a broader sterling crisis?
+- Will the US-Iran agricultural purchase dispute derail the broader interim deal or remain a minor friction?
+- How aggressively will the US administration leverage Lagarde’s yuan call to advance its own trade agenda?
+- Can the UK political transition produce a credible fiscal anchor quickly enough to prevent gilt market dislocation?
 
 ## Key Levels (max 5)
-- **GBP/USD** — trading near 2026 low, reflecting political risk premium ([BBG_Markets](https://www.bloomberg.com/news/articles/2026-06-22/pound-trades-near-2026-low-as-uk-political-uncertainty-builds)).
-- **DXY** — sustained at one‑year highs on hawkish Fed bets (carried forward; no fresh print today).
-- **SK Hynix market cap** — surpassed Samsung, affirming AI‑chip dominance and a new Korea equity milestone ([Reuters_GN](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbHluTXR0eVV4MVVvamJZY1BmUUNiYkxxeG52ak43ei1pXzZtMm95Sm1COThhSkR5WExMV3pNY1RMT1FoUnFyVlF0b3VDeGNxMC1HUEdHOWdnTVhZdjZDQllENl9OU2xwdlhoTk93YVZaZmY4VW5BUzlYOVl3emg1b1FYQURvZHZsSmJTd2RnYTdJREhzZ25LTldrX3c1V04yZEJSQ0Jqd1ktYWxySkdTc2czNnlwenpq)).
-- **Brent crude** — supported by demand recovery expectations but faces two‑sided risk from Iran supply normalization and Russian policy shifts (not quoted, directional).
-- **China 5‑year LPR** — held at `3.5%` for 13th month, keeping steady CNY‑funding anchor ([Reuters_GN](https://news.google.com/rss/articles/CBMitgFBVV95cUxPTGFvTXhpMUNaSEFZOFZPUGtFMXh0eTNsQjFEekRfdlFHbDFtc2hPOEFUZThUdmRtOU1iWDNac05iSXZIYWEyVnpfT3VMbFVfM0JCdy1xS3RCZWZFbUR5aGZuckQyUHVjTW9ZdWMtbWc4NDVIVzRzYlhDUzVzOWNFbnp6cll2YW5JdFAwQlNPckhiZm44QkJNY0FwMXVVMmxodHJ4bWtKMG9rTUlsU3RVeUNTTUlWQQ)).
+- **DXY** — at one-year high, underpinned by hawkish Fed expectations ([Investing.com](https://www.investing.com/news/forex-news/dollar-steady-near-multimonth-highs-with-focus-on-iran-talks-pce-data-4751772)).
+- **USD/CNH** — sensitive to Lagarde comments; 15-16% IMF estimate implies substantial revaluation pressure if acted upon ([SCMP](https://www.scmp.com/news/china/money-wealth/article/3357971/european-central-banks-president-lagarde-urges-talks-yuan-undervaluation)).
+- **Brent crude** — edging higher amid Iran sanction easing uncertainty; Citi sees overhang disappearing ([CNBC](https://www.cnbc.com/2026/06/23/oil-prices-rise-as-investors-mull-middle-east-developments-.html)).
+- **GBP/USD** — recovering from 2026 low post-Starmer exit, but fiscal uncertainty caps gains ([Investing.com](https://www.investing.com/news/forex-news/dollar-steady-near-multimonth-highs-with-focus-on-iran-talks-pce-data-4751772)).
+- **Nasdaq** — underperformed following SpaceX crash, while Philadelphia Semiconductor Index hit a new record, highlighting sector divergence ([HKEJ](https://news.google.com/rss/articles/CBMi0gJBVV95cUxQRVZQdUZVNDdCNzY5WU9rSTRYNW9mcGxfdGFFWnZmM0p4aEFPUzhBaW84cVowbGRrQTA0U2xwLVJoYndvWU1jUzJhanpaRlp3WnA4MUdjcUFyVmRSdnlhQTYySG5YSENPbkhvdmF2ck5ZN0JnR3dSVkZZTkJlYkh0c3dzZHNmMU8yY3ZBeGhzOTFOWGR2SmJYWFM0U0VTMVpWNm5tV0dtQzhCOFp1eGFmYmxnZXRabW1NMlI2cFdJa2pyTl9yd1VvOTlCcWhmU1dUdjRKQWlKZFpINU5FMGJTTlo3YWJOWXlhb0QzTm5PaEs3UGhjM2VVckVLdzFGc3NYMGpEOEdPNWdPVEoycUFlNDM5YXc0emR0RkYzbUhFZkduOTlKQTA1OU1wMnRwcmFkWktkbVEyZ1RGT0VVWms0Nm5oWVJzam1XcXdFOGdiWlNldw)).
