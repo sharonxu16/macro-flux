@@ -1,26 +1,26 @@
 # Macro State — Last updated: 2026-06-23
 
 ## Active Narratives (max 4)
-- **US-Iran Peace Implementation Accelerating With Friction** — Status: Acceleration; concrete sanction waivers and asset unfreezing proceed, but Trump’s conditional language and food-purchase dispute introduce uncertainty. Next trigger: first Iranian crude cargo under eased sanctions, and resolution of agricultural trade disagreement.
-- **China-US/EU Currency Valuation Tensions Emerge** — Status: New; Lagarde explicitly calls for G7-level talks on yuan undervaluation citing 15-16% IMF estimate, raising risk of a multilateral currency dispute. Next trigger: official Chinese response and any US Treasury/IMF follow-up.
-- **Fed Hawkish Repricing and Dollar Surge** — Status: Acceleration; BofA and Deutsche Bank join September-hike calls, Goolsbee warns inflation is heading the wrong way, dollar pushes to one-year highs. Next trigger: US PMI flash today and core PCE later this week.
-- **UK Political Instability and Gilt Market Vigilance** — Status: Confirmation; Starmer resignation triggers speculation on next chancellor and possible fiscal rule changes, keeping UK bond risk premium elevated. Next trigger: Labour leadership contest outcome and any fiscal framework statement.
+- **Global Risk‑Off & Equity Rout** — Status: Acceleration; KOSPI crash >6% and dollar extending to new highs intensify a broad risk‑aversion wave, with the Fed‑driven liquidity squeeze biting across EM assets. Next trigger: US flash PMI and Richmond Fed today, and whether circuit‑breaker events spread to other Asian markets.
+- **US‑Iran De‑escalation with Limited Supply Relief** — Status: Fading; sanctions waivers are operational but Asian physical uptake remains minimal outside China, slowing the disinflation impulse. Next trigger: first confirmed Iranian crude delivery to a non‑Chinese Asian refiner.
+- **Yuan Valuation Tensions — Countermeasure Deployment** — Status: Reversal; PBOC grants six state banks direct offshore trading access as an explicit tool to anchor CNH, shifting the dispute from rhetoric to operational policy. Next trigger: official Chinese response to Lagarde and any US Treasury follow‑up.
+- **Fed Hawkish Repricing & USD Dominance** — Status: Acceleration; fresh cycle highs in dollar, gold’s near‑2% slide, and yen at 40‑year low confirm the hawkish feed‑through, with rate differentials widening relentlessly. Next trigger: US core PCE later this week.
 
 ## Watchpoints (max 5)
-- China’s official reaction to Lagarde’s yuan undervaluation claim; any MOFCOM or PBOC statement.
-- US Treasury designation of China as a currency manipulator or formal bilateral talks.
-- First confirmed loading of Iranian crude for US refineries under the waived sanctions window.
-- US S&P Global PMI prints (manufacturing and services) and Richmond Fed index, testing hard-data support for hawkish Fed bets.
-- Singapore CPI release for any signal of accelerating core inflation that could shift MAS stance.
+- US flash PMI (manufacturing `54.8` est vs 55.1 prior, services `51` est vs 50.7 prior) and Richmond Fed (`9` est vs 13 prior) — any downside surprise could momentarily ease the hawkish bid.
+- KOSPI circuit‑breaker aftermath overnight; whether the selloff cascades into other Asian equity opens tomorrow.
+- First concrete loading/shipping of Iranian crude to a non‑Chinese Asian buyer to validate sanctions‑waiver effectiveness.
+- PBOC daily fixing and CNH spot behavior following the direct‑access policy change — tighter convergence would confirm intent.
+- Singapore MAS monetary policy statement (June) for any reaction to steady inflation; unlikely but sensitive if global risk‑off deepens.
 
 ## Open Questions (max 3)
-- Will the US-Iran agricultural purchase dispute derail the broader interim deal or remain a minor friction?
-- How aggressively will the US administration leverage Lagarde’s yuan call to advance its own trade agenda?
-- Can the UK political transition produce a credible fiscal anchor quickly enough to prevent gilt market dislocation?
+- Will the KOSPI crash trigger an outright FX intervention or emergency BOK action to stabilize KRW?
+- Does PBOC’s direct offshore access signal a larger shift toward tighter capital controls or more aggressive CNH management?
+- Can the limited Asian re‑engagement with Iran oil be reversed if the peace framework solidifies further?
 
 ## Key Levels (max 5)
-- **DXY** — at one-year high, underpinned by hawkish Fed expectations ([Investing.com](https://www.investing.com/news/forex-news/dollar-steady-near-multimonth-highs-with-focus-on-iran-talks-pce-data-4751772)).
-- **USD/CNH** — sensitive to Lagarde comments; 15-16% IMF estimate implies substantial revaluation pressure if acted upon ([SCMP](https://www.scmp.com/news/china/money-wealth/article/3357971/european-central-banks-president-lagarde-urges-talks-yuan-undervaluation)).
-- **Brent crude** — edging higher amid Iran sanction easing uncertainty; Citi sees overhang disappearing ([CNBC](https://www.cnbc.com/2026/06/23/oil-prices-rise-as-investors-mull-middle-east-developments-.html)).
-- **GBP/USD** — recovering from 2026 low post-Starmer exit, but fiscal uncertainty caps gains ([Investing.com](https://www.investing.com/news/forex-news/dollar-steady-near-multimonth-highs-with-focus-on-iran-talks-pce-data-4751772)).
-- **Nasdaq** — underperformed following SpaceX crash, while Philadelphia Semiconductor Index hit a new record, highlighting sector divergence ([HKEJ](https://news.google.com/rss/articles/CBMi0gJBVV95cUxQRVZQdUZVNDdCNzY5WU9rSTRYNW9mcGxfdGFFWnZmM0p4aEFPUzhBaW84cVowbGRrQTA0U2xwLVJoYndvWU1jUzJhanpaRlp3WnA4MUdjcUFyVmRSdnlhQTYySG5YSENPbkhvdmF2ck5ZN0JnR3dSVkZZTkJlYkh0c3dzZHNmMU8yY3ZBeGhzOTFOWGR2SmJYWFM0U0VTMVpWNm5tV0dtQzhCOFp1eGFmYmxnZXRabW1NMlI2cFdJa2pyTl9yd1VvOTlCcWhmU1dUdjRKQWlKZFpINU5FMGJTTlo3YWJOWXlhb0QzTm5PaEs3UGhjM2VVckVLdzFGc3NYMGpEOEdPNWdPVEoycUFlNDM5YXc0emR0RkYzbUhFZkduOTlKQTA1OU1wMnRwcmFkWktkbVEyZ1RGT0VVWms0Nm5oWVJzam1XcXdFOGdiWlNldw)).
+- **KOSPI** — down more than 6% and circuit breaker triggered ([Caixin](https://news.google.com/rss/articles/CBMiakFVX3lxTFBtUDZtQ1lzWHhFRnhkcXRGbzlRUGM5SHBHV29OVWhjcGQ3N194NXB0X2h5OWhKZ2hsYkV1Q0R1S2haRTV6ZmxBanMxQmNjUVg5ZzVvWTFoM0R3czJvdFcxMkRLZldZLTNZVkE)); a key stress barometer for regional risk appetite.
+- **DXY** — at fresh one‑year high ([Reuters](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWTZaN2d6TjZIVW5UZmtUUFZ1YW9jUzZTYTYyMUFHR1pZMW5sVWRaMy1FQ3RHelRBc1Z5d2REUE9ONm9telQxalNZNEF3OEZBYkVyay1EN25DSFJYUEFxb0FRN0dmTVprc3dCZ0d5ME9tWGEwMzRRRGJLYXJBemJGMU94LTlXOTkxVURVUUZnZHViejVha25OQ0FjcklUR0ktM2dnZHdtelpnem40dnpSQmVra2R1ZU5Z)), reinforcing broad USD bid.
+- **Gold** — slid nearly 2% ([Reuters](https://news.google.com/rss/articles/CBMimwFBVV95cUxNUVBUOEYtdFRVZ0FwQ2pUYXpSUFQ1YjhZdHh6RjU2ZzV5RzdRUGtjajlLRTBIUDBoYk5ZcXcwNTE5UmZZVnR5aDVHR2MzVG5UUlE5TEVnTGo0VnplM2FuZnk3SnpQNmJ2ZnpSZ1A4RWhVcU5DUnBMUUh3YXFTUkktZGJXV25TSzBOODNaYm93ckJ0NUZDOF9pazlHRQ)), breaking below prior support on real‑rate pressure.
+- **Brent crude** — choppy with mixed signals from Iran talks ([WSJ](https://news.google.com/rss/articles/CBMingFBVV95cUxQNkxzeFFtVl9hRWJ1QmxCT21vaVdpSTRXY2JMbzVzbHNUVWtIR3dUUmViYVVJVDY1dlRZUzRScjgwcUxuWWxzU2VpQVQxOEFhWXFyNTlMN1lGTW8yeU1KUTJhOGRyU0dWTi1hM1drelNVNnBYUnBFbmFhS3Bja1p3a2hoMUlTSWlXZnRkOEdzWTVFTHJwUHpPUzZNVE9hUQ)), reflecting a stalemate between easing supply fears and limited physical uptake.
+- **USD/CNH** — PBOC’s direct‑access move ([WallstreetCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JR3dqYjQ0d0hoQlBxYlptQ1VpWG9OeTZNOThPN0tXQnl6MXZxNUxCRURBZzIyWEc5ZE5tVFd6RUpQcm53cGxScnBQR1JDVGluUHRz)) increases odds of tighter onshore‑offshore convergence, potentially compressing CNH’s discount vs CNY.
