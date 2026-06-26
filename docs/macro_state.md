@@ -1,26 +1,24 @@
-# Macro State — Last updated: 2026-06-25
+# Macro State — Last updated: 2026-06-26
 
 ## Active Narratives
-- **Oil Supply Normalization (Post‑Iran War)** — Status: Acceleration; Saudi Ras Tanura restart, China considering Iran imports, and Iraq quota demands confirm physical barrels are returning, unwinding the war premium. Next trigger: first Ras Tanura loading, OPEC response to Iraq.
-- **AI Demand Rebound Reverses Tech Rout** — Status: Reversal; SK Hynix surge, Micron earnings, and BOJ acknowledgment of AI export cushion challenge the recent AI‑led EM equity dislocation. Next trigger: KOSPI stability and any forced deleveraging.
-- **Fed Hawkish Repricing Supported by Strong Data** — Status: Confirmation; dollar near highs, gold at 7‑month low ahead of PCE; hikes remain priced. Next trigger: PCE report tonight and durable goods.
-- **China Capital Controls/HK Hub Role** — Status: Fading (no new updates today); prior confirmation of HK conduit still relevant but no fresh signals. Next trigger: PBOC/SAFE connect‑quota announcement.
+- **Hormuz Escalation Reverses Oil Supply Normalization** — Status: New; a kinetic strike on commercial shipping interrupts the post‑Iran‑war unwinding, reinjecting a war risk premium. Next trigger: UN resumption of escorts or further vessel targeting.
+- **US PCE Confirms Hawkish Fed Stance** — Status: Confirmation; core `3.4%` YoY and headline above `4%` keep hikes on the table, though officials cite underlying improvement. Next trigger: Michigan sentiment & 5‑year inflation expectations final.
+- **AI Demand Boom Meets Memory Shortage** — Status: Acceleration; Micron’s blowout forecast fuels chip rally, but Apple’s price hike on memory costs reveals a cost‑push headwind for consumer tech. Next trigger: KOSPI stability and China hardware earnings.
+- **China‑US Trade & Tech Competition Intensifies** — Status: Confirmation; Beijing vows tariff cuts while decrying “malicious” US acts, and AI espionage hearings raise bilateral friction. Next trigger: concrete trade negotiation progress or new sanctions.
 
 ## Watchpoints
-- First Ras Tanura crude loading and any OPEC quota adjustment for Iraq and others.
-- US PCE (Jun 25 08:30 HKT) — core PCE YoY est. `3.4%` vs prior `3.3%`.
-- SK Hynix/Nasdaq listing details and KOSPI’s ability to hold gains without volatility‑triggered deleveraging.
-- China state refiners’ final decision on Iran oil purchases and any sanctions‑waiver logistics.
-- Hang Seng’s ability to hold `23,000`; northbound outflow trend.
+- UN IMO decision on resuming the Hormuz evacuation program and any further attacks on commercial shipping.
+- US Michigan consumer sentiment final and 5‑year inflation expectations (Jun 26 10:00 PM HKT).
+- KOSPI ability to sustain AI‑frenzy gains without triggering retail‑led liquidation as global tech vol rises.
+- Brent crude’s reaction to Hormuz strike — whether it retakes pre‑deal levels near `$125` or stabilizes.
+- Hang Seng Index’s hold above `23,000` following StanChart’s target cut and HKEX index expansion plans.
 
 ## Open Questions
-- How quickly will restored Saudi and potential Iranian supply push Brent below `$70`, and will that meaningfully alter Fed hike expectations?
-- Can the AI chip recovery broaden to lift the rest of KOSPI and EM Asia, or will volatility and single‑stock option delays keep risk premia elevated?
-- Does the Japan government blueprint successfully delay BOJ tightening, or will the hawkish committee view dominate?
+- Can the renewed Hormuz risk premium offset the disinflationary impulse from restored Saudi supply, and what does that mean for Fed‑pricing asymmetry?
+- Will the memory chip shortage broaden into a wider AI supply‑chain bottleneck that changes the earnings trajectory for Asia’s tech exporters?
+- Does the PCE‑driven hawkish hold evolve into a more explicit hike signal if the Michigan data shows inflation expectations anchoring above `3.5%`?
 
 ## Key Levels
-- **Brent** — near `$125/bbl` (pre‑restart) but direction is lower on supply normalization; no specific new level cited today beyond the supply restart itself as the impulse.
-- **KOSPI** — no new level cited today; prior crash level remains the reference for recovery.
-- **HSI** — `23,003.49` close, testing `23,000` ([HKEJ](https://news.google.com/rss/articles/CBMivANBVV95cUxQVWh5Nk5jT1RxZWtnazBOdElfUEVVR3gyaWxTcWl2amM5WGVUaVg4YUdTdGhYbVd5aWdNdVlIb2JjRlhkV25UeWRmNXUxYnBlamY4TnE1OXNOT1lCT21lQ1ZhWDRZSnF2SkNMdlFxdHVkRmVtSVV4My1US0VOUFVhNS1TWkgwbDhEcVhwdUFuOU1mamV3cm8tbXJaZ0tVZmdFRDdfOUFCbEJzQlVzZC1aYlhCNXNNZVpNRk5ZOTNNS1pxek9wbThRSDRqQ0pTc1FwR1VRY0IyUmdpY2R0VVhXVmkyWHFjRlU5cjBkX3NSaTFUTHF3d3FBOVRGTWM2Tm5vLUtvQ2cyazlIallCY2dTbGdKR3huTUNYeDdkeGRiQkJ2VDRzTTlLNGJGYWhvWVY4NldtVHNlQW5ud25FWjlPQ3pIdDM4Rkg2NkxRSG5oU2V3WXlnTmpDVnZwcWNfZDByWUE5alViTnJEc3l6Z2laSWQ1LWNmRW13a0UzQlcwV3hxZEtMMUE0RGs3azBkWUpBUkJZYkhuWXAyY3ZvaURVSDJaVGswS3U0QzRsM2NNUTR2aXlYVjMwR2o5Rl8)).
-- **Gold** — near seven‑month low, pressured by Fed hike bets and strong dollar ([Reuters](https://news.google.com/rss/articles/CBMipgFBVV95cUxOVkVOTXlYQ0o2aUd6NFRXc1liR1RxcXQzTjI4V1lLdGFxaDFPMUh1akY3VTZCNFdtaDNOWFZpSXRZVGZwUW11d1lyX1F0a0ZMT3FUZUFidkdjd1lxMmVuR28xWDdEQzFVY1lFTDkyVDdWTHpUWGJJN3o5ajZFcUZSOXJzbWt1S2VPdUoyTzlXR2wzMFFYeTFnN1o3bndwYUVVbDBCVGJB)).
-- **USD/KRW** — directional risk still skewed by tech equity moves; KRW likely to strengthen if SK Hynix gains hold.
+- **Brent** — Near pre‑restart levels following Hormuz attack; `$125/bbl` is the psychological reference from prior conflict.
+- **Gold** — `$4,000/oz` — steadying after inflation data eased rate‑hike bets ([BBG](https://www.bloomberg.com/news/articles/2026-06-25/gold-steadies-near-4-000-as-inflation-data-eases-rate-hike-bets)).
+- **Hang Seng Index** — `23,000` — held by a thin margin as HSI futures slip and StanChart targets `25,500` ([HKEJ](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYWlPUi13dkxabUlYSWgzZkdnZFBQUE1RRkJNci1aRV80MUV2OHNuc2VmT0N1dDNNOVVfbVVDUXJqRGd0LWU1YXVqc2cxdnBfV2w4UGk1VlYzcGxxS3haQVBISEJxNzdDMmgwNWItb3c5ellxOUtwdE4xV21pRnVyeE13Tmw5bVhzSmlKMkxFNjZRdWxxWnJqYktUYklXaUZhZWRORHIxMGpMWHc2TWoyTEFybW53MzV3V3g5MWhHSlJsQ1Y4aGZldlJzeUNIa2hjT052MVI1Z1ZGTmpOQ2gwZEV4SHg)).
