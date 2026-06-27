@@ -1,22 +1,24 @@
-# Macro State — Last updated: 2026-06-26
+# Macro State — Last updated: 2026-06-27
 
 ## Active Narratives
-- **Hormuz Supply Fear Fades Despite Stray Attack** — Reversal; Saudi loadings resume and tanker flows continue, collapsing the risk premium; next trigger: another vessel strike or UN program resumption.
-- **Asia Tech Rout Deepens as Memory Cost Reality Bites** — Acceleration; South Korea trading halt and Kioxia slump confirm cost-push headwind for AI demand; next trigger: US Michigan sentiment and KOSPI stability post-halt.
-- **PBOC Launches Overnight Reverse Repo Tool** — New; the new facility at a likely `1.35%` rate enhances short-end control and CNH stability; next trigger: actual rate announcement on Monday.
-- **Fading European Inflation Pressure Eases ECB/BOE Tightening** — Confirmation; falling consumer expectations and lower oil reduce hawkish impulse, supporting euro area bonds; next trigger: final Michigan 5-year inflation expectations.
+- **Hormuz De‑escalation Collapses Oil War Premium** — Status: New (Reversal of prior escalation narrative); hotline and transit resumption send WTI below $70, slashing inflation pressure. Next trigger: UN‑backed escort program or further vessel incidents.
+- **AI‑Tech Meltdown Unwinds Speculative Binge** — Status: Acceleration; rout exposes $270B in leverage and triggers SoftBank decline, reversing the earlier AI boom. Next trigger: KOSPI/TSMC stability and any official circuit‑breaker response.
+- **Trump Fires 100% Digital‑Service Tariff Threat** — Status: New; sudden escalation opens a fresh trade front with Europe, with IMF warning of tit‑for‑tat damages. Next trigger: EU retaliation or US executive order.
+- **Fed‑Pricing Tension Between Hawkish Talk and Falling Energy** — Status: Confirmation; Kashkari demands a hike while oil drop and improved consumer sentiment push against tightening. Next trigger: US Michigan sentiment final and PCE prints.
 
 ## Watchpoints
-- Any further attack on commercial shipping in the Strait of Hormuz that reverses the physical flow narrative.
-- US Michigan consumer sentiment final and 5-year inflation expectations tonight (10:00 PM HKT) — a higher-than-expected print could revive Fed hawkishness.
-- KOSPI’s ability to hold after the trading halt; another circuit breaker or >5% intraday loss would deepen EM outflows.
-- PBOC’s actual overnight repo rate and operational details on Monday; deviation from `1.35%` would shift CNH curve expectations.
-- Brent crude’s reaction to the Saudi restart — sustained move below pre-attack levels would confirm supply normalization.
+- UN or US‑Iran confirmation of resumed Hormuz escorts; any new commercial vessel attack.
+- KOSPI’s ability to hold recent gains without cascading retail liquidation as tech vol persists.
+- EU’s official retaliation or negotiation on digital‑services tax after Trump’s threat.
+- US Michigan consumer sentiment final and 5‑year inflation expectations (Jun 26 10:00 PM HKT, already passed).
+- WTI sustained below `$70/bbl` and its impact on inflation breakevens and Fed‑pricing.
 
 ## Open Questions
-- Can the Saudi supply restoration offset the disinflationary impact of falling European inflation expectations and Fed hold, or will the dollar remain bid on US exceptionalism?
-- Will the AI memory shortage trigger a broader capex revision among Asia’s tech giants, and what are the downstream effects on KRW and TWD?
-- Does the PBOC’s new tool mark the start of a structural shift toward lower interbank rates, or is it a tactical smoothing operation ahead of a potential RRR cut?
+- Can the oil‑drop disinflation offset the hawkish Kashkari signal enough to keep rates on hold through Q3?
+- Will the AI sell‑off morph into a broader equity‑market shakeout that hits Asia’s export‑tech complex?
+- Does Trump’s new tariff threat escalate into concrete measures before the G7 or EU‑US summit?
 
 ## Key Levels
-- No new levels cited in today’s feeds with confirmed market significance; prior key levels remain under observation.
+- **WTI** — Below `$70/bbl` for the first time since the Iran war began; psychological floor that deflates war premium ([Xinhua](https://www.news.cn/fortune/20260627/2a72f4f3dcc64d54811994addef844e1/c.html)).
+- **SoftBank** — Stock dropped 13%, marking its biggest two‑day loss in two years on OpenAI IPO delay ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6b3ZDZFBtSTJ2eEN2T1pKajlvcXRxTW5TVTBlR2hnbTFheXQ4am9BNW5OR1g5aWE3WlFfSGFxWnhhZWtCemRkd0lZc1hsMjlXdWpR)).
+- **Dow Jones** — Finished the day lower, though held a weekly gain, reflecting mixed risk appetite ([BBG](https://www.bloomberg.com/news/videos/2026-06-26/dow-jones-finishes-day-down-week-up-closing-bell-video)).
