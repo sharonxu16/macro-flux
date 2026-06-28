@@ -1,23 +1,23 @@
 # Macro State — Last updated: 2026-06-27
 
 ## Active Narratives
-- **Hormuz Ceasefire Collapses, Oil War Premium Rebuilds** — Status: Reversal (of morning's de-escalation narrative); US-Iran exchange strikes despite hotline and MoU, driving WTI back above `$73`. Next trigger: UN escort program launch or further vessel/land strikes.
-- **AI-Tech Meltdown Unwinds Speculative Binge** — Status: Acceleration; rout deepens with SoftBank extending losses, US futures pointing lower. Next trigger: KOSPI/TSMC circuit-breaker or stabilization signals.
-- **Trump 100% Digital-Service Tariff Threat Opens Trade Front** — Status: New (from morning); sudden escalation with Europe, IMF warns of tit-for-tat. Next trigger: EU retaliation or US executive order.
-- **China's Two-Speed Economy Fuels Easing Expectations** — Status: Confirmation; government advisers call for policy fix as consumption lags AI boom. Next trigger: PBOC MLF or RRR move in 1-2 weeks.
+- **Iran Re‑escalation Reverses Hormuz De‑escalation** — Status: New (Reversal); Iran strikes US‑linked targets in response to US attacks, instantly restoring the war risk premium and sending oil higher.
+- **Anthropic Ban Rollback Eases AI Regulatory Overhang** — Status: New; White House partially lifts AI model ban, offering a reprieve for the speculative tech sell‑off.
+- **Trump 100% Digital‑Service Tariff Threat** — Status: Confirmation (no intraday update).
+- **Fed‑Pricing Tension Between Hawkish Talk and Falling Energy** — Status: Confirmation; intraday oil rally may tilt the balance back toward hawkish risk.
 
 ## Watchpoints
-- US or Iranian confirmation of restraint or further strikes; UN escort program announcement.
-- WTI sustained above `$73/bbl` and its impact on inflation breakevens and Fed-pricing.
-- KOSPI's ability to hold recent gains without cascading retail liquidation as AI vol persists.
-- EU's official retaliation or negotiation on digital-services tax after Trump's threat.
-- VW's official announcement on job cuts doubling to 100,000.
+- US retaliation or further Iranian strikes; next vessel incident in Persian Gulf.
+- Brent reclaiming `$75/bbl` on re‑escalation; sustainability of the risk premium.
+- Nasdaq stabilization and AI‑exposed stock response to Anthropic policy shift.
+- Baltic EU oil‑ban progress — could add supply‑side pressure.
+- US PCE (next week) — now potentially re‑inflated by oil.
 
 ## Open Questions
-- Can the renewed oil-war premium offset this morning's disinflationary relief quickly enough to shift Fed pricing back to hawkish?
-- Will the AI sell-off morph into a broader equity-market shakeout that hits Asia's export-tech complex harder?
-- Does China's two-speed economy diagnosis lead to near-term PBOC easing, or will policymakers wait for tariff clarity?
+- Will oil’s snap‑back halt the disinflationary relief and force the Fed to reconsider a hike?
+- Can the Anthropic rollback arrest the `$270B` speculative unwind, or does the rout continue?
+- Does Trump’s digital‑service tariff threat escalate before the EU‑US summit?
 
 ## Key Levels
-- **WTI** — Rebounded above `$73/bbl` in Asian afternoon after US-Iran strikes, reversing the session's breakdown below `$70/bbl` ([BBG](https://www.bloomberg.com/news/articles/2026-06-26/euro-zone-probably-saw-first-inflation-slowdown-since-iran-war-began)).
-- **SoftBank** — Continued to decline, compounding the biggest two-day drop in two years after OpenAI's IPO delay ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxT)).
+- **Brent** — Not cited intraday; watch for reclaim of morning’s war‑premium breakdown level around `$75` if new strikes materialize.
+- **WTI** — `$70/bbl` broke in morning; any sustained recovery above signals re‑premium.
