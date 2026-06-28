@@ -1,23 +1,21 @@
-# Macro State — Last updated: 2026-06-27
+# Macro State — Last updated: 2026-06-28
 
 ## Active Narratives
-- **Iran Re‑escalation Reverses Hormuz De‑escalation** — Status: New (Reversal); Iran strikes US‑linked targets in response to US attacks, instantly restoring the war risk premium and sending oil higher.
-- **Anthropic Ban Rollback Eases AI Regulatory Overhang** — Status: New; White House partially lifts AI model ban, offering a reprieve for the speculative tech sell‑off.
-- **Trump 100% Digital‑Service Tariff Threat** — Status: Confirmation (no intraday update).
-- **Fed‑Pricing Tension Between Hawkish Talk and Falling Energy** — Status: Confirmation; intraday oil rally may tilt the balance back toward hawkish risk.
+- **Hormuz Escalation Resurges Oil War Premium** — Status: Reversal of prior de-escalation; fresh US strikes and commercial tanker hit reignite supply risk. Next trigger: UN‑backed escort program or another vessel attack.
+- **AI‑Tech Meltdown Accelerates into Memory Crunch** — Status: Acceleration; AI cost fears deepen and memory shortages threaten smaller players, extending the rout in Asian tech exporters. Next trigger: KOSPI/TSMC stability and any fresh capex cut signals.
+- **ECB Schnabel Hawkishness Counters Peace Deal Disinflation** — Status: Confirmation; upbeat inflation view keeps rate‑cut expectations in check. Next trigger: ECB conference comments.
 
 ## Watchpoints
-- US retaliation or further Iranian strikes; next vessel incident in Persian Gulf.
-- Brent reclaiming `$75/bbl` on re‑escalation; sustainability of the risk premium.
-- Nasdaq stabilization and AI‑exposed stock response to Anthropic policy shift.
-- Baltic EU oil‑ban progress — could add supply‑side pressure.
-- US PCE (next week) — now potentially re‑inflated by oil.
+- Any US or UN‑announced safe‑transit corridor for the Strait of Hormuz; any new commercial vessel attack.
+- KOSPI and TSMC price action following memory‑crunch headlines.
+- ECB conference panel with Schnabel and Warsh — tone shift on inflation.
+- Ship traffic count in the Strait of Hormuz — currently `30‑40` vessels/day vs. `140` pre‑conflict (BBG).
+- Japan June retail sales release (Jun 29) for consumer‑spending signal.
 
 ## Open Questions
-- Will oil’s snap‑back halt the disinflationary relief and force the Fed to reconsider a hike?
-- Can the Anthropic rollback arrest the `$270B` speculative unwind, or does the rout continue?
-- Does Trump’s digital‑service tariff threat escalate before the EU‑US summit?
+- Will the renewed Hormuz strikes push Brent above the `$70` floor without a diplomatic off‑ramp?
+- Can the memory shortage morph into a broader Asian export earnings downgrade cycle?
+- Does Schnabel’s hawkish push force a repricing of ECB rate‑cut expectations?
 
 ## Key Levels
-- **Brent** — Not cited intraday; watch for reclaim of morning’s war‑premium breakdown level around `$75` if new strikes materialize.
-- **WTI** — `$70/bbl` broke in morning; any sustained recovery above signals re‑premium.
+- **Strait of Hormuz daily vessel count** — Down to approximately `30‑40` from `140` in February, a real‑time gauge of supply‑chain stress ([BBG]).
