@@ -1,23 +1,22 @@
-# Macro State — Last updated: 2026-06-28
+# Macro State — Last updated: 2026-06-29
 
 ## Active Narratives
-- **Hormuz Ceasefire Collapse Accelerates Oil Supply Shock** — Status: Acceleration; Iranian retaliation against US bases in Bahrain and Kuwait plus shipping CEO’s multi-month mining warning confirm a structural supply disruption. Next trigger: UN escort program or another GCC state infrastructure attack.
-- **AI Bust Risks Morphing into Credit Event** — Status: Acceleration; BIS explicitly flags an AI bust as a systemic threat to global growth and credit, deepening the rout beyond equity drawdown. Next trigger: AI-linked credit downgrade or major semiconductor firm capex cut.
-- **Government Pressure on BOJ to Limit Hikes** — Status: New; Japan’s policy draft calls for “appropriate” monetary management to dissuade further rate hikes, potentially capping JGB yields and JPY upside. Next trigger: BOJ communication or June retail sales data.
-- **EU-China Trade Tensions Simmer as Both Sides Dig In** — Status: Confirmation; China signals it can withstand an EU trade freeze while the EU vows to defend its rights against Trump tariffs, sustaining trade-policy uncertainty. Next trigger: Formal EU tariff announcement or Chinese retaliation.
+- **Hormuz Ceasefire Collapse, Escalation Resumes** — Status: Acceleration; mutual strikes on bases, Iranian sovereignty claim over Hormuz routing, and container ship withdrawals reignite full supply disruption risk. Next trigger: any new vessel attack or US-led convoy announcement.
+- **AI Tech Meltdown Enters Systemic Phase** — Status: Acceleration; SoftBank crash and BIS bubble warning amplify memory crunch and liquidity fears, hitting KOSPI/TSMC. Next trigger: SoftBank share stability and any Apple chip import approval.
+- **EU-China Trade Front Hardens Amid US Tech Import Ban** — Status: Acceleration; China braced for EU freeze, VW layoffs fueling protectionist momentum, and US expands tech blacklist. Next trigger: official EU trade restriction statement.
+- **China’s Two-Speed Economy Confirmed** — Status: Confirmation; industrial profit surge versus weak consumption and official calls for rebalancing keep CNH under pressure. Next trigger: NBS PMI release.
 
 ## Watchpoints
-- Any US or UN-announced safe-transit corridor for the Strait of Hormuz; any new commercial vessel attack or mine-clearing progress.
-- KOSPI and TAIEX price action following BIS AI-bust warning; any credit-default swap widening in tech names.
-- Japan June retail sales release for consumer-spending signal and BOJ policy implications.
-- GCC energy infrastructure resilience; any additional attacks on Bahrain, Kuwait, or Saudi oil facilities.
-- ECB forum comments from Warsh and Schnabel for tone shift on inflation.
+- Any attack on a commercial vessel in the Strait of Hormuz or formal commencement of international naval escort operations.
+- SoftBank share price stability and further AI capex cuts from major tech names.
+- EU announcement of trade restrictions or anti-dumping measures against Chinese goods.
+- NBS Manufacturing PMI (est. `50.1`) and Non-Manufacturing PMI (est. `49.9`) on Tuesday.
+- US-Iran hotline usage and any official statement on ceasefire renewal.
 
 ## Open Questions
-- Will the Hormuz ceasefire collapse push Brent sustainably above a key threshold without a diplomatic off-ramp?
-- Can the BIS AI-bust warning trigger a credit-spread widening that forces Asian central banks to adjust policy?
-- Does Japan’s government pressure on the BOJ to limit hikes cap JGB yields and weaken JPY, or will inflation data force the BOJ’s hand?
+- Can Brent sustain above `$70` without a diplomatic off-ramp or will the supply-risk premium fade again?
+- Will the BIS warning trigger a broader re-pricing of AI-related tech equity and Asian export earnings?
+- Does Kashkari’s hawkish pivot signal a broader shift among Fed officials ahead of the July FOMC?
 
 ## Key Levels
-- **Strait of Hormuz daily vessel count** — Remains significantly reduced, with shipping CEO warning of multi-month mining threat to maritime traffic ([FT](https://www.ft.com/content/a0739198-318c-4ae8-9953-ba88201edc45)).
-- **Australia headline inflation peak** — Expected at `4.25%`, lower than previously forecast ([BBG](https://www.bloomberg.com/news/articles/2026-06-28/australia-s-inflation-expected-to-peak-at-4-25-treasurer-says)).
+- **Container line Middle East Gulf presence**: withdrawals accelerating, signaling effective supply chain stress ([Lloyds_List_Shipping](https://news.google.com/rss/articles/CBMiygFBVV95cUxONEhYNThwemsyd2VHaGtaVW5wTkpyenplQXd1VkpUaDBERUY4REo3eW8yMWVlWi1IQktTS1VBWW1CRVVjUkNaakRVVUFycDNpbzhqUFBLRHg0UHhxUGJVcHJIUTdFZU5HWlJrMnUtMHFYQWo5Ynl0d0p2bmZCMVg3VjlUdDBDRUJhWnY3Sl9CWEwzSVZxc2Z4MkN0OWxiRzhkZzZ4TWtGQ1RNeTM3N1NRdHl0SHlud2NTREozcEJuNDZ3OVIwNDRZSlJ3)).
