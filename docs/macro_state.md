@@ -1,22 +1,22 @@
 # Macro State — Last updated: 2026-06-29
 
 ## Active Narratives
-- **Hormuz Ceasefire Collapse, Escalation Resumes** — Status: Acceleration; mutual strikes on bases, Iranian sovereignty claim over Hormuz routing, and container ship withdrawals reignite full supply disruption risk. Next trigger: any new vessel attack or US-led convoy announcement.
-- **AI Tech Meltdown Enters Systemic Phase** — Status: Acceleration; SoftBank crash and BIS bubble warning amplify memory crunch and liquidity fears, hitting KOSPI/TSMC. Next trigger: SoftBank share stability and any Apple chip import approval.
-- **EU-China Trade Front Hardens Amid US Tech Import Ban** — Status: Acceleration; China braced for EU freeze, VW layoffs fueling protectionist momentum, and US expands tech blacklist. Next trigger: official EU trade restriction statement.
-- **China’s Two-Speed Economy Confirmed** — Status: Confirmation; industrial profit surge versus weak consumption and official calls for rebalancing keep CNH under pressure. Next trigger: NBS PMI release.
+- **Iran-US Pause, Hormuz Resumes** — Status: Reversal; mutual halt to strikes allows tanker transits, unwinding weekend supply-risk premium. Next trigger: any new vessel attack or official termination of the pause.
+- **PBOC Overnight Easing** — Status: New; launch of a below‑market overnight facility signals a de facto rate cut. Next trigger: further cuts to 7-day reverse repo rate or LPR.
+- **South Korea Chip & AI Mega-Plan** — Status: New; $576bn investment drive with Samsung and SK Hynix steadying regional tech sentiment. Next trigger: detailed capex timelines and facility approvals.
+- **China-Japan Trade Friction Escalates** — Status: Acceleration; 20 Japanese entities blacklisted over remilitarisation, adding to the global trade war narrative. Next trigger: retaliation from Japan or further Chinese designations.
 
 ## Watchpoints
-- Any attack on a commercial vessel in the Strait of Hormuz or formal commencement of international naval escort operations.
-- SoftBank share price stability and further AI capex cuts from major tech names.
-- EU announcement of trade restrictions or anti-dumping measures against Chinese goods.
-- NBS Manufacturing PMI (est. `50.1`) and Non-Manufacturing PMI (est. `49.9`) on Tuesday.
-- US-Iran hotline usage and any official statement on ceasefire renewal.
+- Any new attack on a commercial vessel in the Strait of Hormuz or formal end to the pause.
+- PBOC follow‑through: change in 7-day reverse repo rate or LPR guidance.
+- NBS Manufacturing PMI (est. `50.1`) and Non-Manufacturing PMI (est. `49.9`) tomorrow morning.
+- Samsung/SK Hynix capex breakdown and timeline for new fabrication sites.
+- Japan’s official response to Chinese export controls; any EU trade restriction announcement.
 
 ## Open Questions
-- Can Brent sustain above `$70` without a diplomatic off-ramp or will the supply-risk premium fade again?
-- Will the BIS warning trigger a broader re-pricing of AI-related tech equity and Asian export earnings?
-- Does Kashkari’s hawkish pivot signal a broader shift among Fed officials ahead of the July FOMC?
+- Will the PBOC’s overnight rate cut spill over into a broader easing cycle, weakening CNH further?
+- Can the Iran-US pause hold through the week without collapsing again?
+- Is the South Korea mega-plan sufficient to reverse AI‑driven tech outflows from Asia?
 
 ## Key Levels
-- **Container line Middle East Gulf presence**: withdrawals accelerating, signaling effective supply chain stress ([Lloyds_List_Shipping](https://news.google.com/rss/articles/CBMiygFBVV95cUxONEhYNThwemsyd2VHaGtaVW5wTkpyenplQXd1VkpUaDBERUY4REo3eW8yMWVlWi1IQktTS1VBWW1CRVVjUkNaakRVVUFycDNpbzhqUFBLRHg0UHhxUGJVcHJIUTdFZU5HWlJrMnUtMHFYQWo5Ynl0d0p2bmZCMVg3VjlUdDBDRUJhWnY3Sl9CWEwzSVZxc2Z4MkN0OWxiRzhkZzZ4TWtGQ1RNeTM3N1NRdHl0SHlud2NTREozcEJuNDZ3OVIwNDRZSlJ3)).
+- PBOC overnight reverse repo rate set at `1.25%` versus 7-day reverse repo rate of `1.5%` ([BBG](https://www.bloomberg.com/news/articles/2026-06-29/pboc-debuts-overnight-operation-surprises-with-no-rate-released), [Reuters](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUmVMMjdnWFVfN0JYMkttQ0lGM3BGS0Q5X0hGRThBdzUxRTJBMkd6aDk3a0xYZHNEQUsxY1hnQ1k0cVhBMS1ISGRZajdUN2ZpNlNhV1c0eHM4d21na3FILUVPNVkzbVppbVE1NHRYREdzS3NmMmFaREZiaVhrWFJtTjBxaVN6enMzWVdIRnJ6b25xOEtEWUlueUFqSTgtdllDZGtvS2JjNTZQWGs)) — the gap signals easing intent, pressuring CNH.
