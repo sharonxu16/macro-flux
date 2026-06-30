@@ -1,22 +1,25 @@
-# Macro State — Last updated: 2026-06-29
+# Macro State — Last updated: 2026-06-30
 
 ## Active Narratives
-- **Iran-US Pause, Hormuz Resumes** — Status: Reversal; mutual halt to strikes allows tanker transits, unwinding weekend supply-risk premium. Next trigger: any new vessel attack or official termination of the pause.
-- **PBOC Overnight Easing** — Status: New; launch of a below‑market overnight facility signals a de facto rate cut. Next trigger: further cuts to 7-day reverse repo rate or LPR.
-- **South Korea Chip & AI Mega-Plan** — Status: New; $576bn investment drive with Samsung and SK Hynix steadying regional tech sentiment. Next trigger: detailed capex timelines and facility approvals.
-- **China-Japan Trade Friction Escalates** — Status: Acceleration; 20 Japanese entities blacklisted over remilitarisation, adding to the global trade war narrative. Next trigger: retaliation from Japan or further Chinese designations.
+- **Fed Independence Entrenched** — Status: New; Supreme Court ruling protects Cook, reinforcing Warsh’s hawkish bias and a firm‑dollar environment. Next trigger: Warsh speech or nonfarm payrolls.
+- **China Manufacturing Stabilization** — Status: New; June NBS PMI beat signals resilient industrial demand, potentially reducing PBOC easing pressure. Next trigger: Non‑Manufacturing PMI print.
+- **Yen Collapses to Multi‑Decade Low** — Status: Acceleration; slide to 1986 extremes heightens intervention risk and pulls forward BOJ rate‑hike expectations. Next trigger: MOF verbal warning or rate check.
+- **US‑Iran Truce Formalized** — Status: Confirmation; fighting halt and Doha talks solidify de‑escalation, but Hormuz leverage remains. Next trigger: outcome of Tuesday’s Doha meeting.
 
 ## Watchpoints
-- Any new attack on a commercial vessel in the Strait of Hormuz or formal end to the pause.
-- PBOC follow‑through: change in 7-day reverse repo rate or LPR guidance.
-- NBS Manufacturing PMI (est. `50.1`) and Non-Manufacturing PMI (est. `49.9`) tomorrow morning.
-- Samsung/SK Hynix capex breakdown and timeline for new fabrication sites.
-- Japan’s official response to Chinese export controls; any EU trade restriction announcement.
+- Doha talks on Tuesday — any collapse or attack on shipping would swiftly reverse oil and risk sentiment.
+- NBS Non‑Manufacturing PMI for June — a miss below 50 would temper China optimism.
+- Verbal intervention from Japan’s MOF or a rate check that signals action on the yen.
+- EU‑China trade talks progress toward the October deadline; any retaliatory move from Japan.
+- Putin’s potential diesel export restrictions following fuel‑infrastructure damage.
 
 ## Open Questions
-- Will the PBOC’s overnight rate cut spill over into a broader easing cycle, weakening CNH further?
-- Can the Iran-US pause hold through the week without collapsing again?
-- Is the South Korea mega-plan sufficient to reverse AI‑driven tech outflows from Asia?
+- Will a robust US NFP report this week harden the Warsh‑led hawkish Fed and strengthen USD further?
+- Can China’s manufacturing momentum overcome weak services and trade headwinds to sustain CNH?
+- Does the yen’s plunge force a coordinated policy response, or will the BOJ remain passive until the December meeting?
 
 ## Key Levels
-- PBOC overnight reverse repo rate set at `1.25%` versus 7-day reverse repo rate of `1.5%` ([BBG](https://www.bloomberg.com/news/articles/2026-06-29/pboc-debuts-overnight-operation-surprises-with-no-rate-released), [Reuters](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUmVMMjdnWFVfN0JYMkttQ0lGM3BGS0Q5X0hGRThBdzUxRTJBMkd6aDk3a0xYZHNEQUsxY1hnQ1k0cVhBMS1ISGRZajdUN2ZpNlNhV1c0eHM4d21na3FILUVPNVkzbVppbVE1NHRYREdzS3NmMmFaREZiaVhrWFJtTjBxaVN6enMzWVdIRnJ6b25xOEtEWUlueUFqSTgtdllDZGtvS2JjNTZQWGs)) — the gap signals easing intent, pressuring CNH.
+- PBOC overnight reverse repo rate at `1.25%`, reinforcing the easing signal versus the `1.5%` 7‑day rate ([BBG](https://www.bloomberg.com/news/articles/2026-06-29/pboc-debuts-overnight-operation-surprises-with-no-rate-released)).
+- USD/JPY near the 1986 extreme — level now acts as a psychological intervention trigger.
+- Brent crude near pre‑war levels, but a break below would signal a glut narrative confirmed.
+- China NBS Manufacturing PMI `50.3` — above the `50.1` consensus, holding above `50` extends the expansion narrative.
