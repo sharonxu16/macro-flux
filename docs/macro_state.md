@@ -1,25 +1,25 @@
-# Macro State — Last updated: 2026-06-30
+# Macro State — Last updated: 2026-06-29
 
 ## Active Narratives
-- **Fed Independence Entrenched** — Status: New; Supreme Court ruling protects Cook, reinforcing Warsh’s hawkish bias and a firm‑dollar environment. Next trigger: Warsh speech or nonfarm payrolls.
-- **China Manufacturing Stabilization** — Status: New; June NBS PMI beat signals resilient industrial demand, potentially reducing PBOC easing pressure. Next trigger: Non‑Manufacturing PMI print.
-- **Yen Collapses to Multi‑Decade Low** — Status: Acceleration; slide to 1986 extremes heightens intervention risk and pulls forward BOJ rate‑hike expectations. Next trigger: MOF verbal warning or rate check.
-- **US‑Iran Truce Formalized** — Status: Confirmation; fighting halt and Doha talks solidify de‑escalation, but Hormuz leverage remains. Next trigger: outcome of Tuesday’s Doha meeting.
+- **US-Iran De‑escalation Resumes, Oil Term Premium Eases** — Status: Reversal from morning ceasefire collapse; both sides halt attacks, gold and Brent pull back. Next trigger: any new vessel attack or formal truce extension.
+- **PBOC Easing Signal via Overnight Reverse Repo** — Status: New; debut at 1.25% below forecasts opens a new liquidity tool, hinting at further accommodation. Next trigger: OMO volume, MLF/LPR decisions in July.
+- **South Korea Mega Chip Plan Counters AI Meltdown** — Status: New; Samsung, SK Hynix anchor $576bn+ investment drive, steadying KRW and KOSPI. Next trigger: timeline details, any US chip export restrictions.
+- **EU-China Trade Tensions and US Tariff Front** — Status: Acceleration; China says can withstand freeze, freight costs surge on new tariff fears. Next trigger: EU trade restriction announcement, US tariff details.
 
 ## Watchpoints
-- Doha talks on Tuesday — any collapse or attack on shipping would swiftly reverse oil and risk sentiment.
-- NBS Non‑Manufacturing PMI for June — a miss below 50 would temper China optimism.
-- Verbal intervention from Japan’s MOF or a rate check that signals action on the yen.
-- EU‑China trade talks progress toward the October deadline; any retaliatory move from Japan.
-- Putin’s potential diesel export restrictions following fuel‑infrastructure damage.
+- US-Iran formal ceasefire extension or resumption of attacks on shipping in Hormuz.
+- PBOC’s next open market operation volume and any adjustment to LPR or MLF.
+- South Korea chip spending timeline and regulatory hurdles; any concentration risk sell-off.
+- NBS Manufacturing PMI (est. 50.1) and Non-Manufacturing PMI (est. 49.9) on Tuesday.
+- EU trade statement or anti-dumping measures against Chinese goods.
 
 ## Open Questions
-- Will a robust US NFP report this week harden the Warsh‑led hawkish Fed and strengthen USD further?
-- Can China’s manufacturing momentum overcome weak services and trade headwinds to sustain CNH?
-- Does the yen’s plunge force a coordinated policy response, or will the BOJ remain passive until the December meeting?
+- Can the US-Iran halt hold beyond the immediate 48h window, or will Hormuz transit rhetoric keep Brent volatile?
+- Will the PBOC’s overnight reverse repo become a regular tool, and how does it affect CNH yield and carry trades?
+- Does the South Korea chip plan materially change the capex cycle and semicon equity sentiment, or is it already priced after the SoftBank rout?
 
 ## Key Levels
-- PBOC overnight reverse repo rate at `1.25%`, reinforcing the easing signal versus the `1.5%` 7‑day rate ([BBG](https://www.bloomberg.com/news/articles/2026-06-29/pboc-debuts-overnight-operation-surprises-with-no-rate-released)).
-- USD/JPY near the 1986 extreme — level now acts as a psychological intervention trigger.
-- Brent crude near pre‑war levels, but a break below would signal a glut narrative confirmed.
-- China NBS Manufacturing PMI `50.3` — above the `50.1` consensus, holding above `50` extends the expansion narrative.
+- **Brent crude**: decline on attack halt, reclaiming pre-weekend levels; sustained break below $70 would signal full unwinding of supply premium.
+- **Hang Seng Index**: reclaiming 23,000 with 354-point gain, but net southbound outflow of HK$10.3bn signals caution ([HKEJ](https://news.google.com/rss/articles/CBMiwwJBVV95cUxPQmozWXpYbkRLRmlmVDR2cl9HRkZJZVVmMXFvVi1Gaks4ODRMVUtOa0dxN3B2bU9TbUVqOUlZaEdPSHlOeVpwbjlGcERQNWViOUZ4TFdITjFkVUtyRU9FT0tHZDVNa093OEw0c3FpaWpMQ0F4RmJad3BLcE1YWEVkaE54Y0ZxeUlrTUFYTXRCMktmc3l1ZXBmaVA3Q0pOaHUyaFJpV09qRW42b2U2VEViRHlFRUVBTGZmZWsxcFg4R2F3c29ycGh3YnpLWDAzV242WWxNNEY4V3dzd3JpUUJwVGxEZ09fTkEyejZFV0JzSTdOa0otVGhzLS1WaEpiaG5mSUN4bHNXY0pmODkwaUFyQm1XVmFMRVZsbVM1M0lnNUVMX3ZNY1p0QjgzTThEYjlybkN0SWNqbWRJQlIySGZSbzE1cw)).
+- **USD/CNH**: PBOC easing signal and trade‑war risks could keep pair elevated; any follow‑through liquidity injection to be watched.
+- **KOSPI/KRW**: chip plan provides intraday support; upside limited until spending details emerge and concentration risk flagged by WSJ resolves ([WSJ](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUHpaaGtlZW83WnBlRGNmaDVvRWxvRXBHQ3VFTnN1b2JnN3JFNDNQNGhBTTJyVUVOS3VpeDNXbmhzMnJRaGtHSjBYM2RlVDhyMGIybTdoNGx1SDlueE1LYUtqVVRkaU1vUXRlbi1jZkNNQU41cC1JdGZWNHRmTVlvT21SVDRhZ0hpdzAySzhNclBrMG5SMjNYS0VTRGxCU1ZJcXUtZ29CR3czRm9HZUE)).

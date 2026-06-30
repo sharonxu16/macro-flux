@@ -1,10 +1,11 @@
 ---
 tags:
-  - Macro/Iran_Deescalation
+  - Macro/Iran_De-escalation
   - Macro/PBOC_Easing
-  - Macro/Korea_Chip_Megaplan
-  - Asset/CNH
+  - Macro/SK_Chip_Investment
   - Asset/Brent
+  - Asset/KRW
+  - Trade/Long_KRW
 ---
 
 <div align="center">
@@ -20,51 +21,66 @@ tags:
 ---
 
 > [!abstract] Overview
-> The Iran-US conflict paused, with cargo ships resuming Strait of Hormuz transits and oil retreating from weekend peaks, offering temporary relief to supply risk. China’s central bank surprised markets by launching an overnight reverse repo at `1.25%`, well below the 7-day policy rate, in a de facto easing that weakened CNH and supported local bonds. South Korea unveiled a `$576 billion` AI and semiconductor mega-plan involving Samsung and SK Hynix, steadying Asian tech shares after the AI rout. Beijing added 20 Japanese entities to an export blacklist, keeping trade frictions elevated ahead of EU talks. The interplay of a Mid-East reprieve, Chinese monetary stimulus, and mega tech investment tempered risk-off but kept Asian currencies under pressure amid dollar strength.
+> The US-Iran war posture rapidly reversed this afternoon as both sides agreed to halt attacks after the weekend’s tit-for-tat strikes, pulling Brent off its session highs and paring safe-haven flows. In Asia, the PBOC delivered a fresh easing signal with the debut of an overnight reverse repo at `1.25%`, below market forecasts, reinforcing domestic liquidity support at a time when Chinese assets face trade-war headwinds. South Korea countered AI chip gloom with a colossal `$576 billion` semiconductor and AI investment plan fronted by Samsung and SK Hynix, steadying KOSPI and the KRW. The twin de‑escalation and policy‑easing catalysts are fostering a cautious re-risking across Asian FX and equities, though Iran’s insistence on controlling Hormuz transit keeps the oil supply premium fragile.
 
 ---
 
 ## 🔬 Narrative Watch
 
-### 📌 PBOC Launches Overnight Reverse Repo at 1.25%, Signals Easing
+### 📌 US and Iran Halt Attacks, De‑escalation Resumes
 
 **Fact**
-China’s central bank set the interest rate on its new overnight liquidity tool at a level that was below expectations, according to people familiar with the matter, in what some economists see as a de facto rate cut that could push down market borrowing costs ([BBG](https://www.bloomberg.com/news/articles/2026-06-29/pboc-debuts-overnight-operation-surprises-with-no-rate-released)). China debuts overnight reverse repos at `1.25%`, sources say ([Reuters](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUmVMMjdnWFVfN0JYMkttQ0lGM3BGS0Q5X0hGRThBdzUxRTJBMkd6aDk3a0xYZHNEQUsxY1hnQ1k0cVhBMS1ISGRZajdUN2ZpNlNhV1c0eHM4d21na3FILUVPNVkzbVppbVE1NHRYREdzS3NmMmFaREZiaVhrWFJtTjBxaVN6enMzWVdIRnJ6b25xOEtEWUlueUFqSTgtdllDZGtvS2JjNTZQWGs)). The first overnight operation injected 3000亿 yuan into banking system liquidity, though the People's Bank of China did not publicly announce the rate ([Caixin](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFWEpSSkxaOWJBMndUQjNDWFBVT25kS0lUNWw4NlBQSmFsRlFSa2FyR0RQT053YkpYaUJzbU8yd3JLbW9hYkNpSGJNYkdYVi1VRDV5b1gzUEtQdmlLb0lrVTVR)).
+China debuts overnight reverse repos at 1.25%, sources say ([Reuters](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUmVMMjdnWFVfN0JYMkttQ0lGM3BGS0Q5X0hGRThBdzUxRTJBMkd6aDk3a0xYZHNEQUsxY1hnQ1k0cVhBMS1ISGRZajdUN2ZpNlNhV1c0eHM4d21na3FILUVPNVkzbVppbVE1NHRYREdzS3NmMmFaREZiaVhrWFJtTjBxaVN6enMzWVdIRnJ6b25xOEtEWUlueUFqSTgtdllDZGtvS2JjNTZQWGs)). PBOC’s New Overnight Rate Said Below Forecasts in Hint at Easing ([BBG](https://www.bloomberg.com/news/articles/2026-06-29/pboc-debuts-overnight-operation-surprises-with-no-rate-released)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: New, as the PBOC debuts a new easing instrument at a below‑market rate without prior signaling.
-> * **Transmission / Market Read**: Lower interbank funding costs favor **long China bonds** and **short CNH**.
-> * **Watchpoint / Confidence**: Confirmation if the 7-day repo rate is also lowered; Confidence: High given cross-source reporting.
+> * **Narrative change**: New — PBOC adds a new easing tool, the overnight reverse repo, with a rate below forecasts, signalling intent to loosen despite the prior liquidity stance.
+> * **Transmission / Market Read**: Liquidity/easing channel favors **onshore Chinese bonds** and may cushion **CNH** depreciation pressure; tilts risks toward **looser interbank liquidity**.
+> * **Watchpoint / Confidence**: PBOC’s next OMO volume and any LPR/MLF adjustment in July; Confidence: Medium — single tool debut, not open-ended easing commitment.
 
-### 📌 Iran-US Pauses Hostilities, Hormuz Shipping Resumes
+### 📌 South Korea Unveils $576bn AI‑Chip Investment Drive
 
 **Fact**
-The US and Iran have paused hostilities as cargo ships began to resume transit through the Strait of Hormuz, after both sides stepped back from the brink following weekend attacks on US bases in Kuwait and Bahrain, officials on both sides confirmed ([CNBC](https://www.cnbc.com/2026/06/28/trump-threatens-iran-with-annihilation-kuwait-bahrain-report-attacks.html)). Hormuz oil transits continue, though attacks make vessel owners wary ([BBG](https://www.bloomberg.com/news/articles/2026-06-29/hormuz-traffic-drops-off-as-vessel-attacks-raise-fresh-concerns)). The earlier exodus of tankers had set the stage for a chaotic rebalancing act in global oil flows ([Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxNR2p4V01TS19VbzhydC1vMzhvNlBuMXdmS0ZyekVuZmk0aU9GVlc2MGM2bFdJQlcxdEZOQVpYeGJqUW5QUVI2am1hY3NrZ2dfSzVPbXVOdE1PM1lMRnE5UkFEdUpfNUVOVjV6VXhaWkhsVEZ6eklsOXpvcUVFdVVRYXBGVy1DaU9hdkZfbU01YkVCakJGX2p0R1JXNmpOenhmNXVlOElWMGczVlo5RkVuOHNwWmQ4Y3pYX3htQ0RR)).
+Korea taps Samsung, SK Hynix in $576 billion AI-chip drive to cement global leadership ([Reuters](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUNqWjl6MERPSDlWbU9PcWFac1g2anI3NF8xSE1falktWnRsVUVTdHZOT1VOVmhOemcxUUJPNjdLWWdwM2x5enBYc1RMa0FCNTd3TzFSMGEySDNFM3JRNHVJZjdVWWNnd1F4Wm90dEJrWEgtWGJfNFI2ZWhLeWVkOGJUdTRYTGtqbk1IX0FwSmhrQ0tybXgwZUVsU1pSclVHWERTQzRCWWR6aDVuRzFublFuYk9wYmdU)). Samsung and SK Hynix plan $600bn chipmaking expansion ([FT](https://www.ft.com/content/86013b7e-41da-445a-981c-075a701dccf6)). South Korea unveils US$576 billion megaprojects to dominate global AI, chip market ([SCMP](https://www.scmp.com/news/asia/east-asia/article/3358719/south-korea-unveils-us650-billion-megaprojects-dominate-global-ai-chip-market)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Reversal from the weekend ceasefire‑collapse escalation; now a renewed, fragile de‑escalation.
-> * **Transmission / Market Read**: Short‑term risk‑premium reduction favors **lower Brent** and a **bid for Asian FX** if the pause holds.
-> * **Watchpoint / Confidence**: Any new vessel attack or US‑Iran statement revoking the pause; Confidence: Low given on‑again, off‑again pattern.
+> * **Narrative change**: New — mass government‑backed spending counters the AI meltdown narrative, injecting fiscal policy into chip supply chains.
+> * **Transmission / Market Read**: Capital‑flow and risk‑premium channel supports **KRW** and **KOSPI chip names**; caution from WSJ’s concentration risk warning limits full re‑rating.
+> * **Watchpoint / Confidence**: Details of timeline and whether US imposes new chip export curbs; Confidence: High given multi‑source confirmation, but unclear fiscal deployment speed.
 
-### 📌 South Korea Unveils $576bn Chip & AI Mega‑Plan
+### 📌 US‑Iran Ceasefire Restored; Oil Supply Premium Eases
 
 **Fact**
-South Korea has unveiled plans for a 650 trillion won (`$576 billion`) public‑private investment drive to dominate global AI and chip markets, tapping Samsung Electronics and SK Hynix to invest in two new semiconductor fabrication sites ([Reuters](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUNqWjl6MERPSDlWbU9PcWFac1g2anI3NF8xSE1falktWnRsVUVTdHZOT1VOVmhOemcxUUJPNjdLWWdwM2x5enBYc1RMa0FCNTd3TzFSMGEySDNFM3JRNHVJZjdVWWNnd1F4Wm90dEJrWEgtWGJfNFI2ZWhLeWVkOGJUdTRYTGtqbk1IX0FwSmhrQ0tybXgwZUVsU1pSclVHWERTQzRCWWR6aDVuRzFublFuYk9wYmdU)). The megaprojects aim to cement national leadership in AI and chips and narrow regional economic disparities ([SCMP](https://www.scmp.com/news/asia/east-asia/article/3358719/south-korea-unveils-us650-billion-megaprojects-dominate-global-ai-chip-market)).
+Gold fell as the US and Iran agreed to stop attacking each other, following tit-for-tat strikes that tested a fragile truce in a war that has fueled global inflationary pressures ([BBG](https://www.bloomberg.com/news/articles/2026-06-29/gold-declines-as-fresh-us-iran-tension-fans-inflation-concerns)). US & Iran Halt Attacks ([BBG video](https://www.bloomberg.com/news/videos/2026-06-29/the-opening-trade-6-29-2026-video)). New US‑Iran clashes revealed fragility of truce — and why it may work ([CNN](https://news.google.com/rss/articles/CBMinAFBVV95cUxQZFE4Rmh5Q2Y1VUhmR0psVVVDUmlHVkRQUjhtV3kzZVlvQ2lEN25LTmhVcW8ta0c3aHVpNGs4T3NSYkJZbFl3ekhxdnAyTFZLNlJWMkFlbUpvSXVDYzFqYTIzQ2ZZOWJtVUs4WDRYTVByZ181R0pXODc5U09CaHV6SklCUFVLTFZsNGFIRDZsejBxeEF1d0dSRHBKR04)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: New, with no prior mention of such a large‑scale coordinated investment plan.
-> * **Transmission / Market Read**: Supports **KOSPI** and **KRW**, offsetting AI‑meltdown headwinds; positive for semiconductor supply‑chain equities.
-> * **Watchpoint / Confidence**: Detailed capex timelines from Samsung/SK Hynix; Confidence: Medium given formal government backing.
+> * **Narrative change**: Reversal — from ceasefire collapse to renewed halt, reversing the weekend’s escalation premium.
+> * **Transmission / Market Read**: Risk‑premium channel favors **short Brent** and **long USD/Asia FX** as supply‑disruption fears recede; Iran’s Hormuz rhetoric limits full term‑premium unwind.
+> * **Watchpoint / Confidence**: Any subsequent attack on a vessel or formal extension of the ceasefire; Confidence: Medium — halts have been fragile but multi‑source confirmation supports today’s move.
 
 ---
 
 ## 🌍 Global Radar
 
+### 📊 Economic Indicators
+- Spanish inflation unexpectedly remained far above the European Central Bank’s 2% target in the first reading since the US-Iran peace deal that’s brought down energy prices ([BBG](https://www.bloomberg.com/news/articles/2026-06-29/spanish-inflation-unexpectedly-holds-well-above-ecb-target)).
+- Quarterly oil and gas exploration spending in Australia, the world’s No 2 LNG producer, hit a 10‑year high driven by booming Asian gas demand and the Iran war underscoring the urgency to develop supply ([SCMP](https://www.scmp.com/news/asia/australasia/article/3358683/australian-energy-exploration-hits-10-year-high-asian-gas-demand-surges)).
+
+### 🏦 Central Banks
+- **ECB** — Governing Council member Martins Kazaks said there is no need for multiple hikes in a rushed way ([BBG](https://www.bloomberg.com/news/articles/2026-06-29/ecb-s-kazaks-says-no-need-for-multiple-hikes-in-rushed-way)).
+- **Fed** — Warsh’s Fed communication is adding volatility to rates markets as the committee’s hunt for more fundamental information from markets risks greater surprises ([FT](https://www.ft.com/content/774f8385-d983-4af6-adcd-4db60e711d3d)).
+
 ### 🌐 Geopolitics & Policy
-- China said it can withstand a trade freeze with the EU, as state‑media pressure intensifies ahead of high‑stakes negotiations with Brussels ([FT](https://www.ft.com/content/75313f1b-10c2-4ec8-9e5b-ae098a5f9677)).
+- China expanded its export-control offensive against Japan, doubling the number of Japanese entities subject to curbs and deepening a feud with Prime Minister Sanae Takaichi’s government ([BBG](https://www.bloomberg.com/news/articles/2026-06-29/china-blacklists-more-japan-entities-as-takaichi-feud-deepens)).
+- China says it can withstand a trade freeze ahead of high-stakes EU negotiations, with state media increasing pressure on Brussels ([FT](https://www.ft.com/content/75313f1b-10c2-4ec8-9e5b-ae098a5f9677)).
+- Freight shipping costs surge as companies race to beat new Trump tariffs, with rates hitting their highest since the 2024 Red Sea crisis in anticipation of fresh US levies ([FT](https://www.ft.com/content/8bf7cfa4-5412-41d3-b84e-e89f84265fe8)).
+- Japan protested activity by Chinese coast guard vessels asserting Beijing’s maritime claims close to a southern Japanese island, days after Tokyo scrambled jets response to Chinese and Russian bomber flights ([BBG](https://www.bloomberg.com/news/articles/2026-06-29/japan-protests-china-maritime-claims-near-southern-island)).
+- The PLA dispatched vessels and aircraft to the South China Sea in response to a joint US-Philippine maritime drill near Scarborough Shoal ([SCMP](https://www.scmp.com/news/china/military/article/3358758/chinese-vessels-shadow-us-philippine-naval-drills-south-china-sea-near-disputed-shoal)).
+
+### 🛢️ Commodities
+- Goldman Sachs recommends buying India’s 30‑year government bonds as inflation expectations ease and lower oil prices reduce fiscal risks, arguing the Iran war impact is contained ([BBG](https://www.bloomberg.com/news/articles/2026-06-29/goldman-backs-india-30-year-bonds-as-iran-war-impact-contained)).
 
 ### 📈 Equities
-- Baidu shares jumped `7%` after reports its AI chip arm Kunlunxin is targeting a `$50 billion` Hong Kong IPO ([CNBC](https://www.cnbc.com/2026/06/29/baidu-kunlunxin-hong-kong-ipo-50-billion-ai-chips.html)).
+- Baidu shares jumped 7% on reports its AI chip unit Kunlunxin is targeting a $50 billion Hong Kong IPO ([CNBC](https://www.cnbc.com/2026/06/29/baidu-kunlunxin-hong-kong-ipo-50-billion-ai-chips.html)).
 
 ---
 
@@ -116,30 +132,46 @@ South Korea has unveiled plans for a 650 trillion won (`$576 billion`) public‑
 ---
 
 ## 📚 Full Reading List
+
 - **BBG**
   - [PBOC’s New Overnight Rate Said Below Forecasts in Hint at Easing](https://www.bloomberg.com/news/articles/2026-06-29/pboc-debuts-overnight-operation-surprises-with-no-rate-released)
-  - [Hormuz Oil Transits Continue Though Attacks Make Owners Wary](https://www.bloomberg.com/news/articles/2026-06-29/hormuz-traffic-drops-off-as-vessel-attacks-raise-fresh-concerns)
-  - [China Escalates Takaichi Feud by Blacklisting More Japan Firms](https://www.bloomberg.com/news/articles/2026-06-29/china-blacklists-more-japan-entities-as-takaichi-feud-deepens)
-  - [Spanish Inflation Unexpectedly Holds Well Above ECB Target](https://www.bloomberg.com/news/articles/2026-06-29/spanish-inflation-unexpectedly-holds-well-above-ecb-target)
-  - [ECB’s Kazaks Says No Need for Multiple Hikes in Rushed Way](https://www.bloomberg.com/news/articles/2026-06-29/ecb-s-kazaks-says-no-need-for-multiple-hikes-in-rushed-way)
-  - [Brexit Makes Inflation Spirals More Likely, Says Bank of England Economist](https://www.bloomberg.com/news/articles/2026-06-29/brexit-makes-inflation-spirals-more-likely-says-bank-of-england-economist-pill)
+  - [Gold Drops as US and Iran Agree to Stop Attacking Each Other](https://www.bloomberg.com/news/articles/2026-06-29/gold-declines-as-fresh-us-iran-tension-fans-inflation-concerns)
+  - [US & Iran Halt Attacks, Samsung, SK Prep Record Spending | The Opening Trade 6/29/2026](https://www.bloomberg.com/news/videos/2026-06-29/the-opening-trade-6-29-2026-video)
   - [Copper Steadies as Traders Eye Iran Peace Talks and Fed Outlook](https://www.bloomberg.com/news/articles/2026-06-29/copper-declines-as-fed-stance-and-strong-dollar-weigh-on-metals)
+  - [ECB’s Kazaks Says No Need for Multiple Hikes in Rushed Way](https://www.bloomberg.com/news/articles/2026-06-29/ecb-s-kazaks-says-no-need-for-multiple-hikes-in-rushed-way)
+  - [Spanish Inflation Unexpectedly Holds Well Above ECB Target](https://www.bloomberg.com/news/articles/2026-06-29/spanish-inflation-unexpectedly-holds-well-above-ecb-target)
+  - [Brexit Makes Inflation Spirals More Likely, Says Bank of England Economist](https://www.bloomberg.com/news/articles/2026-06-29/brexit-makes-inflation-spirals-more-likely-says-bank-of-england-economist-pill)
+  - [China Escalates Takaichi Feud by Blacklisting More Japan Firms](https://www.bloomberg.com/news/articles/2026-06-29/china-blacklists-more-japan-entities-as-takaichi-feud-deepens)
+  - [Japan Protests China’s Maritime Claims After Bomber Flights](https://www.bloomberg.com/news/articles/2026-06-29/japan-protests-china-maritime-claims-near-southern-island)
+  - [Goldman Backs India 30-Year Bonds as Iran War Impact Contained](https://www.bloomberg.com/news/articles/2026-06-29/goldman-backs-india-30-year-bonds-as-iran-war-impact-contained)
+  - [Dubai Stocks Set for Best Quarter in a Year as War Premium Ebbs](https://www.bloomberg.com/news/articles/2026-06-29/dubai-stocks-set-for-best-quarter-in-a-year-as-war-premium-ebbs)
+
 - **Reuters**
   - [China debuts overnight reverse repos at 1.25%, sources say](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUmVMMjdnWFVfN0JYMkttQ0lGM3BGS0Q5X0hGRThBdzUxRTJBMkd6aDk3a0xYZHNEQUsxY1hnQ1k0cVhBMS1ISGRZajdUN2ZpNlNhV1c0eHM4d21na3FILUVPNVkzbVppbVE1NHRYREdzS3NmMmFaREZiaVhrWFJtTjBxaVN6enMzWVdIRnJ6b25xOEtEWUlueUFqSTgtdllDZGtvS2JjNTZQWGs)
-  - [Hormuz oil exodus sets stage for chaotic rebalancing act](https://news.google.com/rss/articles/CBMivgFBVV95cUxNR2p4V01TS19VbzhydC1vMzhvNlBuMXdmS0ZyekVuZmk0aU9GVlc2MGM2bFdJQlcxdEZOQVpYeGJqUW5QUVI2am1hY3NrZ2dfSzVPbXVOdE1PM1lMRnE5UkFEdUpfNUVOVjV6VXhaWkhsVEZ6eklsOXpvcUVFdVVRYXBGVy1DaU9hdkZfbU01YkVCakJGX2p0R1JXNmpOenhmNXVlOElWMGczVlo5RkVuOHNwWmQ4Y3pYX3htQ0RR)
   - [Korea taps Samsung, SK Hynix in $576 billion AI-chip drive to cement global leadership](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUNqWjl6MERPSDlWbU9PcWFac1g2anI3NF8xSE1falktWnRsVUVTdHZOT1VOVmhOemcxUUJPNjdLWWdwM2x5enBYc1RMa0FCNTd3TzFSMGEySDNFM3JRNHVJZjdVWWNnd1F4Wm90dEJrWEgtWGJfNFI2ZWhLeWVkOGJUdTRYTGtqbk1IX0FwSmhrQ0tybXgwZUVsU1pSclVHWERTQzRCWWR6aDVuRzFublFuYk9wYmdU)
-  - [Gold falls as Mideast tensions fuel inflation fears, Fed rate-hike bets](https://news.google.com/rss/articles/CBMitgFBVV95cUxPSTVKRTRyZTc4cndMX2E0Mzd3UlROU1FJMWFsaWpkbDVuSUFiVldPeE1GRVFLbDVYeTZ5RTFXd08wUkYwU205amR5a1BIOTFTNGE1T01qMjNGSkJ2OXpjQVhWQ1JXSTdOeDBGb3I5czNDQ1VYck9ENEZJNVZMQk5Rc19tTWgzM3hGaC1uSlltSktpNWtyM3AtTTk3RkZJaFNpNjVFRXJUSWhuWEJGcnNUb1ZGVWstUQ)
-- **WSJ**
-  - [Spanish Inflation Stronger Than Expected in June](https://news.google.com/rss/articles/CBMilwFBVV95cUxPMGJFTlpual9yb2dleDhWY2ZsQ3JLSVl6RXZRN3Q3UWNMUzVKdWpPOEpJbHExRzRNcndTSEpBT1ptRlBlLU5zdE50ZFgtUG5xNFROR3pNbHh4czFVN2FJWS1QcmNNejd6bFN4V053MVlmWnVTelJ1c3M3dTlzck41d2xYQXVqbnBLS255RkdPRmpEYklCTTZV)
-  - [Korea’s Chips Rally Is Driving Its Stock Market Into a Danger Zone](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUHpaaGtlZW83WnBlRGNmaDVvRWxvRXBHQ3VFTnN1b2JnN3JFNDNQNGhBTTJyVUVOS3VpeDNXbmhzMnJRaGtHSjBYM2RlVDhyMGIybTdoNGx1SDlueE1LYUtqVVRkaU1vUXRlbi1jZkNNQU41cC1JdGZWNHRmTVlvT21SVDRhZ0hpdzAySzhNclBrMG5SMjNYS0VTRGxCU1ZJcXUtZ29CR3czRm9HZUE)
+
 - **FT**
-  - [Warsh’s Fed communication is adding volatility to rates markets](https://www.ft.com/content/774f8385-d983-4af6-adcd-4db60e711d3d)
+  - [Samsung and SK Hynix plan $600bn chipmaking expansion](https://www.ft.com/content/86013b7e-41da-445a-981c-075a701dccf6)
   - [China says it can withstand trade freeze ahead of EU talks](https://www.ft.com/content/75313f1b-10c2-4ec8-9e5b-ae098a5f9677)
+  - [Freight shipping costs surge as companies race to beat new Trump tariffs](https://www.ft.com/content/8bf7cfa4-5412-41d3-b84e-e89f84265fe8)
+  - [Warsh’s Fed communication is adding volatility to rates markets](https://www.ft.com/content/774f8385-d983-4af6-adcd-4db60e711d3d)
+
 - **CNBC**
-  - [U.S., Iran pause hostilities as Hormuz shipping resumes after weekend clashes](https://www.cnbc.com/2026/06/28/trump-threatens-iran-with-annihilation-kuwait-bahrain-report-attacks.html)
   - [Baidu shares jump 7% as AI chip arm Kunlunxin said to target $50 billion Hong Kong IPO](https://www.cnbc.com/2026/06/29/baidu-kunlunxin-hong-kong-ipo-50-billion-ai-chips.html)
+  - [South Korea says Samsung and SK Hynix investing in AI, semiconductor mega-projects](https://www.cnbc.com/2026/06/29/samsung-sk-hynix-reported-1point3-reported-trillion-spending-plans.html)
+
 - **SCMP**
   - [South Korea unveils US$576 billion megaprojects to dominate global AI, chip market](https://www.scmp.com/news/asia/east-asia/article/3358719/south-korea-unveils-us650-billion-megaprojects-dominate-global-ai-chip-market)
-  - [China adds 20 Japanese entities to export-control list over remilitarisation concerns](https://www.scmp.com/economy/china-economy/article/3358686/china-adds-20-japanese-entities-its-export-control-list)
-- **Caixin**
-  - [隔夜逆回购首次操作3000亿元 暂未公布具体操作利率](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFWEpSSkxaOWJBMndUQjNDWFBVT25kS0lUNWw4NlBQSmFsRlFSa2FyR0RQT053YkpYaUJzbU8yd3JLbW9hYkNpSGJNYkdYVi1VRDV5b1gzUEtQdmlLb0lrVTVR)
+  - [Chinese vessels shadow US-Philippine naval drills in South China Sea near disputed shoal](https://www.scmp.com/news/china/military/article/3358758/chinese-vessels-shadow-us-philippine-naval-drills-south-china-sea-near-disputed-shoal)
+  - [Australian energy exploration hits 10-year high as Asian gas demand surges](https://www.scmp.com/news/asia/australasia/article/3358683/australian-energy-exploration-hits-10-year-high-asian-gas-demand-surges)
+
+- **HKEJ**
+  - [恒指走勢丨反彈354點收復兩萬三 北水走資103億](https://news.google.com/rss/articles/CBMiwwJBVV95cUxPQmozWXpYbkRLRmlmVDR2cl9HRkZJZVVmMXFvVi1Gaks4ODRMVUtOa0dxN3B2bU9TbUVqOUlZaEdPSHlOeVpwbjlGcERQNWViOUZ4TFdITjFkVUtyRU9FT0tHZDVNa093OEw0c3FpaWpMQ0F4RmJad3BLcE1YWEVkaE54Y0ZxeUlrTUFYTXRCMktmc3l1ZXBmaVA3Q0pOaHUyaFJpV09qRW42b2U2VEViRHlFRUVBTGZmZWsxcFg4R2F3c29ycGh3YnpLWDAzV242WWxNNEY4V3Vzd3JpUUJwVGxEZ09fTkEyejZFV0JzSTdOa0otVGhzLS1WaEpiaG5mSUN4bHNXY0pmODkwaUFyQm1XVmFMRVZsbVM1M0lnNUVMX3ZNY1p0QjgzTThEYjlybkN0SWNqbWRJQlIySGZSbzE1cw)
+
+- **WSJ**
+  - [Korea’s Chips Rally Is Driving Its Stock Market Into a Danger Zone](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUHpaaGtlZW83WnBlRGNmaDVvRWxvRXBHQ3VFTnN1b2JnN3JFNDNQNGhBTTJyVUVOS3VpeDNXbmhzMnJRaGtHSjBYM2RlVDhyMGIybTdoNGx1SDlueE1LYUtqVVRkaU1vUXRlbi1jZkNNQU41cC1JdGZWNHRmTVlvT21SVDRhZ0hpdzAySzhNclBrMG5SMjNYS0VTRGxCU1ZJcXUtZ29CR3czRm9HZUE)
+
+- **CNN**
+  - [New US-Iran clashes revealed fragility of truce — and why it may work](https://news.google.com/rss/articles/CBMinAFBVV95cUxQZFE4Rmh5Q2Y1VUhmR0psVVVDUmlHVkRQUjhtV3kzZVlvQ2lEN25LTmhVcW8ta0c3aHVpNGs4T3NSYkJZbFl3ekhxdnAyTFZLNlJWMkFlbUpvSXVDYzFqYTIzQ2ZZOWJtVUs4WDRYTVByZ181R0pXODc5U09CaHV6SklCUFVLTFZsNGFIRDZsejBxeEF1d0dSRHBKR04)
+
+---
