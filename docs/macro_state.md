@@ -1,25 +1,22 @@
-# Macro State — Last updated: 2026-06-29
+# Macro State — Last updated: 2026-06-30
 
 ## Active Narratives
-- **US-Iran De‑escalation Resumes, Oil Term Premium Eases** — Status: Reversal from morning ceasefire collapse; both sides halt attacks, gold and Brent pull back. Next trigger: any new vessel attack or formal truce extension.
-- **PBOC Easing Signal via Overnight Reverse Repo** — Status: New; debut at 1.25% below forecasts opens a new liquidity tool, hinting at further accommodation. Next trigger: OMO volume, MLF/LPR decisions in July.
-- **South Korea Mega Chip Plan Counters AI Meltdown** — Status: New; Samsung, SK Hynix anchor $576bn+ investment drive, steadying KRW and KOSPI. Next trigger: timeline details, any US chip export restrictions.
-- **EU-China Trade Tensions and US Tariff Front** — Status: Acceleration; China says can withstand freeze, freight costs surge on new tariff fears. Next trigger: EU trade restriction announcement, US tariff details.
-
+- **EU-China Trade Friction Hardens with Quota Cuts and October Deadline** — Status: Acceleration; quota cut and joint monitoring platform firm up trade‑war risk; next trigger: October talks produce import‑reduction commitments or new tariffs.
+- **ECB Policy Stance Splits as French Inflation Hits 2%** — Status: New; doves see fading case for September hike, hawks warn of persistent shock; next trigger: German prelim CPI tonight and Sintra speeches Tue‑Wed.
+- **Yen Weakness Deepens Past 162 on Dovish BOJ Pick and Hawkish Fed** — Status: Acceleration; yen to fresh 1986 low, Sato signals accommodation; next trigger: MoF verbal warning or rate‑check, US Jolts/consumer confidence data.
+- **Oil Selloff Accelerates on US‑Iran Doha Talks** — Status: Acceleration; Brent heads for worst quarterly loss since 2020 as supply premium unwinds; next trigger: any Hormuz transit attack or confirmed Doha ceasefire outline.
 ## Watchpoints
-- US-Iran formal ceasefire extension or resumption of attacks on shipping in Hormuz.
-- PBOC’s next open market operation volume and any adjustment to LPR or MLF.
-- South Korea chip spending timeline and regulatory hurdles; any concentration risk sell-off.
-- NBS Manufacturing PMI (est. 50.1) and Non-Manufacturing PMI (est. 49.9) on Tuesday.
-- EU trade statement or anti-dumping measures against Chinese goods.
-
+- ECB Sintra speeches and German CPI tonight — anchor September rate expectations.
+- Japan MoF intervention check; break beyond 163 without pushback emboldens shorts.
+- US JOLTS and consumer confidence (10pm HKT) — validate pro‑cyclical dollar narrative.
+- South Korea property curbs’ impact on BOK rate path — watch KRW and housing‑related equities.
+- US‑Iran Doha talks concrete outcome — ceasefire details or renewed tanker attacks.
 ## Open Questions
-- Can the US-Iran halt hold beyond the immediate 48h window, or will Hormuz transit rhetoric keep Brent volatile?
-- Will the PBOC’s overnight reverse repo become a regular tool, and how does it affect CNH yield and carry trades?
-- Does the South Korea chip plan materially change the capex cycle and semicon equity sentiment, or is it already priced after the SoftBank rout?
-
+- Will the ECB tilt more hawkish at Sintra, or will falling energy stay their hand?
+- Can Japan’s MoF effectively stem yen weakness without another BOJ rate hike?
+- How much pre‑tariff front‑loading is already priced into Asia‑Pacific shipping and China activity data?
 ## Key Levels
-- **Brent crude**: decline on attack halt, reclaiming pre-weekend levels; sustained break below $70 would signal full unwinding of supply premium.
-- **Hang Seng Index**: reclaiming 23,000 with 354-point gain, but net southbound outflow of HK$10.3bn signals caution ([HKEJ](https://news.google.com/rss/articles/CBMiwwJBVV95cUxPQmozWXpYbkRLRmlmVDR2cl9HRkZJZVVmMXFvVi1Gaks4ODRMVUtOa0dxN3B2bU9TbUVqOUlZaEdPSHlOeVpwbjlGcERQNWViOUZ4TFdITjFkVUtyRU9FT0tHZDVNa093OEw0c3FpaWpMQ0F4RmJad3BLcE1YWEVkaE54Y0ZxeUlrTUFYTXRCMktmc3l1ZXBmaVA3Q0pOaHUyaFJpV09qRW42b2U2VEViRHlFRUVBTGZmZWsxcFg4R2F3c29ycGh3YnpLWDAzV242WWxNNEY4V3dzd3JpUUJwVGxEZ09fTkEyejZFV0JzSTdOa0otVGhzLS1WaEpiaG5mSUN4bHNXY0pmODkwaUFyQm1XVmFMRVZsbVM1M0lnNUVMX3ZNY1p0QjgzTThEYjlybkN0SWNqbWRJQlIySGZSbzE1cw)).
-- **USD/CNH**: PBOC easing signal and trade‑war risks could keep pair elevated; any follow‑through liquidity injection to be watched.
-- **KOSPI/KRW**: chip plan provides intraday support; upside limited until spending details emerge and concentration risk flagged by WSJ resolves ([WSJ](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUHpaaGtlZW83WnBlRGNmaDVvRWxvRXBHQ3VFTnN1b2JnN3JFNDNQNGhBTTJyVUVOS3VpeDNXbmhzMnJRaGtHSjBYM2RlVDhyMGIybTdoNGx1SDlueE1LYUtqVVRkaU1vUXRlbi1jZkNNQU41cC1JdGZWNHRmTVlvT21SVDRhZ0hpdzAySzhNclBrMG5SMjNYS0VTRGxCU1ZJcXUtZ29CR3czRm9HZUE)).
+- **USD/JPY**: `162.00` break and Friday close above it would signal intervention as only cap. (BBG, FT)
+- **Brent crude**: quarterly decline toward worst since 2020, with focus on sustaining below $70 as supply premium unwinds. (Reuters, WSJ)
+- **EUR/USD**: stuck between ECB hawks and doves; a Sintra surprise above 1.0850 or below 1.0750 likely sets direction. (BBG, CNBC)
+- **French HICP**: 2.0% YoY in June; further decline toward 1.8% would kill the September hike case. (BBG)
