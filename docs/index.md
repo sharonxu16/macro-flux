@@ -1,10 +1,10 @@
 ---
 tags:
-  - Macro/Iran_Talks_Snag
+  - Macro/Hormuz_Ceasefire
   - Asset/Brent
-  - Asset/USD
-  - Trade/Long_USD
+  - Asset/JPY
   - Trade/Short_JPY
+  - Trade/Long_USD
 ---
 
 <div align="center">
@@ -20,56 +20,61 @@ tags:
 ---
 
 > [!abstract] Overview
-> Oil stabilized after its steepest quarterly plunge since 2020 as Iran said it would not meet U.S. envoys, threatening the Doha peace talks that had been draining war risk premiums. The euro skidded after German and French inflation cooled more than expected, prompting ECB officials to declare there was no urgency to hike in July and unwinding the hawkish leg of the prior Sintra setup. The dollar extended gains as U.S. JOLTS job openings hit a two-year high, cementing bets on a Fed rate hike and sending gold to its worst quarter in over a decade. The yen weakened through 162 despite a bullish BOJ Tankan, leaving intervention the only plausible brake. A hawkish dollar, a rapidly deflating ECB tightening cycle, and fragile Iran diplomacy are now the axis around which everything else rotates.
+> Oil steadied after its worst quarterly rout since 2020 as Hormuz shipping reopened, though Iran’s refusal to meet US envoys in Doha clouded the ceasefire outlook. The yen struck a fresh four‑decade low, amplifying intervention risk, while firm US JOLTS data and a Cleveland Fed warning that AI could fuel inflation pushed up Fed‑hike bets and the dollar. China’s official factory PMI crept back into expansion, partly offsetting the blow from new EU steel tariff curbs and the World Bank’s decision to phase out China lending. Risk appetite held broadly firm — the S&P 500 posted its best quarter in six years — but a stronger greenback and sticky US yields kept Asian currencies on the defensive.
 
 ---
 
 ## 🔬 Narrative Watch
 
-### 📌 Iran Peace Talks Fracture as Tehran Refuses to Meet U.S. Envoys
+### 📌 Oil stabilises as Hormuz shipping recovers but Iran shuns US envoys
 
 **Fact**
-Iran said on Tuesday it would not hold direct talks with U.S. envoys in Doha, clouding prospects for a peace deal that had helped drive oil prices to the biggest quarterly loss since 2020 ([Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxOem1UeFBMZHJrM2tKRG9fdE5oTEQzWEpsRGxPTVNwZ1cyTEMta3laT2Z0N1NMYU1zc1BzMTYtSGJSSGI0VUVselZGZnQ4cnlKSk5MekZIakY2LUNMTzFMZU5oV0dxeFNLaEpsZzRLOFJjWVVoU2xDS1ZaQ3Q4YlE2Zk1DbjFrSnoyWnlZTC1zOTQ5bnpOR3RhWVN6X3BKcjNGd3I4MVlFajF0aFBiZl96NnAyclQtMWs)). Oil steadied after the quarterly slide, with Brent crude futures trading near `$65`/bbl after earlier swooning below `$70` ([BBG Markets](https://www.bloomberg.com/news/articles/2026-06-30/latest-oil-market-news-and-analysis-for-july-1)). The U.S. and Iran had been inching toward a ceasefire outline that would allow a full resumption of Hormuz transit; the refusal to meet raises the risk of renewed supply disruption.
+Oil inched higher after the biggest quarterly drop since the pandemic, as traders monitored peace talks between the US and Iran and the return of shipping through the Strait of Hormuz ([BBG](https://www.bloomberg.com/news/articles/2026-06-30/latest-oil-market-news-and-analysis-for-july-1)). US oil futures posted their sharpest quarterly drop since 2020 ([WSJ](https://news.google.com/rss/articles/CBMiygFBVV95cUxNblpsczVCTjFWLTBXcVJBa05VZnhPLXFzRFc1ekt5al9MUjhqMVpKY0hUNGhTNlhveEtoTVVyb29fcVE0YXJ3THBrT3dGODFOQzY1VVRqaHdPYkhja094TTBMREJTaUVTYjc0TnVsaTVySkhNMGY1anBTbVdSRERJekU4SVVlZlA5aHNLdWctSEpPNlc1Mzh2OF9CS0FYRld2NlRkQ01adnBXWF9pN3JnTnVXdzlCM182RExZclN6bzVCMldIM2lUc0Jn)). Brent posted its biggest monthly decline since March 2020 as traders monitored the prospect for US–Iran talks in Doha ([CNBC](https://www.cnbc.com/2026/06/30/oil-prices-brent-wti-crude-trump-iran.html)). Analysts dialled down oil‑price forecasts as the Hormuz reopening eased supply concerns, a Reuters poll showed ([Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxQVThReXJuYnZtcENQZmI0cGNETzlENi1qMVhQcUFvNUV5TjFSWndweVc0d0c2bnd2cWU2MTNMa3FBa0JRYmFsNGJ2cWw4eXBlSnIybU9mcE9tUTh1ZmZyNERYSUxUSk1WTkp4NG9NZ2ZMWHpjLTFfQ3RDdjVRNk9ZeTg1YVR4Wk95OVQtUU1iNWh5NkJrVnA5QWpWMXl6UlZIZHZjVnRPdkREbkphRDJNaUcxWlhUWHBXb1lfMWVmLVFnX1gxUV9z)). Vessels carrying about 14 million barrels of previously stranded Iraqi oil exited the Gulf in the latter part of June and are now moving crude to Asia, Europe and the US ([SCMP](https://www.scmp.com/news/world/middle-east/article/3358920/iraqs-14-million-barrels-trapped-oil-travels-through-strait-hormuz)). Yet Iran said it will not meet with US envoys, clouding prospects for a peace deal ([Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxOem1UeFBMZHJrM2tKRG9fdE5oTEQzWEpsRGxPTVNwZ1cyTEMta3laT2Z0N1NMYU1zc1BzMTYtSGJSSGI0VUVselZGZnQ4cnlKSk5MekZIakY2LUNMTzFMZU5oV0dxeFNLaEpsZzRLOFJjWVVoU2xDS1ZaQ3Q4YlE2Zk1DbjFrSnoyWnlZTC1zOTQ5bnpOR3RhWVN6X3BKcjNGd3I4MVlFajF0aFBiZl96NnAyclQtMWs)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Reversal of the “Oil Selloff Accelerates” theme, as Doha diplomacy hits a sudden obstacle.
-> * **Transmission / Market Read**: Risk‑premium channel favors **long Brent** and **short KRW** until talks resume or escalate.
-> * **Watchpoint / Confidence**: U.S. response in next 48h and any move to reschedule Doha; Confidence: Medium.
+> * **Narrative change**: Reversal — the oil selloff is pausing as physical barrels move, but Iran’s refusal to talk keeps the geopolitical risk premium alive.
+> * **Transmission / Market Read**: Supply‑premium unwind favors **lower inflation breakevens** and **narrower Brent curve**, yet Doha stalemate caps downside in **Brent** near `$70`.
+> * **Watchpoint / Confidence**: Concrete ceasefire outline or renewed Hormuz attack in the next 48 h; Confidence: Medium given Iran’s mixed signals.
 
-### 📌 Eurozone Inflation Cools Sharply, ECB Rate Hike Case Fades
+### 📌 Yen hits four‑decade low, intervention risk intensifies
 
 **Fact**
-German inflation eased in June as retreating oil prices tamed price pressures across Europe; the harmonised index fell to `2.1%` year‑on‑year from `2.3%`, below the `2.3%` forecast ([BBG Econ](https://www.bloomberg.com/news/articles/2026-06-30/german-inflation-eases-as-oil-s-retreat-tames-prices-in-europe)). French HICP cooled to `2.0%`, and Italian inflation also decelerated more than anticipated ([WSJ](https://news.google.com/rss/articles/CBMihAFBVV95cUxPVXBKRGg2TldzSlRhU1dMc1lNckE3ZEJ3NjdZcUJqQ1FPem1vUk1yX2pVMEtkYjF4c05OZzV6QnlqNjVRTVA3am1nbFNZOC0wa0RpLWhrZTZXb2l5T3FjSm9Xa3FQUWVQSWY2dzAyRndXcjlKbHYwRXhpb1p2R2x6WnJLNTM), [WallstreetCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YNVBfZzJkR2ktU1ZEYnM4Q2NlWGNacEdZVl81cmZTNGl5UHNyZERlYzlOOEZOcmN6MkE0alZrQW1IUjZ5aThqOE9JeG02WExwLXVR)). ECB Governing Council member Martins Kazaks said “there is no urgency to hike rates again in July,” while Primoz Dolenc noted the ECB may keep rates unchanged if energy markets stay calm ([BBG 1](https://www.bloomberg.com/news/articles/2026-06-30/ecb-faces-no-urgency-to-hike-rates-again-in-july-kazaks-says), [BBG 2](https://www.bloomberg.com/news/articles/2026-06-30/ecb-s-dolenc-sees-no-urgency-to-hike-if-energy-markets-stay-calm)). Olli Rehn cautioned that the Middle East conflict is producing stagflationary effects but inflation is cooling ([BBG 3](https://www.bloomberg.com/news/articles/2026-06-30/ecb-s-rehn-says-energy-shock-is-producing-stagflationary-effects)).
+The Japanese yen weakened to its lowest level against the US dollar since 1986 on Tuesday, keeping investors on alert for possible intervention from Japanese authorities ([CNBC](https://www.cnbc.com/2026/06/30/japan-yen-falls-lowest-level-since-1986-dollar-intervention-risk.html)). Separately, Japan’s manufacturers’ mood improved to the highest since 2018, according to the BOJ’s June Tankan survey ([BBG](https://www.bloomberg.com/news/articles/2026-06-30/japan-s-manufacturer-mood-improves-to-highest-level-since-2018)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Reversal of ECB tightening expectations; the dove‑hawk split dissolves in favour of a clear dovish tilt.
-> * **Transmission / Market Read**: Policy channel favours **short EUR/USD** and **long European bonds** (Bunds, OATs).
-> * **Watchpoint / Confidence**: ECB Sintra speeches and final Eurozone HICP print; Confidence: High.
+> * **Narrative change**: Acceleration — the move beyond `162` to a new post‑1986 low, without MoF pushback, deepens the depreciation trend.
+> * **Transmission / Market Read**: Carry‑trade tailwind lifts **long Nikkei** and **short JPY crosses**, but a sudden MoF check or verbal warning would force a sharp **JPY‑short squeeze**.
+> * **Watchpoint / Confidence**: MoF verbal warning or rate‑check before Tokyo close; Confidence: High that intervention chatter intensifies with each new low.
 
-### 📌 US JOLTS Surge to Two-Year High, Bolsters Fed Hike Expectations
+### 📌 Robust US JOLTS and hawkish Fed talk cement July rate‑hike bets
 
 **Fact**
-U.S. job openings rose to `8.14` million in May, the highest since 2023 and well above the `7.86` million expected ([FT](https://www.ft.com/content/c0992852-b7f1-4f09-aef7-b630cd0dc61d), [CNN](https://news.google.com/rss/articles/CBMifEFVX3lxTFBUcTdmWkthU2FmMFVEWUQ2R2h4MFZwRU9fTG5QX0M2ZzRZN1ZsTFlkLXJDWmRPbFE0dHNPLTJjal9LdnVLX2dKaTFna3JGa0hmN2dOSU1pa05MdldNam53NHh5ams1Y0RzM2VjX2U4ZFZjend1NDhFTFYtVUU)). The dollar strengthened against all G10 peers, with the WSJ Dollar Index rising `0.85%` for the quarter to `97.53` ([WSJ](https://news.google.com/rss/articles/CBMirAFBVV95cUxNVGVUb2MtSUl0Q2E5VVdwbUNNMTFlSllGSUVJUTl3Q2Z2Nl82N2Fza3NxX1QzeXlhejc0YUstQUh6Qzd4blFpUFRDLTJhc2Z1bTh6clZoU3d4a1A1Q3E3YldjWDdaZldhZUVmMVM0ZFRMWkhBM0pzQTRZUzRtWGFUYnNKMlFpZUJIZk96VzZCa2E5OGQ5ZTFZV3ZMYVJfQVh0T3J0SmstTURKZnJ6)). Gold fell for a third day, heading for its worst quarter in more than a decade, as traders priced a `65%` probability of a July Fed rate hike ([FT Markets](https://www.ft.com/content/ca75b117-f085-45be-95c1-7397d3b0797a), [WallstreetCN 2](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zenpRRnhSc1dQaVRNQVEzMTJUaFJLUUVmYmYxVWlQS0d2V0tVUGZsMlNWZXd1Y2IxUkxKaVRVYVFDcnpCZWtLbVVRcHhhVVRzMFdN)).
+US labour demand remained firm in May, with the latest JOLTS survey reinforcing narratives of a robust labour market ([FT](https://www.ft.com/content/c0992852-b7f1-4f09-aef7-b630cd0dc61d)). US job openings were much higher than expected, shrugging off uncertainty from the Iran war ([CNN](https://news.google.com/rss/articles/CBMifEFVX3lxTFBUcTdmWkthU2FmMFVEWUQ2R2h4MFZwRU9fTG5QX0M2ZzRZN1ZsTFlkLXJDWmRPbFE0dHNPLTJjal9LdnVLX2dKaTFna3JGa0hmN2dOSU1pa05MdldNam53NHh5ams1Y0RzM2VjX2U4ZFZjend1NDhFTFYtVUU)). Cleveland Fed President Hammack said AI could fuel inflation and that rate hikes may be necessary ([CNBC](https://www.cnbc.com/2026/06/30/cleveland-fed-president-hammack-sees-ai-fueling-inflation-says-rate-hikes-may-be-necessary.html)). Traders piled into bets for a July Fed hike, with federal funds futures short positions surging ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zenpRRnhSc1dQaVRNQVEzMTJUaFJLUUVmYmYxVWlQS0d2V0tVUGZsMlNWZXd1Y2IxUkxKaVRVYVFDcnpCZWtLbVVRcHhhVVRzMFdN)). US Treasury yields extended their quarterly rise as the economy held up ([WSJ](https://news.google.com/rss/articles/CBMimgFBVV95cUxNQzBweVF6djlaQzBLNUlQRnpadkQwZG9EMzB2aFNacEZzV1RuSDhFRVo0NmRLZUZLUFJ4c2t3Z2NicDJ6ZC1lOXFCVE91OUc3MXdzUU9tTjU2YVdreXh2WWpHckdkMEJyVXFNZDNvTWFvRmpONlk4SHkzVVRIMU5KN1dMeGk5U1BWcUU0RGxpZ3hkWExiTFNxSzV3)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Acceleration of the hawkish‑Fed narrative; strong labor demand makes a July hike increasingly plausible.
-> * **Transmission / Market Read**: Interest‑rate channel favours **long USD/Asia FX** and **short gold**.
-> * **Watchpoint / Confidence**: Fed Chair Warsh’s speech tonight and ADP/ISM data later this week; Confidence: High.
+> * **Narrative change**: Confirmation — the JOLTS beat and hawkish Fedspeak validate the “higher‑for‑longer” US rates story, aligning with the earlier hawkish‑Fed narrative.
+> * **Transmission / Market Read**: Front‑end yield repricing fuels **long USD/Asia FX**, especially **short KRW** and **short TWD**, while weighing on **gold** and **EM local bonds**.
+> * **Watchpoint / Confidence**: ADP employment and ISM manufacturing today — another beat would accelerate July‑hike pricing; Confidence: High given consensus‑beating data flow.
 
 ---
 
 ## 🌍 Global Radar
 
+### 🏦 Central Banks
+- **ECB** — Governing Council member Dolenc sees no urgency to hike if energy markets stay calm ([BBG](https://www.bloomberg.com/news/articles/2026-06-30/ecb-s-dolenc-sees-no-urgency-to-hike-if-energy-markets-stay-calm)).
+
 ### 🛢️ Commodities
-- Alcoa agreed to buy South32’s bauxite, alumina and aluminum assets in a deal worth up to `$5.6 billion`, cementing its position as a top producer as long‑term demand strengthens and the Iran war exposes supply concerns ([BBG](https://www.bloomberg.com/news/articles/2026-06-30/south32-sells-aluminum-assets-to-alcoa-in-5-6-billion-deal)).
-- Trading of cobalt and lithium futures contracts has risen this year on the leading European and US exchanges, as volatility stirs battery metals markets ([FT Markets](https://www.ft.com/content/441173ae-125a-4c4a-baa5-97ec0fa6e2d0)).
+- Gold is heading for its worst quarter in more than a decade as the retail frenzy fades and expectations of higher interest rates — fuelled by the Iran war — end the record rally ([FT](https://www.ft.com/content/ca75b117-f085-45be-95c1-7397d3b0797a)).
+
+### 📈 Equities
+- US stocks chalked up their biggest quarterly gain in six years, as investors navigated Iran war fallout, chip‑stock volatility and the blockbuster SpaceX IPO ([FT](https://www.ft.com/content/4ba4305f-f9ea-48f9-a49f-687443bd2f4b)).
 
 ---
 
 ## 📅 Economic Calendar — Next 24 Hours
 
 | Time (HKT) | Rgn | Event | Est. | Prior |
-|---|---|---|---|---|
+|------------|-----|-------|------|-------|
 | 08:00 AM | KR | Exports YoY | — | 53.4% |
 | 08:00 AM | KR | Balance of Trade | — | $27.04B |
 | 08:00 AM | KR | Imports YoY | — | 20.7% |
@@ -115,33 +120,38 @@ U.S. job openings rose to `8.14` million in May, the highest since 2023 and well
 
 ## 📚 Full Reading List
 - **BBG**
-  - [Dollar Gains Ahead of Warsh Speech, Stocks Waver: Markets Wrap](https://www.bloomberg.com/news/articles/2026-06-30/asian-stocks-eye-gains-as-us-posts-stellar-quarter-markets-wrap)
-  - [Oil Steadies as Peace Talks Continue, Hormuz Traffic Recovers](https://www.bloomberg.com/news/articles/2026-06-30/latest-oil-market-news-and-analysis-for-july-1)
-  - [ECB Faces No Urgency to Hike Rates Again in July, Kazaks Says](https://www.bloomberg.com/news/articles/2026-06-30/ecb-faces-no-urgency-to-hike-rates-again-in-july-kazaks-says)
+  - [Oil Edges Up as Peace Talks Continue, Hormuz Traffic Recovers](https://www.bloomberg.com/news/articles/2026-06-30/latest-oil-market-news-and-analysis-for-july-1)
+  - [Japan’s Manufacturer Mood Improves to Highest Level Since 2018](https://www.bloomberg.com/news/articles/2026-06-30/japan-s-manufacturer-mood-improves-to-highest-level-since-2018)
+  - [German Inflation Eases as Oil Retreat Tames Prices in Europe](https://www.bloomberg.com/news/articles/2026-06-30/german-inflation-eases-as-oil-s-retreat-tames-prices-in-europe)
   - [ECB’s Dolenc Sees No Urgency to Hike If Energy Markets Stay Calm](https://www.bloomberg.com/news/articles/2026-06-30/ecb-s-dolenc-sees-no-urgency-to-hike-if-energy-markets-stay-calm)
   - [ECB’s Rehn Says Energy Shock Is Producing Stagflationary Effects](https://www.bloomberg.com/news/articles/2026-06-30/ecb-s-rehn-says-energy-shock-is-producing-stagflationary-effects)
-  - [German Inflation Eases as Oil Retreat Tames Prices in Europe](https://www.bloomberg.com/news/articles/2026-06-30/german-inflation-eases-as-oil-s-retreat-tames-prices-in-europe)
-  - [Japan’s Manufacturer Mood Improves to Highest Level Since 2018](https://www.bloomberg.com/news/articles/2026-06-30/japan-s-manufacturer-mood-improves-to-highest-level-since-2018)
-  - [Alcoa Bets on Aluminum Boom With $5.6 Billion South32 Deal](https://www.bloomberg.com/news/articles/2026-06-30/south32-sells-aluminum-assets-to-alcoa-in-5-6-billion-deal)
+  - [Asian Stocks Slip After Two-Day Rally, Yen Steady: Markets Wrap](https://www.bloomberg.com/news/articles/2026-06-30/asian-stocks-eye-gains-as-us-posts-stellar-quarter-markets-wrap)
 - **Reuters**
+  - [Analysts dial down oil forecasts as Hormuz reopening eases supply concerns: Reuters poll](https://news.google.com/rss/articles/CBMixwFBVV95cUxQVThReXJuYnZtcENQZmI0cGNETzlENi1qMVhQcUFvNUV5TjFSWndweVc0d0c2bnd2cWU2MTNMa3FBa0JRYmFsNGJ2cWw4eXBlSnIybU9mcE9tUTh1ZmZyNERYSUxUSk1WTkp4NG9NZ2ZMWHpjLTFfQ3RDdjVRNk9ZeTg1YVR4Wk95OVQtUU1iNWh5NkJrVnA5QWpWMXl6UlZIZHZjVnRPdkREbkphRDJNaUcxWlhUWHBXb1lfMWVmLVFnX1gxUV9z)
   - [Iran says it won't meet with U.S. envoys, clouding prospects for peace deal](https://news.google.com/rss/articles/CBMitwFBVV95cUxOem1UeFBMZHJrM2tKRG9fdE5oTEQzWEpsRGxPTVNwZ1cyTEMta3laT2Z0N1NMYU1zc1BzMTYtSGJSSGI0VUVselZGZnQ4cnlKSk5MekZIakY2LUNMTzFMZU5oV0dxeFNLaEpsZzRLOFJjWVVoU2xDS1ZaQ3Q4YlE2Zk1DbjFrSnoyWnlZTC1zOTQ5bnpOR3RhWVN6X3BKcjNGd3I4MVlFajF0aFBiZl96NnAyclQtMWs)
-  - [S&P 500, Nasdaq register best quarter since 2020 despite Iran war](https://news.google.com/rss/articles/CBMiowFBVV95cUxOaFRDcUUwRFFNVjBGV3pwVVVHRU12NjdzSGVuY29pWHRGamc3NTAxSkExaThvUFdFLUVnUUx0VkJ2NWszanJCTmhVVjViUzlIUlVVTkVsOVdOanFITWF6Z0J2Ql9fSTBLX1p2TDdEakN3TUU5elV0NnNLNTRvajV6UjJzR2tPTzEtaGNPRUVlbVhJdmNMMXZUMmEzYU5DQm1qM1JB)
+  - [Hormuz disruption to stall 2026 LNG trade, demand to rise by 2050, says Shell](https://news.google.com/rss/articles/CBMioAFBVV95cUxQZkNhSEpvREhOODZSNEZOdmRRMzAzT2dVRC0zdlkwYWxQR3N0WUloTkZuVWg3NzN2N2JUcGdvZW9Hd3I5dFBJbXRQMm5jRTVpMmVfTURxbDdBT2JaWHRLdmRGR0pVbXpQaTNycUYyTkNsZkhxejUzZGpsNW1vRWQ1R2gtLTZIUHBhR0pvQjBZTzAxMlVLVnlUbjAxVDhfcFYw)
+  - [Estonia images show machine guns on Russian LNG carrier in Baltic](https://news.google.com/rss/articles/CBMiowFBVV95cUxNYlV0T0ZHa1BhZ1lWa1Nfa25GWEg0Wmp4RzQ4WnZSb3FfQWZzMC0zZE5uNjAwWERmMGpDdktHODFKaDMwVEd5Y3JIVHJ3ZDNaa1hsdGhIaF9kajNqZzl1NXRROGx6UG9KZlhHejRNcTY2TXpTMUQ0b19XaW1fYkZ4cGd2NmJXdnlNeVhvV0MtZ1BXQkZNaVlpcDFNVUItem5qeFhJ)
 - **WSJ**
+  - [Oil Futures Post Sharpest Quarterly Drop Since 2020](https://news.google.com/rss/articles/CBMiygFBVV95cUxNblpsczVCTjFWLTBXcVJBa05VZnhPLXFzRFc1ekt5al9MUjhqMVpKY0hUNGhTNlhveEtoTVVyb29fcVE0YXJ3THBrT3dGODFOQzY1VVRqaHdPYkhja094TTBMREJTaUVTYjc0TnVsaTVySkhNMGY1anBTbVdSRERJekU4SVVlZlA5aHNLdWctSEpPNlc1Mzh2OF9CS0FYRld2NlRkQ01adnBXWF9pN3JnTnVXdzlCM182RExZclN6bzVCMldIM2lUc0Jn)
   - [Inflation in Eurozone’s Biggest Economies Cools More Than Expected](https://news.google.com/rss/articles/CBMihAFBVV95cUxPVXBKRGg2TldzSlRhU1dMc1lNckE3ZEJ3NjdZcUJqQ1FPem1vUk1yX2pVMEtkYjF4c05OZzV6QnlqNjVRTVA3am1nbFNZOC0wa0RpLWhrZTZXb2l5T3FjSm9Xa3FQUWVQSWY2dzAyRndXcjlKbHYwRXhpb1p2R2x6WnJLNTM)
-  - [WSJ Dollar Index Rises 0.85% This Quarter to 97.53](https://news.google.com/rss/articles/CBMirAFBVV95cUxNVGVUb2MtSUl0Q2E5VVdwbUNNMTFlSllGSUVJUTl3Q2Z2Nl82N2Fza3NxX1QzeXlhejc0YUstQUh6Qzd4blFpUFRDLTJhc2Z1bTh6clZoU3d4a1A1Q3E3YldjWDdaZldhZUVmMVM0ZFRMWkhBM0pzQTRZUzRtWGFUYnNKMlFpZUJIZk96VzZCa2E5OGQ5ZTFZV3ZMYVJfQVh0T3J0SmstTURKZnJ6)
-  - [EU to Limit Tariff-Free Steel Imports, Hike Duties When They Apply](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNXzNCN3NvcEJBNFJLLXRKQzBzSEtwM3QxNm9uQTY1NWE0SUhpeGFkeHpSbDhQRGpFOEVPOE8wMU52VldBVEktczNGbjY3WVVfaXp1em5qaTl4emk1ZFA2V1RySG5jWWJrelNEblE2bEw1Mkp4c3Z6TzZzSG1qLWdTTE95V3F4ZU5SZVcyc2NUZldmbER3MDgzdTZZNjk2VkVfWkVWNVdWaFE)
-  - [U.S. Natural Gas Futures Rise on Weather-Driven Demand](https://news.google.com/rss/articles/CBMipwFBVV95cUxQbDIzX1FLdmVCM0R2b1lpNEdaU0c4ZmFGZFI4UHBGLVNSal9lVmhYMF9jeE11VUJyRkNNZWlHMVZVREJycFBNWkV0YmNnOGJTMlJkaXhNT1U0S29oRlRXenRUNFhzelhRRUlFVEh6eU9EeThmLW96SVhwSDZpLXhjNURXSUY2LW5td0U2ZDJuSXZ6c3hsM2w4dHVqaThyUkwzd1FwWW1pTQ)
+  - [Treasury Yields Extend Quarterly Rise as U.S. Economy Holds Up](https://news.google.com/rss/articles/CBMimgFBVV95cUxNQzBweVF6djlaQzBLNUlQRnpadkQwZG9EMzB2aFNacEZzV1RuSDhFRVo0NmRLZUZLUFJ4c2t3Z2NicDJ6ZC1lOXFCVE91OUc3MXdzUU9tTjU2YVdreXh2WWpHckdkMEJyVXFNZDNvTWFvRmpONlk4SHkzVVRIMU5KN1dMeGk5U1BWcUU0RGxpZ3hkWExiTFNxSzV3)
 - **FT**
   - [US labour demand remained firm in May](https://www.ft.com/content/c0992852-b7f1-4f09-aef7-b630cd0dc61d)
+  - [EU to increase steel tariffs on trading partners](https://www.ft.com/content/f7cc6193-7587-4ee1-8648-27ec0612cefa)
+  - [World Bank to phase out China lending](https://www.ft.com/content/32b664e1-d2d2-4292-b0b3-0056808acf26)
   - [Gold heads for worst quarter in more than a decade as retail frenzy fades](https://www.ft.com/content/ca75b117-f085-45be-95c1-7397d3b0797a)
   - [US stocks chalk up biggest quarterly gain in six years](https://www.ft.com/content/4ba4305f-f9ea-48f9-a49f-687443bd2f4b)
-  - [EU to increase steel tariffs on trading partners](https://www.ft.com/content/f7cc6193-7587-4ee1-8648-27ec0612cefa)
-  - [Battery metals futures heat up as volatility stirs markets](https://www.ft.com/content/441173ae-125a-4c4a-baa5-97ec0fa6e2d0)
 - **CNBC**
-  - [US job openings were much higher than expected in May](https://news.google.com/rss/articles/CBMifEFVX3lxTFBUcTdmWkthU2FmMFVEWUQ2R2h4MFZwRU9fTG5QX0M2ZzRZN1ZsTFlkLXJDWmRPbFE0dHNPLTJjal9LdnVLX2dKaTFna3JGa0hmN2dOSU1pa05MdldNam53NHh5ams1Y0RzM2VjX2U4ZFZjend1NDhFTFYtVUU)
-  - [Small-cap stocks enjoy best first half in 35 years](https://www.cnbc.com/2026/06/30/small-cap-stocks-enjoy-best-first-half-since-1991-as-ai-trade-expands.html)
+  - [Brent posts biggest monthly decline since March 2020 as traders monitor U.S.-Iran talks](https://www.cnbc.com/2026/06/30/oil-prices-brent-wti-crude-trump-iran.html)
+  - [Japanese yen sinks to 40-year low, keeping intervention risks in focus](https://www.cnbc.com/2026/06/30/japan-yen-falls-lowest-level-since-1986-dollar-intervention-risk.html)
+  - [Cleveland Fed President Hammack says AI could fuel inflation, rate hikes may be necessary](https://www.cnbc.com/2026/06/30/cleveland-fed-president-hammack-sees-ai-fueling-inflation-says-rate-hikes-may-be-necessary.html)
 - **SCMP**
-  - [US will refuse to renew USMCA as China becomes fault line in North America trade review](https://www.scmp.com/news/world/united-states-canada/article/3358951/us-expected-exit-usmca-starting-decade-long-countdown-trade-pact)
-- **WallstreetCN**
-  - [法意6月CPI超预期减速，欧央行“连环加息”预期降温](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YNVBfZzJkR2ktU1ZEYnM4Q2NlWGNacEdZVl81cmZTNGl5UHNyZERlYzlOOEZOcmN6MkE0alZrQW1IUjZ5aThqOE9JeG02WExwLXVR)
+  - [Iraq’s 14 million barrels of trapped oil travels through Strait of Hormuz](https://www.scmp.com/news/world/middle-east/article/3358920/iraqs-14-million-barrels-trapped-oil-travels-through-strait-hormuz)
+- **CNN**
+  - [US job openings were much higher than expected in May, shrugging off uncertainty from Iran war](https://news.google.com/rss/articles/CBMifEFVX3lxTFBUcTdmWkthU2FmMFVEWUQ2R2h4MFZwRU9fTG5QX0M2ZzRZN1ZsTFlkLXJDWmRPbFE0dHNPLTJjal9LdnVLX2dKaTFna3JGa0hmN2dOSU1pa05MdldNam53NHh5ams1Y0RzM2VjX2U4ZFZjend1NDhFTFYtVUU)
+- **Caixin**
+  - [6月统计局制造业PMI升至50.3 重返扩张区间](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRZG9FRG9YS2NybEVOUDZkOUZGSE1TcS04TEJlZlhQLUVBNWZpMzhTdG9aWVQwb2dkRmFDZmlGUVBJS1hUUEFxano4bGVLODRFeHpoNWxxNlVCVGFhbktEMWdn)
+- **WallstreetCN** (WSJCN)
   - [交易员加码押注美联储7月加息！联邦基金利率期货空头头寸激增](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zenpRRnhSc1dQaVRNQVEzMTJUaFJLUUVmYmYxVWlQS0d2V0tVUGZsMlNWZXd1Y2IxUkxKaVRVYVFDcnpCZWtLbVVRcHhhVVRzMFdN)
+
+---
