@@ -1,22 +1,20 @@
-# Macro State — Last updated: 2026-06-30
+# Macro State — Last updated: 2026-07-01
 
 ## Active Narratives
-- **EU-China Trade Friction Hardens with Quota Cuts and October Deadline** — Status: Acceleration; quota cut and joint monitoring platform firm up trade‑war risk; next trigger: October talks produce import‑reduction commitments or new tariffs.
-- **ECB Policy Stance Splits as French Inflation Hits 2%** — Status: New; doves see fading case for September hike, hawks warn of persistent shock; next trigger: German prelim CPI tonight and Sintra speeches Tue‑Wed.
-- **Yen Weakness Deepens Past 162 on Dovish BOJ Pick and Hawkish Fed** — Status: Acceleration; yen to fresh 1986 low, Sato signals accommodation; next trigger: MoF verbal warning or rate‑check, US Jolts/consumer confidence data.
-- **Oil Selloff Accelerates on US‑Iran Doha Talks** — Status: Acceleration; Brent heads for worst quarterly loss since 2020 as supply premium unwinds; next trigger: any Hormuz transit attack or confirmed Doha ceasefire outline.
+- **Iran Peace Talks Fragile, Oil Reversal Risk** — Status: Reversal; Iran’s refusal to meet U.S. envoys threatens Doha ceasefire, reversing oil selloff; next trigger: U.S. response or rescheduling of talks.
+- **ECB Rate Hike Case Collapses as Eurozone Inflation Cools** — Status: Reversal; doves now clearly in control, July hike off the table; next trigger: ECB Sintra speeches and final Eurozone HICP.
+- **US Macro Strength Persists, Fed July Hike Viable** — Status: Acceleration; JOLTS hit two-year high, reinforcing Fed tightening bias; next trigger: Fed Chair Warsh speech and ADP/ISM data.
+- **BOJ Hike Path Cemented by Tankan, Yen Still Under Pressure** — Status: Confirmation; record inflation expectations support rate hikes but yen at 40‑year low, intervention risk high; next trigger: MoF verbal warning.
 ## Watchpoints
-- ECB Sintra speeches and German CPI tonight — anchor September rate expectations.
-- Japan MoF intervention check; break beyond 163 without pushback emboldens shorts.
-- US JOLTS and consumer confidence (10pm HKT) — validate pro‑cyclical dollar narrative.
-- South Korea property curbs’ impact on BOK rate path — watch KRW and housing‑related equities.
-- US‑Iran Doha talks concrete outcome — ceasefire details or renewed tanker attacks.
+- Iran‑U.S. back‑channel diplomacy in next 48h; resumption of Doha talks would renew oil selloff.
+- ECB Sintra speeches today and tomorrow; any hawkish pushback could reverse EUR weakness.
+- US ISM Manufacturing and ADP employment this week; soft data would dampen Fed hike bets.
+- Japan MoF rate check if USD/JPY breaches 163; verbal intervention likely.
+- USMCA exit announcement; reaction in MXN and CAD crosses.
 ## Open Questions
-- Will the ECB tilt more hawkish at Sintra, or will falling energy stay their hand?
-- Can Japan’s MoF effectively stem yen weakness without another BOJ rate hike?
-- How much pre‑tariff front‑loading is already priced into Asia‑Pacific shipping and China activity data?
+- Will Iran walk away from the Doha track entirely, or is this a negotiating tactic?
+- Can the ECB’s dovish shift hold if energy prices rise again?
+- How much further can US equities run before Fed tightening bites?
 ## Key Levels
-- **USD/JPY**: `162.00` break and Friday close above it would signal intervention as only cap. (BBG, FT)
-- **Brent crude**: quarterly decline toward worst since 2020, with focus on sustaining below $70 as supply premium unwinds. (Reuters, WSJ)
-- **EUR/USD**: stuck between ECB hawks and doves; a Sintra surprise above 1.0850 or below 1.0750 likely sets direction. (BBG, CNBC)
-- **French HICP**: 2.0% YoY in June; further decline toward 1.8% would kill the September hike case. (BBG)
+- **Brent crude**: `$65`/bbl — near current trading; sustained break below would extend quarterly selloff ([BBG Markets](https://www.bloomberg.com/news/articles/2026-06-30/latest-oil-market-news-and-analysis-for-july-1)).
+- **USD/JPY**: `162` — break to new 40‑year low; close above increases intervention risk ([BBG Markets](https://www.bloomberg.com/news/articles/2026-06-30/asian-stocks-eye-gains-as-us-posts-stellar-quarter-markets-wrap)).
