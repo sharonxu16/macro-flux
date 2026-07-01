@@ -1,26 +1,26 @@
 # Macro State — Last updated: 2026-07-01
 
-## Active Narratives
-- **Hormuz ceasefire / oil recovery** — Status: Reversal; physical barrels moving, but Iran’s refusal to meet US envoys keeps supply premium from fully unwinding; next trigger: Doha meeting outcome or new Hormuz attack.
-- **Yen depreciation deepens past 162** — Status: Acceleration; fresh 1986 low without MoF pushback; next trigger: MoF verbal warning or rate‑check before Tokyo close.
-- **Fed hawkishness on firm US data** — Status: Confirmation; JOLTS beat and Cleveland Fed AI‑inflation warning cement July‑hike bets; next trigger: ADP / ISM today — beats will accelerate pricing.
-- **EU steel tariff escalation** — Status: New; new quota and duty hikes harden trade‑friction risk, adding to China/EU tension; next trigger: targeted retaliation or China steel export curbs.
+## Active Narratives (max 4)
+- **Hormuz ceasefire / oil fragility** — Status: Acceleration; Iran‑US diplomatic deadlock and residual ship attack keep oil volatile, even as export volumes surge.
+- **Eurozone disinflation** — Status: Confirmation; softer CPI cements ECB patience, widening the rate differential in favor of USD.
+- **Yen depreciation deepens past 162** — Status: Acceleration; new 40‑year low with explicit MoF/US contact hinting at intervention readiness.
+- **EU steel tariff escalation** — Status: Confirmation; new quota and duty hike details intensify trade‑friction risk.
 
-## Watchpoints
-- Doha US‑Iran meeting — any face‑to‑face contact or renewed transit disruption.
-- Japan MoF verbal intervention or rate‑check; USD/JPY break beyond 163 without pushback.
-- US ADP employment (Jul 1) and ISM manufacturing — validate pro‑cyclical dollar.
-- Eurozone final manufacturing PMIs — confirm German / French weakness for EUR.
-- China’s manufacturing PMI follow‑through — sustained above 50 or one‑off blip.
+## Watchpoints (max 5)
+- Doha ceasefire meeting — any resumption of talks or new Hormuz incident.
+- Japan MoF verbal intervention or rate‑check as USD/JPY nears 163.
+- ECB July meeting — any shift in tone after below‑consensus CPI.
+- US ADP employment (Jul 1) and ISM manufacturing — validate pro‑cyclical dollar strength.
+- South Korea CPI (Jul 2) — could influence BOK policy expectations.
 
-## Open Questions
-- Will Iran and the US meet in Doha, and can a ceasefire outline stick?
-- Can Japan’s MoF stem yen weakness without a BOJ rate signal?
-- How will the World Bank lending phase‑out reshape China’s external funding and regional influence?
+## Open Questions (max 3)
+- Will the US and Iran hold direct talks in Doha, or will the impasse force a military escalation?
+- Can Japan’s FX intervention, combined with US contact, halt the yen’s slide without a BOJ pivot?
+- How will the new EU steel duties alter Chinese steel export flows and global trade dynamics?
 
-## Key Levels
-- **Brent crude**: quarterly drop worst since 2020, with support near `$70` as physical flow resumes (SCMP, WSJ, BBG).
-- **USD/JPY**: fresh 1986 low, intervention zone likely above `163` (CNBC, BBG).
-- **US 2‑year yield**: extending quarterly rise, above `4.75%` on hawkish data (WSJ).
-- **Gold**: worst quarter in over a decade, below `$1,900` as rate‑hike fears dominate (FT).
-- **China NBS manufacturing PMI**: `50.3` expansion — break below 50 again would signal renewed weakness (Caixin).
+## Key Levels (max 5)
+- **Brent crude** — renewed slide toward `$125/bbl` as Iran talks stall ([CNBC](https://www.cnbc.com/2026/07/01/oil-prices-brent-wti-crude-trump-iran.html), [Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxOMHJEenFKWkIxQUo3U2hMR2RKY0h3MldHWmhUSlFrbUloR195NWh0cE41c3BGc25aRlk5RlR5bEVVTHN0Qk95d3dfTHZUQnRxdVdmOERFRUlrQzRBYlB5d1dSM3RtdUJsRUV0WkxIVnpGZFg5TnRYQXR3TEVDUV9tUC12dWcyTW94WDVkbUZYUE95Y1ZXRkRRX1ByYXJ0c0xxTmhrTXQwaFM3eXJkMWp1ZVBmRy0tSklWMWc)).
+- **USD/JPY** — fresh 40‑year low; intervention risk rises above `163` ([WSJ](https://news.google.com/rss/articles/CBMiywFBVV95cUxPdVRxMGVnRlhwcEwwRm9HQ1EzUGdpeC1ERV9fcFU1eG9YbTRpdG9ld3hoanFsYjNfWlZSVkFYM2hqbzZCRXRRMkJvd0pzUjE3OHhnencwcldja0Vob183YUZ6cHpQZjlXRkEzMWM3X0VqTFl4ZE9aNi10b2NnNXU4RjFQU2luUXQxMjEzX3BzRzRuV3diYkFVV2EwSHpwd3ZBOVVrTGNsVGU0SXBfejhiR3dQM3VUUDQtem1kTWhUeUpjNmsyVEIxaWFNcw), [CNBC](https://www.cnbc.com/2026/07/01/japan-yen-40-year-low-intervention-fed-boj-carry-trade.html)).
+- **EUR/USD** — pressured by softer EZ inflation print, testing recent lows ([FT](https://www.ft.com/content/c4408588-ca9c-4c9f-b058-c8e2d0cc39e5), [BBG](https://www.bloomberg.com/news/articles/2026-07-01/euro-zone-inflation-slows-more-than-expected-as-oil-retreats)).
+- **Iranian crude exports** — 40 million barrels moved through Hormuz since ceasefire, with Iran commanding a 20% premium ([CNBC](https://www.cnbc.com/2026/07/01/iran-us-mou-negotiation-war-oil-exports-strait-of-hormuz-.html)).
+- **US 2‑year yield** — elevated around recent highs, supporting broad USD strength ([CNBC](https://www.cnbc.com/2026/07/01/treasury-yields-us10y-kevin-warsh-fed.html)).
