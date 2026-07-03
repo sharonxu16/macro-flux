@@ -1,23 +1,23 @@
-# Macro State — Last updated: 2026-07-02
+# Macro State — Last updated: 2026-07-03
 
 ## Active Narratives
-- **AI overcapacity selloff** — Status: Acceleration; Meta’s AI computing push triggers panic in Asia’s chip sector, with Kospi plunging 8%; next trigger: US payrolls and any further capex commentary.
-- **Iran diplomacy / Hormuz fragility** — Status: Deceleration; Doha talks conclude with progress, oil flow rising, but floating Iranian crude hoard swells; Iran still insists on Hormuz control; next trigger: follow‑up negotiations or tanker incident.
-- **BOJ hike speculation and yen surge** — Status: Confirmation; robust economy and tumbling yen give BOJ stronger case for early hike; rate‑check rumor fuels yen bid; next trigger: BOJ rhetoric and payrolls‑driven USD/JPY.
-- **USMCA annual‑review shift** — Status: New; Trump blocks long‑term renewal, replacing it with yearly reviews, injecting trade‑policy uncertainty; next trigger: Canadian and Mexican responses.
+- **US payrolls miss fuels growth‑scare rotation** — Status: New; sharply below‑consensus `57k` payrolls number triggers value rotation and dollar weakness, but Fed’s inflation focus limits dovish repricing; next trigger: CPI, Warsh commentary.
+- **AI‑overcapacity rotation persists** — Status: Confirmation; tech continues to lag, with semis dragging and Meta cloud‑entry threatening margins; next trigger: tech earnings, capex updates.
+- **Hormuz de‑escalation holds despite funeral rhetoric** — Status: Confirmation; tanker traffic and Saudi exports are rising, but funeral threats keep a risk premium; next trigger: any attack or sanctions shift.
+- **KRW 24‑hour trading launches under strain** — Status: New; structural change introduces greater volatility potential at a time of high external pressure; next trigger: initial turnover and KRW price action.
 
 ## Watchpoints
-- US June Nonfarm Payrolls tonight — decisive for Fed repricing and broad USD/Asia FX.
-- Kospi closing levels and overnight futures — key test of AI selloff depth.
-- Next Iran‑US diplomatic step or Hormuz shipping disruption — oil risk reversal trigger.
-- BOJ rate‑check confirmation or formal communication — yen volatility pivot.
-- USMCA review details — potential retaliation or renegotiation timeline.
+- US CPI print and next Warsh remarks — decisive for Fed rate‑path repricing.
+- Kospi closing levels and overnight futures — test of AI‑selloff depth.
+- KRW early‑session volume and spot move — gauge of 24‑h trading impact.
+- Hormuz tanker‑traffic data and funeral‑period disruptions — oil‑risk trigger.
+- US‑Iran diplomatic follow‑up or new sanctions — supply‑disruption re‑escalation trigger.
 
 ## Open Questions
-- Will payrolls confirm labor‑market softening, accelerating the AI‑led risk‑off move?
-- Can Iran’s Hormuz claim spike oil again despite the floating storage overhang?
-- How will the shift to annual USMCA reviews affect North American supply chains and EM currencies?
+- Will the soft payrolls eventually force the Fed to rethink if inflation data also cools, or will the “inflation first” stance hold?
+- Can the AI rotation gain enough momentum to sink broad Asian tech indices beyond the initial Kospi flush?
+- Will the 24‑h won trading amplify downward pressure on KRW or increase two‑way liquidity and stability?
 
 ## Key Levels
-- **Kospi index** — intraday 8% drop, erasing recent outperformance ([BBG](https://www.bloomberg.com/news/articles/2026-07-02/south-korean-stocks-tumble-6-as-ai-jitters-hurt-chipmakers)).
-- **Brent crude** — third consecutive daily decline, slipping to pre‑Hormuz‑crisis levels ([Caixin](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBEaXR5eWRFM1diWjRPOVlVRkJxOHVQSkdZWTNDM0RuUEY3Qmd2WTBJLWdXOGtxdllPOFUzLVFRQjJoMTJyR2NVaVJMN2RIOHQ1U1dUS3FCb3Q1OUZMa0ZoNVJfdkw)).
+- **US dollar index** — coming off its worst day since April after the payrolls miss; a failure to hold the pre‑payrolls floor would open a deeper USD decline.
+- **Brent crude** — steadied near pre‑Hormuz‑crisis levels as supply rises; a clean break below the recent range would confirm de‑escalation trades.
