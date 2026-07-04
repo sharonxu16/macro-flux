@@ -1,24 +1,24 @@
-# Macro State — Last updated: 2026-07-03
+# Macro State — Last updated: 2026-07-04
 
 ## Active Narratives
-- **AI whiplash and SK Hynix ADR flows drive Kospi reversal** — Status: Reversal; the 6% Kospi bounce and won strength flip the previous AI‑selloff, though sentiment remains fragile; next trigger: SK Hynix ADR pricing and volume.
-- **Hormuz de‑escalation deepens but Iran routing warning adds tail risk** — Status: Acceleration; tanker transits quadruple, Qatar LNG resumes, and Citi targets `$60` oil; the military warning and funeral keep a risk premium alive; next trigger: any attack or sanction shift.
-- **PBOC trims bond purchases to rein in yield declines** — Status: New; the central bank is quietly tightening liquidity, which could support the yuan and cap duration plays; next trigger: July bond‑purchase data and MLF setting.
-- **Japan FX intervention jawboning intensifies** — Status: Confirmation; Katayama’s remarks and options‑market hedging signal markets are pricing a holiday‑weekend intervention risk; next trigger: thin‑market USD/JPY moves.
+- **Hormuz de-escalation accelerates with OPEC surge and Citi’s $60 call** — Status: Acceleration; physical normalization and a bank forecast crystallize downside oil risk; next trigger: any tanker incident or Iranian route enforcement.
+- **Lagarde’s early-exit risk opens policy divergence with a still‑hawkish Fed** — Status: New; ECB leadership vacuum could weaken EUR while US rates stay elevated; next trigger: Lagarde clarification or a hawkish ECB colleague rebuttal.
+- **Korea’s leveraged equity bubble inflates to extreme levels** — Status: Acceleration; $450bn levered flows concentrated in SK Hynix add fragility to the Kospi rebound; next trigger: ETF redemptions or margin‑call signals.
+- **AI whiplash and Kospi bounce now intertwine with leverage risks** — Status: Reversal; the prior 6% bounce may be fuelled by retail leverage, raising crash potential; next trigger: SK Hynix ADR price action and Kospi volume.
 
 ## Watchpoints
-- SK Hynix ADR initial price guidance and Korea’s daily won-fixing response.
-- Any Iranian enforcement of “unapproved” shipping routes or new tanker incident.
-- PBOC’s next bond‑purchase volume and 7‑day reverse‑repo rate signal.
-- USD/JPY break below `140` in holiday‑thin liquidity as intervention trigger.
-- Citi’s `$60` call getting cross‑bank endorsements or pushback from other houses.
+- Any attack or enforcement of “unapproved” shipping routes around Hormuz during the Khamenei funeral week.
+- Lagarde’s next public words on her political intentions or an explicit pushback from ECB core members.
+- Korean broker margin‑call announcements or sharp outflows from the SK Hynix ETF.
+- A break below the Kospi’s pre‑selloff top driven by forced deleveraging rather than AI momentum.
+- Citi’s $60 call gaining cross‑bank endorsement or being challenged by another house.
 
 ## Open Questions
-- Will the Kospi rally sustain through thin summer volumes or is today’s 6% move a dead‑cat bounce?
-- Does the PBOC’s bond‑purchase cut mark a broader tightening campaign that could spill into the LPR setting?
-- Can the Hormuz ceasefire survive the funeral period without a test from Iranian‑linked forces?
+- Will the Iran funeral week test the ceasefire with a proxy attack, or does the supply surge render risk premia obsolete?
+- Does the ECB’s leadership uncertainty delay any further tightening, widening the rate gap with the Fed?
+- Can the Kospi sustain its bounce when leveraged retail positions face even modest drawdowns?
 
 ## Key Levels
-- **Brent crude** — Citi’s `$60` year‑end target and rising physical supply are breaking the post‑Hormuz floor; a sustained break below the recent range would confirm full de‑escalation re‑pricing.
-- **Kospi** — the 6% bounce recovers roughly half the prior two‑day loss; a close above the pre‑selloff top would mark the end of the AI correction.
-- **USD/KRW** — strengthening on SK Hynix flows and Kospi rebound, now testing the lower bound established before the earnings‑season jitters.
+- **Brent** — Citi’s $60 year‑end target becomes a magnetic floor for full de‑escalation repricing if supply remains undisrupted.
+- **Kospi** — the 6% bounce is now partly driven by levered flows; a drop back below the pre‑selloff peak would confirm a dead‑cat bounce.
+- **USD/KRW** — leveraged equity mania adds a risk premium, with a potential upside break if the Kospi falters.
