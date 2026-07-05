@@ -1,23 +1,23 @@
-# Macro State — Last updated: 2026-07-04
+# Macro State — Last updated: 2026-07-05
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Ukraine-Russia energy infrastructure strikes widen oil supply risk beyond Hormuz** — Status: New; direct attack on St. Petersburg terminal reintroduces risk premium just as Middle East supply surges; next trigger: further strikes or confirmed damage extent.
-- **Hormuz de-escalation and OPEC supply surge now face conflicting physical signals** — Status: Acceleration with conflicting data; Total CEO highlights desperate Middle East selling while product inventories stay tight; next trigger: actual tanker flows or a new Hormuz incident.
-- **Lagarde’s early-exit risk keeps ECB policy divergence open** — Status: Fading; no new intraday ECB news, but remains a latent EUR-negative risk; next trigger: Lagarde clarification or hawkish ECB colleague rebuttal.
-- **Korea’s leveraged equity bubble inflates to extreme levels** — Status: Confirmation; morning narrative holds into afternoon without fresh data, fragility persists; next trigger: ETF redemptions or margin-call signals.
+- **Oil supply wave accelerates Hormuz normalization, glut fears resurface** — Status: Acceleration; US-Iran peace deal unleashing supply overwhelms demand, tankers reroute, prices tumble; next trigger: actual Iranian tanker loadings post-deal.
+- **Khamenei funeral injects uncertainty into US-Iran deal as Iran vows revenge** — Status: Confirmation; large-scale commemoration reinforces hardline rhetoric, but Trump’s public calm pledge limits immediate disruption; next trigger: any proxy attack or shipping incident during funeral period.
+- **China sustains coast guard patrols east of Taiwan without escalation** — Status: Confirmation; routine rotation of vessels maintains steady-state pressure on TWD; next trigger: any interaction or expansion of patrol scope.
+- **Lagarde early-exit risk dormant, ECB on hold** — Status: Fading; no new ECB signals; latent EUR-negative risk remains but not active.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- Any follow-on Ukrainian drone or missile strike on Russian energy infrastructure.
-- Scale of fire damage at the St. Petersburg oil terminal and impact on export flows.
-- Chinese government statement or naval/air force movement linked to the Taiwan strait patrol.
-- Any Iranian proxy action or Hormuz shipping disruption during the Khamenei funeral week.
-- US June Nonfarm Payrolls revision or Fed speaker response to the sharp hiring slowdown.
+- First post-deal Iranian crude tanker loadings and whether volumes exceed `1.5 mbd` without disruption.
+- Any Iranian proxy force attack or Hormuz shipping incident during Khamenei funeral week.
+- Trump-Putin follow‑up on Ukraine and whether the NATO summit in Turkey produces concrete diplomatic steps.
+- Any China coast guard‑Taiwan interaction that raises the patrol from routine to confrontational.
+- US regulatory cuts (702 in pipeline) and whether they spur growth-sensitive assets.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will the strike on St. Petersburg trigger a broader Russia-Ukraine energy war that offsets Hormuz normalization?
-- Can Mideast producers clear stockpiled crude fast enough to prevent a price floor defying the `$60` call?
-- Does the US hiring slowdown accelerate rate-cut pricing, or does the Fed stay hawkish on geopolitically driven energy risk?
+- Will the surge in oil supply push Brent decisively through Citi’s `$60` target, or does geopolitical risk put a floor under prices?
+- Can President Trump maintain a calm posture during the Khamenei funeral while keeping the Iran deal intact?
+- Does the sustained China coast guard presence near Taiwan eventually trigger a diplomatic or military incident?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- **Brent** — Citi’s `$60` year-end target remains a magnetic floor, but the St. Petersburg strike may delay or reverse the intraday decline toward that level.
-- **USD/TWD** — China’s coast guard patrol east of Taiwan adds a near-term risk premium, making a break above recent ranges possible on further escalation.
+- **Brent** — Citi’s `$60` year-end target now within reach as supply wave accelerates, though funeral risk introduces two-way price action (source: prior macro state, no new level cited today).
+- **USD/TWD** — recent range likely to hold absent a coast guard escalation; breakout trigger remains unspecified (source: prior macro state).
