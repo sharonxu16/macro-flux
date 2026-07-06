@@ -1,23 +1,22 @@
 # Macro State — Last updated: 2026-07-05
 
-## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Oil supply wave accelerates with OPEC+ quota hike, glut fears deepen** — Status: Acceleration; OPEC+ preliminarily agrees on August hike, adding to peace‑deal supply flood; next trigger: ratification and actual loadings.
-- **Iran threatens discriminatory Hormuz transit fees, muddying normalization** — Status: New; envoy’s “special” treatment threat and ongoing minefield/stalled‑talk limbo add shipping friction; next trigger: fee schedule publication or insurance premium spikes.
-- **Trump offers to help end Ukraine war, adding de‑escalation impulse** — Status: New; 90‑min call with Putin raises prospect of reduced European risk premium; next trigger: concrete follow‑up talks or ceasefire proposal.
-- **China sustains coast guard patrols east of Taiwan without escalation** — Status: Confirmation; routine rotation maintains steady TWD pressure; next trigger: any interaction or expansion of scope.
+## Active Narratives
+- **Oil supply glut accelerates with OPEC+ hike, but Hormuz remains fragmented by minefields and Iran’s promise of preferential transit for China** — Status: Acceleration; the quota hike deepens the glut while the “special” treatment splinters risk, creating a two‑tier oil market; next trigger: concrete implementation of fees and designated lanes.
+- **Trump offers to help end Ukraine war in call with Putin** — Status: New; a direct peace bid from Washington offsets Middle East risk and lifts de‑escalation hopes; next trigger: any follow‑up meeting or ceasefire framework announcement.
+- **Khamenei funeral amplifies Iran’s revenge rhetoric, but Trump’s calm posture holds the fragile de‑escalation** — Status: Confirmation; the ceremony’s display of continuity has not yet triggered a proxy attack; next trigger: any kinetic incident or shipping disruption during the funeral period.
+- **Cross‑strait pressure elevated by sustained coast guard patrols and Taiwan’s resumption of anti‑communist military classes** — Status: Confirmation; routine patrols plus symbolic education hardening sustain a low‑level risk premium on TWD; next trigger: any direct interaction or expansion of patrol scope.
 
-## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- OPEC+ ratification of August quota hike and whether Gulf flows remain unimpeded.
-- Iran’s publication of specific Hormuz transit fee schedule and insurance market response.
-- First post‑deal Iranian crude loadings exceeding `1.5 mbd` without disruption.
-- Any Trump‑Putin follow‑up meeting or ceasefire roadmap announcement.
-- Taiwan‑China coast guard interaction that escalates beyond routine patrol.
+## Watchpoints
+- Actual launch of Iran’s new Hormuz fee schedule and any preferential lane for Chinese‑affiliated tankers.
+- Post‑OPEC+ production allocation figures and whether the `188,000 b/d` hike is fully implemented.
+- Trump‑Putin follow‑up communication or announced meeting within the next 48‑72 h.
+- Any China‑Taiwan military interaction or coast guard escalation beyond the current routine.
+- HKMA announcements on yuan internationalisation push impacting offshore CNH liquidity.
 
-## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will the OPEC+ hike plus Iranian supply push Brent below `$60`, or does chokepoint risk put a floor under prices?
-- Does Iran’s fee threat translate into actual cost increases for shippers, or is it rhetorical?
-- Can President Trump maintain a calm posture during the Khamenei funeral while keeping the Iran deal intact?
+## Open Questions
+- Will two‑tier Hormuz access erode uniform Brent pricing and widen Brent‑Dubai spreads?
+- Can Trump simultaneously de‑escalate on Ukraine while maintaining the Iran ceasefire, or will the Netanyahu meeting hint complicate both tracks?
+- Does Taiwan’s resumption of ideological military training signal a broader hardening of cross‑strait posture, or is it a symbolic domestic move?
 
-## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- **Brent** — Citi’s `$60` year‑end target remains in play as supply accelerates; the glut narrative dominates but chokepoint headlines may cause intermittent spikes (source: prior macro state, no new level cited today).
-- **USD/TWD** — recent range likely to hold absent a coast guard escalation; breakout trigger remains unspecified (source: prior macro state).
+## Key Levels
+- **Brent** — OPEC+ `188,000 b/d` hike: the additional barrels reinforce the supply wave, bringing Citi’s `$60` year‑end target into closer reach (source: today’s BBG article), though Hormuz fragmentation may introduce a risk floor.
