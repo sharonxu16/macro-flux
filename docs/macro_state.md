@@ -1,25 +1,26 @@
 # Macro State — Last updated: 2026-07-07
 
-## Active Narratives
-- **Dollar‑bullish rebuild**: traders most positive since 2015, hedge funds extreme short yen, overriding the soft‑payrolls dovish impulse — Status: New; stronger USD, higher US yields, pressure on gold and EM FX; next trigger: FOMC minutes (Wed) and US trade data.
-- **Oil supply glut acceleration**: Saudi discounts to six‑year low, UAE near‑record output, Russia crude back to pre‑war levels, Suez transits resuming, but intermittent Hormuz tanker strikes keep a floor — Status: Acceleration; feeds into global disinflation, hurts petrocurrencies; next trigger: any escalation that halts Suez or Malacca flows.
-- **CNH‑KRW real‑money flip**: JPMorgan Asset trims long yuan, shifts to higher‑yielders, bets on won rebound; Taiwan intervened in June — Status: New; potential reallocation away from CNH, supports KRW/TWD relative resilience; next trigger: US data confirming dollar momentum and any fresh Taiwan military incident.
-- **Iran war shock lingers for central banks**: ECB’s Schnabel warns peace doesn’t restore pre‑war conditions, global rate paths remain higher‑for‑longer — Status: Confirmation; embeds a supply‑side inflation floor, limits dovish pivots; next trigger: any actual ceasefire deal or new Hormuz closure.
+## Active Narratives (max 4)
+- **Hormuz tanker strike escalation** — Status: Acceleration; two vessels hit within hours signals intensifying kinetic risk in the Strait; keeps a floor under crude and pressures Asia energy-import currencies. Next trigger: any new strike or naval convoy announcement within 48 hours.
+- **Dollar-bullish rebuild** — Status: Confirmation; the most bullish dollar positioning since 2015 and most short yen since 2007 persist, overriding soft-payrolls dovishness. Stronger USD, pressure on gold and EM FX. Next trigger: tonight's US Consumer Inflation Expectations and trade balance, plus Wednesday's FOMC minutes.
+- **Yuan internationalisation infrastructure acceleration** — Status: Acceleration; HKMA's RMB Business Facility expanding `1.5x` to `500B` yuan and HK gold-clearing trial with planned yuan gold futures represent concrete buildout. Supports structural CNH demand and gold as a reserve asset. Next trigger: official yuan gold-futures contract launch date.
+- **Oil supply glut vs. geopolitical risk premium** — Status: Confirmation; Saudi discounts to six-year low, ample supply tempers Asian buying, but Hormuz strikes prevent Brent from sliding toward `$60`. Next trigger: any Suez/Malacca disruption or a ceasefire that removes the risk floor.
 
-## Watchpoints
-- FOMC minutes (Wednesday HKT) — validate or challenge the rebuilt dollar‑bullishness.
-- Hormuz tanker‑strike follow‑up; whether it expands into a sustained disruption.
-- US trade balance and consumer inflation expectations (today July 7 US data) — impact on dollar and Fed expectations.
-- SK Hynix US IPO pricing and Samsung guidance as AI/chip sentiment catalyst.
-- Any cross‑strait incident after China’s submarine missile test and dual‑use maritime survey.
+## Watchpoints (max 5)
+- FOMC minutes (Wednesday HKT) — validate or challenge the rebuilt dollar-bullishness.
+- Hormuz: any third vessel strike, naval escort announcement, or Strait closure within 48 hours.
+- US trade balance and Consumer Inflation Expectations (tonight Jul 7 US data) — impact on dollar and Fed expectations.
+- PBOC gold purchases: watch for July data confirming sustained buying pace above `480k` ounces/month.
+- China's submarine missile test aftermath: any new cross-strait incident or NATO/regional military response.
 
-## Open Questions
-- Will the dollar rebound persist after soft payrolls, or will the Fed minutes reintroduce easing expectations?
-- Can the oil glut overwhelm geopolitical risk premium and push Brent toward Citi’s `$60` year‑end call?
-- Does JPMorgan’s CNH‑to‑KRW rotation signal a broader institutional unwind of Asia‑long‑yuan consensus?
+## Open Questions (max 3)
+- Will the dollar rebound persist through FOMC minutes, or does the soft-payrolls signal eventually reprice the front end?
+- Can the oil glut ultimately overwhelm the Hormuz risk premium and push Brent toward pre-Iran-war levels or lower?
+- Does the HK yuan facility expansion and gold-futures plan signal a broader institutional shift toward yuan as a commodity-settlement currency?
 
-## Key Levels
-- **DXY** — No new level cited; traders are most bullish since 2015, with the dollar index extending a monthlong rally (BBG).
-- **USD/JPY** — Hedge funds most negative on yen since 2007; yen near weakest in four decades (BBG).
-- **Brent** — Holding near pre‑Iran‑war levels; Citi’s `$60` year‑end call remains in play on glut (BBG, FT, prior state).
-- **Gold** — Pulled back from two‑week high; `$4,000` flagged as key support in prior state (Reuters, prior state).
+## Key Levels (max 5)
+- **Brent** — Up `1.5%` intraday on Hormuz strikes, holding above pre-Iran-war levels (WSJ, Reuters). The `$60` Citi year-end call remains a downside magnet if risk premium evaporates.
+- **Gold** — Under pressure from stronger dollar but supported by PBOC buying of `480k` ounces in June, the most since October 2023 (BBG, WallstreetCN).
+- **DXY** — Traders most bullish since 2015; dollar flat ahead of Fed minutes (BBG, Investing_Forex).
+- **USD/JPY** — Hedge funds most negative on yen since 2007; yen near weakest in four decades (BBG, morning state).
+- **Kospi** — Flirting with bear territory, leading Asian markets lower (WSJ).
