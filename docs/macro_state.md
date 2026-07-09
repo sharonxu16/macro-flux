@@ -1,26 +1,26 @@
 # Macro State — Last updated: 2026-07-09
 
 ## Active Narratives
-- **Hormuz escalation in sustained military phase** — Acceleration; second day of US strikes and Trump’s ceasefire-over declaration shifts conflict from tit-for-tat to sustained disruption; oil supply risk premium is widening; next trigger is safe passage arrangement for tankers.
-- **Fed hawkish risk concretises with AI as inflation driver** — Confirmation; FOMC minutes reveal explicit hike discussion and AI formally flagged as inflation risk; rates repricing underway; next trigger is US CPI print.
-- **Korea structural fragility deepens** — Confirmation; Samsung, SK Hynix, and leveraged ETFs account for `70%` of market trading, amplifying downside on any risk-off; next trigger is regulatory stabilisation or margin-call data.
-- **Global inflation re-acceleration driven by oil** — Acceleration; oil surge through `$80/bbl`, Russia’s diesel export ban, and IMF inflation warnings compound cost-push pressures; next trigger is EIA inventory data and physical supply signals.
+- **Hormuz escalation in broadening military phase** — Acceleration (retaliation against Gulf allies), yet oil risk premium decouples as physical flows remain steady; next trigger is any Hormuz closure or tanker attack.
+- **Fed hawkish risk consolidates as AI flagged, but gold overrides** — Confirmation; minutes reveal hike discussion and AI inflation risk, but gold above $4,100 shows geopolitics now dominates.
+- **China demand-slowdown vs. supply-cost surge** — New; soft CPI and PPI m/m reversal point to demand weakness that may limit reflation and PBOC tightening; next trigger is next OMO/MLF.
+- **Korea equity fragility eases slightly on SK Hynix IPO, but structural risks intact** — Fading; SK Hynix listing supports temporary bounce, but 70% concentration in leveraged ETFs remains a risk.
 
 ## Watchpoints
-- First safe commercial tanker transit through Hormuz or new military escalation; defines Brent’s next `$5-$10` move.
-- US CPI release; validates or stalls the Fed hawkish repricing.
-- Korean regulatory response to extreme leveraged ETF concentration; potential stabilisation fund announcement.
-- EIA crude inventory data confirms or contradicts the unexpected build in API/prior data.
-- Malaysia BNM policy decision and forward guidance on rate hike timing.
+- Hormuz transit of a commercial tanker without incident or any direct attack; defines oil’s next move.
+- PBOC OMO or MLF operation for any hint of easing after soft CPI and PPI m/m decline.
+- US jobless claims tonight for early labour market signal before Friday’s possible CPI surprise.
+- EIA natural gas inventory tonight and any IEA oil market report insight on physical balances.
+- SK Hynix IPO follow-on demand and Korean equity stability; if leveraged ETF flows turn negative again.
 
 ## Open Questions
-- Will the Iran conflict escalate to a protracted Gulf campaign or de-escalate through negotiation channels?
-- Can Korean policymakers halt the AI-driven bear market given the extreme structural concentration in leveraged products?
-- Does the oil-driven inflation repricing force Asia EM central banks to delay or reverse easing cycles?
+- Will Iran’s retaliation against Gulf allies draw a wider coalition response or remain contained?
+- Can China’s consumer demand recover given PPI cost pressures and the property overhang?
+- Does gold’s breach of $4,100 mark a regime shift where safe-haven flows dominate the hawkish Fed?
 
 ## Key Levels
-- **Brent crude** — surged through `$80/bbl` on second-day US strikes and ceasefire collapse; risk premium still expanding ([SP Global](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQzBYVTR1MUZDR2h4NjRvQkJWOVhDSklUZW1OdDUtSW8xbXltQ3c2NGlhODdwR1JZQU1Gb3AtX3dkZXpwYWs0WjhzNUlKUUk3c1JLeWpnNmtPeF9qcmFMR3prSTBfZkNfZzJnZkFyZGFpUWVNTGFBQ09YRS1sWG45V3NLMFFsWVJhdVpPN1VIY3VzZ2RMdEFFaWNSSm1nelpTNjktd1ZTWlotSXNJSVhnT0YzUndLQmRjWXlhcmg1QXU1YWFCeXVLSkRuOGhPeUlGa0p5U3BSYmJsU2FOUGY1cQ)).
-- **US 10-Year Treasury yield** — climbed to `4.57%` as oil spike reignited inflation fears and hawkish Fed minutes supported repricing ([CNBC](https://www.cnbc.com/2026/07/08/treasury-yields-trump-iran-ceasefire.html)).
-- **US real yields** — rose to more than one-year high on AI-driven economic resilience and oil-driven rate-hike expectations ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FTFBFZTN5THgwczMwYTJWbmxOYTZEQUJRS2d0VUR6YXFBRHg5bi0xWk80X3pkbFVDbDlzbTNSNEJwUHB0Ti1MRTZrTEpNMThvX2Fj)).
-- **Korea equity concentration** — Samsung, SK Hynix, and leveraged ETFs now `70%` of market turnover, amplifying any downside move ([BBG](https://www.bloomberg.com/news/articles/2026-07-08/samsung-sk-hynix-and-leveraged-etfs-drive-70-of-korea-trading)).
-- **Gold ETFs (China)** — record `$2.91B` outflow in June signals shift from safe-haven to risk-on among Chinese investors ([SCMP](https://www.scmp.com/business/commodities/article/3359828/chinese-profit-taking-triggers-record-gold-etf-outflows-amid-shift-equities)).
+- **Brent crude** — eased back from above `$80` to waver as Hormuz traffic holds; a close below `$78` would signal risk premium fading ([WSJ](https://news.google.com/rss/articles/CBMimwFBVV95cUxNVHd3MzNQYnhDeEhuT3RLZldjVGNRMmlQRURvMW9ieENGcjVNVFQ2WUhEZERoWFRvZ3hSMzJCVWdJVkJJN2tJNW9IcVY3MWt4X1dUejRMNjZjZS1rXzRCRFNCVnNoXzdXWGxmNE9FZzdPbXQ5aWdid2hzWlkyNlhWbkdtQ3h6WlpvQmxrM0ZURE5NcGE2azNfUDBBVQ)).
+- **Gold** — climbed through `$4,100` with safe-haven bid overriding hawkish Fed; sustaining above this level solidifies a bullish breakout ([WSJ](https://news.google.com/rss/articles/CBMirAFBVV95cUxNTjdtTVBacG40bFpOM1NVTkQ5ZGNDSnBwLW9zMXJMWGNGdFVzdHlWbkpwVW9vOFZmNGprczgzTjU5YU5MUTRCX0VINGVDcEc3cHVRUURicjVJREszUlpOaWNGLWpIb2doV2tINWFCNEpQQ2JfaGwwdzU2ZVRWbkR3LTI1SnEyQmhKN1VNSnFzM09lQVJMOHgtdzNZbzJsOUpyanAyRVRXOGVZZktD)).
+- **US 10-Year Treasury yield** — held near `4.57%` on oil-driven inflation repricing; a break above `4.60%` would pressure gold and EM FX further ([CNBC](https://www.cnbc.com/2026/07/08/treasury-yields-trump-iran-ceasefire.html)).
+- **CNH** — remains under pressure as weak CPI and demand concerns add to trade-war and geopolitical headwinds; a test of `7.35` against the dollar bears watching.
+- **Kospi** — staged a weak rebound but still in bear territory; any close below recent lows would trigger fresh leveraged-ETF unwinding ([SCMP](https://www.scmp.com/business/markets/article/3359938/hong-kong-stocks-retreat-regional-tech-volatility-offsets-short-covering)).
