@@ -1,22 +1,21 @@
-# Macro State — Last updated: 2026-07-12
+# Macro State — Last updated: 2026-07-13
 
-## Active Narratives (max 4)
-- **Strait of Hormuz closure escalation** — Status: Acceleration; IRGC closure and revenge vow harden the chokepoint disruption, rebuilding oil‑supply risk premium and dollar safe‑haven flow; next trigger: any safe commercial convoy or further kinetic action.
-- **Fed Chair Warsh testimony and inflation data** — Status: New; task force picks add credibility, and his first Hill appearance with fresh inflation data will shape July rate expectations; next trigger: Warsh testimony and the CPI print.
-- **Consumer fuel‑price surge** — Status: New; gasoline, diesel, jet fuel rising even as crude eases, threatening inflation pledges and consumer sentiment; next trigger: next US CPI and consumer‑spending data.
-- **Dollar‑bullish safe‑haven rebuild** — Status: Acceleration; Hormuz closure and credible‑hawkish Fed signals reinforce the long‑USD position, overriding any soft‑data dovish impulse; next trigger: Warsh testimony and inflation data.
-
-## Watchpoints (max 5)
-- First confirmed safe commercial convoy through the Strait of Hormuz after the closure — could reverse the supply‑risk premium.
-- Warsh’s congressional testimony (tone and task‑force details) and the accompanying inflation data.
-- US weekly petroleum status report (EIA) to gauge whether fuel‑price divergence is tightening product markets.
-- PBOC or Chinese reserve‑management data if any pause in gold buying emerges.
-- Upcoming US retail sales or consumer sentiment to validate the fuel‑price drag.
-
-## Open Questions (max 3)
-- Will the Strait of Hormuz closure sustain a durable supply‑disruption premium in Brent, or will Gulf spare capacity and Saudi discounts cap the upside?
-- Does the Warsh‑led Fed use strong credibility to lean hawkish, or does geopolitical uncertainty push them to a more cautious stance?
-- Can fuel‑price stickiness force the administration to pivot from inflation‑fighting rhetoric to emergency measures, altering the midterm election backdrop?
-
+## Active Narratives
+- **Strait of Hormuz military escalation** — Acceleration; direct US-Iran strikes and conflicting Hormuz claims deepen supply disruption risk; next trigger: any safe commercial convoy or ceasefire.
+- **AI exhaustion-driven tech rout** — New; SK Hynix record plunge signals doubts over AI boom, dragging Korea and EM; next trigger: TSMC guidance, capex news.
+- **China hard tech capital rotation** — Confirmation; record northbound inflows into Beijing’s tech self-sufficiency theme push holdings to record high; next trigger: July flow data.
+- **Fed higher-for-longer repricing** — Acceleration; oil spike stokes inflation fears, 2y yields at 2025 highs; next trigger: CPI data.
+## Watchpoints
+- First safe commercial convoy through Hormuz or ceasefire deal.
+- TSMC Q2 earnings and forward guidance.
+- US CPI release.
+- July northbound stock-connect flow data.
+- EIA weekly petroleum status report.
+## Open Questions
+- Will the Strait escalation push Brent above $85 and force Fed to hike, or is the supply premium capped by Saudi spare capacity?
+- Can the AI selloff broaden into a full-blown global tech bear market, and how does that affect Korea/Taiwan FX?
+- Will China’s hard tech inflows decouple from a global risk-off, or are they vulnerable to EM contagion?
 ## Key Levels
-(No new source‑cited levels in today’s feed; prior levels remain as reference but not restated without today’s citations.)
+- Brent `$79/bbl` — multi-week high renewed on US-Iran strikes.
+- WTI `$75/bbl` — approaching recent highs.
+- US 2-year yield — highest since early 2025, reflecting rate-hike fears.
