@@ -1,22 +1,22 @@
-# Macro State — Last updated: 2026-07-12
+# Macro State — Last updated: 2026-07-13
 
-## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Hormuz conflict escalates with direct US strikes and IRGC closure of the strait, threatening immediate oil supply disruption** — Status: Acceleration (Iran attacks Gulf states and closure is “until further notice,” extending beyond prior one-day threat); next trigger: any mediation breakthrough or transit escort.
-- **Refined product prices spike independently of crude, intensifying consumer inflation and political pressure on the White House** — Status: Confirmation (no new data today but conflict widening reinforces supply panic); next trigger: EIA inventory data and White House response.
-- **US primary dealers go record net short Treasuries, signaling conviction in higher yields** — Status: Confirmation (no intraday update); next trigger: Fed Chair Warsh testimony and CPI release.
-- **China launches credit‑rating crackdown to curb excessive top‑rated bond issuance** — Status: New (regulators pressure agencies to limit triple‑A for higher‑interest borrowers, tightening credit access); next trigger: agency rating actions or corporate bond spread moves.
+## Active Narratives
+- **Hormuz conflict escalates with direct US strikes and IRGC closure of the strait, threatening immediate oil supply disruption** — Status: Acceleration (Iran formally declares Hormuz closed "until further notice," strikes expand to multiple Gulf states, satellite imagery suggests nuclear facility rebuilding); next trigger: any confirmed commercial vessel transit or ceasefire.
+- **Oil price shock and stagflationary impulse intensifies** — Status: Acceleration (oil jumps 3% as refining margins widen, Iran oil stuck at sea, rate-hike expectations reprice); next trigger: US CPI/Warsh testimony and any supply-side relief.
+- **US primary dealers go record net short Treasuries, signaling conviction in higher yields** — Status: Confirmation (record net short positions for the first time in history, reinforcing dollar-strength and bond-weakness trade); next trigger: US CPI data and Warsh’s inflation commentary.
+- **China credit‑rating crackdown threatens corporate bond access** — Status: Confirmation (regulators pressure agencies to limit triple‑A for higher‑interest borrowers, tightening credit conditions); next trigger: actual agency downgrades or spread widening in onshore corporate bonds.
 
-## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- Any confirmed vessel movement through the Strait of Hormuz or a de‑escalation announcement from US/Iran.
-- Brent front‑month reaction at next open, especially any move above `$130/bbl`.
-- China onshore corporate bond yield spread widening as rating agencies respond to regulatory pressure.
-- Fed Chair Warsh’s Congressional testimony and any reaction to upcoming US CPI.
-- Gulf capital flows to Asia: further evidence of relocation away from Middle East conflict zone.
+## Watchpoints
+- Any confirmed vessel movement through the Strait of Hormuz or an official de-escalation announcement from US/Iran.
+- Fed Chair Warsh’s Congressional testimony tone and July rate‑hike probability shift.
+- Brent front‑month reaction at Asian open and any move above `$130`.
+- US CPI release and primary dealer short‑covering magnitude.
+- China onshore corporate bond yield spread widening and official rating‑agency actions.
 
-## Open Questions (max 3 — only unresolved questions that affect positioning)
+## Open Questions
 - Will the Strait of Hormuz closure persist through peak summer demand, driving Brent toward `$140+` and further USD/Asia upside?
-- Can the Trump administration pressure on domestic fuel prices materially alter refining margins without a ceasefire?
-- Will the dealers’ record short in Treasuries be validated by upcoming inflation and Fed signals?
+- Can the Fed maintain its hawkish posturing if war‑driven inflation spikes are offset by growth fears?
+- Will dealers’ record short position in Treasuries be validated or violently unwound this week?
 
-## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- No levels sourced from today’s feed.
+## Key Levels
+- No new key levels cited in today’s feed beyond oil moves; prior levels not republished.
