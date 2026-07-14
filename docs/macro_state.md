@@ -1,23 +1,23 @@
 # Macro State — Last updated: 2026-07-14
 
 ## Active Narratives
-- **Strait of Hormuz military escalation** — Acceleration; US reimposes blockade, demands 20% toll, oil surges 10%, strikes continue; next trigger: any ceasefire signal or safe commercial transit.
-- **Fed higher-for-longer repricing** — Acceleration; Waller explicitly warns July hike possible if CPI stays hot; 2y yields rise, gold breaks below `$4,000`; next trigger: US CPI release.
-- **AI exhaustion-driven tech rout** — Confirmation; SK Hynix market cap loss deepens, Korea credit squeeze; China hard-tech rotation intensifies; next trigger: TSMC guidance.
-- **China hard tech capital rotation** — Confirmation; record northbound inflows into A-share semis amid global panic; decoupling narrative strengthens; next trigger: July flow data.
+- **Strait of Hormuz military escalation** — Acceleration; Brent at `$87`, US strikes third night, Iran dark-fleet exodus, Gulf states condemn; next trigger: Warsh testimony or US CPI forcing a Fed hike.
+- **China AI‑driven export juggernaut** — New; record `$412bn` June exports, chip shipments doubled, car exports up; next trigger: any EU/US protectionist response or July PMI data.
+- **South Korea hawkish pivot** — New; government upgrades growth, BOK seen hiking July 16, KRW at two‑month high; next trigger: BOK decision.
+- **Fed higher‑for‑longer repricing** — Acceleration; Waller opens July hike door, oil surge lifts BOE/ECB bets; next trigger: US CPI release tonight.
 ## Watchpoints
-- US CPI report — core MoM above `0.2%` would likely cement July hike bets.
-- First safe commercial convoy through Hormuz or ceasefire deal.
-- TSMC Q2 earnings and forward guidance.
-- MAS policy signals as Singapore GDP decelerates.
-- EIA weekly petroleum status; SPR drawdown reported at lowest since 1983.
+- US June CPI — core MoM at 0.2% or higher cements July hike probability.
+- BOK rate decision July 16 — first hike since 2023 or a hold will determine KRW direction.
+- Any safe commercial convoy crossing Hormuz or ceasefire signal.
+- TSMC Q2 earnings — tech sentiment hinge.
+- EU/US trade retaliation announcement against China’s surging surplus.
 ## Open Questions
-- Will the Hormuz escalation push Brent above `$85` and force the Fed to hike, or will Saudi/UAE spare capacity cap the risk premium?
-- Can the AI selloff broaden into a full-blown global tech bear market, and how far can KRW weaken?
-- Will China’s hard-tech inflows decouple from global risk-off, or are they vulnerable to EM contagion?
+- Will the Hormuz premium push Brent above `$90` and force a coordinated G7 SPR release, or does Saudi spare capacity cap the rally?
+- Can China’s hard‑tech export boom decouple EM flows from the global oil‑driven risk‑off?
+- Does the BOK’s hawkish turn hold if oil stays elevated and Kospi volatility persists?
 ## Key Levels
-- Brent `$83.25/bbl` — settlement high, biggest daily gain since 2020; if breached to `$85`, inflation/rate-hike fears intensify.
-- Gold `$4,000/oz` — broken lower as rate-hike bets surge; further downside signals repricing.
-- US 2-year yield — rising, reflecting July hike probability; close above recent highs would confirm acceleration.
-- KRW — under pressure as SK Hynix rout and credit squeeze persist.
-- CNH — relative stability supported by northbound inflows; key test if global risk-off deepens.
+- Brent `$87/bbl` — new high, breakout above 2024 peak, signalling prolonged supply disruption ([FT](https://www.ft.com/content/2d899824-5f94-4f0c-81fc-c54a0750e498)).
+- KRW — two‑month high, driven by ADR inflows and hawkish BOK expectations ([BBG](https://www.bloomberg.com/news/articles/2026-07-14/south-korean-won-hits-two-month-high-on-inflow-expectations)).
+- US 2‑year yield — approaching one‑month high as July hike odds climb; break above recent peak would confirm aggressive repricing.
+- CNH — stable despite global risk‑off, supported by record trade surplus and yuan internationalisation steps.
+- Kospi — V‑shaped recovery from `>5%` intraday loss; ability to hold gains hinges on chip earnings ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqTXdhd2ROV2UxbWplemY3WUdBbXFOWVhjVjhCeGdTNi1mQXd1Q0hsUnJjeGpCcWEyRE4xRnY5S0pZb2V5YzgxaG96dnpVbXdlbWlv)).
