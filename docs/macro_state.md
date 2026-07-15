@@ -1,23 +1,24 @@
-# Macro State — Last updated: 2026-07-14
+# Macro State — Last updated: 2026-07-15
 
 ## Active Narratives
-- **Strait of Hormuz military escalation** — Acceleration; Brent at `$87`, US strikes third night, Iran dark-fleet exodus, Gulf states condemn; next trigger: Warsh testimony or US CPI forcing a Fed hike.
-- **China AI‑driven export juggernaut** — New; record `$412bn` June exports, chip shipments doubled, car exports up; next trigger: any EU/US protectionist response or July PMI data.
-- **South Korea hawkish pivot** — New; government upgrades growth, BOK seen hiking July 16, KRW at two‑month high; next trigger: BOK decision.
-- **Fed higher‑for‑longer repricing** — Acceleration; Waller opens July hike door, oil surge lifts BOE/ECB bets; next trigger: US CPI release tonight.
+- **US disinflation shock — July Fed hike off** — Status: Reversal; June CPI at `3.5%` and dovish Warsh testimony collapse rate‑hike expectations, shifting the Fed back to easing mode. Next trigger: US PPI and China GDP today.
+- **Strait of Hormuz military blockade** — Status: Acceleration; US reimposes naval blockade, strikes continue, commercial tanker hit off Oman, Hormuz transit collapses. Brent at `$87/bbl`. Next trigger: any safe commercial convoy, ceasefire, or further shipping attacks.
+- **EU emergency import curbs on China** — Status: New; Brussels threatens case‑by‑case tariffs and quotas after H1 trade surplus jumps ~25%. Opens a second trade front alongside Washington. Next trigger: official EU action and China GDP/macro data.
+- **China trade surge meets protectionist wall** — Status: Confirmation; H1 exports up `16.9%`, but Nvidia H200 shipments remain “trivial” and lawmakers demand faster counter‑tech action; tension mounts.
+
 ## Watchpoints
-- US June CPI — core MoM at 0.2% or higher cements July hike probability.
-- BOK rate decision July 16 — first hike since 2023 or a hold will determine KRW direction.
-- Any safe commercial convoy crossing Hormuz or ceasefire signal.
-- TSMC Q2 earnings — tech sentiment hinge.
-- EU/US trade retaliation announcement against China’s surging surplus.
+- China GDP, industrial production, retail sales (July 15 10:00 HKT) — sub‑4.5% GDP or weak IP would compound trade‑war fears and test CNH.
+- US PPI (July 15 20:30 HKT) — high core PPI would challenge the disinflation narrative.
+- Hormuz transit — first commercial convoy safety signal; or another tanker attack.
+- BOK decision July 16 — first hike since 2023 or hold drives KRW.
+- EU formal announcement of import curbs against China.
+
 ## Open Questions
-- Will the Hormuz premium push Brent above `$90` and force a coordinated G7 SPR release, or does Saudi spare capacity cap the rally?
-- Can China’s hard‑tech export boom decouple EM flows from the global oil‑driven risk‑off?
-- Does the BOK’s hawkish turn hold if oil stays elevated and Kospi volatility persists?
+- Will oil‑supply inflation offset the soft CPI and keep the Fed on a hawkish hold, even without a July hike?
+- Can Asia FX decouple from the dual hit of energy spike and trade war, or does CNH/KRW face a renewed risk‑off?
+- Does China’s sharp drop in crude imports signal meaningful demand destruction or merely price‑sensitive substitution?
+
 ## Key Levels
-- Brent `$87/bbl` — new high, breakout above 2024 peak, signalling prolonged supply disruption ([FT](https://www.ft.com/content/2d899824-5f94-4f0c-81fc-c54a0750e498)).
-- KRW — two‑month high, driven by ADR inflows and hawkish BOK expectations ([BBG](https://www.bloomberg.com/news/articles/2026-07-14/south-korean-won-hits-two-month-high-on-inflow-expectations)).
-- US 2‑year yield — approaching one‑month high as July hike odds climb; break above recent peak would confirm aggressive repricing.
-- CNH — stable despite global risk‑off, supported by record trade surplus and yuan internationalisation steps.
-- Kospi — V‑shaped recovery from `>5%` intraday loss; ability to hold gains hinges on chip earnings ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqTXdhd2ROV2UxbWplemY3WUdBbXFOWVhjVjhCeGdTNi1mQXd1Q0hsUnJjeGpCcWEyRE4xRnY5S0pZb2V5YzgxaG96dnpVbXdlbWlv)).
+- Brent `$87/bbl` — new war‑driven high; breakout above prior 2024 peak signals prolonged supply disruption ([FT](https://www.ft.com/content/2d899824-5f94-4f0c-81fc-c54a0750e498)).
+- US 2‑year yield — collapsed from one‑month highs after CPI; a further fall below `4.20%` would confirm aggressive easing repricing.
+- CNH — stable but vulnerable; trade‑war headlines and GDP miss could push it through `7.35`.
