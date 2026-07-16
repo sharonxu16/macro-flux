@@ -1,24 +1,22 @@
-# Macro State — Last updated: 2026-07-15
+# Macro State — Last updated: 2026-07-16
 
 ## Active Narratives
-- **China GDP shock – stimulus calls resurface** — Status: New; Q2 GDP `4.3%` y/y, IP and retail sales all missed, fanning expectations of PBOC easing and/or fiscal support. Next trigger: official policy response or liquidity injection.
-- **Hormuz blockade intensifies** — Status: Acceleration; US renews blockade with fresh strikes, Iran threatens to close all export corridors, Brent above `$87`. Next trigger: any safe passage signal or further Iranian escalation.
-- **US disinflation opens path to easing** — Status: Confirmation; June CPI `3.5%` y/y removed July hike, but oil surge complicates outlook. Next trigger: US PPI tonight.
-- **EU emergency import curbs on China** — Status: Confirmation; threat of case‑by‑case tariffs and quotas remains open, with no new formal announcement. Next trigger: EU official decision.
+- **Hormuz blockade escalation and oil supply crunch** — Status: Acceleration; US strikes disrupt tanker shuttle trade and physical supply warnings intensify, driving oil higher and raising global inflation risks.
+- **China growth‑credit double miss spurs easing calls** — Status: Confirmation; H1 GDP `4.7%` and weak June credit reinforce stimulus expectations from PBOC and fiscal authorities; next trigger: policy response.
+- **Asia tech rout on AI valuation doubts** — Status: New; semiconductor selloff, led by Korea’s chip exporters, hits Kospi `-5%` and pressures TWD/KRW on reversal of AI enthusiasm.
+- **Fed disinflation repricing** — Status: Confirmation; soft US PPI and dovish Fed commentary scale back near‑term hike bets, weakening USD and supporting EM currencies despite energy headwinds.
 
 ## Watchpoints
-- China policy response (PBOC liquidity injection, fiscal measures) within 48h.
-- US PPI (Jul 15 20:30 HKT) – high core print would challenge disinflation narrative.
-- BOK rate decision (Jul 16) – hike could pressure KRW further.
-- Hormuz transit – Iran’s threat to block additional seaways or successful commercial convoy.
-- EIA crude inventory data tonight – further draw or build signal.
+- Hormuz transit – safe passage convoy or further Iranian strikes on tankers.
+- China PBOC liquidity/RRR move within 48h.
+- BOK rate decision (Jul 16 09:00 HKT) – hike or hold could shift KRW path.
+- US retail sales and jobless claims (Jul 16 20:30 HKT) – confirmation of consumer resilience.
+- AI demand signal from major chipmakers (TSMC/Samsung) to validate or reverse tech rout.
 
 ## Open Questions
-- Will oil‑supply inflation offset soft CPI and keep Fed on hold with hawkish lean?
-- Does China’s GDP miss and crude import collapse signal imminent PBOC easing that could reverse CNH weakness?
-- Can Asia FX decouple from dual drag of growth slowdown and energy spike, or is a broad risk‑off coming?
+- Can oil‑supply inflation offset soft CPI/PPI and restrain Fed from easing, keeping a hawkish‑hold bias?
+- Will China material easing reverse CNH weakness, or will inadequate stimulus prolong capital outflows?
+- Does Asia FX decouple from the dual drag of rising energy costs and tech equity selloff, or is a broad risk‑off imminent?
 
 ## Key Levels
-- Brent `$87.20` – breakout above prior peak signals prolonged supply disruption ([CNBC](https://www.cnbc.com/2026/07/15/oil-prices-today-brent-wti-hormuz-blockade.html)).
-- CNH – vulnerable; a move through `7.35` would reignite capital‑outflow pressures if stimulus is seen as inadequate.
-- US 2‑year yield – further fall below `4.20%` would confirm aggressive easing repricing, undercutting the dollar.
+- Brent `$85` – WallstreetCN flags “油价重返85美元”, a level that, if sustained, escalates the oil‑supply risk premium and complicates the Fed’s path ([WallstreetCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IU05JSEZHM0c1UXJRX2pGc21UbFp5bkxJUVpQdVFYLUg5TXVsWll6VzR4TlJoMVhNcTRnR1pIRllaNHM5R0F4bHF6T0F0cTJKdzU0)).
