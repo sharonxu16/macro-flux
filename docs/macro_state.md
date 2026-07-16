@@ -1,24 +1,24 @@
 # Macro State — Last updated: 2026-07-16
 
 ## Active Narratives
-- **US disinflation intensifies as PPI reinforces cooling** — Status: Confirmation; soft June PPI deepens the disinflation story, buoying bonds and EM FX, though oil supply shock clouds the outlook. Next trigger: US retail sales and jobless claims today.
-- **Hormuz blockade escalates to ‘existential war’** — Status: Acceleration; Iran voids peace deal, US launches fresh strikes, oil stockpiles dwindle and shuttle trade is squeezed. Next trigger: any de-escalation signal or successful commercial convoy.
-- **China PBOC shifts to active transmission management** — Status: New; regulators target asset management distortions and highlight relending facility, signaling a policy push to lift growth after GDP miss. Next trigger: upcoming LPR setting or OMO injection.
-- **BOK rate decision poised to test Asia FX resilience** — Status: New; consensus expects a 25bp hike to 2.75%, which could support KRW but also tighten conditions amid external shocks. Next trigger: BOK statement at 09:00 HKT.
+- **Korea BOK hike triggers equity rout and regulatory clampdown** — Status: New; the expected 25bp hike snowballed into a 7% KOSPI crash, circuit breakers, and a ban on single-stock leveraged ETFs, threatening sustained foreign equity outflows and KRW pressure. Next trigger: KRW closing level, foreign net selling data, and tonight’s US retail sales.
+- **Hormuz blockade escalates to physical disruption** — Status: Acceleration; US strikes on Bandar Abbas, Iraq oil terminal suspension, and US SPR at 43-year lows mark a shift from financial hedging to actual supply curtailment, raising oil and LNG prices further. Next trigger: any Iraqi loading restart or tanker routing advisory.
+- **US disinflation narrative persists but oil shock clouds outlook** — Status: Confirmation; soft June PPI reinforced peak-inflation hopes, but the concurrent energy spike creates a stagflationary tension. Next trigger: US retail sales and jobless claims today.
+- **AI capex cycle robust despite equity sell-off** — Status: Confirmation; TSMC’s blowout Q2, upward revision to $640B capex, and three-year AI boom forecast underscore structural demand, though chip stocks are under tactical de-leveraging pressure.
 
 ## Watchpoints
-- US retail sales (Jul 16 20:30 HKT) – a strong print would challenge the disinflation-fueled rates rally.
-- Hormuz transit – any safe-passage signal or successful tanker convoy.
-- PBOC policy action – LPR setting, MLF operation, or RRR cut signal in coming days.
-- BOK decision and forward guidance today at 09:00 HKT.
-- EIA inventory data and further evidence of stockpile drawdowns.
+- US retail sales (Jul 16 20:30 HKT) — a strong print would challenge the disinflation rally and strengthen the dollar, amplifying Asia FX weakness.
+- Iraq terminal loading resumption or Hormuz safe‑passage signal — any sign of normalisation would trigger a rapid oil retracement.
+- KRW overnight moves and foreign equity flow data — a sustained sell‑off in KOSPI beyond circuit‑breaker recovery would deepen KRW depreciation.
+- TSMC capex execution follow‑through — order upgrades from equipment makers would confirm the AI supply‑chain bull case.
+- EIA natural gas storage change and any further SPR draw announcements.
 
 ## Open Questions
-- Can disinflation momentum survive the oil supply shock, or will energy prices derail the Fed’s pause?
-- Will China’s credit data and PBOC transmission crackdown effectively ease financial conditions and stabilize CNH?
-- Does a BOK hike amplify the tug-of-war between energy-importing Asia FX weakness and hawkish central bank support?
+- Can the BOK’s hawkish stance stabilise KRW, or will equity outflows dominate and force intervention?
+- Will the oil supply shock derail the Fed’s pause and force a repricing of rate expectations despite soft PPI?
+- Does the chip equity rout reflect a cyclical top in AI spending, or is it a technical de‑grossing that quickly reverses?
 
 ## Key Levels
-- Brent crude – sustained break above recent peaks signals prolonged supply disruption ([FT](https://www.ft.com/content/6c314457-ce9a-4689-b3e1-ff637de0d6bf), [BBG](https://www.bloomberg.com/news/articles/2026-07-15/latest-oil-market-news-and-analysis-for-july-16)).
-- US 2-year yield – further decline below `4.20%` would confirm aggressive easing repricing, undermining the dollar ([BBG](https://www.bloomberg.com/news/articles/2026-07-15/treasuries-rise-as-producer-prices-reinforce-inflation-optimism)).
-- CNH – vulnerable to capital-outflow pressure if stimulus fails to convince; a move through `7.35` would reignite outflow fears.
+- Brent crude — sustained price above recent peaks signals a prolonged physical supply deficit and elevates stagflation risks (implied by FT/BBG Hormuz coverage).
+- KOSPI — a failure to recover above circuit‑breaker lows would indicate deeper position unwinding rather than a one‑day shock.
+- KRW — a closing beyond prior session’s high would confirm capital‑outflow driven depreciation, overriding carry advantage.
