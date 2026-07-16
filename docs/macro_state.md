@@ -1,22 +1,24 @@
 # Macro State — Last updated: 2026-07-16
 
 ## Active Narratives
-- **Hormuz blockade escalation and oil supply crunch** — Status: Acceleration; US strikes disrupt tanker shuttle trade and physical supply warnings intensify, driving oil higher and raising global inflation risks.
-- **China growth‑credit double miss spurs easing calls** — Status: Confirmation; H1 GDP `4.7%` and weak June credit reinforce stimulus expectations from PBOC and fiscal authorities; next trigger: policy response.
-- **Asia tech rout on AI valuation doubts** — Status: New; semiconductor selloff, led by Korea’s chip exporters, hits Kospi `-5%` and pressures TWD/KRW on reversal of AI enthusiasm.
-- **Fed disinflation repricing** — Status: Confirmation; soft US PPI and dovish Fed commentary scale back near‑term hike bets, weakening USD and supporting EM currencies despite energy headwinds.
+- **US disinflation intensifies as PPI reinforces cooling** — Status: Confirmation; soft June PPI deepens the disinflation story, buoying bonds and EM FX, though oil supply shock clouds the outlook. Next trigger: US retail sales and jobless claims today.
+- **Hormuz blockade escalates to ‘existential war’** — Status: Acceleration; Iran voids peace deal, US launches fresh strikes, oil stockpiles dwindle and shuttle trade is squeezed. Next trigger: any de-escalation signal or successful commercial convoy.
+- **China PBOC shifts to active transmission management** — Status: New; regulators target asset management distortions and highlight relending facility, signaling a policy push to lift growth after GDP miss. Next trigger: upcoming LPR setting or OMO injection.
+- **BOK rate decision poised to test Asia FX resilience** — Status: New; consensus expects a 25bp hike to 2.75%, which could support KRW but also tighten conditions amid external shocks. Next trigger: BOK statement at 09:00 HKT.
 
 ## Watchpoints
-- Hormuz transit – safe passage convoy or further Iranian strikes on tankers.
-- China PBOC liquidity/RRR move within 48h.
-- BOK rate decision (Jul 16 09:00 HKT) – hike or hold could shift KRW path.
-- US retail sales and jobless claims (Jul 16 20:30 HKT) – confirmation of consumer resilience.
-- AI demand signal from major chipmakers (TSMC/Samsung) to validate or reverse tech rout.
+- US retail sales (Jul 16 20:30 HKT) – a strong print would challenge the disinflation-fueled rates rally.
+- Hormuz transit – any safe-passage signal or successful tanker convoy.
+- PBOC policy action – LPR setting, MLF operation, or RRR cut signal in coming days.
+- BOK decision and forward guidance today at 09:00 HKT.
+- EIA inventory data and further evidence of stockpile drawdowns.
 
 ## Open Questions
-- Can oil‑supply inflation offset soft CPI/PPI and restrain Fed from easing, keeping a hawkish‑hold bias?
-- Will China material easing reverse CNH weakness, or will inadequate stimulus prolong capital outflows?
-- Does Asia FX decouple from the dual drag of rising energy costs and tech equity selloff, or is a broad risk‑off imminent?
+- Can disinflation momentum survive the oil supply shock, or will energy prices derail the Fed’s pause?
+- Will China’s credit data and PBOC transmission crackdown effectively ease financial conditions and stabilize CNH?
+- Does a BOK hike amplify the tug-of-war between energy-importing Asia FX weakness and hawkish central bank support?
 
 ## Key Levels
-- Brent `$85` – WallstreetCN flags “油价重返85美元”, a level that, if sustained, escalates the oil‑supply risk premium and complicates the Fed’s path ([WallstreetCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IU05JSEZHM0c1UXJRX2pGc21UbFp5bkxJUVpQdVFYLUg5TXVsWll6VzR4TlJoMVhNcTRnR1pIRllaNHM5R0F4bHF6T0F0cTJKdzU0)).
+- Brent crude – sustained break above recent peaks signals prolonged supply disruption ([FT](https://www.ft.com/content/6c314457-ce9a-4689-b3e1-ff637de0d6bf), [BBG](https://www.bloomberg.com/news/articles/2026-07-15/latest-oil-market-news-and-analysis-for-july-16)).
+- US 2-year yield – further decline below `4.20%` would confirm aggressive easing repricing, undermining the dollar ([BBG](https://www.bloomberg.com/news/articles/2026-07-15/treasuries-rise-as-producer-prices-reinforce-inflation-optimism)).
+- CNH – vulnerable to capital-outflow pressure if stimulus fails to convince; a move through `7.35` would reignite outflow fears.
