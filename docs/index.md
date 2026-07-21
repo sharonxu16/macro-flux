@@ -1,56 +1,67 @@
 ---
 tags:
-  - Macro/Iran_Conflict
-  - Macro/China_AI_Controls
+  - Macro/Iran_War
+  - Macro/Trade_War
   - Asset/Brent
-  - Asset/CNH
-  - Trade/Short_CNH
+  - Asset/Gilt
+  - Trade/Long_Oil
 ---
 
 <div align="center">
 
 # 🌊 Macro Flux
 
-<small>Jul 21 8AM to Jul 21 6PM HKT</small>
+<small>Jul 20 6PM to Jul 21 8AM HKT</small>
 
-<small>Good afternoon.</small>
+<small>Good morning.</small>
 
 </div>
 
 ---
 
 > [!abstract] Overview
-> Risk assets climbed and crude eased during Asian and European hours as mediators intensified a push for a US-Iran ceasefire, even while the US carried out a tenth straight night of strikes and Iran claimed it hit Amazon infrastructure in Bahrain. China opened a new front in the tech trade war, consulting companies on tighter export controls for AI models and chips, a threat that soured sentiment on Chinese tech. UK wage growth cooled to its weakest since 2020, reinforcing expectations the Bank of England will hold rates next week, while the ECB’s bank lending survey showed a sharp tightening of corporate credit amid war fears. The cross‑market thread is the tug‑of‑war between diplomatic optimism that is easing the commodity risk premium and escalating tech‑trade frictions that reintroduce a China‑centric supply‑chain overhang.
+> Oil prices surged past `$90/bbl` as Iran’s Houthi allies declared a naval embargo against Saudi Arabia and two tankers were attacked in the Strait of Hormuz, while mediators scrambled to propose a 10‑day ceasefire. Separately, Trump imposed a new `50%` tariff on `$20 billion` of Canadian goods, escalating the protectionist shock. UK gilts sold off as incoming Prime Minister Burnham signalled fiscal flexibility, reigniting sovereign debt fears. A modest chip rebound lifted Asian equities, but the dominant overnight driver was a simultaneous tightening of supply‑side risk from war and trade policy, compressing global risk appetite and reinforcing stagflation fears.
 
 ---
 
 ## 🔬 Narrative Watch
 
-### 📌 Iran conflict escalates with new strikes, but ceasefire push tempers oil
+### 📌 Houthi Naval Blockade and Tanker Attacks Escalate Iran War, Ceasefire Proposal Emerges
 
 **Fact**
-The US military completed its latest strikes on Iran, marking the 10th successive night of attacks ([Reuters](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWjlJZGJYNm5OYjczNWZJZkMxZGFGRFRJSHVGZjFaMS1KTkNfUTgzV2Y3Qk5VU0RDR0ZXOXBBUldobElBb0hRV2Y5MmlkR0pVNkNlN3RESGlzUlY2bnFBUFNJN3JaVmpyR3RzVkt0QTRVcklEQm05cmNIaUIyQkVJeWtzbi1sSk9XeFZpaURvUU1rM2hJLTMxcGJZa0RzdDFUcV8zdkNuQndVay0yYUc1Q3piMThnS2M2Wm1GMGNVREcxejFLNWxEcw)). An Iranian missile struck housing units for US troops at a base in Jordan, according to a US defense official ([WSJ](https://news.google.com/rss/articles/CBMipwFBVV95cUxPNFhTaWZKaDR3Q1J4d09ibDVFUlo2VUpHdWRBdXN6ZUs5UDg5ZUN4dmU1ZDcxTDNQblA4Ymp5bXA5U19IeTJoMkMxX19qWWpQbHI5Z1Z1WV9kejdMdHNDY0pjX0ZVdmx0alo2TUxlQWxLY0YwcmRNZmRJSS1MeEZ5MnFTd2NXNXZRTzlySV9kUFdSbU9HVG5mZXZFTmI5VU0tcnAwb0xiMA)). Iran’s Revolutionary Guards said they had attacked and stopped two “non‑compliant oil tankers” attempting to transit the Strait of Hormuz ([SCMP](https://www.scmp.com/news/world/middle-east/article/3361306/iran-and-us-trade-more-attacks-houthis-threaten-blockade)). Iran says it attacked Amazon infrastructure in Bahrain ([CNBC](https://www.cnbc.com/2026/07/21/iran-war-update-five-things-to-know-after-resumption-of-hostilities.html)). The White House told Al Jazeera that the US would continue strikes unless Trump orders otherwise ([Al Jazeera](https://www.aljazeera.com/news/2026/7/21/hormuz-tankers-on-fire-as-us-iran-continue-attacks-whats-the-latest)). Mediators pushed for a new US‑Iran ceasefire, and Tehran confirmed receiving proposals ([Reuters](https://news.google.com/rss/articles/CBMiywFBVV95cUxQSE4zQ25lM2VIMGM1RkYteUt5YW1tMXNWanVyRV9jX1NzUHlFU213Ry1BaTVzZ0xoc2ZzZ01IVmR2eW1BWTNMT04tci1Ual9WeDN6b1VJbjNKeFBHUlFVZi1zOEZNZ3NfckhfMkRSSjJuSU5KOGxpUG54WFdPT19YNUxCTzlrSVlXWmZZTmNZTHBpSEtVd0Zya2VqOUZpbjFMUlFiU1FJdl9MN0V0VWd0d1JnYkhhUnRoLWdFZ0ZpNDhmSW5yeVVlXy04NA), [WSJ](https://news.google.com/rss/articles/CBMirgFBVV95cUxNOGJVWXR2b3FOTnk5U0RqZmlOZWJRMHYwZm9WVWdIV25FVEVERVNpNlF3SnVWWUJjZ2ZXeDF6WTU3MDBQVlBSZW1WejdvM0RITTlvQnhMc3o1UlQxQ2hfWjYxZVVpOE9lQnZ6cDVHaGowZy14Z1owZTFqUXFMQlZnbnZqb0tCZWtoRGI5WFFZMlZJWTZCdHVFMHpNaUlXY2Q1WEhmWmtMOVFUZkRtcEE)). Oil prices eased but remained firm as investors weighed the attacks against ceasefire prospects ([Reuters](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNE0xMnZLYmlVcE1nLTJzaGpmMW5pWkZyRWY3c3I5YnJtMlZ2OFo4TTlZTnJTTnRlUmpRRnFmcnB3S1U0bmx6N0k0LVp5YUFqX2tJeUZxX3Y1YjJIOTN2YWFSbi14ZzJ4THhoTG9XMi1WenpMd1dwTVhGYnFrWlRZTF9MSG15d2dpUE9uQUlDbmNtY0E4YVNmOU1jdnVudnU4aWhIWjlPRnNMdUU)).
+Houthi forces declared a naval blockade of Saudi Arabia, threatening to open a new front in the US‑Iran war ([Reuters](https://news.google.com/rss/articles/CBMivwFBVV95cUxPbmtOemhMR1UtaVNoMENBMHltNEpKTWJNekRXUEtSa3hidndTM0VZVnRoTEJlV2ZENWtkYVFCUkJtSk8zdFhPeEJQSXRNMS1vWC03N2NJek14WklXdzhNZWkzMnZRUFpGcHg2OXotaHpyVW9jblFTYUM4U2lGcXFWa1NFbnZSQnpreVF6OXVhMW1oeHdIdkFNMjBJa09UZGgycjRkMjZ6Z1dxNC10enJIVDZJdlVSQjRxQlBZc05Tdw)). Two Dynacom Tankers vessels were hit by missiles off Oman amid the escalating hostilities ([Lloyd’s List](https://news.google.com/rss/articles/CBMijAFBVV95cUxPekVPekdoTFpzdmRNYTA1emhmM2lEQnU1S0wzRFJhbnMtMF9wckQwR0VEMHdmcl9EN2pHLWVFd0o3ZzA1bFFVOTZWX2tnQ29vaEE2NExpZExfU3FHWHBEcjZIenNaWHJuNEZtOVZkbjNISUV4R0hyVC04S0Fxd29Vbk52TE5fVzFYZVBCbA)). Brent crude touched `$90` a barrel before falling back as Tehran said it had received proposals from mediators to revive an interim deal ([FT](https://www.ft.com/content/52e98fc4-32e3-4ed9-90fd-dcbba6188df5), [BBG](https://www.bloomberg.com/news/articles/2026-07-20/latest-oil-market-news-and-analysis-for-july-20)). Mediators proposed a 10‑day ceasefire, a senior Iranian official told Reuters ([Reuters](https://news.google.com/rss/articles/CBMiywFBVV95cUxPSE4zQ25lM2VIMGM1RkYteUt5YW1tMXNWanVyRV9jX1NzUHlFU213Ry1BaTVzZ0xoc2ZzZ01IVmR2eW1BWTNMT04tci1Ual9WeDN6b1VJbjNKeFBHUlFVZi1zOEZNZ3NfckhfMkRSSjJuSU5KOGxpUG54WFdPT19YNUxCTzlrSVlXWmZZTmNZTHBpSEtVd0Zya2VqOUZpbjFMUlFiU1FJdl9MN0V0VWd0d1JnYkhhUnRoLWdFZ0ZpNDhmSW5yeVVlXy04NA)). Oil stocks in the US Strategic Petroleum Reserve fell by `5.1 million` barrels to the lowest level since `1983` ([Reuters](https://news.google.com/rss/articles/CBMixgFBVV95cUxOclJieFd5XzJsZU5oSjQ1WUZ2dEdjSTNLSUV2MFRycnp6dzRWMUF0cXBjV3ZkakdmRTg4elB2bUo3VXgxM2x4cmw2emppanpSWDdOcFpTcl9HZFZneEliaG1Nb2NsbUZsVExXdVZ6NjkyemZIaGJVSVhxMXYwakpaUDF5VlJHVHZndDBZZlgyV3pDRWdoQlJINlR1TmRmY011WGlEbmZ2cjdNZDA4cDdWZENobUtDc1RoV3FCYVNLX0MzQWFmeVE)). Trump vowed revenge after the weekend deaths of US troops in an Iranian strike on Jordan ([CNBC](https://www.cnbc.com/2026/07/20/us-iran-strait-of-hormuz-hostilities-casualties-.html)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Acceleration of kinetic activity alongside active diplomacy; two‑way risk now more balanced than the one‑directional spike seen in the morning.
-> * **Transmission / Market Read**: Risk‑premium channel keeps a floor under crude while ceasefire hopes offer **short‑lived relief** for equities and **support gold** as a hedge.
-> * **Watchpoint / Confidence**: Formal ceasefire call within 48h would collapse oil risk premium; another strike on energy infrastructure would reignite. Confidence: Medium.
+> * **Narrative change**: Acceleration — the conflict now directly threatens Red Sea transit via Houthi blockade, with the first large‑scale commercial tanker attacks since the war’s opening phase, while the ceasefire proposal introduces a two‑way risk.
+> * **Transmission / Market Read**: Risk‑premium and inflation channels dominate, supporting **long Brent** and **short US 10‑year** as oil‑pass‑through expectations rise; the ceasefire bid caps upside tail risk in the very short term.
+> * **Watchpoint / Confidence**: Any Houthi enforcement of the blockade on commercial vessels would trigger a second leg higher in crude; Confidence: High given cross‑source confirmation from military, shipping, and diplomatic channels.
 
-### 📌 China weighs tighter export controls on AI models and chips
+### 📌 Trump Imposes 50% Tariffs on $20 Billion of Canadian Goods, Escalating Multi‑Front Trade War
 
 **Fact**
-Beijing is consulting companies on ways to stop the West acquiring its advanced technologies and starve start‑ups, according to four people with knowledge of the discussions; the move comes as the US restricts exports of advanced chips to China ([FT](https://www.ft.com/content/6049a031-9e9b-464c-97bb-414da04d5a6a)). China considers tighter export controls on AI models and chips, the Financial Times reported ([Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxQMnQtRVFFNl9xQzJhYWtqMjlrVEx5NW9FYmp4UzM3QlNHdjYwaDhfT3BTdkdaX0QwUHF2X0Z3a3pEMnl0b0RqN0VVMFZ2NndBT1YtWDhjbE85dGZKT2lpWmtFYTJaY1E5UHljUmVvcXhvV0FTTUFyck5GZHBYRU1Nc1hTNDg4aUxoeFFNZmhKOVVKcDNLQVo3SFBYcnZ0VFFhVlBhNndHOWtuMVZpaDhmVE9JY051NmVzQUx4QUln)).
+The US imposed new `50%` tariffs on `$20 billion` worth of Canadian products, using an untested 1930 law, triggering a fresh trade war with a top ally ([Reuters](https://news.google.com/rss/articles/CBMikgFBVV95cUxNVWJmZE81SUhjQV9Kc0hseUFwMGlDNml3alZscUFqSjljaUh5LTZRSEFjQXo4Y3JHSTdyNkVqLXFjOGZTQWoxUGY1LVRqQVFtSGx3aWhGWmhxR25LNDU5Nm5SQWFELWRER1dfeXNsdWV5Z05RMWRtTEF2em15T25JYm51SHdCRXNWNDd6YUdhY3dTdw), [SCMP](https://www.scmp.com/news/world/united-states-canada/article/3361268/trump-imposes-50-tariffs-canadian-goods-citing-disputes-over-cars-alcohol-and-cheese)). Ottawa said the duties violate the USMCA trade pact and accused Washington of discrimination over cars, alcohol, and cheese ([CNBC](https://www.cnbc.com/2026/07/20/trump-tariffs-canada-trade.html)). The move escalates Trump’s tariff strategy just as his administration outlined plans to maintain a broader tariff wall through Section 122 of the Trade Act of 1974 ([BBG](https://www.bloomberg.com/news/articles/2026-07-20/how-trump-plans-to-maintain-his-tariff-wall)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: New trade‑tech front; a reversal from China’s previous openness, adding a layer of uncertainty for domestic AI firms and foreign‑exposed supply chains.
-> * **Transmission / Market Read**: Capital‑flow and sentiment channels favor **short CNH** and **pressure Chinese tech equities**, with spill‑over to Asian semiconductor names.
-> * **Watchpoint / Confidence**: Official announcement or formal consultation draft within days would catalyse the trade; silence would fade the threat. Confidence: Low (policy still exploratory).
+> * **Narrative change**: Acceleration — new use of a 1930‑era law on a major trading partner widens the tariff shock beyond previous trade disputes, creating a fresh supply‑chain and inflation surprise.
+> * **Transmission / Market Read**: Inflation‑expectations and risk‑premium channels favour **short CAD** versus **USD** and **long UST** initially on flight to safety, but medium‑term stagflation risk could steepen the curve.
+> * **Watchpoint / Confidence**: Canada’s formal retaliation or USMCA dispute panel action would amplify negative sentiment; Confidence: Medium given domestic political pressure on Ottawa to respond.
+
+### 📌 UK Gilts Sell Off as New PM Burnham’s Fiscal‑Flexibility Remarks Spook Markets
+
+**Fact**
+UK government bonds dropped and yields rose after new Prime Minister Andy Burnham unnerved investors on his first day by saying he would “use any flexibility” within the fiscal rules ([BBG](https://www.bloomberg.com/news/articles/2026-07-20/gilts-fall-as-burnham-s-fiscal-flexibility-comments-spook-market), [FT](https://www.ft.com/content/b7cc3ea9-c89c-4f94-8ce0-3786034a6ddc)). The remarks reignited fears of higher spending and borrowing, pressuring gilt prices even as Burnham’s government inherits tepid growth and lingering inflation ([BBC](https://www.bbc.co.uk/news/articles/c9357rlk494o)). Sterling also weakened as markets repriced UK sovereign risk amid the political transition.
+
+> [!info] [AI Reasoning]
+> * **Narrative change**: New — the new PM’s immediate signal of looser fiscal policy under a constrained growth backdrop introduces a distinct sovereign credit risk premium that was not priced last week.
+> * **Transmission / Market Read**: Capital‑flow and policy‑expectation channels support **short gilts** and **short GBP** versus EUR and USD, with spillover pressure on euro‑denominated assets if UK risk repricing widens peripheral spreads.
+> * **Watchpoint / Confidence**: The upcoming UK labour market data and the Treasury gilt auction today will test whether the selloff extends; Confidence: High because the trigger event is concrete and already moving prices.
 
 ---
 
 ## 🌍 Global Radar
 
-No additional high-impact items outside Narrative Watch after deduplication and source-support validation.
+### 🌐 Geopolitics & Policy
+- Taiwan is reviewing liquefied natural gas imports from Papua New Guinea after the Pacific nation forced the closure of Taipei’s economic office, handing Beijing another diplomatic win ([SCMP](https://www.scmp.com/news/china/politics/article/3361237/taiwan-reviews-papua-new-guinea-lng-imports-after-economic-offices-forced-closure)).
 
 ---
 
@@ -58,69 +69,73 @@ No additional high-impact items outside Narrative Watch after deduplication and 
 
 | Time (HKT) | Rgn | Event | Est. | Prior |
 |---|---|---|---|---|
-| Jul 21 08:15 PM | **US** | ADP Employment Change Weekly | — | 19.75K |
-| Jul 21 08:55 PM | **US** | Redbook YoY | — | 8.2% |
-| Jul 21 11:30 PM | **US** | 6-week bill auction | — | 3.640% |
-| Jul 22 04:30 AM | **US** | API Crude Oil Stock Change | -1.5M | -0.564M |
-| Jul 22 05:00 AM | **KR** | PPI MoM | — | 0.8% |
-| Jul 22 05:00 AM | **KR** | PPI YoY | — | 8.5% |
-| Jul 22 07:50 AM | **JP** | Balance of Trade | ¥-120B | ¥-378.7B |
-| Jul 22 07:50 AM | **JP** | Exports YoY | 18.6% | 17% |
-| Jul 22 07:50 AM | **JP** | Imports YoY | 21% | 12.5% |
-| Jul 22 09:00 AM | **AU** | Westpac Leading Index MoM | — | 0% |
-| Jul 22 11:35 AM | **JP** | 40-Year JGB Auction | — | 3.840% |
-| Jul 22 02:00 PM | **GB** | Inflation Rate YoY | 2.7% | 2.8% |
-| Jul 22 02:00 PM | **GB** | Core Inflation Rate YoY | 2.5% | 2.6% |
-| Jul 22 02:00 PM | **GB** | Inflation Rate MoM | 0.1% | 0.2% |
-| Jul 22 02:00 PM | **GB** | Core Inflation Rate MoM | — | 0.3% |
-| Jul 22 02:00 PM | **GB** | PPI Core Output MoM | — | 0.8% |
-| Jul 22 02:00 PM | **GB** | PPI Core Output YoY | — | 2.3% |
-| Jul 22 02:00 PM | **GB** | PPI Input MoM | 0.2% | 0.2% |
-| Jul 22 02:00 PM | **GB** | PPI Input YoY | — | 8.7% |
-| Jul 22 02:00 PM | **GB** | PPI Output MoM | 0.4% | 0.5% |
-| Jul 22 02:00 PM | **GB** | PPI Output YoY | — | 4% |
-| Jul 22 02:00 PM | **GB** | Retail Price Index MoM | 0.3% | 0.2% |
-| Jul 22 02:00 PM | **GB** | Retail Price Index YoY | 3% | 3.1% |
-| Jul 22 03:30 PM | **ID** | Interest Rate Decision | 6% | 5.75% |
-| Jul 22 03:30 PM | **ID** | Deposit Facility Rate | 5% | 4.75% |
-| Jul 22 05:30 PM | **DE** | 15-Year Bund Auction | — | 3.3% |
-| Jul 22 05:30 PM | **DE** | 20-year bund auction | — | 3.38% |
-| Jul 22 07:00 PM | **US** | MBA 30-Year Mortgage Rate | — | 6.65% |
-| Jul 22 07:00 PM | **US** | MBA Mortgage Applications | — | -2.7% |
-| Jul 22 07:00 PM | **US** | MBA Mortgage Market Index | — | 259.1 |
-| Jul 22 07:00 PM | **US** | MBA Mortgage Refinance Index | — | 821.9 |
-| Jul 22 07:00 PM | **US** | MBA Purchase Index | — | 157.2 |
+| 10:30 AM | **KR** | 20-Year KTB Auction | — | 4.3% |
+| 01:00 PM | **SG** | MAS 12-Week Bill Auction | — | 1.47% |
+| 01:00 PM | **SG** | MAS 36-Week Bill Auction | — | 1.52% |
+| 01:00 PM | **SG** | MAS 4-Week Bill Auction | — | 1.38% |
+| 02:00 PM | **GB** | Unemployment Rate | 5.0% | 4.9% |
+| 02:00 PM | **GB** | Average Earnings incl. Bonus (3Mo/Yr) | 4.5% | 4.4% |
+| 02:00 PM | **GB** | Employment Change | 85.0K | 99K |
+| 02:00 PM | **GB** | Average Earnings excl. Bonus (3Mo/Yr) | 3.4% | 3.4% |
+| 02:00 PM | **GB** | Claimant Count Change | 29.4K | 1.3K |
+| 02:00 PM | **GB** | HMRC Payrolls Change | — | 3K |
+| 02:00 PM | **GB** | Public Sector Net Borrowing Ex Banks | £-19.8B | £-23.3B |
+| 04:00 PM | **EA** | ECB Bank Lending Survey | — | — |
+| 04:00 PM | **ES** | Balance of Trade | — | €-5.2B |
+| 05:00 PM | **DE** | ZEW Economic Sentiment Index | 18 | 10.5 |
+| 05:00 PM | **DE** | ZEW Current Conditions | -77.8 | -81.0 |
+| 05:00 PM | **GB** | Treasury Gilt 2029 Auction | — | 4.419% |
+| 05:30 PM | **DE** | 5-Year Bobl Auction | — | 2.64% |
+| 08:15 PM | **US** | ADP Employment Change Weekly | — | 19.75K |
+| 08:55 PM | **US** | Redbook YoY | — | 8.2% |
+| 11:30 PM | **US** | 6-Week Bill Auction | — | 3.640% |
+| 04:30 AM | **US** | API Crude Oil Stock Change | -1.5M | -0.564M |
+| 05:00 AM | **KR** | PPI MoM | — | 0.8% |
+| 05:00 AM | **KR** | PPI YoY | — | 8.5% |
+| 07:50 AM | **JP** | Balance of Trade | ¥-120B | ¥-378.7B |
+| 07:50 AM | **JP** | Exports YoY | 18.6% | 17% |
+| 07:50 AM | **JP** | Imports YoY | 21% | 12.5% |
+| 09:00 AM | **AU** | Westpac Leading Index MoM | — | 0% |
 
 ---
 
 ## 📚 Full Reading List
 - **BBG**
-  - [UK Labor Market Steadies Ahead of Bank of England Decision](https://www.bloomberg.com/news/articles/2026-07-21/uk-labor-market-holds-steady-ahead-of-bank-of-england-decision)
-  - [China Vows to Achieve Annual Growth Target After Economy Weakens](https://www.bloomberg.com/news/articles/2026-07-21/china-vows-to-achieve-annual-growth-target-after-economy-weakens)
-  - [Euro-Zone Banks Further Tighten Companies’ Credit Standards](https://www.bloomberg.com/news/articles/2026-07-21/euro-zone-banks-further-tighten-companies-credit-standards)
+  - [Latest Oil Market News and Analysis for July 21](https://www.bloomberg.com/news/articles/2026-07-20/latest-oil-market-news-and-analysis-for-july-20)
+  - [Gilts Rattled on Andy Burnham’s First Day as Fiscal Fears Return](https://www.bloomberg.com/news/articles/2026-07-20/gilts-fall-as-burnham-s-fiscal-flexibility-comments-spook-market)
+  - [New Zealand’s Faster Inflation Bolsters Case for More Rate Hikes](https://www.bloomberg.com/news/articles/2026-07-20/new-zealand-inflation-accelerates-to-4-1-on-soaring-fuel-costs)
+  - [Canada Inflation Falls to 2.8%, Core Measures Ease](https://www.bloomberg.com/news/articles/2026-07-20/canada-inflation-rate-falls-to-2-8-core-measures-ease)
+  - [How Trump Plans to Maintain His Tariff Wall](https://www.bloomberg.com/news/articles/2026-07-20/how-trump-plans-to-maintain-his-tariff-wall)
+  - [Gold Rises on Dip-Buying as Traders Weigh Middle East Clashes](https://www.bloomberg.com/news/articles/2026-07-20/gold-steady-as-traders-watch-middle-east-war-for-inflation-clues)
+  - [Stocks Extend Rally as Chips Rebound, Oil Declines: Markets Wrap](https://www.bloomberg.com/news/articles/2026-07-20/stock-market-today-dow-s-p-live-updates)
+  - [Australia’s Stock Market Emerges as Haven From Volatile AI Trade](https://www.bloomberg.com/news/articles/2026-07-20/australia-s-stock-market-emerges-as-haven-from-volatile-ai-trade)
 - **Reuters**
-  - [US military completes its latest strikes on Iran, marking the 10th successive night of attacks](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWjlJZGJYNm5OYjczNWZJZkMxZGFGRFRJSHVGZjFaMS1KTkNfUTgzV2Y3Qk5VU0RDR0ZXOXBBUldobElBb0hRV2Y5MmlkR0pVNkNlN3RESGlzUlY2bnFBUFNJN3JaVmpyR3RzVkt0QTRVcklEQm05cmNIaUIyQkVJeWtzbi1sSk9XeFZpaURvUU1rM2hJLTMxcGJZa0RzdDFUcV8zdkNuQndVay0yYUc1Q3piMThnS2M2Wm1GMGNVREcxejFLNWxEcw)
-  - [Mediators proposed a 10-day ceasefire to revive an Iran-US interim deal, a senior Iranian official told Reuters](https://news.google.com/rss/articles/CBMiywFBVV95cUxQSE4zQ25lM2VIMGM1RkYteUt5YW1tMXNWanVyRV9jX1NzUHlFU213Ry1BaTVzZ0xoc2ZzZ01IVmR2eW1BWTNMT04tci1Ual9WeDN6b1VJbjNKeFBHUlFVZi1zOEZNZ3NfckhfMkRSSjJuSU5KOGxpUG54WFdPT19YNUxCTzlrSVlXWmZZTmNZTHBpSEtVd0Zya2VqOUZpbjFMUlFiU1FJdl9MN0V0VWd0d1JnYkhhUnRoLWdFZ0ZpNDhmSW5yeVVlXy04NA)
-  - [Oil prices firm as investors weigh fresh attacks against potential US-Iran ceasefire](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNE0xMnZLYmlVcE1nLTJzaGpmMW5pWkZyRWY3c3I5YnJtMlZ2OFo4TTlZTnJTTnRlUmpRRnFmcnB3S1U0bmx6N0k0LVp5YUFqX2tJeUZxX3Y1YjJIOTN2YWFSbi14ZzJ4THhoTG9XMi1WenpMd1dwTVhGYnFrWlRZTF9MSG15d2dpUE9uQUlDbmNtY0E4YVNmOU1jdnVudnU4aWhIWjlPRnNMdUU)
-  - [China considers tighter export controls on AI models and chips, FT reports](https://news.google.com/rss/articles/CBMivgFBVV95cUxQMnQtRVFFNl9xQzJhYWtqMjlrVEx5NW9FYmp4UzM3QlNHdjYwaDhfT3BTdkdaX0QwUHF2X0Z3a3pEMnl0b0RqN0VVMFZ2NndBT1YtWDhjbE85dGZKT2lpWmtFYTJaY1E5UHljUmVvcXhvV0FTTUFyck5GZHBYRU1Nc1hTNDg4aUxoeFFNZmhKOVVKcDNLQVo3SFBYcnZ0VFFhVlBhNndHOWtuMVZpaDhmVE9JY051NmVzQUx4QUln)
-  - [Philippines, China summon each other's envoys over South China Sea incident](https://news.google.com/rss/articles/CBMitAFBVV95cUxNU1JrWlBzY2hhTkQ5dlhFNkhEamdNSW1rUGFmNEJPQzdLVHZxaTVrdE5zSzVKSnl5MG1Nckx0UWVxZmd1RUh1ZlNsU0RoQ2xsNGhwT2FDRGNFUDJuWllrNzFjRXhBLWFiaU12eHpFUVBNUW5oMEdQMjRjekg4VmtkMVphU0hjOFhOQUU4NEhkX09mZWRQOGM4ZE9LTjJiN29fcDJtRVhMSXBmc1ZLSGp0c3dhcFQ)
-  - [Gold rises as diplomatic efforts offer hope of de-escalation in Middle East](https://news.google.com/rss/articles/CBMinwFBVV95cUxNazZ5bjNfa1hrcmFFNGQzQUhudG0yVEM3ZC1qMkpGbDlpX2dTOUlScEs3bFozWVFpT01SZ0ZXcTEzazhXOGNaWVlDMk1IaWtDUlFvbE5FdTN5bzZTV3J2ajdma1kwNy10MGxGLWJhQ1JOUkZtRWNWZ1RSbkw1TjhFRThLa21BVFgyM0dGUGdURl9aVzVUMXlqdm5GSVNWYzQ)
+  - [Houthis announce Saudi naval blockade, threatening new front in US-Iran war](https://news.google.com/rss/articles/CBMivwFBVV95cUxPbmtOemhMR1UtaVNoMENBMHltNEpKTWJNekRXUEtSa3hidndTM0VZVnRoTEJlV2ZENWtkYVFCUkJtSk8zdFhPeEJQSXRNMS1vWC03N2NJek14WklXdzhNZWkzMnZRUFpGcHg2OXotaHpyVW9jblFTYUM4U2lGcXFWa1NFbnZSQnpreVF6OXVhMW1oeHdIdkFNMjBJa09UZGgycjRkMjZ6Z1dxNC10enJIVDZJdlVSQjRxQlBZc05Tdw)
+  - [Mediators propose 10-day ceasefire to revive Iran-U.S. interim deal, senior Iranian official tells Reuters](https://news.google.com/rss/articles/CBMiywFBVV95cUxPSE4zQ25lM2VIMGM1RkYteUt5YW1tMXNWanVyRV9jX1NzUHlFU213Ry1BaTVzZ0xoc2ZzZ01IVmR2eW1BWTNMT04tci1Ual9WeDN6b1VJbjNKeFBHUlFVZi1zOEZNZ3NfckhfMkRSSjJuSU5KOGxpUG54WFdPT19YNUxCTzlrSVlXWmZZTmNZTHBpSEtVd0Zya2VqOUZpbjFMUlFiU1FJdl9MN0V0VWd0d1JnYkhhUnRoLWdFZ0ZpNDhmSW5yeVVlXy04NA)
+  - [US imposes new 50% tariffs on $20 billion worth of Canadian products](https://news.google.com/rss/articles/CBMikgFBVV95cUxNVWJmZE81SUhjQV9Kc0hseUFwMGlDNml3alZscUFqSjljaUh5LTZRSEFjQXo4Y3JHSTdyNkVqLXFjOGZTQWoxUGY1LVRqQVFtSGx3aWhGWmhxR25LNDU5Nm5SQWFELWRER1dfeXNsdWV5Z05RMWRtTEF2em15T25JYm51SHdCRXNWNDd6YUdhY3dTdw)
+  - [Oil stocks in US Strategic Petroleum Reserve fall by 5.1 million barrels to lowest level since 1983](https://news.google.com/rss/articles/CBMixgFBVV95cUxOclJieFd5XzJsZU5oSjQ1WUZ2dEdjSTNLSUV2MFRycnp6dzRWMUF0cXBjV3ZkakdmRTg4elB2bUo3VXgxM2x4cmw2emppanpSWDdOcFpTcl9HZFZneEliaG1Nb2NsbUZsVExXdVZ6NjkyemZIaGJVSVhxMXYwakpaUDF5VlJHVHZndDBZZlgyV3pDRWdoQlJINlR1TmRmY011WGlEbmZ2cjdNZDA4cDdWZENobUtDc1RoV3FCYVNLX0MzQWFmeVE)
+  - [Two Dynacom Tankers vessels attacked off Oman amid escalating US-Iran war](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYUVxdUFVU3hpbENhZ1lPc3BZYU9ub1c1ZGxCdm1ocTBhZm5SSTZ2RXJYd3BxeWFoUW13Y3NJb2JQN05IOUJYNXV5TU1YVHIwVkpkclBPaGpwYVl1Q0VXenRvMkRLNl9HQkdkVENpRHZSbG5ydWNzWGRWNE5YNEZISXR5NFVVVE5CN00zcnQ3M1ZONndRVDMzMGx0aC12NE5ERmN0SFNRcGx0QXJ0b2VZNG0wWEZLMGFhemFMNmc4N1o)
 - **WSJ**
-  - [Exclusive | Iran Missile Struck Housing Units for U.S. Troops at Jordan Base](https://news.google.com/rss/articles/CBMipwFBVV95cUxPNFhTaWZKaDR3Q1J4d09ibDVFUlo2VUpHdWRBdXN6ZUs5UDg5ZUN4dmU1ZDcxTDNQblA4Ymp5bXA5U19IeTJoMkMxX19qWWpQbHI5Z1Z1WV9kejdMdHNDY0pjX0ZVdmx0alo2TUxlQWxLY0YwcmRNZmRJSS1MeEZ5MnFTd2NXNXZRTzlySV9kUFdSbU9HVG5mZXZFTmI5VU0tcnAwb0xiMA)
-  - [Oil Eases as Mediators Push for New U.S.-Iran Ceasefire](https://news.google.com/rss/articles/CBMirgFBVV95cUxNOGJVWXR2b3FOTnk5U0RqZmlOZWJRMHYwZm9WVWdIV25FVEVERVNpNlF3SnVWWUJjZ2ZXeDF6WTU3MDBQVlBSZW1WejdvM0RITTlvQnhMc3o1UlQxQ2hfWjYxZVVpOE9lQnZ6cDVHaGowZy14Z1owZTFqUXFMQlZnbnZqb0tCZWtoRGI5WFFZMlZJWTZCdHVFMHpNaUlXY2Q1WEhmWmtMOVFUZkRtcEE)
-  - [Asian Equities Advance on Hopes for Mideast Ceasefire](https://news.google.com/rss/articles/CBMingFBVV95cUxOMlRVWFozaTJLeFlQdTlCSHBBaG54LXI3RTNvLWRNbnJ5M2JyYkoyc251VFVYejZtWXRWRUVYWVl3a1lVVHZUZ3ktd3JjN3hfMUhOQ3JSYWtjeUg5dnlMVzltQVJ3VnE1TEd2YzhXVFNHSS1sR3JKQi1STlF3QjNoRU95R0ZmMnNIYVFodzhDQmE3MHhCUW9PUU9rMktDdw)
-  - [U.K. Unemployment Holds Steady](https://news.google.com/rss/articles/CBMidEFVX3lxTE9QaFFjQkcxdlU5YnlIZHU0dGxOWVNRem1FVzZUc0hzNjIzQlpZT2xFSl9fcFFTN25qMFZuUE9YS1BwRlhrWno1SHYyQ1VoOG9ERVQ3b2JNellMaXBfancwVUV4d1FvVmxWSE5wV0VpaDlncU1u)
+  - [Canada Inflation Cools to 2.8% in June as Gasoline Decelerates](https://news.google.com/rss/articles/CBMitAFBVV95cUxOTGlGZFVMTFlmZ3NVWnAxcFVwWHVmSUNsaURvZThiWXNGU0ZoNVBjdEVQQkZhaHR6VWQ3bjF4bjlZenRfQnNKcGJla2Noam9mUEFLR2ZvYlpwTFNVZjFrTkVCbmJYU2V2YXdjdjg2U2EwUk5aYjVWYk5GTTFJR3YxaG5pTC1qcV9tb0RvYlVheko1TUVMNFpON1J6SkdiQm0ybFV0bkNtUnZ1dGZyU2IyWjJzbDU)
 - **FT**
-  - [China weighs tighter export controls on AI models and chips](https://www.ft.com/content/6049a031-9e9b-464c-97bb-414da04d5a6a)
-  - [UK wage growth continues to cool while unemployment rate steady](https://www.ft.com/content/0423e995-9bfc-4d5f-95fe-c4961c737a52)
+  - [Oil touches $90 after Iran hits tankers](https://www.ft.com/content/52e98fc4-32e3-4ed9-90fd-dcbba6188df5)
+  - [Gilts under pressure as investors brace for higher spending under new PM](https://www.ft.com/content/b7cc3ea9-c89c-4f94-8ce0-3786034a6ddc)
 - **CNBC**
-  - [Iran says it attacked Amazon infrastructure in Bahrain](https://www.cnbc.com/2026/07/21/iran-war-update-five-things-to-know-after-resumption-of-hostilities.html)
+  - [Trump vows retaliation against Iran after U.S. deaths: 'They will pay'](https://www.cnbc.com/2026/07/20/us-iran-strait-of-hormuz-hostilities-casualties-.html)
+  - [Trump imposing 50% tariffs on certain Canadian goods over alleged trade discrimination](https://www.cnbc.com/2026/07/20/trump-tariffs-canada-trade.html)
+  - [TSMC is accelerating Arizona factory build-out to capitalize on AI 'megatrend,' CFO says](https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html)
 - **SCMP**
-  - [Iran and US trade more attacks as Houthis threaten blockade](https://www.scmp.com/news/world/middle-east/article/3361306/iran-and-us-trade-more-attacks-houthis-threaten-blockade)
-  - [China lodges protest with Philippines after latest clash near Second Thomas Shoal](https://www.scmp.com/news/china/diplomacy/article/3361325/china-lodges-protest-philippines-after-latest-clash-near-second-thomas-shoal)
-- **Al Jazeera**
-  - [Hormuz tankers on fire, as US, Iran continue attacks: What’s the latest?](https://www.aljazeera.com/news/2026/7/21/hormuz-tankers-on-fire-as-us-iran-continue-attacks-whats-the-latest)
-- **Caixin**
-  - [T早报｜长鑫科技新股缴款日A股科技赛道放量重挫；上半年中国集成电路出口额同比增长88.7%；阿里速卖通被欧盟罚5.5亿欧元](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JcTFhdFRsN3A3ZThXT3JocmoyTlJ2REFSNUpEZmR3enB1RThzelpuTjNZck11T0dOVG5WSlhhQXZVU2FTVUg4RXp2RTFpRUFFbDBUaG5zRy1hU25CWVZ1MWZtbGg)
-- **ECB**
-  - [July 2026 euro area bank lending survey](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260721~44ee50f75c.en.html)
+  - [Trump orders new 50% tariff on many Canadian goods, escalating trade war](https://www.scmp.com/news/world/united-states-canada/article/3361268/trump-imposes-50-tariffs-canadian-goods-citing-disputes-over-cars-alcohol-and-cheese)
+  - [Chinese and Philippine maritime forces clash at Second Thomas Shoal](https://www.scmp.com/news/china/diplomacy/article/3361250/chinese-and-philippine-maritime-forces-clash-second-thomas-shoal)
+  - [Trump order targets China-linked military mineral supply chains](https://www.scmp.com/news/us/politics/article/3361267/trump-order-targets-china-linked-military-mineral-supply-chains)
+  - [Taiwan reviews Papua New Guinea LNG imports after economic office’s forced closure](https://www.scmp.com/news/china/politics/article/3361237/taiwan-reviews-papua-new-guinea-lng-imports-after-economic-offices-forced-closure)
+- **BBC**
+  - [Burnham has big ideas - but what will they cost?](https://www.bbc.co.uk/news/articles/c9357rlk494o)
+- **CNN**
+  - [Trump’s new 50% tariffs on Canada risk igniting a fresh trade war](https://news.google.com/rss/articles/CBMie0FVX3lxTE56NXNzM3ZiUExiSWxmZHJvNXJzRkJhSlJwcUFGRUJfeGpXZktBV1dfUWdLTmpacjlpSF9PV09NYm5JcU5jM3ZpUkFCSzgzQ1hucC12ZjBtc21oeDJPYzlXdmxzV0FJb1NLQXpwZEF2M2piamV0WF9ZYnhwUQ)
+- **CNA**
+  - [US seeks to limit key materials from China, others in defence supply chains](https://news.google.com/rss/articles/CBMijwFBVV95cUxNOVh1aUJZSG1zZnVVNVlOSjlDRWhueGZUOXhXeDBrTlRHTXhidXdSVEFHNUhfTnp6UENVUS1nNnNDVWFsaHNuZlI3V3lXY1lBeVRUUDdmY21nRllDd3JUZlJUd215bXNGQ21ZM1JCeDg5eDNiUm4zbmVCSWJueXN5MVRWVUZLWEY2eE9CeVJodw)
+- **Lloyds List**
+  - [Dynacom duo hit by missiles in Strait of Hormuz](https://news.google.com/rss/articles/CBMijAFBVV95cUxPekVPekdoTFpzdmRNYTA1emhmM2lEQnU1S0wzRFJhbnMtMF9wckQwR0VEMHdmcl9EN2pHLWVFd0o3ZzA1bFFVOTZWX2tnQ29vaEE2NExpZExfU3FHWHBEcjZIenNaWHJuNEZtOVZkbjNISUV4R0hyVC04S0Fxd29Vbk52TE5fVzFYZVBCbA)
+- **Yahoo Finance**
+  - [Gold prices today, Monday, July 20, 2026: Gold holds above $4,000 despite continued violence](https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-july-20-2026-gold-holds-above-4000-despite-continued-violence-in-the-middle-east-152926843.html)

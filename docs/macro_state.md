@@ -1,24 +1,21 @@
 # Macro State — Last updated: 2026-07-21
 
 ## Active Narratives
-- **Hormuz conflict military intensity rises but ceasefire diplomacy gains traction** — Status: Acceleration; fresh US strikes and Iranian attacks on US troops and Bahrain infrastructure escalate the fight, while a ceasefire proposal keeps a lid on oil; the path of crude and risk appetite hinges on the diplomatic track.
-- **China opens a new tech‑trade front with AI chip and model export control consultations** — Status: New; Beijing’s exploratory move threatens to restrict AI technology flows, weighing on Chinese tech sentiment and introducing a fresh overhang for CNH and semiconductor supply chains.
-- **UK labor market steadies, reinforcing a Bank of England hold** — Status: Confirmation; wage growth cooling to the weakest since 2020 supports the case for unchanged rates at the July meeting, capping sterling upside and gilt yield pressure.
-
+- **Hormuz conflict intensifies with Houthi naval blockade and commercial tanker attacks; ceasefire proposal adds two‑way risk** — Status: Acceleration; Houthi embargo threatens Red Sea transit and Saudi oil flows, pushing Brent to $90 before dipping; next trigger: enforcement of Houthi blockade or ceasefire acceptance/rejection.
+- **Trump escalates multi‑front trade war with 50% tariff on $20B of Canadian goods** — Status: Acceleration; use of 1930 law on a key ally widens protectionist shock, amplifying inflation and supply‑chain uncertainty; next trigger: Canadian retaliation or USMCA dispute action.
+- **UK fiscal risk repricing as new PM Burnham signals spending flexibility** — Status: New; gilt selloff on Day One indicates markets’ sensitivity to looser fiscal policy amid weak growth; next trigger: labor market data and gilt auction today.
+- **AI/chip bear market eases as TSMC accelerates US buildout and broader sector rebounds** — Status: Fading; chip stocks rebounded and TSMC reaffirms long‑term AI demand, but the bounce remains tentative; next trigger: US tech earnings and TAIEX stability.
 ## Watchpoints
-- Formal US‑Iran ceasefire call within the next 48h — failure to advance would rebuild oil risk premium and unwind the afternoon’s risk‑on trade.
-- Official announcement or formal consultation draft on China’s AI export controls; silence would fade the threat.
-- Bank of England rate decision on July 30 — any hawkish surprise post‑UK inflation (Jul 22) could reprice sterling.
-- South China Sea incident escalation — additional clashes or sanctions rhetoric would lift Asia geopolitical premia.
-- Eurozone Q3 bank lending survey data to confirm credit tightening continues; a marked drop in loan demand could signal recession risks.
-
+- Houthi enforcement of Saudi naval blockade or new attacks on commercial tankers in the Red Sea.
+- Canada’s formal response to Trump’s 50% tariff; USMCA dispute panel filing.
+- UK labour market data (unemployment, earnings) and today’s gilt auction for fiscal credibility test.
+- EIA inventory data and API crude stock change; sustained draws from strategic reserves.
+- Any Chinese retaliation or diplomatic escalation following South China Sea clash and US mineral‑supply order.
 ## Open Questions
-- Will the Iran ceasefire diplomacy survive the next round of US strikes, or does the kinetic tempo undermine talks and keep crude supported?
-- How aggressive will China’s AI export control measures be, and which firms and supply chains will be directly targeted?
-- Will the UK’s cooling labor market embolden the BoE to hold rates later in the year while inflation remains sticky?
-
+- Can a 10‑day ceasefire proposal halt oil’s supply‑risk premium, or will the Houthi blockade become an entrenched new front?
+- Will the UK gilt selloff force Burnham to clarify fiscal intentions earlier, or will market pressure mount without explicit guidance?
+- Does the combination of oil shock and multi‑front tariffs force the Fed to lean hawkish at its upcoming meeting, compressing risk assets further?
 ## Key Levels
-- Brent crude — easing from $90 but firm near $85; a breach of $90 on fresh attacks would reignite inflation hedging ([WSJ](https://news.google.com/rss/articles/CBMirgFBVV95cUxNOGJVWXR2b3FOTnk5U0RqZmlOZWJRMHYwZm9WVWdIV25FVEVERVNpNlF3SnVWWUJjZ2ZXeDF6WTU3MDBQVlBSZW1WejdvM0RITTlvQnhMc3o1UlQxQ2hfWjYxZVVpOE9lQnZ6cDVHaGowZy14Z1owZTFqUXFMQlZnbnZqb0tCZWtoRGI5WFFZMlZJWTZCdHVFMHpNaUlXY2Q1WEhmWmtMOVFUZkRtcEE)).
-- UK private sector wage growth — lowest since 2020 supports a BoE hold and limits sterling upside; a firm CPI print tomorrow would test that view ([BBG](https://www.bloomberg.com/news/articles/2026-07-21/uk-labor-market-holds-steady-ahead-of-bank-of-england-decision)).
-- China cabinet growth pledge — the verbal intervention lifted sentiment modestly, but follow‑up concrete fiscal or monetary measures are needed to sustain the move ([BBG](https://www.bloomberg.com/news/articles/2026-07-21/china-vows-to-achieve-annual-growth-target-after-economy-weakens)).
-- Hang Seng index — Asian equities advanced on ceasefire hopes; a breakdown of talks would quickly reverse the gains ([WSJ](https://news.google.com/rss/articles/CBMingFBVV95cUxOMlRVWFozaTJLeFlQdTlCSHBBaG54LXI3RTNvLWRNbnJ5M2JyYkoyc251VFVYejZtWXRWRUVYWVl3a1lVVHZUZ3ktd3JjN3hfMUhOQ3JSYWtjeUg5dnlMVzltQVJ3VnE1TEd2YzhXVFNHSS1sR3JKQi1STlF3QjNoRU95R0ZmMnNIYVFodzhDQmE3MHhCUW9PUU9rMktDdw)).
+- Brent crude — touched $90/bbl, the highest since mid‑June, before retreating on ceasefire hopes ([FT](https://www.ft.com/content/52e98fc4-32e3-4ed9-90fd-dcbba6188df5), [BBG](https://www.bloomberg.com/news/articles/2026-07-20/latest-oil-market-news-and-analysis-for-july-20)).
+- US Strategic Petroleum Reserve — fell to lowest since 1983 at 5.1 million barrel draw, tightening the buffer against supply disruptions ([Reuters](https://news.google.com/rss/articles/CBMixgFBVV95cUxOclJieFd5XzJsZU5oSjQ1WUZ2dEdjSTNLSUV2MFRycnp6dzRWMUF0cXBjV3ZkakdmRTg4elB2bUo3VXgxM2x4cmw2emppanpSWDdOcFpTcl9HZFZneEliaG1Nb2NsbUZsVExXdVZ6NjkyemZIaGJVSVhxMXYwakpaUDF5VlJHVHZndDBZZlgyV3pDRWdoQlJINlR1TmRmY011WGlEbmZ2cjdNZDA4cDdWZENobUtDc1RoV3FCYVNLX0MzQWFmeVE)).
+- UK 10‑year gilt yield — rose sharply on Burnham’s remarks, with the fiscal‑flexibility shock repricing sovereign credit risk ([BBG](https://www.bloomberg.com/news/articles/2026-07-20/gilts-fall-as-burnham-s-fiscal-flexibility-comments-spook-market)).
