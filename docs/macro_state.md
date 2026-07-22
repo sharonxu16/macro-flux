@@ -1,21 +1,23 @@
-# Macro State — Last updated: 2026-07-21
+# Macro State — Last updated: 2026-07-22
 
-## Active Narratives
-- **Hormuz conflict intensifies with Houthi naval blockade and commercial tanker attacks; ceasefire proposal adds two‑way risk** — Status: Acceleration; Houthi embargo threatens Red Sea transit and Saudi oil flows, pushing Brent to $90 before dipping; next trigger: enforcement of Houthi blockade or ceasefire acceptance/rejection.
-- **Trump escalates multi‑front trade war with 50% tariff on $20B of Canadian goods** — Status: Acceleration; use of 1930 law on a key ally widens protectionist shock, amplifying inflation and supply‑chain uncertainty; next trigger: Canadian retaliation or USMCA dispute action.
-- **UK fiscal risk repricing as new PM Burnham signals spending flexibility** — Status: New; gilt selloff on Day One indicates markets’ sensitivity to looser fiscal policy amid weak growth; next trigger: labor market data and gilt auction today.
-- **AI/chip bear market eases as TSMC accelerates US buildout and broader sector rebounds** — Status: Fading; chip stocks rebounded and TSMC reaffirms long‑term AI demand, but the bounce remains tentative; next trigger: US tech earnings and TAIEX stability.
-## Watchpoints
-- Houthi enforcement of Saudi naval blockade or new attacks on commercial tankers in the Red Sea.
-- Canada’s formal response to Trump’s 50% tariff; USMCA dispute panel filing.
-- UK labour market data (unemployment, earnings) and today’s gilt auction for fiscal credibility test.
-- EIA inventory data and API crude stock change; sustained draws from strategic reserves.
-- Any Chinese retaliation or diplomatic escalation following South China Sea clash and US mineral‑supply order.
-## Open Questions
-- Can a 10‑day ceasefire proposal halt oil’s supply‑risk premium, or will the Houthi blockade become an entrenched new front?
-- Will the UK gilt selloff force Burnham to clarify fiscal intentions earlier, or will market pressure mount without explicit guidance?
-- Does the combination of oil shock and multi‑front tariffs force the Fed to lean hawkish at its upcoming meeting, compressing risk assets further?
-## Key Levels
-- Brent crude — touched $90/bbl, the highest since mid‑June, before retreating on ceasefire hopes ([FT](https://www.ft.com/content/52e98fc4-32e3-4ed9-90fd-dcbba6188df5), [BBG](https://www.bloomberg.com/news/articles/2026-07-20/latest-oil-market-news-and-analysis-for-july-20)).
-- US Strategic Petroleum Reserve — fell to lowest since 1983 at 5.1 million barrel draw, tightening the buffer against supply disruptions ([Reuters](https://news.google.com/rss/articles/CBMixgFBVV95cUxOclJieFd5XzJsZU5oSjQ1WUZ2dEdjSTNLSUV2MFRycnp6dzRWMUF0cXBjV3ZkakdmRTg4elB2bUo3VXgxM2x4cmw2emppanpSWDdOcFpTcl9HZFZneEliaG1Nb2NsbUZsVExXdVZ6NjkyemZIaGJVSVhxMXYwakpaUDF5VlJHVHZndDBZZlgyV3pDRWdoQlJINlR1TmRmY011WGlEbmZ2cjdNZDA4cDdWZENobUtDc1RoV3FCYVNLX0MzQWFmeVE)).
-- UK 10‑year gilt yield — rose sharply on Burnham’s remarks, with the fiscal‑flexibility shock repricing sovereign credit risk ([BBG](https://www.bloomberg.com/news/articles/2026-07-20/gilts-fall-as-burnham-s-fiscal-flexibility-comments-spook-market)).
+## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
+- **Hormuz conflict intensifies with Houthi naval blockade, CPC pipeline shutdown, and Trump rejecting near‑term talks; ceasefire proposal still in play** — Status: Acceleration; Brent supply‑risk premium widens as physical barrels are lost and shipping reroutes; next trigger: enforcement of Houthi blockade, CPC restart, ceasefire acceptance/rejection.
+- **Trump escalates multi‑front trade war with 50% tariff on Canada, prepares fresh global tariffs** — Status: Acceleration; new tariffs and threat of broader levies pressure CAD, lift DXY, and raise risk of China sanctions; next trigger: US‑Canada negotiation progress, USMCA dispute, any China‑targeted trade action.
+- **Yen breaks 163 to 40‑year low as BOJ hold widens carry appeal** — Status: New; intervention risk rises, and trade deficit deepens on import costs; next trigger: verbal/physical intervention, BOJ meeting outcome.
+- **AI/chip bear market fades further as chip stocks rebound** — Status: Confirmation; Asian and US chipmakers extend gains, shrugging off Chinese AI model advances; next trigger: US tech earnings, TAIEX stability.
+## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
+- Houthi enforcement of Saudi oil blockade; actual tanker attacks in Red Sea.
+- Canada’s formal negotiation progress and any retaliation or USMCA dispute filing.
+- Yen intervention risk: MOF statement or BOJ rate‑hike signal.
+- EIA crude stocks data tonight (consensus -1.5M) and trend of SPR draws.
+- US‑China AI talks in September; any near‑term sanctions on AI models.
+## Open Questions (max 3 — only unresolved questions that affect positioning)
+- Can a 10‑day ceasefire halt the oil supply‑risk premium, or will Houthi blockade and CPC loss become an entrenched new front?
+- Will yen weakness force the BOJ to accelerate rate hikes or trigger intervention before the July meeting?
+- Does the combined oil‑supply shock and tariff escalation tilt the Fed toward a hawkish surprise at the upcoming meeting?
+## Key Levels (max 5 — only with today’s source citations; include asset and why the level matters)
+- Brent crude — extended gains on production losses and Houthi threats, with Asian buyers warned of $100/bbl risk ([SCMP](https://www.scmp.com/week-asia/politics/article/3361381/asias-oil-buyers-face-us100-barrel-risk-houthis-threaten-saudi-blockade)).
+- USD/JPY — broke above 163 for first time since 1986, testing intervention‑trigger zone ([BBG](https://www.bloomberg.com/news/articles/2026-07-21/yen-slides-past-163-mark-to-fresh-four-decade-low-against-dollar)).
+- US SPR — inventory draws continue with EIA data tonight expected -1.5M; a deeper draw would tighten buffer further.
+- Canada two‑year yield — tariff and CAD weakness repriced BoC‑rate expectations ([Investing](https://www.investing.com/news/forex-news/canadian-dollar-falls-to-oneweek-low-on-tariff-concerns-93CH-4804023)).
+- KOSPI — rallied 6% on tech rebound, offering a key gauge for Asia risk‑on durability ([ChnFund](https://www.chnfund.com/article/ARfd94687d-f385-88c0-e117-3a22996a1551)).
