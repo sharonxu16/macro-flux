@@ -1,24 +1,24 @@
-# Macro State — Last updated: 2026-07-22
+# Macro State — Last updated: 2026-07-23
 
 ## Active Narratives (max 4)
-- **Hormuz conflict and global oil supply disruption intensify with Houthi Saudi blockade, CPC pipeline halt, and Trump nuclear threat** — Status: Acceleration; multiple new physical chokepoints threaten up to 2mn b/d of supply loss; next trigger: Saudi tanker transit success/failure and CPC restart signal.
-- **Trump escalates Canada trade war with 50% tariff, but Carney secures intensified negotiations** — Status: Acceleration (with two-way risk); tariff imposed but talks provide off‑ramp; next trigger: outcome of US‑Canada negotiations, any formal retaliation.
-- **Yen collapse to 40-year low past 163 forces policy pressure on BOJ** — Status: Acceleration; import price surge and widening trade deficit increase probability of intervention or hawkish BoJ pivot; next trigger: BOJ meeting and Ueda press conference.
-- **UK fiscal risk repricing amid new PM’s spending flexibility** — Status: Confirmation; gilt selloff paused as borrowing undershoots, but credibility test remains with today’s CPI and gilt auction; next trigger: UK inflation data and gilt auction.
+- **Hormuz conflict and global oil supply disruption intensify with Houthi Saudi blockade and selective Chinese VLCC passage** — Status: Acceleration; Saudi tankers struck, Chinese tankers granted passage, Asian buyers rerouting, oil near $98, pushing global bond yields and rate-hike fears; next trigger: Saudi tanker transit success/failure and any expansion of Houthi targeting.
+- **Yen collapse to 40-year low extends, BOJ seen on hold until December** — Status: Acceleration; USD/JPY at fresh multi-decade high, half of economists expect no hike until December, intervention risk rises; next trigger: MOF verbal warning, Ueda press conference.
+- **South Korea AI-export boom decouples KRW from oil-driven EM weakness** — Status: New; GDP beat of 3.7% on AI chips, KRW at 2½-month high, BOK rate-hike expectations build; next trigger: BOK policy signals.
+- **UK fiscal risk repricing pauses as inflation data aids Burnham** — Status: Confirmation (no major new stress); UK inflation figures give cost-of-living pledge a boost, gilt market stabilises; next trigger: further fiscal credibility tests.
 
 ## Watchpoints (max 5)
-- Whether Saudi tankers can safely transit Bab el‑Mandeb and Red Sea after Houthi warning; any further attacks on commercial vessels.
-- Outcome of Trump‑Carney intensified trade talks; any delay or cancellation of the 50% Canadian tariff.
-- BOJ policy decision and Governor Ueda’s press conference for rate‑hike signal or explicit intervention warning.
-- UK CPI and gilt auction today for gilt market reaction and Burnham fiscal‑flexibility signal.
-- EIA crude oil inventory data and any further Strategic Petroleum Reserve drawdown.
+- Whether Saudi tankers can safely transit Bab el-Mandeb after today’s Houthi attacks and if Chinese-only safe passage becomes a durable carve-out.
+- Yen intervention risk; any explicit MOF warning or hawkish shift ahead of BOJ meeting.
+- BOK commentary that confirms or pushes back on tightening expectations after the GDP beat.
+- ECB decision and Lagarde’s assessment of Iran war fallout for rates.
+- US weekly jobless claims (today) for labour market signal amid oil-driven rate fears.
 
 ## Open Questions (max 3)
-- Can the Houthi Saudi naval blockade become an entrenched new front, or will diplomatic pressure and the 10‑day ceasefire proposal break it?
-- Will the combination of oil‑driven inflation, tariff shocks, and a collapsing yen force a hawkish shift in the Fed’s rate outlook?
-- Will the yen’s plunge trigger actual intervention or a surprise BOJ rate hike that reverses USD/JPY?
+- Can the Houthi Saudi naval blockade become an entrenched new front, or will diplomatic pressure and Chinese-selective passage break it?
+- Will the combination of oil-driven inflation and a collapsing yen force a hawkish shift in the BOJ or a coordinated intervention?
+- Will AI-driven export strength in Korea be enough to sustain KRW outperformance if oil stays above $98?
 
 ## Key Levels (max 5)
-- Brent crude — threat of supply interruptions persists, with Goldman Sachs warning of `$120/bbl` if Strait of Hormuz remains disrupted ([FT](https://www.ft.com/content/90facd68-4df7-40c2-9383-e989a02fbe51)).
-- USD/JPY — broke above `163`, a fresh 40‑year low, testing intervention thresholds ([BBG](https://www.bloomberg.com/news/articles/2026-07-21/yen-slides-past-163-mark-to-fresh-four-decade-low-against-dollar)).
-- US Strategic Petroleum Reserve — fell to lowest since 1983 after a 5.1 million barrel draw, constraining emergency buffer ([Reuters](https://news.google.com/rss/articles/CBMixgFBVV95cUxOclJieFd5XzJsZU5oSjQ1WUZ2dEdjSTNLSUV2MFRycnp6dzRWMUF0cXBjV3ZkdmRT...)) (carried from prior state; no new draw today, but IEA notes substantial stocks remain).
+- Brent crude — surged to `$98` after Houthi strikes on Saudi tankers, with Goldman warning of `$120/bbl` if Strait of Hormuz stays disrupted ([FT](https://www.ft.com/content/1ddfbe42-b8e8-487c-a156-505879469926)).
+- USD/JPY — fresh 40-year high, breaking above prior 163 handle, testing intervention tolerance ([Reuters](https://news.google.com/rss/articles/CBMipAFBVV95cUxNcmxmYW0zRFBGQlpfRDY2bXdwMk1FNzJQVDVOZXhHMTY3QlAzeG5DRDRqeHRNQk1ELWpLTEtSSGpkVjJrcHVzb3RNQmxHc3d2b1JEMGJ1TEN1bDJKVGFzcFl0d0FjbUNBRTRRMDJVM3BST2htNmwtRExMNGo2RTlSREhGZXZYa0ZneWUzY0s4RXVlTWxmLXI0cEJBSW1UbVJrWjBPNw)).
+- KRW — hit 2½-month high after Q2 GDP surprise, signalling BOK rate-hike expectations ([Investing.com](https://www.investing.com/news/forex-news/skorean-won-hits-212mth-high-after-gdp-beat-boosts-bok-rate-hike-expectations-4807468)).
