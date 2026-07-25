@@ -1,20 +1,23 @@
 # Macro State — Last updated: 2026-07-25
 
 ## Active Narratives
-- **Trump rebuilds tariff wall with forced‑labour duties on 60 nations and threatens EU retaliation** — Status: Acceleration; trade war intensifies, pressuring Asia FX and risk appetite. Next trigger: EU countermeasures within 48h.
-- **Hormuz/Red Sea/Black Sea multi‑front oil supply disruption persists, with tentative diplomacy offering limited relief** — Status: Acceleration (still elevated but intraday pullback); physical cargoes near `$110`, insurance tightened, and Arab‑state strikes on Iran widen conflict. Next trigger: outcome of Pakistan‑China‑brokered talks.
-- **ECB opens September hike door; global central bank repricing continues** — Status: Acceleration; Lane and Simkus signal readiness, while economists still expect Fed cuts, keeping rate‑path divergence alive. Next trigger: July flash CPI data.
-- **AI spending worries trigger US tech and credit sell‑off** — Status: New; Moody’s flags credit‑quality risk, BlackRock demand wanes, Nasdaq drops for second week. Next trigger: upcoming tech earnings guidance.
+- **US-Iran war escalates with direct strikes, Saudi counter-attacks, and Houthi tanker blockade** — Status: Acceleration; kinetic operations widen, threatening Hormuz and Red Sea transit; next trigger: further commercial vessel incidents or explicit maritime exclusion zones.
+- **US labor market remains exceptionally tight, supporting hawkish Fed** — Status: Confirmation; jobless claims at 60-year low reinforce no-cut outlook; next trigger: July nonfarm payrolls.
+- **South Korea’s $950bn AI/chip deals challenge AI-spending slowdown fears** — Status: New; massive headline number signals strong capex appetite; next trigger: detailed investment plans or sector earnings guidance.
+- **Trump tariff wall and forced-labour duties on 60 nations persist** — Status: Acceleration (unchanged from morning); EU retaliation threat still active; no intraday update.
+
 ## Watchpoints
-- EU’s response to Trump’s threatened tariffs (24‑48h).
-- Confirmation or collapse of Pakistan‑China‑US‑Iran talks, with Brent reaction around `$100`.
-- July euro‑zone inflation data (next week) determining ECB September hike probability.
-- Tech megacap earnings guidance confirming/exceeding AI capex fears.
-- Houthi repeat attack on non‑Chinese tanker in Red Sea that tests insurance restrictions.
+- Confirmation of additional tanker attacks or Houthi enforcement of full blockade (24-48h).
+- Initial weekly jobless claims revision or confirmation (next week).
+- Samsung/SK Group deal specifics and whether they represent net new capex or roll-overs.
+- EU response to Trump’s threatened tariffs (24-48h).
+- July euro‑zone flash CPI next week determining ECB hike probability.
+
 ## Open Questions
-- Will the widening gap between Fed economist forecasts and market pricing resolve toward a hike or a cut after the July FOMC meeting?
-- Can Asia export‑dependent currencies withstand simultaneous oil shock, tariff escalation, and AI‑driven risk‑off without central bank intervention?
-- Does the physical oil surge and Red‑Sea insurance freeze trigger a coordinated IEA emergency stockpile release?
+- Will the Iran war escalation trigger a broader energy‑supply emergency and IEA stockpile release?
+- Can Asia export‑dependent currencies withstand simultaneous oil shock, tariff escalation, and strong US data without intervention?
+- Does the $950bn Korean AI headline mark a genuine capex revival, or is the figure inflated by multi‑year commitments?
+
 ## Key Levels
-- Brent crude — intraday pullback from `$100` but Rapidan forecasts year‑end at `$100` ([BBG](https://www.bloomberg.com/news/articles/2026-07-24/oil-to-end-year-near-100-on-mideast-disruptions-rapidan-says)).
-- Physical crude — some grades nearing `$110/bbl` ([Reuters](https://news.google.com/rss/articles/CBMixgFBVV95cUxPaWNvYzRoNkNQa2xmbldvVnNQcWQtRUp3MjFNQmJqRld1Z2R0X0JJSzFUNDJRcTRLelItMUtPd3A0NmUtNmJJZy1jRUNabTVldWxBSld6VDhOQ2VCQVpSV1J4VUg0Yjk4dTI0UlZiMVVWYnFMaDJnQ3JFOGdwLVVYVjV2RnJIWHRla2lOTEhUMEVCbU9rN09nWXdkRzVEbDlKcTZoYUFuTlYtQUxZWlFVWXJudktfNFdaVnBOajZ1WFA5Wk5na0E)).
+- Brent crude — implied floor from physical‑cargo disruptions, though no fresh afternoon quote in feed ([SCMP, FT, BBG](https://www.scmp.com/news/world/middle-east/article/3361831/trump-says-us-locked-and-loaded-vows-more-iran-strikes-while-hinting-talks)).
+- US initial jobless claims — `approximately 60-year low`, reinforcing dollar strength ([BBG](https://www.bloomberg.com/news/articles/2026-07-25/charting-the-global-economy-growth-picks-up-ai-boom-continues)).
