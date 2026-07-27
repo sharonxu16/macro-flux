@@ -1,19 +1,22 @@
 # Macro State — Last updated: 2026-07-27
 
 ## Active Narratives
-- **US-Iran strikes pause and Oman talks offer tentative de-escalation, but Houthi attacks on Saudi oil sites persist** — Status: Reversal; reduces immediate supply risk but Hormuz transit and Saudi energy infrastructure remain vulnerable; next trigger: US military action resumption or formal Hormuz management agreement.
-- **Trump global tariff wave expands to 60 nations, draws immediate legal challenges and retaliation threats** — Status: Acceleration; broadens trade war beyond China and risks credible backlash, undermining diplomatic assurances; next trigger: retaliatory tariffs from ASEAN, EU, or China’s further export controls.
-- **Fed rate hike repricing intensifies ahead of Warsh’s second meeting amid oil price volatility** — Status: Confirmation; markets price 1/3 hike chance, but weekend oil retreat may shift the calculus; next trigger: FOMC statement on 28-29 July and any language on energy-driven inflation.
-- **China probes former securities regulator Fang Xinghai, shaking investor confidence in reform continuity** — Status: New; unexpected anti-graft action against a market-friendly official adds to trade war and macro uncertainty; next trigger: further investigative targets or policy signals signalling a reform retreat.
+- **Singapore delivers back‑to‑back MAS tightening on oil and AI inflation fears** — Status: New; the second consecutive slope increase signals a determined policy response, directly supporting SGD. Next trigger: October MAS statement and any further oil spike.
+- **Bank Indonesia Governor’s sudden resignation heightens EM policy uncertainty** — Status: New; the departure of a credible governor revives concerns about central bank independence and pressures the rupiah. Next trigger: Damayanti’s first policy statement and parliamentary confirmation of a permanent governor.
+- **US‑Iran strikes pause holds, but Houthi attacks on Saudi oil sites persist** — Status: Reversal (morning narrative); the pause reduces immediate supply risk, yet Houthi strikes on Saudi infrastructure keep a floor under the geopolitical risk premium. Next trigger: any resumption of US military action or a formal Hormuz transit deal.
+- **Trump global tariff wave expands to 60 nations, draws legal challenges and retaliation threats** — Status: Acceleration (morning narrative); the new tariff regime sharpens trade‑war tensions, especially for ASEAN, with retaliation threats from Beijing and Brasília. Next trigger: retaliatory tariffs from ASEAN, EU, or China’s further export controls.
+
 ## Watchpoints
-- SG Monetary Policy Statement (27 Jul, 08:00 HKT) — any MAS FX policy tilt or inflation upgrade.
-- FOMC rate decision and statement (28-29 Jul) — whether rate hike materialises or is deferred, and oil inflation language.
-- US-Iran military activity — any resumption of strikes or concrete Oman-brokered Strait of Hormuz transit deal.
-- Retaliatory trade actions from ASEAN, EU, or China — especially any immediate tariff moves or WTO filings.
-- Taiwan Strait military posture — any further PLA helicopter or drone sorties that could escalate cross-strait tensions.
+- FOMC rate decision and statement (28‑29 July) — whether a hike materialises or is deferred, and the language on energy‑driven inflation.
+- Damayanti’s first official remarks as acting BI governor — any pledge to maintain independence or rate guidance.
+- Retaliatory trade actions from ASEAN, EU, or China — especially immediate tariff moves or WTO filings.
+- Iran‑Ukraine escalation after Caspian Sea strike — any further military exchange could broaden the conflict perimeter.
+- CXMT post‑IPO lock‑up expiry and CSRC cooling measures — a sharp reversal in the retail bid could dampen onshore equity sentiment.
+
 ## Open Questions
-- Will the tariff wave force a coordinated Asian FX sell-off, prompting intervention from BOK, MAS, or CBC?
-- Can the US-Iran pause endure without a formal ceasefire, and will Oman talks deliver a transit management framework before FOMC?
-- Does Fang Xinghai’s probe signal a broader shift away from market-friendly policies, potentially accelerating foreign capital outflows from China?
+- Will the MAS tightening cycle spill over to other Asian central banks, forcing BOK or CBC to lean hawkish?
+- Can the US‑Iran pause endure without a formal ceasefire, and will the Oman talks deliver a Hormuz transit framework before FOMC?
+- Does the BI leadership vacuum prompt capital outflows from Indonesia, and could it trigger a broader EM sell‑off?
+
 ## Key Levels
-- Brent crude near `$100/bbl` — crossing it remains the critical inflation threshold for the Fed, BOE, and BOJ ([BBG](https://www.bloomberg.com/news/articles/2026-07-25/fed-bank-of-england-bank-of-japan-face-100-oil-inflation-test)).
+- `USD/JPY` above `163` — cited by BofA as a level requiring hawkish BOJ action to defend the yen ([Investing](https://www.investing.com/news/forex-news/bofa-says-yen-defense-needs-hawkish-boj-as-usdjpy-tops-163-93CH-4813235)).
