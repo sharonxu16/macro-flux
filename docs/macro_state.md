@@ -1,22 +1,19 @@
-# Macro State — Last updated: 2026-07-26
+# Macro State — Last updated: 2026-07-27
 
 ## Active Narratives
-- **US tariff wall expands to Asean allies, undercutting diplomatic assurances** — Status: New; directly contradicts Rubio’s outreach and raises risk of multi‑front trade war; next trigger: retaliation from targeted nations or Trump‑Albanese meeting outcome.
-- **Iran‑proxy attacks on Saudi energy infrastructure intensify, while US enforces blockade** — Status: Acceleration; Houthi strikes on oil facilities and US disabling of blockade‑runner represent a new phase of war spreading to Saudi soil and commerce; next trigger: Saudi force majeure or Hormuz transit halt.
-- **Oman‑mediated Hormuz talks offer tentative de‑escalation avenue** — Status: New; Iran claims progress but US opposes service fees and simultaneous Houthi attacks undermine credibility; next trigger: concrete transit deal or US softening within 48h.
-- **Hawkish Fed repricing driven by `$100/bbl` oil and tight labour market persists** — Status: Confirmation; no fresh data today, but risk backdrop keeps hike bets elevated ahead of FOMC; next trigger: FOMC statement Jul 28-29.
-
+- **US-Iran strikes pause and Oman talks offer tentative de-escalation, but Houthi attacks on Saudi oil sites persist** — Status: Reversal; reduces immediate supply risk but Hormuz transit and Saudi energy infrastructure remain vulnerable; next trigger: US military action resumption or formal Hormuz management agreement.
+- **Trump global tariff wave expands to 60 nations, draws immediate legal challenges and retaliation threats** — Status: Acceleration; broadens trade war beyond China and risks credible backlash, undermining diplomatic assurances; next trigger: retaliatory tariffs from ASEAN, EU, or China’s further export controls.
+- **Fed rate hike repricing intensifies ahead of Warsh’s second meeting amid oil price volatility** — Status: Confirmation; markets price 1/3 hike chance, but weekend oil retreat may shift the calculus; next trigger: FOMC statement on 28-29 July and any language on energy-driven inflation.
+- **China probes former securities regulator Fang Xinghai, shaking investor confidence in reform continuity** — Status: New; unexpected anti-graft action against a market-friendly official adds to trade war and macro uncertainty; next trigger: further investigative targets or policy signals signalling a reform retreat.
 ## Watchpoints
-- Any Asean nation retaliation or formal protest within 24‑48h; Australian PM’s direct appeal to Trump.
-- Attack on Saudi Aramco facilities at Ras Tanura, Yanbu, or Abqaiq, or declared force majeure.
-- Iran‑Oman final Hormuz management proposal or US rejection statement.
-- SG Monetary Policy Statement on Jul 27 — any FX policy tilt or inflation upgrade.
-- FOMC language on oil‑driven inflation and rate path (Jul 28-29).
-
+- SG Monetary Policy Statement (27 Jul, 08:00 HKT) — any MAS FX policy tilt or inflation upgrade.
+- FOMC rate decision and statement (28-29 Jul) — whether rate hike materialises or is deferred, and oil inflation language.
+- US-Iran military activity — any resumption of strikes or concrete Oman-brokered Strait of Hormuz transit deal.
+- Retaliatory trade actions from ASEAN, EU, or China — especially any immediate tariff moves or WTO filings.
+- Taiwan Strait military posture — any further PLA helicopter or drone sorties that could escalate cross-strait tensions.
 ## Open Questions
-- Will the new tariff wave trigger a coordinated Asian FX sell‑off, forcing intervention from BOK, MAS, or CBC?
-- Can the Oman talks halt the Houthi‑Saudi escalation loop before a major oil infrastructure hit?
-- Does the US tariff move signal a pre‑midterm strategy of economic pressure rather than diplomacy, and what does it mean for the Trump administration’s Iran war calculus?
-
+- Will the tariff wave force a coordinated Asian FX sell-off, prompting intervention from BOK, MAS, or CBC?
+- Can the US-Iran pause endure without a formal ceasefire, and will Oman talks deliver a transit management framework before FOMC?
+- Does Fang Xinghai’s probe signal a broader shift away from market-friendly policies, potentially accelerating foreign capital outflows from China?
 ## Key Levels
-- Brent crude near `$100/bbl` — crossing this level is actively repricing Fed hike bets and is now being tested by Saudi facility attacks and Hormuz blockade tensions ([WSJ](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZk1fS0RpYUtCLUVlR2lqUHVNNWcwVVRtSjV6V3ZZYUtqZmNhMWNfU3NSbDJHOWhYdUhxLXRxYktRendzZ3VBVDI4R0w4dTlveWxYUHNiU2dTRG5PbzJkQkxHOGZWVWxSaS0zLTE5LUpuQ3BXSzVaU1BxSlBQMnl4dlNiS2liVUZXMjV3T1Vldm9qMDdHb1ZNRjFpc1JrTFpnalVhYUdJUWNONmdBYkE0VkVieXNTUHNqQWJn)).
+- Brent crude near `$100/bbl` — crossing it remains the critical inflation threshold for the Fed, BOE, and BOJ ([BBG](https://www.bloomberg.com/news/articles/2026-07-25/fed-bank-of-england-bank-of-japan-face-100-oil-inflation-test)).
