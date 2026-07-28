@@ -1,23 +1,24 @@
-# Macro State — Last updated: 2026-07-28
+# Macro State — Last updated: 2026-07-27
 
 ## Active Narratives
-- **Oil war premium collapses on US-Iran talks** — Status: New; Brent tumbled 6-8% after Trump called off strikes and confirmed bilateral negotiations, reversing the `$100`-oil regime. Next trigger: Ceasefire framework announcement or breakdown of talks; Houthi attack on Saudi energy infrastructure that restores supply-risk premium.
-- **Fed rate hike becomes a coin-toss** — Status: Acceleration; Citadel Securities explicitly calls for a surprise hike, multiple brokerages see it as a “close call,” but collapsing oil introduces a dovish cross-current. Next trigger: FOMC decision and Chair Warsh’s press conference Wednesday.
-- **MAS surprise tightening opens Asia hawkish front** — Status: New; Singapore tightened monetary policy in an unscheduled move citing oil-driven inflation risk, signaling a potential shift among Asia-Pacific central banks facing import-price pass-through. Next trigger: BOK, BSP, or BOT communication in the next 48 hours; MAS slope language.
-- **CXMT IPO ignites global chip rout** — Status: New; a 466% debut surge for China’s top memory chipmaker coincided with a third-day Philadelphia Semiconductor Index selloff and SK Hynix ADRs crashing below their IPO price. Next trigger: CXMT post-IPO price stabilization; further AI capex write-downs or credit downgrades.
+- **MAS surprise tightening confirms Asia hawkish pivot** — Status: Confirmation; second straight unscheduled tightening embeds sustained inflation vigilance; next trigger: slope/width details and any BOK/BSP/BOT hawkish signals.
+- **CXMT 466% IPO debut cements China tech capital-market momentum** — Status: Acceleration; record listing and turnover mark real liquidity event with cross‑market capital reallocation; next trigger: post‑IPO price stabilization and impact on Korean chip ADRs.
+- **BI governor unexpected resignation raises EM policy uncertainty** — Status: New; sudden leadership void dents central‑bank independence perception, pressuring rupiah; next trigger: acting chief Damayanti’s first communication and any BI intervention.
+- **Middle East de‑escalation fragile as Houthi attacks slow Red Sea shipping, CPC terminal resumes** — Status: Fading/Confirmation; physical supply disruption materializes but Kazakh exports resume, limiting net oil direction; next trigger: further Red Sea transit data and any new Houthi escalation.
+- **Fed rate hike coin‑toss ahead of Wednesday FOMC** — Status: Acceleration; markets still price meaningful chance of a hike, but collapsing oil complicates the call; next trigger: FOMC decision and Chair Warsh’s press conference.
 
 ## Watchpoints
-- FOMC decision — hike, hold, or dovish pivot given oil collapse.
-- US-Iran talks — any formal ceasefire statement or backstop for Strait of Hormuz transit.
-- Houthi attacks on Saudi east-west oil transport — intensity and confirmed infrastructure damage.
-- CXMT share price action and SK Hynix ADR levels — confirming or reversing the chip-risk contagion.
-- MAS policy statement details — slope, width, and center adjustments.
+- MAS full Monetary Policy Statement — slope, width, and center details.
+- CXMT share price action and cross‑market memory‑chip stock performance.
+- BI acting governor’s statement and rupiah’s response.
+- Red Sea vessel tracking data and Houthi attacks on energy infrastructure.
+- FOMC decision and post‑meeting guidance this Wednesday.
 
 ## Open Questions
-- Does the oil collapse remove the `$100` inflation impulse fast enough to keep the Fed on hold?
-- Will the US-Iran talks survive proxy attacks by Houthis on Saudi energy infrastructure?
-- Is the CXMT IPO a one-day event or a structural shift in US-China semiconductor capital flows?
+- Will MAS’s tightening prompt other Asian central banks to follow with hawkish moves?
+- Can the new BI leadership maintain policy credibility and stabilize the rupiah?
+- Does CXMT’s massive valuation signal a structural rotation into Chinese tech or speculative excess?
 
 ## Key Levels
-- Brent crude — closing level versus `$100` threshold; break below `$90` signals full war-premium unwind per Macquarie surplus scenario ([BBG](https://www.bloomberg.com/news/articles/2026-07-27/macquarie-sees-oil-surplus-risk-on-us-iran-deal-before-midterms)).
-- US 2-year and 10-year Treasury yields — pre-FOMC auction demand as a real-time read on rate-path expectations ([BBG](https://www.bloomberg.com/news/articles/2026-07-27/treasury-yields-follow-oil-lower-with-fed-and-supply-in-focus)).
+- USD/JPY — above `163`, as BofA warns yen defence needs a hawkish BoJ at these levels ([Investing](https://www.investing.com/news/forex-news/bofa-says-yen-defense-needs-hawkish-boj-as-usdjpy-tops-163-93CH-4813235)).
+- US Treasury 2‑year and 5‑year auction yields — pre‑FOMC auction demand will serve as a real‑time read on rate‑path expectations ([BBG](https://www.bloomberg.com/news/articles/2026-07-27/treasury-yields-follow-oil-lower-with-fed-and-supply-in-focus)).
