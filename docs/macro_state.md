@@ -1,22 +1,22 @@
-# Macro State — Last updated: 2026-07-27
+# Macro State — Last updated: 2026-07-28
 
 ## Active Narratives
-- **Singapore delivers back‑to‑back MAS tightening on oil and AI inflation fears** — Status: New; the second consecutive slope increase signals a determined policy response, directly supporting SGD. Next trigger: October MAS statement and any further oil spike.
-- **Bank Indonesia Governor’s sudden resignation heightens EM policy uncertainty** — Status: New; the departure of a credible governor revives concerns about central bank independence and pressures the rupiah. Next trigger: Damayanti’s first policy statement and parliamentary confirmation of a permanent governor.
-- **US‑Iran strikes pause holds, but Houthi attacks on Saudi oil sites persist** — Status: Reversal (morning narrative); the pause reduces immediate supply risk, yet Houthi strikes on Saudi infrastructure keep a floor under the geopolitical risk premium. Next trigger: any resumption of US military action or a formal Hormuz transit deal.
-- **Trump global tariff wave expands to 60 nations, draws legal challenges and retaliation threats** — Status: Acceleration (morning narrative); the new tariff regime sharpens trade‑war tensions, especially for ASEAN, with retaliation threats from Beijing and Brasília. Next trigger: retaliatory tariffs from ASEAN, EU, or China’s further export controls.
+- **US‑Iran ceasefire talks accelerate, oil risk premium collapses** — Status: Acceleration; the credible push for talks and a sustained hold on strikes drive crude >8% lower, unwinding the core inflation‑risk premium. Next trigger: formal ceasefire or Hormuz transit framework.
+- **Global chip selloff hits critical mass, Korea’s KOSPI crashes 6%** — Status: New; AI‑capex doubts trigger an acute unwind in Asia’s semiconductor‑heavy markets, with systemic circuit‑breaker triggers. Next trigger: foreign equity outflow data from Korea and Taiwan, and guidance from TSMC/Nvidia.
+- **FOMC rate‑hike odds surge, Warsh credibility narrative pivots hawkish** — Status: Acceleration; Citadel Securities sees a surprise hike as a close call, boosting USD and pressuring EM/Asia FX ahead of the decision. Next trigger: 28‑29 July FOMC statement and press conference.
+- **Trump tariff expansion drives trade realignment: Brazil fast‑tracks China deal, China holds retaliation** — Status: Acceleration; the 60‑nation tariff regime pushes key middle powers toward alternative trade blocs; China condemns but refrains from immediate counter‑measures. Next trigger: formal retaliatory tariffs from ASEAN, EU, or Brazil’s Mercosur‑China deal conclusion.
 
 ## Watchpoints
-- FOMC rate decision and statement (28‑29 July) — whether a hike materialises or is deferred, and the language on energy‑driven inflation.
-- Damayanti’s first official remarks as acting BI governor — any pledge to maintain independence or rate guidance.
-- Retaliatory trade actions from ASEAN, EU, or China — especially immediate tariff moves or WTO filings.
-- Iran‑Ukraine escalation after Caspian Sea strike — any further military exchange could broaden the conflict perimeter.
-- CXMT post‑IPO lock‑up expiry and CSRC cooling measures — a sharp reversal in the retail bid could dampen onshore equity sentiment.
+- FOMC rate decision and statement (28‑29 July) — hike or dovish hold will dominate all risk assets.
+- Korea’s foreign equity outflows in next session — any continuation confirms systemic deleveraging, pressuring KRW.
+- Formal US‑Iran ceasefire or Hormuz transit deal — would further deflate oil, potentially below pre‑crisis levels.
+- China’s response to US tariffs — any shift from restraint to retaliation would alter trade‑war calculus.
+- Brazil‑Mercosur trade talks milestone — a signed framework with China would solidify the trade realignment narrative.
 
 ## Open Questions
-- Will the MAS tightening cycle spill over to other Asian central banks, forcing BOK or CBC to lean hawkish?
-- Can the US‑Iran pause endure without a formal ceasefire, and will the Oman talks deliver a Hormuz transit framework before FOMC?
-- Does the BI leadership vacuum prompt capital outflows from Indonesia, and could it trigger a broader EM sell‑off?
+- Can the oil‑driven inflation relief survive renewed Houthi attacks on Saudi infrastructure?
+- Will the chip rout broaden into a full EM/Asia risk‑off spiral, forcing BOK or CBC to intervene?
+- Does the Fed hike surprise materialize, and if not, does Warsh deliver sufficiently hawkish guidance to keep the USD bid?
 
 ## Key Levels
-- `USD/JPY` above `163` — cited by BofA as a level requiring hawkish BOJ action to defend the yen ([Investing](https://www.investing.com/news/forex-news/bofa-says-yen-defense-needs-hawkish-boj-as-usdjpy-tops-163-93CH-4813235)).
+- `KOSPI` below `6,200` — triggered circuit breakers; a failure to reclaim that level would signal continued forced liquidation ([ChnFund_Macro](https://www.chnfund.com/article/ARd4fc3dc6-2efb-1491-6bd4-3a22b8a5fe98)).
