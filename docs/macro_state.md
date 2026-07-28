@@ -1,22 +1,23 @@
 # Macro State — Last updated: 2026-07-28
 
 ## Active Narratives
-- **US‑Iran ceasefire talks accelerate, oil risk premium collapses** — Status: Acceleration; the credible push for talks and a sustained hold on strikes drive crude >8% lower, unwinding the core inflation‑risk premium. Next trigger: formal ceasefire or Hormuz transit framework.
-- **Global chip selloff hits critical mass, Korea’s KOSPI crashes 6%** — Status: New; AI‑capex doubts trigger an acute unwind in Asia’s semiconductor‑heavy markets, with systemic circuit‑breaker triggers. Next trigger: foreign equity outflow data from Korea and Taiwan, and guidance from TSMC/Nvidia.
-- **FOMC rate‑hike odds surge, Warsh credibility narrative pivots hawkish** — Status: Acceleration; Citadel Securities sees a surprise hike as a close call, boosting USD and pressuring EM/Asia FX ahead of the decision. Next trigger: 28‑29 July FOMC statement and press conference.
-- **Trump tariff expansion drives trade realignment: Brazil fast‑tracks China deal, China holds retaliation** — Status: Acceleration; the 60‑nation tariff regime pushes key middle powers toward alternative trade blocs; China condemns but refrains from immediate counter‑measures. Next trigger: formal retaliatory tariffs from ASEAN, EU, or Brazil’s Mercosur‑China deal conclusion.
+- **Oil war premium collapses on US-Iran talks** — Status: New; Brent tumbled 6-8% after Trump called off strikes and confirmed bilateral negotiations, reversing the `$100`-oil regime. Next trigger: Ceasefire framework announcement or breakdown of talks; Houthi attack on Saudi energy infrastructure that restores supply-risk premium.
+- **Fed rate hike becomes a coin-toss** — Status: Acceleration; Citadel Securities explicitly calls for a surprise hike, multiple brokerages see it as a “close call,” but collapsing oil introduces a dovish cross-current. Next trigger: FOMC decision and Chair Warsh’s press conference Wednesday.
+- **MAS surprise tightening opens Asia hawkish front** — Status: New; Singapore tightened monetary policy in an unscheduled move citing oil-driven inflation risk, signaling a potential shift among Asia-Pacific central banks facing import-price pass-through. Next trigger: BOK, BSP, or BOT communication in the next 48 hours; MAS slope language.
+- **CXMT IPO ignites global chip rout** — Status: New; a 466% debut surge for China’s top memory chipmaker coincided with a third-day Philadelphia Semiconductor Index selloff and SK Hynix ADRs crashing below their IPO price. Next trigger: CXMT post-IPO price stabilization; further AI capex write-downs or credit downgrades.
 
 ## Watchpoints
-- FOMC rate decision and statement (28‑29 July) — hike or dovish hold will dominate all risk assets.
-- Korea’s foreign equity outflows in next session — any continuation confirms systemic deleveraging, pressuring KRW.
-- Formal US‑Iran ceasefire or Hormuz transit deal — would further deflate oil, potentially below pre‑crisis levels.
-- China’s response to US tariffs — any shift from restraint to retaliation would alter trade‑war calculus.
-- Brazil‑Mercosur trade talks milestone — a signed framework with China would solidify the trade realignment narrative.
+- FOMC decision — hike, hold, or dovish pivot given oil collapse.
+- US-Iran talks — any formal ceasefire statement or backstop for Strait of Hormuz transit.
+- Houthi attacks on Saudi east-west oil transport — intensity and confirmed infrastructure damage.
+- CXMT share price action and SK Hynix ADR levels — confirming or reversing the chip-risk contagion.
+- MAS policy statement details — slope, width, and center adjustments.
 
 ## Open Questions
-- Can the oil‑driven inflation relief survive renewed Houthi attacks on Saudi infrastructure?
-- Will the chip rout broaden into a full EM/Asia risk‑off spiral, forcing BOK or CBC to intervene?
-- Does the Fed hike surprise materialize, and if not, does Warsh deliver sufficiently hawkish guidance to keep the USD bid?
+- Does the oil collapse remove the `$100` inflation impulse fast enough to keep the Fed on hold?
+- Will the US-Iran talks survive proxy attacks by Houthis on Saudi energy infrastructure?
+- Is the CXMT IPO a one-day event or a structural shift in US-China semiconductor capital flows?
 
 ## Key Levels
-- `KOSPI` below `6,200` — triggered circuit breakers; a failure to reclaim that level would signal continued forced liquidation ([ChnFund_Macro](https://www.chnfund.com/article/ARd4fc3dc6-2efb-1491-6bd4-3a22b8a5fe98)).
+- Brent crude — closing level versus `$100` threshold; break below `$90` signals full war-premium unwind per Macquarie surplus scenario ([BBG](https://www.bloomberg.com/news/articles/2026-07-27/macquarie-sees-oil-surplus-risk-on-us-iran-deal-before-midterms)).
+- US 2-year and 10-year Treasury yields — pre-FOMC auction demand as a real-time read on rate-path expectations ([BBG](https://www.bloomberg.com/news/articles/2026-07-27/treasury-yields-follow-oil-lower-with-fed-and-supply-in-focus)).
