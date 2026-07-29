@@ -24,7 +24,7 @@ permissions:
 
 jobs:
   send:
-    if: github.event_name == 'workflow_dispatch' || startsWith(github.event.head_commit.message, 'Send briefing email:') || startsWith(github.event.head_commit.message, 'Briefing ')
+    if: github.event_name == 'workflow_dispatch' || startsWith(github.event.head_commit.message, 'Send briefing email:') || startsWith(github.event.head_commit.message, 'Briefing ') || startsWith(github.event.head_commit.message, 'Auto-generate ')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -76,6 +76,16 @@ jobs:
                       raise SystemExit(f"Cannot infer report from commit message: {commit_message}")
                   briefing_label = "morning" if report_stem.endswith("-morning") else "afternoon"
                   report_path = f"docs/past/{report_stem}.md"
+              elif commit_message.startswith("Auto-generate "):
+                  # Scheduled GitHub commits look like:
+                  # Auto-generate morning briefing for 2026-07-29
+                  parts = commit_message.split()
+                  if len(parts) != 5 or parts[2] != "briefing" or parts[3] != "for":
+                      raise SystemExit(f"Cannot infer report from commit message: {commit_message}")
+                  briefing_label = parts[1]
+                  if briefing_label not in {"morning", "afternoon"}:
+                      raise SystemExit(f"Unsupported briefing label: {briefing_label}")
+                  report_path = f"docs/past/{parts[4]}-{briefing_label}.md"
               else:
                   raise SystemExit("Missing report_path and unsupported commit message")
 

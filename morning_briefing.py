@@ -14,6 +14,7 @@ import re
 import signal
 import json
 import multiprocessing as mp
+import subprocess
 import tempfile
 import traceback
 import smtplib
@@ -216,6 +217,8 @@ FETCH_ROUND_TIMEOUT_SECONDS = env_int("FETCH_ROUND_TIMEOUT_SECONDS", 180, min_va
 ENHANCE_TIMEOUT_SECONDS = env_int("ENHANCE_TIMEOUT_SECONDS", 90, min_value=10)
 LLM_TIMEOUT_SECONDS = env_int("LLM_TIMEOUT_SECONDS", 420, min_value=60)
 RUN_TIMEOUT_SECONDS = env_int("RUN_TIMEOUT_SECONDS", 4200, min_value=300)
+REMOTE_CHECK_FETCH_TIMEOUT_SECONDS = env_int("REMOTE_CHECK_FETCH_TIMEOUT_SECONDS", 60, min_value=10)
+REMOTE_CHECK_QUERY_TIMEOUT_SECONDS = env_int("REMOTE_CHECK_QUERY_TIMEOUT_SECONDS", 15, min_value=5)
 MAX_PROMPT_ARTICLES = env_int("MAX_PROMPT_ARTICLES", 150, min_value=80)
 MAX_GENERAL_ARTICLES = env_int("MAX_GENERAL_ARTICLES", 110, min_value=40)
 MAX_ARTICLES_PER_SOURCE = env_int("MAX_ARTICLES_PER_SOURCE", 15, min_value=5)
@@ -2327,6 +2330,119 @@ GITHUB_PAGES_REPO = Path(os.environ.get("BRIEFING_REPO_PATH", Path.home() / "dai
 GITHUB_PAGES_URL = "https://sharonxu16.github.io/macro-flux/"
 
 
+def _hkt_now_iso():
+    return datetime.now(LOCAL_TZ).isoformat(timespec="seconds")
+
+
+def _report_date_for(window_start, window_end, briefing_type):
+    return window_end.date() if briefing_type == "morning" else window_start.date()
+
+
+def _report_id_for(window_start, window_end, briefing_type):
+    report_date = _report_date_for(window_start, window_end, briefing_type)
+    return f"{report_date:%Y-%m-%d}-{briefing_type}"
+
+
+def _remote_report_target(report_id):
+    return f"docs/past/{report_id}.md"
+
+
+def _run_git_command(repo, args, timeout):
+    try:
+        return subprocess.run(
+            ["git", "-C", str(repo), *args],
+            capture_output=True,
+            text=True,
+            timeout=timeout,
+        )
+    except FileNotFoundError:
+        return {"error": "git_unavailable"}
+    except subprocess.TimeoutExpired:
+        return {"error": "timeout"}
+    except OSError:
+        return {"error": "git_os_error"}
+
+
+def check_remote_report_exists(report_id, repo=GITHUB_PAGES_REPO, fetch=True):
+    """Check origin/main for a published report without reading report content."""
+    repo = Path(repo)
+    target_file = _remote_report_target(report_id)
+    base = {
+        "report_id": report_id,
+        "target_file": target_file,
+        "exists": None,
+        "result": "error",
+        "reason": "",
+    }
+    if not (repo / ".git").exists():
+        return {**base, "reason": "repo_unavailable"}
+
+    if fetch:
+        fetch_result = _run_git_command(
+            repo,
+            ["fetch", "--prune", "origin"],
+            REMOTE_CHECK_FETCH_TIMEOUT_SECONDS,
+        )
+        if isinstance(fetch_result, dict):
+            return {**base, "reason": f"fetch_{fetch_result['error']}"}
+        if fetch_result.returncode != 0:
+            return {**base, "reason": "fetch_failed"}
+
+    query_result = _run_git_command(
+        repo,
+        ["ls-tree", "--name-only", "origin/main", "--", target_file],
+        REMOTE_CHECK_QUERY_TIMEOUT_SECONDS,
+    )
+    if isinstance(query_result, dict):
+        return {**base, "reason": f"query_{query_result['error']}"}
+    if query_result.returncode != 0:
+        return {**base, "reason": "query_failed"}
+
+    matches = {line.strip() for line in query_result.stdout.splitlines()}
+    exists = target_file in matches
+    return {
+        **base,
+        "exists": exists,
+        "result": "exists" if exists else "missing",
+        "reason": "",
+    }
+
+
+def _remote_skip_reason(remote_check, force_rerun):
+    if remote_check["result"] == "error":
+        return f"remote_check_failed:{remote_check['reason'] or 'unknown'}"
+    if remote_check["exists"] and not force_rerun:
+        return "remote_target_exists"
+    return ""
+
+
+def _log_remote_check(remote_check, force_rerun, skip_reason="", stage="remote_check"):
+    payload = {
+        "stage": stage,
+        "report_id": remote_check["report_id"],
+        "target_file": remote_check["target_file"],
+        "remote_check_result": remote_check["result"],
+        "remote_target_exists": remote_check["exists"],
+        "skip_reason": skip_reason,
+        "force_rerun": force_rerun,
+        "check_time_hkt": _hkt_now_iso(),
+    }
+    print("[remote-check] " + json.dumps(payload, ensure_ascii=False, sort_keys=True))
+
+
+def _write_run_audit(audit, started_monotonic, result=None, skip_reason=None, commit_sha=None):
+    if result is not None:
+        audit["result"] = result
+    if skip_reason is not None:
+        audit["skip_reason"] = skip_reason
+    if commit_sha is not None:
+        audit["commit_sha"] = commit_sha
+    audit["generation_end_hkt"] = _hkt_now_iso()
+    audit["total_duration"] = round(time.monotonic() - started_monotonic, 1)
+    print("[run-audit] " + json.dumps(audit, ensure_ascii=False, sort_keys=True))
+    write_json_artifact("run_audit.json", audit)
+
+
 def _generate_archive_md(docs_dir):
     """Generate docs/archive.md listing all past briefings."""
     past_dir = docs_dir / "past"
@@ -2433,19 +2549,18 @@ def _save_docs(report_md, window_end, briefing_type="morning"):
     _write_docs_to_repo(repo, report_md, window_end, briefing_type)
 
 
-def deploy_to_github_pages(report_md, window_end, briefing_type="morning"):
+def deploy_to_github_pages(report_md, window_start, window_end, briefing_type="morning", force_rerun=False):
     """Commit and push using a clean origin/main worktree, avoiding local branch divergence."""
     import shutil
-    import subprocess
     import tempfile
 
     repo = GITHUB_PAGES_REPO
     if not (repo / ".git").exists():
         print(f"  [deploy] Repo not found at {repo}, skipping")
-        return
+        return None
 
-    date_str = window_end.strftime("%Y-%m-%d")
-    commit_msg = f"Briefing {date_str}-{briefing_type} {datetime.now(LOCAL_TZ).strftime('%H:%M')} (HKT)"
+    report_id = _report_id_for(window_start, window_end, briefing_type)
+    commit_msg = f"Briefing {report_id} {datetime.now(LOCAL_TZ).strftime('%H:%M')} (HKT)"
     local_state = repo / "docs" / "macro_state.md"
 
     for attempt in (1, 2):
@@ -2453,6 +2568,13 @@ def deploy_to_github_pages(report_md, window_end, briefing_type="morning"):
         try:
             subprocess.run(["git", "-C", str(repo), "fetch", "origin", "main"],
                            capture_output=True, timeout=60, check=True)
+            remote_check = check_remote_report_exists(report_id, repo=repo, fetch=False)
+            skip_reason = _remote_skip_reason(remote_check, force_rerun)
+            _log_remote_check(remote_check, force_rerun, skip_reason, stage="local_deploy_pre_push")
+            if skip_reason:
+                print(f"  [deploy] Skipping push: {skip_reason}")
+                return None
+
             tmp_dir = Path(tempfile.mkdtemp(prefix="macro-flux-deploy-", dir="/private/tmp"))
             worktree = tmp_dir / "repo"
             subprocess.run(["git", "-C", str(repo), "worktree", "add", "--detach", str(worktree), "origin/main"],
@@ -2474,16 +2596,20 @@ def deploy_to_github_pages(report_md, window_end, briefing_type="morning"):
                                     capture_output=True, timeout=20)
             if result.returncode == 1:
                 print("  [deploy] No changes to commit")
-                return
+                return None
             if result.returncode != 0:
                 print(f"  [deploy] ⚠️ Commit failed: {result.stderr.decode()[:200]}")
-                return
+                return None
+
+            commit_sha = subprocess.run(["git", "-C", str(worktree), "rev-parse", "HEAD"],
+                                        capture_output=True, text=True, timeout=10)
+            pushed_sha = commit_sha.stdout.strip() if commit_sha.returncode == 0 else None
 
             push = subprocess.run(["git", "-C", str(worktree), "push", "origin", "HEAD:main"],
                                   capture_output=True, timeout=300)
             if push.returncode == 0:
                 print(f"  [deploy] ✅ {GITHUB_PAGES_URL}")
-                return
+                return pushed_sha
             print(f"  [deploy] ⚠️ Push attempt {attempt} failed: {push.stderr.decode()[:200]}")
         except Exception as e:
             print(f"  [deploy] ⚠️ Deploy attempt {attempt} failed: {e}")
@@ -2501,6 +2627,7 @@ def deploy_to_github_pages(report_md, window_end, briefing_type="morning"):
             time.sleep(2)
 
     print("  [deploy] ⚠️ Deploy failed after retry")
+    return None
 
 
 def save_report(markdown, window_start, window_end, briefing_type="morning"):
@@ -2648,6 +2775,7 @@ def send_briefing_email(report_md, report_name, briefing_type, report_path=None,
     msg["From"] = smtp_from
     msg["To"] = ", ".join(recipients)
     msg["Subject"] = subject
+    msg["X-Macro-Flux-Report-ID"] = report_name.replace(".md", "")
     body_text = "\n".join(body_parts)
     msg.set_content(body_text)
     msg.add_alternative(_markdown_email_html(email_report_md, "Macro Flux " + label + " Briefing - " + report_name), subtype="html")
@@ -2742,12 +2870,15 @@ def _clear_run_timeout():
 def main():
     _load_env_from_claude_config()
     _arm_run_timeout()
+    run_started_monotonic = time.monotonic()
+    actual_start_hkt = _hkt_now_iso()
 
     # Parse --from / --to / --morning / --afternoon / --overnight (deprecated alias)
     from_arg = None
     to_arg = None
     morning = False
     afternoon = False
+    force_rerun = False
     args = sys.argv[1:]
     i = 0
     while i < len(args):
@@ -2759,6 +2890,8 @@ def main():
             morning = True; i += 1
         elif args[i] == "--afternoon":
             afternoon = True; i += 1
+        elif args[i] == "--force-rerun":
+            force_rerun = True; i += 1
         else:
             i += 1
 
@@ -2800,21 +2933,50 @@ def main():
     window_end_str = window_end.strftime("%Y-%m-%d %H:%M")
 
     explicit_window = bool(from_arg and to_arg)
-    report_date = window_end.date() if briefing_type == "morning" else window_start.date()
-    report_name = f"{report_date:%Y-%m-%d}-{briefing_type}.md"
-    existing_report_paths = [
-        OUTPUT_DIR / report_name,
-        GITHUB_PAGES_REPO / "docs" / "past" / report_name,
-    ]
-    if not explicit_window and any(path.exists() and path.stat().st_size > 0 for path in existing_report_paths):
-        print(f"[macro-flux {briefing_type}] {report_name} already exists; skipping automatic backup run.")
+    report_id = _report_id_for(window_start, window_end, briefing_type)
+    report_name = f"{report_id}.md"
+    target_file = _remote_report_target(report_id)
+    audit = {
+        "scheduled_mode": briefing_type,
+        "trigger": os.environ.get("GITHUB_EVENT_NAME", "local"),
+        "event_schedule": os.environ.get("GITHUB_EVENT_SCHEDULE", ""),
+        "report_id": report_id,
+        "target_file": target_file,
+        "window": {
+            "from_hkt": window_start_str,
+            "to_hkt": window_end_str,
+            "explicit": explicit_window,
+        },
+        "actual_start_hkt": actual_start_hkt,
+        "generation_end_hkt": None,
+        "total_duration": None,
+        "model_name": MODEL,
+        "commit_sha": None,
+        "result": "started",
+        "skip_reason": "",
+        "remote_target_exists": None,
+        "force_rerun": force_rerun,
+    }
+
+    remote_check = check_remote_report_exists(report_id, repo=GITHUB_PAGES_REPO, fetch=True)
+    skip_reason = _remote_skip_reason(remote_check, force_rerun)
+    audit["remote_target_exists"] = remote_check["exists"]
+    _log_remote_check(remote_check, force_rerun, skip_reason, stage="pre_generate")
+    if skip_reason:
+        print(f"[macro-flux {briefing_type}] Skipping before fetch/LLM: {skip_reason}")
+        _write_run_audit(audit, run_started_monotonic, result="skipped", skip_reason=skip_reason)
         _clear_run_timeout()
+        if remote_check["result"] == "error":
+            sys.exit(4)
         return
 
     print(f"[macro-flux {briefing_type}] {window_start_str} → {window_end_str} (HKT)")
     print("=" * 60)
     write_json_artifact("run_context.json", {
         "briefing_type": briefing_type,
+        "report_id": report_id,
+        "target_file": target_file,
+        "force_rerun": force_rerun,
         "window_start_hkt": window_start_str,
         "window_end_hkt": window_end_str,
         "model": MODEL,
@@ -2840,6 +3002,7 @@ def main():
         )
         print(f"  [error] {msg}", file=sys.stderr)
         write_text_artifact("fetch_quality_gate.txt", msg + "\n")
+        _write_run_audit(audit, run_started_monotonic, result="failed", skip_reason="fetch_quality_gate")
         sys.exit(2)
 
     # Fetch TradingEconomics economic calendar (next 24h events with consensus/prior)
@@ -2874,7 +3037,20 @@ def main():
         msg = "LLM failed to produce a complete briefing after retries; aborting instead of publishing a partial report."
         print(f"  [error] {msg}", file=sys.stderr)
         write_text_artifact("incomplete_report_abort.txt", msg + "\n")
+        _write_run_audit(audit, run_started_monotonic, result="failed", skip_reason="llm_incomplete")
         sys.exit(3)
+
+    remote_check = check_remote_report_exists(report_id, repo=GITHUB_PAGES_REPO, fetch=True)
+    skip_reason = _remote_skip_reason(remote_check, force_rerun)
+    audit["remote_target_exists"] = remote_check["exists"]
+    _log_remote_check(remote_check, force_rerun, skip_reason, stage="pre_output")
+    if skip_reason:
+        print(f"[macro-flux {briefing_type}] Stopping before save/deploy: {skip_reason}")
+        _write_run_audit(audit, run_started_monotonic, result="skipped", skip_reason=skip_reason)
+        _clear_run_timeout()
+        if remote_check["result"] == "error":
+            sys.exit(4)
+        return
 
     # Parse macro state update from LLM output (strip before publishing)
     if report and "<state_update>" in report:
@@ -2914,6 +3090,7 @@ def main():
         _assert_report_complete(report, "post_validation", require_state_update=False)
     except ValueError as e:
         print(f"  [error] {e}", file=sys.stderr)
+        _write_run_audit(audit, run_started_monotonic, result="failed", skip_reason="post_validation")
         sys.exit(3)
 
     # Stage 3: Save + Deploy
@@ -2926,9 +3103,14 @@ def main():
     report_name = path.name
     if os.environ.get("GITHUB_ACTIONS") == "true":
         print("  [deploy] GitHub Actions will commit and deploy this report")
+        _write_run_audit(audit, run_started_monotonic, result="generated")
     else:
-        deploy_to_github_pages(report, window_end, briefing_type)
-        send_briefing_email(report, report_name, briefing_type, path)
+        commit_sha = deploy_to_github_pages(report, window_start, window_end, briefing_type, force_rerun=force_rerun)
+        if _env_flag("SEND_EMAIL_LOCALLY", False):
+            send_briefing_email(report, report_name, briefing_type, path)
+        else:
+            print("  [email] Local email disabled; GitHub email workflow is the delivery owner.")
+        _write_run_audit(audit, run_started_monotonic, result="generated", commit_sha=commit_sha)
 
     _clear_run_timeout()
     print("\nDone.")
