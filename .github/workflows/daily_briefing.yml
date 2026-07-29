@@ -46,7 +46,9 @@ concurrency:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    # App hard timeout is RUN_TIMEOUT_SECONDS=4200 (70m); the job keeps
+    # enough outer buffer for logs, commit, Pages deploy, and cleanup.
+    timeout-minutes: 90
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -180,8 +182,23 @@ jobs:
           if-no-files-found: ignore
           retention-days: 14
 
-      - name: Commit and push
+      - name: Remote idempotency guard before commit
+        id: prepush
         if: steps.existing.outputs.skip != 'true'
+        env:
+          REPORT_PATH: docs/past/${{ steps.type.outputs.target_date }}-${{ steps.type.outputs.label }}.md
+        run: |
+          set -euo pipefail
+          git fetch --prune origin
+          if git cat-file -e "origin/main:${REPORT_PATH}" 2>/dev/null; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            echo "Remote report already exists at ${REPORT_PATH}; skipping commit/push/deploy/email."
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit and push
+        if: steps.existing.outputs.skip != 'true' && steps.prepush.outputs.skip != 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -190,54 +207,23 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Auto-generate ${{ steps.type.outputs.label }} briefing for ${{ steps.type.outputs.target_date }}"
+            echo "commit_sha=$(git rev-parse HEAD)"
             git push origin main
           fi
 
       - name: Build site
-        if: steps.existing.outputs.skip != 'true'
+        if: steps.existing.outputs.skip != 'true' && steps.prepush.outputs.skip != 'true'
         run: |
           pip install mkdocs-material mkdocs-callouts
           mkdocs build
 
       - name: Upload GitHub Pages artifact
-        if: steps.existing.outputs.skip != 'true'
+        if: steps.existing.outputs.skip != 'true' && steps.prepush.outputs.skip != 'true'
         uses: actions/upload-pages-artifact@v3
         with:
           path: site
 
       - name: Deploy to GitHub Pages
-        if: steps.existing.outputs.skip != 'true'
+        if: steps.existing.outputs.skip != 'true' && steps.prepush.outputs.skip != 'true'
         id: deployment
         uses: actions/deploy-pages@v4
-
-      - name: Send email notification
-        if: steps.existing.outputs.skip != 'true'
-        env:
-          BRIEFING_EMAIL_RECIPIENTS: ${{ secrets.BRIEFING_EMAIL_RECIPIENTS }}
-          SMTP_HOST: ${{ secrets.SMTP_HOST }}
-          SMTP_PORT: ${{ secrets.SMTP_PORT }}
-          SMTP_USER: ${{ secrets.SMTP_USER }}
-          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
-          SMTP_FROM: ${{ secrets.SMTP_FROM }}
-          SMTP_STARTTLS: ${{ secrets.SMTP_STARTTLS }}
-          SMTP_USE_SSL: ${{ secrets.SMTP_USE_SSL }}
-          REPORT_PATH: docs/past/${{ steps.type.outputs.target_date }}-${{ steps.type.outputs.label }}.md
-          BRIEFING_LABEL: ${{ steps.type.outputs.label }}
-          PAGE_URL: ${{ steps.deployment.outputs.page_url }}
-        run: |
-          python - <<'PY'
-          import os
-          from pathlib import Path
-          import morning_briefing as mb
-
-          path = Path(os.environ["REPORT_PATH"])
-          report = path.read_text(encoding="utf-8")
-          ok = mb.send_briefing_email(
-              report,
-              path.name,
-              os.environ["BRIEFING_LABEL"],
-              path,
-              website_url=os.environ.get("PAGE_URL") or mb.GITHUB_PAGES_URL,
-          )
-          raise SystemExit(0 if ok else 1)
-          PY
