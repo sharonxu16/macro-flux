@@ -1,23 +1,24 @@
-# Macro State — Last updated: 2026-07-30
+# Macro State — Last updated: 2026-07-29
 
-## Active Narratives
-- **Iran Military Escalation** — Acceleration; US launches fresh strikes inside Iran and a drone hits a gas tanker in Egypt’s Mediterranean port, expanding the conflict beyond the Gulf and breaking fragile diplomacy. Next trigger: any Hormuz closure threat or physical supply disruption within 24‑48h.
-- **Split FOMC Deepens Hawkish Hold** — New; the 9‑3 vote with three hawks dissenting in favor of a hike marks the deepest hawkish split in a decade, pushing 30‑year UST yields through `5.2%` and crystallizing a Policy Inertia meets Iran‑fueled inflation narrative. Next trigger: any Warsh speech or FOMC leak signaling a September hike.
-- **Korea Tech Rout Triggers Regulatory Crackdown** — Acceleration; the FT reports regulators are limiting access to leveraged ETFs after the Kospi fell by a third this month, validating the systemic-risk watchpoint. Next trigger: Bank of Korea Business Survey and ESI release later today.
-- **Global Risk‑Off with Bear Steepening** — Confirmation; the combination of a prolonged Iran war, hawkish Fed dissent, and forced deleveraging in Asian tech is tightening global financial conditions and sending long‑end yields to multi‑decade highs.
+## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
+- **Iran surprise missile attack escalates Hormuz risk** — Status: New; direct U.S.-Iran military confrontation re‑opens energy chokepoint and safe‑passage premiums; next trigger: U.S. retaliation and any shipping disruption.
+- **Global AI/chip sell‑off deepens as Nasdaq briefly corrects** — Status: New/Acceleration; Nvidia CDS surge and broad rotation out of semis threaten Asian chip‑export currencies and AI‑capex funding; next trigger: Big Tech earnings and Nvidia CDS moves.
+- **Pre‑FOMC positioning reaches record, consumer confidence slips** — Status: Acceleration; all‑time high Fed‑futures open interest and falling confidence raise the stakes for Wednesday’s decision; next trigger: FOMC decision and Warsh press conference.
+- **Singapore MAS flags AI boom as major uncertainty for Asia** — Status: Confirmation; MAS chief highlights inflation/growth trade‑off from AI dependence, reinforcing Asian export vulnerability; next trigger: any BOK/BSP hawkish/dovish response.
 
-## Watchpoints
-- Any Iranian threat to close the Strait of Hormuz or attack on additional energy infrastructure outside the Gulf within 24‑48h.
-- FOMC‑related leak or explicit Warsh guidance on a September hike in the next 72h.
-- Kospi circuit breaker triggers and KRW intervention as Korea’s leveraged-ETF restrictions take effect.
-- US EIA inventory data for a second consecutive larger‑than‑expected draw adding to supply‑shock momentum.
-- Any Saudi‑led Red Sea coalition announcement that materially shifts shipping risk.
+## Watchpoints (max 5 — concrete 24‑72h triggers; remove resolved)
+- U.S. military retaliation against Iran and Red Sea transit conditions.
+- Nasdaq futures and chip‑stock stabilization after Apple’s $5T milestone and ongoing earnings.
+- FOMC decision and Chair Warsh’s post‑meeting communication.
+- Any central bank (PBOC, BOJ, BOK) statements responding to oil spike and tech rout.
+- TSMC plant recovery from Japan quake and supply‑chain ripple.
 
-## Open Questions
-- Will a September Fed hike signal a full capitulation on inflation and trigger a disorderly unwind in EM Asia FX, particularly KRW and TWD?
-- Can Korea’s regulatory circuit breakers stabilize the Kospi without direct fiscal intervention, given the scale of leveraged losses?
-- Does the Mediterranean drone strike mark a permanent expansion of the Iran conflict zone, sustaining oil above `$125/bbl`?
+## Open Questions (max 3 — only unresolved questions that affect positioning)
+- Will the Iran attack trigger sustained oil supply disruption through Hormuz?
+- Can tech earnings halt the AI sell‑off, or does it accelerate into systemic credit stress?
+- Does a Fed hold ignite a risk rally or merely delay a reckoning?
 
-## Key Levels
-- `5.2%` US 30‑year Treasury yield: breached for the first time since 2007 after the FOMC hold, per WallstreetCN and BBG; a sustained close above this level signals a structural bear‑steepening regime and tighter global financial conditions.
-- `$125/bbl` Brent: referenced implicitly in the India fiscal‑risk warning and the near‑`8%` oil surge; a close above this on a Hormuz disruption threat would represent a new supply‑shock regime.
+## Key Levels (max 5 — only with today’s source citations; include asset and why the level matters)
+- Nasdaq 100 entering correction territory (~10% from peak) — psychological threshold that could unlock further systematic selling ([FT](https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae)).
+- Apple market cap briefly above $5 trillion — flight‑to‑quality threshold rotating capital out of semiconductors ([Reuters](https://news.google.com/rss/articles/CBMizAFBVV95cUxNbUZmRGhDbU9sZWNKNm4zU1JTVmNubzllUjF5UnhTREUtbzVHV2FyNzZUMHhfZjItUTh6THB4TDVqRHFHc2tTUkFGSTlqSG1LWmFWS2E0ZFk0bm51RE1wMjQ0X09FdlBvOGVoTGpUUmp5cjZfRG1UM01fSTd4MUdLSWZJMVBoOWRxWExNT1JUaUJWTnZtVGFaMWFKMlB5cVVEQlVFVVFIbWs0ZFlHdlhrZEw0MFd0NUs1UmV3ZWxNZlVxdC03dF94cm9MOGY)).
+- US consumer confidence `90.8` — below‑consensus drop signalling labor‑market anxiety ahead of FOMC ([BBG](https://www.bloomberg.com/news/articles/2026-07-28/us-consumer-confidence-falls-as-business-conditions-worsen)).
