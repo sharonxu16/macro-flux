@@ -1,25 +1,25 @@
-# Macro State — Last updated: 2026-07-30
+# Macro State — Last updated: 2026-07-31
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **US-Iran war escalates with strikes inside Iran and Hormuz disruption** — Status: Acceleration; kinetic strikes on IRGC targets, Iran retaliation threats, first LNG tanker exit in weeks, and Shell's `$9.8B` profit confirm physical supply disruption is deepening; next trigger: US-Iran negotiations via Pakistan and any additional tanker transits.
-- **Fed "hawkish hold" triggers bond market tightening** — Status: New; the FOMC held rates but long-end yields surged to 19-year high, with PGIM forecasting three September hikes and bond investors rotating out of Treasuries; next trigger: US Core PCE and GDP data today validating or challenging the stagflation impulse.
-- **China Politburo signals limited stimulus appetite** — Status: New; Politburo calls for "pragmatic incremental policies" but WSJ and FT flag restraint, while Chinese stocks head for worst month in a decade; next trigger: concrete fiscal announcement before October plenum.
-- **Global AI/semiconductor sell-off deepens in Asia** — Status: Acceleration; Kospi at cheapest valuation ever after record `34%` July plunge, `$2T` rout, Innolight HK debut falls `2%`, SK Hynix shares drop; next trigger: Microsoft capex read-through and Korea industrial production data.
+- **Fed hawkish hold triggers bond-market rebellion** — Status: Acceleration; Warsh’s ambiguous guidance erodes credibility, pushing long-end yields to 19‑year highs; next trigger: US employment cost index and Michigan sentiment data today.
+- **Iran war escalates with first drone strike on Egypt, threatening Suez** — Status: Acceleration; widening of conflict beyond Hormuz to Suez energy transit; next trigger: further attacks or shipping disruptions near Damietta/Suez within 48h.
+- **Japan intervenes in yen ahead of BOJ; intervention and policy converge** — Status: New; pre‑BOJ yen defence creates a powerful FX/policy nexus; next trigger: BOJ decision and governor remarks today.
+- **AI/semiconductor trade revives on Microsoft capex beat** — Status: Reversal; Korean equities surge record 14%, Microsoft adds record market cap; next trigger: further tech earnings and capex guidance.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- US-Iran talks via Pakistan and any additional Hormuz transits within 48h.
-- US Core PCE and GDP advance release (Jul 30 8:30 PM HKT) as stagflation confirmation trigger.
-- BOE rate decision (Jul 30 7:00 PM HKT) and BOJ meeting (Jul 31) for global rate-path signals.
-- Kremlin/NATO response to apparent Russian missile landing in eastern Poland.
-- Kospi stabilization or further capitulation; Korea Jul industrial production data.
+- US employment cost index and Michigan consumer sentiment (Jul 31) — stagflation confirmation or reprieve.
+- BOJ interest rate decision and press conference (Jul 31) — hawkish signal would amplify yen strength.
+- Any further drone or naval incidents targeting Egyptian gas infrastructure or Suez Canal transit.
+- Kospi’s ability to sustain the rebound — follow‑through in SK Hynix and broader tech.
+- US 30‑year yield breaking above `5.2%` — signal that the bond sell‑off is accelerating.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will Iran strikes escalate to sustained Hormuz closure, or does the QatarEnergy tanker exit signal a tentative reopening?
-- Can the bond market's tightening substitute for Fed hikes, or does it force a September move?
-- Does China's incremental stimulus approach risk a sharper growth undershoot that eventually forces a policy pivot?
+- Will the bond market’s tightening force a September Fed hike despite political pushback?
+- Can the Iran war expand to materially disrupt Suez Canal traffic, or does it remain isolated to Damietta?
+- Does the AI revival signal a durable rotation back into tech, or is it a short‑covering bounce?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- US borrowing costs at 19-year high — reflects bond market preemptively tightening financial conditions as the Fed holds ([FT](https://www.ft.com/content/c4eedbe8-6345-48b6-8d44-5cc5b0bea2c7)).
-- Shell Q2 profit `$9.8 billion` — second-highest on record, confirming the oil supply disruption is translating into extraordinary energy sector earnings ([FT](https://www.ft.com/content/dacf0dba-702a-400f-b534-f73011052b1d), [Reuters](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOVlEVkZ5c0ZFc3F3cjhHdllWWFNMNlAzR3VKVGR3cTFGQU11UUFJbWNzemJBLTIwX0lwWHBydVBySkUzS2dQQXJlZGpFRTNEdGljNENnaXNZQmQ0blUzejRLU3dsRlpLeExXZkJHdUlBcGlqZ3EyeFRIS2toSUdsbmpmTzh1eHJyODF4M2VtZi02ZHR3N2F5Sjd6Rk9nbXl1TmVrZWk1UXkwUHAxZjVZ)).
-- Kospi at cheapest valuation ever after July's record `34%` plunge — extreme equity risk premium in Asia's most tech-exposed benchmark ([BBG](https://www.bloomberg.com/news/articles/2026-07-30/korean-stocks-record-rout-fails-to-tempt-global-investors)).
-- Saudi GDP deepest quarterly contraction since Covid-19 — quantifies the economic damage of Iran war on Gulf oil producers ([BBG](https://www.bloomberg.com/news/articles/2026-07-30/saudi-economy-shrinks-most-since-2020-as-war-roils-oil-exports)).
+- US 30‑year Treasury yield near `5.2%` — 19‑year high, reflecting term‑premium surge as Fed credibility wanes ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rTjFoN3EyVGl1ZzFZbTBIeFRieEk3N3JkSnJPVWFmUmNJZ2UxSl9zNlJVRnhra1RkOTFEZWJCZHhOUnpoMTBTaUZBQW4tVVNseVBJ), [Investing](https://www.investing.com/news/forex-news/euro-yields-firm-as-middle-east-war-and-fed-ambiguity-stoke-inflation-fears-4822455)).
+- USD/JPY plunges to two‑month low — intervention‑driven yen strength ahead of BOJ ([WSJ](https://news.google.com/rss/articles/CBMivgFBVV95cUxNZlltcnc0VlJZMWNRZTZMb2lWX1gyZnhuT3VvUDAweXhvSHlCSWZRT2t5TU5TY2NrWlhVNFZLSF9hVUw4MXpkYkF6RXdua0pnckp5cE12dU1CMnZtWW9rVXhmOFVONzZIcnAzU3E3UWVyLW5MUUxaMHVxV3Y1QjZRQWpiOWhORFlRNWZFa1Bhek02OHdYSHNBbkVJR3cyVGk0WmpDaFhzeFdZOXI1X0JERHpSS2dnX0pieEtPZ3BB)).
+- Kospi surges record `14%` — extreme reversal from cheapest valuation ever, driven by AI trade revival ([BBG](https://www.bloomberg.com/news/articles/2026-07-30/sk-hynix-shares-surge-in-seoul-on-us-peer-rally-chey-purchase)).
+- Oil on track for biggest monthly gain since March — Iran‑war risk premium building ([BBG](https://www.bloomberg.com/news/articles/2026-07-30/latest-oil-market-news-and-analysis-for-july-31)).
