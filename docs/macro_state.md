@@ -1,20 +1,21 @@
-# Macro State — Last updated: 2026-07-31
+# Macro State — Last updated: 2026-08-01
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **BOJ holds steady but hawkish guidance and dissenting vote cement September hike expectations** — Status: New; hawkish signals strengthen the yen and challenge the dollar’s carry advantage; next trigger: US employment cost index and Michigan sentiment data today.
-- **Iran war escalates as IRGC strikes US bases in Kuwait and Bahrain** — Status: Acceleration; direct attacks on Gulf states raise the risk of oil‑infrastructure damage and Hormuz transit disruption; next trigger: further attacks on oil facilities or shipping in the northern Gulf.
-- **China’s factory PMI contracts, adding to growth doubts and PBOC easing pressure** — Status: New; first contraction in five months signals a demand shortfall that could drag on Asia exports and RMB; next trigger: Caixin services PMI and July trade data.
-- **AI‑driven tech rally accelerates as Korean chips surge on capex optimism** — Status: Acceleration; the relief rally extends but remains vulnerable to any earnings disappointment or a broader risk‑off; next trigger: further tech earnings and Kospi follow‑through.
+- **Iran war escalates into direct energy infrastructure threat as Trump orders strikes, Hormuz stops** — Status: Acceleration; energy supply at risk, oil price surge; next trigger: strikes on energy facilities or new Hormuz transit halt.
+- **Fed dissenters demand rate hikes now, bond sell-off signals credibility strain** — Status: New; hawkish dissent challenges hold narrative, supports higher yields and USD; next trigger: any Fedspeak hinting at a hike at next meeting.
+- **Coordinated US-Japan yen intervention deepens to historic $53B** — Status: Acceleration; joint backing strengthens yen, alters fx dynamics; next trigger: official US confirmation of joint intervention or yen pierces prior lows.
+- **Eurozone CPI at 2.9% solidifies ECB September hike expectations** — Status: Confirmation; adds to global tightening, supports euro; next trigger: ECB speeches ahead of September meeting.
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- US employment cost index and Michigan consumer sentiment (today) — stagflation relief or intensification.
-- Any IRGC or Houthi attacks on Kuwaiti/Bahraini oil infrastructure or new tanker strikes.
-- BOJ Governor Ueda’s subsequent remarks clarifying the pace of rate hikes.
-- Caixin services PMI and July Chinese export data — will the trade engine stall further?
-- Kospi’s ability to hold the gains above the 20‑day moving average and whether foreign investors turn net buyers.
+- Any strike on Iranian oil infrastructure or additional Hormuz vessel interceptions.
+- Fed speakers’ guidance on whether September hold is still the baseline or a hike is now in play.
+- Official US Treasury statement on yen intervention and its extent.
+- ECB officials’ comments on the magnitude of the expected September rate move.
+- South Korea July trade data release (exports/imports/balance) — impact on KRW and tech sentiment.
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will the combination of war‑driven energy shocks and hawkish Fed/ECB push the global economy into stagflation?
-- Can the AI capex cycle survive tightening financial conditions and a potential broad recession?
-- Will China’s leadership respond to the PMI contraction with a new fiscal impulse before the August Politburo meeting follow‑through?
+- Will the dual shock of military escalation and hawkish Fed tighten financial conditions enough to stall the AI-led equity rally?
+- Can the coordinated yen intervention reverse the long-dollar carry trade already entrenched in Asia FX?
+- Will China respond to reduced crude imports and growth headwinds with new fiscal or monetary easing before the August follow-through?
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- USD/JPY `159` — post‑BOJ and post‑intervention, the pair’s failure to break below this level signals a market reassessment of a September hike ([WallstreetCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LTW9MX3BFLWh5LXI2RVFENHE1RkpyYjhELWJfaGZiOUw2bW5sUGsxUXNfMHVzeXJvQ0d1RWdIeUlpeHNnVEpyaktYX2hWbTRva2o0)).
-- Brent crude — trajectory driven by Iran strikes and Suez fears; a close above the prior month’s high would accelerate the risk‑premium build ([BBG](https://www.bloomberg.com/news/articles/2026-07-31/european-gas-prices-poised-for-biggest-monthly-gain-since-march)).
+- Brent crude — trajectory driven by Iran strikes and Hormuz stops; a close above the prior month’s high would accelerate risk-premium build (today’s FT/Reuters).
+- USD/JPY — post-intervention, the pair’s move below `159` signals coordinated pushback; failure to break below would expose intervention fatigue (BBG/FT).
+- 30-year Treasury yield — printed above `5.27%`, reflecting inflation and credibility repricing; sustained break higher would tighten conditions further (WSJCN).
