@@ -1,21 +1,22 @@
 # Macro State — Last updated: 2026-08-02
 
-## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Iran war escalates into direct energy infrastructure threat as Hormuz LNG tanker struck and Iran threatens to hit other nations’ energy fields** — Status: Acceleration; energy supply at risk, oil price surge; next trigger: strikes on energy facilities or additional vessel interceptions.
-- **Coordinated US-Japan yen intervention deepens to historic US Treasury action selling euros to buy yen** — Status: Acceleration; joint backing strengthens yen, alters Asia FX dynamics; next trigger: official US-Japan confirmation of intervention size and duration.
-- **Korean retail rebellion erupts as Kospi rout sparks mass anger and vow to dump stocks** — Status: New; threatens capital outflows and won weakness, amplifying equity stress; next trigger: further selling intensity and any official BOK/FSC stabilization response.
-- **Fed communication credibility gap widens under Warsh’s silence, stoking volatility** — Status: Confirmation; inflation fight enters harder phase with less guidance, supports higher yields and USD; next trigger: any Fedspeak hinting at a hiking bias or explicit September decision.
-## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- Strikes on Iranian or Gulf state oil infrastructure, or additional attacks on tankers in Hormuz.
-- Size and duration of historic yen intervention disclosed by Treasury/BOJ.
+## Active Narratives (max 4)
+- **Iran war de-escalates sharply as Trump holds off strikes and claims “deal perimeters” reached** — Status: Reversal; sudden peace bid slashes the morning’s energy-infrastructure fear premium; next trigger: formal ceasefire or deal framework text.
+- **Coordinated US-Japan-Korea FX intervention expands into tripartite defense of Asian currencies** — Status: Acceleration; US Treasury joins Japan and Korea directly, dialing up the policy put under KRW and JPY; next trigger: official confirmation of size and scope.
+- **PBOC pivots explicitly dovish, caps H2 agenda with “timely adjustment” and forceful domestic-demand support** — Status: New; language shift signals imminent easing, aligning with global risk-on pivot; next trigger: MLF or RRR announcement in August.
+- **Korean retail rebellion deepens as Kospi rout triggers mass vow to dump stocks** — Status: Confirmation; retail anger entrenches equity outflows and won weakness; next trigger: official BOK or FSC stabilization measures.
+## Watchpoints (max 5)
+- Written Iran ceasefire framework or joint statement within 24h.
+- Size and official disclosure of coordinated US-Japan-Korea FX intervention.
+- PBOC MLF rate cut, RRR reduction, or equivalent easing measure in August.
 - Kospi stabilization or further retail capitulation and any fiscal/regulatory response.
-- Fed speakers’ guidance on whether the September hold remains the baseline or a hike is being telegraphed.
-- July US jobs data (BBG preview suggests job growth picking up after disappointing June).
-## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will the dual shock of military escalation and hawkish Fed tighten financial conditions enough to stall the AI-led equity rally?
-- Can the coordinated yen intervention reverse the entrenched long-dollar carry trade in Asia FX?
-- Will China respond to reduced crude imports and growth headwinds with new fiscal or monetary easing before the August follow-through?
-## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- Brent crude — propelled higher by Hormuz shipping disruption and supply fears (today’s BBG, Reuters).
-- USD/JPY — drops sharply below prior thresholds as the US Treasury’s historic euro-selling intervention reinforces yen strength (FT).
-- Kospi — steep decline triggers rare retail rebellion, signaling potential forced-deleveraging in Korean equities (BBG).
+- Fed Warsh communication at or before Jackson Hole confirming September hike/hold stance.
+## Open Questions (max 3)
+- Will the sudden Iran de-escalation hold long enough to allow a sustained decline in oil volatility and a risk-asset rebound?
+- Can the tripartite FX intervention definitively break the long-dollar carry trade in Asia?
+- Will PBOC’s dovish words translate into concrete policy easing before the August data prints?
+## Key Levels (max 5)
+- **Brent crude** — retracing sharply on Trump’s cancellation of Iran strikes, with the market pricing out a supply disruption premium (SCMP, BBG).
+- **USD/JPY** — dropping aggressively on the disclosed tripartite intervention by the US Treasury, Japan, and Korea (WallstreetCN).
+- **CNH** — stabilizing on PBOC’s explicit H2 easing signal and dovish policy tilt (WallstreetCN).
+- **Kospi** — remains fragile as retail investors rip leadership and vow not to buy, sustaining downside pressure on the index (BBG).
