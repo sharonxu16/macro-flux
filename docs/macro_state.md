@@ -1,21 +1,21 @@
-# Macro State — Last updated: 2026-08-01
+# Macro State — Last updated: 2026-08-02
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Hormuz chokepoint under direct threat: tankers attacked, US/Israel plan energy strikes** — Status: Acceleration; kinetic disruption expands from military to commercial vessels, forcing supply chain rewiring; next trigger: strikes on energy facilities or additional vessel attacks.
-- **US-Japan coordinated intervention deepens: Treasury joins BOJ with direct yen purchases** — Status: Acceleration; US Treasury moves from tacit approval to active purchases, signaling a shift in dollar policy; next trigger: US official confirmation of scale or sustained yen move below intervention levels.
-- **Fed credibility crisis: hawkish dissenters warn inaction risks aggressive future hikes** — Status: Confirmation; Musalem's explicit warning validates the bond market's repricing of inflation credibility; next trigger: any FOMC member hinting at a rate hike at the next meeting.
-- **Global central banks hold rates amid energy-driven inflation risks** — Status: Confirmation; coordinated hold cycle reflects uncertainty over the oil shock transmission; next trigger: shift in guidance from any major central bank.
+- **Iran war escalates into direct energy infrastructure threat as Hormuz LNG tanker struck and Iran threatens to hit other nations’ energy fields** — Status: Acceleration; energy supply at risk, oil price surge; next trigger: strikes on energy facilities or additional vessel interceptions.
+- **Coordinated US-Japan yen intervention deepens to historic US Treasury action selling euros to buy yen** — Status: Acceleration; joint backing strengthens yen, alters Asia FX dynamics; next trigger: official US-Japan confirmation of intervention size and duration.
+- **Korean retail rebellion erupts as Kospi rout sparks mass anger and vow to dump stocks** — Status: New; threatens capital outflows and won weakness, amplifying equity stress; next trigger: further selling intensity and any official BOK/FSC stabilization response.
+- **Fed communication credibility gap widens under Warsh’s silence, stoking volatility** — Status: Confirmation; inflation fight enters harder phase with less guidance, supports higher yields and USD; next trigger: any Fedspeak hinting at a hiking bias or explicit September decision.
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- Any confirmed US/Israeli strikes on Iranian energy facilities or new Hormuz vessel interceptions.
-- Official US Treasury statement on the scale and rationale for yen purchases.
-- Further Fed speakers addressing the bond market selloff and whether it alters the policy path.
-- South Korea July trade data full breakdown impact on KRW and tech sector sentiment.
-- Indian Oil Corp. and other major Asian refiners announcing further spot market crude purchases.
+- Strikes on Iranian or Gulf state oil infrastructure, or additional attacks on tankers in Hormuz.
+- Size and duration of historic yen intervention disclosed by Treasury/BOJ.
+- Kospi stabilization or further retail capitulation and any fiscal/regulatory response.
+- Fed speakers’ guidance on whether the September hold remains the baseline or a hike is being telegraphed.
+- July US jobs data (BBG preview suggests job growth picking up after disappointing June).
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will the dual shock of oil supply disruption and hawkish Fed tightening stall the AI-led equity rally and tighten financial conditions globally?
-- Can the coordinated US-Japan yen intervention reverse the long-dollar carry trade entrenched in Asia FX?
-- Will China respond to the external oil shock and slowing demand with new fiscal or monetary stimulus before the August follow-through?
+- Will the dual shock of military escalation and hawkish Fed tighten financial conditions enough to stall the AI-led equity rally?
+- Can the coordinated yen intervention reverse the entrenched long-dollar carry trade in Asia FX?
+- Will China respond to reduced crude imports and growth headwinds with new fiscal or monetary easing before the August follow-through?
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- Brent crude — trajectory driven by Iran energy strikes and Hormuz tanker attacks; sustained break above prior month's highs would signal a new risk-premium regime (FT/Reuters).
-- USD/JPY — intervention-driven move; ability to sustain below `159` signals coordinated commitment; failure to hold would indicate intervention fatigue (BBG/FT).
-- 30-year Treasury yield — sustained break above `5.27%` signals a deeper inflation credibility repricing, tightening conditions further (WSJCN).
+- Brent crude — propelled higher by Hormuz shipping disruption and supply fears (today’s BBG, Reuters).
+- USD/JPY — drops sharply below prior thresholds as the US Treasury’s historic euro-selling intervention reinforces yen strength (FT).
+- Kospi — steep decline triggers rare retail rebellion, signaling potential forced-deleveraging in Korean equities (BBG).
