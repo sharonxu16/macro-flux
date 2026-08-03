@@ -1,0 +1,3 @@
+Manual resend trigger for docs/past/2026-08-03-morning.md morning.
+Requested via Codex on 2026-08-03 HKT.
+No secrets or report content are stored here.
