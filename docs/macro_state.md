@@ -1,25 +1,26 @@
 # Macro State — Last updated: 2026-08-03
 
-## Active Narratives
-- **Iran de-escalation accelerates into formal talks** — Status: Acceleration; Trump calls off strikes, Gulf states broker talks, oil risk premium collapses. Next trigger: Monday talks progress or Hormuz transit clarity.
-- **US-Japan-Korea tripartite FX intervention confirmed with direct US Treasury purchases** — Status: Confirmation; US directly buys yen, Japan vows further action; the intervention now has explicit US financial backing. Next trigger: disclosure of intervention size and any follow-up this week.
-- **Fed internal dissent pushes September rate hike onto the table** — Status: New; three voting members formally dissent, breaking Warsh’s hold consensus; market reprices September tightening. Next trigger: Warsh speech at Jackson Hole or FOMC minutes.
-- **Won rally turns Kospi rout exporters under pressure** — Status: Acceleration; won’s best month in July extends into Monday crash of Kospi `6301.87`, exporter sell-off intensifies. Next trigger: BOK/FSC verbal or actual intervention to slow won and stabilise equities.
+## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
+- **Iran war de-escalation: Trump calls off strikes, talks to begin Monday** — Status: Reversal; oil supply fears recede, easing energy-driven inflation, supporting risk assets; next trigger: talks progress and any new Hormuz disruptions.
+- **Coordinated US-Japan yen intervention deepens with Treasury euro sales** — Status: Acceleration; historic joint action reshapes USD/JPY, threatens carry trades; next trigger: further intervention or official size disclosure, US Treasury firepower limits.
+- **Fed hawkish bias hardens as dissenters push for hike, Warsh floats meeting frequency cut** — Status: Acceleration; internal pressure and opaque communication keep rate trajectory uncertain, supporting higher yields; next trigger: July US jobs data and Jackson Hole signals.
+- **China policy easing bias confirmed with PBOC pledge, fiscal expansion, HK GDP upgrade** — Status: Confirmation; supportive measures aim to counter growth drag from property slump and lower crude imports; next trigger: actual PBOC RRR/rate cut before Q3 end.
 
-## Watchpoints
-- Progress in Monday Iran talks and any Hormuz transit normalisation.
-- Size and official disclosure of US-Japan Korea FX intervention, or fresh intervention.
-- Warsh communication at or before Jackson Hole confirming September hike/hold stance.
-- PBOC MLF/RRR easing move in August after “timely adjustment” pledge.
-- South Korean authorities’ response to won strength and equity rout (FSC measures, BOK rhetoric).
+## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
+- Iran talks progress and any renewed vessel attacks or Hormuz chokepoint closure.
+- Further US-Japan intervention or Treasury communications on available firepower.
+- July US nonfarm payrolls and wage data — strong print would firm September hike expectations.
+- PBOC’s actual deployment of a rate or RRR cut; Q2 GDP follow-through and July CPI.
+- Kospi and KRW reaction to Morgan Stanley upgrade and retail sentiment stabilization.
 
-## Open Questions
-- Will the sudden Iran de-escalation hold enough to allow a sustained collapse in oil volatility and a broad risk-asset rebound?
-- Can the tripartite FX intervention definitively break the long-dollar carry trade in Asia without crushing exporter equities?
-- Will the Fed dissent force Warsh into a September hike, or will he maintain the pause and risk a credibility crisis?
+## Open Questions (max 3 — only unresolved questions that affect positioning)
+- Will the Iran de-escalation prove durable enough to eliminate the energy risk premium from Brent and global inflation?
+- Can coordinated yen intervention overcome the long-dollar carry trade without exhausting US Treasury firepower?
+- Will the Fed’s internal hawkish pressure and eurozone data force a September hike that tightens financial conditions further, threatening the equity rally?
 
-## Key Levels
-- **Brent crude** — tumbling sharply on Trump’s Iran‑talks call, supply‑risk premium unwinding (BBG, ChnFund).
-- **USD/JPY** — dropping aggressively on confirmed US‑Japan intervention (FT, BBG).
-- **Kospi** — at `6301.87` after a single‑session plunge of over 4%, driven by won strength hitting chipmakers (ChnFund).
-- **US 30‑year yield** — above `5.27%`, steepening the curve amid hawkish Fed dissent and Warsh‑driven long‑bond sell‑off (WallstreetCN).
+## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
+- Brent crude — fell on Iran talks optimism, with the diplomatic pivot directly reducing the Hormuz supply disruption premium (BBG, SCMP).
+- USD/JPY — pushed lower by historic US Treasury yen-buying intervention, with market on alert for further coordinated action (FT, BBG).
+- US front-end yields — bid under hawkish Fed dissent and expectations of strong July payrolls, steepening the curve (FT, BBG).
+- Kospi — upgraded by Morgan Stanley after leverage washout, offering entry into AI/industrial cycle (BBG).
+- EUR/USD — under pressure as eurozone inflation rise keeps ECB hike on table but US rate expectations still dominate (FT).
