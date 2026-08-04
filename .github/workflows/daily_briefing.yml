@@ -3,7 +3,9 @@ name: Daily Macro Briefing
 on:
   schedule:
     # HKT 8:05 AM = UTC 00:05, 8:15/8:25/8:35 AM backups.
-    # HKT 9:05 AM is a late backup for delayed/missed GitHub runners.
+    # HKT 9:05/9:47/10:13/10:43/11:13 AM are late backups for
+    # delayed/missed GitHub runners. The off-hour minutes reduce schedule
+    # drops during GitHub's busiest cron windows.
     # HKT 6:20 PM = UTC 10:20, 6:30 PM backup = UTC 10:30.
     # HKT 6:40/6:50/7:00/8:30 PM are late backups for delayed/missed GitHub runners.
     # Keep these as separate entries so delayed GitHub runners still know
@@ -13,6 +15,10 @@ on:
     - cron: '25 0 * * *'
     - cron: '35 0 * * *'
     - cron: '5 1 * * *'
+    - cron: '47 1 * * *'
+    - cron: '13 2 * * *'
+    - cron: '43 2 * * *'
+    - cron: '13 3 * * *'
     - cron: '20 10 * * *'
     - cron: '30 10 * * *'
     - cron: '40 10 * * *'
@@ -78,7 +84,17 @@ jobs:
           manual_date = os.environ.get("INPUT_RUN_DATE_HKT", "").strip()
           now_hkt = datetime.now(timezone.utc) + timedelta(hours=8)
 
-          morning_schedules = {"5 0 * * *", "15 0 * * *", "25 0 * * *", "35 0 * * *", "5 1 * * *"}
+          morning_schedules = {
+              "5 0 * * *",
+              "15 0 * * *",
+              "25 0 * * *",
+              "35 0 * * *",
+              "5 1 * * *",
+              "47 1 * * *",
+              "13 2 * * *",
+              "43 2 * * *",
+              "13 3 * * *",
+          }
           afternoon_schedules = {"20 10 * * *", "30 10 * * *", "40 10 * * *", "50 10 * * *", "0 11 * * *", "30 12 * * *"}
 
           def target_date_for(label):
