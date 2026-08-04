@@ -1,9 +1,9 @@
 ---
 tags:
-  - Macro/Iran_War_Deescalation
-  - Macro/US_Japan_FX_Intervention
+  - Macro/Iran_De-escalation
   - Asset/Brent
-  - Asset/JPY
+  - Asset/USDJPY
+  - Trade/Short_USD
   - Asset/KRW
 ---
 
@@ -20,57 +20,52 @@ tags:
 ---
 
 > [!abstract] Overview
-> US equities surged, with the Dow closing at a record and the Nasdaq jumping over `2%`, as oil prices plunged on President Trump’s call to begin Iran talks and the simultaneous threat of a “last chance” ultimatum. Treasuries steadied after New York Fed President Williams described rates as well positioned, though a key manufacturing survey flagged inflation pressures worse than the pandemic era. In Asia, the Kospi gave up an early `2%` gain as AI‑trade volatility persisted, while the yen retraced part of its intervention‑powered rally after the US escalated its defence of the currency by selling euros for yen and seeking Fed repo‑facility backing. The cross‑market dynamic pairs Middle East risk‑down with aggressive FX intervention and lingering US inflation anxiety, leaving risk‑on rotation fragile and heavily dependent on the next news from Hormuz and Washington.
+> Iran de‑escalation hopes jumped as President Trump announced talks would begin Monday despite Tehran’s denials, crashing oil prices and fueling a risk‑on surge that sent the Dow to a record, the Nasdaq up more than `2%`, and Treasury yields lower. Treasury Secretary Bessent publicly urged the Fed to expand a yen‑support facility, doubling down on a historic intervention campaign that drove USD/JPY toward `157` without destabilizing the bond market. South Korean inflation cooled more than expected to below `3%`, and BofA flagged that index‑linked USD/KRW buying is near exhaustion, giving regional FX a tailwind. The cross‑market thread is the simultaneous unwinding of the Hormuz‑war risk premium and a coordinated dollar‑weakening push, with upcoming US jobs data the next make‑or‑break catalyst.
 
 ---
 
 ## 🔬 Narrative Watch
 
-### 📌 Iran De‑escalation Reprices Oil and Risk, but Trump’s Ultimatum Keeps Tension High
+### 📌 Iran de‑escalation accelerates, oil plunges and equities surge
 
 **Fact**
-Oil prices fell on Monday as investors pared geopolitical risk premiums after US President Donald Trump said he had called off a planned strike on Iran ([CNBC 1](https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html)). Oil tumbled more than `7%` at one point before edging higher after Trump said his latest offer of talks is Tehran’s “last chance” and that he expects a full reopening of the Strait of Hormuz ([BBG 1](https://www.bloomberg.com/news/articles/2026-08-03/latest-oil-market-news-and-analysis-for-aug-4), [CNBC 1](https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html)). Trump on Truth Social accused Iran’s leaders of lying about peace talks, which he said are underway “whether Iran wants to admit it or not” ([CNBC 2](https://www.cnbc.com/2026/08/03/trump-iran-us-negotiations-peace-proposals-.html)). He warned Iran faces “decapitation” if it does not strike a deal ([Reuters 1](https://news.google.com/rss/articles/CBMiogFBVV95cUxQbWpzQ3dqaWdURjZva2hpRmpXbFNWNWFsQnlRTDF5YlpCTlBBVGxEYWZYVEhLMl84aHdvdzBhUUhxeVBqWWVHWTR5dEpleS1XY0wwR0V4N1JaMkNOaUdvWGgwWHZ0d2hubUVNU2MxMUY5dnVaS05fTlhja0JEWGp3SEdMRmswbEVIUmY1clZWdEExNDNQTFpVelhla3o0alFQS2c)). Iran denied talks are taking place ([Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance)). The threat to ships carrying oil in the Middle East is at its worst since the Iran war started, after a spate of attacks on another key route in the region, analysts said ([BBC](https://www.bbc.co.uk/news/articles/cjrv0dy2e90o)). Trump also blasted Big Oil companies for “making too much money” as war‑driven high oil prices boost profits, singling out Exxon and Chevron, while US crude prices have gained about `20%` since the US and Israel attacked Iran on Feb. 28 ([WSJ](https://www.google.com/rss/articles/CBMiqAFBVV95cUxQcUhHa2x5TXMzbE5uaWZrNDY4VzVEdW5idDF3OTNBbnU2MzlPc2Rua2dxWVM5aVRuMG9WYlpFak1YdUtORFBiMDdlRWtxZE1IeUxVTW54c1llS1U3QkVDUjdseXFUWWNnQ1NPejlzZmx1ck9LMFR5bkFySmJfYkFXbWVPLXlXT1Y4MVgzb3ZMeXNQOVZUbUZJbC12dUkzeW12R2Z2dHRmWEk), [CNBC 3](https://www.cnbc.com/2026/08/03/trump-says-exxon-and-chevron-made-too-much-money-off-high-oil-prices-during-iran-conflict-i-dont-like-it.html)).
+Oil prices tumbled on Monday as investors pared geopolitical risk premiums after US President Donald Trump said he had called off a planned strike on Iran ([CNBC_World](https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html)). Trump insisted Iran talks are underway despite Tehran’s “duplicitous” denials, calling his latest offer “last chance” and saying he expects a full reopening of the Strait of Hormuz ([BBG_Markets](https://www.bloomberg.com/news/articles/2026-08-03/latest-oil-market-news-and-analysis-for-aug-4), [CNBC_World](https://www.cnbc.com/2026/08/03/trump-iran-us-negotiations-peace-proposals-.html)). Trump also warned Iran faces “decapitation” if it doesn’t strike a deal ([Reuters_GN](https://news.google.com/rss/articles/CBMiogFBVV95cUxQbWpzQ3dqaWdURjZva2hpRmpXbFNWNWFsQnlRTDF5YlpCTlBBVGxEYWZYVEhLMl84aHdvdzBhUUhxeVBqWWVHWTR5dEpleS1XY0wwR0V4N1JaMkNOaUdvWGgwWHZ0d2hubUVNU2MxMUY5dnVaS05fTlhja0JEWGp3SEdMRmswbEVIUmY1clZWdEExNDNQTFpVelhla3o0alFQS2c)). US Treasury yields and the dollar fell as talks to reopen Hormuz were set to restart ([WSJ_GN](https://news.google.com/rss/articles/CBMirwFBVV95cUxQS3hORGs3YWxMSW5hR2JLWjl1NS1DeG9jQVVJdFpwMjVyM2RuUFpkV0hXUjQxVGdKN0xteTd3ZEdGYjc5T0w1THo4UWhZRmVKT0tzempuYVA2QTU5UGU5aHJuSDEwcmxvUVBrUUN2blZQeUZKTkNYdUdTelRtcTRUVzF2MUlaT1g1X2lETTBRU0xzN0hyb2RKQTRGOG9xVlRoUG1jeVRuQUtsSUluSVRN)). Wall Street rallied, with the Dow closing at a record on the Iran talks optimism ([Reuters_GN](https://news.google.com/rss/articles/CBMipwFBVV95cUxQTC1HdWxXY3dmcFlCNm9FZ3N5VnVhSWg0ZHV4a1RRdUdlUVM5QUhNYUlueDN2akloUFFEUWRIWXNHeFk1VEFHMDhBRTV1XzY5TnBxUXlVQk96NkFMSnNuTURuTzhCOVRBUkVVT2p1VjBOZFBZdk4zM01WQlFDY1ZZTGhqR2NaeXNrVWN0Ym5aQ1VENmZ5aGRKRWRoMHlNRTVxMWxVSFVrOA)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Confirmation with renewed brinkmanship; talks are moving forward but the “last chance” language and fresh attacks keep the risk premium from collapsing.
-> * **Transmission / Market Read**: Risk‑premium channel favors **fading the oil‑price relief rally** and staying **long volatility in Brent**; supports **risk‑on in equities** but only as long as the talks stay credible.
-> * **Watchpoint / Confidence**: First substantive negotiation round outcome or a new Hormuz transit disruption; Confidence: Medium.
+> * **Narrative change**: Acceleration of de‑escalation as talks shift from a call‑off to a concrete start, directly unwinding the Hormuz supply‑risk premium.
+> * **Transmission / Market Read**: Lower oil compresses inflation expectations and reduces hawkish pressure on the Fed, favoring **long equities**, **long USTs**, and **short USD**, with carry‑supported Asia FX like KRW and TWD.
+> * **Watchpoint / Confidence**: Actual commencement of negotiations and any Hormuz vessel attacks; Confidence: High given cross‑source confirmation of the talks and oil’s `>7%` intraday plunge.
 
-### 📌 US‑Japan FX Intervention Accelerates as Bessent Seeks Fed Repo Help
+### 📌 US‑Japan yen intervention deepens as Bessent seeks Fed help
 
 **Fact**
-Treasury Secretary Scott Bessent’s call for the Federal Reserve to boost a facility that Japan can use to support its currency has put renewed attention on the ties between the two institutions, which typically operate at arm’s length ([BBG 1](https://www.bloomberg.com/news/articles/2026-08-03/bessent-seeks-fed-help-in-defending-yen-in-unusual-call)). The US and Japan on Friday likely spent `$36.58 billion` to buy yen, the first such joint intervention in 15 years, according to market estimates ([Investing](https://www.investing.com/news/forex-news/japan-may-have-intervened-in-fx-market-by-spending-3658-billion-to-buy-yen-4830211), [Caixin](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FZFI1TUZiS202QVVwdGF5NjAxOE5zZElrVXFRVk1hajNBQWZONjFjXzBkUk5DdTFWQjE1ajh0T25RQ3hFNDN2WWpSdldjMTlydEJJWkVBdXFxdnNVQ08zeFBR)). The US shook up currency markets with unusual yen‑buying via selling euros ([Reuters](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYWhwczdTVFV2eTBMeUpacllrZ0VhMWhPa1FrX0p0VFN4N1pNeU9QN3BiWVNJdVR1MDZybUYxUjh2aDB2Rmw4NDdJcXFPM3M3cXU2TnJ1OEh1S2oyTF9QLURJc1NPM3g0Z09MczFneVBYWUwxWnNPRGF2U1YzM3BLeEdFRDAyN3lHNU5zY2wzdWl3TFF6Ump1RXI3V2x0aXB2M2RpM0luaHBWN1pVSXJ3VmRaS3NEWkhWUkFqSHhYWXJOemNicnBjcg)). Following the joint involvement the yen now sits at `157` to the dollar, down from just above `163`, which represented its lowest level in four decades ([CNBC](https://www.cnbc.com/2026/08/03/yen-us-intervention-japan-market-currency.html)). BofA sees USD/JPY `155` as a critical inflection point for the market ([Investing 2](https://www.investing.com/news/forex-news/bofa-sees-usdjpy-155-as-critical-inflection-point-for-market-93CH-4830272)).
+Treasury Secretary Scott Bessent’s call for the Federal Reserve to boost a facility that Japan can use to support its currency has put renewed attention on the ties between the two institutions ([BBG_Econ](https://www.bloomberg.com/news/articles/2026-08-03/bessent-seeks-fed-help-in-defending-yen-in-unusual-call)). Bessent seeks to defend the yen without selling Treasurys into a sensitive US bond market; the Fed could help expand the FIMA repo facility ([CNBC_World](https://www.cnbc.com/2026/08/03/bessent-fed-japan-yen-fima-repo-facility.html)). The US shook up currency markets with unusual yen‑buying via selling euros ([Reuters_GN](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYWhwczdTVFV2eTBMeUpacllrZ0VhMWhPa1FrX0p0VFN4N1pNeU9QN3BiWVNJdVR1MDZybUYxUjh2aDB2Rmw4NDdJcXFPM3M3cXU2TnJ1OEh1S2oyTF9QLURJc1NPM3g0Z09MczFneVBYWUwxWnNPRGF2U1YzM3BLeEdFRDAyN3lHNU5zY2wzdWl3TFF6Ump1RXI3V2x0aXB2M2RpM0luaHBWN1pVSXJ3VmRaS3NEWkhWUkFqSHhYWXJOemNicnBjcg)). BofA sees USD/JPY `155` as a critical inflection point for the market ([Investing_Forex](https://www.investing.com/news/forex-news/bofa-sees-usdjpy-155-as-critical-inflection-point-for-market-93CH-4830272)). Japan may have intervened by spending `$36.58 billion` to buy yen ([Investing_Forex](https://www.investing.com/news/forex-news/japan-may-have-intervened-in-fx-market-by-spending-3658-billion-to-buy-yen-4830211)). Following joint intervention the yen now sits at `157` to the dollar, down from above `163` ([CNBC_World](https://www.cnbc.com/2026/08/03/yen-us-intervention-japan-market-currency.html)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Acceleration — historic coordination now adds an institutional‑plumbing twist with Bessent’s Fed‑repo appeal, raising the stakes beyond pure dollar selling.
-> * **Transmission / Market Read**: Liquidity‑and‑carry channel favors **USD/JPY downside** toward the `155` area, with potential spillover tightening in EM carry trades.
-> * **Watchpoint / Confidence**: Further Treasury‑Fed communication on the repo facility and any new yen‑buying operation; Confidence: High.
+> * **Narrative change**: Acceleration as Bessent’s public appeal to the Fed makes intervention an openly institutional effort, committing Treasury credibility to yen defense.
+> * **Transmission / Market Read**: Direct FX intervention channel favors **long JPY** and **short USD/JPY**; a weaker dollar benefits EM Asia FX through reduced carry‑trade pressure.
+> * **Watchpoint / Confidence**: Whether the Fed agrees to expand the facility and any further coordinated intervention; Confidence: Medium given the unusual public request and potential political pushback.
 
-### 📌 Kospi Volatility Persists but Cooling Inflation and Index‑Flow Signal Could Stabilise KRW
+### 📌 Korea inflation cools, index‑related KRW buying nears end
 
 **Fact**
-South Korea’s consumer inflation slowed more than expected, falling back below `3%` and after accelerating to its fastest pace since late 2023 a month earlier, easing pressure on policymakers to tighten policy ([BBG 1](https://www.bloomberg.com/news/articles/2026-08-03/korea-s-inflation-cools-more-than-expected-offering-some-relief)). Asian stocks failed to follow Wall Street’s tech‑led rally as persistent volatility in South Korea’s Kospi Index underscored lingering concerns over the artificial intelligence trade ([BBG 2](https://www.bloomberg.com/news/articles/2026-08-03/stock-market-today-dow-s-p-live-updates)). South Korean financial companies and other firms borrowed more money in short‑term debt markets in the first half of the year amid an unprecedented stock market rally that gave way to a meltdown in recent weeks ([BBG 3](https://www.bloomberg.com/news/articles/2026-08-03/korean-firms-expanded-short-term-debt-funding-before-market-rout)). BofA says USD/KRW buying tied to index rules nears end ([Investing](https://www.investing.com/news/forex-news/bofa-says-usdkrw-buying-tied-to-index-rules-nears-end-93CH-4830323)).
+South Korea’s consumer inflation slowed more than expected in July, easing back below `3%` and offering policymakers some relief after price growth accelerated to its fastest pace since late 2023 the previous month ([BBG_Econ](https://www.bloomberg.com/news/articles/2026-08-03/korea-s-inflation-cools-more-than-expected-offering-some-relief)). Separately, BofA said USD/KRW buying tied to index rules is nearing its end ([Investing_Forex](https://www.investing.com/news/forex-news/bofa-says-usdkrw-buying-tied-to-index-rules-nears-end-93CH-4830323)). Korean firms had previously expanded short‑term debt funding ahead of the market rout ([BBG_Markets](https://www.bloomberg.com/news/articles/2026-08-03/korean-firms-expanded-short-term-debt-funding-before-market-rout)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: New — the combination of a cooler CPI print and the likely sunset of index‑related USD buying creates a potential floor for KRW after a heavy sell‑off.
-> * **Transmission / Market Read**: Capital‑flow channel supports **stabilising KRW** and could reduce forced selling in **Kospi** if the index‑flow overhang clears.
-> * **Watchpoint / Confidence**: Confirmation that index‑related buying has concluded and whether the Kospi can hold above recent lows; Confidence: Medium.
+> * **Narrative change**: Confirmation of easing inflation pressure, which reduces BOK hawkish urgency and combines with a near‑end of index‑driven dollar demand to support KRW.
+> * **Transmission / Market Read**: Inflation and flow channels tilt toward **short USD/KRW**, though elevated short‑term debt is a lingering risk.
+> * **Watchpoint / Confidence**: Sustained sub‑`3%` CPI and concrete index‑rebound flows; Confidence: Medium given the convergence of positive data and BofA’s tactical signal.
 
 ---
 
 ## 🌍 Global Radar
 
-### 🌐 Geopolitics & Policy
-- A group of 25 Democratic‑led US states sued to challenge Trump’s latest round of tariffs, arguing the president lacks the legal authority to impose duties on goods from 60 trading partners ([SCMP](https://www.scmp.com/news/world/united-states-canada/article/3362848/democratic-us-states-sue-challenge-trumps-latest-round-tariffs), [CNBC](https://www.cnbc.com/2026/08/03/trump-tariffs-25-states-lawsuit-supreme-court.html)).
-- China has revised regulations on the protection of chip designs, a critical move to push for tech self‑sufficiency amid US export controls; the new rules will take effect on October 15 ([SCMP](https://www.scmp.com/tech/policy/article/3362825/china-tightens-chip-design-protection-and-clarifies-rights-spur-innovation), [Reuters](https://news.google.com/rss/articles/CBMiswFBVV95cUxNcTNWUWNUdjcxay1ZNkRMbHoxeWlDQzJjSEtQd1pKd2ZrWjJSek9ka3hrMXBja08yVFo4dFVEbVFNck1MTER0T29JczRXX0NGRWJzdnhCTUZlbENyTFNobXQxcDhGYnJzY2I0VFFOSXhoMzBocjV1RXpJRmk0bHdNWllWTldsZV9ENzNLZVVGS2FWSzRDUHBZb0E4SndsUjlaVFBHV01Ka2dZUXdiT2dPZHhzaw)).
-- The Iran war could still alter Beijing’s policy calculus, with Chinese policymakers weighing how much longer the conflict might last and whether it will necessitate adjustments to previous plans ([SCMP](https://www.scmp.com/economy/china-economy/article/3362800/iran-war-could-still-alter-beijings-policy-calculus-economist)).
-
 ### 🏦 Central Banks
-- **Fed (New York President Williams)** — Interest rates remain well positioned and inflation should ease during the second half of the year; the Fed will act if it does not ([BBG](https://www.bloomberg.com/news/articles/2026-08-03/fed-s-williams-says-interest-rates-are-well-positioned-reuters), [Reuters](https://news.google.com/rss/articles/CBMisgFBVV95cUxNSW5GWU1oN1VmZjRKVjJXb2p0NENaV2VXcEU5a094OWJwTy1HbGk5UHZRNl9hT2UwVU01bnhJMDg1RS1YWTM0Z1F6SFp0RmttanY3dVprbENuMGlnQndRNWh0VmEzTEp4Tm9pOHJNQlMxbktWN1dLeThZWEhVSVpTRkdTRFozaDJ1Zmx0R2dxTnhaaXdmaHJ0WHR3cHpmcHVoeTN2QjBzYjhtemVocWFvQmln)).
-- **Banco de la República (Colombia)** — Unexpectedly paused rate hikes and announced a program to build up dollar reserves, signaling that the peso’s rally has gone too far ([BBG](https://www.bloomberg.com/news/articles/2026-08-03/colombian-peso-pares-stellar-rally-as-central-bank-steps-in)).
+- **Federal Reserve** — New York Fed President John Williams said interest rates remain well positioned and inflation should ease during the second half of the year; the Fed will act if it doesn’t ([BBG_Econ](https://www.bloomberg.com/news/articles/2026-08-03/fed-s-williams-says-interest-rates-are-well-positioned-reuters), [Reuters_GN](https://news.google.com/rss/articles/CBMisgFBVV95cUxNSW5GWU1oN1VmZjRKVjJXb2p0NENaV2VXcEU5a094OWJwTy1HbGk5UHZRNl9hT2UwVU01bnhJMDg1RS1YWTM0Z1F6SFp0RmttanY3dVprbENuMGlnQndRNWh0VmEzTEp4Tm9pOHJNQlMxbktWN1dLeThZWEhVSVpTRkdTRFozaDJ1Zmx0R2dxTnhaaXdmaHJ0WHR3cHpmcHVoeTN2QjBzYjhtemVocWFvQmln)).
 
-### 🛢️ Commodities
-- Gold held steady as traders monitored diplomatic efforts to cool US‑Iran tensions, which could push energy prices lower and ease pressure on the Fed to raise rates ([BBG](https://www.bloomberg.com/news/articles/2026-08-03/gold-steady-as-middle-east-talks-weigh-on-interest-rate-outlook)).
+### 🌐 Geopolitics & Policy
+- Twenty‑five Democratic‑led states sued the Trump administration over its latest round of tariffs on goods from 60 trading partners, arguing the duties lack legal authority ([SCMP_Econ](https://www.scmp.com/news/world/united-states-canada/article/3362848/democratic-us-states-sue-challenge-trumps-latest-round-tariffs), [Reuters_GN](https://news.google.com/rss/articles/CBMilwFBVV95cUxNQzdtbnRyNlNqdjVKN2l0dllQSjdlQjM0QWVIbFhiM3NnT1JVR0tSLWY5ajZpTVhsQzdwWUJKcVp5VE5hcFdQZU85TU9yVnJjc1ozM1FJMkY1RmcyZHdYM2hkV21rQlNLSGZLNy1uLUFjNm1NcFVtZUZubjYtNkQyZmpEMEMycXhtZXMzQ0tLMmFhZmdwN2gw)).
+- The threat to oil tankers in the Middle East is at its worst since the Iran war started, analysts said, after a spate of attacks on another key route in the region ([BBC_Business](https://www.bbc.co.uk/news/articles/cjrv0dy2e90o)).
 
 ---
 
@@ -78,7 +73,7 @@ South Korea’s consumer inflation slowed more than expected, falling back below
 
 | Time (HKT) | Rgn | Event | Est. | Prior |
 |---|---|---|---|---|
-| 09:30 AM | AU | Household Spending MoM | 0.2% | 1.2% |
+| 09:30 AM | AU | Household Spending MoM | 0.2% | 1.3% |
 | 09:30 AM | AU | Household Spending YoY | — | 5.5% |
 | 10:30 AM | KR | 30-Year KTB Auction | — | 4.370% |
 | 11:35 AM | JP | 10-Year JGB Auction | — | 2.729% |
@@ -107,17 +102,17 @@ South Korea’s consumer inflation slowed more than expected, falling back below
 | 10:00 PM | US | RCM/TIPP Economic Optimism Index | 47.5 | 45.5 |
 | 11:30 PM | US | 52-Week Bill Auction | — | 3.860% |
 | 11:30 PM | US | 6-week bill auction | — | 3.700% |
-| 04:30 AM | US | API Crude Oil Stock Change | — | 3.296M |
-| 05:00 AM | KR | Foreign Exchange Reserves | — | $427.4B |
-| 07:00 AM | AU | Ai Group Industry Index | — | -30.0 |
-| 07:00 AM | AU | Ai Group Construction Index | — | -38.1 |
-| 07:00 AM | AU | Ai Group Manufacturing Index | — | -16.8 |
-| 07:00 AM | AU | S&P Global Composite PMI Final | 52.6 | 50.4 |
-| 07:00 AM | AU | S&P Global Services PMI Final | 53.0 | 50.5 |
-| 07:30 AM | JP | Average Cash Earnings YoY | 3.4% | 3.2% |
-| 07:30 AM | JP | Overtime Pay YoY | — | 2.9% |
-| 08:30 AM | JP | S&P Global Composite PMI Final | 53.1 | 52.8 |
-| 08:30 AM | JP | S&P Global Services PMI Final | 51.9 | 52.2 |
+| Aug 05 04:30 AM | US | API Crude Oil Stock Change | — | 3.296M |
+| Aug 05 05:00 AM | KR | Foreign Exchange Reserves | — | $427.4B |
+| Aug 05 07:00 AM | AU | Ai Group Industry Index | — | -30.0 |
+| Aug 05 07:00 AM | AU | Ai Group Construction Index | — | -38.1 |
+| Aug 05 07:00 AM | AU | Ai Group Manufacturing Index | — | -16.8 |
+| Aug 05 07:00 AM | AU | S&P Global Composite PMI Final | 52.6 | 50.4 |
+| Aug 05 07:00 AM | AU | S&P Global Services PMI Final | 53.0 | 50.5 |
+| Aug 05 07:30 AM | JP | Average Cash Earnings YoY | 3.4% | 3.2% |
+| Aug 05 07:30 AM | JP | Overtime Pay YoY | — | 2.9% |
+| Aug 05 08:30 AM | JP | S&P Global Composite PMI Final | 53.1 | 52.8 |
+| Aug 05 08:30 AM | JP | S&P Global Services PMI Final | 51.9 | 52.2 |
 
 ---
 
@@ -125,43 +120,36 @@ South Korea’s consumer inflation slowed more than expected, falling back below
 - **BBG**
   - [Latest Oil Market News and Analysis for Aug. 4](https://www.bloomberg.com/news/articles/2026-08-03/latest-oil-market-news-and-analysis-for-aug-4)
   - [Bessent Seeks Fed’s Help to Defend Yen in Unusual Public Call](https://www.bloomberg.com/news/articles/2026-08-03/bessent-seeks-fed-help-in-defending-yen-in-unusual-call)
-  - [Korea Inflation Drops Below Estimates But Pressure Persists](https://www.bloomberg.com/news/articles/2026-08-03/korea-s-inflation-cools-more-than-expected-offering-some-relief)
-  - [Asian Stocks Slip on Tech, Yen Gains Lose Steam: Markets Wrap](https://www.bloomberg.com/news/articles/2026-08-03/stock-market-today-dow-s-p-live-updates)
+  - [Korea’s Inflation Cools More Than Expected, Offering Some Relief](https://www.bloomberg.com/news/articles/2026-08-03/korea-s-inflation-cools-more-than-expected-offering-some-relief)
   - [Korean Firms Expanded Short-Term Debt Funding Before Market Rout](https://www.bloomberg.com/news/articles/2026-08-03/korean-firms-expanded-short-term-debt-funding-before-market-rout)
-  - [Fed’s Williams Says Rates Are Well Positioned, Reuters Says](https://www.bloomberg.com/news/articles/2026-08-03/fed-s-williams-says-interest-rates-are-well-positioned-reuters)
-  - [Gold Holds Steady With US-Iran Standoff and Fed Outlook in Focus](https://www.bloomberg.com/news/articles/2026-08-03/gold-steady-as-middle-east-talks-weigh-on-interest-rate-outlook)
-  - [BofA’s Cabana Sees Risk in Silent Fed: ‘You Can’t Fool the Bond’](https://www.bloomberg.com/news/articles/2026-08-03/treasuries-to-resume-fall-without-clear-fed-plan-bofa-s-cabana)
-  - [Colombian Peso Pares Stellar Rally as Central Bank Steps In](https://www.bloomberg.com/news/articles/2026-08-03/colombian-peso-pares-stellar-rally-as-central-bank-steps-in)
-  - [Prabowo Eyes Indonesia Central Bank Chief Aligned With His Goals](https://www.bloomberg.com/news/articles/2026-08-03/prabowo-eyes-indonesia-central-bank-chief-aligned-with-his-goals)
+  - [Fed’s Williams Says Interest Rates Are Well Positioned](https://www.bloomberg.com/news/articles/2026-08-03/fed-s-williams-says-interest-rates-are-well-positioned-reuters)
+  - [Stock Market Today: Dow, S&P Live Updates](https://www.bloomberg.com/news/articles/2026-08-03/stock-market-today-dow-s-p-live-updates)
 - **Reuters**
-  - [Trump says Iran faces 'decapitation' if it doesn't strike deal](https://news.google.com/rss/articles/CBMiogFBVV95cUxQbWpzQ3dqaWdURjZva2hpRmpXbFNWNWFsQnlRTDF5YlpCTlBBVGxEYWZYVEhLMl84aHdvdzBhUUhxeVBqWWVHWTR5dEpleS1XY0wwR0V4N1JaMkNOaUdvWGgwWHZ0d2hubUVNU2MxMUY5dnVaS05fTlhja0JEWGp3SEdMRmswbEVIUmY1clZWdEExNDNQTFpVelhla3o0alFQS2c)
-  - [US shakes up currency markets with unusual yen-buying via selling euros](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYWhwczdTVFV2eTBMeUpacllrZ0VhMWhPa1FrX0p0VFN4N1pNeU9QN3BiWVNJdVR1MDZybUYxUjh2aDB2Rmw4NDdJcXFPM3M3cXU2TnJ1OEh1S2oyTF9QLURJc1NPM3g0Z09MczFneVBYWUwxWnNPRGF2U1YzM3BLeEdFRDAyN3lHNU5zY2wzdWl3TFF6Ump1RXI3V2x0aXB2M2RpM0luaHBWN1pVSXJ3VmRaS3NEWkhWUkFqSHhYWXJOemNicnBjcg)
+  - [Trump says Iran faces ‘decapitation’ if it doesn’t strike deal](https://news.google.com/rss/articles/CBMiogFBVV95cUxQbWpzQ3dqaWdURjZva2hpRmpXbFNWNWFsQnlRTDF5YlpCTlBBVGxEYWZYVEhLMl84aHdvdzBhUUhxeVBqWWVHWTR5dEpleS1XY0wwR0V4N1JaMkNOaUdvWGgwWHZ0d2hubUVNU2MxMUY5dnVaS05fTlhja0JEWGp3SEdMRmswbEVIUmY1clZWdEExNDNQTFpVelhla3o0alFQS2c)
   - [Wall Street rallies, Dow closes at record on Iran talks optimism](https://news.google.com/rss/articles/CBMipwFBVV95cUxQTC1HdWxXY3dmcFlCNm9FZ3N5VnVhSWg0ZHV4a1RRdUdlUVM5QUhNYUlueDN2akloUFFEUWRIWXNHeFk1VEFHMDhBRTV1XzY5TnBxUXlVQk96NkFMSnNuTURuTzhCOVRBUkVVT2p1VjBOZFBZdk4zM01WQlFDY1ZZTGhqR2NaeXNrVWN0Ym5aQ1VENmZ5aGRKRWRoMHlNRTVxMWxVSFVrOA)
-  - [FULL TEXT Transcript of Reuters interview with NY Fed President Williams](https://news.google.com/rss/articles/CBMitAFBVV95cUxNYU1jeGRidDZGNnBmU1MxVVgyTzFUZjJIUWgwUHRiVWNzUE0zOGZtV2luREdPaVU0bTJURlI3WVdBX3VLT1l4U25yd2pmQnBUclQtMmJSa1hORzVFX0ZKUHJBTGpFbVZpVm9TdDJEcGZCeXRvY1E4azdMaDJqQ1NiNnRiVmI0c0E3UGU3cTNjLW5YdFhILWRMUjNZOUVNN2QzRnZpdHlnYUtQbExFZUdzWUhRaTk)
-  - [US Treasury raises third-quarter borrowing estimate to $739 billion](https://news.google.com/rss/articles/CBMirAFBVV95cUxNRkxVVXJzbzAwcE92ektISXpTZE1QcGpkRzhqcmtsMXBIb2lLOEJ1ay13RGFZVWpfUHRmX2hjX3d3dWZ5RTk0UDAtR2ktblBqM2RmamsxUTBPdlFaU0JWX2x5T05Hc25acFNDckpCdXZkUzdQSEtNSEhONGNNakN2X1dRMUdXQlA1OEJnNlM2UHBjaDVvWUNJV1F6MjFxYmNmYUpJMHVid0pUa3RC)
-  - [China steps up protection for chip designs in revised regulations](https://news.google.com/rss/articles/CBMiswFBVV95cUxNcTNWUWNUdjcxay1ZNkRMbHoxeWlDQzJjSEtQd1pKd2ZrWjJSek9ka3hrMXBja08yVFo4dFVEbVFNck1MTER0T29JczRXX0NGRWJzdnhCTUZlbENyTFNobXQxcDhGYnJzY2I0VFFOSXhoMzBocjV1RXpJRmk0bHdNWllWTldsZV9ENzNLZVVGS2FWSzRDUHBZb0E4SndsUjlaVFBHV01Ka2dZUXdiT2dPZHhzaw)
+  - [US Treasury raises third‑quarter borrowing estimate to $739 billion](https://news.google.com/rss/articles/CBMirAFBVV95cUxNRkxVVXJzbzAwcE92ektISXpTZE1QcGpkRzhqcmtsMXBIb2lLOEJ1ay13RGFZVWpfUHRmX2hjX3d3dWZ5RTk0UDAtR2ktblBqM2RmamsxUTBPdlFaU0JWX2x5T05Hc25acFNDckpCdXZkUzdQSEtNSEhONGNNakN2X1dRMUdXQlA1OEJnNlM2UHBjaDVvWUNJV1F6MjFxYmNmYUpJMHVid0pUa3RC)
+  - [US shakes up currency markets with yen‑buying via selling euros](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYWhwczdTVFV2eTBMeUpacllrZ0VhMWhPa1FrX0p0VFN4N1pNeU9QN3BiWVNJdVR1MDZybUYxUjh2aDB2Rmw4NDdJcXFPM3M3cXU2TnJ1OEh1S2oyTF9QLURJc1NPM3g0Z09MczFneVBYWUwxWnNPRGF2U1YzM3BLeEdFRDAyN3lHNU5zY2wzdWl3TFF6Ump1RXI3V2x0aXB2M2RpM0luaHBWN1pVSXJ3VmRaS3NEWkhWUkFqSHhYWXJOemNicnBjcg)
+  - [EXCLUSIVE: Fed’s Williams expects inflation to ease](https://news.google.com/rss/articles/CBMisgFBVV95cUxNSW5GWU1oN1VmZjRKVjJXb2p0NENaV2VXcEU5a094OWJwTy1HbGk5UHZRNl9hT2UwVU01bnhJMDg1RS1YWTM0Z1F6SFp0RmttanY3dVprbENuMGlnQndRNWh0VmEzTEp4Tm9pOHJNQlMxbktWN1dLeThZWEhVSVpTRkdTRFozaDJ1Zmx0R2dxTnhaaXdmaHJ0WHR3cHpmcHVoeTN2QjBzYjhtemVocWFvQmln)
+  - [Democratic US states sue to challenge Trump’s latest tariffs](https://news.google.com/rss/articles/CBMilwFBVV95cUxNQzdtbnRyNlNqdjVKN2l0dllQSjdlQjM0QWVIbFhiM3NnT1JVR0tSLWY5ajZpTVhsQzdwWUJKcVp5VE5hcFdQZU85TU9yVnJjc1ozM1FJMkY1RmcyZHdYM2hkV21rQlNLSGZLNy1uLUFjNm1NcFVtZUZubjYtNkQyZmpEMEMycXhtZXMzQ0tLMmFhZmdwN2gw)
 - **WSJ**
-  - [Trump Blasts Big Oil Companies for ‘Making Too Much Money’](https://www.google.com/rss/articles/CBMiqAFBVV95cUxQcUhHa2x5TXMzbE5uaWZrNDY4VzVEdW5idDF3OTNBbnU2MzlPc2Rua2dxWVM5aVRuMG9WYlpFak1YdUtORFBiMDdlRWtxZE1IeUxVTW54c1llS1U3QkVDUjdseXFUWWNnQ1NPejlzZmx1ck9LMFR5bkFySmJfYkFXbWVPLXlXT1Y4MVgzb3ZMeXNQOVZUbUZJbC12dUkzeW12R2Z2dHRmWEk)
+  - [Treasury Yields, Dollar Fall as Talks to Reopen Hormuz Are Set to Restart](https://news.google.com/rss/articles/CBMirwFBVV95cUxQS3hORGs3YWxMSW5hR2JLWjl1NS1DeG9jQVVJdFpwMjVyM2RuUFpkV0hXUjQxVGdKN0xteT3dZEdGYjc5T0w1THo4UWhZRmVKT0tzempuYVA2QTU5UGU5aHJuSDEwcmxvUVBrUUN2blZQeUZKTkNYdUdTelRtcTRUVzF2MUlaT1g1X2lETTBRU0xzN0hyb2RKQTRGOG9xVlRoUG1jeVRuQUtsSUluSVRN)
+  - [U.S. Stocks Rally, While Oil Slides on Middle East Diplomacy Hopes](https://news.google.com/rss/articles/CBMirAFBVV95cUxOR20wVmhocnJjcm5oQ01HLVYzUEhMR014c256bDF5dTh4cUlYWnE4SjdWaXY5YW1XdnpydndBV19fbFJOU1hXZ0lsZnFiWnFJS1FnTlAycXJYSm1hY2h5b3dhZ3pCc0d5VmNPTFR3ZXZWNnVmTmpITEpJS3hKaEdHWGRsWnJyTGU5dHRZWm9GMmZZNnFMaG9HS2J2NWc2QkpiUmxsSGJFVnRhS196)
+  - [Comex Gold Settles 0.38% Lower at $4033.70](https://news.google.com/rss/articles/CBMikgFBVV95cUxNUGdEejFwX0pHQTlsTEN2U2VGN1hHUzJtSktKMFNQY0pjMWVRQjdEWXdtOUxxSGFDa3lmOU93SV9rMS11RG90UHNTNTktSFZTNHVuekF2V2huV0RzbDdoUmhuVWZfRTlCNE9HcEtWUF96aUFiamtjMEFRQ1RLb0kyTnZJWXF0NTZULTctMGx6bFdodw)
 - **CNBC**
   - [Oil prices tumble after Trump calls off attack on Iran](https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html)
-  - [Trump insists Iran talks are underway despite Tehran's 'duplicitous' denials](https://www.cnbc.com/2026/08/03/trump-iran-us-negotiations-peace-proposals-.html)
-  - [Trump says Exxon and Chevron made 'too much money' off high oil prices during Iran conflict: 'I don't like it'](https://www.cnbc.com/2026/08/03/trump-says-exxon-and-chevron-made-too-much-money-off-high-oil-prices-during-iran-conflict-i-dont-like-it.html)
-  - [What the market is saying about the U.S. intervention to prop up the yen](https://www.cnbc.com/2026/08/03/yen-us-intervention-japan-market-currency.html)
-  - [Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure](https://www.cnbc.com/2026/08/03/manufacturing-survey-shows-inflation-worries-adding-to-pressure-on-fed.html)
-  - [Amazon tops $3 trillion market cap as stock continues post-earnings surge](https://www.cnbc.com/2026/08/03/amazon-amzn-stock-market-cap-earnings.html)
-  - [Twenty five states sue Trump administration over latest global tariffs](https://www.cnbc.com/2026/08/03/trump-tariffs-25-states-lawsuit-supreme-court.html)
-  - [California's diesel prices have jumped since the Iran war started, with ripple effects across the country](https://www.cnbc.com/2026/08/03/californias-diesel-prices-have-jumped-since-the-iran-war-started-with-ripple-effects-across-the-country.html)
+  - [Trump insists Iran talks are underway despite Tehran’s ‘duplicitous’ denials](https://www.cnbc.com/2026/08/03/trump-iran-us-negotiations-peace-proposals-.html)
+  - [Bessent, Fed, Japan yen FIMA repo facility](https://www.cnbc.com/2026/08/03/bessent-fed-japan-yen-fima-repo-facility.html)
+  - [What the market is saying about US intervention to prop up the yen](https://www.cnbc.com/2026/08/03/yen-us-intervention-japan-market-currency.html)
 - **SCMP**
   - [Democratic US states sue to challenge Trump’s latest round of tariffs](https://www.scmp.com/news/world/united-states-canada/article/3362848/democratic-us-states-sue-challenge-trumps-latest-round-tariffs)
-  - [China tightens chip-design protection and clarifies rights to spur innovation](https://www.scmp.com/tech/policy/article/3362825/china-tightens-chip-design-protection-and-clarifies-rights-spur-innovation)
-  - [Iran war could still alter Beijing’s policy calculus: economist](https://www.scmp.com/economy/china-economy/article/3362800/iran-war-could-still-alter-beijings-policy-calculus-economist)
+  - [China tightens chip‑design protection and clarifies rights to spur innovation](https://www.scmp.com/tech/policy/article/3362825/china-tightens-chip-design-protection-and-clarifies-rights-spur-innovation)
 - **BBC**
   - [Threat to oil tankers in Middle East worst since start of Iran war, analysts say](https://www.bbc.co.uk/news/articles/cjrv0dy2e90o)
-- **Al Jazeera**
-  - [Iran war live: Tehran denies US talks as Trump warns of ‘last chance’](https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance)
-- **Caixin**
-  - [15年来美日首次联手干预汇率 日元兑美元升值重回157](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FZFI1TUZiS202QVVwdGF5NjAxOE5zZElrVXFRVk1hajNBQWZONjFjXzBkUk5DdTFWQjE1ajh0T25RQ3hFNDN2WWpSdldjMTlydEJJWkVBdXFxdnNVQ08zeFBR)
 - **Investing**
-  - [Japan may have intervened in FX market by spending $36.58 billion to buy yen](https://www.investing.com/news/forex-news/japan-may-have-intervened-in-fx-market-by-spending-3658-billion-to-buy-yen-4830211)
-  - [BofA sees USD/JPY 155 as critical inflection point for market](https://www.investing.com/news/forex-news/bofa-sees-usdjpy-155-as-critical-inflection-point-for-market-93CH-4830272)
+  - [BofA sees USD/JPY 155 as critical inflection point](https://www.investing.com/news/forex-news/bofa-sees-usdjpy-155-as-critical-inflection-point-for-market-93CH-4830272)
+  - [Japan may have intervened by spending $36.58 billion to buy yen](https://www.investing.com/news/forex-news/japan-may-have-intervened-in-fx-market-by-spending-3658-billion-to-buy-yen-4830211)
   - [BofA says USD/KRW buying tied to index rules nears end](https://www.investing.com/news/forex-news/bofa-says-usdkrw-buying-tied-to-index-rules-nears-end-93CH-4830323)
+- **WallstreetCN**
+  - [韩国央行抄底黄金，13年来首次增持！](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FV2tWWnJYYW4wLVZwc2Rubkljc0V0aDFJMG0wTmxWWWxPS0UwUndxQUF2QjNXaTQtd3pxSjJySnU0MER5bWhTQ05VMmlybmt5aDBj)
+- **Xinhua**
+  - [纽约股市三大股指3日显著上涨](https://www.news.cn/fortune/20260804/2668aaa07178450da1d1e79b752aeaff/c.html)
