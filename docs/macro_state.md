@@ -1,23 +1,23 @@
 # Macro State — Last updated: 2026-08-05
 
 ## Active Narratives
-- **Hormuz De-escalation Deal** — Status: Acceleration; imminent agreement promises to reopen crucial energy chokepoint, collapsing oil risk premium; next trigger: formal deal signature and confirmation of vessel transit.
-- **Coordinated US-Japan Yen Activism** — Status: Acceleration; Bessent’s intervention and FIMA push signal a strategic push for a weaker dollar; next trigger: Fed response to FIMA expansion and any further joint FX operations.
-- **Fed Hawkish Bias Fading** — Status: Deceleration; collapsing oil and Williams/Paulson’s open stance reduce rate-hike bets, softening the dollar; next trigger: US ISM Services and ADP employment data prints.
-- **US Defense Stockpile Depletion** — Status: New; massive drawdown of precision missiles and interceptors raises long-term readiness concerns; next trigger: official Pentagon acknowledgment and potential new funding request.
+- **Hormuz Ultimatum & Houthi Disruption** — Status: Acceleration; Trump threatens military action while Houthis claim tanker strike, bouncing oil; next trigger: independent confirmation of Houthi claim and whether it delays deal.
+- **BOJ Tightening on Wage Data** — Status: Confirmation; above‑expectation June wages solidify policy normalization path; next trigger: BOJ board comments and July household spending.
+- **US‑China Tech Decoupling** — Status: Acceleration; Chinese countermeasures plus planned US import ban on optical modules reprices sector risk; next trigger: official US government notice formalizing the ban.
+- **Fed Hawkish Bias Fading** — Status: Deceleration; Schmid’s warning about non‑energy inflation keeps residual hawks alive but overall rate‑hike odds still low; next trigger: US ISM Services Prices print.
 
 ## Watchpoints
-- A signed US-Iran agreement on Hormuz transit and confirmation of the first unhindered commercial passage.
-- Official Fed response to Bessent’s public call for FIMA repo expansion.
-- US ISM Services Prices index; sustained elevation could revive hawkish bets.
-- New US defense supplemental funding request to address stockpile depletion.
-- Any Houthi attack in Red Sea or Gulf that could derail the Hormuz diplomatic track.
+- Confirmation or denial of Houthi tanker attack by maritime authorities or Western navies.
+- Formal US‑Iran deal signature and first unimpeded commercial transit through the Strait of Hormuz.
+- BOJ Governor or board member reaction to June wage data.
+- Publication of US Federal Register rule on Chinese optical‑module imports.
+- US ISM Services Prices index: a reading above `60` could revive hawkish Fed bets.
 
 ## Open Questions
-- Will the Iran de-escalation prove durable enough to fully erase the energy risk premium and allow a soft-landing inflation path?
-- Can the US Treasury sustain its yen-support intervention activism without a formal Fed liquidity backstop?
-- Will US labor market data reinforce the soft patch signaled by falling oil, or revive stagflation fears?
+- Will the Houthi claim derail the Hormuz diplomatic track, or is it a last‑minute spoiler that gets dismissed?
+- Can Japan’s wage momentum withstand the sales‑tax cut’s deflationary impulse and keep the BOJ on a steady tightening path?
+- Will the optical‑module ban escalate into broader tech sanctions that hit Asia‑wide semiconductor supply chains?
 
 ## Key Levels
-- Brent crude — fell below `$80`/bbl on a potential deal to reopen the Strait of Hormuz, collapsing the supply-risk premium (FT, CNBC, WSJ).
-- S&P 500 — hit a record high on the same hopes for an Iran deal (FT, WSJ).
+- Brent crude — rebounded after `5%` fall on Hormuz deal hopes; now volatile around `$75–$80` as threats and Houthi claim add risk premium (WSJ, Reuters).
+- S&P 500 — futures nudged higher but gains contained by Mideast uncertainty and tech earnings drag (Reuters).
