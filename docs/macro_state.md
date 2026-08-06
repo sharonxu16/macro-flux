@@ -1,25 +1,23 @@
 # Macro State — Last updated: 2026-08-06
 
-## Active Narratives (max 4)
-- **Hormuz De-escalation Deal** — Status: Acceleration; Iran and Oman agreed on precise shipping coordinates, with talks in final stages — a concrete step toward reopening the strait; next trigger: first commercial transit through the agreed route.
-- **Fed Hawks Push for Rate Hikes Despite Oil Drop** — Status: New; Kashkari and Cook explicitly call for immediate and further tightening, challenging the market’s dovish oil‑drop thesis; next trigger: US initial jobless claims and ISM Services Prices (Aug 6).
-- **US-China Trade War Intensifies** — Status: Acceleration; Beijing retaliated with sanctions and drone export curbs as the US refunded $100bn in struck‑down tariffs, adding legal uncertainty and escalating bilateral friction; next trigger: US response to China’s new export controls and any court ruling on re‑created IEEPA tariffs.
-- **Coordinated US-Japan Yen Activism** — Status: Confirmation; intervention has stabilized the yen and the dollar fell to seven‑week lows on risk‑off unwind, but no new Fed action on FIMA; next trigger: Fed response to Bessent’s FIMA expansion request.
+## Active Narratives
+- **Hormuz De‑escalation vs. Escalation** — Status: Reversal; new Houthi tanker attack undermines coordinate agreement and final‑stage talks, raising the risk premium; next trigger: a confirmed attack‑free commercial transit.
+- **Fed Hawkish Push** — Status: Acceleration; Daly’s warning that inflation may require more aggressive tightening joins Kashkari/Cook, intensifying the challenge to the oil‑drop dovish thesis; next trigger: US initial jobless claims and ISM Services Prices tonight.
+- **US‑China Tech Trade War Escalation** — Status: Acceleration; cybersecurity probe into Palo Alto Networks adds firm‑level targeting to sanctions and drone curbs, testing the pre‑Xi visit truce; next trigger: US reaction or further Chinese designations.
+- **Yuan Appreciation Momentum** — Status: New; onshore yuan breaks 6.75 to a 3.5‑year high, spurred by Goldman Sachs’ call for gradual appreciation; next trigger: PBOC fixing or verbal guidance.
 
-## Watchpoints (max 5)
-- Formal signature of the Iran-Oman transit agreement and a confirmed unhindered commercial passage.
-- US initial jobless claims print today; a hot figure could validate Kashkari/Cook hawkish calls.
-- ISM Services Prices today; a high reading would revive rate‑hike probabilities materially.
-- Any US tariff retaliation or new trade measures against China in response to Beijing’s sanctions.
-- A Houthi attack that disrupts a major energy tanker, which could delay or derail the Hormuz diplomatic track.
+## Watchpoints
+- A Houthi attack that further disrupts a commercial tanker, potentially derailing the Hormuz diplomatic track.
+- US initial jobless claims tonight: a print above 202K would fuel rate‑hike bets.
+- PBOC’s daily USD/CNY fixing — any signal of resistance to further yuan gains.
+- US retaliation or new executive measures after China’s Palo Alto review.
 
-## Open Questions (max 3)
-- Will the Iran de‑escalation prove durable enough to fully erase the energy risk premium, allowing the Fed to stay on hold despite hawkish rhetoric?
-- Can the US Treasury sustain yen‑intervention activism without a formal Fed liquidity backstop if the dollar recovers?
-- Will the US Supreme Court ruling on IEEPA tariffs lead to a broader rollback of trade barriers or just a temporary legal patch?
+## Open Questions
+- Can the Iran‑Oman talks survive a series of Houthi attacks, or will military escalation force a rethink?
+- Will the Fed pivot to rate hikes if jobless claims decline further, even as oil stays subdued?
+- Does a yuan above 6.75 trigger a policy response, or does Beijing allow gradual appreciation?
 
-## Key Levels (max 5)
-- Brent crude — remains under pressure after Iran’s agreement with Oman on shipping coordinates, but mixed settlement reflects lingering uncertainty ([WSJ](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSURpcFVBT3o3LXBFN2VySEtETmVTdlRNc0ZHMFlGNjVZdjRXY21laGtycWJMZ21VTVlZQk9lMXJac2g4T0NSdFRlWm1TejdteC01VFBlQmNfa1Z5YTJoMFVEVVdQQjg5WmVPa0RVLUFua3o0Q285a2RfS0ZoamlRRkcxLWU2R3FZUjdoaGkyUV9VeXItRldMVGtoTWh2Vk1IUFQ2NFcteXdLclBtYmFJdzJJa01YOHk1MVN6UnBPNzBndWM)).
-- Gold — surged `$4,200`/oz resistance break, closing at a new high as rate‑hike odds fell ([WSJCN via Google News](https://news.google.com/rss/articles/CBMiU0FVX3lxTE91RjAtaFBYbmI0NS1Da0loS0RZTTBXdndsSGwzcEpsajAzdmtkbWczemlIaThiUUhyMzkwV2lfRkJfbkNpNVZqSlhGR2RzMXRfUVJz)).
-- US Dollar Index — hit seven‑week low amid Hormuz deal hopes ([Investing.com](https://www.investing.com/news/forex-news/asia-fx-gains-as-dollar-hovers-near-6wk-low-rupee-higher-after-rbi-rate-hold-4836384)).
-- Copper — rose to a new record as front‑running of US tariff risks drove inventories higher ([WSJ](https://news.google.com/rss/articles/CBMirAFBVV95cUxPWm45WXcwcGxJY2VPZmxWWVNwMW55NkJIRVlIY1E3ZHNQMUxkbHowM2JtekFoMWVYQTJqaVREYkhXdUZzSHExNlFWUThEWWNETzd1NWd5aHFmdTA5dUNDb002dUVJTVZIWXlOWHlKYzgxZWM5RFZweVo4NUxxdEttazVUNWRNN1NPa0JxVEhRbmx5Zjk1dnlHcUhVR3NHUnhaRS0tMWF0UkluME9K)).
+## Key Levels
+- Onshore USD/CNY — broke below 6.75, a three‑and‑a‑half‑year low, signaling potential for further yuan strength ([Caixin](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9MUzN2UWVOTHVIb09YZzgyM0ZYektqWGoxdS12OGxvRzdZY25MOHRBM0FIVEtYeXhmQUxZdU9lUGNJTEhldHlMRHpnXzhLOG0tdURDU3hWNkFnLWNUejNMbHhn)).
+- Brent crude — held near $80 as the Houthi attack offset deal optimism, keeping the floor in focus ([WSJ](https://news.google.com/rss/articles/CBMixAFBVV95cUxPNkpOSGc0UktCVVFpT251R0dVcDF5ZTFReVlkX3Nydk8ySlVVWmN4anAwbnlBNG5WamtkMy1oN0NtWDNEZFE4dThWUHFFdGc4U2NlcFZCclVZVE9jWFRnYURreWROd1FlcUl5TUlFV1FjTllsS2xTWGplcXBENjkxMkg2OWZQMFRIYUZZMmpoWE5FTlZSb0NNVmVVdzFEdUoxMmh3QlZqTWJfb3BDbERaS0dyMXpyM3VYdUJHenFqb2NCQmlN)).
+- Gold — remained above $4,300 as safe‑haven demand stayed firm after the Houthi attack ([WSJ](https://news.google.com/rss/articles/CBMiwgFBVV95cUxON0ZQYjd0OWkzQUs3d25Xd2ZJZ1pzMFhDb0tWMW5GamMtcDBXOFNQV3dXLTdMbzFTNE5Hc0Q2a0thN2M2SVhOVUo2RGdhVVdrSlkyWHR4VGIyeEN6SEV4ZkVJQk9HY25GUDBVdV9WaEExcFdVeW1oUVRKNkNrNUNjX0pxRmpkbG1FTFh0VEZCWVF1c1BLazlzVXg3bXZTWnlobHBVV2JqWkRWdmdLVVFPNTJadzEwTENSZmNCby1saTlndw)).
