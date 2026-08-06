@@ -1,23 +1,25 @@
-# Macro State — Last updated: 2026-08-05
+# Macro State — Last updated: 2026-08-06
 
 ## Active Narratives
-- **Hormuz Ultimatum & Houthi Disruption** — Status: Acceleration; Trump threatens military action while Houthis claim tanker strike, bouncing oil; next trigger: independent confirmation of Houthi claim and whether it delays deal.
-- **BOJ Tightening on Wage Data** — Status: Confirmation; above‑expectation June wages solidify policy normalization path; next trigger: BOJ board comments and July household spending.
-- **US‑China Tech Decoupling** — Status: Acceleration; Chinese countermeasures plus planned US import ban on optical modules reprices sector risk; next trigger: official US government notice formalizing the ban.
-- **Fed Hawkish Bias Fading** — Status: Deceleration; Schmid’s warning about non‑energy inflation keeps residual hawks alive but overall rate‑hike odds still low; next trigger: US ISM Services Prices print.
+- **Hormuz De-escalation Deal Progress** — Status: Reversal (from prior war‑risk acceleration), but tempered by ongoing Houthi attacks and an Iranian threat; next trigger: first confirmed transit through agreed coordinates.
+- **US‑China Trade War Escalation** — Status: Acceleration (China retaliation, US polysilicon tariff, capital controls, front‑run copper); next trigger: formal US announcement of new China tariffs.
+- **Fed Hawks vs. Soft Labor Data** — Status: Noise/Acceleration (hawkish language but weak ADP); next trigger: US initial jobless claims and nonfarm productivity data.
+- **US Policy‑Induced Dollar Weakness** — Status: New (tariff refund scrambles trade policy, yen intervention holds gains); next trigger: further US labor data and any Fed official dovishness.
 
 ## Watchpoints
-- Confirmation or denial of Houthi tanker attack by maritime authorities or Western navies.
-- Formal US‑Iran deal signature and first unimpeded commercial transit through the Strait of Hormuz.
-- BOJ Governor or board member reaction to June wage data.
-- Publication of US Federal Register rule on Chinese optical‑module imports.
-- US ISM Services Prices index: a reading above `60` could revive hawkish Fed bets.
+- First commercial tanker transit through the Oman‑agreed Hormuz route.
+- US weekly jobless claims release (Aug 6).
+- Official US announcement of new China‑specific tariffs.
+- PBOC daily CNY fix and any sign of capital outflow tightening in response to tax hunt.
+- Iran retaliatory action if US launches new strikes.
 
 ## Open Questions
-- Will the Houthi claim derail the Hormuz diplomatic track, or is it a last‑minute spoiler that gets dismissed?
-- Can Japan’s wage momentum withstand the sales‑tax cut’s deflationary impulse and keep the BOJ on a steady tightening path?
-- Will the optical‑module ban escalate into broader tech sanctions that hit Asia‑wide semiconductor supply chains?
+- Will the Hormuz deal be implemented before a military escalation or will spoilers unravel it?
+- How far will the US‑China trade war spiral, and could it force a China devaluation?
+- Does the dollar’s seven‑week low signal a sustained regime shift or a short‑lived Hormuz reprieve?
 
 ## Key Levels
-- Brent crude — rebounded after `5%` fall on Hormuz deal hopes; now volatile around `$75–$80` as threats and Houthi claim add risk premium (WSJ, Reuters).
-- S&P 500 — futures nudged higher but gains contained by Mideast uncertainty and tech earnings drag (Reuters).
+- Gold: above `$4,300/oz`, first time since June, driven by lower rate‑hike odds after Hormuz progress (BBG, ChnFund).
+- Dollar index: seven‑week low, pressured by tariff refund and intervention (Investing, Reuters).
+- Copper: new record high, fueled by front‑running ahead of anticipated US tariffs (WSJ, SCMP).
+- Brent crude: mixed settlement near recent levels, awaiting a firmer Hormuz resolution (WSJ).
