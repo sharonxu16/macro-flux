@@ -1,21 +1,17 @@
-# Macro State — Last updated: 2026-08-08
+# Macro State — Last updated: 2026-08-09
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **US Labour‑Market Weakness Eclipses Hawkishness** — Status: Reversal; the `‑23K` payrolls miss and downward revisions reverse the September‑hike bets, forcing a rates‑pause narrative; next trigger: CPI print and any FOMC speaker pushback.
-- **Hormuz/Middle East Conflict Escalation** — Status: Acceleration; UN warns Yemen at greatest risk of major conflict, Houthis strike Saudi‑backed forces, adding chokepoint risk to the existing Hormuz deadlock; next trigger: Houthi attacks on commercial transit or Saudi territory.
-- **Broadening Russia Sanctions with Secondary‑Sanctions Risk** — Status: New; US Senate passes tough new Russia sanctions bill explicitly targeting buyers in China and India, threatening Russian energy flows; next trigger: House action and Beijing/New Delhi responses.
-- **Trump’s Fed‑Independence Assault** — Status: New (from morning); renewed effort to fire Governor Cook introduces institutional risk premium; next trigger: formal Congressional action or fresh White House remarks.
+- **Iran‑US Hormuz Brinkmanship** — Status: Acceleration; UAE accuses Iran of a missile strike on an ADNOC tanker and Tehran demands US war compensation and blockade end as conditions for reopening, directly threatening oil transit and stoking regional security risk; next trigger: US response or further attacks on commercial vessels.
+- **US Labour‑Market Weakness / Stagflation Risk** — Status: Confirmation; negative July payrolls and falling labour force participation deepen the dovish repricing while CNN flags stagflationary anxiety, anchoring expectations of a Fed pause; next trigger: CPI print.
 ## Watchpoints (max 5 — concrete 24‑72h triggers; remove resolved)
-- US House action on Russia sanctions bill and potential signing by Trump.
-- First Houthi attacks on commercial shipping in the Red Sea or Saudi infrastructure after UN warning.
-- BHP Port Hedland strike resolution or extension beyond rolling 24‑hour stoppages.
-- US CPI data next week — a soft print would validate the dovish repricing; a hot print could revive hawkish FOMC rhetoric.
-- Any official response from Beijing to the US polysilicon tariffs and broader trade tensions.
+- Any kinetic contact near the Strait of Hormuz or confirmed rerouting of tankers.
+- US official response to Iran’s compensation and blockade‑end demands.
+- China’s July CPI/PPI release — a sharper deflationary impulse could weigh on CNH and Asia FX.
+- US CPI data — soft print cements dovishness; hot print revives hawkish risk.
+- Broader risk‑off contagion in Korea and Taiwan equity/currency markets.
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will the new US Russia sanctions be enforced in a way that disrupts Russian oil flows to India and China, tightening global crude supply?
-- Can the Yemen escalation be contained, or will it spill over into direct threats to Bab el‑Mandeb transit?
-- Does the NFP miss reflect a genuine economic downturn or a statistical noise episode, and will soft data follow?
+- Will Iran escalate to direct targeting of international shipping beyond the UAE‑flagged vessel, triggering a full insurance‑and‑freight shock?
+- Does the US have the military reserve to enforce Hormuz passage while constrained by munitions strain, or will it concede to some Iranian terms?
+- Can the US labour market weakness coexist with cooling CPI to produce a sustained dovish Fed pivot, or will war‑driven energy costs resurface stagflation?
 ## Key Levels (max 5 — only with today’s source citations; include asset and why the level matters)
-- US nonfarm payrolls — `‑23,000` vs consensus `+83,000`; the negative print crushed rate‑hike expectations (morning source, carried forward for narrative continuity).
-- Brent crude — rose further on Hormuz draft plan and now faces additional upside risk from Russia sanctions and Yemen escalation (prior report).
-- DXY — ended the week at its lowest since May as rate‑hike bets evaporated (morning source).
+- (No specific price levels newly cited in today’s feed that carry forward a persistent level narrative.)
