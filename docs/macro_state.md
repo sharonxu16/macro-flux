@@ -1,22 +1,22 @@
 # Macro State — Last updated: 2026-08-10
 
-## Active Narratives
-- **China Disinflation Deepens** — Status: Confirmation (Acceleration); July CPI/PPI miss confirms fading Iran‑war oil impulse and strengthens PBOC‑easing expectations, pressuring CNH; next trigger: PBOC rate adjustment.
-- **Iran‑US Hormuz Brinkmanship** — Status: Reversal; Iran’s maximalist conditions and stalled Oman deal reverse the tentative Pezeshkian‑era de‑escalation, rebuilding oil risk premium; next trigger: formal US‑Iran meeting or Oman document.
-- **US Labour Market Softening** — Status: New; the surprise 23k payroll contraction, even with a lower unemployment rate, slashes Fed hike odds and fuels a gold surge; next trigger: July US CPI.
-- **BHP Port Hedland Iron‑Ore Strike Escalation** — Status: Acceleration; additional workers joining the strike heightens global iron‑ore supply‑disruption risk; next trigger: force‑majeure declaration or resolution.
+## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
+- **Iran‑US Hormuz Brinkmanship** — Status: Acceleration; Iran hardens demands and Oman deal alone insufficient to reopen Strait; oil extends gains, Houthi strike on Saudi refinery adds risk; next trigger: actual tanker transit under any agreement.
+- **US Labour‑Market Weakness / Dovish Fed Repricing** — Status: New; surprise 23k payroll contraction crashes September hike odds and lifts equities, gold, and bonds; next trigger: US CPI this week.
+- **China Disinflation / PBOC Easing Room** — Status: Confirmation; July CPI and PPI both undershoot, core CPI at 0.9%, giving the PBOC more space to ease; next trigger: PBOC liquidity operations or LPR setting.
+- **Gold Record Rally** — Status: Acceleration; $300 surge in three days on dovish Fed bets and geopolitical safe haven, with UBS targeting $5,000; next trigger: US CPI and any Hormuz resolution.
 
-## Watchpoints
-- PBOC OMO/MLF rate cut or RRR announcement following the soft CPI/PPI.
-- Formal US‑Iran dialogue or Oman‑mediated shipping‑lane agreement.
-- July US CPI print — a soft core figure would make a September Fed hike highly unlikely.
-- BHP strike expansion or settlement; any shipment delay notices.
-- Houthi‑Saudi dynamics: further attacks testing the new Mecca defence pact.
+## Watchpoints (max 5 — concrete 24‑72h triggers; remove resolved)
+- First tanker transit through Strait of Hormuz under any Oman‑brokered framework.
+- US CPI data — a soft print solidifies the dovish shift; a hot print revives hawkish risk.
+- China’s next major PBOC move (OMO, MLF, LPR) — will the bank accelerate easing after weak CPI?
+- Any further Houthi or Iran‑linked attacks on Saudi/UAE energy infrastructure.
+- RBA hawkish hold Tuesday — language on inflation persistence will shape AUD and Asia FX.
 
-## Open Questions
-- Will the PBOC use the disinflation window to deliver a material easing package, or remain cautious because of CNH stability concerns?
-- Can the nascent Iran negotiation overture survive the maximalist IRGC conditions and continued kinetic incidents in the Strait?
-- Does the broadening Port Hedland strike curtail enough iron‑ore volume to tighten the spot market, or will elevated inventories cushion the impact?
+## Open Questions (max 3 — only unresolved questions that affect positioning)
+- Can a weak US labour market coexist with cooling CPI to produce a sustained Fed pause, or will war‑driven energy costs quickly rekindle inflation?
+- Will Iran accept a narrow shipping corridor without its compensation and blockade‑end demands, or does the standoff intensify?
+- Does the gold rally have fundamental legs beyond the current risk‑off shock, or is it a momentum short squeeze vulnerable to a Hormuz deal?
 
-## Key Levels
-- (No specific newly cited levels in today’s feed.)
+## Key Levels (max 5 — only with today’s source citations; include asset and why the level matters)
+- No specific price levels cited in today’s feed that carry a persistent level narrative.
