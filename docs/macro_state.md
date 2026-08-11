@@ -1,24 +1,22 @@
 # Macro State — Last updated: 2026-08-11
 
 ## Active Narratives
-- **Iran‑US Hormuz Brinkmanship** — Status: Acceleration (escalation after Trump’s new demands scuttle deal hopes); oil supply risk premium repricing; next trigger: any Iran counter‑offer or confirmed tanker transit.
-- **CNH Appreciation** — Status: New; renminbi at 3.5‑year high supported by tariff refunds and internationalisation; next trigger: US CPI and PBOC verbal guidance.
-- **BOJ Hawkish Tilt** — Status: Acceleration; September hike signal and reported US cooperation on yen intervention; next trigger: further BOJ commentary or official FX action.
-- **Gold Record Rally** — Status: Confirmation; held above `$4,400` as haven flows and dovish Fed bets persist; next trigger: US CPI.
+- **Iran‑US Hormuz Brinkmanship** — Status: Acceleration (shipping traffic collapses to six vessels, Gulf states accept Iranian control, oil rises above $84); energy‑inflation premium repricing; next trigger: any commercial transit or deal announcement.
+- **BOK Hawkish Turn** — Status: New (outgoing deputy governor signals more rate hikes needed, citing strong underlying inflation); supports KRW but challenged by oil; next trigger: BOK policy meeting rhetoric.
+- **RBA Hawkish Hold** — Status: New (governor warns further tightening “quite possible” while holding rates); AUD divergent bet if US CPI softens; next trigger: US CPI data.
+- **Yen Intervention Fade** — Status: Reversal (joint US‑Japan action gains halved; market cites lack of follow‑through); next trigger: further BOJ commentary or renewed intervention signals.
 
 ## Watchpoints
-- US CPI release this week — directional signal for Fed, dollar, gold, and Asia FX.
-- Any Iran deal breakthrough or actual tanker transit through Hormuz.
-- BOJ board speeches or meeting minutes indicating rate‑hike timing.
-- CNH spot follow‑through and potential PBOC verbal pushback.
-- RBA rate decision today — language on inflation persistence.
+- US CPI release this week — directional signal for Fed, dollar, Asia FX.
+- Any tanker transit through Hormuz or Iran de‑escalation.
+- BOK meeting minutes or official speeches specifying hike timing.
+- RBA’s next guidance on inflation persistence after data.
+- Yen’s ability to hold above pre‑intervention troughs; risk of full retracement.
 
 ## Open Questions
-- Can CNH strength persist if a hot CPI revives hawkish Fed repricing and lifts the dollar?
-- Will the BOJ’s September hike signal translate into actual policy action strong enough to reverse yen weakness?
-- Does gold’s rally above `$4,400` have legs if oil‑driven inflation pushes US yields higher?
+- Can Asian central banks tighten credibly while oil‑driven inflation crimps growth?
+- Will yen weakness trigger a second round of intervention before the BOJ acts?
+- Does Singapore’s AI‑boom upgrade insulate SGD from regional EM outflows?
 
 ## Key Levels
-- WTI crude `$82` (CNBC) — pivot of recent four‑day rally and oil‑inflation repricing.
-- Gold `$4,400/oz` (BBG) — two‑month high; sustained break opens path to new records.
-- CNH at 3.5‑year high (WSJCN) — tests tolerance of PBOC stability framework.
+- WTI crude `$84` (CNBC) — fresh multi‑session high reinforcing supply‑shock repricing.
