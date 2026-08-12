@@ -1,23 +1,24 @@
 # Macro State — Last updated: 2026-08-12
 
 ## Active Narratives
-- **Iran‑US Hormuz brinkmanship** — Status: Acceleration (kinetic enforcement of blockade, Iran’s absolute pre‑condition for reopening deepens energy‑supply shock); oil elevated above `$83`, risk‑off in equities; next trigger: any commercial transit or ceasefire breakthrough.
-- **BOK hawkish turn** — Status: Confirmation (deputy governor again signals further rate hikes on persistent inflation); supports KRW but constrained by imported oil costs; next trigger: BOK meeting rhetoric.
-- **North Korea provocation** — Status: New (ballistic missile launch ahead of US‑South Korea drills raises regional friction); short‑lived KRW risk unless escalatory spiral develops.
-- **Yen intervention debate** — Status: Continuing (WSJ notes intervention effects fading, while Eurizon argues the joint action is a “watershed moment” that prevents a return to lows); market awaits further BOJ commentary or CPI impact on USD/JPY.
+- **Hormuz/Red Sea shipping attacks and energy supply disruption** — Status: Acceleration (kinetic escalation spread to Red Sea with first fatalities in over a year, traffic sank to one-week low, UAE shuttling Iraqi oil via dark transit; next trigger: any safe passage of commercial vessels or ceasefire breakthrough)
+- **US CPI binary risk and Fed split** — Status: New (Pimco bets on hold through 2026 while Boston Fed’s Collins ready to back September hike if inflation hot, setting up a directional event; next trigger: CPI release and initial bond/money market reaction)
+- **China consumer weakness** — Status: Confirmation (EV sales fell for a seventh month, deepening the domestic demand drag; next trigger: retail sales or new stimulus signal)
+- **Yen rescue under threat from Bessent-Takaichi BOJ divide** — Status: Acceleration (fundamental split over BOJ path jeopardizes joint intervention gains; next trigger: further BOJ commentary or MOF action)
 
 ## Watchpoints
-- US CPI print today — directional signal for Fed, USD, Asia FX, and bond yields.
-- Any tanker transit through Hormuz or Iran de‑escalation statement; repeat military enforcement of blockade.
-- BOK meeting minutes or official speeches specifying timing of hikes.
-- DPRK reaction or an allied military exercise announcement that could re‑escalate tension.
-- Yen’s ability to hold above pre‑intervention levels; failure would validate the WSJ fade narrative.
+- US CPI print tonight — directional signal for Fed, USD, UST yields and Asia FX
+- Any commercial vessel safely transits Hormuz/Red Sea, or ceasefire talks regain traction
+- BOK meeting rhetoric on rates amid oil-driven inflation
+- Fed speeches after CPI (Collins, other hawks/doves) to clarify reaction function
+- Ukraine halting strikes on tankers from Novorossiysk — immediate oil flow impact
 
 ## Open Questions
-- Can Asian central banks tighten credibly while oil‑driven inflation crimps growth, and will today’s CPI accelerate that tension?
-- Will the kinetic blockade enforcement push oil above `$90` and force a broader risk‑asset repricing?
-- Does the rotation out of Korean stocks into Taiwan signal a structural shift in AI‑related capital flows, or is it temporary positioning?
+- Will the CPI surprise tilt the Fed toward a September hike or solidify Pimco’s hold view?
+- Can oil break above $90 if shipping attacks persist and supply routes remain constrained?
+- Will China step up consumption-oriented stimulus before Q3 data weakens further?
 
 ## Key Levels
-- WTI crude `$83` ([CNBC](https://www.cnbc.com/2026/08/11/oil-prices-today-us-crude-84.html)) — settled above this threshold, reinforcing supply‑disruption premium.
-- Core US CPI YoY consensus `2.5%` vs prior `2.6%` ([TradingEconomics calendar](https://tradingeconomics.com)) — a miss above would reinforce tightening fears.
+- Core CPI YoY consensus `2.5%` (from Economic Calendar) — a miss above reinforces tightening fears
+- UST 10Y yield `4.682%` ([CNBC](https://www.cnbc.com/2026/08/12/treasury-yields-inflation-cpi-data.html)) — flat ahead of CPI, pivot point for post-data direction
+- Brent crude monitored for breakout; no fresh specific level cited in today’s feed
