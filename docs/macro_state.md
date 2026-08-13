@@ -1,23 +1,26 @@
 # Macro State — Last updated: 2026-08-13
 
-## Active Narratives
-- **US CPI and Fed hike repricing** — Status: Reversal/Deceleration (subdued July CPI reduced near-term hike odds, Goldman sees hold through year; next trigger: PPI, claims and Fed speeches)
-- **Hormuz and Red Sea energy supply disruption** — Status: Acceleration (Houthi attack killed six, traffic near three-month low, IEA sees deepening supply shortfall, Saudi reroutes via Egypt; next trigger: safe transit or ceasefire/reopening)
-- **PBOC Q2 liquidity and rate framework shift** — Status: New/Confirmation (more frequent overnight reverse repos, 1tn private relending, short-end framework; next trigger: actual OMO operations and LPR guidance)
-- **China domestic demand weakness** — Status: Confirmation (global EV sales rose only on Europe while China stayed weak, Guangdong imports inflated by chip prices, US panel flags underlying anxiety; next trigger: consumption stimulus or retail sales data)
-## Watchpoints
+## Active Narratives (max 4)
+- **BOJ faster hike repricing** — Status: New/Acceleration; government support for near-term hike and hot Japan PPI raise September/October odds; next trigger: BOJ guidance and Japan CPI.
+- **Hormuz and Red Sea supply disruption with softer crude** — Status: Acceleration/Confirmation; Strait remains blocked but oil slips below `$90` on demand and inventory; next trigger: safe transit or ceasefire.
+- **Korea AI-led Kospi bull market** — Status: Acceleration; Kospi enters technical bull market while regulators curb leverage; next trigger: global AI earnings and US PPI.
+- **US long-end supply pressure** — Status: New; 30-year auction set for highest yield since 2001; next trigger: auction result.
+
+## Watchpoints (max 5)
 - US PPI and initial jobless claims tonight, plus post-data Fed speeches
-- Any commercial vessel safely transits Hormuz or Red Sea, or ceasefire talks gain traction
-- PBOC actual OMO operation frequency and size, plus LPR guidance
-- Secondary chokepoint escalation in the Black Sea or further Red Sea attacks
-- Oil inventory signals after the unexpected US crude build
-## Open Questions
-- Will subdued CPI translate into a full Fed hold through 2026, or is September still live if PPI surprises?
-- Can Brent sustain gains if Hormuz stays closed while demand destruction intensifies?
-- Will PBOC liquidity support translate into lower CNY short-end yields or consumption-oriented stimulus?
-## Key Levels
-- US headline CPI YoY `3.4%`, prior `3.5%` ([BBC](https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo))
-- Hormuz traffic about `90%` below the `130` ship daily average before Feb 28 ([CNBC](https://www.cnbc.com/2026/08/12/strait-hormuz-ship-traffic-iran-war-deal.html))
-- IEA 2026 oil demand decline `1.6 million barrels a day` ([CNBC](https://www.cnbc.com/2026/08/12/iea-oil-demand-hormuz.html))
-- KOSPI up over `4%` as rate-hike worries eased ([ChnFund](https://www.chnfund.com/article/AR3c1fd9c1-86ef-bc0c-9151-3a230acf005c))
-- US 10-year fiscal deficit trend: 10-month red ink nearly `$1.8 trillion` ([CNBC](https://www.cnbc.com/2026/08/12/us-budget-deficit-surged-in-july-to-highest-level-since-march-2021.html))
+- Any commercial vessel safely transits Hormuz or ceasefire talks gain traction
+- 30-year Treasury auction result and bid/cover at 1:00 AM HKT
+- BOJ September/October hike signals and Japan CPI
+- Korea regulatory impact on leveraged ETFs and single-stock trading
+
+## Open Questions (max 3)
+- Will BOJ tightening produce sustained yen appreciation or keep the yen near the 160 watch level?
+- Can Kospi bull momentum endure if US PPI surprises and long-end Treasury yields stay elevated?
+- Does a blocked Hormuz plus falling oil signal demand destruction rather than a tighter physical supply shock?
+
+## Key Levels (max 5)
+- Japan PPI `7.2%`, prior revised `7.3%` ([CNBC](https://www.cnbc.com/2026/08/13/japan-ppi-inflation-energy-prices-takaichi-cpi.html))
+- Oil price below `$90` ([Reuters](https://news.google.com/rss/articles/CBMigwFBVV95cUxNazlfTWozZlI1am8yV1pmREdVZGswQ1NPWl92dGhIN3lVbWJRaFA2YWhWNDQ4NWwweXZpbmpLOGFmcDlUdDhBSGFyU1piOVBzam1JOEN2RVFDOXdWOFk2LTB1MklsRzRfVmlaR3BTb2ZFNmw2U0hjUnhNLUd3cVV0WElxVQ))
+- Norges Bank key rate `4.25%` ([BBG](https://www.bloomberg.com/news/articles/2026-08-13/norway-holds-key-rate-at-4-25-and-keeps-tightening-in-play))
+- Turkey year-end inflation forecast `28%` ([BBG](https://www.bloomberg.com/news/articles/2026-08-13/turkey-central-bank-raises-year-end-inflation-forecast-to-28))
+- US 30-year auction set for highest yield since 2001 ([BBG](https://www.bloomberg.com/news/articles/2026-08-13/us-braces-for-30-year-bond-auction-at-highest-yield-since-2001))
