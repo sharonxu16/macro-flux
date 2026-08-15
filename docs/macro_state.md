@@ -1,26 +1,25 @@
-# Macro State — Last updated: 2026-08-14
+# Macro State — Last updated: 2026-08-15
 
-## Active Narratives
-- **Hormuz supply risk with firmer crude** — Status: Acceleration; US indefinite blockade, capped traffic, and rising oil prices keep energy risk premium live; next trigger: Iran-Oman reopening deal or safe transit.
-- **BOJ September hike and yen intervention failure** — Status: New/Acceleration; hawkish BOJ leaks colliding with failed intervention and USD/JPY nearing 160; next trigger: official BOJ confirmation or new MoF action.
-- **China credit contraction and PBOC easing** — Status: Confirmation/Acceleration; record loan slump plus social financing stock growth shows weak private demand; next trigger: PBOC rate cut or larger liquidity injection.
-- **US-China tariff and drone levies** — Status: Confirmation/Acceleration; up to $26 billion lost tariffs and up to 100% drone levies extend enforcement; next trigger: formal Chinese response.
+## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
+- **Hormuz supply risk and firmer crude** — Status: Acceleration; US territorial claim, tanker attacks, and Omani oil spill keep the energy risk premium live; next trigger: verified US-Iran ceasefire or safe commercial transit.
+- **US consumer slowdown with Fed on hold** — Status: Reversal; weak retail sales and sentiment counter the prior strong-data hike scenario even as war-driven costs lift inflation; next trigger: Fed speakers or minutes validate patience.
+- **US-China trade decoupling and AI alliance pressure** — Status: Acceleration; `$60bn` transshipment claim, drone tariffs, and partner AI choices broaden enforcement beyond bilateral tariffs; next trigger: formal Chinese response or next-week Canada tariff decision.
+- **Yen intervention scrutiny** — Status: Fading/Confirmation; Senator Warren seeks Treasury justification for the yen intervention, keeping FX policy political; next trigger: Treasury response or renewed MoF action.
 
-## Watchpoints
-- US retail sales and Michigan sentiment tonight; strong data may revive Fed hike bets and pressure risk assets.
-- Iran-Oman Hormuz reopening talks or first safe commercial convoy.
-- BOJ September hike confirmation and any renewed Japan FX intervention.
-- PBOC follow-up easing after first mid-month overnight reverse repo.
-- Chinese response to US drone tariffs and transshipment report.
+## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
+- Iran-US Hormuz ceasefire progress or first safe commercial convoy.
+- Fed speakers or minutes confirming the dovish read from soft consumer data.
+- Formal Chinese response to transshipment accusations and AI pick-sides pressure.
+- Canada tariff deadline next week and whether Ottawa removes retaliation.
+- Treasury explanation for yen intervention or renewed Japan FX action.
 
-## Open Questions
-- Will soft China credit force more aggressive PBOC easing and cap CNH weakness?
-- Can BOJ hiking signals overcome failed intervention and carry appetite in USD/JPY?
-- Will oil hold weekly gains if US demand data surprises to the downside?
+## Open Questions (max 3 — only unresolved questions that affect positioning)
+- Will oil-driven living-cost pressures turn slumping US consumer demand into a stagflationary constraint on Fed easing?
+- Can US pressure to pick AI sides force Asian economies into explicit US-China alignment choices?
+- Will Trump's Hormuz territorial claim harden Iranian resistance and keep tanker risk premium elevated?
 
-## Key Levels
-- USD/JPY approaching `160` ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xbEVrRktnckh1UnNZMkVDSWJhOXNIdlBDN0lyTk4zMWZtQ2NMdHNrQTlfLTVzeU1uMEpndjlCbk1SR3F1bkM0cXo0ck41ZWlsRTRV)); intervention threshold and carry risk.
-- Hong Kong Q2 GDP `4.3%`, full-year forecast `3.5-4.5%` ([SCMP](https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3364047/hong-kong-raises-2026-economic-forecast-after-strongest-first-half-nearly-5-years)); HKD growth premium signal.
-- China social financing stock growth `7.4%` YoY ([CCTV](https://news.google.com/rss/articles/CBMieEFVX3lxTE0xMVB2U0otZVVsVVhZel8xVTVCcVdSOUFFdTZXNXM4SGVHaUFsRk5qZGk1b2NsUFA2cGFVTG5aYVJjazV0c1JzR0VhUUhYeVgxWkR3aXR0clZ2Y1NXQTZPQXVvX1NnVGZCY2VtR1p5cHl5dVotU3ZBNg)); credit impulse floor.
-- Taiwan GDP forecast more than `10%` ([BBG](https://www.bloomberg.com/news/articles/2026-08-14/taiwan-predicts-first-year-of-double-digit-growth-since-2010)); AI export strength.
-- Transshipped goods cost up to `$26 billion` in lost tariffs ([Reuters](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUnd4NlphQnNDV1c5X0xlSW9rQmd2bGRDX2xPMi1HT0RzM1NpX0xhVDJkTnNQX2hoQ0xoNHFyc29JNTAtaGlDaFo4ODJMU1ZJRk80bEs0bDR2Nzk5U0c4WWRVb09ER2dHTE42Q1hVZ2xtUXB4NFZNSkJXdWVHT3NEZnJIeXh2aEZQNnc5VU9DOTBfRkY4Szk5Q0UzUkZ6ZTVFeWt5SzBST1JtNlZrWmF1NGVaakdDLWIzYmJCNzRVQU80SFJvaXpyUGVsUGY1MHlJcndJVkM3REw)); tariff enforcement scale.
+## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
+- `$60bn` transshipment trade cited by the White House ([FT](https://www.ft.com/content/5d5ed2dd-8326-4cad-aac3-5816448ceccf)); tariff-evasion scale, key for Asia FX and China trade sentiment.
+- `$50 billion` India diaspora inflows since June ([BBG](https://www.bloomberg.com/news/articles/2026-08-14/india-raises-50-billion-of-diaspora-dollars-ends-swap-facility)); external financing buffer supporting INR resilience.
+- `1.5%` Swiss Q2 GDP growth ([FT](https://www.ft.com/content/bb62cffe-8985-4407-b555-bdbcd2d18ec5)); fastest since 2021, confirms European demand momentum.
+- `6%` Malaysia Q2 GDP growth ([CNA](https://news.google.com/rss/articles/CBMingFBVV95cUxQQU9WUnp2S2M0SEpwTzFqbGNfSHAtR2V6Z3NfcFVNRFVXaG9wZzlnQjhPQk5lRjhqV2lQXzlvRTNISWl2QV82V1dKWEh2UU00QUh3cFFZQU5HRFdsek8yY29RYjl3SWpWUXBmZnhUX1pMUlFQTzBvNmsyZFQ4NXdiWkRaNHUxdnJRYmhxU2Z6UDdUQnk0aXdiR18yNWJGQQ)); regional growth signal supportive of Asian FX fundamentals.
