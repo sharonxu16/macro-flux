@@ -1,25 +1,24 @@
 # Macro State — Last updated: 2026-08-16
 
 ## Active Narratives
-- **Hormuz supply risk and firmer crude** — Status: Acceleration; another ship strike, carrier rotation, and expanded sanctions threats keep oil risk premium elevated; next trigger: Iran-US talks decision or safe commercial transit.
-- **US tariff policy broadening** — Status: New; Colombia earthquake tariff-suspension request joins Canada deadline risk and tests Washington flexibility; next trigger: US response on Colombia relief and US-Canada deadline.
-- **AI shadow credit backstops** — Status: New; off-balance-sheet AI liabilities add credit and liquidity tail risk; next trigger: Nvidia financing details or ratings/disclosure response.
-- **US consumer slowdown with Fed on hold** — Status: Confirmation; BlackRock commentary says inflation remains above `2%` target while economy is "in the ballpark"; next trigger: Fed speakers and minutes.
+- **Hormuz supply risk and Iran sanctions financial transmission** — Status: Acceleration; US Treasury exploring Chinese banks, shadow fleets and exchange houses widens sanctions channel to China oil trade and CNH/HKD; next trigger: formal designation or Chinese bank response.
+- **Korean Peninsula border escalation** — Status: New; South Korea fired warning shots after North Korean soldiers crossed demarcation line; next trigger: further DMZ incident or official de-escalation.
+- **Yuan internationalization via CIPS** — Status: New; Libya banks to join CIPS after PBOC governor talks; next trigger: another African bank joining or PBOC statement.
+- **AI shadow credit backstops** — Status: Fading; no new feed today, retained as tail risk; next trigger: Nvidia financing or rating agency/disclosure response.
 
 ## Watchpoints
-- Iran-US decision on returning to talks or safe commercial transit through Hormuz.
-- Next reported commercial ship attack or Hormuz escalation.
-- Washington response to Colombia tariff suspension request.
-- Nvidia `$500 billion` financing details and AI shadow-liability disclosures.
-- US-Canada tariff deadline next week.
+- North Korea/South Korea official response or further DMZ exchange within 24h.
+- US Treasury designation of Chinese banks/shadow fleets/exchange houses or China response.
+- India LPG output/import substitution updates if Hormuz remains blocked.
+- Another African central bank joining CIPS or PBOC yuan internationalization statement.
+- Monday `3 p.m.` China July economic data release and market reaction.
 
 ## Open Questions
-- Will Hormuz shipping remain conditional on US conditions and keep energy risk premium elevated?
-- Can US tariff policy bend for disaster relief while keeping Canada deadline pressure intact?
-- Will AI off-balance-sheet liabilities become a broad credit event rather than a single-stock concern?
+- Will US secondary sanctions on Chinese banks tighten CNH/HKD funding or China oil trade?
+- Can a limited DMZ border incident remain contained or does it broaden Korea risk premium?
+- Does CIPS expansion signal faster-than-expected erosion of USD trade settlement in commodity-linked EM?
 
 ## Key Levels
-- `$70 billion` AI shadow credit backstops, credit and equity volatility trigger ([BBG](https://www.bloomberg.com/news/articles/2026-08-15/bond-traders-agonize-over-ai-companies-70-billion-of-shadow-credit-backstops)).
-- `$500 billion` Nvidia financing partnership, financing and disclosure catalyst ([BBG](https://www.bloomberg.com/news/articles/2026-08-15/bond-traders-agonize-over-ai-companies-70-billion-of-shadow-credit-backstops)).
-- `$6.4bn` Colombia reconstruction cost, fiscal and trade-policy stress level ([Al Jazeera](https://www.aljazeera.com/news/2026/8/15/colombia-asks-trump-to-suspend-tariffs-as-country-reels-from-earthquake)).
-- `$10 billion` Colombia earthquake bill, fiscal consolidation risk level ([BBG](https://www.bloomberg.com/news/articles/2026-08-15/colombia-s-10-billion-earthquake-bill-imperils-austerity-drive)).
+- `90%` of India’s LPG imports via Strait of Hormuz ([BBG](https://www.bloomberg.com/news/articles/2026-08-16/india-readies-big-lpg-output-boost-as-hormuz-uncertainty-lingers)) — energy-security cutoff transmission level.
+- `38%` rise in China luxury home sales priced between 30 million and 50 million yuan in first half ([SCMP](https://www.scmp.com/business/china-business/article/3364087/luxury-home-sales-rebound-mainland-china-overall-market-recovery-unlikely-analysts)) — high-end property sentiment but not broad recovery.
+- `3 p.m.` Monday China July economic data release ([BBG](https://www.bloomberg.com/news/articles/2026-08-16/china-to-hold-july-economic-briefing-after-official-data-release)) — event-risk timing for CNH and China rates.
