@@ -1,24 +1,26 @@
-# Macro State — Last updated: 2026-08-16
+# Macro State — Last updated: 2026-08-17
 
-## Active Narratives
-- **Hormuz supply risk and Iran sanctions financial transmission** — Status: Acceleration; US Treasury exploring Chinese banks, shadow fleets and exchange houses widens sanctions channel to China oil trade and CNH/HKD; next trigger: formal designation or Chinese bank response.
-- **Korean Peninsula border escalation** — Status: New; South Korea fired warning shots after North Korean soldiers crossed demarcation line; next trigger: further DMZ incident or official de-escalation.
-- **Yuan internationalization via CIPS** — Status: New; Libya banks to join CIPS after PBOC governor talks; next trigger: another African bank joining or PBOC statement.
-- **AI shadow credit backstops** — Status: Fading; no new feed today, retained as tail risk; next trigger: Nvidia financing or rating agency/disclosure response.
+## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
+- **Hormuz supply risk and Iran sanctions financial transmission** — Status: Acceleration; tanker attacks, possible historic spill, and explicit US Treasury exploration of Chinese banks, shadow fleets and exchange houses widen sanctions channel to China oil trade and CNH/HKD; next trigger: formal Treasury designation or new commercial-vessel attack.
+- **Korean Peninsula security realignment** — Status: Acceleration; US orders drill scale-back after Seoul declines Iran denuclearization help, while South Korea proposes formal peace talks after DMZ warning shots; next trigger: North/South response to peace proposal or another border incident.
+- **Yuan internationalization via CIPS** — Status: Confirmation; Libya banks set to join CIPS after PBOC Governor talks and plans panda bonds, reinforcing sanctions-avoidance channel; next trigger: formal onboarding statement or another African bank joining.
+- **Soft US data versus rising global rates** — Status: Confirmation; weak US data reduces Fed hike bets and pressures dollar, but global rate expectations rise and threaten bonds; next trigger: July FOMC minutes and Fed speaker guidance.
 
-## Watchpoints
-- North Korea/South Korea official response or further DMZ exchange within 24h.
-- US Treasury designation of Chinese banks/shadow fleets/exchange houses or China response.
-- India LPG output/import substitution updates if Hormuz remains blocked.
-- Another African central bank joining CIPS or PBOC yuan internationalization statement.
-- Monday `3 p.m.` China July economic data release and market reaction.
+## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
+- US Treasury designation of Chinese banks/shadow fleets/exchange houses or Chinese official response.
+- New attack on commercial vessels or evidence of a major Gulf oil spill expansion.
+- North Korea/South Korea official response to proposed peace talks or repeat DMZ incident.
+- Monday China July activity data release and market reaction in CNH/China rates.
+- July FOMC minutes interpretation and any Fed guidance on the three dissents.
 
-## Open Questions
+## Open Questions (max 3 — only unresolved questions that affect positioning)
 - Will US secondary sanctions on Chinese banks tighten CNH/HKD funding or China oil trade?
-- Can a limited DMZ border incident remain contained or does it broaden Korea risk premium?
-- Does CIPS expansion signal faster-than-expected erosion of USD trade settlement in commodity-linked EM?
+- Can the US-Korea drill reduction coexist with peace talks, or does it widen alliance risk premium?
+- Does CIPS expansion accelerate erosion of USD trade settlement in commodity-linked EM?
 
-## Key Levels
-- `90%` of India’s LPG imports via Strait of Hormuz ([BBG](https://www.bloomberg.com/news/articles/2026-08-16/india-readies-big-lpg-output-boost-as-hormuz-uncertainty-lingers)) — energy-security cutoff transmission level.
-- `38%` rise in China luxury home sales priced between 30 million and 50 million yuan in first half ([SCMP](https://www.scmp.com/business/china-business/article/3364087/luxury-home-sales-rebound-mainland-china-overall-market-recovery-unlikely-analysts)) — high-end property sentiment but not broad recovery.
-- `3 p.m.` Monday China July economic data release ([BBG](https://www.bloomberg.com/news/articles/2026-08-16/china-to-hold-july-economic-briefing-after-official-data-release)) — event-risk timing for CNH and China rates.
+## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
+- `$4,400` gold steady level as traders weigh US data and rate path ([BBG](https://www.bloomberg.com/news/articles/2026-08-16/gold-steady-near-4-400-as-traders-weigh-us-data-and-rate-path)) — gold price anchor for inflation and Fed repricing.
+- `$60bn` trade via 'transshipment scam' cited by White House ([FT](https://www.ft.com/content/5d5ed2dd-8326-4cad-aac3-5816448ceccf)) — tariff-evasion scale that could broaden US secondary sanctions.
+- `1.5%` Swiss GDP growth in Q2 ([FT](https://www.ft.com/content/bb62cffe-8985-4407-b555-bdbcd2d18ec5)) — European growth surprise.
+- `6%` Malaysia Q2 GDP growth ([CNA](https://news.google.com/rss/articles/CBMingFBVV95cUxQQU9WUnp2S2M0SEpwTzFqbGNfSHAtR2V6Z3NfcFVNRFVXaG9wZzlnQjhPQk5lRjhqV2lQXzlvRTNISWl2QV82V1dKWEh2UU00QUh3cFFZQU5HRFdsek8yY29RYjl3SWpWUXBmZnhUX1pMUlFQTzBvNmsyZFQ4NXdiWkRaNHUxdnJRYmhxU2Z6UDdUQnk0aXdiR18yNWJGQQ)) — regional EM growth resilience.
+- `3.735%` prior US 3-month bill auction yield ([TradingEconomics calendar only]) — not a market level; omitted from report prose but retained for calendar context.
