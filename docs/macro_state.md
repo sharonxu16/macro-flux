@@ -1,26 +1,21 @@
 # Macro State — Last updated: 2026-08-17
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Hormuz supply risk and Iran sanctions financial transmission** — Status: Acceleration; tanker attacks, possible historic spill, and explicit US Treasury exploration of Chinese banks, shadow fleets and exchange houses widen sanctions channel to China oil trade and CNH/HKD; next trigger: formal Treasury designation or new commercial-vessel attack.
-- **Korean Peninsula security realignment** — Status: Acceleration; US orders drill scale-back after Seoul declines Iran denuclearization help, while South Korea proposes formal peace talks after DMZ warning shots; next trigger: North/South response to peace proposal or another border incident.
-- **Yuan internationalization via CIPS** — Status: Confirmation; Libya banks set to join CIPS after PBOC Governor talks and plans panda bonds, reinforcing sanctions-avoidance channel; next trigger: formal onboarding statement or another African bank joining.
-- **Soft US data versus rising global rates** — Status: Confirmation; weak US data reduces Fed hike bets and pressures dollar, but global rate expectations rise and threaten bonds; next trigger: July FOMC minutes and Fed speaker guidance.
-
+- **US-Iran ceasefire expiry and Hormuz supply risk** — Status: Acceleration; ceasefire expires with no extension and Hormuz traffic set a new low; next trigger: formal extension deal or new tanker attack.
+- **China July activity slump** — Status: Confirmation; industrial output slowed, retail sales nearly flat, new home prices stagnant; next trigger: PBOC liquidity operation or housing policy response.
+- **Global policy divergence and dollar slide** — Status: Acceleration; dollar weakest since early June while JGB yield hits three-decade high; next trigger: FOMC minutes and BOJ speakers.
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- US Treasury designation of Chinese banks/shadow fleets/exchange houses or Chinese official response.
-- New attack on commercial vessels or evidence of a major Gulf oil spill expansion.
-- North Korea/South Korea official response to proposed peace talks or repeat DMZ incident.
-- Monday China July activity data release and market reaction in CNH/China rates.
-- July FOMC minutes interpretation and any Fed guidance on the three dissents.
-
+- Ceasefire extension or expiry outcome, plus any new tanker attack or oil spill expansion.
+- PBOC liquidity operation or housing support announcement after China July activity data.
+- FOMC minutes and US retail earnings confirming or reversing Fed repricing.
+- 5-year JGB auction and BOJ communication following Japan GDP miss and yield surge.
+- US-South Korea drill reduction and North Korea response to peace talk proposal.
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will US secondary sanctions on Chinese banks tighten CNH/HKD funding or China oil trade?
-- Can the US-Korea drill reduction coexist with peace talks, or does it widen alliance risk premium?
-- Does CIPS expansion accelerate erosion of USD trade settlement in commodity-linked EM?
-
+- Will China policy easing follow the July activity slump, or is property stagnation structural?
+- Can BOJ keep tightening despite weak GDP, or will soft spending delay normalization?
+- Does US-Iran ceasefire expiry widen oil shock transmission into Asian FX and inflation?
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- `$4,400` gold steady level as traders weigh US data and rate path ([BBG](https://www.bloomberg.com/news/articles/2026-08-16/gold-steady-near-4-400-as-traders-weigh-us-data-and-rate-path)) — gold price anchor for inflation and Fed repricing.
-- `$60bn` trade via 'transshipment scam' cited by White House ([FT](https://www.ft.com/content/5d5ed2dd-8326-4cad-aac3-5816448ceccf)) — tariff-evasion scale that could broaden US secondary sanctions.
-- `1.5%` Swiss GDP growth in Q2 ([FT](https://www.ft.com/content/bb62cffe-8985-4407-b555-bdbcd2d18ec5)) — European growth surprise.
-- `6%` Malaysia Q2 GDP growth ([CNA](https://news.google.com/rss/articles/CBMingFBVV95cUxQQU9WUnp2S2M0SEpwTzFqbGNfSHAtR2V6Z3NfcFVNRFVXaG9wZzlnQjhPQk5lRjhqV2lQXzlvRTNISWl2QV82V1dKWEh2UU00QUh3cFFZQU5HRFdsek8yY29RYjl3SWpWUXBmZnhUX1pMUlFQTzBvNmsyZFQ4NXdiWkRaNHUxdnJRYmhxU2Z6UDdUQnk0aXdiR18yNWJGQQ)) — regional EM growth resilience.
-- `3.735%` prior US 3-month bill auction yield ([TradingEconomics calendar only]) — not a market level; omitted from report prose but retained for calendar context.
+- `$4,400` gold level as softer dollar supports prices despite Middle East inflation concerns ([Yahoo](https://finance.yahoo.com/markets/commodities/articles/gold-rises-towards-4-400-092243418.html)).
+- `3%` Japan 10-year JGB yield level as the rate hits a three-decade high ([FT](https://www.ft.com/content/1d319839-1c40-4035-b058-5ca2389cafd0)).
+- `1.1%` Japan Q2 GDP annualized growth, well below the `2%` estimate ([CNBC](https://www.cnbc.com/2026/08/17/japan-gdp-misses-estimates-trade-exports-yen-nikkei.html)).
+- `4.13` trillion yuan CXMT market capitalisation anchoring China AI-equity optimism ([SCMP](https://www.scmp.com/tech/article/3364288/cxmt-tops-4-trillion-yuan-ai-fuelled-memory-rally-lifts-chinas-chip-champion)).
