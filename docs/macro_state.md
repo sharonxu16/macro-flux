@@ -1,26 +1,25 @@
 # Macro State — Last updated: 2026-08-18
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **US-Iran ceasefire expiry and Hormuz supply shock** — Status: Acceleration; Washington refuses extension and threatens Oman, Iran warns of new offensive, lifting crude and refined product pricing; next trigger: formal extension, military strike, or new tanker/transit disruption.
-- **Global long-end UST term premium repricing** — Status: Acceleration; 30-year yield tops `5.31%` on oil, fiscal supply, and AI issuance while dollar weakens on paused Fed hikes; next trigger: FOMC minutes, Treasury auctions.
-- **US-Canada tariff deadline** — Status: New; 50% tariffs possible within 36 hours as auto rules block agreement; next trigger: Aug 19 deadline, waiver, or sector deal.
-- **China policy response after activity slump** — Status: Confirmation; Premier Li urges achieving full-year economic targets; next trigger: concrete PBOC/housing/fiscal follow-through.
+- **Hormuz closure and oil supply shock** — Status: Acceleration; official closure conditions and `$91` Brent harden the physical supply shock; next trigger: first escorted transit or US acceptance of interim conditions.
+- **Global long-end term premium repricing** — Status: Acceleration; US 30-year near `5.322%`, Germany and Japan multi-decade highs; next trigger: US Treasury auction or FOMC minutes.
+- **US-Korea alliance risk and Kim diplomacy** — Status: New; drill cuts, Kim channel, and Wang Yi visit inject security premium into Asia FX; next trigger: Wang Yi Seoul readout or Kim/Trump summit signal.
+- **China onshore yield slide and UST diversification** — Status: Confirmation; 10-year yield at 13-month low and UST holdings cut to `$633.4B`; next trigger: PBOC liquidity operation or fiscal follow-through.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- Hormuz: extension deal, strike, or shipping transit disruption; new diesel crack or SPR drawdown update.
-- US-Canada Aug 19 tariff deadline and any late auto-sector exemption.
-- FOMC minutes and long-end Treasury supply/demand signals this week.
-- Korean asset divergence: KOSPI outperformance vs Korean retail outflows; Kim/Trump summit signal.
-- PBOC liquidity operation or housing support following Li Qiang’s growth pledge.
+- Hormuz: first escorted tanker transit or US interim-deal acceptance; Brent holding above `$91`.
+- US 30-year yield holding above `5.32%` through next Treasury auction; FOMC minutes.
+- Wang Yi Seoul visit and Kim/Trump summit signal.
+- China PBOC liquidity operation or fiscal follow-through after onshore yield slide.
+- Canada August 19 tariff deadline and Carney outcome.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will the Hormuz supply shock and Canada tariffs force a repricing of Fed path despite the Reuters poll expecting a hold?
-- Can long-end UST weakness persist without breaking the dollar lower and tightening US financial conditions?
-- Will China’s growth pledge translate into actual policy easing, or remain rhetorical?
+- Can long-end UST weakness persist without tightening financial conditions enough to force Fed guidance shift?
+- Will alliance stress and energy shock drive sustained KRW underperformance despite BOK policy?
+- Will China’s fiscal push follow the onshore yield slide, and how will UST trimming affect auction demand?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- `$90` Brent oil, breached as Iran rules out extension and threatens escalation ([CNBC](https://www.cnbc.com/2026/08/17/oil-prices-iran-war-strait-hormuz.html)).
-- `$102.20` US diesel crack, record high on supply disruptions ([SCMP](https://www.scmp.com/news/world/united-states-canada/article/3364349/us-diesel-crack-surpasses-us100-barrel-first-time-supply-disruptions)).
-- `5.31%` 30-year Treasury yield, highest in 19 years ([CNBC](https://www.cnbc.com/2026/08/17/treasury-yields-federal-reserve-fomc-minutes.html)).
-- `95.96` WSJ Dollar Index level after falling `0.07%` ([WSJ](https://news.google.com/rss/articles/CBMitgFBVV95cUxOc0FYc2lMa29DWjE2eUVZRDh3Nk1EZTBrYUFDbmdqSG5VRS1HbXdwdlgtc2NfTWRYYjY4U0t6STIwbFJ5ZGFsVGJKZldmYmhteTRqWlkxM3VQZFVaekdBTk8wQ1JwQVZWeVlKUXRyajN6dVp1aGhCNUNjckN5d0pLTUZ3Qjh3c1NjZ0s2N1M1VkxscmFmZUhxZXNxVkZ1ME9xZGNRcU1HaUJyUkJ0Qk9MbWtCZDc0QQ)).
-- `3%` Canada inflation rate, driven by gasoline prices from Middle East conflict ([BBG](https://www.bloomberg.com/news/articles/2026-08-17/canada-inflation-ticks-up-to-3-amid-higher-gas-prices)).
+- `$91` Brent oil, topped as US-Iran ceasefire expired ([Reuters](https://news.google.com/rss/articles/CBMitAFBVV95cUxPcmdBR0dqOUx3OEJLUy1ZbDhBWFo2S2M1STJjYXk5cUlNZW1MTFlLdkhDc3FNOEhBYjVabjF3SE5QUE5ERnBPQWw1dTVLb0V2WDc5bDM4MURRc1FSVWJfMnFIT0doSDFMZHV1bTQxbU9tX3BrenFsdUhHSDBSQ2NnVll5OFBVTUN5M0dhS2psTlQ3MXIzSWptYm5OM0RrWWlpU0h2b2VKUUxkaEdqT2Fyc2VwVFA)).
+- `5.322%` US 30-year Treasury yield, just below highest since 2002 ([CNBC](https://www.cnbc.com/2026/08/18/treasury-yields-.html)).
+- `$633.4B` China US Treasury holdings, trimmed amid diversification push ([SCMP](https://www.scmp.com/economy/china-economy/article/3364353/china-trims-us-treasury-holdings-amid-iran-war-fed-uncertainty)).
+- `13-month low` China 10-year bond yield, driven by weak growth and investor flight to sovereign debt ([FT](https://www.ft.com/content/c3223b7c-6683-42df-9e60-9dbd2dbdfe07)).
