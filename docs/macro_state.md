@@ -1,24 +1,24 @@
 # Macro State — Last updated: 2026-08-20
 
-## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **US Treasury buyback intervention / long-end yield suppression** — Status: New; surprise doubling of long-bond buybacks compresses term premium and weakens the dollar; next trigger: Aug 20 US 20-year auction and initial jobless claims.
-- **Fed hawkish reaction function** — Status: Confirmation; July FOMC minutes show broad support for rate hikes if inflation stays high, creating tension with Treasury easing; next trigger: jobless claims, Philly Fed, and any Fed speakers.
-- **Hormuz/Iran economic warfare and oil supply shock** — Status: Acceleration; UAE financial embargo and Trump’s most crushing sanctions extend the conflict beyond the transit chokepoint; next trigger: first escorted transit or UAE-Iran de-escalation.
-- **Canada tariff truce** — Status: Confirmation; 3-day tariff pause keeps a binary trade risk live while Washington discusses lower metals/autos tariffs; next trigger: final deal announcement or tariff reimposition.
+## Active Narratives (max 4)
+- **Treasury buyback backstop** — Status: Fading; intraday yields edge higher and analysts warn of short-lived relief; next trigger: US claims, Philly Fed, 30-year TIPS auction.
+- **Iran economic war and oil/tanker premium** — Status: Acceleration; Economic D-Day and secondary sanctions while oil hits three-week high; next trigger: Hormuz transit data or de-escalation.
+- **China domestic easing and CGB resilience** — Status: Confirmation; Shanghai property easing and low CGB yields; next trigger: PBOC signals, August activity data.
+- **Asia security premium / US alliance credibility** — Status: New; North Korea missile launch, South Korea's 120 warhead estimate, Taiwan record defense budget; next trigger: US-SK drill response, Taiwan legislative passage.
 
-## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- US 20-year auction and initial jobless claims after Treasury buyback moves.
-- Philly Fed manufacturing index and Fed speakers after hawkish minutes.
-- First escorted Hormuz transit or UAE-Iran trade/financial de-escalation.
-- Canada final tariff deal or reimposition after 3-day pause.
-- Korea KOSPI stabilization and any BOK or household-loan signals.
+## Watchpoints (max 5)
+- US Initial Jobless Claims, Philadelphia Fed Manufacturing Index, and 30-year TIPS auction tonight.
+- First confirmed Hormuz transit disruption or US-Iran de-escalation; tanker rate trajectory.
+- PBOC/State Council further easing or August China activity data.
+- North Korea response to scaled-back US-South Korea drills; Taiwan defense budget passage.
+- Fed speakers after hawkish FOMC commentary.
 
-## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will the Treasury buyback compression hold against hawkish FOMC guidance and supply?
-- Will the UAE embargo and Trump sanctions broaden the Gulf conflict beyond oil transit?
-- Will Canada’s three-day pause turn into a durable tariff reduction or revert?
+## Open Questions (max 3)
+- Will the Treasury buyback backstop hold against fiscal supply and sticky inflation?
+- Will secondary sanctions shift Hormuz flows from unchanged to physical disruption?
+- Will China easing stabilize property and sustain CGB diversification inflows?
 
-## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- `$4,500` gold near its biggest six-month gain after the surprise buyback ([BBG](https://www.bloomberg.com/news/articles/2026-08-19/gold-holds-near-4-500-as-us-treasury-buyback-sends-yields-lower)).
-- `$40 trillion` US public debt, cited as raising doom-loop risk ([BBG](https://www.bloomberg.com/news/articles/2026-08-19/us-public-debt-hits-40-trillion-high-raising-doom-loop-risk)).
-- `6646.47` KOSPI open level after Korea’s high-open move ([ChnFund](https://www.chnfund.com/article/AR0ff88053-99de-6b1a-9c0c-3a232eb8536d)).
+## Key Levels (max 5)
+- `$14,000` copper, cited as level holding above while LME stockpiles see biggest weekly inflow since 2020 ([BBG](https://www.bloomberg.com/news/articles/2026-08-20/copper-holds-above-14-000-as-traders-assess-us-treasury-action)).
+- `A$1 trillion` Australia national debt, temporary breach highlighting developed-market borrowing stress ([BBG](https://www.bloomberg.com/news/articles/2026-08-20/australia-debt-breaches-a-1-trillion-amid-global-borrowing-spree)).
+- `3.7%` Hong Kong seasonally adjusted unemployment rate, steady but under fresh-graduate pressure ([SCMP](https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3364686/jobless-rate-steady-37-start-2026-pressure-mounting)).
