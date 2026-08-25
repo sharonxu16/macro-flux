@@ -1,24 +1,26 @@
 # Macro State — Last updated: 2026-08-21
 
-## Active Narratives (max 4)
-- **US fiscal/term premium and Treasury buyback backstop** - Status: Acceleration; doubled buybacks fail to stop long-end yield rise and stress is spilling into USD; next trigger: Jackson Hole Warsh speech and buyback implementation.
-- **Iran economic war and oil risk premium** - Status: Acceleration; US vows toughest sanctions, Trump threatens economic action, oil up over `2%`; next trigger: sanctions package details or Hormuz transit disruption.
-- **China easing and offshore CNH liquidity management** - Status: Confirmation; PBOC will issue RMB bills through HKMA CMU, alongside official messaging on industrial new momentum; next trigger: bill size and date.
-- **Asia security premium and US alliance credibility** - Status: Confirmation; South Korea defence flip extends anxiety to Japan; next trigger: official US-South Korea posture and Japan response.
+## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
+- **US fiscal/term premium and Treasury buyback backstop** — Status: Acceleration; further buyback signals and Fed YCC/QE speculation keep long-end yields and USD as global pressure points; next trigger: Bessent fiscal measure details and 30-year yield reaction.
+- **Japan inflation and BOJ rate pressure** — Status: New; cycle-high July inflation and yen weakness despite joint intervention force a possible September hike; next trigger: BOJ communication and follow-up FX intervention.
+- **China capital-flow enforcement and QDII scrutiny** — Status: New; SAFE penalty on Guotai Haitong reveals Beijing tightening enforcement of cross-border investment; next trigger: additional SAFE/QDII actions or quota changes.
+- **China equity momentum and STAR market leadership** — Status: Confirmation; Shanghai STAR 50 up almost a quarter this year, outstripping Hong Kong amid tech frenzy; next trigger: tech policy or US-China tech news.
 
-## Watchpoints (max 5)
-- Warsh Jackson Hole speech on Aug 28 and Fed anti-inflation roadmap.
-- US Treasury buyback sizes and 30-year yield reaction.
-- Iran sanctions detail and first Hormuz transit or oil export signal.
-- PBOC RMB bill issuance details and CNH liquidity impact.
-- US-South Korea defence posture and Japan reaction.
+## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
+- Bessent fiscal measure details and 30-year UST yield response.
+- BOJ September rate signal and any further yen intervention.
+- Jackson Hole Warsh speech Aug 28 and Fed response to YCC/QE speculation.
+- Additional SAFE or QDII enforcement announcements and any CNH liquidity shift.
+- Shanghai STAR 50 momentum versus Hong Kong tech trading.
 
-## Open Questions (max 3)
-- Will larger Treasury buybacks fail to cap long-end yields, forcing continued USD spillover?
-- Will Iran sanctions move from financial pressure to physical oil disruption?
-- Does PBOC offshore bill issuance signal CNH stability intent or offshore liquidity drain?
+## Open Questions (max 3 — only unresolved questions that affect positioning)
+- Will further Treasury buybacks or Fed QE/YCC speculation cap long-end yields, or accelerate USD spillover?
+- Will BOJ September hawkish pressure support the yen, or is joint intervention losing credibility?
+- Does Beijing’s QDII crackdown signal structural tightening of offshore investment, with broader CNH implications?
 
-## Key Levels (max 5)
-- `$4 billion` Treasury buyback operation threshold cited by Bessent, key for long-end backstop scale ([CNBC](https://www.cnbc.com/2026/08/20/bessent-says-treasury-buyback-operation-could-be-more-than-4-billion.html))
-- `$40 trillion` US debt total, key fiscal stress level ([财新](https://news.google.com/rss/articles/CBMiakFVX3lxTE5wUWhfSWNFMEh1dmZUaGVPVVBRRzJXSlZSSUszSXF5WEZzY1lfVmw0cVFqeXJBQ3VLaldKOS1SZ19wQ2dmWFRoN3QtRHVGWWNOd2VqZ1BZRWxOZUlKY2NFdVlWNmxlRlhvdXc), [央视网](https://news.google.com/rss/articles/CBMieEFVX3lxTE9xMWt6VnRPVHRJZHVyd3JqTEhtRXBRZ0o3TUZvRlhqamtmMTU0al9SeV93UWV6cUJmTUtJd2tkQWlGQzNaVnVDWGZNYXFHSjUwelZsNTlBZTREOWdJeVpfZktWLXlwWEk0VmhSckZRQ1BPWTNkeWc5bw))
-- `2%` international oil price increase on Iran economic action threat, key energy risk premium gauge ([央视网](https://news.google.com/rss/articles/CBMieEFVX3lxTFBDRzJQRHJuYnEwQmhiUXlyQndDNUJhRC15VTQzU3FYVDRWUzZtN1NfQldWMm51Ukc4UHd2TXpPdDdfWjBHMk5WLVRvZVJ1NTQxb2RwWG5DR2VfMFFRNjNwR2twQVRHX1VKZ1AzekJsVkhpVE9xZmp5dw))
+## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
+- `1.9%` Japan July inflation, cycle high pressuring BOJ ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SVklhLTRiRUhvMU1GdVM1SnhBZ0lXN19RNkRRbWpWTGdMTGVDYUJOb0Vlc2lhcXFEbndwbmFZSmlfRi1JdFRJcXRReXEtbkdFRm1R))。
+- `52.5 million yuan` / `US$7.8 million` Guotai Haitong QDII penalty, enforcement benchmark ([SCMP](https://www.scmp.com/business/china-business/article/3364770/chinese-regulators-slap-us78m-penalty-guotai-haitong-arm-amid-capital-flow-crackdown))。
+- `21%` China-APEC trade growth Jan-July, external demand signal ([CCTV](https://news.google.com/rss/articles/CBMieEFVX3lxTFB5MDZNR0NwU2FPM3RkWExJZEd3NUliV25YQW1FYnJGUXlOOGpENWgzY2d0R0YwVVZ5SWJpNDFyMDFud2pJZ0VSNFNTYl9IZ01BUHd6NUxxbDYzNmFaNHRkNTdNUTdQeDA2TkZpSFVOUlFnTEtMUkw2Qw))。
+- `90 trillion won` to `110 trillion won` Samsung shareholder return package, Korea equity sentiment ([CNBC](https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html))。
+- `185,000 mt` Pakistan fuel oil export flow, physical supply signal ([S&P Global Commodities](https://news.google.com/rss/articles/CBMi6AFBVV95cUxORGZrb1JOWWl5ZFF0dlVlVkdIQkZFTnZxVnFISU4weEl0R1U1RmZKeFNQTmFcEI1bDg3TTdMRGtqMXJSRUZ5MHZKejUyaEVmX3JsWjhKZDU0Yl92dG9Va2xMT3hRaUZPS1QxUXB4MVBVcTJ1bTZ2dUwzMG1aaEJTQTNQLUgzZ3ZpbWswYTVLNjh0VWZCQmE4UDg2RGlzRnh0anA2X3FiS1dHSUFOUVdrUlUyb0JObXBJNkFZMWdsTDZqRnhnX0R6VVdtWHR6OUhmMmlNWXNRWTFlM0tua3hGV3Nkb2I5bFpT))。
