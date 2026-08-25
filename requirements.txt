@@ -1,4 +1,5 @@
 feedparser
-anthropic
+# Keep compatibility with the Messages API arguments used by morning_briefing.py.
+anthropic==0.125.0
 certifi
 markdown
