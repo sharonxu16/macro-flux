@@ -1,23 +1,22 @@
-# Macro State — Last updated: 2026-08-22
+# Macro State — Last updated: 2026-08-23
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Debasement trade and hard-asset demand** - Status: Acceleration; gold cleared 200-day MA, Goldman trading desk longs at 60%, silver `$90` client bet; next trigger: gold holding 200-day MA and silver path toward `$90`.
-- **North America trade escalation** - Status: New; Canada vows to match US tariffs after trade talks collapse; next trigger: Canadian retaliation details and US response.
-- **Iran war and oil risk** - Status: Confirmation; top politicians urge end, US and Middle East allies described as flipping oil script on Iran, new US sanctions; next trigger: ceasefire statement or further sanctions/oil disruption.
-- **Taiwan Strait security** - Status: New; mainland research ship spotted near Taiwan’s largest naval base; next trigger: Taiwan defense response or further PLA activity.
+- **North America trade escalation** — Status: Acceleration; Canada sets `September 8` retaliatory tariff start; next trigger US response and full retaliation list.
+- **Global stagflation pulse** — Status: New; warning that oil plus weak consumption produce stagflationary smell; next trigger US consumption data and oil path.
+- **Iran war and oil risk** — Status: Confirmation; US-Iran described as entering economic war; next trigger ceasefire statement or additional sanctions/energy disruption.
+- **Korea security diplomacy** — Status: New; revived US-North Korea talks could scale back US military presence in South; next trigger US-DPRK engagement or Seoul reaction.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- Gold holding above 200-day moving average and Goldman desk positioning updates.
-- Canada retaliation list and US trade response after tariff-match vow.
-- Iran ceasefire/official statement and oil price reaction.
-- Mainland research ship near Taiwan naval base and Taiwan official response.
-- Silver sustaining the `$90` three-month client bet trajectory.
+- Canada retaliation list and US response before September 8.
+- Iran economic war escalation or official ceasefire signal.
+- US consumption data and oil price action to validate stagflation pulse.
+- US-North Korea talks and any US military posture adjustment in South Korea.
+- Pacific security-trade balancing moves from Beijing or Australia.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will debasement positioning continue to support gold/silver and weaken the dollar?
-- Will Canada/US tariff escalation broaden into a larger North American trade shock?
-- Will Iran de-escalation materialize enough to reduce oil risk premium?
+- Will Canada-US trade escalation broaden into wider North America supply-chain repricing?
+- Will US-Iran economic war keep oil risk premium elevated?
+- Will revived North Korea diplomacy reduce or raise Korea tail risk?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- Gold 200-day moving average cleared, signalling upside continuation for the debasement trade ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Cc0RMdXBGbVZPUVhQbDRUaDlyMkQ5TmV4NTU4YktRQ2RNeU02bllWbFpadVJRNENhSEFhbEphT2V6TmY2cWFubGNzanNxZmw4OTdj)).
-- `$90` silver three-month client bet, marking speculative upside target in the debasement complex ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Cc0RMdXBGbVZPUVhQbDRUaDlyMkQ5TmV4NTU4YktRQ2RNeU02bllWbFpadVJRNENhSEFhbEphT2V6TmY2cWFubGNzanNxZmw4OTdj)).
+- No new key levels from today's feed.
