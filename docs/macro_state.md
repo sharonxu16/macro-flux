@@ -1,24 +1,24 @@
-# Macro State — Last updated: 2026-08-20
+# Macro State — Last updated: 2026-08-21
 
 ## Active Narratives (max 4)
-- **Treasury buyback backstop** — Status: Fading; intraday yields edge higher and analysts warn of short-lived relief; next trigger: US claims, Philly Fed, 30-year TIPS auction.
-- **Iran economic war and oil/tanker premium** — Status: Acceleration; Economic D-Day and secondary sanctions while oil hits three-week high; next trigger: Hormuz transit data or de-escalation.
-- **China domestic easing and CGB resilience** — Status: Confirmation; Shanghai property easing and low CGB yields; next trigger: PBOC signals, August activity data.
-- **Asia security premium / US alliance credibility** — Status: New; North Korea missile launch, South Korea's 120 warhead estimate, Taiwan record defense budget; next trigger: US-SK drill response, Taiwan legislative passage.
+- **US fiscal/term premium and Treasury buyback backstop** - Status: Acceleration; doubled buybacks fail to stop long-end yield rise and stress is spilling into USD; next trigger: Jackson Hole Warsh speech and buyback implementation.
+- **Iran economic war and oil risk premium** - Status: Acceleration; US vows toughest sanctions, Trump threatens economic action, oil up over `2%`; next trigger: sanctions package details or Hormuz transit disruption.
+- **China easing and offshore CNH liquidity management** - Status: Confirmation; PBOC will issue RMB bills through HKMA CMU, alongside official messaging on industrial new momentum; next trigger: bill size and date.
+- **Asia security premium and US alliance credibility** - Status: Confirmation; South Korea defence flip extends anxiety to Japan; next trigger: official US-South Korea posture and Japan response.
 
 ## Watchpoints (max 5)
-- US Initial Jobless Claims, Philadelphia Fed Manufacturing Index, and 30-year TIPS auction tonight.
-- First confirmed Hormuz transit disruption or US-Iran de-escalation; tanker rate trajectory.
-- PBOC/State Council further easing or August China activity data.
-- North Korea response to scaled-back US-South Korea drills; Taiwan defense budget passage.
-- Fed speakers after hawkish FOMC commentary.
+- Warsh Jackson Hole speech on Aug 28 and Fed anti-inflation roadmap.
+- US Treasury buyback sizes and 30-year yield reaction.
+- Iran sanctions detail and first Hormuz transit or oil export signal.
+- PBOC RMB bill issuance details and CNH liquidity impact.
+- US-South Korea defence posture and Japan reaction.
 
 ## Open Questions (max 3)
-- Will the Treasury buyback backstop hold against fiscal supply and sticky inflation?
-- Will secondary sanctions shift Hormuz flows from unchanged to physical disruption?
-- Will China easing stabilize property and sustain CGB diversification inflows?
+- Will larger Treasury buybacks fail to cap long-end yields, forcing continued USD spillover?
+- Will Iran sanctions move from financial pressure to physical oil disruption?
+- Does PBOC offshore bill issuance signal CNH stability intent or offshore liquidity drain?
 
 ## Key Levels (max 5)
-- `$14,000` copper, cited as level holding above while LME stockpiles see biggest weekly inflow since 2020 ([BBG](https://www.bloomberg.com/news/articles/2026-08-20/copper-holds-above-14-000-as-traders-assess-us-treasury-action)).
-- `A$1 trillion` Australia national debt, temporary breach highlighting developed-market borrowing stress ([BBG](https://www.bloomberg.com/news/articles/2026-08-20/australia-debt-breaches-a-1-trillion-amid-global-borrowing-spree)).
-- `3.7%` Hong Kong seasonally adjusted unemployment rate, steady but under fresh-graduate pressure ([SCMP](https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3364686/jobless-rate-steady-37-start-2026-pressure-mounting)).
+- `$4 billion` Treasury buyback operation threshold cited by Bessent, key for long-end backstop scale ([CNBC](https://www.cnbc.com/2026/08/20/bessent-says-treasury-buyback-operation-could-be-more-than-4-billion.html))
+- `$40 trillion` US debt total, key fiscal stress level ([财新](https://news.google.com/rss/articles/CBMiakFVX3lxTE5wUWhfSWNFMEh1dmZUaGVPVVBRRzJXSlZSSUszSXF5WEZzY1lfVmw0cVFqeXJBQ3VLaldKOS1SZ19wQ2dmWFRoN3QtRHVGWWNOd2VqZ1BZRWxOZUlKY2NFdVlWNmxlRlhvdXc), [央视网](https://news.google.com/rss/articles/CBMieEFVX3lxTE9xMWt6VnRPVHRJZHVyd3JqTEhtRXBRZ0o3TUZvRlhqamtmMTU0al9SeV93UWV6cUJmTUtJd2tkQWlGQzNaVnVDWGZNYXFHSjUwelZsNTlBZTREOWdJeVpfZktWLXlwWEk0VmhSckZRQ1BPWTNkeWc5bw))
+- `2%` international oil price increase on Iran economic action threat, key energy risk premium gauge ([央视网](https://news.google.com/rss/articles/CBMieEFVX3lxTFBDRzJQRHJuYnEwQmhiUXlyQndDNUJhRC15VTQzU3FYVDRWUzZtN1NfQldWMm51Ukc4UHd2TXpPdDdfWjBHMk5WLVRvZVJ1NTQxb2RwWG5DR2VfMFFRNjNwR2twQVRHX1VKZ1AzekJsVkhpVE9xZmp5dw))
