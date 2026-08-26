@@ -207,7 +207,9 @@ OUTPUT_DIR = Path(os.environ.get(
 MODEL = os.environ.get("ANTHROPIC_MODEL", "deepseek-v4-pro")
 if MODEL.lower().startswith("deepseek-v4-pro"):
     MODEL = "deepseek-v4-pro"
-MAX_OUTPUT_TOKENS = 24576
+# Keep the existing prompt and report validation unchanged; allow unusually
+# dense news windows enough completion headroom without publishing partial output.
+MAX_OUTPUT_TOKENS = env_int("MAX_OUTPUT_TOKENS", 32768, min_value=24576, max_value=65536)
 FEED_TIMEOUT = 10  # seconds per feed
 MAX_AGE_HOURS = 48
 LOCAL_TZ = timezone(timedelta(hours=8))  # HKT
