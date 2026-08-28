@@ -1,25 +1,23 @@
-# Macro State — Last updated: 2026-08-27
+# Macro State — Last updated: 2026-08-28
 
-## Active Narratives
-- **BOK tightening cycle** — Status: Confirmation; second straight hike to `3%` supports KRW, gradual language caps hawkish scope; next trigger US jobs data and further BOK communication.
-- **Hormuz escalation reversal** — Status: Reversal; tanker attack and Washington rejection revive risk premium despite Qatari mediation; next trigger talks outcome or verified transit.
-- **Treasury/Fed collision** — Status: Unchanged; Warsh Jackson Hole speech and 7-year auction tonight are the key catalysts; next trigger his remarks and auction result.
-- **US-China cyber escalation** — Status: Confirmation; US says Chinese hackers hit Justice Dept, NASA, Fed, Senate; next trigger Beijing response before Xi-Trump summit.
+## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
+- **Fed hawkish repricing before Warsh** — Status: Acceleration; multiple officials now say policy is not restrictive, raising rate expectations into Jackson Hole; next trigger Warsh speech and 7-year auction.
+- **BOK tightening cycle** — Status: Confirmation; second straight hike to `3%` supports KRW and shows inflation/housing priority; next trigger US jobs data and BOK communication.
+- **Hormuz blockade risk premium** — Status: Confirmation; Iran sets reopening conditions and talks sputter, keeping oil risk alive; next trigger verified transit or renewed kinetic incident.
+- **US-China tech trade escalation** — Status: New; US weighing semiconductor tariffs while Nvidia hedges on Chinese AI models; next trigger official tariff decision and Beijing response.
 
-## Watchpoints
-- Warsh Jackson Hole speech and 7-year note auction Aug 28 01:00 HKT.
-- US initial jobless claims Aug 27 08:30 PM HKT.
-- Qatari PM Iran talks and possible de-escalation or further tanker attack.
-- Verified Hormuz transit normalization or new kinetic incident.
-- China response to US cyber accusation and Xi-Trump summit preparation.
+## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
+- Warsh Jackson Hole address and 7-year note auction outcome.
+- Iran Strait of Hormuz reopening conditions or new tanker/kinetic incident.
+- US semiconductor tariff announcement and any China retaliation.
+- BOK follow-up communication and US data direction.
+- Tokyo CPI follow-through and BOJ September signal.
 
-## Open Questions
-- Will Warsh explicitly push back on Treasury buybacks, sending long-end UST yields higher?
-- Does Qatari mediation produce de-escalation or is the tanker attack a new phase?
-- Will China retaliate in the financial sector and transmit to CNH and Hong Kong assets?
+## Open Questions (max 3 — only unresolved questions that affect positioning)
+- Will Warsh explicitly push back on Treasury buybacks and signal restrictive policy?
+- Does Qatari mediation produce de-escalation or is Hormuz closure prolonged?
+- Will semiconductor tariffs be imposed and hit Korea/Taiwan capital flows?
 
-## Key Levels
-- BOK policy rate `3%` ([FT](https://www.ft.com/content/b2531a83-ea6f-4467-bf10-46c96c427657)) — Korea tightening marker and KRW support.
-- Oil settled up `2%` ([Reuters](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS3BzVVdsbG9iUHJoaGxwVFYzR256VFBDQnlQRlh1YVZfVnZmUE1jeXQzRXFHRDhuSnpyanlNZ1NHR0RHUy1TSm8teHRiVHJ1cTZSMDRJaW1MMFJXQ2ZpTmZrN081Y3V4OUM0Qk9lRXJMY2ZONzVZN0J4eWtZT1d4TTR1Uzg1bjR5NU9TRGFQdmpZb2RPQUpYbWI4NzdyVVhsczZkOWVjTzV1ZTRKbHV3RDMwcUJ5U2xTT1M2VFhrMlVpQQ)) — energy risk premium gauge.
-- Europe gas prices could top `100 euros` ([CNBC](https://www.cnbc.com/2026/08/27/europe-gas-storage-prices-winter-lng.html)) — winter supply shock threshold.
-- Nvidia target `300美元` ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WT3lFSlBqZ21hYXpoc2ZNZi1KVHpIVkFlb2l1SUpYOGwtMXEyN1NFa0JqMnFUajhXQmd0dlhCNi04NGdVQXlIT195Q1kyYzE0ckVz)) — AI earnings bull marker.
+## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
+- BOK policy rate `3%` ([SCMP](https://www.scmp.com/week-asia/economics/article/3365480/strong-signal-south-korea-raises-rates-again-fight-inflation-rising-home-prices)) — Korea tightening marker and KRW support.
+- Gold near `$4,600`/oz ([BBG](https://www.bloomberg.com/news/articles/2026-08-27/gold-holds-near-4-600-as-investors-focus-on-fed-rate-hike-path)) — rates and geopolitical hedge gauge.
