@@ -1,23 +1,26 @@
-# Macro State — Last updated: 2026-08-29
+# Macro State — Last updated: 2026-08-30
 
-## Active Narratives
-- **Iran war second-order costs** — Status: Acceleration; trade collapse and US munitions drain extend the war beyond oil supply into US readiness and alliance risk; next trigger: US readiness reassessment or Iranian retaliation.
-- **US trade diplomacy with Asia** — Status: New; Vietnam restated constructive tariff talks, distinct from fading US-China truce; next trigger: formal negotiating round or tariff decision.
-- **Fed hawkish repricing after Warsh** — Status: Confirmation; still the dominant rate driver, but no new Fed signal this window; next trigger: US labor data and Fed speakers.
-- **China property stabilization push** — Status: Fading; no new implementation details this window; next trigger: provincial deployment and home sales data.
+## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
+- **Fed hawkish repricing after Warsh** - Status: Acceleration; explicit hike readiness if inflation fails to move toward 2%; next trigger US jobs/CPI.
+- **Iran war second-order costs and Hormuz chokepoint** - Status: Acceleration; Tehran in no rush to reopen Hormuz, Persian Gulf flows 40% prewar; next trigger transit or sanctions enforcement.
+- **US trade diplomacy and resource nationalism** - Status: Acceleration; US-Canada talks broke down, Venezuela oil claim; next trigger tariff action or Venezuela operational details.
+- **Global energy supply constraints** - Status: Acceleration; Russia diesel export ban and Ukrainian refinery attacks; next trigger EIA/IEA or ceasefire.
 
-## Watchpoints
-- Any US military readiness or munitions stockpile statement in the next 48h.
-- Iranian response to "economic D-Day" or trade collapse; Hormuz transit risk.
-- Vietnam tariff deal timeline or official negotiating round announcement.
-- Russia-China-Iran summit agenda, especially sanctions evasion or oil cooperation.
-- Next US inflation/spending print to validate Warsh hike contingency.
+## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
+- US jobs report and any Fed speaker guidance versus the Warsh hike path.
+- Iran/Hormuz reopening statement or escalation; Persian Gulf oil flow changes.
+- US-Canada trade action or renewed negotiation signal.
+- Russia diesel export ban extension or new refinery attacks.
+- Venezuela oil deal legal/operational follow-through.
 
-## Open Questions
-- Will US munitions depletion force a strategic pivot that affects Taiwan deterrence?
-- Does Iran's economic strain accelerate a ceasefire or push escalation?
-- Is Vietnam's constructive tone a template for broader US-Asia tariff relief?
+## Open Questions (max 3 — only unresolved questions that affect positioning)
+- Will Warsh's explicit hike path force a faster market repricing before the US midterms?
+- Does Iran's economic strain accelerate a ceasefire or more aggressive Hormuz posture?
+- Is the Venezuela arrangement a durable supply shift or a political overhang on oil prices?
 
-## Key Levels
-- Iran trade drop `35%` ([SCMP](https://www.scmp.com/news/world/middle-east/article/3365679/iranian-leaders-admit-economic-toll-war-us-trade-drops-35)).
-- Climate-related food inflation add `0.9` to `3.2` percentage points by 2035 ([FT](https://www.ft.com/content/c2609ef8-1592-4c04-a3b6-37437627ff8e)).
+## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
+- `2%` Fed inflation target ([BBG](https://www.bloomberg.com/news/videos/2026-08-29/warsh-says-inflation-isn-t-slowing-vows-to-reach-2-video)); anchor for rate path.
+- `~40%` Persian Gulf oil flows of prewar levels ([BBG](https://www.bloomberg.com/news/videos/2026-08-29/iran-war-exposes-limits-of-us-military-endurance-video)); energy risk gauge.
+- `65bn` barrels Venezuelan oil under claimed US control ([FT](https://www.ft.com/content/2f88581f-4fbc-46a2-8127-830bb630c2f2)); potential supply release.
+- `6%` of GDP US deficits ([BBG](https://www.bloomberg.com/news/videos/2026-08-29/can-the-us-defy-fiscal-gravity-video)); structural support for long-end Treasury yields.
+- `$4.3 trillion` Korean stock market ([BBG](https://www.bloomberg.com/news/articles/2026-08-30/day-traders-are-abandoning-korean-chip-leveraged-etfs-in-droves)); leveraged ETF volatility gauge.
