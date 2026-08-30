@@ -1,26 +1,25 @@
 # Macro State — Last updated: 2026-08-30
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Fed hawkish repricing after Warsh** - Status: Acceleration; explicit hike readiness if inflation fails to move toward 2%; next trigger US jobs/CPI.
-- **Iran war second-order costs and Hormuz chokepoint** - Status: Acceleration; Tehran in no rush to reopen Hormuz, Persian Gulf flows 40% prewar; next trigger transit or sanctions enforcement.
-- **US trade diplomacy and resource nationalism** - Status: Acceleration; US-Canada talks broke down, Venezuela oil claim; next trigger tariff action or Venezuela operational details.
-- **Global energy supply constraints** - Status: Acceleration; Russia diesel export ban and Ukrainian refinery attacks; next trigger EIA/IEA or ceasefire.
+- **G7 fiscal stress from higher yields** — Status: Acceleration; post-Iran-war yield rise now adding tens of billions to G7 debt costs; next trigger auctions or Fed guidance.
+- **Venezuela oil deal politics** — Status: Acceleration; Pentagon stake, 35% Betancourt venture, domestic backlash threaten durability; next trigger signing or opposition blocking.
+- **Korean peninsula policy and security churn** — Status: New; Seoul finance chief reshuffle plus Pyongyang defense minister shift KRW risk premium; next trigger first policy signals.
+- **Iran war duration and home-front politics** — Status: Acceleration; internal power struggle could decide war end, anchoring energy risk premium; next trigger leadership signals.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- US jobs report and any Fed speaker guidance versus the Warsh hike path.
-- Iran/Hormuz reopening statement or escalation; Persian Gulf oil flow changes.
-- US-Canada trade action or renewed negotiation signal.
-- Russia diesel export ban extension or new refinery attacks.
-- Venezuela oil deal legal/operational follow-through.
+- Lee Hyoung-il first policy remarks or BOK coordination.
+- G7 auction demand and Fed speakers on fiscal channel.
+- Venezuela deal signing, opposition blocking, or Pentagon role clarification.
+- North Korea response or further military appointments.
+- Iran power struggle outcome signals between civilian and security leadership.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will Warsh's explicit hike path force a faster market repricing before the US midterms?
-- Does Iran's economic strain accelerate a ceasefire or more aggressive Hormuz posture?
-- Is the Venezuela arrangement a durable supply shift or a political overhang on oil prices?
+- Does G7 fiscal stress force central banks to pause hikes or fuel additional term premium?
+- Will Venezuela backlash scuttle or water down the pending oil arrangement?
+- Does Korea's new finance chief shift fiscal stance ahead of the BOK rate path?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- `2%` Fed inflation target ([BBG](https://www.bloomberg.com/news/videos/2026-08-29/warsh-says-inflation-isn-t-slowing-vows-to-reach-2-video)); anchor for rate path.
-- `~40%` Persian Gulf oil flows of prewar levels ([BBG](https://www.bloomberg.com/news/videos/2026-08-29/iran-war-exposes-limits-of-us-military-endurance-video)); energy risk gauge.
-- `65bn` barrels Venezuelan oil under claimed US control ([FT](https://www.ft.com/content/2f88581f-4fbc-46a2-8127-830bb630c2f2)); potential supply release.
-- `6%` of GDP US deficits ([BBG](https://www.bloomberg.com/news/videos/2026-08-29/can-the-us-defy-fiscal-gravity-video)); structural support for long-end Treasury yields.
 - `$4.3 trillion` Korean stock market ([BBG](https://www.bloomberg.com/news/articles/2026-08-30/day-traders-are-abandoning-korean-chip-leveraged-etfs-in-droves)); leveraged ETF volatility gauge.
+- `35%` US stake in Betancourt venture ([Reuters](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQlNFejhFZ3hzSkp6dDhBa1RMMHdwUFY5YVc5Y3J6WXRVbmZyVmR4cFVrcEN6WXNKd1Q2cUVYdVZMM0hwT1JQZW0wNDdvNGt4Z1h4dG5VUE5zdlNLQWZEWUtBbUJodHR6TmhJS0VfbkhScUdBaUxMU2JhNk9QTDVVRFo1QTRTd0V1Q1RvMWVMRDBaNG1UOWxHR0FaSURoVFp1am9OeHowRWRRSmtjSkRvTHF4SXpRRzBBRURGeTV2bjRjYjA)); Venezuela deal structure gauge.
+- `38` Kyiv strike death toll ([Reuters](https://news.google.com/rss/articles/CBMipAFBVV95cUxONWoxSm1UNnk2MVVYY0YtM0FBamczZko1djdoZDBZdEtobFJWTC1EME1EemxLbUI3WVhwQTFDM3BFZGFEYXVWY2tHamUzcm1WZ0hUcVlsR1NwbEs3VDNqVUhYY3Q5emhmOHQ5ODIwUWE3Nm1mWEpHaWVTUE1XWGlKLVBZYzdENzlHcU9JdmZwTHFxTHF6WnpXdG9QMno1bzdEd09FUQ)); Ukraine escalation gauge.
+- `7.0%` growth in foreign-invested enterprises ([CCTV](https://news.google.com/rss/articles/CBMieEFVX3lxTE1uQnJRMnBXT1pGcWg5WVBBVTZTZWVCcjNjVFlia1NNbGkwOFdyb3NCN3pFdExqNC1KRHptQnZOSGJGNVRjOVctSDctOTFVQkVlWkdXdlZiWDlBM21KSFRkYlVabjZxbmRlUTNaUVp0aWR1WDZnU3lHdA)); China FDI momentum.
