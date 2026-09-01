@@ -41,6 +41,9 @@ on:
         description: "Target HKT date, YYYY-MM-DD. Leave blank for today."
         required: false
         type: string
+  repository_dispatch:
+    types:
+      - briefing_watchdog
 
 permissions:
   contents: write
@@ -48,7 +51,10 @@ permissions:
   id-token: write
 
 concurrency:
-  group: daily-macro-briefing
+  # Keep morning and afternoon independent. The external watchdog and the
+  # built-in backup schedules can overlap safely because remote idempotency is
+  # checked again before commit/push.
+  group: daily-macro-briefing-${{ github.event.client_payload.briefing_type || inputs.briefing_type || (contains('5 0 * * *,15 0 * * *,25 0 * * *,35 0 * * *,5 1 * * *,17 1 * * *,31 1 * * *,47 1 * * *,13 2 * * *,43 2 * * *,13 3 * * *', github.event.schedule) && 'morning' || 'afternoon') }}
   cancel-in-progress: false
 
 jobs:
@@ -84,6 +90,8 @@ jobs:
           event_name = os.environ.get("GITHUB_EVENT_NAME", "")
           manual_type = os.environ.get("INPUT_BRIEFING_TYPE", "").strip()
           manual_date = os.environ.get("INPUT_RUN_DATE_HKT", "").strip()
+          dispatch_type = os.environ.get("DISPATCH_BRIEFING_TYPE", "").strip()
+          dispatch_date = os.environ.get("DISPATCH_RUN_DATE_HKT", "").strip()
           now_hkt = datetime.now(timezone.utc) + timedelta(hours=8)
 
           morning_schedules = {
@@ -125,6 +133,9 @@ jobs:
                       briefing_type = "afternoon"
                   print(f"Unrecognized schedule {schedule!r}; inferred {briefing_type} from HKT time {now_hkt:%Y-%m-%d %H:%M}")
               target_date = target_date_for(briefing_type)
+          elif event_name == "repository_dispatch":
+              briefing_type = dispatch_type or "morning"
+              target_date = date.fromisoformat(dispatch_date) if dispatch_date else now_hkt.date()
           else:
               briefing_type = manual_type or "morning"
               if manual_date:
@@ -159,6 +170,8 @@ jobs:
           GITHUB_EVENT_NAME: ${{ github.event_name }}
           INPUT_BRIEFING_TYPE: ${{ inputs.briefing_type }}
           INPUT_RUN_DATE_HKT: ${{ inputs.run_date_hkt }}
+          DISPATCH_BRIEFING_TYPE: ${{ github.event.client_payload.briefing_type }}
+          DISPATCH_RUN_DATE_HKT: ${{ github.event.client_payload.run_date_hkt }}
 
       - name: Skip existing scheduled briefing
         id: existing
@@ -166,7 +179,7 @@ jobs:
           EVENT_NAME: ${{ github.event_name }}
           REPORT_PATH: docs/past/${{ steps.type.outputs.target_date }}-${{ steps.type.outputs.label }}.md
         run: |
-          if [ "$EVENT_NAME" = "schedule" ] && [ -s "$REPORT_PATH" ]; then
+          if { [ "$EVENT_NAME" = "schedule" ] || [ "$EVENT_NAME" = "repository_dispatch" ]; } && [ -s "$REPORT_PATH" ]; then
             echo "skip=true" >> "$GITHUB_OUTPUT"
             echo "Scheduled briefing already exists at $REPORT_PATH; skipping duplicate backup run."
           else
