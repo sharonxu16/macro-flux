@@ -1,26 +1,26 @@
-# Macro State — Last updated: 2026-09-01
+# Macro State — Last updated: 2026-09-02
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Iran war and energy supply shock** — Status: Acceleration; two tankers struck near Hormuz, commercial shipping now directly at risk; next trigger further tanker attacks, US escort or retaliation.
-- **Global bond selloff and hawkish reflation** — Status: Acceleration; global yields highest since 2008, Eurozone inflation `3.3%`, EM debt under pressure; next trigger ISM/JOLTS and September FOMC.
-- **Japan yield and yen stress** — Status: Acceleration; 10-year JGB hit `3%`, yen `160`, US demands rate hikes, MOF denies discussion; next trigger JGB auction, BOJ/MOF action.
-- **South Korea fiscal expansion and AI export boom** — Status: New; 2027 budget record `821 trillion won`, August exports surge nearly 70%; next trigger parliamentary passage, KRW/KTB demand.
+- **Iran war and energy supply shock** — Status: Acceleration; US launches further strikes, Saudi and South Korean tankers hit in Hormuz, oil up a third session; next trigger further tanker attacks or official routing change.
+- **Global bond selloff and hawkish reflation** — Status: Acceleration; UK yields highest since 2008, US 10y highest since Jan 2025, euro HICP above 3%, Fed Barr warns hikes; next trigger ADP/Beige Book, ECB.
+- **China-US/G20 trade fracture** — Status: Acceleration; China blocked G20 communique over trade imbalances, Germany readying measures; next trigger Xi-Trump meeting, German/EU action.
+- **Asia FX/equity risk from oil and core inflation** — Status: New; Korea CPI tops 3%, core fastest in >3 years, KOSPI opens >3% lower; next trigger Korea policy and Taiwan tensions.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- Further Hormuz tanker attacks or shipping disruption, US military response.
-- US ISM manufacturing and JOLTS tonight, then jobless claims and Fed speakers.
-- Japan 10-year JGB auction result and MOF/BOJ intervention statement around yen `160`.
-- South Korea August CPI on Sep 2 07:00 HKT and 2027 budget passage.
-- China-Taiwan diplomatic fallout from Pacific leaders meeting.
+- Further Hormuz tanker attacks or blockade, official US escort/retaliation.
+- US ADP Employment Change Sep 2, Fed Beige Book Sep 3, Fed speakers.
+- ECB September meeting and any pushback on hike path.
+- BOJ JGB purchase operation Sep 2 and MOF/BOJ response to Bessent pressure.
+- Korea policy response to 3% inflation and KOSPI stress; Taiwan blockade preparations.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Does the Hormuz escalation sustain Brent above `$90` and force September Fed or ECB hikes?
-- Will Japan tolerate JGB `3%` and yen `160` or deploy BOJ/MOF action before FOMC?
-- Can South Korea’s chip windfall sustain export and fiscal momentum under tightening global financial conditions?
+- Does the Iran oil shock force the Fed or ECB to validate tighter policy, or will softer US jobs interrupt the yield surge?
+- Will China’s G20 blockage convert into concrete US/EU trade measures before Xi meets Trump?
+- Can BoJ contain JGB yields and yen volatility after public US pressure for higher rates?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- 10-year JGB `3.00%` ([WSJ](https://news.google.com/rss/articles/CBMirAFBVV95cUxQYXVvdVpST3lLSmsya2kwUGFEYzRnUnBhRTJoV1Z4XzJmT3ZWTlV2MmdhNnJLaWNFbUoxbGR2ZGlEWUxndjBmM3pTZ3pMQVlMakpTUTZ3cjdya0xIRnRlX0p1dUl6ZzM1d2l1bW51N2l2Wld1WGY5bG9xTnNUOWFOaG1YTm12M2RETnhWd0d3SzdYZWlySXJUQ3BRQ3RYS2tDbFpjdnN6VzdtdlJU)) first time in three decades; BOJ/MOF stress point.
-- USD/JPY `160` ([CNBC](https://www.cnbc.com/2026/09/01/japan-bonds-yen-intervention-bessent.html)) intervention and rate-hike pressure threshold.
-- Eurozone inflation `3.3%` ([FT](https://www.ft.com/content/1b4d308c-3d49-4794-8280-187615c21876)) cements ECB September hike pricing.
-- Global bond yields highest since 2008 ([BBG](https://www.bloomberg.com/news/articles/2026-09-01/australian-benchmark-bond-yield-jumps-to-level-last-seen-in-2011)) duration and EM credit risk.
-- South Korea 2027 budget `821 trillion won` (`$600 billion`) ([SCMP](https://www.scmp.com/news/asia/east-asia/article/3365922/south-korea-sets-record-us600-billion-budget-backed-chip-windfall)) fiscal impulse and KRW/KTB anchor.
+- US 10-year Treasury yield highest since January 2025 ([CNBC](https://www.cnbc.com/2026/09/01/bonds-treasury-yields-middle-east-tensions.html)); benchmark for global reflation repricing.
+- UK borrowing costs highest since 2008 ([FT](https://www.ft.com/content/e6f5f97a-b199-444e-aaec-b8199359b08e)); fiscal and duration stress marker.
+- Eurozone HICP above `3%` ([Reuters](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWlU0ZGJQMWt6NVhpVng4SW1jUk1SM3NXZWlRZzliNnV5emhYeDRaVF9FYnA1aWNDUVphdW1hQTcwRWVOVGR1YjBfdm9sOUlWcFpCSnFwOVNubkh6VnZrTjRyMERVTWRKaXYzZHNaVjBZZ2hYT015OHgzb2o5S25uaG1OaFNGVzRpZk1XSDZMMVhhUUM1V19VbWktVnRmXy1YbEFUS3JxeGEtY0E)); ECB September hike trigger.
+- KOSPI `6655.51` ([ChnFund](https://www.chnfund.com/article/AR1f1798a3-a0f5-06e1-222f-3a2371aa05ed)); Asia risk-off barometer.
+- South Korea headline inflation `3%` ([BBG](https://www.bloomberg.com/news/articles/2026-09-01/south-korea-s-inflation-accelerates-on-one-off-phone-bill-effect)); BOK tightening bias anchor.
