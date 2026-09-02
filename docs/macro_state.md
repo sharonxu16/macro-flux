@@ -1,26 +1,21 @@
 # Macro State — Last updated: 2026-09-02
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Iran war and energy supply shock** — Status: Acceleration; US launches further strikes, Saudi and South Korean tankers hit in Hormuz, oil up a third session; next trigger further tanker attacks or official routing change.
-- **Global bond selloff and hawkish reflation** — Status: Acceleration; UK yields highest since 2008, US 10y highest since Jan 2025, euro HICP above 3%, Fed Barr warns hikes; next trigger ADP/Beige Book, ECB.
-- **China-US/G20 trade fracture** — Status: Acceleration; China blocked G20 communique over trade imbalances, Germany readying measures; next trigger Xi-Trump meeting, German/EU action.
-- **Asia FX/equity risk from oil and core inflation** — Status: New; Korea CPI tops 3%, core fastest in >3 years, KOSPI opens >3% lower; next trigger Korea policy and Taiwan tensions.
-
+- **Iran oil supply shock** — Status: Acceleration; conflict shifted to tanker-for-tanker policy and regional strikes, tightening energy risk premium; next trigger further tanker attacks or official shipping reroutes.
+- **Global bond selloff and hawkish reflation** — Status: Acceleration; dollar two-week high, gold three-week low, gas and JGB yields reinforce inflation tightening; next trigger ADP, Beige Book, ECB.
+- **BOJ September hike risk and JGB capital reversal** — Status: New; Takata and Ueda signal larger/back-to-back hikes, turning JGB rout into global capital flow; next trigger 30-year JGB auction and MOF yen commentary.
+- **Asia FX defense under oil shock** — Status: New; Korea FX authorities absorbed `$20bn` SK Hynix repatriation to stabilize KRW; next trigger additional intervention or BOK guidance.
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- Further Hormuz tanker attacks or blockade, official US escort/retaliation.
-- US ADP Employment Change Sep 2, Fed Beige Book Sep 3, Fed speakers.
-- ECB September meeting and any pushback on hike path.
-- BOJ JGB purchase operation Sep 2 and MOF/BOJ response to Bessent pressure.
-- Korea policy response to 3% inflation and KOSPI stress; Taiwan blockade preparations.
-
+- Further Hormuz tanker attacks, shipping rerouting, or US escort/retaliation.
+- US ADP Employment Change and Factory Orders Sep 2, Fed Beige Book Sep 3.
+- BOJ 30-year JGB auction Sep 3, BOJ/MOF yen commentary, September BOJ meeting.
+- Korea FX intervention follow-through, BOK response to 3% inflation and KRW pressure.
+- ECB September meeting path, European gas price moves, and Makhlouf/Nagel pushback.
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Does the Iran oil shock force the Fed or ECB to validate tighter policy, or will softer US jobs interrupt the yield surge?
-- Will China’s G20 blockage convert into concrete US/EU trade measures before Xi meets Trump?
-- Can BoJ contain JGB yields and yen volatility after public US pressure for higher rates?
-
+- Does BOJ September hike validate the JGB rout or trigger a crowded-market reversal?
+- Can Korea’s FX absorption stabilize KRW if oil keeps rising and Asia risk-off persists?
+- Will US jobs/Beige Book soften hawkish global rate pricing, or validate dollar strength and gold weakness?
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- US 10-year Treasury yield highest since January 2025 ([CNBC](https://www.cnbc.com/2026/09/01/bonds-treasury-yields-middle-east-tensions.html)); benchmark for global reflation repricing.
-- UK borrowing costs highest since 2008 ([FT](https://www.ft.com/content/e6f5f97a-b199-444e-aaec-b8199359b08e)); fiscal and duration stress marker.
-- Eurozone HICP above `3%` ([Reuters](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWlU0ZGJQMWt6NVhpVng4SW1jUk1SM3NXZWlRZzliNnV5emhYeDRaVF9FYnA1aWNDUVphdW1hQTcwRWVOVGR1YjBfdm9sOUlWcFpCSnFwOVNubkh6VnZrTjRyMERVTWRKaXYzZHNaVjBZZ2hYT015OHgzb2o5S25uaG1OaFNGVzRpZk1XSDZMMVhhUUM1V19VbWktVnRmXy1YbEFUS3JxeGEtY0E)); ECB September hike trigger.
-- KOSPI `6655.51` ([ChnFund](https://www.chnfund.com/article/AR1f1798a3-a0f5-06e1-222f-3a2371aa05ed)); Asia risk-off barometer.
-- South Korea headline inflation `3%` ([BBG](https://www.bloomberg.com/news/articles/2026-09-01/south-korea-s-inflation-accelerates-on-one-off-phone-bill-effect)); BOK tightening bias anchor.
+- Dollar index at two-week high ([Reuters](https://news.google.com/rss/articles/CBMinwFBVV95cUxOeHBBNVNPZnJHaVhnTDlrMDVERUdjS2dCWXl2NmplVWJtYTFiLXk3amhnNkFoeEdFVzBuczBNZmdNWEc3bEFTaFBxb1RWazVjTW0tQ2NNM1RjUlljdnB6a3VaQXdGeDNUUE9WbGJxOVJzZk1Wb056eEJqcUp4allyS0FSZmpLbXQ2MmZWYWdmVUNxczFmdU5helZNQ3pQT3c)); stronger USD suppresses gold and Asia FX.
+- Gold at lowest in more than three weeks ([Reuters](https://news.google.com/rss/articles/CBMirwFBVV95cUxQTHRQNlR5eU9VUm53X3dNNDg4MktpOFdWaGhGakVQXzBHb3NlLXdUVWpDSUFwem4tbS1vdHdRbFQtLWtpZEVHRm5sbGJlbmszMXJvU1FGMVNsRnktZUNEZ3pZV1Vka3hPSVBfUk1TM3VJdTFuc2JuZXpPMUFFeThKVU9TLXRkRXdmNEdnYVhyU1dzWUdfbTZwdVQyV0VIY3p2RGZPckt1M2pPQmJWcEpz)); inflation/rate fears reduce gold safe-haven bid.
+- JGB yields at pre-intervention highs ([CNBC](https://www.cnbc.com/2026/09/02/iran-markets-doom-loop.html)); BOJ hike risk and global duration stress.
