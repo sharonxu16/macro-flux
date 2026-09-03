@@ -1,21 +1,26 @@
-# Macro State — Last updated: 2026-09-02
+# Macro State — Last updated: 2026-09-03
 
-## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Iran oil supply shock** — Status: Acceleration; conflict shifted to tanker-for-tanker policy and regional strikes, tightening energy risk premium; next trigger further tanker attacks or official shipping reroutes.
-- **Global bond selloff and hawkish reflation** — Status: Acceleration; dollar two-week high, gold three-week low, gas and JGB yields reinforce inflation tightening; next trigger ADP, Beige Book, ECB.
-- **BOJ September hike risk and JGB capital reversal** — Status: New; Takata and Ueda signal larger/back-to-back hikes, turning JGB rout into global capital flow; next trigger 30-year JGB auction and MOF yen commentary.
-- **Asia FX defense under oil shock** — Status: New; Korea FX authorities absorbed `$20bn` SK Hynix repatriation to stabilize KRW; next trigger additional intervention or BOK guidance.
-## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- Further Hormuz tanker attacks, shipping rerouting, or US escort/retaliation.
-- US ADP Employment Change and Factory Orders Sep 2, Fed Beige Book Sep 3.
-- BOJ 30-year JGB auction Sep 3, BOJ/MOF yen commentary, September BOJ meeting.
-- Korea FX intervention follow-through, BOK response to 3% inflation and KRW pressure.
-- ECB September meeting path, European gas price moves, and Makhlouf/Nagel pushback.
-## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Does BOJ September hike validate the JGB rout or trigger a crowded-market reversal?
-- Can Korea’s FX absorption stabilize KRW if oil keeps rising and Asia risk-off persists?
-- Will US jobs/Beige Book soften hawkish global rate pricing, or validate dollar strength and gold weakness?
-## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- Dollar index at two-week high ([Reuters](https://news.google.com/rss/articles/CBMinwFBVV95cUxOeHBBNVNPZnJHaVhnTDlrMDVERUdjS2dCWXl2NmplVWJtYTFiLXk3amhnNkFoeEdFVzBuczBNZmdNWEc3bEFTaFBxb1RWazVjTW0tQ2NNM1RjUlljdnB6a3VaQXdGeDNUUE9WbGJxOVJzZk1Wb056eEJqcUp4allyS0FSZmpLbXQ2MmZWYWdmVUNxczFmdU5helZNQ3pQT3c)); stronger USD suppresses gold and Asia FX.
-- Gold at lowest in more than three weeks ([Reuters](https://news.google.com/rss/articles/CBMirwFBVV95cUxQTHRQNlR5eU9VUm53X3dNNDg4MktpOFdWaGhGakVQXzBHb3NlLXdUVWpDSUFwem4tbS1vdHdRbFQtLWtpZEVHRm5sbGJlbmszMXJvU1FGMVNsRnktZUNEZ3pZV1Vka3hPSVBfUk1TM3VJdTFuc2JuZXpPMUFFeThKVU9TLXRkRXdmNEdnYVhyU1dzWUdfbTZwdVQyV0VIY3p2RGZPckt1M2pPQmJWcEpz)); inflation/rate fears reduce gold safe-haven bid.
-- JGB yields at pre-intervention highs ([CNBC](https://www.cnbc.com/2026/09/02/iran-markets-doom-loop.html)); BOJ hike risk and global duration stress.
+## Active Narratives (max 4)
+- **Iran oil supply shock** — Status: Acceleration; tanker attack killed two sailors and Iran blacklisted more Hormuz-bound ships, tightening energy risk premium; next trigger further tanker attacks or official shipping reroutes.
+- **Global bond selloff and hawkish reflation** — Status: Acceleration; US 10y highest since 2023, European gas three-year high, global multi-decade yield pressure; next trigger US ISM services and jobless claims.
+- **BOJ September hike risk and JGB capital reversal** — Status: Confirmation; 30-year JGB auction and Bessent pressure keep yen/BOJ in focus; next trigger 30-year JGB auction Sep 3 and MOF yen commentary.
+- **Asia FX defense under oil shock** — Status: Confirmation; Asian stocks rise and yen strengthens as oil pauses, but KRW/Asia energy importers remain vulnerable; next trigger broader Asia FX response to oil and JGB auction.
+
+## Watchpoints (max 5)
+- Further Hormuz tanker attacks, shipping rerouting, or US/Tehran escalation.
+- Japan 30-year JGB auction Sep 3 and BOJ/MOF yen commentary before September BOJ meeting.
+- US Initial Jobless Claims, ISM Services, Nonfarm Productivity, and Unit Labour Costs Sep 3.
+- Bank of Canada follow-through on war/tariff inflation risks and any guidance shift.
+- Dutch gold relocation and European natural gas storage levels as geopolitical safe-haven signals.
+
+## Open Questions (max 3)
+- Will the 30-year JGB auction validate the global bond selloff or trigger a reversal?
+- Can robust Hormuz flows and US downplay hold oil lower despite tanker attacks and blacklisting?
+- Will soft ADP/initial claims undercut hawkish Fed and global rate pricing even with the war-driven energy shock?
+
+## Key Levels (max 5)
+- US 10-year borrowing costs at highest since 2023 ([FT](https://www.ft.com/content/f73c2c95-5c73-4b2f-9f00-9fa8c12c10c9), [CNN](https://news.google.com/rss/articles/CBMidEFVX3lxTFBaQmxsalNXa2NKUEdVVUpTUjBVX0NqTm5FMjNHSUo1NWM0MnRiSklSYmFFRnZGVHZpbWZ3MXRfcDhGNDFzT09UYjlBYXVOdzdmYV9IeVFIMTVCOWdSdEloY2dabnFKc285a1JnUHZqMmRuVUdU)) — global duration benchmark.
+- European natural gas at three-year high ([FT](https://www.ft.com/content/f73c2c95-5c73-4b2f-9f00-9fa8c12c10c9)) — European inflation pressure.
+- Oil steadied after a three-day rally ([BBG](https://www.bloomberg.com/news/articles/2026-09-02/latest-oil-market-news-and-analysis-for-sept-3)) — Brent risk premium marker.
+- Japan 30-year JGB yields near almost two-decade highs ahead of auction ([BBG](https://www.bloomberg.com/news/articles/2026-09-02/japan-s-30-year-bond-auction-risks-adding-fuel-to-debt-selloff)) — BOJ/duration stress marker.
+- ADP private payrolls `38,000` vs expected `47,000`, smallest since year start ([BBG](https://www.bloomberg.com/news/videos/2026-09-02/adp-says-us-companies-added-38-000-jobs-in-august-video)) — US labor softening marker.
