@@ -1,26 +1,25 @@
 # Macro State — Last updated: 2026-09-04
 
-## Active Narratives (max 4)
-- **Global bond reprieve and Waller dovish pivot** - Status: Confirmation - Why it matters: A top Fed official now biases toward a September hold, repricing rates, dollar, and equities. Next trigger: US August CPI.
-- **BOJ September hike and yen repricing** - Status: Acceleration - Why it matters: Yen through `¥156` on hike and intervention bets despite weak household spending. Next trigger: BOJ/MOF intervention evidence and yen follow-through.
-- **Iran military escalation and Hormuz risk premium** - Status: Acceleration - Why it matters: Kuwait is now a direct attack front and energy flows remain disrupted. Next trigger: US/Tehran response and Hormuz shipping normalization.
-- **US-China trade friction around Xi visit** - Status: Confirmation - Why it matters: China pushes back at G20, Greer flags potential announcements during Xi visit. Next trigger: Xi visit and US/EU trade announcements.
+## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
+- **US labor market resilience and Fed hike repricing** — Status: Reversal; hot August payrolls reassert Fed hike risk against morning Waller hold bias; next trigger Fed commentary and US CPI.
+- **Hormuz energy and security risk premium** — Status: Acceleration; South Korea weighs troop contribution, diesel record, Hormuz traffic below average; next trigger Seoul deployment decision and shipping normalization.
+- **US-China trade friction with minerals front** — Status: Acceleration; China rare earth firms halt some US shipments amid G20 row; next trigger Xi-Trump summit and US response.
+- **UST supply and reserve diversification pressure** — Status: New; Norway fund proposes selling $80 billion UST while Chinese banks buy Treasuries; next trigger official fund decision and auctions.
 
-## Watchpoints (max 5)
-- US August Nonfarm Payrolls and unemployment/wages tonight.
-- US August CPI next week as the Waller trigger.
-- BOJ/MOF intervention confirmation and USD/JPY follow-through.
-- Kuwait/Iran escalation and South Korea Hormuz deployment status.
-- Xi visit-related trade announcements from Greer.
+## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
+- Fed officials respond to payrolls; US CPI next week as hike-bet confirmation or invalidation.
+- South Korea final decision on Hormuz troop contribution.
+- China rare earth shipment halt enforcement or formal export controls.
+- Norway oil fund UST sale proposal response from finance ministry.
+- Xi-Trump summit logistics and any trade announcements following G20 row.
 
-## Open Questions (max 3)
-- Will the dovish Fed repricing survive tonight's jobs report and next week's CPI?
-- Will yen strength broaden into a carry unwind across Asia FX and equities?
-- Will the Iran conflict spread beyond Kuwait and force a deeper Hormuz energy shock?
+## Open Questions (max 3 — only unresolved questions that affect positioning)
+- Will hot payrolls override Waller’s hold bias and put a September Fed hike back into play?
+- Does the China rare earth halt become a formal, broader mineral export restriction?
+- Will South Korea’s Hormuz deployment deepen risk-off pressure in KRW and Asia FX?
 
-## Key Levels (max 5)
-- Yen `¥156` ([FT](https://www.ft.com/content/22abbb77-1344-4871-9692-97a779b1ba77)) - BOJ rate differential and intervention marker.
-- US oil prices up `9%` this week ([CNBC](https://www.cnbc.com/2026/09/03/oil-price-today-iran-war-strait-hormuz.html)) - Hormuz risk premium.
-- European diesel crack above `$100` ([FT](https://www.ft.com/content/f117f347-e1e0-457c-83fc-ba4745581bb2)) - energy scarcity premium.
-- EU gas stocks lowest on record ([FT](https://www.ft.com/content/5e9db3c2-70c0-40da-8767-88dcbaf8cfc5)) - winter energy risk.
-- US trade deficit largest since early 2025 ([BBG](https://www.bloomberg.com/news/articles/2026-09-03/us-trade-gap-widens-to-largest-since-early-last-year-on-imports)) - AI-driven import surge.
+## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
+- US August nonfarm payrolls `162,000` ([CNN](https://news.google.com/rss/articles/CBMibEFVX3lxTFBiT2NjNllyVE8wc0VhNlRqc3RncHB5NGlMWjFvdl9xRThZLUtkVnJzU0pENlZIc0k5bk9OM1AwRUVUQ3lyeHFjUHhyWXJ6OG9IbDBaZVpSeDlVR3dvQWpUZnhmdmxvaVE3SG1mQQ)) — labor market benchmark reasserting Fed hike risk.
+- Diesel record high ([Reuters](https://news.google.com/rss/articles/CBMiygFBVV95cUxOQVZJdUE0TzFvS2xtSUJLOVUxZUVRZVRpMi1aUlNuSFZzX3h5TW4zSGJya0w3SjFlSno4QUlvdU90cHBBOS1xRllCZjR2aVRnUW16ZmQyN3M1SlRVSl9BYlk2Z2dvWGIzdEo3cXdTZjdWZkIzYXRNRzk3ZkM2cWMwN2ZWMVh1T09pNnRKVVAwRDhNSnJnSTFwVi1MZXdMNUNwOFJTU215REpkR1V0X1pVa09vNkVHeG9oX2lpVjdoTVl1ajI5MzU0dUN3)) — energy scarcity premium for European industry.
+- Hormuz shipping traffic below 10-day average ([Reuters](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSmJxV2JuVVpNSWV4QTRZZktncFBvaUQtcXZVaDZHdkJfV1JkZFhoeU0ybFRIU19qYmZKUkt1VXZZaFlaR2FKY2dxZFN0U2NkRjZYZWt1dlh2N21aN092aEpVdmZ2MmlvMVNDeThDZ1p4aHJpR0x6NV9MREtJb3dFeXY3ZktVbTFJZVZXNzd1ZkFaTWg0TWtQM1dzRlVVeHlUcTYtSFA3UEFPTEQ4ckc0TFRTcEUtQUpzTUFRWWVHd09ZUQ)) — physical oil supply and war-risk indicator.
+- Norway fund proposed UST sale `$80 billion` ([WSJ](https://news.google.com/rss/articles/CBMipwFBVV95cUxOSmNpU0JlUXNVTGRwV3RTY1ZLVHdYMDhxSVNkbTRwZFl3ak9HM2pGODJGNy0yenR4SWJ2dTJfS2ZEVU9kaDBsLXdTQ3dFT1U4V2psTWxUaXZQUGw4YWtPc0Z1bVlXM1F2TDA4RmVsaERCbU1uc3k3Um51cllMRDVGczhHb0tWQjh3R0N3WmNGY1F6eVBldnFFTU5sNTFWRzFycWp6NkFKaw)) — long-end UST supply headwind if approved.
