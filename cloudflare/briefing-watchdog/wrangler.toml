@@ -1,0 +1,10 @@
+name = "macro-flux-briefing-watchdog"
+main = "src/index.js"
+compatibility_date = "2026-08-31"
+
+[vars]
+GITHUB_OWNER = "sharonxu16"
+GITHUB_REPO = "macro-flux"
+
+[triggers]
+crons = ["10 0 * * *", "25 10 * * *"]
