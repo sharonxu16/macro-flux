@@ -2,3 +2,4 @@ site/
 briefing-run.log
 run_artifacts/
 __pycache__/
+cloudflare/briefing-watchdog/.dev.vars
