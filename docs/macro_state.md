@@ -1,25 +1,26 @@
 # Macro State — Last updated: 2026-09-07
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Hormuz energy and geopolitical risk premium** — Status: Acceleration; tanker strikes and Tehran’s exclusion-zone threat widen physical supply disruption risk; next trigger official exclusion-zone rules or further energy strikes.
-- **US labor and Fed hike repricing with Trump pressure** — Status: Confirmation; August payrolls strengthen September hike odds while Trump pressures the Fed; next trigger US CPI.
-- **China state-led financial stabilization** — Status: New; Beijing injects capital into banks and insurers and expands the Egypt yuan swap; next trigger official capital injection size or swap drawdowns.
-- **European political risk after AfD win** — Status: New; far-right Saxony-Anhalt victory adds EU fragmentation risk; next trigger coalition talks and CDU firewall durability.
+- **Hormuz energy and geopolitical risk premium** — Status: Acceleration; Brent above `$97`, Iran threatens US energy facilities, Goldman flags `$120/bbl` risk, Israel-Hezbollah second front; next trigger any attack on US energy facilities or formal Hormuz exclusion-zone declaration.
+- **Global rates repricing: BOJ hike bets and UST fiscal risk** — Status: Acceleration; yen at six-month high, Japan suspected selling UST, UST 10Y testing `4.8%` and `5%`; next trigger BOJ communication or UST auction/CPI.
+- **China state-directed financial stabilization** — Status: Confirmation; `$54bn` recapitalization confirmed but financial stocks fell; next trigger implementation details and credit/lending data.
+- **Oil-importing EM Asia stress** — Status: Acceleration; RBI unloaded `$8bn`, Indian equities at six-week low, Thai inflation above expected; next trigger Brent move above `$100` or further INR weakness.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- Iran exclusion-zone details and any further tanker or energy infrastructure strikes.
-- US CPI and FOMC guidance sustaining or invalidating September hike pricing.
-- ECB rate decision and signals on a potential third hike.
-- China bank/insurer capital injection size and implementation details.
-- Saxony-Anhalt coalition formation and EU political risk follow-through.
+- Iran strikes on US energy facilities or formal Hormuz exclusion-zone rules.
+- UST 10Y close above `4.8%` and test of `5%`.
+- BOJ/MOF confirmation of Treasury selling and yen intervention.
+- China bank/insurer capital injection allocation details and financial sector equity response.
+- RBI rupee defense persistence if Brent approaches `$100/bbl`.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Does the Hormuz escalation extend to commercial tanker traffic or broader Gulf energy infrastructure?
-- Will September Fed hike odds and Trump pressure persist into CPI and FOMC?
-- Does China policy support translate into sustained HK/Chinese financial-sector outperformance and stronger CNH flows?
+- Does Iran retaliation against US energy facilities extend the conflict across the Gulf?
+- Will BOJ hike bets and Japanese UST selling force a broader UST duration repricing?
+- Will China's `$54bn` recapitalization generate new credit expansion or just stabilize balance sheets?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- US August Nonfarm Payrolls `162,000` vs `53,000` consensus, unemployment `4.1%` ([CNBC](https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html)) — labor market strength driving Fed hike repricing.
-- Saxony-Anhalt AfD `44%` vs CDU around `18%` ([SCMP](https://www.scmp.com/news/world/europe/article/3366562/germanys-far-right-afd-landslide-winner-eastern-state-vote-exit-polls-indicate)) — European political risk barometer.
-- Cairo has a `30 billion yuan (US$4.47 billion)` swap arrangement with Beijing ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3366430/china-expands-currency-swap-egypt-trade-ties-reach-new-heights)) — RMB internationalization bar.
-- Turkey 2027 GDP growth forecast cut to `4.2%` ([BBG](https://www.bloomberg.com/news/articles/2026-09-06/turkey-cuts-2027-gdp-growth-forecast-to-4-2-as-elections-beckon)) — EM growth stress bar.
+- Brent `$97/bbl` intraday ([WSJ](https://news.google.com/rss/articles/CBMipgFBVV95cUxNTmhDWFpnOE0xTW9sOGJvVlJhcUxTRTRiM0NxWHFuaXFaT0NwQVVWNS1PSzluQmF4bmpUSUhxSXVVLTdPSDhiajF4RkpLRmtmdkp0STRlMWZUaUNKVzlQWEZ0X1dZUzk4T0h3bGNsOXZCVWwybnYwWWNxS1p2OERTZ3h3S2tTZ0pVdU5SVHE0VjVoZk9CS3ZJVGVxOTVpV01pWkE4QjZn)) — Hormuz war premium barrier.
+- Goldman `$120/bbl` scenario if attacks intensify ([Reuters](https://news.google.com/rss/articles/CBMiywFBVV95cUxQR01kWlp4MnIxcG5yY0dWZ2NNX3FRVHV5Ny0yNG5kNGFQdVFYbmxoaXZIZ2t1WjExSU8zTDUzNXI4RDY0VVlVZ2RXSTZpSmFjWHRyMWcwdERLSl8weTEydUwyb0pHM3E3S3NKalpHUVdHR3R0ZUlRZDZjZzRRc1dqRWQ2cEpGMFVwMk0xNDRTZ2ZaemlwanlWeENGU2VNSjQ3cFBxLXZ1blhrSU4xS3ctRFc5RlJnb19LVVM5MTZHY0R0NE8wdHljTmlTaw)).
+- USD/JPY `155` break ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzREp0cmdxZ1lCNkxYOTd3RWt6aldSSXY5RDJ2NmJOU0hDVmpOLTdhcWlXemUyNUlMZExFU3F4TFdpdlNETHNGOV9RQ0Z4OVBJZ3Uw)) — BOJ hike-driven yen strength.
+- UST 10Y `4.8%` test ([CNBC](https://www.cnbc.com/2026/09/07/us-treasury-yields-markets-scott-bessent.html)) — fiscal risk spillover threshold.
+- UST 10Y `5%` threshold ([FT](https://www.ft.com/content/8827baa7-163d-4122-9ea8-a2c9ff6e8a4d)) — AI boom/derail risk level.
