@@ -1,23 +1,25 @@
-# Macro State — Last updated: 2026-09-06
+# Macro State — Last updated: 2026-09-07
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Hormuz energy and geopolitical risk premium** — Status: Acceleration; Iran's naval drone attack after US tanker strikes extends the escalation cycle; next trigger US response or fresh strikes on tankers or energy infrastructure.
-- **Oil supply policy vs physical risk** — Status: Confirmation; OPEC+ set to hold output unchanged leaves supply exposed to transit disruption; next trigger final OPEC+ communiqué.
-- **China/HK diversification flows** — Status: New; bullish Chinese equity derivatives and Central Asia HK listings rotate away from crowded Korea/Japan AI; next trigger index futures, northbound, or HK listing follow-through.
-- **US labor and Fed hike repricing with Trump pressure** — Status: Confirmation; stronger jobs report firmed September hike odds while Trump pressures the Fed; next trigger US CPI.
+- **Hormuz energy and geopolitical risk premium** — Status: Acceleration; tanker strikes and Tehran’s exclusion-zone threat widen physical supply disruption risk; next trigger official exclusion-zone rules or further energy strikes.
+- **US labor and Fed hike repricing with Trump pressure** — Status: Confirmation; August payrolls strengthen September hike odds while Trump pressures the Fed; next trigger US CPI.
+- **China state-led financial stabilization** — Status: New; Beijing injects capital into banks and insurers and expands the Egypt yuan swap; next trigger official capital injection size or swap drawdowns.
+- **European political risk after AfD win** — Status: New; far-right Saxony-Anhalt victory adds EU fragmentation risk; next trigger coalition talks and CDU firewall durability.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- US response to Iran's naval drone attack; any renewed tanker or coastal energy strikes.
-- Final OPEC+ communiqué confirming quota status quo or any supply adjustment.
-- Follow-through in Chinese equity derivatives, index futures, northbound and HK listing inflows.
-- US CPI next week confirming or invalidating September Fed hike odds.
-- ECB rate decision this week delivering the expected second hike.
+- Iran exclusion-zone details and any further tanker or energy infrastructure strikes.
+- US CPI and FOMC guidance sustaining or invalidating September hike pricing.
+- ECB rate decision and signals on a potential third hike.
+- China bank/insurer capital injection size and implementation details.
+- Saxony-Anhalt coalition formation and EU political risk follow-through.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
 - Does the Hormuz escalation extend to commercial tanker traffic or broader Gulf energy infrastructure?
-- Will Chinese equity derivative demand convert into sustained index and cash inflows?
-- Will September Fed hike odds sustain into CPI despite Trump pressure?
+- Will September Fed hike odds and Trump pressure persist into CPI and FOMC?
+- Does China policy support translate into sustained HK/Chinese financial-sector outperformance and stronger CNH flows?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- Russian gold imports via Hong Kong hit almost `100 tonnes` in the first seven months ([FT](https://www.ft.com/content/39b0c966-b153-4706-9325-2f6176ba3752)) — record gold flow bar for sanctions and HK precious metals demand.
-- Turkey 2027 GDP growth forecast cut to `4.2%` ([BBG](https://www.bloomberg.com/news/articles/2026-09-06/turkey-cuts-2027-gdp-growth-forecast-to-4-2-as-elections-beckon)) — regional EM growth stress bar from Iran war fallout.
+- US August Nonfarm Payrolls `162,000` vs `53,000` consensus, unemployment `4.1%` ([CNBC](https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html)) — labor market strength driving Fed hike repricing.
+- Saxony-Anhalt AfD `44%` vs CDU around `18%` ([SCMP](https://www.scmp.com/news/world/europe/article/3366562/germanys-far-right-afd-landslide-winner-eastern-state-vote-exit-polls-indicate)) — European political risk barometer.
+- Cairo has a `30 billion yuan (US$4.47 billion)` swap arrangement with Beijing ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3366430/china-expands-currency-swap-egypt-trade-ties-reach-new-heights)) — RMB internationalization bar.
+- Turkey 2027 GDP growth forecast cut to `4.2%` ([BBG](https://www.bloomberg.com/news/articles/2026-09-06/turkey-cuts-2027-gdp-growth-forecast-to-4-2-as-elections-beckon)) — EM growth stress bar.
