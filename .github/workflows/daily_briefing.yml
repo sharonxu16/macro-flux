@@ -6,8 +6,8 @@ on:
     # HKT 9:05/9:17/9:31/9:47/10:13/10:43/11:13 AM are late backups for
     # delayed/missed GitHub runners. The off-hour minutes reduce schedule
     # drops during GitHub's busiest cron windows.
-    # HKT 6:20 PM = UTC 10:20, 6:30 PM backup = UTC 10:30.
-    # HKT 6:40/6:50/7:00/8:30 PM are late backups for delayed/missed GitHub runners.
+    # HKT 5:20 PM = UTC 09:20, 5:30 PM backup = UTC 09:30.
+    # HKT 5:40/5:50/6:00/7:30 PM are late backups for delayed/missed GitHub runners.
     # Keep these as separate entries so delayed GitHub runners still know
     # which report/window the scheduled event was intended to generate.
     - cron: '5 0 * * *'
@@ -21,12 +21,12 @@ on:
     - cron: '13 2 * * *'
     - cron: '43 2 * * *'
     - cron: '13 3 * * *'
-    - cron: '20 10 * * *'
-    - cron: '30 10 * * *'
-    - cron: '40 10 * * *'
-    - cron: '50 10 * * *'
-    - cron: '0 11 * * *'
-    - cron: '30 12 * * *'
+    - cron: '20 9 * * *'
+    - cron: '30 9 * * *'
+    - cron: '40 9 * * *'
+    - cron: '50 9 * * *'
+    - cron: '0 10 * * *'
+    - cron: '30 11 * * *'
   workflow_dispatch:
     inputs:
       briefing_type:
@@ -107,7 +107,7 @@ jobs:
               "43 2 * * *",
               "13 3 * * *",
           }
-          afternoon_schedules = {"20 10 * * *", "30 10 * * *", "40 10 * * *", "50 10 * * *", "0 11 * * *", "30 12 * * *"}
+          afternoon_schedules = {"20 9 * * *", "30 9 * * *", "40 9 * * *", "50 9 * * *", "0 10 * * *", "30 11 * * *"}
 
           def target_date_for(label):
               if label == "morning":
@@ -144,14 +144,14 @@ jobs:
                   target_date = now_hkt.date()
 
           if briefing_type == "morning":
-              # Monday morning is the weekend catch-up: Friday 18:00 -> Monday 08:00 HKT.
+              # Monday morning is the weekend catch-up: Friday 17:00 -> Monday 08:00 HKT.
               start_date = target_date - timedelta(days=3 if target_date.weekday() == 0 else 1)
-              start = f"{start_date} 18:00"
+              start = f"{start_date} 17:00"
               end = f"{target_date} 08:00"
               flag = "--morning"
           elif briefing_type == "afternoon":
               start = f"{target_date} 08:00"
-              end = f"{target_date} 18:00"
+              end = f"{target_date} 17:00"
               flag = "--afternoon"
           else:
               raise SystemExit(f"Unsupported briefing_type: {briefing_type}")

@@ -1,7 +1,7 @@
 # Macro Flux external briefing watchdog
 
 This Cloudflare Workers Free worker is the external scheduler for Macro Flux.
-It runs at 08:10 and 18:25 HKT, checks the target report on the remote `main`
+It runs at 08:10 and 17:25 HKT, checks the target report on the remote `main`
 branch, and sends a `repository_dispatch` only when the report is missing.
 It never calls the news sources, the LLM, or SMTP.
 

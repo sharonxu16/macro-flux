@@ -1,7 +1,7 @@
 const HKT_TIME_ZONE = "Asia/Hong_Kong";
 const WATCHDOG_EVENT = "briefing_watchdog";
 const MORNING_CRON = "10 0 * * *";
-const AFTERNOON_CRON = "25 10 * * *";
+const AFTERNOON_CRON = "25 9 * * *";
 
 function hktDate(now = new Date()) {
   const parts = new Intl.DateTimeFormat("en-US", {
@@ -29,6 +29,7 @@ function githubHeaders(env) {
   return {
     Accept: "application/vnd.github+json",
     Authorization: `Bearer ${env.GITHUB_TOKEN}`,
+    "User-Agent": "macro-flux-briefing-watchdog",
     "X-GitHub-Api-Version": "2022-11-28",
   };
 }
@@ -107,4 +108,4 @@ export default {
   },
 };
 
-export { hktDate, modeForCron, reportPath };
+export { githubHeaders, hktDate, modeForCron, reportPath };

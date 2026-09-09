@@ -7,4 +7,4 @@ GITHUB_OWNER = "sharonxu16"
 GITHUB_REPO = "macro-flux"
 
 [triggers]
-crons = ["10 0 * * *", "25 10 * * *"]
+crons = ["10 0 * * *", "25 9 * * *"]

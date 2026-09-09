@@ -30,8 +30,8 @@ Your best macro news synthesizer. 50+ sources distilled & cross-referenced. Get 
 
 ## Delivery
 
-- **Morning**: 08:05 HKT (18:00–08:00 overnight)
-- **Afternoon**: 18:05 HKT (08:00–18:00 intraday)
+- **Morning**: 08:05 HKT (17:00-08:00 overnight)
+- **Afternoon**: 17:20 HKT (08:00-17:00 intraday)
 - **Tone**: Central bank research note — measured, probabilistic, no hyperbole
 - **AI**: Only [AI Reasoning] blocks are model-generated analysis. Overview is LLM synthesis. Everything else is source excerpts.
 - **Tech**: Python → 50 RSS/HTML sources → LLM (DeepSeek) → MkDocs Material → GitHub Pages
