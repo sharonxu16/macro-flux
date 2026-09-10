@@ -1,26 +1,25 @@
-# Macro State — Last updated: 2026-09-09
+# Macro State — Last updated: 2026-09-10
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Middle East / Hormuz supply shock** — Status: Acceleration; Brent crossed `$100/bbl`, European gas hit highest since 2023, and VLCC rates made historic highs while shipping traffic stayed below average; next trigger shipping traffic normalization or US-Iran de-escalation.
-- **US-Canada trade escalation** — Status: Acceleration; Trump signed orders banning Canadian dairy, motorcycles and most alcoholic beverages after Ottawa imposed `$20bn` retaliation; next trigger auto/parts retaliation or US response.
-- **Global rates and FX repricing** — Status: Acceleration; yen rallied and Bessent warned against betting against yen, Fed officials showed openness to fewer meetings, and UK food inflation is expected above `6%`; next trigger BOJ decision and 10-year UST auction.
-- **China external surplus and inflation** — Status: Confirmation; China PPI topped estimates and offshore RMB borrowing hit a record above `1 trillion yuan`, while exports continued rising; next trigger follow-through in PPI and export mix.
+- **Middle East / Hormuz physical supply shock** — Status: Acceleration; tanker hit and one-third Gulf oil missing keep supply disruption and inflation risk elevated; next trigger shipping normalization or US-Iran de-escalation.
+- **Global rates repricing** — Status: Acceleration; `$6bn` Treasury buyback disappointed and 10-year UST hit highest since 2023, feeding Fed/ECB/BOE hike risk; next trigger US PPI and ECB decision.
+- **US-Canada trade escalation** — Status: Acceleration; import bans on alcohol, dairy and motorbikes effective `Sept. 29`; next trigger Canada retaliation widening to autos or energy.
+- **China external surplus and tech tension** — Status: Confirmation; trade surplus remains geopolitical and DeepSeek IPO/AI theft claims keep tech competition active; next trigger US-China AI or trade restrictions.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
 - Hormuz shipping traffic normalization or US-Iran de-escalation.
-- BOJ rate decision and 10-year UST auction pricing, plus yen follow-through.
-- US-Canada retaliation widening to autos/parts or Bombardier-specific action.
-- ECB decision and whether one hike proves enough.
-- Sustainability of record offshore RMB borrowing and China PPI pass-through.
+- US PPI and initial jobless claims plus 10-year UST follow-through.
+- ECB decision and whether traders' four-hike pricing survives.
+- Canada retaliation beyond dairy/alcohol into autos or Bombardier-specific action.
+- BOJ decision and yen follow-through after Bessent jawboning.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will Hormuz disruption broaden beyond shipping below average into actual oil or LNG terminal closure?
-- Does Fed openness to fewer meetings reduce forward guidance and increase volatility?
+- Will Hormuz disruption broaden to actual oil or LNG terminal closure?
+- Will the failed Treasury buyback force larger interventions or push long-end yields higher?
 - Will US-Canada escalation divert Canadian energy exports to Asia and support CAD?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- Brent `$100/bbl` ([Reuters](https://news.google.com/rss/articles/CBMigwFBVV95cUxNV3luYTZkUFBsUEhrV1ByVUg5eTcwT0c4ODVwXzJZTHNvVzlhR1hwNVpLSzJ5MmVCT3VqV2wzMTdXb0ZZM00wY194Z3VCV2R2TUNxcGpVNVJrSk9JSS1XMllpQ0hrbEtFTFhaazN6NzFEaGxELW1NUnFFUFVvR1NjWkRrbw)) — renewed supply-crunch threshold as US-Iran strikes extend.
-- UK 30-year gilt yield `5.82%` ([WallstreetCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VdjZFLVUwd0tTa25zVXFYeWVkbTl0X190ei1hT0czRkIwQ01FQjV3ajVFOUtwWWIycmYxSWdwcmEyMlVXYmN5WHl5Slc3emdrbzAw)) — multi-decade high reflecting UK fiscal stress.
-- UK food price inflation expected above `6%` ([Reuters](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMFVPRGRLS3ZXeGxNaTE3TUVSaDRINGRnUUtEMW5ibjNUWnJfaTZGUGs4QXB6a2tXM2ZhcEFsTW9jM1oyM1ZIMHYwek90a3hqTWFZMnBXVGxFMG1oMTNYS1RteDRUU2ZQRmcyNXVuWVJYcEtHVmN2UmdFMjFRYzhBM2hRaV8yS2JqU2N4SjdocnpzVWkzTUoycXUwNTVKcXk4Z2pjT3ZFaEo)) — next-year inflation pressure.
-- Offshore RMB borrowing record above `1 trillion yuan` ([WallstreetCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LNUJhNjdmRzB4a0ZzUnI0QjJYZlE0b2J2c1JOcHEtWlJ1VFluX1p6bzNpRUc1WUo0QVQ5U05ITWxaUy1oRmMwOWZCanNlRGZSdlk0)) — low-rate-driven global capital inflow threshold.
-- Canada retaliatory tariffs `$20bn` ([FT](https://www.ft.com/content/639d8eac-fd8c-4557-a852-f826501681ad)) — trade-war escalation level.
+- Brent `$100/bbl` ([FT](https://www.ft.com/content/c8921e49-1d06-4d27-ab38-7a1d8e3d43fe)) — supply-crunch threshold retaken as US-Iran strikes extend.
+- Brent close above `$101` ([CNBC](https://www.cnbc.com/2026/09/09/oil-prices-today-wti-brent-us-iran-hormuz-attacks.html)) — intraday confirmation of upside momentum.
+- 10-year U.S. Treasury yield highest since 2023 ([CNN](https://news.google.com/rss/articles/CBMia0FVX3lxTFB0bE9oUndpVkQ3aE9QM1c2R1gtWkw5UVYxcUp3d05MdU9IQ1VhcFl3bGFEd1BhaW12V1ROQU01Q2w5QjFaX2ZCZ3RsVUs4a2ZUSk1jLVVnUy1NVGlNbkRncjU1TlltWVJKSm5J)) — rate-repricing threshold.
+- Gold near `$4,400` ([BBG](https://www.bloomberg.com/news/articles/2026-09-09/gold-steadies-near-4-400-as-traders-weigh-fed-rate-hike-path)) — safe-haven demand coexisting with higher yields.
