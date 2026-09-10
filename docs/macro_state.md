@@ -1,25 +1,26 @@
 # Macro State — Last updated: 2026-09-10
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Middle East / Hormuz physical supply shock** — Status: Acceleration; tanker hit and one-third Gulf oil missing keep supply disruption and inflation risk elevated; next trigger shipping normalization or US-Iran de-escalation.
-- **Global rates repricing** — Status: Acceleration; `$6bn` Treasury buyback disappointed and 10-year UST hit highest since 2023, feeding Fed/ECB/BOE hike risk; next trigger US PPI and ECB decision.
-- **US-Canada trade escalation** — Status: Acceleration; import bans on alcohol, dairy and motorbikes effective `Sept. 29`; next trigger Canada retaliation widening to autos or energy.
-- **China external surplus and tech tension** — Status: Confirmation; trade surplus remains geopolitical and DeepSeek IPO/AI theft claims keep tech competition active; next trigger US-China AI or trade restrictions.
+- **Middle East / Hormuz physical supply shock** — Status: Acceleration; `$105` oil and single-digit Hormuz traffic intensify supply and inflation pressures; next trigger EIA crude stocks tonight or US-Iran de-escalation.
+- **Global rates repricing** — Status: Acceleration; second ECB hike set and BOJ hawkish comments reinforce tightening; next trigger US PPI and actual ECB decision.
+- **US-China borrowing cost divergence** — Status: New; widest-ever yield gap threatens capital-flow shift; next trigger PBOC daily fixing or liquidity operation.
+- **US-China trade diplomacy** — Status: Confirmation; soybean purchase ahead of Xi visit signals detente; next Xi visit or formal trade announcement.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- Hormuz shipping traffic normalization or US-Iran de-escalation.
-- US PPI and initial jobless claims plus 10-year UST follow-through.
-- ECB decision and whether traders' four-hike pricing survives.
-- Canada retaliation beyond dairy/alcohol into autos or Bombardier-specific action.
-- BOJ decision and yen follow-through after Bessent jawboning.
+- US PPI and initial jobless claims tonight, plus 10-year UST follow-through.
+- ECB rate decision and press conference tone.
+- EIA crude and product inventories tonight after single-digit Hormuz traffic.
+- PBOC daily CNY fixing and any reserve-requirement or OMO operation.
+- South Korea US investment package finalization and its effect on KRW and chip exposure.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will Hormuz disruption broaden to actual oil or LNG terminal closure?
-- Will the failed Treasury buyback force larger interventions or push long-end yields higher?
-- Will US-Canada escalation divert Canadian energy exports to Asia and support CAD?
+- Will Hormuz shipping remain in single digits and push Brent beyond `$105`?
+- Will the widening US-China borrowing cost gap force a PBOC offset or weaker CNH?
+- Will South Korea's investment agreement ease Washington pressure on Asia chip exporters?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- Brent `$100/bbl` ([FT](https://www.ft.com/content/c8921e49-1d06-4d27-ab38-7a1d8e3d43fe)) — supply-crunch threshold retaken as US-Iran strikes extend.
-- Brent close above `$101` ([CNBC](https://www.cnbc.com/2026/09/09/oil-prices-today-wti-brent-us-iran-hormuz-attacks.html)) — intraday confirmation of upside momentum.
-- 10-year U.S. Treasury yield highest since 2023 ([CNN](https://news.google.com/rss/articles/CBMia0FVX3lxTFB0bE9oUndpVkQ3aE9QM1c2R1gtWkw5UVYxcUp3d05MdU9IQ1VhcFl3bGFEd1BhaW12V1ROQU01Q2w5QjFaX2ZCZ3RsVUs4a2ZUSk1jLVVnUy1NVGlNbkRncjU1TlltWVJKSm5J)) — rate-repricing threshold.
-- Gold near `$4,400` ([BBG](https://www.bloomberg.com/news/articles/2026-09-09/gold-steadies-near-4-400-as-traders-weigh-fed-rate-hike-path)) — safe-haven demand coexisting with higher yields.
+- Brent `$105/bbl` ([Reuters](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVTlKVk5vOWlpYndFb2Flck9IczhtU2k5X1I3a0tlMjA2dkRmMEJncVFZdWctZW9wX05NaU9vUzNwMU5ld3UycklJMjhHaHB3WDdZVF81Z0t1WWNZak8tTFFwdDZtTHZvUnozMnVpUmtEanVsN2ZxM1A2QkxZS3IydDByTlQtd3RFYThzVnlwVmR0eGMyT1RQQldPZVp4VE1oSm5TcHBXVTd1dXM)) — intraday supply-shock threshold after tanker attacks.
+- Hormuz shipping traffic single digits ([Reuters](https://news.google.com/rss/articles/CBMipAFBVV95cUxPUVBxYnpUdFVwdXRYNTRBMXRlbTMxZlpkSFYwYWpEY1RxeUJDZ0RuUFAtTnZ4d3ZKZGZBT1BFaUMtLVp0dl9iZWhGaTlBLUYyWURZX2N4NVFXQXhlQ05Lc2drSWFzczE0THU0N2I3WHk0VjZzdnlJd0NBRktKVjc1aXJ0WnpHT0FwOG11cFNrSnN1Z0V0aTF1LXUwNXhrZ1lfWkhRYQ)) — physical chokepoint evidence of disruption.
+- US-China borrowing costs widest ever ([FT](https://www.ft.com/content/258d6f1d-07a5-4c78-9c21-9867d8817077)) — capital-flow divergence signal.
+- TSMC August revenue record high, up `53%` ([CNBC](https://www.cnbc.com/2026/09/10/tsmc-august-revenue-chip-ai.html)) — Asia tech demand signal.
+- Dollar crawling higher ahead of ECB and US inflation data ([Reuters](https://news.google.com/rss/articles/CBMiywFBVV95cUxOYU50UmRVNmIyeFBOSmd6azlDeDMxNlh1S0cycHpnYjU4NERYWjhoN2diSmthTngzdWZScmFTdldrTGtUcTh3SDFKbVIySmU2TUx3cnMtOEdKMnFkV3J1d3pYRmdvZDVWb2VPSXNjcG52cEVPTGtLNF9UT1BFSnJ3WlUzOXNuU1FwZmNSdGVTdV9Na1h6M3dPVGVtU0ttYlBlRWc0S1Q0Rl9HSmVCNlZaZXhjMVc0OUduMk1mOGRqVkxjY0d2SGhRbWJsUQ)) — FX direction into central bank risk.
