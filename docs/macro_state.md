@@ -1,19 +1,22 @@
-# Macro State — Last updated: 2026-09-13
+# Macro State — Last updated: 2026-09-14
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Gulf oil supply shock and chokepoint escalation** — Status: Acceleration; new Hormuz vessel strike, Houthi strike and VLCC spike extend physical risk premium; next trigger Monday Hormuz meeting or further attacks.
-- **G7 energy-driven hawkish repricing** — Status: Confirmation; super-week positioning shows markets expect Fed and G7 hikes; next trigger Fed Chair Warsh and G7 central bank guidance.
-- **BRICS diplomacy and de-dollarisation** — Status: Confirmation; summit closed with Xi peace push and Modi critical-minerals warning; next trigger implementation details or US response.
-- **Asia structural capital-flow shifts** — Status: New; Korea extends exchange hours, German firms lift China FDI as US outlays fall; next trigger first evening session flows and EU policy response.
+- **Gulf oil supply shock and chokepoint escalation** — Status: Acceleration; now includes Saudi pipeline shutdown, Houthi island advance, and postponed Hormuz talks; next trigger Monday rescheduled talks or further attacks.
+- **G7 energy-driven hawkish repricing** — Status: Acceleration; August CPI and G7 hawks push Fed toward a hike while Trump pressures Warsh; next trigger Wednesday Fed decision and dot plot.
+- **BRICS de-dollarisation and Gulf diplomacy** — Status: Confirmation; local-currency payment expansion and Iran-UAE contact reinforce bloc cohesion; next trigger implementation details and US response.
+- **Asia energy import shock and China property fiscal strain** — Status: New; LNG import costs squeeze developing Asia while China land auctions show local revenue pressure; next trigger China Sep 15 activity data.
+
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- Further Hormuz vessel attacks or Houthi strikes and VLCC rate persistence.
-- Monday Iran-proposed Hormuz meeting, Saudi pipeline status and safe-transit signals.
-- Super-week Fed and G7 central bank communication; China A-share reaction.
-- Korea evening session opening demand and foreign net buying.
-- Follow-up German IW China FDI data or EU policy action.
+- Hormuz talks reschedule or Iran-Oman reopening details.
+- Fed decision, Warsh guidance, and dot plot versus Trump rate demands.
+- Saudi pipeline restart or further Hormuz/Houthi attacks; diesel/VLCC persistence.
+- China Sep 15 industrial production, retail sales, house prices, and unemployment.
+- Any China fuel pricing or stockholding policy adjustment after APPEC.
+
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will Hormuz shipping attacks escalate further and force broader rerouting?
-- Can G7 hawkish repricing produce actual tightening and stronger USD/Asia FX?
-- Do structural capital-flow shifts such as Korea hours and German FDI persist beyond headlines?
+- Will Hormuz shipping attacks force broader rerouting and keep physical risk premium elevated?
+- Can the Fed hike repricing persist without a White House-driven reversal?
+- Will BRICS local-currency settlement expand beyond symbolic pledges into real reserve diversification?
+
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- None in this window from today's cited sources.
+- UST 10Y yield `5%` — cited as raising new risks for markets and economy ([BBG](https://www.bloomberg.com/news/articles/2026-09-13/a-5-treasury-yield-is-raising-new-risks-for-markets-economy)).
