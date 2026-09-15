@@ -1,23 +1,23 @@
-# Macro State — Last updated: 2026-09-14
+# Macro State — Last updated: 2026-09-15
 
-## Active Narratives (max 4)
-- **Gulf oil supply shock and chokepoint escalation** — Status: Acceleration; Hormuz traffic below average, higher winter heating costs, and oil gains broaden the physical risk premium; next trigger rescheduled Iran-Gulf talks or Saudi pipeline restart.
-- **G7 energy-driven hawkish repricing** — Status: Acceleration; ECB, BoE, and BoJ signals join the Fed repricing, with the Bund making a new 15-year high; next trigger Fed and BoJ decisions this week.
-- **China credit weakness and stimulus expectations** — Status: Confirmation; August social financing of 1.66 trillion yuan and only 600 billion yuan in new renminbi loans support the property and fiscal strain narrative; next trigger Sep 15 China activity data.
-- **AI development slowdown and tech risk repricing** — Status: Acceleration; joint industry calls for slower AI development and falling global AI stocks extend the earlier Asian tech caution; next trigger government or corporate AI policy responses.
+## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
+- **Middle East oil supply shock and chokepoint escalation** — Status: Acceleration; Saudi East-West pipeline closure and Hormuz drone downing expand physical supply threats; next trigger Saudi pipeline restart or Hormuz shipping normalization.
+- **G7 energy-driven hawkish repricing** — Status: Acceleration; UST 10y touched `5%`, Fed hike odds exceed `92%`, and ECB officials flag energy concerns; next trigger Fed decision and dot plot.
+- **China credit weakness and stimulus expectations** — Status: Confirmation; no new credit data today but offshore yuan promotion and Asian high-yield outperformance reflect cheap China funding; next trigger Sep 15 China activity data.
+- **AI development slowdown and tech risk repricing** — Status: Acceleration; US-China political clash and semiconductor selloff broaden the AI warning; next trigger official AI policy or corporate capex guidance.
 
-## Watchpoints (max 5)
-- Fed decision, Warsh guidance, and dot plot versus Trump rate demands this week.
-- BoJ decision and Ueda response to Tokyo-Washington pressure.
+## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
+- Fed decision, September dot plot, and Warsh guidance.
 - Sep 15 China House Price Index, Industrial Production, Retail Sales, Fixed Asset Investment, and Unemployment Rate.
-- Hormuz shipping traffic normalization or rescheduled Iran-Gulf talks; Saudi pipeline restart.
-- North Korea weapons test response or further military escalation.
+- Saudi pipeline restart or confirmed Hormuz transit normalization.
+- BOJ decision and Ueda response to Tokyo-Washington pressure.
+- US-China AI policy responses and semiconductor price stabilization.
 
-## Open Questions (max 3)
-- Will weak China credit force faster PBOC or fiscal easing, or only keep stimulus expectations alive without immediate action?
-- Can the Fed/ECB/BoE hawkish repricing persist if the AI-driven equity rout tightens financial conditions?
-- Will Hormuz shipping constraints keep heating and LNG costs elevated into winter despite possible diplomatic talks?
+## Open Questions (max 3 — only unresolved questions that affect positioning)
+- Will the energy shock force synchronized Fed/ECB/BOJ tightening and extend the equity drawdown?
+- Will weak China activity force faster PBOC or fiscal easing, or only keep stimulus expectations alive?
+- Can AI slowdown warnings harden into actual capex cuts and tighten financial conditions further?
 
-## Key Levels (max 5)
-- German 10-year Bund yield new 15-year high: cited as the US bond market flails ([WSJ](https://news.google.com/rss/articles/CBMiywFBVV95cUxPUUViTThLVXZVVW9Uck9RZHRIcm1zQm9tcXFjX1ZBckl6NGJQRTVvREEyYjFlUzBKdHRaUTF3eGlHb1JaSnN5ZXpSU2ZnZUNNNURYUXgxME9Xam96THNITzNTNjlNVUdNUmFSbUhoSXgzLXgxM0pWOFZ2aVNuN2lYb0ZXdGlpN3NIeUVJR3FaY0VmcDFERWFXU1g1dUE4R3NoZGU0SVRfS3dVdTA5VjlKd2FBUy1tYWJtaWxhc0FNclUzM2xFdUpSUTlzcw)).
-- UST 10-year yield `5%`: cited as a level hitting tech traders and contributing to the stock market decline ([Yahoo Finance](https://finance.yahoo.com/markets/live/stock-market-today-monday-september-14-dow-sp-500-nasdaq-080559558.html)).
+## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
+- Brent `$109` — cited by FT after Saudi pipeline closure; key physical supply shock level for inflation expectations.
+- UST 10-year yield `5%` — cited by FT as first time since 2023; global financial marker driving dollar and equities.
