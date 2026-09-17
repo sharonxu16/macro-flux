@@ -1,26 +1,24 @@
 # Macro State — Last updated: 2026-09-17
 
 ## Active Narratives (max 4)
-- **Fed hawkish repricing and global tightening** — Status: Confirmation/Acceleration; Fed hiked for first time since 2023 with one more signaled, and HKMA followed immediately; next trigger BOE decision and Japan CPI.
-- **Middle East oil supply shock and physical premium** — Status: Fading; Saudi pipeline restoration pushed oil lower for a second day, but Chinese oil prices remain at record highs; next trigger full pipeline restart or fresh Hormuz disruption.
-- **US-China trade and Russia sanctions collision** — Status: New; House passed Russia sanctions bill targeting China and India energy buyers just before Xi-Trump summit; next trigger Trump signing and possible China response.
-- **Global central bank divergence** — Status: Confirmation; Brazil cut to `13.75%` while IMF urged RBA to stay hawkish; next trigger BOE and other DM central bank decisions.
+- **Fed hawkish repricing and Warsh credibility** - Status: Confirmation; first hike since 2023 is digested with yields and dollar easing from peaks; next trigger US jobless claims and BOE decision.
+- **BOJ policy divergence and yen pressure** - Status: Acceleration; Fed hike raises bar for BOJ support; next trigger BOJ Friday decision and guidance.
+- **US Russian-oil buyer sanctions** - Status: Acceleration; Trump expected to sign 100% tariff authority; next trigger Trump signing, India and China response.
+- **China de-dollarization and labor market weakness** - Status: Acceleration; China cuts US Treasury holdings to lowest since 2008 and youth unemployment rises to 18.9%; next trigger Xi summit and TIC data.
 
 ## Watchpoints (max 5)
-- BOE rate decision and vote split today.
-- Japan inflation data and potential BOJ signaling.
-- Trump signing the Russia sanctions bill and China’s diplomatic response.
-- Saudi pipeline restoration completion and Hormuz transit normalization.
-- Hong Kong property and HKD reaction after HKMA’s first hike since 2023.
+- BOE decision and vote split today 19:00 HKT.
+- US initial jobless claims, housing starts, and Philly Fed tonight.
+- BOJ decision Friday and yen response.
+- Trump signing Russia sanctions bill and oil market reaction.
+- Saudi alternative oil route normalization and European gas/LNG price path.
 
 ## Open Questions (max 3)
-- Will the Fed’s one-more-hike dot plot extend the global bond selloff and keep the dollar bid into the US midterms?
-- Will Russia sanctions targeting Chinese and Indian energy buyers undermine the Xi-Trump summit trade detente?
-- Will the HKMA’s first hike since 2023 stall the Hong Kong property recovery and tighten offshore CNH liquidity?
+- Will Warsh credibility hold if US data keep inflation risks elevated?
+- Will China's US Treasury unwind accelerate, pressuring long-end USTs?
+- Will BOJ provide enough hawkish guidance to stabilize the yen?
 
 ## Key Levels (max 5)
-- UST 10-year yield `5%` — CNBC; reclaimed after the Fed hike and Warsh’s inflation warnings.
-- UK CPI YoY `3.1%` — FT; latest inflation print ahead of today’s BOE decision.
-- Brazil Selic `13.75%` — BBG; EM carry reference after Brazil’s quarter-point cut.
-- US mortgage rates near `7%` — BBG; cited with US homebuilder sentiment at its lowest in a year.
-- Fed funds range `3.75%-4%` — BBC; first increase in three years, now the new policy range after the hike.
+- BOE Bank Rate `3.75%` - BBG_Econ; expected hold with market focus on vote split.
+- China youth unemployment `18.9%` - SCMP; August reading up from `17.9%` July.
+- BoJ Interest Rate Decision prior `1%` vs estimate `1.25%` - TradingEconomics calendar; binary risk for yen.
