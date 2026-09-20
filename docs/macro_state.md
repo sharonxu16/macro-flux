@@ -1,23 +1,18 @@
-# Macro State — Last updated: 2026-09-19
+# Macro State — Last updated: 2026-09-20
 
 ## Active Narratives
-- **Fed higher-for-longer repricing** — Status: Acceleration; global sovereign average yields hit highest since July 2002 and Fed signaled additional 2026 hike; next trigger Fed speakers/US data.
-- **China tech regulatory crackdown** — Status: New; probes into Meituan/Alibaba units and travel platforms revive platform regulatory risk; next trigger SAMR/regulator formal statements.
-- **Pre-summit Taiwan/US-China management** — Status: Reversal; Taiwan arms sales delayed until after APEC/G20 and White House summit agenda set; next trigger Xi-Trump Sep 24 outcomes.
-- **Middle East oil supply shock** — Status: Confirmation; Singapore anticipates further fuel disruptions and FT says shock is wrongfooting the world; next trigger pipeline status/alternative supply moves.
-
+- **Middle East oil supply shock** — Status: Acceleration; East-West pipeline strike plus first Riyadh air-raid alert raise physical supply risk; next trigger Iran/Qatar talks and Saudi pipeline status.
+- **Fed higher-for-longer repricing** — Status: Acceleration; quarter-point hike and diesel-led inflation keep front-end anchored; next trigger Fed speakers and US inflation data.
+- **Xi-Trump summit management** — Status: Confirmation; week's pivotal event on tariffs and technology; next trigger summit deliverables and tariff announcements.
 ## Watchpoints
-- China regulator clarification or added platform names within 48h.
-- Taiwan arms sales final decision before APEC/G20.
-- Xi-Trump White House summit agenda outcomes, especially autos/rare earths/AI.
-- Fed speakers and front-end yield follow-through.
-- Singapore energy diversification and Middle East shipping disruption signals.
-
+- Repeat or absence of Riyadh air-raid alerts and East-West pipeline flow restoration.
+- Xi-Trump Washington summit outcomes on tariffs, technology and autos.
+- China Loan Prime Rate 1Y/5Y release on Sep 21 09:15 HKT.
+- Fed speakers clarifying diesel/oil inflation transmission.
+- Iran response to Qatar conditions and any formal ceasefire signal.
 ## Open Questions
-- Will China antitrust probes escalate into formal fines and pressure HK/China tech and CNH?
-- Will US delay on Taiwan arms sales hold beyond APEC/G20?
-- Will global sovereign yields continue rising and tighten conditions into Xi visit?
-
+- Does the East-West pipeline strike override Hormuz throughput normalization and widen risk premium?
+- Can Xi-Trump summit deliver a tariff/tech de-escalation sufficient to support CNH and China tech?
+- Will French sovereign debt and euro area inflation vigilance accelerate sovereign yield repricing?
 ## Key Levels
-- Global sovereign bond average yield: highest since July 2002 ([WSJCN](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnUXY2NFZYVUJpVHNVNjYzbm9rcU50ZUtfNThxSWl6SlpOYlVpVllyNHlaSXdvS3NFeXBnUDFXazNiWEU1QlRIZmd5TVJ6czY2S3c)); global funding-cost benchmark.
-- Fed policy rate: first hike since July 2023, additional hike before end-2026 flagged ([BBG](https://www.bloomberg.com/news/articles/2026-09-19/world-economy-latest-fed-boosts-interest-rates-signals-another-2026-hike)); front-end anchor.
+- None with exact levels cited in today's feed.
