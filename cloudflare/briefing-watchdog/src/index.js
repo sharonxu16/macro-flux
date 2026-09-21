@@ -1,7 +1,7 @@
 const HKT_TIME_ZONE = "Asia/Hong_Kong";
 const WATCHDOG_EVENT = "briefing_watchdog";
 const MORNING_CRON = "10 0 * * *";
-const AFTERNOON_CRON = "25 9 * * *";
+const AFTERNOON_CRON = "31 9 * * *";
 
 function hktDate(now = new Date()) {
   const parts = new Intl.DateTimeFormat("en-US", {

@@ -9,7 +9,7 @@ test("converts a UTC scheduled time to the HKT report date", () => {
 
 test("routes the two watchdog schedules to the correct briefing", () => {
   assert.equal(modeForCron("10 0 * * *"), "morning");
-  assert.equal(modeForCron("25 9 * * *"), "afternoon");
+  assert.equal(modeForCron("31 9 * * *"), "afternoon");
   assert.throws(() => modeForCron("0 0 * * *"), /Unsupported watchdog cron/);
 });
 
