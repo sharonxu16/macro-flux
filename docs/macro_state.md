@@ -1,25 +1,26 @@
 # Macro State — Last updated: 2026-09-22
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Oil supply shock** — Status: Confirmation; Hormuz flows recovering, Brent near `$100` and fourth-day decline reduce supply premium; next trigger Trump-Iran meeting and sustained crude pullback.
-- **US-China summit** — Status: Acceleration; AI safety follow-up in Shenzhen and trade truce extension talks move summit toward operational deliverables; next trigger Sept 24 outcomes.
-- **Hawkish Fed policy** — Status: Confirmation; Goolsbee and Musalem tie rate hikes to demand plus oil shock while gold falls on hike odds; next trigger US data and Fed commentary.
-- **AI capex spillover to Korea** — Status: Acceleration; KKR `$3B` Korea AI supply-chain bet plus SoftBank funding momentum support Korea tech capex; next trigger Korea export and BOK signals.
+- **Oil supply shock / Hormuz diplomacy** — Status: Reversal; Iran offer to reopen Hormuz and fading US-Iran talk hopes create a two-way intraday oil move that keeps the energy risk premium unresolved; next trigger US-Iran meeting confirmation and tanker transit guidance.
+- **US-China summit trade truce** — Status: Acceleration; rare earths friction, Taiwan arms demand and trilateral allied pressure raise the stakes for the Sept 24 summit; next trigger summit deliverables on truce extension, Taiwan and rare earths.
+- **Asia AI capex rally** — Status: Acceleration; Taiex record, Alibaba AI chip and Korea memory gains broaden the AI bid across Asia; next trigger Korea export data and BOK commentary.
+- **China FX strength** — Status: New; CNY at 3-1/2 year high on strong PBOC fixing collides with trade friction into the summit; next trigger PBOC fixing and summit tariff language.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- Sept 24 US-China deliverables: AI safeguards, trade truce extension range, Taiwan language.
-- Possible Trump-Iran meeting this week and Hormuz export normalization; tanker freight rates.
-- Fed speakers and US data this week, especially demand-driven inflation signals.
-- Korea 20-Year KTB auction and BOK commentary as AI capex inflows persist.
-- Oil rebound failure or new refinery/energy infrastructure attacks reversing the supply premium unwind.
+- Sept 24 Xi-Trump deliverables: trade truce extension, Taiwan arms language, rare earths and AI safeguards.
+- Hormuz transit and US-Iran talk confirmation, plus any tanker freight or energy infrastructure attack.
+- PBOC fixing and whether Chinese yuan strength triggers official tolerance or reversal.
+- Asia tech rally durability: Taiex close, Alibaba data center follow-through, Korea chip export signals.
+- Fed speakers and US data, especially the UST 2-year auction, as hawkish pricing meets AI risk appetite.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Does the oil and long-end yield easing represent durable supply-shock reduction or only a pause?
-- Will the US-China summit produce enforceable AI, trade, and health-sector de-escalation or symbols without implementation?
-- Does the AI capex cycle force faster tightening in Korea while US demand data keeps Fed hike pricing elevated?
+- Does the PBOC-fixed yuan strength represent durable capital inflows or only pre-summit positioning vulnerable to trade friction?
+- Will oil whipsaw resolve into a sustained Hormuz reopening or renewed supply-risk escalation?
+- Can the Asia AI rally persist if US-China truce talks stall on Taiwan and rare earths?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- Brent near `$100` after settling `3.4%` lower; matters as the oil supply shock threshold now being tested ([BBG](https://www.bloomberg.com/news/videos/2026-09-21/oil-settles-near-100-as-hormuz-flows-stunt-rally-video)).
-- KKR `$3 billion` Korea AI supply-chain deals; matters as capital-flow evidence supporting Korea's AI capex and KRW ([BBG](https://www.bloomberg.com/news/articles/2026-09-21/kkr-bets-on-korea-ai-supply-chain-after-record-3-billion-deals)).
-- SoftBank more than `$11bn` junk bond raise; matters as AI credit supply and risk-appetite gauge ([FT](https://www.ft.com/content/4e7004b7-d262-40c8-b979-fdf7f237adda)).
-- WTI October contract fell about `4.5%`; matters as front-end oil price sensitivity to Hormuz and diplomacy ([BBG](https://www.bloomberg.com/news/videos/2026-09-21/oil-settles-near-100-as-hormuz-flows-stunt-rally-video)).
+- CNY at 3-1/2 year high on strong PBOC fixing, matters as the China FX appreciation threshold into trade negotiations ([Investing.com](https://www.investing.com/news/forex-news/chinese-yuan-hits-312-year-high-on-strong-pboc-fixing-4909861)).
+- Taiex record intraday high after rising more than `60%` this year, matters as the Asia AI trade momentum gauge ([FT](https://www.ft.com/content/2c60812b-77b4-4de5-a276-5e3eb2ceb5c3)).
+- Alibaba shares jumped `3%` in Hong Kong, matters as the China AI hardware and data center capital-spending signal ([CNBC](https://www.cnbc.com/2026/09/22/alibaba-ai-alibabacloud-zhenwu-v900-.html)).
+- China imported over `1,000 tonnes` of gold, almost `$160bn` in eight months, matters as official-sector and private demand for safe-haven assets ([FT](https://www.ft.com/content/ed38995e-c7be-4703-9775-eb384a037ce3)).
+- China’s share of global container exports `40%`, matters as trade-dependence and tariff-exposure gauge ([FT](https://www.ft.com/content/51c49052-0799-4920-9189-8399f15c1f51)).
