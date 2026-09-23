@@ -1,26 +1,25 @@
-# Macro State — Last updated: 2026-09-22
+# Macro State — Last updated: 2026-09-23
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Oil supply shock / Hormuz diplomacy** — Status: Reversal; Iran offer to reopen Hormuz and fading US-Iran talk hopes create a two-way intraday oil move that keeps the energy risk premium unresolved; next trigger US-Iran meeting confirmation and tanker transit guidance.
-- **US-China summit trade truce** — Status: Acceleration; rare earths friction, Taiwan arms demand and trilateral allied pressure raise the stakes for the Sept 24 summit; next trigger summit deliverables on truce extension, Taiwan and rare earths.
-- **Asia AI capex rally** — Status: Acceleration; Taiex record, Alibaba AI chip and Korea memory gains broaden the AI bid across Asia; next trigger Korea export data and BOK commentary.
-- **China FX strength** — Status: New; CNY at 3-1/2 year high on strong PBOC fixing collides with trade friction into the summit; next trigger PBOC fixing and summit tariff language.
+- **Oil/Hormuz de-escalation** — Status: Confirmation; conditional Iranian reopening offer, Saudi pipeline restart and falling oil prices ease energy risk premium, but Trump ultimatum keeps escalation tail live; next trigger first tanker transit and US-Iran talk confirmation.
+- **US-China summit positioning** — Status: Acceleration; fentanyl precursor controls, AI dialogue and state media’s constructive framing raise deliverable scope, while Taiwan access reports preserve friction; next trigger Thursday summit statement.
+- **AI rally rotation** — Status: Acceleration; Nasdaq 100 record and Asian stock gains extend the AI trade, while financials and consumer-inertia names fall on Meta disruption and curve flattening; next trigger Asia tech follow-through and US PMIs.
+- **Fed hawkishness vs oil disinflation** — Status: New; Barkin warns one hike may not be enough and inflation is broadening, but falling oil and hedges for a shallower cycle create conflicting rates impulse; next trigger Fed speakers and US S&P Global PMIs.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- Sept 24 Xi-Trump deliverables: trade truce extension, Taiwan arms language, rare earths and AI safeguards.
-- Hormuz transit and US-Iran talk confirmation, plus any tanker freight or energy infrastructure attack.
-- PBOC fixing and whether Chinese yuan strength triggers official tolerance or reversal.
-- Asia tech rally durability: Taiex close, Alibaba data center follow-through, Korea chip export signals.
-- Fed speakers and US data, especially the UST 2-year auction, as hawkish pricing meets AI risk appetite.
+- US-Iran talks confirmation and first tanker convoy clearing Hormuz without incident; Saudi East-West pipeline restart.
+- Xi-Trump summit deliverables: trade truce extension, Taiwan arms language, rare earths, AI dialogue.
+- Fed speakers and Sept 23 US S&P Global PMIs for hawkish impulse confirmation or fade.
+- Nasdaq 100 record and Asia AI/chip follow-through; Meta-driven disruption rotation breadth.
+- Singapore core inflation and Indonesia rate decision for Asia policy and macro read-through.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Does the PBOC-fixed yuan strength represent durable capital inflows or only pre-summit positioning vulnerable to trade friction?
-- Will oil whipsaw resolve into a sustained Hormuz reopening or renewed supply-risk escalation?
-- Can the Asia AI rally persist if US-China truce talks stall on Taiwan and rare earths?
+- Will conditional Iranian Hormuz reopening translate into actual transit normalization before US-Iran talks mature?
+- Does Barkin’s broadened inflation warning override oil-driven UST yield declines?
+- Can Xi-Trump deliver enough on Taiwan and rare earths to extend Asia risk appetite beyond the AI bid?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- CNY at 3-1/2 year high on strong PBOC fixing, matters as the China FX appreciation threshold into trade negotiations ([Investing.com](https://www.investing.com/news/forex-news/chinese-yuan-hits-312-year-high-on-strong-pboc-fixing-4909861)).
-- Taiex record intraday high after rising more than `60%` this year, matters as the Asia AI trade momentum gauge ([FT](https://www.ft.com/content/2c60812b-77b4-4de5-a276-5e3eb2ceb5c3)).
-- Alibaba shares jumped `3%` in Hong Kong, matters as the China AI hardware and data center capital-spending signal ([CNBC](https://www.cnbc.com/2026/09/22/alibaba-ai-alibabacloud-zhenwu-v900-.html)).
-- China imported over `1,000 tonnes` of gold, almost `$160bn` in eight months, matters as official-sector and private demand for safe-haven assets ([FT](https://www.ft.com/content/ed38995e-c7be-4703-9775-eb384a037ce3)).
-- China’s share of global container exports `40%`, matters as trade-dependence and tariff-exposure gauge ([FT](https://www.ft.com/content/51c49052-0799-4920-9189-8399f15c1f51)).
+- Brent below `$100` ([WSJ](https://news.google.com/rss/articles/CBMimwFBVV95cUxOc3MyRDJabzN1SXp5Z3JMNHJUZHFoLWJQVHM2eUxodjlfRzFtVHJ0YlJyYWlNTjVpa1NzZ2djSWxVNk92MzdRSVBKclFZa1l3MVE0MjBMYng1b3dwMzdzWEp0MXhycDhnLS1TVS1WYTZOZlFzSFVOUTFIeXBRSlpDMGI1MElCdXJaa3dZMzBXWWc1US13Z0FIV3ZSNA)) — energy-risk and inflation threshold.
+- Nasdaq 100 first record since June ([BBG](https://www.bloomberg.com/news/articles/2026-09-22/us-stock-futures-drift-after-ai-driven-rally-oil-prices-slip)) — AI sentiment and equity momentum gauge.
+- Shanghai-to-New York container rate at four-year high ([BBG](https://www.bloomberg.com/news/newsletters/2026-09-22/container-shipping-rates)) — trade-cost and tariff pass-through signal.
+- Hong Kong labor shortfall narrowing to `130,000` by 2028 ([SCMP](https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368430/hong-kong-workforce-shrink-20000-yearly-key-sectors-face-shortages)) — structural labor scarcity and wage pressure gauge.
