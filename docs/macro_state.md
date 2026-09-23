@@ -1,25 +1,26 @@
 # Macro State — Last updated: 2026-09-23
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Oil/Hormuz de-escalation** — Status: Confirmation; conditional Iranian reopening offer, Saudi pipeline restart and falling oil prices ease energy risk premium, but Trump ultimatum keeps escalation tail live; next trigger first tanker transit and US-Iran talk confirmation.
-- **US-China summit positioning** — Status: Acceleration; fentanyl precursor controls, AI dialogue and state media’s constructive framing raise deliverable scope, while Taiwan access reports preserve friction; next trigger Thursday summit statement.
-- **AI rally rotation** — Status: Acceleration; Nasdaq 100 record and Asian stock gains extend the AI trade, while financials and consumer-inertia names fall on Meta disruption and curve flattening; next trigger Asia tech follow-through and US PMIs.
-- **Fed hawkishness vs oil disinflation** — Status: New; Barkin warns one hike may not be enough and inflation is broadening, but falling oil and hedges for a shallower cycle create conflicting rates impulse; next trigger Fed speakers and US S&P Global PMIs.
+- **Dollar/hawkish Fed repricing** — Status: Acceleration; Collins, OECD and ADB broaden inflation warnings and drive two-month dollar highs, repricing Fed hikes despite oil disinflation; next trigger US S&P Global PMIs and Fed speakers.
+- **Oil de-escalation vs physical shipping stress** — Status: Confirmation; Brent below `$99` extends relief but record supertanker rates and below-average Hormuz traffic keep import inflation risks alive; next trigger EIA crude data and first normal tanker transit.
+- **Xi-Trump summit positioning** — Status: Confirmation; absent Chinese business delegation and Taiwan/human rights red lines narrow deliverable scope, while fentanyl guidelines provide one cooperative signal; next trigger Thursday summit statement.
+- **Asia sticky inflation and central bank defense** — Status: New; Singapore core CPI highest since 2024 and Bank Indonesia holding with intervention show policy leaning against imported energy and dollar pressure; next trigger MAS signals and rupiah stability.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- US-Iran talks confirmation and first tanker convoy clearing Hormuz without incident; Saudi East-West pipeline restart.
-- Xi-Trump summit deliverables: trade truce extension, Taiwan arms language, rare earths, AI dialogue.
-- Fed speakers and Sept 23 US S&P Global PMIs for hawkish impulse confirmation or fade.
-- Nasdaq 100 record and Asia AI/chip follow-through; Meta-driven disruption rotation breadth.
-- Singapore core inflation and Indonesia rate decision for Asia policy and macro read-through.
+- US S&P Global Flash PMIs at 9:45 PM HKT and EIA crude inventory at 10:30 PM HKT for dollar/oil confirmation.
+- Thursday Xi-Trump joint statement, CEO delegation finalization, and any Taiwan arms or investment language.
+- First normal tanker transit through Hormuz and any Saudi East-West pipeline restart update.
+- Bank Indonesia intervention scope and South Africa/Swiss National Bank rate decisions for global hawkish breadth.
+- Singapore core inflation follow-through and any MAS policy signal after third straight acceleration.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will conditional Iranian Hormuz reopening translate into actual transit normalization before US-Iran talks mature?
-- Does Barkin’s broadened inflation warning override oil-driven UST yield declines?
-- Can Xi-Trump deliver enough on Taiwan and rare earths to extend Asia risk appetite beyond the AI bid?
+- Does dollar strength persist if US PMIs soften or Brent slides further despite sticky official inflation warnings?
+- Can Xi-Trump deliver enough trade or investment substance to stabilize CNH and Asia risk appetite?
+- Will record tanker rates pass through to Asia import inflation even as crude prices fall?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- Brent below `$100` ([WSJ](https://news.google.com/rss/articles/CBMimwFBVV95cUxOc3MyRDJabzN1SXp5Z3JMNHJUZHFoLWJQVHM2eUxodjlfRzFtVHJ0YlJyYWlNTjVpa1NzZ2djSWxVNk92MzdRSVBKclFZa1l3MVE0MjBMYng1b3dwMzdzWEp0MXhycDhnLS1TVS1WYTZOZlFzSFVOUTFIeXBRSlpDMGI1MElCdXJaa3dZMzBXWWc1US13Z0FIV3ZSNA)) — energy-risk and inflation threshold.
-- Nasdaq 100 first record since June ([BBG](https://www.bloomberg.com/news/articles/2026-09-22/us-stock-futures-drift-after-ai-driven-rally-oil-prices-slip)) — AI sentiment and equity momentum gauge.
-- Shanghai-to-New York container rate at four-year high ([BBG](https://www.bloomberg.com/news/newsletters/2026-09-22/container-shipping-rates)) — trade-cost and tariff pass-through signal.
-- Hong Kong labor shortfall narrowing to `130,000` by 2028 ([SCMP](https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368430/hong-kong-workforce-shrink-20000-yearly-key-sectors-face-shortages)) — structural labor scarcity and wage pressure gauge.
+- Brent below `$99` ([FT](https://www.ft.com/content/0a5a5b70-adea-40af-9933-1f7679f9f359)) — energy-risk and inflation threshold.
+- Oil tanker cost record `$1.2mn` a day ([FT](https://www.ft.com/content/f95db340-8c8f-435f-957d-4623255ac29e)) — physical supply-bottleneck gauge.
+- Dollar at two-month highs ([Reuters](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ09vVklTVy1TeFR1N3AzZE9MUHJnb0dWeTVVUXJOS1N1dE1lT0ZSX1BSZ3RnMzVoVTdXTHhldmxGZkhCYkVTaHRMLWFrU2FUQVJhbzZHWld6TnZ5OFdXTGNDWXNUbTl1NE9qSmV5a3ZiQ0FUa3laZUdZVjRZZmNwazFoNDlKVHlkdEVQdzVLM01pb3M0S0x2VkFqN0dJRzhOLVZkenlmQzNxTVRVVm9reFRUN1psM1ZkbW1ycUhYU0VMM28)) — Fed-hike repricing and USD momentum marker.
+- Euro at nearly two-month low ([BBG](https://www.bloomberg.com/news/articles/2026-09-23/euro-hits-two-month-low-as-options-traders-add-downside-hedges)) — dollar strength and options-flow signal.
+- Singapore core inflation highest since 2024 ([BBG](https://www.bloomberg.com/news/articles/2026-09-23/singapore-core-inflation-rises-third-month-to-highest-since-2024)) — MAS policy and SGD pressure gauge.
