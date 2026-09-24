@@ -1,26 +1,26 @@
-# Macro State — Last updated: 2026-09-23
+# Macro State — Last updated: 2026-09-24
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Dollar/hawkish Fed repricing** — Status: Acceleration; Collins, OECD and ADB broaden inflation warnings and drive two-month dollar highs, repricing Fed hikes despite oil disinflation; next trigger US S&P Global PMIs and Fed speakers.
-- **Oil de-escalation vs physical shipping stress** — Status: Confirmation; Brent below `$99` extends relief but record supertanker rates and below-average Hormuz traffic keep import inflation risks alive; next trigger EIA crude data and first normal tanker transit.
-- **Xi-Trump summit positioning** — Status: Confirmation; absent Chinese business delegation and Taiwan/human rights red lines narrow deliverable scope, while fentanyl guidelines provide one cooperative signal; next trigger Thursday summit statement.
-- **Asia sticky inflation and central bank defense** — Status: New; Singapore core CPI highest since 2024 and Bank Indonesia holding with intervention show policy leaning against imported energy and dollar pressure; next trigger MAS signals and rupiah stability.
+- **Dollar/hawkish Fed repricing** — Status: Acceleration; 10-year Treasury yield hit 5.1% and market sees October Fed hike after hot S&P Global inflation; next trigger initial jobless claims, 7-year auction, Fed speakers.
+- **US-China trade truce extension** — Status: Confirmation; Busan agreement extended to Jan. 10 removes tariff cliff and opens bigger-deal path; next trigger Thursday Xi-Trump joint statement and deliverables.
+- **Oil supply risk / Hormuz physical stress** — Status: Acceleration; fatal cargo ship attack and defiant Iran rhetoric revive crude supply premium despite US crude stockpile build; next trigger tanker transit and Iran diplomacy.
+- **Global rates selloff and central bank hawkish breadth** — Status: Acceleration; ECB watches German wage pressure and Norges faces close hike call alongside Treasury selloff; next trigger German wage outcome, Norges decision, ECB communication.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- US S&P Global Flash PMIs at 9:45 PM HKT and EIA crude inventory at 10:30 PM HKT for dollar/oil confirmation.
-- Thursday Xi-Trump joint statement, CEO delegation finalization, and any Taiwan arms or investment language.
-- First normal tanker transit through Hormuz and any Saudi East-West pipeline restart update.
-- Bank Indonesia intervention scope and South Africa/Swiss National Bank rate decisions for global hawkish breadth.
-- Singapore core inflation follow-through and any MAS policy signal after third straight acceleration.
+- US initial jobless claims and 7-year note auction for Treasury demand and Fed pricing follow-through.
+- Thursday Xi-Trump summit statement, Taiwan security funds release, and trade deliverables.
+- First normal tanker transit through Hormuz or Iran diplomatic signal.
+- Norges Bank rate decision and ECB German wage negotiation outcome.
+- Follow-through on US crude inventory build and any diesel export ban decision.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Does dollar strength persist if US PMIs soften or Brent slides further despite sticky official inflation warnings?
-- Can Xi-Trump deliver enough trade or investment substance to stabilize CNH and Asia risk appetite?
-- Will record tanker rates pass through to Asia import inflation even as crude prices fall?
+- Can the US-China trade truce stabilize CNH and Asia FX against broad dollar strength?
+- Will 5% Treasury yields force the Fed to hike or create financial stress that caps tightening?
+- Does Hormuz physical supply risk pass through to Asia import inflation even as US crude inventories build?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- Brent below `$99` ([FT](https://www.ft.com/content/0a5a5b70-adea-40af-9933-1f7679f9f359)) — energy-risk and inflation threshold.
-- Oil tanker cost record `$1.2mn` a day ([FT](https://www.ft.com/content/f95db340-8c8f-435f-957d-4623255ac29e)) — physical supply-bottleneck gauge.
-- Dollar at two-month highs ([Reuters](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ09vVklTVy1TeFR1N3AzZE9MUHJnb0dWeTVVUXJOS1N1dE1lT0ZSX1BSZ3RnMzVoVTdXTHhldmxGZkhCYkVTaHRMLWFrU2FUQVJhbzZHWld6TnZ5OFdXTGNDWXNUbTl1NE9qSmV5a3ZiQ0FUa3laZUdZVjRZZmNwazFoNDlKVHlkdEVQdzVLM01pb3M0S0x2VkFqN0dJRzhOLVZkenlmQzNxTVRVVm9reFRUN1psM1ZkbW1ycUhYU0VMM28)) — Fed-hike repricing and USD momentum marker.
-- Euro at nearly two-month low ([BBG](https://www.bloomberg.com/news/articles/2026-09-23/euro-hits-two-month-low-as-options-traders-add-downside-hedges)) — dollar strength and options-flow signal.
-- Singapore core inflation highest since 2024 ([BBG](https://www.bloomberg.com/news/articles/2026-09-23/singapore-core-inflation-rises-third-month-to-highest-since-2024)) — MAS policy and SGD pressure gauge.
+- 10-year Treasury yield `5.1%` ([CNN](https://news.google.com/rss/articles/CBMia0FVX3lxTFBxdG1sZTlZdGpENnhEM2hLaTZWWXZpRkY5ZjZka0NXd3RaVzNuUEZRV2dFVUVjbTBremNRT2VfVHNGQlpGeHNqOGhkQmhaaUZKZXJzVFhhOFFralA3QUdWaHhXNW5nZzVoMkFB)) — duration stress and Fed repricing threshold.
+- Dollar at 8-week high ([WSJ](https://news.google.com/rss/articles/CBMixwFBVV95cUxONWd1TXlQMWFteE5laG9vTTFUNkFieFpXVlo2SG5TWS1mNUxZbW5kUkhGUkpBa0tkNW1hc1Q2ZEhXMVQ4TW84Q2ZYdld5OHZzV3dXbi1FYTc4WjZpVko1QVo4NU4zdEdJakpOM1UyeFI2RktZeDA3UklxSUhNaFQyVUs2UjhsSDRuMVNxaExiSmptWDdJcmdfb01MdFowS2tSM2RCWDZJcGszQzR1anJYcDB0MlVrY0tleEFsSnMyTmJaUTktSmJr)) — hawkish Fed dollar momentum marker.
+- S&P Global overall inflation measure highest since October 2022 ([CNBC](https://www.cnbc.com/2026/09/23/market-sees-next-fed-hike-in-october-following-barr-comments-hot-inflation.html)) — inflation impulse behind Fed pricing.
+- Trade truce extended to Jan. 10 ([BBG](https://www.bloomberg.com/news/articles/2026-09-23/bessent-says-us-china-agreed-to-extend-trade-truce-to-jan-10)) — China tariff cliff and CNH risk gauge.
+- US crude oil stockpiles post unexpected build ([WSJ](https://news.google.com/rss/articles/CBMimwFBVV95cUxQOUg3NXFscHNvUUVUalowcWxsU2k2YnlnVG5YX2tfNUNvTEg4SUZiWFl4T1VaT3RsVU1QLUp6a0NuQ3djQmdwQ3lYcmlNZ2ZNdTVaSGRqUGpqYzEySXJIaW9UeU93ZU9RRjM5SDBFU1NfdWV4S1pLcFYwMjRIbVp5dVlrekFqYVV0STdoQS1TT0FXQ1pFdHYyOHdOMA)) — physical oil balance offset to Hormuz supply risk.
