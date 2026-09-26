@@ -1,25 +1,25 @@
-# Macro State — Last updated: 2026-09-25
+# Macro State — Last updated: 2026-09-26
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Global bond selloff / hawkish Fed repricing** — Status: Fading; 10-year Treasury slipped to `5.17%` after multi-decade highs, but Asian yields still rising; next trigger US durable goods, Michigan final, Schmid speech.
-- **Oil / Middle East supply risk** — Status: Reversal; Iran offers Hormuz reopening within 7 days and nuclear talks, but Houthi missile/drone attacks on Saudi facilities continue; next trigger actual Hormuz transit or further Aramco hits.
-- **Dollar strength / Asia FX and yen intervention risk** — Status: Acceleration; dollar best two-week stretch since March, yen nears `160` and Japan signals intervention; next trigger MOF/BOJ action or break of `160`.
-- **US-China de-escalation with unresolved frictions** — Status: Confirmation; Xi-Trump talks cover AI, Taiwan, Iran, but structural trade frictions remain; next trigger trade deliverables or China-Iran follow-through.
+- **Global bond selloff / hawkish Fed repricing** — Status: Acceleration; long-term yields hit 2004 highs and Warsh framework keeps further hikes possible; next trigger US jobs data, Warsh communication.
+- **Oil / Middle East supply risk** — Status: Confirmation; Iran offers seven-day Hormuz reopening plan but Houthi attacks and Russia refinery halt persist; next trigger actual Hormuz transit or new infrastructure strike.
+- **Dollar strength / Asia FX and yen intervention risk** — Status: Confirmation; Bessent discusses strong yen with Katayama while hedge funds cut bullish yen bets after BOJ held back; next trigger MOF/BOJ action or USD/JPY break.
+- **US-China de-escalation with unresolved frictions** — Status: Confirmation; summit light on deliverables, Iran and Taiwan tensions remain, EU PHEV talks continue; next trigger Monday Greer trade details.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- US durable goods orders, Michigan final, and Fed Schmid speech tonight.
-- Actual Strait of Hormuz reopening transit or new Houthi/Aramco attack.
-- Japan MOF/BOJ intervention signals or yen break of `160`.
-- Continued Asian bond yield climb despite oil retreat.
-- EU-UK tariff follow-through on Chinese cars and China response.
+- US jobs data and Fed Warsh communication this week for bond and rate path.
+- Actual Strait of Hormuz transit or US acceptance of Iran seven-day roadmap.
+- New Houthi/Aramco attack or Russia energy infrastructure hit.
+- Monday Greer trade details and EU PHEV safeguard decision.
+- Bessent-Katayama follow-through or MOF/BOJ yen intervention signals.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will the stabilization in long-end UST and oil prove durable, or is this only a pause before yields and energy re-accelerate?
-- Can yen intervention risk cap USD/JPY while broad dollar strength and Fed repricing persist?
-- Does the EU’s push on Chinese car tariffs deepen China-EU friction and add to Asia FX risk?
+- Will bond yields extend if oil stays elevated and Fed hike remains live?
+- Can US-China summit convert into concrete trade deliverables, or does Taiwan/Iran friction cap upside?
+- Does global diesel and fuel supply shortage intensify if Hormuz reopens slowly?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- 10-year UST `5.17%` ([BBG](https://www.bloomberg.com/news/videos/2026-09-25/bond-yields-slip-after-surging-to-highest-in-decades-video)) — post-slip global borrowing cost marker.
-- Brent `$106` ([Al Jazeera](https://www.aljazeera.com/economy/2026/9/25/oil-prices-jump-after-yemens-houthis-claim-attacks-on-saudi-facilities)) — oil spike threshold on Houthi attack claims.
-- Hormuz crude exports `33.7 million barrels` this week ([Reuters](https://news.google.com/rss/articles/CBMixgFBVV95cUxOZXFDTzBxRUNwS0tCV0ZKaDI2Wm5RRXdCLVBYLW12YVdIeDZCX09tV3RKcEhHQ0xEM0JVMXZ1UWpiVW9wMDlkU2Y0b2ozbmZyX1I4RHhyUWphREs3NDFhaTJhcTRTbFRiY2lTV0RVMEo3RlM4X2pBRlB2Y1AtSENKSGs1VUNKZXJTSnVfLUZWMjdYZTgzOTdMenZ1bFhjejRoQXBYUWowN05OeWZ4ZGloS09GLU1aTFZtSE51Qk9hVTBlX2VwSUE)) — physical flow indicator for Hormuz de-escalation.
-- Yen near `160` ([Investing](https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-hits-twomonth-high-yen-nears-160-4916545)) — intervention trigger threshold.
+- 30-year UST `6%` year-end market expectation ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE91U2hjaGJmR3JZdHZTeE5BR2lXWEM5UTk4TExGemxZVGIyZmszQm04U2hhemRTVUNuT0duVkowZ0ttaVlPcVdSMzRGNDFRakhxVjZv)) — long-end bond stress threshold.
+- Brent `$100` ([BBG](https://www.bloomberg.com/news/articles/2026-09-25/wall-street-s-80-20-shift-finds-fresh-fuel-in-stock-bounceback)) — oil price marker across risk assets.
+- Michigan one-year inflation expectations `4.6%` ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MbHh5OTU1eUI4UEx5bVBtYmFfbzhJVzVOWm5USVREd3ZyejhVNE9LQjgyQ0lUSFNvSldqamlESlQ0bTJBMGJielNVUER5SnJZcRR)) — consumer inflation pulse.
+- Long-term Treasury yields highest since `2004` ([FT](https://www.ft.com/content/c5af4151-2c14-481b-8145-f5ec1f43a3f4)) — bond market stress benchmark.
