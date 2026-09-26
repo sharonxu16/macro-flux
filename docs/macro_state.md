@@ -1,25 +1,24 @@
 # Macro State — Last updated: 2026-09-26
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Global bond selloff / hawkish Fed repricing** — Status: Acceleration; long-term yields hit 2004 highs and Warsh framework keeps further hikes possible; next trigger US jobs data, Warsh communication.
-- **Oil / Middle East supply risk** — Status: Confirmation; Iran offers seven-day Hormuz reopening plan but Houthi attacks and Russia refinery halt persist; next trigger actual Hormuz transit or new infrastructure strike.
-- **Dollar strength / Asia FX and yen intervention risk** — Status: Confirmation; Bessent discusses strong yen with Katayama while hedge funds cut bullish yen bets after BOJ held back; next trigger MOF/BOJ action or USD/JPY break.
-- **US-China de-escalation with unresolved frictions** — Status: Confirmation; summit light on deliverables, Iran and Taiwan tensions remain, EU PHEV talks continue; next trigger Monday Greer trade details.
+- **Iran Hormuz ceasefire rejection / renewed conflict risk** — Status: Reversal; WSJ reports Trump rejected the seven-day reopening plan and expects renewed bombing, restoring the oil supply risk premium; next trigger official White House confirmation and any renewed strikes.
+- **US-China trade de-escalation with deliverables** — Status: Acceleration; $30B tariff cut, two-year coal purchase, and AI incident channel convert the summit into concrete trade easing; next trigger Monday Greer implementation details.
+- **Global bond selloff / hawkish Fed repricing** — Status: Acceleration; 30-year UST broke 5.5% even as oil fell, and Apollo warns the Fed overlooks diesel price risk; next trigger US jobs data and Warsh communication.
+- **Dollar strength / Asia FX pressure** — Status: Confirmation; higher long-end yields plus restored Middle East risk keep upward pressure on USD against Asia FX; next trigger yen intervention signals and USD/Asia moves.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- US jobs data and Fed Warsh communication this week for bond and rate path.
-- Actual Strait of Hormuz transit or US acceptance of Iran seven-day roadmap.
-- New Houthi/Aramco attack or Russia energy infrastructure hit.
-- Monday Greer trade details and EU PHEV safeguard decision.
-- Bessent-Katayama follow-through or MOF/BOJ yen intervention signals.
+- Official White House confirmation of Iran ceasefire rejection or renewed bombing timeline.
+- Actual Strait of Hormuz transit or any reopening signal.
+- Monday Greer trade details confirming the $30B tariff cut and coal commitments.
+- US jobs data next week and Fed Warsh communication.
+- Diesel price trajectory and any Fed response to fuel-cost inflation.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will bond yields extend if oil stays elevated and Fed hike remains live?
-- Can US-China summit convert into concrete trade deliverables, or does Taiwan/Iran friction cap upside?
-- Does global diesel and fuel supply shortage intensify if Hormuz reopens slowly?
+- Will the Iran ceasefire rejection drive Brent back toward $100?
+- Can US-China trade deliverables sustain risk sentiment against the bond rout and Middle East risk?
+- Does diesel and fuel supply pressure intensify with Hormuz still closed and Russian refinery halts continuing?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- 30-year UST `6%` year-end market expectation ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE91U2hjaGJmR3JZdHZTeE5BR2lXWEM5UTk4TExGemxZVGIyZmszQm04U2hhemRTVUNuT0duVkowZ0ttaVlPcVdSMzRGNDFRakhxVjZv)) — long-end bond stress threshold.
-- Brent `$100` ([BBG](https://www.bloomberg.com/news/articles/2026-09-25/wall-street-s-80-20-shift-finds-fresh-fuel-in-stock-bounceback)) — oil price marker across risk assets.
-- Michigan one-year inflation expectations `4.6%` ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MbHh5OTU1eUI4UEx5bVBtYmFfbzhJVzVOWm5USVREd3ZyejhVNE9LQjgyQ0lUSFNvSldqamlESlQ0bTJBMGJielNVUER5SnJZcRR)) — consumer inflation pulse.
-- Long-term Treasury yields highest since `2004` ([FT](https://www.ft.com/content/c5af4151-2c14-481b-8145-f5ec1f43a3f4)) — bond market stress benchmark.
+- 30-year UST `5.5%` break ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE81ZDd2Q2xQQXlFWWh3LWROZ1lsVWN1MTVPbGdpQXpPTlE2OTlsLUxMTUd0eFRXQTZabEFBM1l6aW0xbHdaeGc2anZJMFFNRWwxXzR3)) — long-end bond stress level hit even with oil down.
+- `$30 billion` tariff cut ([Reuters](https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2FRVWRwSDZuWUZPYTRXcmNuNTFDR0hrQkVUZnpSdV9RdGhpUjV5R0hwN2V6MUNUS2hiTHpENFhwUFVDODBIeDhBSm5SdUJOeU1qSUhjekl2RzBDd0VBYi0tdmNDblQwV1RMTF9QMGFHdlFRcDRmalE3dWlhX0l6aUJjSGtsVjlsZXNnbmZWY3JzMEtwY3hxNEZHT3JjWXJEQlVRSFpSM0haSUROOUFRaWJB)) — US-China trade easing benchmark.
+- `10 million metric tons` US coal to China in 2027 and 2028 ([BBG](https://www.bloomberg.com/news/articles/2026-09-26/us-says-china-to-buy-10-million-tons-of-coal-in-2027-and-2028)) — commodity trade flow benchmark.
