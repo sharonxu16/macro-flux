@@ -1,26 +1,25 @@
 # Macro State — Last updated: 2026-09-29
 
-## Active Narratives
-- **Global rates and real-yield shock** — Status: Acceleration; 10Y UST highest since 2007, real rates near Lehman, gold technical breakdown; next trigger Fed/ECB policy pushback or bond ETF flow reversal.
-- **US-China trade truce implementation** — Status: Confirmation with friction; soybean exclusion and weapons-sales contradiction keep bilateral risk live; next trigger formal implementation list or arms-sales clarification.
-- **China tech-industrial policy push** — Status: New; AI, quantum, fusion blueprint and PBOC/eight-ministry financing support, plus travel curbs; next trigger credit/equity tool details.
-- **Hormuz energy risk premium** — Status: Fading; oil spiked then pulled back on unclear Middle East signals; next trigger formal US response or Hormuz transit confirmation.
+## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
+- **Global rates and real-yield shock** — Status: Acceleration; Fed October hike debate and gold support break extend the repricing; next trigger US CPI.
+- **RBA hawkish tightening** — Status: New; `25bp` hike to `4.35%` with further tightening risk; next trigger RBA follow-up guidance or Australian monthly CPI.
+- **Singapore equity-market support** — Status: New; MAS `S$1.45 billion` EQDP allocation and `S$20 million` market-making commitment; next trigger deployment pace and turnover response.
+- **US-China trade implementation friction** — Status: Confirmation with friction; no material update this window; next trigger formal implementation list or weapons-sales clarification.
 
-## Watchpoints
-- Whether 10Y UST yield extends above S&P 500 earnings yield and bond ETF outflows deepen.
-- Formal US administration clarification on soybean inclusion and weapons-sales reports.
-- PBOC/eight-department AI financing implementation details.
-- South China Sea WZ-7 drone follow-up or Thomas Shoal escalation.
-- Formal US Hormuz response/reopening confirmation.
+## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
+- US CPI release to validate October Fed hike risk.
+- RBA follow-up guidance or Australian monthly CPI.
+- Singapore EQDP deployment and equity turnover follow-through.
+- Gold price action after key support break.
+- North Korea DMZ mine blast response or Korean peninsula escalation.
 
-## Open Questions
-- Will higher real yields force Fed or ECB pushback, or keep gold and EM under pressure?
-- Does China tariff exclusion for soybeans and the weapons contradiction undermine the US-China truce?
-- Will China tech credit support stabilize CNH/tech equities without adding leverage concerns?
+## Open Questions (max 3 — only unresolved questions that affect positioning)
+- Will a hot US CPI validate October Fed hike pricing and deepen gold/EM pressure?
+- Does RBA remain on a hawkish path, or is this a one-off energy-driven hike?
+- Will Singapore equity support materially lift local turnover and index performance?
 
-## Key Levels
-- 10Y US Treasury yield, highest since 2007 ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE11UGdld09aam1rMGlVME42R0lpek4zcUJMNGZIUlNTLUpodHRjZmFXNW9VZHQxRF85TEhNRFZRU2VXaWcyS296MmN0TmlxMVFUWnBv)).
-- Global bond index approaching `4%`, first since 2007 ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DVXhHMkpISDdrdXdjNWtYZmJfWk5ocXFfYXlhZVQza1FDWVJLTEVSQ0lCb3FHX2RkcTI5MTFJdUp0SUtnNC10VmxzajNDdG5rOE1B)).
-- US real rates near Lehman crisis era ([WSJCN](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yNEpZLVpDaW5VTVRJbTFzSFJiU0psN29wSEp2T2RBcTI3clZrSHU3amNrR210WkVUdHZUNXVTSDBza09seEQ0SlpqZVd2YjhSSWc)).
-- China August goods/services trade `51179亿元` ([Xinhua](https://www.news.cn/fortune/20260929/b8591510c3fe4420862f334c5e65163d/c.html)).
-- China industrial profit `52719.8亿元`, growth `15.7%` ([CCTV](https://news.google.com/rss/articles/CBMieEFVX3lxTE03bkFHbWpuMXUxSHNHT2dzdVJDNWxxLTFxX3hKUzhIcGw3NWR0QW9Ucm9Bb3M4NDJNaFlDX2VFMzlYRzFYVDBJM2VvOXlpTGlyaWVLWDVPcG1WdUt6RUZjSTdzUmJ5Zjg4NS1MQUdkeC01NjhXdzN6YQ)).
+## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
+- RBA cash rate `4.35%` ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE95VlZlVWpOY2FROFIyazVLdkRZcGRGUXpoT3BPN3BCMnRhWEdDODM3R3FrYkZrMzRpenVBUmtXZUFBckF6U3RrSmVaS1NkY0tiOFNj), [FT](https://www.ft.com/content/5c1dc583-5c88-4e91-a6b8-b62a6b33f74c)) — highest in 15 years; anchors Australia and Asia-Pacific policy repricing.
+- Bond veteran's `5.2%` US Treasury yield threshold ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zaGpnU2JOeFVLY3hxVUtSQzA0c0w5NjVkZ3hRNnNHYTFTN0R5TVNGTEU4N3pscUhTY3RsRFFDU1pPYU1PWnBZcnBtZVJFWTRvWkJF)) — level cited as sufficient buffer for long-end US bonds.
+- MAS `S$1.45 billion` EQDP allocation ([BusinessTimes](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd1ljdGVvYURFRnZWWjM1cUs0VF9OR2Y2WjY0bjZNcXNIS2lBb2J0aUJGa25IMTVPRHhhZTlVZlVGV3RuOHRmWkNrTG82bVM5Mi0xUEozbC05SHVmNDJZb3FZenNqbmd0OUJGNFpMS2NLLUlhQ2YxRWJKWjBGRU9LTWtNTlBFUkhwR0QybktLMWRCenNTZWp1STJ1TUs3bl9SbkllSDkwdG1QRGxEOVJXcmpEUHdUVlkzeFl5b3hqSm82TG5xemF3Ug)) — targeted Singapore equity flow support.
+- MAS `S$20 million` equities market-making commitment ([MAS_GN](https://news.google.com/rss/articles/CBMimwFBVV95cUxPRWxHNVVUSEVJdlp0WkNwSTI1cjI5czBRWlBySGRmUlZyN3JqaVd1a2tCd2FxdGNWV1loelFBbVUtUDNYVFQyMktLcU8xeHoxdlViVjcwMjRKVjd6bFRLNzNQWXJBNlNtbi1henRVQmJ3a3pnUUtLSVp3dmkySUlxTDRHbHJiVGdDdExaWXR3Wm83dkpqZGtpdjdBWQ)) — Singapore market-making liquidity support.
