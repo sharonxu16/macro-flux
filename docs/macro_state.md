@@ -1,24 +1,26 @@
-# Macro State — Last updated: 2026-09-28
+# Macro State — Last updated: 2026-09-29
 
-## Active Narratives (max 4)
-- **Hormuz energy risk premium**: Status: Reversal risk; Iran says US rejection not formally relayed, leaving reopening ambiguity; next trigger formal US response.
-- **US-China trade truce**: Status: Confirmation; total tariff reduction quantified at `$60bn` goods and US coal imports resuming; next trigger implementation details.
-- **China targeted fiscal support**: Status: Acceleration; August industrial profit growth `4.2%` YoY weakest this year; next trigger MOF/State Council package.
-- **Precious metals/rates pressure**: Status: Confirmation; gold declines as Hormuz impasse keeps rate-hike bets elevated ([BT](https://news.google.com/rss/articles/CBMixwFBVV95cUxNeEtDaFctTTgzQ01xUlU0SUR1aFdhemRSZW52OEphdUV6N002ZWxMaW9yNzY5UVRGZVN3OFpkSlQxZHpiTE5YazZITjJnR3VWREhDVTdNd3ctUVRnNHlsVG85WmJjd3Rfbk5VQjYwNmdIOWdsaTVucEdQUTFmSmJMRlhkZmo4blF4SnVBWTJxUHhyNGdwU1pSeTlXVVlOY2hhR0Q1S0VaQnptcUdOelZEYzBteXljYWE1eXk3SEZySEI3Q04wdkpj)).
+## Active Narratives
+- **Global rates and real-yield shock** — Status: Acceleration; 10Y UST highest since 2007, real rates near Lehman, gold technical breakdown; next trigger Fed/ECB policy pushback or bond ETF flow reversal.
+- **US-China trade truce implementation** — Status: Confirmation with friction; soybean exclusion and weapons-sales contradiction keep bilateral risk live; next trigger formal implementation list or arms-sales clarification.
+- **China tech-industrial policy push** — Status: New; AI, quantum, fusion blueprint and PBOC/eight-ministry financing support, plus travel curbs; next trigger credit/equity tool details.
+- **Hormuz energy risk premium** — Status: Fading; oil spiked then pulled back on unclear Middle East signals; next trigger formal US response or Hormuz transit confirmation.
 
-## Watchpoints (max 5)
-- Formal US response or Hormuz reopening confirmation.
-- China MOF/State Council fiscal package announcement.
-- US-China tariff implementation lists and coal import signoff.
-- Second Thomas Shoal escalation.
-- Next China activity data or US rates repricing.
+## Watchpoints
+- Whether 10Y UST yield extends above S&P 500 earnings yield and bond ETF outflows deepen.
+- Formal US administration clarification on soybean inclusion and weapons-sales reports.
+- PBOC/eight-department AI financing implementation details.
+- South China Sea WZ-7 drone follow-up or Thomas Shoal escalation.
+- Formal US Hormuz response/reopening confirmation.
 
-## Open Questions (max 3)
-- Will weak industrial profits force a larger China fiscal package and stabilize the CNH?
-- Does the `$60bn` tariff reduction sustain the US-China truce despite South China Sea friction?
-- Does Hormuz formal rejection ambiguity keep the oil risk premium bid?
+## Open Questions
+- Will higher real yields force Fed or ECB pushback, or keep gold and EM under pressure?
+- Does China tariff exclusion for soybeans and the weapons contradiction undermine the US-China truce?
+- Will China tech credit support stabilize CNH/tech equities without adding leverage concerns?
 
-## Key Levels (max 5)
-- China August industrial profit `4.2%` YoY ([CNBC](https://www.cnbc.com/2026/09/28/china-posts-weakest-industrial-profit-growth-this-year-expanding-4point2percent-in-august-.html)).
-- US-China tariff reduction `$60 billion` goods ([CNBC](https://www.cnbc.com/2026/09/28/us-china-lower-tariffs-trump-xi-meeting.html)).
-- US coal imports `10 million tonnes` each of next two years ([SCMP](https://www.scmp.com/plus/news/china/diplomacy/article/3369060/china-resuming-us-coal-imports-among-thin-list-summit-outcomes)).
+## Key Levels
+- 10Y US Treasury yield, highest since 2007 ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE11UGdld09aam1rMGlVME42R0lpek4zcUJMNGZIUlNTLUpodHRjZmFXNW9VZHQxRF85TEhNRFZRU2VXaWcyS296MmN0TmlxMVFUWnBv)).
+- Global bond index approaching `4%`, first since 2007 ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DVXhHMkpISDdrdXdjNWtYZmJfWk5ocXFfYXlhZVQza1FDWVJLTEVSQ0lCb3FHX2RkcTI5MTFJdUp0SUtnNC10VmxzajNDdG5rOE1B)).
+- US real rates near Lehman crisis era ([WSJCN](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yNEpZLVpDaW5VTVRJbTFzSFJiU0psN29wSEp2T2RBcTI3clZrSHU3amNrR210WkVUdHZUNXVTSDBza09seEQ0SlpqZVd2YjhSSWc)).
+- China August goods/services trade `51179亿元` ([Xinhua](https://www.news.cn/fortune/20260929/b8591510c3fe4420862f334c5e65163d/c.html)).
+- China industrial profit `52719.8亿元`, growth `15.7%` ([CCTV](https://news.google.com/rss/articles/CBMieEFVX3lxTE03bkFHbWpuMXUxSHNHT2dzdVJDNWxxLTFxX3hKUzhIcGw3NWR0QW9Ucm9Bb3M4NDJNaFlDX2VFMzlYRzFYVDBJM2VvOXlpTGlyaWVLWDVPcG1WdUt6RUZjSTdzUmJ5Zjg4NS1MQUdkeC01NjhXdzN6YQ)).
