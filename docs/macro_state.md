@@ -1,25 +1,24 @@
 # Macro State — Last updated: 2026-09-28
 
-## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Iran/Hormuz physical supply stress** — Status: Acceleration; Trump rejection keeps blockade risk premium alive and energy costs elevated; next trigger White House formal response or confirmed Hormuz transit.
-- **US-China trade truce regional digestion** — Status: Confirmation; tariff cuts and AI dialogue add concrete deliverables but Taiwan and chip access remain unresolved; next trigger Monday implementation details.
-- **Global bond selloff / private credit stress** — Status: Acceleration; long-end yields hit multi-decade highs and mortgage rates exceed 7%, though private credit withdrawals slow; next trigger payrolls and Treasury auctions.
-- **Asia AI/semiconductor rotation** — Status: Confirmation; Korea semiconductor tax windfall supports fiscal room, while North Korea and Ukraine diplomacy add risk; next trigger Korea AI policy response and North Korea provocation.
+## Active Narratives (max 4)
+- **Hormuz energy risk premium**: Status: Reversal risk; Iran says US rejection not formally relayed, leaving reopening ambiguity; next trigger formal US response.
+- **US-China trade truce**: Status: Confirmation; total tariff reduction quantified at `$60bn` goods and US coal imports resuming; next trigger implementation details.
+- **China targeted fiscal support**: Status: Acceleration; August industrial profit growth `4.2%` YoY weakest this year; next trigger MOF/State Council package.
+- **Precious metals/rates pressure**: Status: Confirmation; gold declines as Hormuz impasse keeps rate-hike bets elevated ([BT](https://news.google.com/rss/articles/CBMixwFBVV95cUxNeEtDaFctTTgzQ01xUlU0SUR1aFdhemRSZW52OEphdUV6N002ZWxMaW9yNzY5UVRGZVN3OFpkSlQxZHpiTE5YazZITjJnR3VWREhDVTdNd3ctUVRnNHlsVG85WmJjd3Rfbk5VQjYwNmdIOWdsaTVucEdQUTFmSmJMRlhkZmo4blF4SnVBWTJxUHhyNGdwU1pSeTlXVVlOY2hhR0Q1S0VaQnptcUdOelZEYzBteXljYWE1eXk3SEZySEI3Q04wdkpj)).
 
-## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- White House formal response to rejected Iran truce and possible renewed bombing signal.
-- Confirmed Hormuz transit or freight rate reversal.
-- Monday Greer trade implementation details.
-- US payrolls and Treasury auction repricing of long-end yields.
-- Korea AI policy response and next North Korea provocation.
+## Watchpoints (max 5)
+- Formal US response or Hormuz reopening confirmation.
+- China MOF/State Council fiscal package announcement.
+- US-China tariff implementation lists and coal import signoff.
+- Second Thomas Shoal escalation.
+- Next China activity data or US rates repricing.
 
-## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Does physical energy shipping stress keep Brent bid even if diplomacy resumes?
-- Is the long-end bond selloff durable without breaking private credit stabilization?
-- Can Asia AI/semiconductor rotation counter China consumer weakness and North Korea risk within regional indices?
+## Open Questions (max 3)
+- Will weak industrial profits force a larger China fiscal package and stabilize the CNH?
+- Does the `$60bn` tariff reduction sustain the US-China truce despite South China Sea friction?
+- Does Hormuz formal rejection ambiguity keep the oil risk premium bid?
 
-## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- 30-year US Treasury yield `5.5%` breached ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE81ZDd2Q2xQQXlFWWh3LWROZ1lsVWN1MTVPbGdpQXpPTlE2OTlsLUxMTUd0eFRXQTZabEFBM1l6aW0xbHdaeGc2anZJMFFNRWwxXzR3)) — long-end stress marker.
-- 30-year US Treasury yield `6%` year-end threshold cited by over half of market participants ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE91U2hjaGJmR3JZdHZTeE5BR2lXWEM5UTk4TExGemxZVGIyZmszQm04U2hhemRTVUNuT0duVkowZ0ttaVlPcVdSMzRGNDFRakhxVjZv)) — next bond stress marker.
-- South Korea excess tax revenue `50 trillion won` (`$37 billion`) ([BBG](https://www.bloomberg.com/news/articles/2026-09-27/south-korea-tax-windfall-seen-above-50-trillion-won-yonhap)) — fiscal room from semiconductor cycle.
-- US mortgage rates topping `7%` ([CNN](https://news.google.com/rss/articles/CBMinwFBVV95cUxNa2JxTGhCME9wcXdfc1hNaEtKRGJjSW5XN1NMTGFsakdZUlpIR2U3bFUzNXBFWEZOS3NxbDZ4TmRiTFcxSmZVRFFDMm5XXzJESEFkRk11ek1CM0RsUlpRc1JrcktPN2k2VGFkbXdOc0JVTF9rX01oSmRLNUliZV9NdEtpU3pJaFMzLWFIQTVLaWtkNWZRRF9UUm5adDk4ZGs)) — housing market transmission.
+## Key Levels (max 5)
+- China August industrial profit `4.2%` YoY ([CNBC](https://www.cnbc.com/2026/09/28/china-posts-weakest-industrial-profit-growth-this-year-expanding-4point2percent-in-august-.html)).
+- US-China tariff reduction `$60 billion` goods ([CNBC](https://www.cnbc.com/2026/09/28/us-china-lower-tariffs-trump-xi-meeting.html)).
+- US coal imports `10 million tonnes` each of next two years ([SCMP](https://www.scmp.com/plus/news/china/diplomacy/article/3369060/china-resuming-us-coal-imports-among-thin-list-summit-outcomes)).
