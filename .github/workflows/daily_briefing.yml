@@ -41,6 +41,11 @@ on:
         description: "Target HKT date, YYYY-MM-DD. Leave blank for today."
         required: false
         type: string
+      send_email:
+        description: "Send email after publishing the report"
+        required: true
+        type: boolean
+        default: true
   repository_dispatch:
     types:
       - briefing_watchdog
@@ -81,93 +86,12 @@ jobs:
 
       - name: Determine briefing type
         id: type
-        run: |
-          python - <<'PY'
-          import os
-          from datetime import date, datetime, timedelta, timezone
-
-          schedule = os.environ.get("GITHUB_EVENT_SCHEDULE", "")
-          event_name = os.environ.get("GITHUB_EVENT_NAME", "")
-          manual_type = os.environ.get("INPUT_BRIEFING_TYPE", "").strip()
-          manual_date = os.environ.get("INPUT_RUN_DATE_HKT", "").strip()
-          dispatch_type = os.environ.get("DISPATCH_BRIEFING_TYPE", "").strip()
-          dispatch_date = os.environ.get("DISPATCH_RUN_DATE_HKT", "").strip()
-          now_hkt = datetime.now(timezone.utc) + timedelta(hours=8)
-
-          morning_schedules = {
-              "5 0 * * *",
-              "15 0 * * *",
-              "25 0 * * *",
-              "35 0 * * *",
-              "5 1 * * *",
-              "17 1 * * *",
-              "31 1 * * *",
-              "47 1 * * *",
-              "13 2 * * *",
-              "43 2 * * *",
-              "13 3 * * *",
-          }
-          afternoon_schedules = {"35 9 * * *", "45 9 * * *", "55 9 * * *", "5 10 * * *", "20 10 * * *", "30 11 * * *"}
-
-          def target_date_for(label):
-              if label == "morning":
-                  return now_hkt.date() if now_hkt.hour >= 6 else now_hkt.date() - timedelta(days=1)
-              if label == "afternoon":
-                  return now_hkt.date() if now_hkt.hour >= 12 else now_hkt.date() - timedelta(days=1)
-              raise SystemExit(f"Unsupported briefing_type: {label}")
-
-          if event_name == "schedule":
-              if schedule in morning_schedules:
-                  briefing_type = "morning"
-              elif schedule in afternoon_schedules:
-                  briefing_type = "afternoon"
-              else:
-                  # GitHub can deliver delayed scheduled jobs with a blank/unexpected schedule
-                  # string. Before 06:00 HKT, treat it as a delayed prior-day afternoon run
-                  # instead of generating a future morning window.
-                  if now_hkt.hour < 6:
-                      briefing_type = "afternoon"
-                  elif now_hkt.hour < 12:
-                      briefing_type = "morning"
-                  else:
-                      briefing_type = "afternoon"
-                  print(f"Unrecognized schedule {schedule!r}; inferred {briefing_type} from HKT time {now_hkt:%Y-%m-%d %H:%M}")
-              target_date = target_date_for(briefing_type)
-          elif event_name == "repository_dispatch":
-              briefing_type = dispatch_type or "morning"
-              target_date = date.fromisoformat(dispatch_date) if dispatch_date else now_hkt.date()
-          else:
-              briefing_type = manual_type or "morning"
-              if manual_date:
-                  target_date = date.fromisoformat(manual_date)
-              else:
-                  target_date = now_hkt.date()
-
-          if briefing_type == "morning":
-              # Monday morning is the weekend catch-up: Friday 17:30 -> Monday 08:00 HKT.
-              start_date = target_date - timedelta(days=3 if target_date.weekday() == 0 else 1)
-              start = f"{start_date} 17:30"
-              end = f"{target_date} 08:00"
-              flag = "--morning"
-          elif briefing_type == "afternoon":
-              start = f"{target_date} 08:00"
-              end = f"{target_date} 17:30"
-              flag = "--afternoon"
-          else:
-              raise SystemExit(f"Unsupported briefing_type: {briefing_type}")
-
-          with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as f:
-              print(f"flag={flag}", file=f)
-              print(f"label={briefing_type}", file=f)
-              print(f"window_from={start}", file=f)
-              print(f"window_to={end}", file=f)
-              print(f"target_date={target_date}", file=f)
-
-          print(f"Selected {briefing_type}: {start} -> {end} HKT")
-          PY
+        run: python briefing_schedule.py
         env:
-          GITHUB_EVENT_SCHEDULE: ${{ github.event.schedule }}
-          GITHUB_EVENT_NAME: ${{ github.event_name }}
+          # Do not shadow GitHub's reserved GITHUB_* variables. The schedule
+          # field can be blank, so briefing_schedule.py has an HKT-time fallback.
+          EVENT_SCHEDULE: ${{ github.event.schedule }}
+          EVENT_NAME: ${{ github.event_name }}
           INPUT_BRIEFING_TYPE: ${{ inputs.briefing_type }}
           INPUT_RUN_DATE_HKT: ${{ inputs.run_date_hkt }}
           DISPATCH_BRIEFING_TYPE: ${{ github.event.client_payload.briefing_type }}
@@ -241,30 +165,30 @@ jobs:
           else
             git commit -m "Auto-generate ${{ steps.type.outputs.label }} briefing for ${{ steps.type.outputs.target_date }}"
             echo "commit_sha=$(git rev-parse HEAD)"
-            git push origin main
+            git push origin "HEAD:${GITHUB_REF_NAME}"
           fi
 
       - name: Build site
-        if: steps.existing.outputs.skip != 'true' && steps.prepush.outputs.skip != 'true'
+        if: github.ref_name == 'main' && steps.existing.outputs.skip != 'true' && steps.prepush.outputs.skip != 'true'
         run: |
           pip install mkdocs-material mkdocs-callouts
           mkdocs build
 
       - name: Upload GitHub Pages artifact
-        if: steps.existing.outputs.skip != 'true' && steps.prepush.outputs.skip != 'true'
+        if: github.ref_name == 'main' && steps.existing.outputs.skip != 'true' && steps.prepush.outputs.skip != 'true'
         uses: actions/upload-pages-artifact@v3
         with:
           path: site
 
       - name: Deploy to GitHub Pages
-        if: steps.existing.outputs.skip != 'true' && steps.prepush.outputs.skip != 'true'
+        if: github.ref_name == 'main' && steps.existing.outputs.skip != 'true' && steps.prepush.outputs.skip != 'true'
         id: deployment
         uses: actions/deploy-pages@v4
 
       - name: Send email notification
         # The report commit is pushed with GITHUB_TOKEN, which does not wake
         # push-triggered workflows. Send once here for scheduled/manual runs.
-        if: steps.existing.outputs.skip != 'true' && steps.prepush.outputs.skip != 'true'
+        if: github.ref_name == 'main' && steps.existing.outputs.skip != 'true' && steps.prepush.outputs.skip != 'true' && (github.event_name != 'workflow_dispatch' || inputs.send_email)
         env:
           BRIEFING_EMAIL_RECIPIENTS: ${{ secrets.BRIEFING_EMAIL_RECIPIENTS }}
           SMTP_HOST: ${{ secrets.SMTP_HOST }}
