@@ -1,25 +1,26 @@
-# Macro State — Last updated: 2026-09-29
+# Macro State — Last updated: 2026-09-30
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Global rates and real-yield shock** — Status: Acceleration; Fed October hike debate and gold support break extend the repricing; next trigger US CPI.
-- **RBA hawkish tightening** — Status: New; `25bp` hike to `4.35%` with further tightening risk; next trigger RBA follow-up guidance or Australian monthly CPI.
-- **Singapore equity-market support** — Status: New; MAS `S$1.45 billion` EQDP allocation and `S$20 million` market-making commitment; next trigger deployment pace and turnover response.
-- **US-China trade implementation friction** — Status: Confirmation with friction; no material update this window; next trigger formal implementation list or weapons-sales clarification.
+- **China policy easing package** — Status: New; PSL `25bp` cut, structural relending expansion and first central mortgage subsidy target property and growth; next trigger implementation and take-up.
+- **Global long-end real-yield shock** — Status: Acceleration; 30-year US Treasury yield at 2002 high and Fed October hike debate; next trigger US CPI/jobs data.
+- **Hormuz chokepoint risk** — Status: Acceleration; KOTC tanker struck, bunker prices escalate, US SPR release up to `40 million barrels`; next trigger further tanker incident or routing advisories.
+- **US-China tech friction** — Status: Confirmation; Trump rejects AI safety cooperation with China despite Xi summit progress; next trigger formal tech policy or export controls.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- US CPI release to validate October Fed hike risk.
-- RBA follow-up guidance or Australian monthly CPI.
-- Singapore EQDP deployment and equity turnover follow-through.
-- Gold price action after key support break.
-- North Korea DMZ mine blast response or Korean peninsula escalation.
+- China PSL and mortgage subsidy implementation details.
+- Further Hormuz tanker strikes or official rerouting advisories.
+- Fed speaker pushback against October hike repricing.
+- Korea October 1 exports and manufacturing PMI releases.
+- US CPI/jobs data to validate long-end yield pressure.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will a hot US CPI validate October Fed hike pricing and deepen gold/EM pressure?
-- Does RBA remain on a hawkish path, or is this a one-off energy-driven hike?
-- Will Singapore equity support materially lift local turnover and index performance?
+- Will China easing stabilize property credit and CNH, or will global UST pressure dominate?
+- Does the long end continue to new highs if oil and inflation expectations stay elevated?
+- Will Hormuz physical disruptions widen despite the SPR release?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- RBA cash rate `4.35%` ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE95VlZlVWpOY2FROFIyazVLdkRZcGRGUXpoT3BPN3BCMnRhWEdDODM3R3FrYkZrMzRpenVBUmtXZUFBckF6U3RrSmVaS1NkY0tiOFNj), [FT](https://www.ft.com/content/5c1dc583-5c88-4e91-a6b8-b62a6b33f74c)) — highest in 15 years; anchors Australia and Asia-Pacific policy repricing.
-- Bond veteran's `5.2%` US Treasury yield threshold ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zaGpnU2JOeFVLY3hxVUtSQzA0c0w5NjVkZ3hRNnNHYTFTN0R5TVNGTEU4N3pscUhTY3RsRFFDU1pPYU1PWnBZcnBtZVJFWTRvWkJF)) — level cited as sufficient buffer for long-end US bonds.
-- MAS `S$1.45 billion` EQDP allocation ([BusinessTimes](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd1ljdGVvYURFRnZWWjM1cUs0VF9OR2Y2WjY0bjZNcXNIS2lBb2J0aUJGa25IMTVPRHhhZTlVZlVGV3RuOHRmWkNrTG82bVM5Mi0xUEozbC05SHVmNDJZb3FZenNqbmd0OUJGNFpMS2NLLUlhQ2YxRWJKWjBGRU9LTWtNTlBFUkhwR0QybktLMWRCenNTZWp1STJ1TUs3bl9SbkllSDkwdG1QRGxEOVJXcmpEUHdUVlkzeFl5b3hqSm82TG5xemF3Ug)) — targeted Singapore equity flow support.
-- MAS `S$20 million` equities market-making commitment ([MAS_GN](https://news.google.com/rss/articles/CBMimwFBVV95cUxPRWxHNVVUSEVJdlp0WkNwSTI1cjI5czBRWlBySGRmUlZyN3JqaVd1a2tCd2FxdGNWV1loelFBbVUtUDNYVFQyMktLcU8xeHoxdlViVjcwMjRKVjd6bFRLNzNQWXJBNlNtbi1henRVQmJ3a3pnUUtLSVp3dmkySUlxTDRHbHJiVGdDdExaWXR3Wm83dkpqZGtpdjdBWQ)) — Singapore market-making liquidity support.
+- China PSL rate lowered `0.25厘` ([HKEJ](https://news.google.com/rss/articles/CBMiyAJBVV95cUxOQ2VZcnBOakRPNHZPVk9RT3VmS0lmblJSRWlWUF9GLXh3bGJ5cy1KUUZLUWJyaThSNXZLc1RwOTR6WFU3YS04c19zVXF6MGJneHFQNUtzVGo0bzRLamRNRkpOSkxieGhxaTNNU0Y1cHJROWJmN1hkSWs1SEZDajBXbHBYNVR0cUZpckI2OHdIbHI1cHY4ZWdkenJ5blNrLWQ3QnZlVUtORVIwUkhQOHBDeGNaTWItbmVtbjhEdFFyZk1mcWd1b1BjTXhkcUFBN1I2WGdGS05VQl91NFdTeTBJLThGWkt0YVdyWmpGOVMxWVV5Wi1aNEhjcm5FMVpoTWFITUx6Q3gyMjNKOWJPcGxuX2ZGMmVRQ1doS1BpbGN0bjgyRjgybFdsWmxUMFRRZEp3Vk5LNXR3d2hyNTB0WDc3Z25SSEJ5dDVw)): anchors China easing and property credit support.
+- US 30-year Treasury yield at 2002 high ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tZmRxeWFGVjd6cDU4RkU5NlkyUGQ1akVxbkpON2loT1dtY1pOS0lCeTU5Zkx5eTIyM01UdlZhb3U3UVpfT3JVdFJfQTV3MEpvbGk4)): global term-premium stress and Asia FX constraint.
+- US SPR release up to `40 million barrels` ([HKEJ](https://news.google.com/rss/articles/CBMiqgJBVV95cUxOUWFxZktPLUp1M240cTRBZF9waVJCNnc2bjJtZlUzbEZ4X184eG44bjY2RS1RZ2RJZWkycU5kdG5MVHZ0MEU2T0VGTmNaam52ZHJ3bzY3UDZYNzZySTlaaEtuS2dvQ2p5OEFweTBYdXpXbm9feUoydWNxaERUOV9JZExXeUVWREF5bXFPMjIyaEJqeFhRSTRJRFowUUxLWkNRWDJTalRUSlY0X05IbzhOVkF0ZFBYQllLWlV0N3IwLTRyQkQwdGtWdUlrVWx0U3FlNHV4bFR1SUxBeWxiWW5hV0k1ZFVHaENuVEx4VVIxSnZjTjVHbDN6dGtzZm1RMEV6MEd6NnVyeERhbXByRWhoczZJREZYWTAwQ0JsbGVDNlBpTVFmRW9ubGJR)): US policy offset to Hormuz supply risk.
+- China September manufacturing PMI `50.1%` ([Xinhua](https://www.news.cn/fortune/20260930/b97119ab134c49dfa44b62c341906887/c.html)): recovery confirmation, CNY-positive.
+- Hong Kong household debt `89.5%` of GDP ([HKEJ](https://news.google.com/rss/articles/CBMinwJBVV95cUxOYlJ5cnh0X3F3Mks0TXl2U1c4ck1HRmlkRV9jYi1pQXFvbTRpVV9jbHFWWjlFQ1JITy1lMzhZV0lxRXF5MUgtSFdZSE9HNXpjcjIwMVp5YzZzQ2ZvUDM1QzRMeU5nX0FuenlXb3hKN0hEa0RRXzQzbVdIVDBJbzlGcFpYZjNlajY3UkVXc0w1OGlwSDRCV0k3cWQzUGc5LVNQdWVwMDRjYWZtQ0JlUGRVNEpMYzVyTEgtQWlRVTNzLTVPVnNuWFV0b1lYcVVSbTU3Q0owRW9Kd0VndlJmeEZSRW5jZDZZcXVNY2NvbVl2WnMyMUxnWGk1YTFUQllJNEd3MzNXZzdjOUFlYnF1ZlowYWszbXU5V3czTDFzYzNoSQ)): leverage monitor for HKD and property risk.
