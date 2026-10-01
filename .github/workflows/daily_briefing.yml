@@ -41,6 +41,11 @@ on:
         description: "Target HKT date, YYYY-MM-DD. Leave blank for today."
         required: false
         type: string
+      send_email:
+        description: "Send email after publishing the report"
+        required: true
+        type: boolean
+        default: true
   repository_dispatch:
     types:
       - briefing_watchdog
@@ -160,30 +165,30 @@ jobs:
           else
             git commit -m "Auto-generate ${{ steps.type.outputs.label }} briefing for ${{ steps.type.outputs.target_date }}"
             echo "commit_sha=$(git rev-parse HEAD)"
-            git push origin main
+            git push origin "HEAD:${GITHUB_REF_NAME}"
           fi
 
       - name: Build site
-        if: steps.existing.outputs.skip != 'true' && steps.prepush.outputs.skip != 'true'
+        if: github.ref_name == 'main' && steps.existing.outputs.skip != 'true' && steps.prepush.outputs.skip != 'true'
         run: |
           pip install mkdocs-material mkdocs-callouts
           mkdocs build
 
       - name: Upload GitHub Pages artifact
-        if: steps.existing.outputs.skip != 'true' && steps.prepush.outputs.skip != 'true'
+        if: github.ref_name == 'main' && steps.existing.outputs.skip != 'true' && steps.prepush.outputs.skip != 'true'
         uses: actions/upload-pages-artifact@v3
         with:
           path: site
 
       - name: Deploy to GitHub Pages
-        if: steps.existing.outputs.skip != 'true' && steps.prepush.outputs.skip != 'true'
+        if: github.ref_name == 'main' && steps.existing.outputs.skip != 'true' && steps.prepush.outputs.skip != 'true'
         id: deployment
         uses: actions/deploy-pages@v4
 
       - name: Send email notification
         # The report commit is pushed with GITHUB_TOKEN, which does not wake
         # push-triggered workflows. Send once here for scheduled/manual runs.
-        if: steps.existing.outputs.skip != 'true' && steps.prepush.outputs.skip != 'true'
+        if: github.ref_name == 'main' && steps.existing.outputs.skip != 'true' && steps.prepush.outputs.skip != 'true' && (github.event_name != 'workflow_dispatch' || inputs.send_email)
         env:
           BRIEFING_EMAIL_RECIPIENTS: ${{ secrets.BRIEFING_EMAIL_RECIPIENTS }}
           SMTP_HOST: ${{ secrets.SMTP_HOST }}
