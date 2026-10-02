@@ -209,7 +209,7 @@ if MODEL.lower().startswith("deepseek-v4-pro"):
     MODEL = "deepseek-v4-pro"
 # Keep the existing prompt and report validation unchanged; allow unusually
 # dense news windows enough completion headroom without publishing partial output.
-MAX_OUTPUT_TOKENS = env_int("MAX_OUTPUT_TOKENS", 32768, min_value=24576, max_value=65536)
+MAX_OUTPUT_TOKENS = env_int("MAX_OUTPUT_TOKENS", 49152, min_value=24576, max_value=65536)
 FEED_TIMEOUT = 10  # seconds per feed
 MAX_AGE_HOURS = 48
 LOCAL_TZ = timezone(timedelta(hours=8))  # HKT
@@ -217,7 +217,7 @@ MAX_ENHANCE_ARTICLES = env_int("MAX_ENHANCE_ARTICLES", 45, min_value=10)
 ENHANCE_DELAY = 0.8             # seconds between full-text requests
 FETCH_ROUND_TIMEOUT_SECONDS = env_int("FETCH_ROUND_TIMEOUT_SECONDS", 180, min_value=30)
 ENHANCE_TIMEOUT_SECONDS = env_int("ENHANCE_TIMEOUT_SECONDS", 90, min_value=10)
-LLM_TIMEOUT_SECONDS = env_int("LLM_TIMEOUT_SECONDS", 420, min_value=60)
+LLM_TIMEOUT_SECONDS = env_int("LLM_TIMEOUT_SECONDS", 600, min_value=60)
 RUN_TIMEOUT_SECONDS = env_int("RUN_TIMEOUT_SECONDS", 4200, min_value=300)
 REMOTE_CHECK_FETCH_TIMEOUT_SECONDS = env_int("REMOTE_CHECK_FETCH_TIMEOUT_SECONDS", 60, min_value=10)
 REMOTE_CHECK_QUERY_TIMEOUT_SECONDS = env_int("REMOTE_CHECK_QUERY_TIMEOUT_SECONDS", 15, min_value=5)

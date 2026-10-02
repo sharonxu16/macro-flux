@@ -122,7 +122,8 @@ jobs:
           FETCH_ROUND_TIMEOUT_SECONDS: "180"
           MAX_ENHANCE_ARTICLES: "45"
           ENHANCE_TIMEOUT_SECONDS: "90"
-          LLM_TIMEOUT_SECONDS: "420"
+          # DeepSeek's 48K completion budget can exceed seven minutes on dense windows.
+          LLM_TIMEOUT_SECONDS: "600"
           RUN_TIMEOUT_SECONDS: "4200"
         run: |
           set -o pipefail
