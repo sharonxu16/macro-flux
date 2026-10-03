@@ -1,26 +1,25 @@
-# Macro State — Last updated: 2026-10-02
+# Macro State — Last updated: 2026-10-03
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Middle East oil and diesel supply shock** — Status: Acceleration; US sends third carrier and 50,000 troops while Europe debates diesel reserve release; next trigger EU release decision or further strikes.
-- **European inflation-fiscal stress** — Status: Acceleration; eurozone inflation at `3.8%` and French spreads widen; next trigger ECB communication or French fiscal response.
-- **Fed rate-hike repricing and global bond stress** — Status: Confirmation; 10-year US Treasury yields highest since 2002 and rate-hike bets stay elevated before payrolls; next trigger September payrolls and wages.
-- **Korea BOK hike expectation and Asia FX** — Status: New; core inflation `2.8%` and record September exports raise November hike pricing; next trigger BOK communication or October data.
+- **Fed October hike repricing** — Status: Reversal; weak payrolls and dollar slump unwind near-term Fed hike bets; next trigger Fed speakers and US inflation data.
+- **Middle East oil/diesel supply shock** — Status: Reversal; G7 releases 100 million barrels and US drops export ban threat, capping fuel panic; next trigger EU release implementation and Hormuz transit.
+- **European inflation-fiscal stress** — Status: Acceleration; eurozone CPI rises to 3.8% and French spreads squeeze ECB; next trigger French fiscal response and ECB communication.
+- **North Korea missile risk premium** — Status: New; ballistic missile from Wonsan raises Korea risk premium and pressures KRW; next trigger further tests or US-ROK response.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- US September Nonfarm Payrolls and Average Hourly Earnings tonight.
-- EU diesel and crude reserve release decision and US export ban threat.
-- Further Hormuz tanker attacks or US carrier escalation.
-- China response to Taiwan F-16V delivery and Tsai US visit.
-- BOK official communication on November rate hike.
+- Fed speakers and next US inflation data after weak payrolls.
+- EU diesel and crude reserve release details and any US export ban reversal.
+- Further North Korean missile launches or US-South Korea military response.
+- China response to F-16V delivery and Taiwan coastguard incident.
+- French government bond spread escalation and ECB Lagarde communication.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will the EU reserve release and record Hormuz LNG shipments cap oil enough to ease inflation expectations?
+- Will the G7 reserve release and softer US jobs data ease inflation expectations enough to break the bond selloff?
 - Does eurozone inflation force ECB hikes even as French spreads widen?
-- Will global wage and inflation data keep rate-hike bets elevated and pressure Asia FX?
+- Is the weak US payrolls print a calendar quirk or the start of labor market cooling?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- Brent below `$100` ([CNBC](https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html)): oil supply risk reversal.
-- Eurozone inflation `3.8%`, highest since September 2023 ([CNBC](https://www.cnbc.com/2026/10/02/eurozone-inflation-ecb.html)): ECB policy constraint.
-- US 10-year Treasury yield highest since 2002 ([FT](https://www.ft.com/content/4f2ad4c1-22b0-497b-88c8-197d7f301f79)): global duration stress.
-- Korea core inflation `2.8%`, exports `1209亿美元` ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sbGlpeGRCNjlvZ3pEZlJaQ1BCUjJaQTQ1SWUyZ2RoNGlpdWtuWEp1SkVkV2FidDhQdW5wanJ5TnFFLVpydk5zR0xDSFQ2QkpWQkRB)): BOK hike pressure.
-- Hong Kong retail sales `5.6%` y/y ([SCMP](https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3369559/consumer-spending-picks-hong-kong-retail-sales-rising-56-august)): HK consumption recovery.
+- US nonfarm payrolls `29,000` vs `84,000` forecast, unemployment `4.2%` ([CNBC](https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html)): Fed October hike repricing.
+- G7 releases `100 million barrels` of oil/diesel ([BBG](https://www.bloomberg.com/news/articles/2026-10-02/g7-to-release-up-to-100-millions-of-barrels-of-diesel-and-oil)): energy supply shock relief.
+- Eurozone inflation `3.8%` ([FT](https://www.ft.com/content/6394fdc7-5fa5-4ec3-8bde-52633acd2b57)): ECB policy constraint.
+- UK diesel `£2 ($2.7)/liter` ([BBG](https://www.bloomberg.com/news/articles/2026-10-02/economists-warn-of-5-uk-inflation-if-us-diesel-ban-goes-ahead)): fuel price stress.
