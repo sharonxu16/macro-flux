@@ -1,22 +1,23 @@
-# Macro State — Last updated: 2026-10-03
+# Macro State — Last updated: 2026-10-04
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Global bond term premia / fiscal stress** — Status: Acceleration; weak payrolls failed to push yields lower, and debt-level warnings plus European equity stress show price action is now driven by term premia rather than Fed path. Next trigger: US September CPI and Fed speakers.
-- **BOJ / yen carry pressure** — Status: Confirmation; hedge funds re-short JPY despite rate hikes and Trump comments. Next trigger: MOF intervention signals or US CPI repricing.
-- **Vietnam growth momentum** — Status: Confirmation; GDP accelerated on FDI and exports, keeping EM Asia export resilience. Next trigger: next trade/PMI/FDI releases.
-- **China-EU targeted trade friction** — Status: New; anti-dumping probe into EU p-nitrotoluene adds a small trade-policy skirmish. Next trigger: EU reaction or broader tariff response.
+- **Middle East energy and security escalation** — Status: Acceleration; Houthi Aramco strike claim, US carrier buildup, and Iran rial pressure broaden the energy risk premium. Next trigger: confirmed Saudi damage or Bab al-Mandab disruption.
+- **Global bond term premia / fiscal stress** — Status: Confirmation; Fed and ECB hike urgency fades while Bessent downplays yields at multi-decade highs and French stress persists. Next trigger: Fed/ECB minutes and French spread action.
+- **North Korea/Taiwan security risk** — Status: New; IRBM test and first US NMESIS deployment to Yonaguni raise regional risk premium. Next trigger: ROK/Japan/China official responses.
+- **China-EU targeted trade friction** — Status: Confirmation; China launches anti-dumping probe into EU chemical exports after EU investigations. Next trigger: EU retaliation or broader tariff response.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- US September CPI and Fed speaker tone after payrolls; watch for yields reaction to soft print.
-- Japan MOF intervention signals or BOJ communication after re-shorting of yen.
-- EU response to China anti-dumping initiation and any supply-chain retaliation.
-- Saudi/Pakistan/Houthi escalation and any energy-market spillover from Mecca drone attack narrative.
-- US equity quarter-end buyback/CTA flow signals supporting a potential Q4 squeeze.
+- Saudi Aramco damage confirmation or Bab al-Mandab transit disruption after Houthi claims.
+- Fed/ECB minutes tone and official response to sustained UST yield pressure; French OAT-Bund spread.
+- North Korea follow-on tests and South Korea/Japan/US response to Yonaguni deployment.
+- Iran rial stability after the `$2 billion` intervention failed to stem the slide.
+- Brazil first-round election result Sunday and market reaction.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will US yields remain firm even if inflation cools, confirming a fiscal-term premium regime?
-- Can BOJ or Trump rhetoric turn yen positioning without actual intervention?
-- Does Vietnam’s export acceleration broaden to other EM Asia FX or remain isolated?
+- Will Middle East escalation translate into sustained oil supply disruption or remain claimed strikes without operational impact?
+- Can official messaging cap UST yields if French stress persists and term premia dominate?
+- Will North Korea missile activity and Yonaguni deployment spill into regional equity and FX risk premia?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- Vietnam government’s `10%` annual growth goal ([BBG](https://www.bloomberg.com/news/articles/2026-10-03/vietnam-economic-growth-accelerates-to-9-95-in-third-quarter)): the economy is in reach of the target, supporting EM Asia growth sentiment.
+- UST benchmark rates: some benchmark rates at their highest in more than two decades, cited with Bessent downplaying the move ([BBG](https://www.bloomberg.com/news/articles/2026-10-03/bessent-downplays-worries-on-rising-yields-ai-bubble-concerns)).
+- Iranian rial: fresh low after `$2 billion` currency intervention fails to stem slide ([Investing](https://www.investing.com/news/forex-news/irans-rial-hits-fresh-low-as-2-billion-currency-intervention-fails-to-stem-slide-4930880)).
