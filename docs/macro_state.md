@@ -1,25 +1,25 @@
 # Macro State — Last updated: 2026-10-06
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **European fiscal stress / dollar strength** — Status: Acceleration; euro 17-month low and ECB QT debate intensify dollar and Asia FX pressure. Next trigger: French budget balance, industrial production, and OAT spread action.
-- **Middle East energy/chokepoint escalation** — Status: Reversal; Bab el-Mandeb recaptured and Saudi price cut loosen oil, but two-year restock warning keeps tail risk alive. Next trigger: sustained transit flows and no new Houthi strikes on Saudi energy.
-- **EU-China trade weapon** — Status: New; France-Germany kill switch and UK EV tariff work add a formal economic-security escalation. Next trigger: European Commission adoption language or Beijing retaliation.
-- **Taiwan/Korea security pressure** — Status: Acceleration; US surveillance accusation and Korea LNG ultimatum raise regional risk premium. Next trigger: Chinese response to Taiwan case and Seoul Alaska LNG decision.
+- **US Treasury debt stress with credit transmission** — Status: Acceleration; long-end rates are now leaking into junk credit even as yields dip intraday; next trigger: FOMC minutes and Treasury auction demand.
+- **Korea political/trade risk** — Status: Acceleration; Alaska LNG trade-retaliation threat plus DMZ response widen KRW risk premium; next trigger: Seoul participation decision and any North Korean reply.
+- **BOJ policy path** — Status: New; Ueda stays noncommittal while sources signal underlying inflation has hit the 2% goal; next trigger: formal BOJ communication before the October meeting.
+- **European fiscal stress / dollar strength** — Status: Confirmation; euro remains near its 17-month low as EU bond yields pull back; next trigger: French budget and industrial production data.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- French Budget Balance, Industrial Production, and OAT spread action today; stabilization would cool euro downside and dollar strength.
-- Bab el-Mandeb transit normalization and Houthi strike activity; renewed disruption reverses oil lower.
-- European Commission formal adoption of China trade kill switch; Chinese retaliation rhetoric.
-- Korea Alaska LNG decision under direct Trump pressure; Korean energy/currency impact.
-- Euro stabilization versus continued slide below 17-month low; ECB QT communication shift.
+- FOMC minutes and long-end US Treasury auction demand; any renewed yield selloff would intensify credit stress.
+- Seoul’s Alaska LNG participation decision and any North Korean response to forced-apology measures.
+- BOJ formal inflation assessment or Ueda follow-up before the October policy decision.
+- EU-China crunch talks this week; any European Commission adoption of tougher trade defences.
+- Brent and Gulf export flow normalization; any renewed Yemen chokepoint disruption would reverse oil lower.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will euro downside force an ECB QT pause despite elevated inflation?
-- Can Bab el-Mandeb gains hold and allow physical crude flows to keep loosening, or do thin stockpiles dominate?
-- Will EU-China trade weapon trigger Chinese retaliation and hit Asia FX/risk assets?
+- Will US Treasury auctions and FOMC minutes confirm or calm the debt-spiral fears now feeding corporate credit?
+- Can Seoul manage Alaska LNG pressure and the DMZ response without broadening KRW and Asia FX risk premium?
+- Will BOJ skip an October hike and leave JPY carry dynamics intact, or do inflation-goal signals force a repricing?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- EUR/USD `17-month` low (FT/BBG) — downside acceleration and dollar strength transmission.
-- S&P 500 near `record`, Nasdaq 100 `fresh peak` (BBG) — risk-on despite elevated bond yields.
-- Brent `two-day drop` on `rising Persian Gulf exports` and `steep Saudi price cut` (BBG) — near-term supply loosening.
-- Saudi global oil inventory rebuild timeline of `two years` (CNBC) — tail risk floor for oil volatility.
+- Brent `$100/bbl` ([CNBC](https://www.cnbc.com/2026/10/06/iran-war-yemen-saudi-arabia-mokha-oil.html)) — psychological crude risk level as supply normalization continues.
+- Treasury yields `5%` ([CNBC](https://www.cnbc.com/2026/10/05/treasury-yields-fiscal-concerns-not-crisis-yet.html)) — threshold where borrowing costs raise debt-spiral fears.
+- EUR/USD `17-month low` ([Reuters](https://news.google.com/rss/articles/CBMirwFBVV95cUxOcnpLWGdYR3FxRDFJMFVCN1NDalZucm9sOHhNeWVSSzFTNEJhUi0tQWg3NjY1VS1XbGVsMlpGNFVOQkZ0OUNEWjNCclhwLUhrQUNhaElCQWhPeDZ5Q0cwQzUzSW5EWnAwSkF3R25FVGYwR2RRZnNfYzhfNlUtbnRKN3lMNDBKREhONjFpcjlSbHFuNkJMaG9JNWlOdDVKMEVNbUlLc3o5WmNjaXJRWHhB)) — European fiscal stress and dollar strength marker.
+- Gulf oil flows `81%` of pre-war rate ([Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxNU2hMakllZ0pvbW1KWG9GT2loLS1WNVg0SFM0TnVpOWU5cXFIMjhiRk9Gc1FBMkpMN2VsSnpyUWR4bURCdVhOWmxjQzQ0ZnhNZ0R3WGVtWmRlYzlxSEFVUnIzVjA0ZVVNTHBoZ29VTjJYOWs2MDExaEgwVkxiSk1aTUhvTFF2RDh2aGN5UHdPWlJRY29SREg5S2xHMGZDS1AzMnJBb1Z3SzZpcGFLTjB6elFaM296dXc)) — physical oil supply normalization pace.
