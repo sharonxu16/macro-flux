@@ -1,25 +1,24 @@
-# Macro State — Last updated: 2026-10-06
+# Macro State — Last updated: 2026-10-07
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **US Treasury debt stress with credit transmission** — Status: Acceleration; long-end rates are now leaking into junk credit even as yields dip intraday; next trigger: FOMC minutes and Treasury auction demand.
-- **Korea political/trade risk** — Status: Acceleration; Alaska LNG trade-retaliation threat plus DMZ response widen KRW risk premium; next trigger: Seoul participation decision and any North Korean reply.
-- **BOJ policy path** — Status: New; Ueda stays noncommittal while sources signal underlying inflation has hit the 2% goal; next trigger: formal BOJ communication before the October meeting.
-- **European fiscal stress / dollar strength** — Status: Confirmation; euro remains near its 17-month low as EU bond yields pull back; next trigger: French budget and industrial production data.
+- **US Treasury debt stress with credit transmission** — Status: Deceleration; yields retreat and equities record, but long-end short rebuild keeps term premium risk alive; next trigger: FOMC minutes and 10Y auction demand.
+- **Oil/Hormuz supply risk** — Status: Acceleration; stronger Gulf flows are offset by tanker attacks, Houthi strikes, and tanker shortage warnings; next trigger: next Hormuz attack or clean export normalization.
+- **European fiscal stress / France** — Status: Acceleration; French pre-election debt sell-off, street protests, and UBS warning widen euro-area risk premium despite Le Pen budget bounce; next trigger: OAT-Bund spread and French budget details.
+- **China US Treasury diversification / yuan safety net** — Status: New; Beijing is reducing UST exposure while building yuan support, threatening structural Treasury demand; next trigger: US auction demand and Washington response.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- FOMC minutes and long-end US Treasury auction demand; any renewed yield selloff would intensify credit stress.
-- Seoul’s Alaska LNG participation decision and any North Korean response to forced-apology measures.
-- BOJ formal inflation assessment or Ueda follow-up before the October policy decision.
-- EU-China crunch talks this week; any European Commission adoption of tougher trade defences.
-- Brent and Gulf export flow normalization; any renewed Yemen chokepoint disruption would reverse oil lower.
+- FOMC minutes and 10Y Treasury auction demand; any renewed yield selloff would intensify debt stress.
+- Iran/Houthi escalation against tankers or Saudi targets versus sustained Hormuz export normalization.
+- French budget proposal details and protest escalation; watch OAT-Bund spread.
+- North Korea Taiwan warning and any US-China nuclear visit progress; watch Taiwan/Asia FX risk premium.
+- Goldman Korean FX intervention signal; any BOK response if won strengthens sharply.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will US Treasury auctions and FOMC minutes confirm or calm the debt-spiral fears now feeding corporate credit?
-- Can Seoul manage Alaska LNG pressure and the DMZ response without broadening KRW and Asia FX risk premium?
-- Will BOJ skip an October hike and leave JPY carry dynamics intact, or do inflation-goal signals force a repricing?
+- Will US long-end short rebuild drive renewed yield pressure into auctions and FOMC minutes?
+- Can increased Hormuz flows overcome tanker attacks and shipping bottlenecks, or does Brent stay bid toward the FT `$200/bbl` risk scenario?
+- Will Le Pen budget proposals stabilize French OATs or will pre-election debt sell-off force broader euro-area stress?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- Brent `$100/bbl` ([CNBC](https://www.cnbc.com/2026/10/06/iran-war-yemen-saudi-arabia-mokha-oil.html)) — psychological crude risk level as supply normalization continues.
-- Treasury yields `5%` ([CNBC](https://www.cnbc.com/2026/10/05/treasury-yields-fiscal-concerns-not-crisis-yet.html)) — threshold where borrowing costs raise debt-spiral fears.
-- EUR/USD `17-month low` ([Reuters](https://news.google.com/rss/articles/CBMirwFBVV95cUxOcnpLWGdYR3FxRDFJMFVCN1NDalZucm9sOHhNeWVSSzFTNEJhUi0tQWg3NjY1VS1XbGVsMlpGNFVOQkZ0OUNEWjNCclhwLUhrQUNhaElCQWhPeDZ5Q0cwQzUzSW5EWnAwSkF3R25FVGYwR2RRZnNfYzhfNlUtbnRKN3lMNDBKREhONjFpcjlSbHFuNkJMaG9JNWlOdDVKMEVNbUlLc3o5WmNjaXJRWHhB)) — European fiscal stress and dollar strength marker.
-- Gulf oil flows `81%` of pre-war rate ([Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxNU2hMakllZ0pvbW1KWG9GT2loLS1WNVg0SFM0TnVpOWU5cXFIMjhiRk9Gc1FBMkpMN2VsSnpyUWR4bURCdVhOWmxjQzQ0ZnhNZ0R3WGVtWmRlYzlxSEFVUnIzVjA0ZVVNTHBoZ29VTjJYOWs2MDExaEgwVkxiSk1aTUhvTFF2RDh2aGN5UHdPWlJRY29SREg5S2xHMGZDS1AzMnJBb1Z3SzZpcGFLTjB6elFaM296dXc)) — physical oil supply normalization pace.
+- Brent `$200/bbl` risk scenario ([FT](https://www.ft.com/content/95db1fbd-4e1f-45cf-b678-c40635f59197)) — tanker shortage and shipping squeeze could keep crude risk premium elevated.
+- US trade deficit `$105.6B` ([CNBC](https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html)) — widest since pre-tariff period, reinforcing dollar and fiscal stress concerns.
+- Long-end Treasury yields near `24-year high` ([BBG](https://www.bloomberg.com/news/articles/2026-10-06/bonds-traders-revive-treasury-short-bets-after-fleeting-shakeout)) — threshold where short positioning and term premium risk intensify.
