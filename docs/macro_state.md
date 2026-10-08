@@ -1,23 +1,24 @@
-# Macro State — Last updated: 2026-10-07
+# Macro State — Last updated: 2026-10-08
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Oil/Hormuz supply risk** — Status: Acceleration; Iraq devaluation and IEA emergency meeting show physical and FX transmission; next trigger: IEA release details, new tanker or airport strikes.
-- **US Treasury debt stress** — Status: Reversal; yields climbing into 10-year auction and FOMC minutes after prior pullback; next trigger: auction demand and Fed minutes.
-- **European fiscal stress / France** — Status: Acceleration; ECB no intervention and euro 16-month low versus sterling widen risk premium; next trigger: French budget details, OAT-Bund spread.
-- **EM FX adjustment / India tightening** — Status: New; RBI first hike since 2023 but rupee near record low, Iraq devalues; next trigger: INR stability, RBI forward guidance, other EM policy responses.
+- **Fed hawkish / US yield repricing** — Status: Acceleration; unanimous September hike plus 3.9% inflation expectations reinforce policy tightening; next trigger: 30-year Treasury auction and initial jobless claims.
+- **Oil/Hormuz supply risk** — Status: Acceleration; weekly tanker attacks highest since war start and White House strike options widen escalation; next trigger: Pentagon strike decision or fresh tanker attack.
+- **European fiscal stress / France** — Status: Fading; ECB and finance ministry pushback caps intervention risk but spreads remain elevated; next trigger: French shorter-term issuance details and OAT-Bund spread.
+- **China-EU trade tension** — Status: New; Beijing rejected voluntary hybrid export curbs and warned of retaliation; next trigger: EU Commission temporary limit decision.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- 10-year Treasury auction demand and FOMC minutes.
-- IEA stock release implementation and any fresh Hormuz tanker attacks.
-- French budget details and OAT-Bund spread.
-- Houthi or Saudi airport strike escalation.
-- INR and IQD stability after RBI hike and dinar devaluation.
+- 30-year Treasury auction and initial jobless claims on Oct 8-9.
+- White House Iran strike execution or fresh Hormuz tanker attacks.
+- EU Commission temporary limits on Chinese hybrid cars or Beijing subsidy probes.
+- French shorter-dated issuance and OAT-Bund spread.
+- ECB monetary policy meeting accounts Oct 8.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will the 10-year auction and Fed minutes trigger renewed US curve selloff or relief?
-- Can IEA stock release offset Hormuz closure enough to cap Brent and relieve EM FX?
-- Will France avoid full intervention and stabilize EUR/GBP?
+- Will Fed minutes and 3.9% inflation expectations push US yields through multidecade highs and force EM FX adjustments?
+- Can supply optimism hold crude below recent highs if White House strike options become execution?
+- Will China-EU tensions escalate into formal temporary limits or anti-dumping measures?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- Iraqi dinar devalued by around `13%` to `1,520` per US dollar ([BBG](https://www.bloomberg.com/news/articles/2026-10-07/iraq-devalues-currency-as-hormuz-closure-hits-oil-exports), [Investing.com](https://www.investing.com/news/forex-news/iraq-devalues-dinar-to-1520-per-us-dollar-state-news-agency-says-4935843)) — official FX adjustment under Hormuz export pressure.
-- Euro 16-month low versus pound ([BBG](https://www.bloomberg.com/news/articles/2026-10-07/euro-falls-to-16-month-low-versus-pound-on-france-s-fiscal-risks)) — Europe fiscal risk sentiment pivot.
+- One-year inflation expectations `3.9%` ([CNBC](https://www.cnbc.com/2026/10/07/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-since-may-2023.html)) — highest since May 2023, anchor for Fed repricing.
+- Gulf Coast-to-China supertanker charter `$76 million`, `10` times pre-war ([CNBC](https://www.cnbc.com/2026/10/07/supertanker-from-us-to-china-chartered-for-76-million-source.html)) — physical war-risk shipping premium.
+- US outbound investment penalty `$200,000` ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3370101/us-issues-first-outbound-investment-fine-over-chinese-robotics-ai-deal)) — first enforcement under Chinese tech rules.
