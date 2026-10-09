@@ -1,26 +1,24 @@
 # Macro State — Last updated: 2026-10-09
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Oil/Hormuz supply risk** — Status: Acceleration; Iran threats to block more Hormuz routes, tanker attacks, and Hurricane Isaias Gulf output cuts widen the supply shock; next trigger: fresh tanker attack or Gulf production restoration.
-- **China-EU trade tension** — Status: Acceleration; PBOC explicitly rejects yuan undervaluation as EU opens last-ditch car-export talks; next trigger: EU temporary car/market limits or Beijing retaliation.
-- **Fed/ECB rate repricing** — Status: Deceleration; Fed minutes show no urgency for October hike and ECB signals measured energy response; next trigger: 30-year auction and Michigan inflation expectations.
-- **European sovereign stress / France** — Status: Fading; French bond bottom-fishing and ECB assurance cap stress; next trigger: French sovereign spread widening or TPI activation signals.
+- **Oil/Hormuz supply risk** — Status: Reversal; oil slides on Trump Iran talks while freight remains elevated, keeping Asia import-bill risk two-sided; next trigger: Iran talks follow-through or fresh tanker attack.
+- **US rates/dollar squeeze** — Status: Acceleration; Pimco raises 10Y `6%` risk and dollar extends longest streak since early 2025; next trigger: Michigan inflation expectations and UST auctions.
+- **China equity stabilization** — Status: New; Chinese stocks rebound on unconfirmed state-linked support speculation; next trigger: official confirmation or follow-through.
+- **China-EU trade tension** — Status: Fading; no material escalation today; next trigger: EU-China trade talks or Beijing retaliation.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- Fresh Hormuz tanker attack or Iranian route closure beyond current threats.
-- Hurricane Isaias Gulf of Mexico production restoration.
-- EU-China trade talks outcome, especially any temporary car-export limits.
-- US 30-year auction and Michigan inflation expectations.
-- CNH fix or official PBOC FX-policy response.
+- Iran talks follow-through or fresh Hormuz tanker attack/route closure.
+- Michigan Consumer Sentiment Prel and inflation expectations tonight.
+- Confirmation of China state-linked equity support and CNH response.
+- UST 10Y `6%` threshold and forced-unwind signals.
+- Bessent-Trump Shenzhen preparation and EU-China trade signals.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will Iran broaden Hormuz route closures despite Trump ruling out pre-midterm strikes?
-- Can restrained Fed/ECB signals cap yields while oil and mortgage rates still push inflation expectations higher?
-- Will EU car-trade limits trigger immediate Beijing retaliation and CNH volatility?
+- Will Trump's Iran talks materialize enough to cap oil, or will high freight and Hormuz risk keep crude bid?
+- Can China state support stabilize equities and CNH without explicit PBOC/regulatory confirmation?
+- Will US long-end yields push toward `6%` and tighten financial conditions despite Fed official caution?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- Brent `+4%` intraday on US-Iran tensions and Hurricane Isaias ([WSJ](https://news.google.com/rss/articles/CBMisgFBVV95cUxOSFNuVFZRc2hyY2lPWFZHdnlHZUxTRm1ubWRnOHAyTktHTlZrNTNrU2ZKeEN6UXJ3SkZVUFhPMmV1azFhVXFNSmRiY25VbHl5T1EwdzBoVDZiWVB4aHl0VjZpLXRQUlJQV2FyaDh1aWVFTnU0M25IX1V2VE1aNWlVWk1XZWtBcE55YXZfWHhXeWgxMHlDcnBTT05ManNpZlZxaDJmUU5TUVhub0lFSmxZOGVR)) — oil supply-shock barometer.
-- US initial jobless claims `lowest since July` ([BBG](https://www.bloomberg.com/news/articles/2026-10-08/us-jobless-claims-eased-last-week-to-lowest-level-since-july)) — labor-market floor for Fed policy.
-- US mortgage rates `highest since 2023` ([FT](https://www.ft.com/content/04d6ae65-5d5f-4ed6-9c15-16aa0f4d0713)) — tightening transmission into housing.
-- Mexican inflation `accelerated slightly less than expected` ([BBG](https://www.bloomberg.com/news/articles/2026-10-08/mexico-inflation-ticked-up-in-september-as-banxico-weighs-options)) — Banxico pause anchor.
-- Japan household spending `ninth month` of decline ([BBG](https://www.bloomberg.com/news/articles/2026-10-08/japan-s-household-spending-falls-again-despite-wage-gains)) — BOJ demand weakness signal.
+- US 10-year Treasury yield `6%` risk threshold ([FT](https://www.ft.com/content/a752a86c-cf05-4152-b842-2ae6b6bf3fe0)) — bond selloff and financial conditions barometer.
+- Gold `$4200` ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NVkNnVVR3cThuRkZybEdNNHV6dURtbThQMTRBbTBFWVA3UDZpcVVaTzcyRTdxVWw0ckxpX0NyOHFUZDFVVFo4Ukw4ZWZiRkRKcFo4)) — safe-haven / softer dollar hedge.
+- US budget deficit near `$2 trillion` ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MTllNWkxuUTRTQTRtNldabFE5Z0ZCMUpjQXZwLWo1VzN1TW1xRDk5c3F1VVkxcVRTcEt6bURmeWp1dkxualZpeGtfZl9Vbmh5Yzcw)) — fiscal supply pressure.
