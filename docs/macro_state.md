@@ -1,22 +1,22 @@
 # Macro State — Last updated: 2026-10-11
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Middle East escalation and energy supply shock** — Status: Acceleration; Houthi attack on Riyadh airport and potential US military involvement converge with Hurricane Isaias disruption; next trigger: US decision on joining Saudi strikes and hurricane restart timeline.
-- **Trump-Russia diesel deal and transatlantic policy rift** — Status: New; Germany sticks to sanctions while Trump calls to replace Ukraine's president; next trigger: EU/Germany formal response and further US-Russia energy announcements.
-- **Taiwan Strait risk** — Status: Confirmation; Beijing rebukes Lai's Double Tenth speech while Taipei welcomes US-China talks; next trigger: formal Beijing response or US-China meeting scheduling.
-- **EM FX stress via India rupee** — Status: Acceleration; RBI intervening as rupee nears record lows on energy costs; next trigger: rupee stabilization and broader Asia FX spillover.
+- **Middle East escalation and energy supply shock** — Status: Acceleration; US military directly disabled a commercial vessel trying to run the Iran blockade, tightening chokepoint enforcement; next trigger: further ship interceptions or official routing advisories in the Gulf of Oman/Hormuz.
+- **Korea AI-trade unwind** — Status: New; the `$4.3 trillion` Korean stock market is rapidly losing investor relevance, signaling capital-flow pressure on KRW; next trigger: Kospi close and foreign equity flow data next session.
+- **EM FX stress via India rupee** — Status: Acceleration; RBI is taking its strongest measures since the 2013 taper tantrum to steady the rupee; next trigger: rupee open Monday and RBI follow-through.
+- **China debt burden limits stimulus** — Status: New; mounting interest payments restrict headroom to revive domestic demand, constraining policy response; next trigger: PBOC or State Council easing/debt-swap signal.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- Houthi/Saudi military escalation and Trump decision on joining strikes within 24-72h.
-- Hurricane Isaias US oil and gas production restart timeline.
-- Germany/EU response to US-Russia diesel deal and sanctions.
-- Beijing formal response to Lai speech and any US-China meeting.
-- RBI follow-through and rupee stabilization over next two sessions.
+- Any further US military action against vessels trying to run the Iran blockade, plus oil route/hormuz transit advisories.
+- Korea Kospi close and foreign flows next session; any BOK or FX authority response.
+- India rupee open Monday and RBI follow-through after broadening rupee defenses.
+- Italy BTP spread and any EU/fiscal response to the Goldman-cited 2027-28 deficit targets.
+- China stimulus signal from PBOC or State Council within 72h.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will energy supply shock become a coordinated physical disruption or remain contained?
-- Will transatlantic split on Russia sanctions widen into trade/energy policy conflict?
-- Will Taiwan rhetoric translate into actual military escalation or remain diplomatic?
+- Will Iran blockade enforcement shift from targeted military strikes to broader commercial shipping disruption?
+- Will Korea's AI-trade unwind transmit to KRW and regional tech-equity flows?
+- Will China's debt constraint push policy toward a larger monetary easing mix or leave stimulus insufficient?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
 - None in today's feed.

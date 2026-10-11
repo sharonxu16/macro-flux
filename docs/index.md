@@ -2,131 +2,110 @@
 tags:
   - Macro/MiddleEast_Risk
   - Macro/Energy_Supply
-  - Macro/EM_FX
+  - Asset/KRW
+  - Trade/Short_KRW
   - Trade/Long_Brent
-  - Trade/Short_INR
 ---
 
 <div align="center">
 
 # 🌊 Macro Flux
 
-<small>Oct 10 5PM to Oct 11 8AM HKT</small>
+<small>Oct 11 8AM to Oct 11 5PM HKT</small>
 
-<small>Good morning.</small>
+<small>Good afternoon.</small>
 
 </div>
 
 ---
 
 > [!abstract] Overview
-> Middle East escalation and the energy supply shock are the dominant macro drivers after a Houthi attack on Riyadh’s airport killed 12 and injured hundreds, Trump signaled the US would look at joining Saudi strikes, and Hurricane Isaias disrupted US oil and gas production with more than 800,000 left without power. Washington’s diesel-import deal with Moscow and Trump’s call to replace Ukraine’s president are deepening a transatlantic rift just as Germany reaffirms its Russia sanctions, keeping refined-fuel geopolitics and European policy risk in play. Taiwan risk remains elevated after Lai’s Double Tenth speech drew Beijing’s rebuke even while Taipei welcomed US-China talks to reduce war risk. India’s rupee is near record lows with the central bank intervening as energy costs pressure external balances, a direct channel for broader Asia FX stress. The single cross-market thread is a widening energy-policy shock that couples physical supply disruption with geopolitical fragmentation, pinning dollar rates and energy-importing currencies while keeping oil-linked inflation risk alive.
+> The dominant intraday escalation is the US military disabling a commercial cargo vessel trying to run the Iran blockade in the Gulf of Oman, converting the conflict into direct enforcement against commercial shipping and tightening the physical energy-supply shock. Korea’s AI-led equity premium is unwinding with the `$4.3 trillion` stock market losing investor relevance, an Asia capital-flow signal that keeps KRW vulnerable. China’s mounting debt burden is limiting stimulus headroom, constraining the domestic demand response at the same time as European sovereign risk re-emerges around Italy’s wider deficit and US long-end yields contend with AI-driven fiscal crowding. The single cross-market thread is a tightening energy-policy and fiscal-risk shock that raises risk premia on energy importers and high-debt sovereigns while supporting oil-linked assets.
 
 ---
 
 ## 🔬 Narrative Watch
 
-### 📌 Middle East escalation and energy supply shock
+### 📌 US military enforcement against Iran blockade
 
 **Fact**
-`12` killed, hundreds injured in **Saudi airport attack** ([SCMP](https://www.scmp.com/news/world/middle-east/article/3370454/loud-blast-heard-riyadh-airport-airlines-cancel-more-flights)). Trump said the US was ‘going ⁠to look at’ joining Saudi strikes against Houthis, who claimed responsibility for the incident ([SCMP](https://www.scmp.com/news/world/middle-east/article/3370454/loud-blast-heard-riyadh-airport-airlines-cancel-more-flights)). Saudi-backed forces say `1,150` Houthis killed in operations against the Iran-aligned group over the past 24 hours ([Al Jazeera](https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis)). Hurricane Isaias kills at least two and disrupts US oil and gas production ([FT](https://www.ft.com/content/f7d90625-0d78-44b2-927f-d63f4dbc5e8d)). More than `800,000` left without power as first major Atlantic storm of the season sweeps Florida, Alabama and Georgia ([FT](https://www.ft.com/content/f7d90625-0d78-44b2-927f-d63f4dbc5e8d)). Putin relayed Iran war proposal to Trump, Kremlin says ([CNBC](https://www.cnbc.com/2026/10/10/putin-trump-iran-war-russia-diesel.html)).
+
+A US fighter jet **bombed a commercial cargo ship** in the Gulf of Oman, according to CENTCOM ([Al Jazeera 1](https://www.aljazeera.com/video/newsfeed/2026/10/11/us-bombs-cargo-vessel-in-gulf-of-oman-trying-to-run-iran-blockade)). US military says it **disabled cargo vessel** trying to run Iran blockade ([Reuters](https://news.google.com/rss/articles/CBMirAFBVV95cUxPV2Nqd2RXZnpaY3lzeHVxN2Y0VC1ZZEpTSlFVeFpYbW1nQUZqRE5kSGt1NXo0TTFQQmtLSnFFX045Qk1pc2lpMWxXaGxfVkxxazIwNVdVYl82TWJZa2VURkhNWllYX1I1Vk00OFZoNzNNRmRQLURKVFpKbVVaVzZ4SjloWnB0SE1WTi1MWEp3TWttQ1h3MkpDcktydGU4MzdvVDlJS0V3Zk8xRkpp)). US military jet strikes stern of commercial cargo ship 'without harming the crew', CENTCOM says ([Al Jazeera 2](https://www.aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman)). As strikes on airports in Saudi Arabia turn deadly, Washington debates striking Houthis and restarting strikes on Iran ([Al Jazeera 3](https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Acceleration because Middle East escalation and hurricane energy disruption converge, with US signaling potential direct military involvement.
-> * **Transmission / Market Read**: Energy supply/risk-premium channel; favors **long Brent** and **long USD/Asia FX** on imported-energy stress.
-> * **Watchpoint / Confidence**: Triggers: Trump proceeding with Saudi strikes or hurricane restart stalling. Confidence: High.
+> * **Narrative change**: Acceleration; US enforcement now directly targets commercial shipping attempting to run the Iran blockade, beyond aerial strikes.
+> * **Transmission / Market Read**: Risk-premium and energy-supply channel; favors **long Brent** and **short KRW** while transit risk persists.
+> * **Watchpoint / Confidence**: Any further ship interception or official routing advisory in the Gulf of Oman/Hormuz within 24-72h; Confidence: High.
 
-### 📌 Trump-Putin diesel deal and Ukraine backlash
+### 📌 Korea AI trade unwinds
 
 **Fact**
-Trump announces deal for Russian diesel as Zelensky calls it a `'gift to Putin'` ([BBC](https://www.bbc.co.uk/news/articles/cm1dwgr666wno)). Russian attacks kill `20` in Ukraine after Trump strikes diesel deal with Putin ([SCMP 1](https://www.scmp.com/news/world/europe/article/3370451/russian-attacks-kill-15-ukraine-after-trump-strikes-diesel-deal-putin)). The diesel deal contrasted a sweeping Russia sanctions law Trump signed last month to clamp down on Russia’s oil and gas revenues ([SCMP 1](https://www.scmp.com/news/world/europe/article/3370451/russian-attacks-kill-15-ukraine-after-trump-strikes-diesel-deal-putin)). Germany sticks to Russia sanctions after Trump announcement on diesel ([Reuters](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYUFXZDgzaHN2T1FRdnc3Njh3R0t5cGppS3pJUm8xREprWk54RFdON1pYY1BBbFRKS2pEajVWVzJJcmNiQVVJVGI1czM0U0F1U04zUEFZZVNDZzUtVWZ6UzdPQlItRzNyX3ZseVdmeVlaY1B5M203LWhwWFJTZjh0TlBFVm4zbm9SQjVvRGpXclhWWnJDYmdOWVRmaFhCVDBRNV9uU0UtZmo)). Trump says Ukraine needs a new president who will agree to end the war ([Al Jazeera](https://www.aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war)). A day after unveiling a diesel deal with Putin, Trump accused Kyiv of contributing to global fuel shortages by striking Russian refineries ([SCMP 2](https://www.scmp.com/news/world/russia-central-asia/article/3370462/trump-demands-ukraine-get-new-president-lashes-out-zelensky)).
+
+South Korea spent much of this year as a poster child of the scorching global AI trade. Now, by almost every measure, the `$4.3 trillion` stock market is rapidly losing relevance with investors ([BBG](https://www.bloomberg.com/news/articles/2026-10-11/once-hot-ai-trade-leaves-korean-stocks-struggling-for-buyers)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: New because Washington's diesel deal and call to replace Ukraine's leader were not in prior state.
-> * **Transmission / Market Read**: Energy-policy and geopolitical risk channel; favors **long refined products** and **widening transatlantic risk premium** in European assets.
-> * **Watchpoint / Confidence**: Triggers: EU/Germany response or fresh US sanctions waivers. Confidence: High.
+> * **Narrative change**: New; Korea's AI-trade premium is unwinding with no prior state precedent.
+> * **Transmission / Market Read**: Capital-flow and growth channel; favors **short KRW** and **underweight Korean equities** until export sentiment stabilizes.
+> * **Watchpoint / Confidence**: Next session Kospi close and foreign equity flow data; Confidence: Medium.
 
-### 📌 Taiwan Strait rhetoric
+### 📌 China debt burden limits stimulus
 
 **Fact**
-Taiwan won't give up freedom, Lai says; Beijing slams `'ulterior motives'` ([Reuters](https://news.google.com/rss/articles/CBMitAFBVV95cUxOcVV5bTZUVDZIbTlnMDVQTTZNOTc0VjdQbU01N3lMVWZtZ0FSc2tKUl9OamUxRFRPalkxUVF4My11NEJneThMZU5peG11ME02THMxampQdi1MVzhvSHJSV3NMMnpsWTdEc0ZUMzBfVWFoc1FjenQ5dFBhZEwtalBzbTFPNnZkTVJBNGw0em5xM0FVZWxTZzh1RldmZ3d3TW1GcS1GaGIzYXM1VUl6SFpTb29pMkw)). Taiwanese leader welcomes talks between Washington and Beijing ‘to reduce risk of war’ ([SCMP](https://www.scmp.com/news/china/politics/article/3370442/taiwanese-leader-welcomes-talks-between-washington-and-beijing-reduce-risk-war)). Beijing says William Lai’s Double Tenth speech was ‘stirring up confrontation’ as he accused the mainland of trying to change the status quo ([SCMP](https://www.scmp.com/news/china/politics/article/3370442/taiwanese-leader-welcomes-talks-between-washington-and-beijing-reduce-risk-war)).
+
+Mounting interest payments restrict headroom to revive domestic demand, say experts ([FT](https://www.ft.com/content/a0ffc43a-231a-40aa-b5f9-521757830087)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Confirmation of Taiwan Strait risk, with Beijing responding to Lai's Double Tenth speech while Taipei signals openness to talks.
-> * **Transmission / Market Read**: Risk-premium channel; tilts risks toward **higher USD/TWD** and **defensive positioning in Taiwan equities**.
-> * **Watchpoint / Confidence**: Triggers: Concrete Beijing response or US-China meeting scheduling. Confidence: Medium.
-
-### 📌 India rupee near record lows
-
-**Fact**
-India’s central bank tries to shore up rupee as it nears record lows ([FT](https://www.ft.com/content/b373cf00-9a94-4dc7-bdda-bc7006da1148)). Rise in energy costs due to US-Israel war on Iran has put downward pressure on the currency of the world’s fastest-growing major economy ([FT](https://www.ft.com/content/b373cf00-9a94-4dc7-bdda-bc7006da1148)).
-
-> [!info] [AI Reasoning]
-> * **Narrative change**: Acceleration of global EM FX stress; energy import costs directly feeding INR pressure.
-> * **Transmission / Market Read**: Capital-flow/imported inflation channel; favors **short INR** and **long USD/Asia FX**.
-> * **Watchpoint / Confidence**: Trigger: RBI follow-through and rupee stabilization. Confidence: High.
+> * **Narrative change**: New; China's debt service burden is constraining stimulus, adding to policy inertia.
+> * **Transmission / Market Read**: Growth and policy channel; tilts risks toward **weaker CNH** and capped China equity upside.
+> * **Watchpoint / Confidence**: Any PBOC or State Council easing/debt-swap signal within 72h; Confidence: Medium.
 
 ---
 
 ## 🌍 Global Radar
 
-### 📊 Economic Indicators
-- China’s passenger vehicle retail sales fell `24%` in September from a year earlier to `1.702 million` units, while new-energy vehicle sales declined `12%` to `1.141 million` units, according to data released by the China Passenger Car Association ([BBG](https://www.bloomberg.com/news/articles/2026-10-10/china-passenger-vehicle-retail-sales-drop-24-in-september)).
+### 🏦 Central Banks
+
+- **Reserve Bank of India** — The Reserve Bank of India is broadening its defenses to steady the rupee, taking some of its strongest measures since the 2013 taper tantrum. That may give the currency a boost as trading resumes Monday, but the question remains: how far is the central bank willing to go as external pressures mount? ([BBG](https://www.bloomberg.com/news/articles/2026-10-11/india-s-rupee-defense-raises-question-of-how-far-rbi-will-go)).
 
 ### 🌐 Geopolitics & Policy
-- China will step up counter-cyclical support and prepare additional high-impact policy tools as it seeks to meet this year’s economic targets ([BBG](https://www.bloomberg.com/news/articles/2026-10-10/china-s-ndrc-pledges-more-policy-tools-to-meet-economic-targets)).
-- Recent satellite imagery shows twice as many K-8/JL-8-family trainer aircraft on site as Laos’ air force is thought to possess ([SCMP](https://www.scmp.com/news/china/military/article/3370439/are-chinese-military-aircraft-already-using-new-joint-air-facility-laos)).
 
-### 📈 Equities
-- Strong corporate fundamentals and resilient consumer spending could support US stocks as investors head into third-quarter earnings season ([BBG](https://www.bloomberg.com/news/videos/2026-10-10/strong-earnings-keep-us-stocks-in-favor-video)).
-- Appetite for financing infrastructure boom is tested after months of record-breaking bond issuance ([FT](https://www.ft.com/content/9c13d40e-d2b2-45d5-921c-a68cd4b308f9)).
-- Why Priya Misra, a portfolio manager at the firm, is looking to take credit risk in high-quality companies ([CNBC](https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html)).
+- Seoul has recalled its ambassador to Kyiv as a row over captured North Korean soldiers escalates ([FT](https://www.ft.com/content/ff4ec1b7-1ccf-4aa2-8ca0-8faa3bfa0c6e)).
+- Middle East war, high debt levels to dominate IMF-World Bank meetings in Bangkok ([Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxQWlZqTVZkYlUxR2xKODRtSHFhLUI5ZVk4MWlwUURPZTRJSy1UYjdKak1ZbzdGMG80dmNOTVlVbUtvbW1zUU9hWE5QeU9xc19wWE50TnR4M05sQ0c0aFI0ZmYtTGN6Q0hwanJUajNzSlRfaVBQNXdPMUlfQlpfb1JHTGlQWkg5aVdOTE5SZ29NRXZLSW85enZHa2dCOVFSWmFpUEptcWMxa1JxVW15ZGhLLTRRcDEyeXBEWkw0RnJR)).
+- Tariffs, millions in extra costs, Iran war: Trump’s policies hammer US firms. ‘Frustrating would be one word,’ a CEO says, as US manufacturers struggle with ballooning costs and persistent uncertainty ([SCMP](https://www.scmp.com/news/world/united-states-canada/article/3370478/tariffs-millions-extra-costs-iran-war-trumps-policies-hammer-us-firms)).
+- Goldman Sachs says Italy’s higher 2027-28 deficit targets, rising yields and election uncertainty could weaken its debt outlook ([CNBC](https://www.cnbc.com/2026/10/11/italy-government-bonds-sovereign-debt-giorgia-meloni.html)).
+
+### 🛢️ Commodities
+
+- Fossil fuels produce `81 percent` of global energy. We look at Middle East’s role and what happens when supplies are cut ([Al Jazeera](https://www.aljazeera.com/news/2026/10/11/what-the-iran-war-has-done-to-the-worlds-energy-supply-in-charts)).
 
 ---
 
 ## 📅 Economic Calendar — Next 24 Hours
 
-No high-impact releases in the next 24 hours.
+| Time (HKT) | Rgn | Event | Est. | Prior |
+|---|---|---|---|---|
+| Oct 12 10:30 AM | KR | 3-Year KTB Auction | — | 3.875% |
+| Oct 12 5:30 PM | DE | 12-Month Bubill Auction | — | 3.065% |
 
 ---
 
 ## 📚 Full Reading List
 
 - **BBG**
-  - [China Passenger Vehicle Retail Sales Drop 24% in September](https://www.bloomberg.com/news/articles/2026-10-10/china-passenger-vehicle-retail-sales-drop-24-in-september)
-  - [China’s NDRC Pledges More Policy Tools to Meet Economic Targets](https://www.bloomberg.com/news/articles/2026-10-10/china-s-ndrc-pledges-more-policy-tools-to-meet-economic-targets)
-  - [Strong Earnings Keep US Stocks in Favor](https://www.bloomberg.com/news/videos/2026-10-10/strong-earnings-keep-us-stocks-in-favor-video)
-
+  - [Once-Hot AI Trade Leaves Korean Stocks Struggling for Buyers](https://www.bloomberg.com/news/articles/2026-10-11/once-hot-ai-trade-leaves-korean-stocks-struggling-for-buyers)
+  - [India’s Rupee Defense Raises Question of How Far RBI Will Go](https://www.bloomberg.com/news/articles/2026-10-11/india-s-rupee-defense-raises-question-of-how-far-rbi-will-go)
 - **Reuters**
-  - [Taiwan won't give up freedom, Lai says; Beijing slams 'ulterior motives'](https://news.google.com/rss/articles/CBMitAFBVV95cUxOcVV5bTZUVDZIbTlnMDVQTTZNOTc0VjdQbU01N3lMVWZtZ0FSc2tKUl9OamUxRFRPalkxUVF4My11NEJneThMZU5peG11ME02THMxampQdi1MVzhvSHJSV3NMMnpsWTdEc0ZUMzBfVWFoc1FjenQ5dFBhZEwtalBzbTFPNnZkTVJBNGw0em5xM0FVZWxTZzh1RldmZ3d3TW1GcS1GaGIzYXM1VUl6SFpTb29pMkw)
-  - [Germany sticks to Russia sanctions after Trump announcement on diesel](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYUFXZDgzaHN2T1FRdnc3Njh3R0t5cGppS3pJUm8xREprWk54RFdON1pYY1BBbFRKS2pEajVWVzJJcmNiQVVJVGI1czM0U0F1U04zUEFZZVNDZzUtVWZ6UzdPQlItRzNyX3ZseVdmeVlaY1B5M203LWhwWFJTZjh0TlBFVm4zbm9SQjVvRGpXclhWWnJDYmdOWVRmaFhCVDBRNV9uU0UtZmo)
-
+  - [US military says it disabled cargo vessel trying to run Iran blockade](https://news.google.com/rss/articles/CBMirAFBVV95cUxPV2Nqd2RXZnpaY3lzeHVxN2Y0VC1ZZEpTSlFVeFpYbW1nQUZqRE5kSGt1NXo0TTFQQmtLSnFFX045Qk1pc2lpMWxXaGxfVkxxazIwNVdVYl82TWJZa2VURkhNWllYX1I1Vk00OFZoNzNNRmRQLURKVFpKbVVaVzZ4SjloWnB0SE1WTi1MWEp3TWttQ1h3MkpDcktydGU4MzdvVDlJS0V3Zk8xRkpp)
+  - [Middle East war, high debt levels to dominate IMF-World Bank meetings in Bangkok](https://news.google.com/rss/articles/CBMivgFBVV95cUxQWlZqTVZkYlUxR2xKODRtSHFhLUI5ZVk4MWlwUURPZTRJSy1UYjdKak1ZbzdGMG80dmNOTVlVbUtvbW1zUU9hWE5QeU9xc19wWE50TnR4M05sQ0c0aFI0ZmYtTGN6Q0hwanJUajNzSlRfaVBQNXdPMUlfQlpfb1JHTGlQWkg5aVdOTE5SZ29NRXZLSW85enZHa2dCOVFSWmFpUEptcWMxa1JxVW15ZGhLLTRRcDEyeXBEWkw0RnJR)
 - **FT**
-  - [Hurricane Isaias kills at least two and disrupts US oil and gas production](https://www.ft.com/content/f7d90625-0d78-44b2-927f-d63f4dbc5e8d)
-  - [India’s central bank tries to shore up rupee as it nears record lows](https://www.ft.com/content/b373cf00-9a94-4dc7-bdda-bc7006da1148)
-  - [AI borrowing slows as investors grow wary of debt binge](https://www.ft.com/content/9c13d40e-d2b2-45d5-921c-a68cd4b308f9)
-
+  - [China’s growing debt burden limits space for economic stimulus](https://www.ft.com/content/a0ffc43a-231a-40aa-b5f9-521757830087)
+  - [The prisoners of war at the heart of Korean-Ukrainian tensions](https://www.ft.com/content/ff4ec1b7-1ccf-4aa2-8ca0-8faa3bfa0c6e)
 - **CNBC**
-  - [Putin relayed Iran war proposal to Trump, Kremlin says](https://www.cnbc.com/2026/10/10/putin-trump-iran-war-russia-diesel.html)
-  - [JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity](https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html)
-
+  - [After France, is Italy next? Goldman Sachs flags bond risks as Rome's deficit widens](https://www.cnbc.com/2026/10/11/italy-government-bonds-sovereign-debt-giorgia-meloni.html)
 - **SCMP**
-  - [12 killed, hundreds injured in Saudi airport attack](https://www.scmp.com/news/world/middle-east/article/3370454/loud-blast-heard-riyadh-airport-airlines-cancel-more-flights)
-  - [Russian attacks kill 20 in Ukraine after Trump strikes diesel deal with Putin](https://www.scmp.com/news/world/europe/article/3370451/russian-attacks-kill-15-ukraine-after-trump-strikes-diesel-deal-putin)
-  - [Trump demands Ukraine get new president, lashes out at Zelensky](https://www.scmp.com/news/world/russia-central-asia/article/3370462/trump-demands-ukraine-get-new-president-lashes-out-zelensky)
-  - [Taiwanese leader welcomes talks between Washington and Beijing ‘to reduce risk of war’](https://www.scmp.com/news/china/politics/article/3370442/taiwanese-leader-welcomes-talks-between-washington-and-beijing-reduce-risk-war)
-  - [Are Chinese military aircraft already using a new joint air facility in Laos?](https://www.scmp.com/news/china/military/article/3370439/are-chinese-military-aircraft-already-using-new-joint-air-facility-laos)
-
-- **BBC**
-  - [Trump announces deal for Russian diesel as Zelensky calls it a 'gift to Putin'](https://www.bbc.co.uk/news/articles/cm1dwgr666wno)
-
+  - [Tariffs, millions in extra costs, Iran war: Trump’s policies hammer US firms](https://www.scmp.com/news/world/united-states-canada/article/3370478/tariffs-millions-extra-costs-iran-war-trumps-policies-hammer-us-firms)
 - **Al Jazeera**
-  - [Yemeni government’s military says its forces advancing against Houthis](https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis)
-  - [Trump says Ukraine needs a new president who will agree to end the war](https://www.aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war)
-  - [Why is the Trump administration trying to dismantle the ICC?](https://www.aljazeera.com/video/inside-story/2026/10/10/why-is-the-trump-administration-trying-to-dismantle-the-icc)
-
-- **Caixin**
-  - [渣打银行高管：人民币国际化进入2.0阶段，商业价值加速显现](https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xeWpmVEVWbUZJZFAwaU43d0pmaTJKSEpQYVU4UGJZUjloRFZOdkEzTW1XU3o4ZlhwOGt0UUllemowYXpQY25FOUI1Qk1ZNEtwSlpaUkdCZ3ZaaC13VjhHR25B)
-
-- **CCTV**
-  - [先行指标释放积极信号 经济回升向好态势持续巩固](https://news.google.com/rss/articles/CBMieEFVX3lxTE5ieS16ajBXNWdPb3g3SVBSUHBCT000RFJKc003Um9VcDdjd3pra1QwS1hOMkwzd1RaUmtUdVBZcGxyM00tV3p5ejBRdGZHRUxiOFd1bWNnRTc5SWJDVTRuYkZ1TURWNFN2ZldlSVBXTDhLZlQ2Q3JVOQ)
+  - [US bombs cargo vessel in Gulf of Oman ‘trying to run Iran blockade’](https://www.aljazeera.com/video/newsfeed/2026/10/11/us-bombs-cargo-vessel-in-gulf-of-oman-trying-to-run-iran-blockade)
+  - [US forces disable ship ‘attempting to run’ Iran blockade in Gulf of Oman](https://www.aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman)
+  - [Iran war live: 12 killed in Riyadh, Saudi-led coalition vows to respond](https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis)
+  - [What the Iran war has done to the world’s energy supply, in charts](https://www.aljazeera.com/news/2026/10/11/what-the-iran-war-has-done-to-the-worlds-energy-supply-in-charts)
