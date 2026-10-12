@@ -1,9 +1,9 @@
 ---
 tags:
-  - Macro/MiddleEast_Conflict
-  - Macro/UST_TermPremium
-  - Asset/Brent
-  - Asset/UST
+  - Macro/China_EU_Trade
+  - Macro/India_Rupee_Defense
+  - Asset/KRW
+  - Asset/INR
   - Trade/Long_USD
 ---
 
@@ -11,98 +11,78 @@ tags:
 
 # 🌊 Macro Flux
 
-<small>Oct 9 5PM to Oct 12 8AM HKT</small>
+<small>Oct 12 8AM to Oct 12 5PM HKT</small>
 
-<small>Good morning.</small>
+<small>Good afternoon.</small>
 
 </div>
 
 ---
 
 > [!abstract] Overview
-> The dominant weekend macro shock is the renewed US Treasury selloff, with 10-year yields pushing toward `5.4%` and term premium surging into next week’s US CPI and Fed Chair Kevin Warsh commentary. The Middle East escalation worsened after Houthi strikes on Riyadh’s airport killed at least 12, but crude gave back early gains as Trump claimed an energy ceasefire with Ukraine even while Iran called the US Hormuz reopening response insufficient. China and the EU pulled back from a new trade war by agreeing to halve Chinese hybrid vehicle exports, while Beijing deployed `5500亿元` in local government debt quota to support investment. Washington’s decision to open the US market to Russian diesel sharpened allied divisions over sanctions and fuel costs. The cross-market thread is tighter global financial conditions plus elevated geopolitical energy risk that keeps the dollar bid, equities fragile, and Asia trade policy in de-escalation mode.
+> The afternoon tape turned more discriminating: broad risk recovered in US futures and oil eased on Russia-Ukraine energy ceasefire talk, but Korean assets fell sharply with KOSPI down `3.6%` amid fresh North Korean missile launches and traders pricing a 70% probability of 50bp of BOK tightening over six months. China-EU hybrid vehicle talks produced an annual import ceiling of `350,000` units, slamming Chinese lithium futures by `10%` even as Beijing framed the deal as protecting export space. India’s rupee defense intensified with the RBI said to be drawing a line at `97` per dollar and opening a special window to remove nearly `$10 billion` of monthly refiner dollar demand. The dollar held near an 18-month high ahead of US CPI, keeping pressure on Asian FX even as developed-market equities stabilized. The cross-market thread is a two-track tape: US-led energy de-escalation supports broad risk, while regional security and policy repricing concentrate stress in Korea and China-linked commodities.
 
 ---
 
 ## 🔬 Narrative Watch
 
-### 📌 Middle East escalation and Hormuz chokepoint
+### 📌 Korea under pressure: KOSPI drops 3.6% as North Korea fires missiles and BOK hike bets climb
 
 **Fact**
-A fresh Houthi strike at Riyadh’s international airport killed one and injured 11 on Sunday, a day after another attack claimed by the Yemeni group killed at least a dozen people and forced authorities to suspend operations at the facility ([SCMP](https://www.scmp.com/news/world/middle-east/article/3370513/riyadh-airport-hit-fresh-houthi-strike-day-after-deadly-attack-killed-12)). Houthi strike on Saudi airport kills 12, worst attack on kingdom in a decade ([Reuters](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbV9hVGtMSXpTVDJ3c05vRW9SQ2lRLTg3cUlOeWxDc2w4amF5V2N2Ul9YazdxcHJGNDRwd3hlQi15a2ZGWWZoZnc1dlA5UkY3cU9PclVCNkh6SVkzQ25waEVRRlN2TVdES3lKV1VuVXN6QnJycWxtdkNOdUIwMTdTRE9fbko3Umt5d0huNVY1dW9ZcFpLSF9yczRGRHJfSWZhM1AtTkVzbVR4TlRUdzhIb19JN3o)). Iran says US response to its proposal to reopen Hormuz was 'insufficient' ([Reuters](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaDM4RVFjdmpFdUszUHFFbm5tWGM1R21NMEI2aFNqN2NOUGZPZzVPQ3d6QnUwY3VkWm96Q0tXQVFfTFF6c21hYzgzQWwyQVhJam0zZW45cGNuc282RkYzVEIyOEJlTkljM0l5MkdTRHRzRE1rdExZV2o4aFBiTURQMXd0UlFsTVlLdVlwVDZJcGpBNWZkb0RhalloX21XclFXTWJnN3pTSzZPNy1tS1o0SDNjLVlmZ2ZkVldj)). US military says it disabled cargo vessel trying to run Iran blockade ([Reuters](https://news.google.com/rss/articles/CBMirAFBVV95cUxPV2Nqd2RXZnpaY3lzeHVxN2Y0VC1ZZEpTSlFVeFpYbW1nQUZqRE5kSGt1NXo0TTFQQmtLSnFFX045Qk1pc2lpMWxXaGxfVkxxazIwNVdVYl82TWJZa2VURkhNWllYX1I1Vk00OFZoNzNNRmRQLURKVFpKbVVaVzZ4SjloWnB0SE1WTi1MWEp3TWttQ1h3MkpDcktydGU4MzdvVDlJS0V3Zk8xRkpp)). Oil dropped as traders weighed President Donald Trump’s claim of an "energy ceasefire" between Russia and Ukraine, even as hostilities escalated across the Middle East ([BBG](https://www.bloomberg.com/news/articles/2026-10-11/latest-oil-market-news-and-analysis-for-oct-12)). After oil increasingly left the Gulf, Iran is trying to regain its stranglehold on shipping ([CNN](https://news.google.com/rss/articles/CBMie0FVX3lxTE43VjFQRFkxRVVwaTRiTHBubTY3M19MS1I2RFZsbWxHakhPUlNfc0Y5WVFvQ2xrY3FaSTAycE1sVmU3QXhnZ1RRTGlndVNPX3MyVVplNXllaFpGN1F6MjMtUnkzRl9JVDNCcWhyaVhOc0otM3lsbXZuWGljYw)).
+市场淡化中东风险，美股期货上扬，韩股收跌`3.6%`，油价回落，黄金小幅下跌 ([WSJCN 1](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxelphbXBaOWN5dHNTTVFjUG5nVThmZGlhT3dCZ051aFhJVS1XUFpVckxFem1lOHZZcWd2bXlxZ3kycEljTUROS1J5b3pfcUhhTkcw))。 交易员押注韩国央行加息，未来六个月`50`基点概率`70%` ([WSJCN 2](https://news.google.com/rss/articles/CBMiU0FVX3lxTE03LUo4cVpud2NIZnI5NDh1LU1nMDRvZnRlRC1hVW9Ua3FZdGxCa3AxUzBhRHJyeWhaZTNBQUc2cWlUVVo5Z0Fnam5LYXhfeHBSZmkw))。 North Korea on Monday fired multiple ballistic missiles towards the sea ([Al Jazeera 1](https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea))。 South Korea's Joint Chiefs of Staff said one of the missiles launched from the Pyongyang area flew more than 900km ([Al Jazeera 2](https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea))。 North Korea on Monday fired multiple projectiles ([SCMP](https://www.scmp.com/news/asia/east-asia/article/3370521/days-after-ai-missile-test-north-korea-fires-another-projectile))。
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Acceleration versus prior state because Houthi strikes extended to Saudi civilian aviation while Hormuz reopening remains blocked.
-> * **Transmission / Market Read**: Risk-premium and energy-supply channel favors **long Brent volatility**, **long USD/Asia FX**, and **short Gulf equities** on headline risk.
-> * **Watchpoint / Confidence**: Pivot to neutral if no new strike on energy infrastructure or no Gulf transit advisory within 48h; Confidence: High.
+> * **Narrative change**: New escalation in Korean peninsula risk and BOK repricing because KOSPI `-3.6%` and fresh missile launches exceed prior regional risk tone.
+> * **Transmission / Market Read**: Risk-premium plus policy-repricing channel; favors **short KRW** and **long USD/KRW** until missile risk clears.
+> * **Watchpoint / Confidence**: Further Pyongyang launches or BOK official pushback on hike pricing would confirm or invalidate; Confidence: Medium.
 
----
-
-### 📌 US Treasury selloff gets uglier before CPI and Warsh
+### 📌 China-EU hybrid cap details hit lithium demand
 
 **Fact**
-十年期美债收益率逼近5.4%，AI光环难掩标普500"虚胖"隐忧 ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE11dzRkbVlpWHpaU3B5X2QtS1FHR2JfYzJ6bFNvOGFWdkVGTmY1RWhtMVI4TElnM0d0Wmsyc3k2NE10OTNkQmFNQTg4QXd4UkEwUnZj))。期限溢价飙升，华尔街从美债的最新抛售中看到了不祥之兆 ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKTmV3dTlsSjFuNGd5Ulh4WXpBel9zQ2Z3Q0V2dm1BMHNyd2hEOFRBMW8wcmtxRzlYZnM3YXU5TGpVWk9WalktYWdKY1p4S2RkWVEw))。美国市场叙事“剧烈反转”：从“AI通缩论和美债可控论”转向“AI挤爆债市、贝森特控不住长端利率” ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SNmtmb2dCSVlWYnF3WkdKeGF2NG50c1Jtc1l2UFhvNVpQTVpoT2RVUHNLYU81UmFNYndsUzY2Qzh1dHZ1aTVKWkJvd1FEUWVaYjJv))。Bond traders are looking to the latest consumer-price inflation figures and a planned appearance by Federal Reserve Chairman Kevin Warsh for insight into how quickly the central bank will continue raising interest rates ([BBG](https://www.bloomberg.com/news/articles/2026-10-11/us-bond-traders-await-cpi-warsh-for-insight-on-fed-s-rate-path)). Higher gasoline prices probably led to quicker overall US inflation in September even as underlying price pressures moderated, supporting views that the Federal Reserve will refrain from raising interest rates this month ([BBG](https://www.bloomberg.com/news/articles/2026-10-10/us-cpi-to-show-overall-inflation-boosted-by-higher-gasoline-prices)). Four signs it is about to get uglier in the bond market as yields rise ([Reuters](https://news.google.com/rss/articles/CBMilAFBVV95cUxOZnpPbXRYRlc0T3dINmZIZnM3VEgxWWJzS2tLRVBadmJMVnQ2ekdHaTQ1NG1SZlhfTV84VjNsM3JNR0RRSTZyVWJ1ODJFZmxpa1pxckluaktPY0d6T0d3bUVUUnRGQjlCVmwxWUNGWEs2cEo1VGV4R3MxN19PakJaZ3FUZnZfMWxqUHAzNk1nOTVFT0hr))。
+欧盟将把中国混合动力汽车进口量限制在每年`35万辆` ([Caixin](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBaTVJRenlrNWlkbjllUjA1V2ZndWN6d1BLY0NGZzBSZG5kcVZNbjNkNm9GaWVqN0Z3SFkwTTd2V0o3VktralZ6dGQ0Zk9ZYnVJVjN1Z1NiNHVEeEdVV18wSzhaZw))。 China said a deal with the European Union on hybrid cars will ensure “export space and steady growth” for its companies, as the two sides seek to reduce the risk of trade war ([BBG 1](https://www.bloomberg.com/news/articles/2026-10-12/china-says-hybrid-car-deal-with-europe-to-ensure-export-space))。 Lithium futures in China slumped as the agreement to limit hybrid car exports to the European Union weighed on demand prospects for the battery material ([BBG 2](https://www.bloomberg.com/news/articles/2026-10-12/chinese-lithium-slumps-10-after-eu-deal-slashes-hybrid-exports))。 China’s `$7.5 billion` EU hybrid boom faces new curbs under China-EU deal ([Reuters](https://news.google.com/rss/articles/CBMizwFBVV95cUxOMFFrZExkSUpZRTF3bDlwMXhkX3NZU1FsU09wWktzYi1rTUhVemhqRElxV3cyb1BaNTRXbzR2S0NYcXJmMWxLcVpkZURiZjU0WkF4dXVzQmNXYUpzZDVuNGRzb0tteDFxdWZ0ZWlBblVoa3hWdVVVREJpUHF1M00xYUI3Y09TZFpHNmJEdFNILXA5WHpna3pmNGRaa2FUdG5BN3U2Y2VmSTZrWXY4TER3bzhlNXdQS2xoLVRNY1lmVXkySE9wT1lJVDdEZ1k2RnM))。
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Acceleration versus prior macro state because term premium and long-end yield pressure broadened beyond the AI-trade unwind into a higher-rate world.
-> * **Transmission / Market Read**: Rates and liquidity channel favors **long USD**, **short US duration**, and **underweight high-duration tech/AI equities** into CPI.
-> * **Watchpoint / Confidence**: September CPI and Warsh comments next 48h; hotter core or hawkish tone would confirm `5.4%` as floor not ceiling. Confidence: High.
+> * **Narrative change**: Acceleration of China-EU trade detente because the framework now has a binding annual `350,000` unit cap and triggered a `10%` lithium price shock.
+> * **Transmission / Market Read**: Industrial demand and trade-policy channel; favors **short Chinese lithium futures** and reduced auto-tariff risk premium for China exporters.
+> * **Watchpoint / Confidence**: Formal EU implementation text and lithium price close after the cap; Confidence: High.
 
----
-
-### 📌 China-EU hybrid vehicle deal tempers trade war
+### 📌 RBI draws rupee line at 97
 
 **Fact**
-The European Union and China have agreed to slash Chinese hybrid vehicle exports in half, putting brake on trade war ([SCMP](https://www.scmp.com/economy/china-economy/article/3370385/china-and-eu-reach-understanding-hybrid-vehicles-after-crunch-trade-talks)). The agreement will see Chinese hybrid vehicle exports decline by "several million cars" in the coming years, EU trade chief says ([SCMP](https://www.scmp.com/economy/china-economy/article/3370385/china-and-eu-reach-understanding-hybrid-vehicles-after-crunch-trade-talks)). European trade commissioner says Beijing has agreed to restrict vehicle exports in deal that shows negotiation "brings results" ([FT](https://www.ft.com/content/2823ef6f-b3d7-494b-b131-414c02d6a59f)). China Moves to Stave Off Wider EU Trade War With Hybrid Deal ([BBG](https://www.bloomberg.com/news/articles/2026-10-11/china-moves-to-stave-off-wider-eu-trade-war-with-hybrid-deal))。中欧就混动汽车贸易达成谅解 未来四年中国出口如何削减一半？ ([Caixin](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kU0lxZmpaSTlmTE1SNUdrekZFeVFrRFVtdHo3Q0lDenRSWmUzdldzUWh2MU9sZzJDbDdFMTBRbjZrTGNudG14SXVfbVdfWjNtQWZ0V3ViY2lFYmlGQzk2cWlSMmZwSVU))。
+India’s most forceful currency defense in more than a decade is cementing expectations among traders and analysts that the central bank will do everything it can to prevent the rupee from weakening below `97` per dollar ([BBG 1](https://www.bloomberg.com/news/articles/2026-10-12/inr-usd-india-draws-line-in-sand-for-rupee-at-97-as-rbi-steps-up-defense))。 The Reserve Bank of India’s special window for state-run oil refiners will take almost `$10 billion` of monthly dollar demand off the spot market, easing pressure on the rupee, according to people familiar with the development ([BBG 2](https://www.bloomberg.com/news/articles/2026-10-12/rbi-window-to-meet-refiners-10-billion-monthly-need-aid-rupee))。 Rupee Jumps After India Central Bank Unveils Currency-Defense Measures ([WSJ](https://news.google.com/rss/articles/CBMiugFBVV95cUxObjRfQjhMOXN6M3FfdUtlSWFzaFVpU1JuNjVDdkdTTzJlNkQzRHpfQUdrLW5oNHN0b1c1WXBxWnlRZzRDTXlkT3cwVDdnYVBpR2JoemZXV0toVGZBWmpCeEg0MktXWHFLNGZRdk83NkZzNGw4Y3BrdDdhaEx5Wk5pbGRrQ0JwcmhyWldqUU5tSEwwY0dVcDBrcUxoSmxoeDNFWXo3LXpBcTQxbVVYVGZxVFRJaDlFSmowWGc))。 Indian central bank curbs to temper corporate rush to hedge against rupee weakness ([Reuters](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRFgtUVBuX2VnM2otaHZHc08xZEFBRmtZZHV0QWNzTU5qSUhIcHJGWTZTNmpReXBQLS1SdlRBS3hpa1Jfb2tsZjV5eFRpeUtoLV9CdHVzUUJaVEw3aURPWEVEbF9ITGdoSVBoSFF6YzllelVWODM2TzkwWEhnTDJEUEpFWnUyaFZtT0lxc01WTHFkX0xLU1BNRFE0RWJwMzZzMnZ0VEtpYlhGTndtUlR5TjlOUFBvdU5OUDVtSkctMFV3Zw))。
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Reversal of previous EU-China trade escalation risk, now shifted toward managed export restraint rather than open tariff conflict.
-> * **Transmission / Market Read**: Trade and capital-flow channel favors **European auto equities**, supports **CNY stability**, and reduces tail risk for **Asia export FX**.
-> * **Watchpoint / Confidence**: Formal EU implementation language and China shipment data within 72h; no retaliation would confirm de-escalation. Confidence: High.
-
----
-
-### 📌 China leans on local debt quota for fiscal support
-
-**Fact**
-财政部下达5500亿元地方债结存限额 支持县区财力和扩大有效投资 ([Caixin](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1neHBWakw2ZjhSelVNMnVHT2FVckFocWJYZ0VhLUU3X0cwdE9qZ21vLXJwUU1vNUtjM2lHTmVqaU9pdlNucG0zeUItSWxMREhiVHRzMERwYnJEbFV4b21sYXl3))。财政部安排使用5500亿元地方政府债务结存限额 ([CCTV](https://news.google.com/rss/articles/CBMieEFVX3lxTE42V2NnYWZRRWpfMmljVmhOcjhMZVZ3SHRTR1pnNC1zQnprdC04RGhMMW9KbnNILTdfdW1uelRqNlFoeTRfMHcxaWRMcFQ1aDRKNTF5Y0NDNkFSZUV2ejVHclpZbDM2LVI3dFFtelBBUzNfNUtHLVJfbQ))。财政部：将实施更加积极的财政政策 加力扩大内需 ([CCTV](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcVBraGdYVDhUQW9ELWx5eG5ZUmozNHVTQ0hZVnJoU3JJQnhYa25qUkNqQjMyaWdZeHlvSFJvZGUtay0zMFdJXy1nMHFjVkJocmg2bzIxTnRVR0QyZ191U1prWV9DbDlfRGhGVWtldDZWb3lVeFpmTkluaWctSGl5OGEtQ2xvZlFESWkxWVA1SVJkdmE2STY0a0FtV1lMT0swNFY0U0hwbFZRY0Vt))。Mounting interest payments restrict headroom to revive domestic demand, say experts ([FT](https://www.ft.com/content/a0ffc43a-231a-40aa-b5f9-521757830087))。
-
-> [!info] [AI Reasoning]
-> * **Narrative change**: Confirmation of fiscal response, but constrained by debt-service burdens so the impulse is incremental rather than large-scale.
-> * **Transmission / Market Read**: China growth and policy channel supports **local government financing vehicles**, **A-share infrastructure/construction**, and limits **CNY downside**.
-> * **Watchpoint / Confidence**: PBOC or State Council signal on further easing, debt swap, or consumption stimulus within 72h. Confidence: Medium.
-
----
-
-### 📌 Trump opens US market to Russian diesel, splitting allies
-
-**Fact**
-US President Donald Trump has opened the American market to Russian diesel, reversing years of US pressure on Moscow over Ukraine war, as the president seeks to lower spiralling fuel costs ([SCMP](https://www.scmp.com/news/world/united-states-canada/article/3370409/trump-says-us-get-diesel-russia-stunning-bid-ease-prices))。特朗普突宣布美国将自俄进口柴油 批评者质疑会助长俄战争经济 ([Caixin](https://news.google.com/rss/articles/CBMiakFVX3lxTE0tT242YWtYRWtnQXpLaDU3WjlSY2I1MXBjWjdmT25ZVDNhNzlFNmpIVWI4Tlcxb0s3cThMWGZjNUtHSkt4TTJBcjQ1WVVVNlhFVGJhN2ZOLWppZ24xaWVvOEp0QmpNaHVPS1E))。Republican US Senator Thom Tillis on Sunday said US President Donald Trump’s diesel supply deal may be illegal and will endanger American lives ([SCMP](https://www.scmp.com/news/world/united-states-canada/article/3370512/trumps-russian-diesel-deal-may-be-illegal-says-prominent-republican-senator))。Germany sticks to Russia sanctions after Trump announcement on diesel ([Reuters](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYUFXZDgzaHM2T1FRdnc3Njh3R0t5cGppS3pJUm8xREprWk54RFdON1pYY1BBbFRKS2pEajVWVzJJcmNiQVVJVGI1czM0U0F1U04zUEFZZVNDZzUtVWZ6UzdPQlItRzNyX3ZseVdmeVlaY1B5M203LWhwWFJTZjh0TlBFVm4zbm9SQjVvRGpXclhWWnJDYmdOWVRmaFhCVDBRNV9uU0UtZmo))。Ukraine President Volodymyr Zelenskyy said in a searing statement that the U.S. easing sanctions on Moscow "plays into Russia's hands" ([CNBC](https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html))。
-
-> [!info] [AI Reasoning]
-> * **Narrative change**: Reversal of US Russia-sanctions stance for diesel, with cross-party and allied criticism amplifying political uncertainty.
-> * **Transmission / Market Read**: Energy supply and geopolitics channel supports **lower US diesel cracks**, but sanctions-fragmentation risk supports **wider European energy risk premium**.
-> * **Watchpoint / Confidence**: Senate legal challenge, EU coordinated response, or first cargo confirmation within 72h. Confidence: Medium.
+> * **Narrative change**: Confirmation of India rupee defense, now explicit line at `97` and `$10bn` monthly refinery dollar window.
+> * **Transmission / Market Read**: Capital-flow and currency-defense channel; supports **long INR** tactically even as broad USD strength persists.
+> * **Watchpoint / Confidence**: Rupee open Monday and RBI follow-through; a break of `97` would invalidate the defense narrative. Confidence: High.
 
 ---
 
 ## 🌍 Global Radar
 
 ### 📊 Economic Indicators
-- Dollar gains for fourth straight week on Fed rate outlook ([Investing_Forex](https://www.investing.com/news/forex-news/asia-fx-muted-dollar-heads-for-fourth-straight-week-of-gains-4940141)).
 
-### 🏦 Central Banks
-- **Fed** — Global central banks are likely to head into 2027 with even tighter monetary-policy settings to keep inflation at bay ([BBG](https://www.bloomberg.com/news/articles/2026-10-11/a-higher-rate-world-is-in-store-as-central-banks-approach-2027)).
+- Research for the FT shows major economies are withstanding the Iran shock but concerns about rising public debt will loom over IMF and World Bank meetings ([FT](https://www.ft.com/content/e0457dd5-8e75-4803-8ce8-6651157d2229)).
+- IMF Chief Kristalina Georgieva warned AI is hitting the global labor market like a “slow-moving tsunami,” with young workers entering the job market the most exposed ([CNBC](https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html)).
+- An increasing number of people are missing credit card repayments as finances are stretched by rising bills, according to the Bank of England ([BBC](https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo)).
 
 ### 🌐 Geopolitics & Policy
-- India unveils tough curbs on dollar demand to defend rupee ([Reuters](https://news.google.com/rss/articles/CBMixAFBVV95cUxQdllQdm5CdmlVZXN1TkRYcEd3akdFcFFiMU9xSXJNUnBzbk9HNWFqbTVsYVpXMG03bldVc29lZjVfMk9seFo4LXpadURFdWhmUEVYdWViNjBPNkFiVi1HTkx1clBCc1ZsSGNOdjlweHR3V0JRa0JiRFpEZWNCMHpnTF9GX2RUeWUyTE1oT1VRNjBTSUVZVDBaa0ZkVi0yTFBpRnQ0TlcwM1d2MTc4bVd6U2ZqcDRxUWJESWY4aWpfTmdNeVpB)).
-- US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize ([Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB)).
+
+- Taiwan says it is closely monitoring a series of Chinese live-fire drills ([Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxNbzdVRzBOYnM4YWQ3Z0g2QTc2OTZwM0t0TUI3SUlGeTdBbXJ1amlQV0IyS2F2cGxmMk1hdW1HTElpV0pmaS1JUUt5N1lwdXdJUkNpYThnLVpvTEdsYjhnTVpqb015TTRDWWRZTTV6Ylo5c0pFbVRPeUM2YzNIdExpd1hRLWt6ZWR4bXZUeTRLZnJnNDlLVnAyX1JDdUxCajE3akRNMnpaUlpaVVRoWFJEWkh0MHEya28)).
+- US threatens to cut arms support for Ukraine over Russian refinery strikes ([FT](https://www.ft.com/content/7dc561ba-a386-479d-9633-9209b76b1812)).
+- Buried bodies, cleared rubble, Israel’s yellow line: How war is hampering the search for Gaza’s missing ([CNN](https://news.google.com/rss/articles/CBMijgFBVV95cUxQbW1Edmt1SVZfRlNPUmoxVzIwdm5tS2ZLN0s3LVFmU0Vwd3hicGVnckJtQ0RTX2hMTTVSZ2dpX21OQXp5aW9TV05iTXliNWdzbkt2ZTVwV2pLNE84YW5PNE9faFlBOXBlSl8ydnZxNW1xX1F3RDl3dGIzUmRaU29PRS1xaUNEOVZBWV9TdVVn)).
 
 ### 🛢️ Commodities
-- Chinese nickel investors brace for headwinds as Indonesia weighs smelter freeze ([SCMP](https://www.scmp.com/economy/global-economy/article/3370344/chinese-nickel-investors-brace-headwinds-indonesia-weighs-smelter-freeze)).
+
+- China’s thermal coal prices climbed to a three-year high as sluggish domestic production growth and disruptions in top exporter Indonesia coincide with an energy rally driven by the US-Iran war ([BBG](https://www.bloomberg.com/news/articles/2026-10-12/china-coal-prices-at-three-year-high-with-little-relief-in-sight)).
+- Gold edged down from the highest in a week, as traders assessed swings in oil prices while waiting for economic data for clues on the US Federal Reserve’s interest-rate path ([BBG](https://www.bloomberg.com/news/articles/2026-10-12/gold-edges-up-as-traders-weigh-russia-ukraine-energy-ceasefire)).
+- Oil Prices Fall as Traders Weigh Russian Diesel Deal, Middle East Supply Risks ([WSJ](https://news.google.com/rss/articles/CBMixAFBVV95cUxQOXpZa1FtWThybVR0cThaRndXOHlLN2hrRWdacGFUX29OaFk5R3J4N1NrUTlnRFRCeVVyV2x5aTJicF84WHNhT2s3dUJyOWFPR0VVZ2JwZ25Ed2dqa2RPY1V5Z3dTaFluRV9rSXBLSFJkQkZCcE1id0hQOVBsbHVnYUdrajlqajZCbHVYNl90M05BT2xyQVN3NFpQOXNkVFVCSVo2YXV4ei1TV2NuZzYxeEdraXV3NlJaZHNESHNINEhXUXFC)).
 
 ### 📈 Equities
-- US equity-index futures advanced after crude oil declined, erasing an earlier gain triggered by Houthi attacks on Saudi Arabia ([BBG](https://www.bloomberg.com/news/articles/2026-10-11/oil-rises-on-mideast-attacks-dollar-edges-higher-markets-wrap)).
+
+- Goldman Sachs Group Inc. strategists are turning positive on global stocks for the short term, citing a boost from strong earnings for markets already trading near all-time highs ([BBG](https://www.bloomberg.com/news/articles/2026-10-12/goldman-strategists-upgrade-global-stocks-on-earnings-boost)).
+- CSRC chair Wu Qing convenes meeting with listed firms and financial institutions after a sharp third-quarter market decline ([SCMP](https://www.scmp.com/business/banking-finance/article/3370506/beijing-moves-steady-share-market-after-sharp-tech-sell)).
+- TSMC expected to report sixth straight quarter of record profit thanks to AI boom ([Reuters](https://news.google.com/rss/articles/CBMivAFBVV95cUxOLVdZdVEzd2xJRXc2ZDVpOTJESklKcDlSSERrelBfdXdxVmNaek9lLTV1RlZxVGpBa3RmakZ3N3V6al9BTlFtWGl1dEV6dVJ6X2J6MDlEZThzQlQydXZ3NTY3LTRSZzFfVUpGZk5uaGl4VllRdmgwSkUxeGxHOVA5VE5NY3BmeXlVaFlQRHJmelpMZDNZQ3NUUzRaem5UTlB6bXk2N3o4YjhtczVnWTBEaVN5MVJhY1A0ajhuRA)).
 
 ---
 
@@ -110,7 +90,6 @@ US President Donald Trump has opened the American market to Russian diesel, reve
 
 | Time (HKT) | Rgn | Event | Est. | Prior |
 |---|---|---|---|---|
-| Oct 12 10:30 AM | KR | 3-Year KTB Auction | — | 3.875% |
 | Oct 12 05:30 PM | DE | 12-Month Bubill Auction | — | 3.065% |
 | Oct 12 09:00 PM | FR | 12-Month BTF Auction | — | 3.262% |
 | Oct 12 09:00 PM | FR | 3-Month BTF Auction | — | 2.786% |
@@ -120,67 +99,70 @@ US President Donald Trump has opened the American market to Russian diesel, reve
 | Oct 13 07:50 AM | JP | PPI MoM | 0.5% | -0.2% |
 | Oct 13 07:50 AM | JP | PPI YoY | 7.6% | 7.6% |
 | Oct 13 08:30 AM | AU | NAB Business Confidence | — | -8 |
+| Oct 13 01:00 PM | SG | MAS 12-Week Bill Auction | — | 1.85% |
+| Oct 13 01:00 PM | SG | mas 36-week bill auction | — | 2% |
+| Oct 13 01:00 PM | SG | MAS 4-Week Bill Auction | — | 1.7% |
+| Oct 13 02:00 PM | DE | Harmonised Inflation Rate MoM Final | 0.6% | 0.2% |
+| Oct 13 02:00 PM | DE | Harmonised Inflation Rate YoY Final | 3.3% | 2.9% |
+| Oct 13 02:00 PM | DE | Inflation Rate MoM Final | 0.6% | 0.2% |
+| Oct 13 02:00 PM | DE | Inflation Rate YoY Final | 3.3% | 2.9% |
+| Oct 13 04:40 PM | ES | 3-Month Letras Auction | — | 2.456% |
+| Oct 13 04:40 PM | ES | 9-month letras auction | — | 2.776% |
+| Oct 13 05:00 PM | GB | treasury gilt 2063 tender | — | — |
+| Oct 13 05:10 PM | IT | 15-Year BTP Auction | — | 3.95% |
+| Oct 13 05:10 PM | IT | 3-Year BTP Auction | — | 3.43% |
+| Oct 13 05:10 PM | IT | 7-Year BTP Auction | — | 3.98% |
+| Oct 13 05:30 PM | DE | 5-Year Bobl Auction | — | 3.28% |
+| Oct 13 06:00 PM | US | NFIB Business Optimism Index | 98 | 98.7 |
 
 ---
 
 ## 📚 Full Reading List
 
 - **BBG**
-  - [Latest Oil Market News and Analysis for Oct. 12](https://www.bloomberg.com/news/articles/2026-10-11/latest-oil-market-news-and-analysis-for-oct-12)
-  - [US Bond Traders Await CPI, Warsh For Insight on Fed’s Rate Path](https://www.bloomberg.com/news/articles/2026-10-11/us-bond-traders-await-cpi-warsh-for-insight-on-fed-s-rate-path)
-  - [US CPI to Show Overall Inflation Boosted by Higher Gasoline Prices](https://www.bloomberg.com/news/articles/2026-10-10/us-cpi-to-show-overall-inflation-boosted-by-higher-gasoline-prices)
-  - [China Moves to Stave Off Wider EU Trade War With Hybrid Deal](https://www.bloomberg.com/news/articles/2026-10-11/china-moves-to-stave-off-wider-eu-trade-war-with-hybrid-deal)
-  - [US Stock Futures Gain as Oil Erases Early Gains: Markets Wrap](https://www.bloomberg.com/news/articles/2026-10-11/oil-rises-on-mideast-attacks-dollar-edges-higher-markets-wrap)
-  - [A Higher-Rate World Is in Store as Central Banks Approach 2027](https://www.bloomberg.com/news/articles/2026-10-11/a-higher-rate-world-is-in-store-as-central-banks-approach-2027)
+  - [China Says Hybrid-Car Deal With Europe to Ensure ‘Export Space’](https://www.bloomberg.com/news/articles/2026-10-12/china-says-hybrid-car-deal-with-europe-to-ensure-export-space)
+  - [Chinese Lithium Slumps 10% After EU Deal Slashes Hybrid Exports](https://www.bloomberg.com/news/articles/2026-10-12/chinese-lithium-slumps-10-after-eu-deal-slashes-hybrid-exports)
+  - [INR/USD: India Draws Line in Sand for Rupee at 97 as RBI Steps Up Defense](https://www.bloomberg.com/news/articles/2026-10-12/inr-usd-india-draws-line-in-sand-for-rupee-at-97-as-rbi-steps-up-defense)
+  - [RBI Window to Meet Refiners’ $10 Billion Monthly Need, Aid Rupee](https://www.bloomberg.com/news/articles/2026-10-12/rbi-window-to-meet-refiners-10-billion-monthly-need-aid-rupee)
+  - [China Coal Prices at Three-Year High With Little Relief in Sight](https://www.bloomberg.com/news/articles/2026-10-12/china-coal-prices-at-three-year-high-with-little-relief-in-sight)
+  - [Gold Edges Down as Traders Monitor Oil Prices, Fed Rate Outlook](https://www.bloomberg.com/news/articles/2026-10-12/gold-edges-up-as-traders-weigh-russia-ukraine-energy-ceasefire)
+  - [Goldman Strategists Upgrade Global Stocks on Earnings Boost](https://www.bloomberg.com/news/articles/2026-10-12/goldman-strategists-upgrade-global-stocks-on-earnings-boost)
 
 - **Reuters**
-  - [Houthi strike on Saudi airport kills 12, worst attack on kingdom in a decade](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbV9hVGtMSXpTVDJ3c05vRW9SQ2lRLTg3cUlOeWxDc2w4amF5V2N2Ul9YazdxcHJGNDRwd3hlQi15a2ZGWWZoZnc1dlA5UkY3cU9PclVCNkh6SVkzQ25waEVRRlN2TVdES3lKV1VuVXN6QnJycWxtdkNOdUIwMTdTRE9fbko3Umt5d0huNVY1dW9ZcFpLSF9yczRGRHJfSWZhM1AtTkVzbVR4TlRUdzhIb19JN3o)
-  - [Iran says US response to its proposal to reopen Hormuz was 'insufficient'](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaDM4RVFjdmpFdUszUHFFbm5tWGM1R21NMEI2aFNqN2NOUGZPZzVPQ3d6QnUwY3VkWm96Q0tXQVFfTFF6c21hYzgzQWwyQVhJam0zZW45cGNuc282RkYzVEIyOEJlTkljM0l5MkdTRHRzRE1rdExZV2o4aFBiTURQMXd0UlFsTVlLdVlwVDZJcGpBNWZkb0RhalloX21XclFXTWJnN3pTSzZPNy1tS1o0SDNjLVlmZ2ZkVldj)
-  - [US military says it disabled cargo vessel trying to run Iran blockade](https://news.google.com/rss/articles/CBMirAFBVV95cUxPV2Nqd2RXZnpaY3lzeHVxN2Y0VC1ZZEpTSlFVeFpYbW1nQUZqRE5kSGt1NXo0TTFQQmtLSnFFX045Qk1pc2lpMWxXaGxfVkxxazIwNVdVYl82TWJZa2VURkhNWllYX1I1Vk00OFZoNzNNRmRQLURKVFpKbVVaVzZ4SjloWnB0SE1WTi1MWEp3TWttQ1h3MkpDcktydGU4MzdvVDlJS0V3Zk8xRkpp)
-  - [China, EU strike deal to halve Chinese hybrid exports](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTHg5eDd4SHlldjU0OVlpTEVOaHB0QVpIOGhaTm9CSVN2WmE2RUtobThWUkpGM1NrMFVxeVFKMnctbEF4aV9JQnZIT0RjaXlWVHBhb3Noam5HemZnd0ZRTy1TSEJjUFljMl9md29ESGFUeVFha29xaWd0a050VjVjV2pFRS1qUWVJVm04SDJJUjRGcXBQUzE3TzhDaV9SWHR6TndZaGhMRUlib0NSekZFenBpUUtuTnZZSy1JekRHaDZoLTA)
-  - [Four signs it is about to get uglier in the bond market as yields rise](https://news.google.com/rss/articles/CBMilAFBVV95cUxOZnpPbXRYRlc0T3dINmZIZnM3VEgxWWJzS2tLRVBadmJMVnQ2ekdHaTQ1NG1SZlhfTV84VjNsM3JNR0RRSTZyVWJ1ODJFZmxpa1pxckluaktPY0d6T0d3bUVUUnRGQjlCVmwxWUNGWEs2cEo1VGV4R3MxN19PakJaZ3FUZnZfMWxqUHAzNk1nOTVFT0hr)
-  - [Germany sticks to Russia sanctions after Trump announcement on diesel](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYUFXZDgzaHM2T1FRdnc3Njh3R0t5cGppS3pJUm8xREprWk54RFdON1pYY1BBbFRKS2pEajVWVzJJcmNiQVVJVGI1czM0U0F1U04zUEFZZVNDZzUtVWZ6UzdPQlItRzNyX3ZseVdmeVlaY1B5M203LWhwWFJTZjh0TlBFVm4zbm9SQjVvRGpXclhWWnJDYmdOWVRmaFhCVDBRNV9uU0UtZmo)
-  - [Most Gulf stocks in red after attack on Riyadh airport](https://news.google.com/rss/articles/CBMiogFBVV95cUxOOEliNzFKYlR3T0NNakk4TWxXWGJ0UlJfQ0JLdFVIRnlESENoRW4zdjNSWW02UjFJOFozRmlZdVZ2ZlFaOTFSdEc5RGd6QWVVaFFMNi1QRTdMSVg2dFQxaHROcjhjbnI4ekhnZUZVbXlmYVBQaDZ3TG1pcFQ5RnFaVXpfYUxWRG1acC1mYnR6d3ZtdXpxbTBBUFJkcU9ock1wbXc)
-  - [India unveils tough curbs on dollar demand to defend rupee](https://news.google.com/rss/articles/CBMixAFBVV95cUxQdllQdm5CdmlVZXN1TkRYcEd3akdFcFFiMU9xSXJNUnBzbk9HNWFqbTVsYVpXMG03bldVc29lZjVfMk9seFo4LXpadURFdWhmUEVYdWViNjBPNkFiVi1HTkx1clBCc1ZsSGNOdjlweHR3V0JRa0JiRFpEZWNCMHpnTF9GX2RUeWUyTE1oT1VRNjBTSUVZVDBaa0ZkVi0yTFBpRnQ0TlcwM1d2MTc4bVd6U2ZqcDRxUWJESWY4aWpfTmdNeVpB)
-  - [US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize](https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB)
+  - [China's $7.5 billion EU hybrid boom faces new curbs under China-EU deal](https://news.google.com/rss/articles/CBMizwFBVV95cUxOMFFrZExkSUpZRTF3bDlwMXhkX3NZU1FsU09wWktzYi1rTUhVemhqRElxV3cyb1BaNTRXbzR2S0NYcXJmMWxLcVpkZURiZjU0WkF4dXVzQmNXYUpzZDVuNGRzb0tteDFxdWZ0ZWlBblVoa3hWdVVVREJpUHF1M00xYUI3Y09TZFpHNmJEdFNILXA5WHpna3pmNGRaa2FUdG5BN3U2Y2VmSTZrWXY4TER3bzhlNXdQS2xoLVRNY1lmVXkySE9wT1lJVDdEZ1k2RnM)
+  - [Taiwan says it is closely monitoring a series of Chinese live-fire drills](https://news.google.com/rss/articles/CBMitwFBVV95cUxNbzdVRzBOYnM4YWQ3Z0g2QTc2OTZwM0t0TUI3SUlGeTdBbXJ1amlQV0IyS2F2cGxmMk1hdW1HTElpV0pmaS1JUUt5N1lwdXdJUkNpYThnLVpvTEdsYjhnTVpqb015TTRDWWRZTTV6Ylo5c0pFbVRPeUM2YzNIdExpd1hRLWt6ZWR4bXZUeTRLZnJnNDlLVnAyX1JDdUxCajE3akRNMnpaUlpaVVRoWFJEWkh0MHEya28)
+  - [EU adopts nearly 1,600 new sanctions listings targeting Russia](https://news.google.com/rss/articles/CBMirwFBVV95cUxQNHU4aWdseGJQNDlHSkY2bVlVakhtNG9qSWo2eHl0MV9WSTRoc1lqdUdTcHlXeWdCVU1nZ3V6c2Z2dV9FMmRXdGlmMjhOOVpENE9ZRkY1UkRxM1ZzUTBaLTE0OUhEUE9nVzFVd1pUQUlJcjljeWhjNEJvSk55VlhobmU5Q0F2S2lKb0M0Z2lLcjg1Y1J2bG8zUU8xUXdLUV93WUpOMG5DSE11dzJmdklv)
+  - [Indian central bank curbs to temper corporate rush to hedge against rupee weakness](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRFgtUVBuX2VnM2otaHZHc08xZEFBRmtZZHV0QWNzTU5qSUhIcHJGWTZTNmpReXBQLS1SdlRBS3hpa1Jfb2tsZjV5eFRpeUtoLV9CdHVzUUJaVEw3aURPWEVEbF9ITGdoSVBoSFF6YzllelVWODM2TzkwWEhnTDJEUEpFWnUyaFZtT0lxc01WTHFkX0xLU1BNRFE0RWJwMzZzMnZ0VEtpYlhGTndtUlR5TjlOUFBvdU5OUDVtSkctMFV3Zw)
+  - [TSMC expected to report sixth straight quarter of record profit thanks to AI boom](https://news.google.com/rss/articles/CBMivAFBVV95cUxOLVdZdVEzd2xJRXc2ZDVpOTJESklKcDlSSERrelBfdXdxVmNaek9lLTV1RlZxVGpBa3RmakZ3N3V6al9BTlFtWGl1dEV6dVJ6X2J6MDlEZThzQlQydXZ3NTY3LTRSZzFfVUpGZk5uaGl4VllRdmgwSkUxeGxHOVA5VE5NY3BmeXlVaFlQRHJmelpMZDNZQ3NUUzRaem5UTlB6bXk2N3o4YjhtczVnWTBEaVN5MVJhY1A0ajhuRA)
+  - [COMMENTARY: Middle East LNG industry remains hostage of Iran war](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLXNhN1pHTVFkMDM2M21lOXNtYnpXRzRvOEtkVU9pdG1YSXo2Q0M4eVNreElGaFI3RlZZV3FQZXBDZmYtTDYwNVJrbFZOY2VOZWFOR3l2TFpORElhZDhrUWxCRXM1RXpKbGowTVdsS3N0VUIwRFhJOF9wcFhlT1JvRE95dF9BNWluc25GZG1fMm9Gem9NVHN5SlJfNHFXdnprMkxwcktuTjFqOHBYb29lUXpLTE56MjRmbnp6OGU2MzNDNk0)
+
+- **WSJ**
+  - [Rupee Jumps After India Central Bank Unveils Currency-Defense Measures](https://news.google.com/rss/articles/CBMiugFBVV95cUxObjRfQjhMOXN6M3FfdUtlSWFzaFVpU1JuNjVDdkdTTzJlNkQzRHpfQUdrLW5oNHN0b1c1WXBxWnlRZzRDTXlkT3cwVDdnYVBpR2JoemZXV0toVGZBWmpCeEg0MktXWHFLNGZRdk83NkZzNGw4Y3BrdDdhaEx5Wk5pbGRrQ0JwcmhyWldqUU5tSEwwY0dVcDBrcUxoSmxoeDNFWXo3LXpBcTQxbVVYVGZxVFRJaDlFSmowWGc)
+  - [Oil Prices Fall as Traders Weigh Russian Diesel Deal, Middle East Supply Risks](https://news.google.com/rss/articles/CBMixAFBVV95cUxQOXpZa1FtWThybVR0cThaRndXOHlLN2hrRWdacGFUX29OaFk5R3J4N1NrUTlnRFRCeVVyV2x5aTJicF84WHNhT2s3dUJyOWFPR0VVZ2JwZ25Ed2dqa2RPY1V5Z3dTaFluRV9rSXBLSFJkQkZCcE1id0hQOVBsbHVnYUdrajlqajZCbHVYNl90M05BT2xyQVN3NFpQOXNkVFVCSVo2YXV4ei1TV2NuZzYxeEdraXV3NlJaZHNESHNINEhXUXFC)
 
 - **FT**
-  - [China and EU avert trade conflict with ‘understanding’ on hybrid cars](https://www.ft.com/content/2823ef6f-b3d7-494b-b131-414c02d6a59f)
-  - [China’s growing debt burden limits space for economic stimulus](https://www.ft.com/content/a0ffc43a-231a-40aa-b5f9-521757830087)
-  - [The ECB will sit on the sidelines during France’s debt sell-off](https://www.ft.com/content/084bf164-ee7b-4744-a869-4dea488459f8)
+  - [FirstFT: US threatens to cut arms support for Ukraine over Russian refinery strikes](https://www.ft.com/content/7dc561ba-a386-479d-9633-9209b76b1812)
+  - [‘Worrying omens’ stalk global economy despite resilient growth](https://www.ft.com/content/e0457dd5-8e75-4803-8ce8-6651157d2229)
 
 - **CNBC**
-  - [Trump's diesel agreement with Putin accused of contradicting Russia sanctions law](https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html)
+  - [World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI ‘tsunami’](https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html)
 
 - **SCMP**
-  - [Riyadh airport hit by fresh Houthi strike day after deadly attack killed 12](https://www.scmp.com/news/world/middle-east/article/3370513/riyadh-airport-hit-fresh-houthi-strike-day-after-deadly-attack-killed-12)
-  - [China agrees to slash EU hybrid car exports in half, putting brake on trade war](https://www.scmp.com/economy/china-economy/article/3370385/china-and-eu-reach-understanding-hybrid-vehicles-after-crunch-trade-talks)
-  - [Trump announces major diesel deal with Russia ahead of US midterm elections next month](https://www.scmp.com/news/world/united-states-canada/article/3370409/trump-says-us-get-diesel-russia-stunning-bid-ease-prices)
-  - [Trump’s Russian diesel deal may be illegal, says prominent Republican senator](https://www.scmp.com/news/world/united-states-canada/article/3370512/trumps-russian-diesel-deal-may-be-illegal-says-prominent-republican-senator)
-  - [Chinese nickel investors brace for headwinds as Indonesia weighs smelter freeze](https://www.scmp.com/economy/global-economy/article/3370344/chinese-nickel-investors-brace-headwinds-indonesia-weighs-smelter-freeze)
+  - [Days after AI missile test, North Korea fires more projectiles](https://www.scmp.com/news/asia/east-asia/article/3370521/days-after-ai-missile-test-north-korea-fires-another-projectile)
+  - [Beijing moves to steady A-share market after sharp tech sell-off](https://www.scmp.com/business/banking-finance/article/3370506/beijing-moves-steady-share-market-after-sharp-tech-sell)
+
+- **BBC**
+  - [The warning signs that you're getting bad debt advice](https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo)
 
 - **CNN**
-  - [After oil increasingly left the Gulf, Iran is trying to regain its stranglehold on shipping](https://news.google.com/rss/articles/CBMie0FVX3lxTE43VjFQRFkxRVVwaTRiTHBubTY3M19MS1I2RFZsbWxHakhPUlNfc0Y5WVFvQ2xrY3FaSTAycE1sVmU3QXhnZ1RRTGlndVNPX3MyVVplNXllaFpGN1F6MjMtUnkzRl9JVDNCcWhyaVhOc0otM3lsbXZuWGljYw)
+  - [Buried bodies, cleared rubble, Israel’s yellow line: How war is hampering the search for Gaza’s missing](https://news.google.com/rss/articles/CBMijgFBVV95cUxQbW1Edmt1SVZfRlNPUmoxVzIwdm5tS2ZLN0s3LVFmU0Vwd3hicGVnckJtQ0RTX2hMTTVSZ2dpX21OQXp5aW9TV05iTXliNWdzbkt2ZTVwV2pLNE84YW5PNE9faFlBOXBlSl8ydnZxNW1xX1F3RDl3dGIzUmRaU29PRS1xaUNEOVZBWV9TdVVn)
+
+- **Al Jazeera**
+  - [North Korea fires multiple ballistic missiles towards the sea](https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea)
 
 - **WSJCN**
-  - [十年期美债收益率逼近5.4%，AI光环难掩标普500"虚胖"隐忧](https://news.google.com/rss/articles/CBMiU0FVX3lxTE11dzRkbVlpWHpaU3B5X2QtS1FHR2JfYzJ6bFNvOGFWdkVGTmY1RWhtMVI4TElnM0d0Wmsyc3k2NE10OTNkQmFNQTg4QXd4UkEwUnZj)
-  - [期限溢价飙升，华尔街从美债的最新抛售中看到了不祥之兆](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKTmV3dTlsSjFuNGd5Ulh4WXpBel9zQ2Z3Q0V2dm1BMHNyd2hEOFRBMW8wcmtxRzlYZnM3YXU5TGpVWk9WalktYWdKY1p4S2RkWVEw)
-  - [美国市场叙事“剧烈反转”：从“AI通缩论和美债可控论”转向“AI挤爆债市、贝森特控不住长端利率”](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SNmtmb2dCSVlWYnF3WkdKeGF2NG50c1Jtc1l2UFhvNVpQTVpoT2RVUHNLYU81UmFNYndsUzY2Qzh1dHZ1aTVKWkJvd1FEUWVaYjJv)
-  - [花旗：法国财政风险或令欧央行12月后暂停加息，欧元料跌破1.10](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFMHJhSFB0UDNJNVg4QnczcndlVDdSazE2Q2wwc3ExS0xETkxtYk1wUjRjSldNb2pPSzJhQ0ZaUS1leEtmekhDU1V4Q1RuTHU3ZVBZ)
-  - [美10月消费者信心指数初值降至五个月低点，经济现况指标创历史新低](https://news.google.com/rss/articles/CBMiU0FVX3lxTE55WkRYMUF5MzM3aFZWVHpfRVU3ZGZzdnhDbWFNZ3cyaURoOFAxX0RfVm1fcFhqbkpaOWlDUklwYUx2NE9CLWNxU2ZpVkdaU0ZXN3NN)
+  - [市场淡化中东风险，美股期货上扬，韩股收跌3.6%，油价回落，黄金小幅下跌](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxelphbXBaOWN5dHNTTVFjUG5nVThmZGlhT3dCZ051aFhJVS1XUFpVckxFem1lOHZZcWd2bXlxZ3kycEljTUROS1J5b3pfcUhhTkcw)
+  - [交易员押注韩国央行加息，未来六个月50基点概率70%](https://news.google.com/rss/articles/CBMiU0FVX3lxTE03LUo4cVpud2NIZnI5NDh1LU1nMDRvZnRlRC1hVW9Ua3FZdGxCa3AxUzBhRHJyeWhaZTNBQUc2cWlUVVo5Z0Fnam5LYXhfeHBSZmkw)
 
 - **Caixin**
-  - [中欧就混动汽车贸易达成谅解 未来四年中国出口如何削减一半？](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kU0lxZmpaSTlmTE1SNUdrekZFeVFrRFVtdHo3Q0lDenRSWmUzdldzUWh2MU9sZzJDbDdFMTBRbjZrTGNudG14SXVfbVdfWjNtQWZ0V3ViY2lFYmlGQzk2cWlSMmZwSVU)
-  - [财政部下达5500亿元地方债结存限额 支持县区财力和扩大有效投资](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1neHBWakw2ZjhSelVNMnVHT2FVckFocWJYZ0VhLUU3X0cwdE9qZ21vLXJwUU1vNUtjM2lHTmVqaU9pdlNucG0zeUItSWxMREhiVHRzMERwYnJEbFV4b21sYXl3)
-  - [特朗普突宣布美国将自俄进口柴油 批评者质疑会助长俄战争经济](https://news.google.com/rss/articles/CBMiakFVX3lxTE0tT242YWtYRWtnQXpLaDU3WjlSY2I1MXBjWjdmT25ZVDNhNzlFNmpIVWI4Tlcxb0s3cThMWGZjNUtHSkt4TTJBcjQ1WVVVNlhFVGJhN2ZOLWppZ24xaWVvOEp0QmpNaHVPS1E)
-  - [瑞银最新预测金价：今年12月达到4600美元，2027年3月5000美元，6月5200美元，2027年9月达到5400美元](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1RNkFvaDFIeVVzVkE0QjZOTGJ0ZzNfOEVoR2UtNkxnWG5GRXBKdW4xU09EVjQzZTJ4bm15dFRnYzFTNm5SektrWDhZRkdncjVlWHBGcEZKR0tGem83dkE)
-
-- **CCTV**
-  - [财政部安排使用5500亿元地方政府债务结存限额](https://news.google.com/rss/articles/CBMieEFVX3lxTE42V2NnYWZRRWpfMmljVmhOcjhMZVZ3SHRTR1pnNC1zQnprdC04RGhMMW9KbnNILTdfdW1uelRqNlFoeTRfMHcxaWRMcFQ1aDRKNTF5Y0NDNkFSZUV2ejVHclpZbDM2LVI3dFFtelBBUzNfNUtHLVJfbQ)
-  - [财政部：将实施更加积极的财政政策 加力扩大内需](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcVBraGdYVDhUQW9ELWx5eG5ZUmozNHVTQ0hZVnJoU3JJQnhYa25qUkNqQjMyaWdZeHlvSFJvZGUtay0zMFdJXy1nMHFjVkJocmg2bzIxTnRVR0QyZ191U1prWV9DbDlfRGhGVWtldDZWb3lVeFpmTkluaWctSGl5OGEtQ2xvZlFESWkxWVA1SVJkdmE2STY0a0FtV1lMT0swNFY0U0hwbFZRY0Vt)
-
-- **HKEJ**
-  - [港股市底續弱 兩萬四關橫行](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNTGZIRGVjZU52dzgxRnByeVJBcVc0UTJweXBRS0ZiLXJ1M2pwRGF5Wl9NcGtpZlJYN2VaWGdqYUJQakdNcHZOSVVNdEIwcmxwdGJmcUtzM0huM3RqRGVpbk80eE1HbWFoamxGYnBFZWhjSVdrcXplazNIMG9jZXlhWmdWVzJyM1FZTG9HanlyQmJ6RXEydkRuRVFtTEhySDFyMnRUTmJSRjJuY3l4dTFQaHlrTkVFY29DdjdyeERzX1VwY21USDlqcGNtTm9lbF9od1h2YUZOcDVlM185R0FGMmxFWmpQeHA3U05DM0lEbUJlampLV0dFTEZaVTM)
-
-- **Investing_Forex**
-  - [Dollar gains for fourth straight week on Fed rate outlook](https://www.investing.com/news/forex-news/asia-fx-muted-dollar-heads-for-fourth-straight-week-of-gains-4940141)
+  - [欧盟将把中国混合动力汽车进口量限制在每年35万辆](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBaTVJRenlrNWlkbjllUjA1V2ZndWN6d1BLY0NGZzBSZG5kcVZNbjNkNm9GaWVqN0Z3SFkwTTd2V0o3VktralZ6dGQ0Zk9ZYnVJVjN1Z1NiNHVEeEdVV18wSzhaZw)
