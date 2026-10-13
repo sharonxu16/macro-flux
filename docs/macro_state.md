@@ -1,22 +1,22 @@
-# Macro State — Last updated: 2026-10-12
+# Macro State — Last updated: 2026-10-13
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Korea peninsula risk and BOK repricing** — Status: New; North Korean missile launches plus KOSPI `-3.6%` and BOK hike bets concentrate pressure on KRW and Korean equities; next trigger: further Pyongyang launches or BOK official guidance.
-- **India rupee defense and EM FX stress** — Status: Confirmation; RBI draws line at `97` and opens `$10bn` monthly refinery window, supporting INR against broad dollar pressure; next trigger: rupee open Monday and RBI follow-through.
-- **China-EU trade detente with lithium demand hit** — Status: Acceleration; annual hybrid import cap of `350,000` units triggered a `10%` lithium slump; next trigger: formal EU implementation details and commodity close.
-- **Middle East escalation and energy supply shock** — Status: Confirmation; Houthi attacks persist but markets partly looked past near-term energy risk due Russia-Ukraine energy ceasefire talk; next trigger: new strikes on energy infrastructure or Gulf shipping advisories.
+- **Middle East escalation and energy supply shock** — Status: Acceleration; Saudi airport strikes and unresolved Hormuz talks sustain oil and refined-product risk premium; next trigger: Iran formal reply on US Hormuz proposal or new Saudi energy infrastructure attack.
+- **China-EU trade detente with hybrid cap and NEV rebate tightening** — Status: Confirmation; formal hybrid import cap and China VAT rebate cut shift trade exposure from tariff shock toward managed limits; next trigger: EU December trade initiatives and Beijing implementation response.
+- **India inflation and RBI tightening** — Status: Confirmation; September CPI at `5.54%` backs further RBI tightening and rupee defense; next trigger: rupee open and RBI follow-through.
+- **Higher-for-longer DM yields and hawkish Fed messaging** — Status: New; Fed Hammack warns on inflationary mindset while BlackRock shifts toward short bonds and downgrades stocks; next trigger: US CPI and bank earnings this week.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- Further North Korean missile launches or BOK official pushback on hike pricing.
-- Formal EU implementation of the hybrid cap and Chinese lithium price close.
-- Rupee open Monday and RBI defense around `97`.
-- US September CPI and 10-year UST response near `5.4%`.
-- New Houthi strike on oil fields, ports, refineries, or Gulf shipping; Hormuz transit advisories.
+- Iran formal reply on the US Hormuz response and any new Saudi energy target.
+- EU December trade initiatives and Beijing response to tighter NEV export rebates.
+- Rupee open and RBI follow-through after India CPI.
+- Singapore MAS Monetary Policy Statement on Oct 14.
+- China CPI and PPI release on Oct 14.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will North Korean missile activity persist and widen Asia FX and equities underperformance?
-- Will China-EU auto trade limits trigger broader commodity and industrial demand repricing?
-- Will RBI measures hold INR below `97` if DXY extends gains after US CPI?
+- Will Houthi and Saudi escalation broaden to energy infrastructure and sustain the oil risk premium?
+- Will China-EU trade detente hold if Brussels extends measures beyond autos?
+- Will India food and energy inflation force faster RBI hikes and test INR defense?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- USDINR `97` — cited by BBG as the RBI’s line in the sand for rupee defense.
+- WSJ Dollar Index `97.58` — cited by WSJ as rising `0.21%`; matters as a broad USD pressure gauge for Asia FX.
