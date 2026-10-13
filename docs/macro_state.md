@@ -1,22 +1,24 @@
 # Macro State — Last updated: 2026-10-13
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Middle East escalation and energy supply shock** — Status: Acceleration; Saudi airport strikes and unresolved Hormuz talks sustain oil and refined-product risk premium; next trigger: Iran formal reply on US Hormuz proposal or new Saudi energy infrastructure attack.
-- **China-EU trade detente with hybrid cap and NEV rebate tightening** — Status: Confirmation; formal hybrid import cap and China VAT rebate cut shift trade exposure from tariff shock toward managed limits; next trigger: EU December trade initiatives and Beijing implementation response.
-- **India inflation and RBI tightening** — Status: Confirmation; September CPI at `5.54%` backs further RBI tightening and rupee defense; next trigger: rupee open and RBI follow-through.
-- **Higher-for-longer DM yields and hawkish Fed messaging** — Status: New; Fed Hammack warns on inflationary mindset while BlackRock shifts toward short bonds and downgrades stocks; next trigger: US CPI and bank earnings this week.
+- **AI and semiconductor positioning unwind** — Status: Acceleration; crowded chip and tech exposure is repricing risk across Asian equities and EM currency gauges; next trigger: stabilization in Samsung, SK Hynix, Micron, or ASML.
+- **Middle East energy supply premium vs Russian diesel** — Status: Reversal; oil retreats despite fresh Houthi strikes as Russian diesel supply prospects offset Gulf risk; next trigger: Iran formal Hormuz reply or Saudi energy infrastructure attack.
+- **China financial opening and managed detente** — Status: Confirmation; PBOC clears Visa for local clearing operations ahead of Trump-Xi summit; next trigger: Visa operational filing and summit signals.
+- **India rupee defense and RBI follow-through** — Status: Acceleration; rupee jumps after official currency-defense measures; next trigger: USD/INR follow-through and RBI communication.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- Iran formal reply on the US Hormuz response and any new Saudi energy target.
-- EU December trade initiatives and Beijing response to tighter NEV export rebates.
-- Rupee open and RBI follow-through after India CPI.
-- Singapore MAS Monetary Policy Statement on Oct 14.
-- China CPI and PPI release on Oct 14.
+- Samsung, SK Hynix, Micron, and ASML price stabilization or further breakdown in global tech trade.
+- Iran formal reply on the US Hormuz response and any new Saudi energy infrastructure strike.
+- Visa preparation progress and Trump-Xi summit pre-meeting market-access signals.
+- Singapore MAS Monetary Policy Statement on Oct 14 at 08:00 HKT.
+- China CPI, PPI, and trade data on Oct 14 at 09:30 and 11:00 HKT.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will Houthi and Saudi escalation broaden to energy infrastructure and sustain the oil risk premium?
-- Will China-EU trade detente hold if Brussels extends measures beyond autos?
-- Will India food and energy inflation force faster RBI hikes and test INR defense?
+- Will the AI and chip rout deepen into broader EM FX and force Asian central bank responses?
+- Will Russian diesel supply materialize enough to cap Brent despite unresolved Hormuz risk?
+- Will China financial opening momentum broaden beyond Visa into further US market-access concessions?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- WSJ Dollar Index `97.58` — cited by WSJ as rising `0.21%`; matters as a broad USD pressure gauge for Asia FX.
+- Japan September producer price index `6.8%` y/y versus `+7.6%` forecast ([BBG](https://www.bloomberg.com/news/articles/2026-10-13/japan-s-producer-prices-cools-indicating-room-for-boj-to-wait)) — matters for BOJ hike timing.
+- IMF 2026 world growth forecast `3.1%` ([CCTV](https://news.google.com/rss/articles/CBMieEFVX3lxTE9IcGdGV3hDcWxXUmVOSGtJaVZYb3p1VFJRM1VTS08xZWdIVXJYaTV3Ulk3LVpmellkaFlQNHFjV2RIeWlKYzVWUW1hRDVrRk5WNW1TMENGQXZFWUZXWG9qYzA4eGJWMG01bFhFVkhSa2NJZ1NwUFJ4dw)) — matters for global growth and policy pricing.
+- IMF 2026 China growth forecast `4.5%` ([Caixin](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHWXhWNFBSeXA5MW5YWTZDeWp6bjZqb3ZiVFVYU2lXZ3Z2MzZFX2VncmowdkpRVG90Q0ctaGwxUVhMS2swdEM5YVJqSFF1dHJFdU84dEFNNUEyeUJUMXR3YVh3)) — matters for China stimulus and CNH policy bias.
