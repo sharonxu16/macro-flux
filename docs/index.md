@@ -1,85 +1,82 @@
 ---
 tags:
   - Macro/AI_Selloff
-  - Macro/China_Financial_Opening
-  - Asset/UST
-  - Trade/Long_UST
-  - Trade/Short_KRW
+  - Macro/Hormuz_Blockade
+  - Macro/Fed_Policy
+  - Asset/KRW
+  - Asset/Brent
 ---
 
 <div align="center">
 
 # 🌊 Macro Flux
 
-<small>Oct 13 8AM to Oct 13 5PM HKT</small>
+<small>Oct 13 5PM to Oct 14 8AM HKT</small>
 
-<small>Good afternoon.</small>
+<small>Good morning.</small>
 
 </div>
 
 ---
 
 > [!abstract] Overview
-> Afternoon price action shifts the macro center of gravity from energy geopolitics to the AI and semiconductor complex: Asian equities slip to a two-month low as chip names fall, bonds find bids, and broader EM currency gauges soften. Oil retreats intraday despite fresh Houthi fire at Riyadh's airport, as the prospect of more Russian diesel supply offsets Gulf disruption risk. China's PBOC approval for Visa to establish a local clearing entity signals further financial opening ahead of the Trump-Xi summit, while the IMF lifts 2026 world growth but trims China's outlook. India's rupee jumps after official currency-defense measures are unveiled, adding to divergences across Asian FX. The cross-market thread is a rotation out of crowded AI and tech positioning into duration and defensive assets, with China policy signals and oil supply ambiguity tempering but not reversing the risk-off tone.
+> Risk appetite has split into three fast-moving repricing channels. The global AI trade is cracking, with Nasdaq futures and Asia chip names sliding after Broadcom warned of a "casino" mentality in AI investing, while Samsung and SK Hynix drag Kospi lower and pressure Korea/Asia FX. The Middle East supply premium re-accelerates as Houthi missiles hit Aramco headquarters and ships in the Strait of Hormuz see the worst spate of attacks since the war began, though Russian diesel supply prospects keep crude's reaction mixed. Fed speakers keep a 2026 hike in play and Williams pushes back on 2027 tightening. BOK offsets some regional risk by endorsing further won gains and tight policy. The cross-market thread is a simultaneous stress-test of crowded AI positioning, energy-transit risk, and central-bank reaction functions into today's US CPI, Singapore MAS, and China data.
 
 ---
 
 ## 🔬 Narrative Watch
 
-### 📌 AI and semiconductor rout drags Asian equities lower
+### 📌 Middle East escalation and Hormuz chokepoint
 
 **Fact**
-Asian stocks hit 2-month low on AI jitters, bonds find favour ([Reuters](https://news.google.com/rss/articles/CBMihAFBVV95cUxOZDZBM1pYcUNfelRkWE5NNC1Ja0laMUZPTm5Yei0wWGVpV3BVR3RVNDh0cHQ5ZXRDTFJpdm1wNU8wRTlkN3A2aE1LeEt2dEctUmREeXBRajEzUG1tNXc1YUxqV2ttOUFRS1pPRWhiZnJNd184SDJRV1QyVWJlMGJ4NndIZnU)). Asia Stocks Battered as Semiconductor Stocks Dive ([WSJ](https://news.google.com/rss/articles/CBMirAFBVV95cUxNVk5uUzN5NzdZNkh6U3AtRFNyMzQ3WU9vcTJNdmJCMW9FUVZJOVltaEFMS1FFUnduSHJOTUctYzlCVnJKdmF0WkY0ZEVyWFlpVzRrZDA4c0N4c0JVTFRJSUFJWVg5RWJialRCMXdOVlNIWWRQcW1WTmtWak5DcE4weGFqNnE1SFlPcVdlenMwM3VXdTUzQTFkczZtdTFZTnBrVnplVDhEVVZkajBw)). Chip stocks slide in wake of ‘casino’ comment by Broadcom boss ([FT](https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63)). Declines for Samsung and SK Hynix drag Kospi sharply lower as investors fret over scale of AI investment ([FT](https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63)). Technology stocks tumbled Tuesday as a sell-off in U.S. semiconductor shares spilled into Asian and European markets ([CNBC](https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html)). AI selloff drags emerging stocks down, weighs on currency gauge ([BBG](https://www.bloomberg.com/news/articles/2026-10-13/ai-selloff-drags-emerging-stocks-down-weighs-on-currency-gauge)).
+"Oil rises as Middle East attacks increase uncertainty over flows" ([BBG](https://www.bloomberg.com/news/articles/2026-10-13/latest-oil-market-news-and-analysis-for-oct-14)). **Saudi Aramco HQ attacked in suspected Houthi strike**, with Iran-backed militants retaliating after a Riyadh-led coalition targets sites in Yemen’s capital ([FT](https://www.ft.com/content/a25417b3-d4e4-4b89-b14d-6370a85ce3c4)). **Aramco headquarters hit during Houthi attacks on Saudi Arabia** ([BBG](https://www.bloomberg.com/news/articles/2026-10-13/aramco-headquarters-hit-during-houthi-attacks-on-saudi-arabia)). "Ships in Hormuz strait hit by worst spate of attacks since start of war; **twenty-four tankers and other vessels targeted by Iran in two weeks, including six on Sunday alone**" ([FT](https://www.ft.com/content/a4ab83d4-81b5-4336-9569-a0708b41e894)). "Oil prices were little changed as investors assess potential supply disruptions against prospects of more Russian diesel entering global markets" ([CNBC](https://www.cnbc.com/2026/10/13/oil-prices-today-brent-wti-hormuz.html)). "Oil futures settle mixed as diesel’s rise helps lift WTI" ([WSJ](https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ1hTLXpTWFludEh1ZFJGRW9SMjZyZm03clBiRXJfV2JROVNLRUlwSGlIUWVBeVU2Wm5BRDVkUmhaUDBRZHBKbkhCRFBRV3BjOHZSVnAwYXZJcHhPano4Ui03eDlJTGkwMWlzYTU3STcxeUxoOG5pSlN4UTE2YnZ5cF9taWtBdGRWN2pnbElPY3ZBakJRSXhzeFRtWXpDVUtvUURkeHhYbEhtX3VKRXc)). "The Iran war is costing American households $2,000 each, Moody’s estimates" ([CNN](https://news.google.com/rss/articles/CBMifEFVX3lxTE5URThOcldKbDAzVkFoX2IxZThObUpOSGVEbmZrNFBzZ252QWE2YzZ4dXNVQkJYenRIdGxiR3hEMVhwSzJZXy1rTHdGMG9CS0U3NlFMVXVVTmFwdkw2NG41YU9yb0pOQlFOQXVFODRDVElrUTVqZXJodTJoSzI)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: New because crowded AI and tech positioning unwind was not in the prior macro state; Broadcom commentary accelerates equity risk-off.
-> * **Transmission / Market Read**: Risk-premium and capital-flow channel; favors **long UST** and **short KRW** while chip leaders fall.
-> * **Watchpoint / Confidence**: Stabilization in Samsung, SK Hynix, or Micron would mark risk-on; Confidence: High across Reuters, WSJ, FT, BBG and CNBC.
+> * **Narrative change**: Acceleration because physical escalation worsened while prior state had oil retreat on Russian diesel, now Aramco HQ and tanker attacks hit commercial transit.
+> * **Transmission / Market Read**: Risk-premium and inflation channel; favors **long Brent** and **short KRW/TWD** on energy import shock, capped by Russian diesel.
+> * **Watchpoint / Confidence**: New Saudi energy infrastructure strike or formal Hormuz disruption confirms higher premium; Russian diesel flow normalization fades it. Confidence: High.
 
-### 📌 Oil retreats despite fresh Houthi strike on Riyadh
+### 📌 Global AI/tech selloff
 
 **Fact**
-**胡塞武装再袭利雅得机场致1死11伤** ([Caixin](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SRnhrRklCWkxBY1QycFhtWkdFXzlMWmx0REVhYndWYk1oMnU0Q0NTUzQxYVhHeUV2Y2NMVDU4RWlXdThsVDJnSHdhbHloMzZaY09HcTNYMk9Nd3J0RGdCMkZmcTI)). Oil retreats as Russian diesel supply prospects counter Gulf supply risks ([Reuters](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa2sxWTVlekZ2bXloVXNiOUltMm5iODVOMW9NTUo4Q016ZU02OFQ5TU9relFTcUZSaW8xV0c2YmNVbE5jWW5uQjhKeXNKaWxBcE92SU1fQUU0R2RVamdNUzRhTER3NzEzMFUtRVd3bzVnZ1g0ZmtRek95VHdYbVNNMmNacmlDd3dLTThmaGF2VVJDYTc4c1hQeUZfX0ZGQzZjTXlpLU52U3JuUGpjOHJjWndoS19LandSX0dtMmdUMzNKZw)). Oil prices fell as investors assess potential supply disruptions against prospects of more Russian diesel entering global markets ([CNBC](https://www.cnbc.com/2026/10/13/oil-prices-today-brent-wti-hormuz.html)). Oil Falls as Traders Weigh Gulf Risks, Russian Diesel Supply Prospects ([WSJ](https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ1hTLXpTWFludEh1ZFJGRW9SMjZyZm03clBiRXJfV2JROVNLRUlwSGlIUWVBeVU2Wm5BRDVkUmhaUDBRZHBKbkhCRFBRV3BjOHZSVnAwYXZJcHhPano4Ui03eDlJTGkwMWlzYTU3STcxeUxoOG5pSlN4UTE2YnZ5cF9taWtBdGRWN2pnbElPY3ZBakJRSXhzeFRtWXpDVUtvUURkeHhYbEhtX3VKRXc)).
+"Brutal session for chip stocks shows AI trade is turning" ([Reuters](https://news.google.com/rss/articles/CBMimAFBVV95cUxPM1RJWWJHTmtIMnhaYWVyeFFpYV8wZndZMUFOVXM2NkpJdUNfRGlyQzdHeVcwMXkxcXkyWFFZQ3hXS3RpM0NqZUtNcmxNd3NkSGZETmlvTjRRYjJ3X3BXa0FEamh0NDExSTZieGRHam9BdFBiZXdOcTBSUXRPNlFEeTVKOEtkN3JiV25QUEsyekp0OTJRaU5nVA)). "US chip stocks extend slide as China memory report, AI spending jitters hit sector" ([Reuters](https://news.google.com/rss/articles/CBMixAFBVV95cUxQdjlLc0J0QjMyZmZRZWM1SldodnE0RV8xUWN0S0EzdUtWX1VjNXRiTVRKdDJQQVNkNkNadU50bGFueTItd3V0Zk43aFRiV2xsMVdCS1lFbFh3TVI3b05yd253VjBLSWdlYmwyb3VIOFBLQm5VbFRlR1ZQczRlekUyWHNOMjUwdmhvMXA2MWl1UUp6aDFydkZRZWdjUzZnRUR2NXAteDNMZS1zdDNUWm1HRVBxYlo3TXh6ZGZKT1lNOXFHUjBp)). "Chip stocks slide after Broadcom boss warns of ‘casino’ mentality in AI investing" ([FT](https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63)). "Declines for Samsung and SK Hynix drag Korea’s Kospi sharply lower as investors fret over the scale of AI investment" ([FT](https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63)). "Nasdaq futures fall as global AI selloff intensifies" ([WSJ](https://news.google.com/rss/articles/CBMinAFBVV95cUxNaV9QVFVsbXRmd3pZTmU1SjAtTnJNT2ZoZ1QyUUpJUWc2eG5YS1lDaTA1bEZoc21DWUxTWTBOd1UtWE5wcDgtNklJMzM5VWhhTkdyV3JCVVJrVU9YY1ExaklxLU9sOHFvX1pkT2o0cVJkZ3dTbnBtT1VfdnZ3Qm43VUF0dWR2OXY3X0RiTGNhWC0wV2JqdF9VazU1UDI)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Reversal because the morning oil bid retreats on Russian diesel supply despite a fresh Houthi airport strike.
-> * **Transmission / Market Read**: Energy-inflation channel; oil retreat favors **long UST/gilts** and relieves pressure on oil importer FX.
-> * **Watchpoint / Confidence**: Iran formal Hormuz response or Saudi energy infrastructure hit; Confidence: Medium due conflicting supply signals.
+> * **Narrative change**: Acceleration because active AI/semiconductor unwind extends from prior brief into Kospi, Nasdaq futures, and US chips in the same session.
+> * **Transmission / Market Read**: Risk-premium/capital-flow channel; tilts risks toward **Asia tech underperformance** and **KRW/TWD weakness** until chip names stabilize.
+> * **Watchpoint / Confidence**: Stabilization or further breakdown in Samsung, SK Hynix, Micron, and ASML over the next 24-72 hours. Confidence: High.
 
-### 📌 PBOC clears Visa for China card clearing operations
+### 📌 Fed speakers repricing 2026 vs 2027
 
 **Fact**
-The People’s Bank of China on Tuesday gave its approval to Visa to make preparations for a locally registered bank card clearing organisation, calling the move a major step in the country’s financial opening up in an online statement ([SCMP](https://www.scmp.com/economy/policy/article/3370674/china-approves-locally-registered-bank-card-organisation-visa)). The US card payment giant will have one year to finish its advance arrangements, after which it may submit an application to begin operations, the central bank added ([SCMP](https://www.scmp.com/economy/policy/article/3370674/china-approves-locally-registered-bank-card-organisation-visa)). With a local clearing organisation, Visa would be able to settle domestic yuan transactions directly with its own network ([SCMP](https://www.scmp.com/economy/policy/article/3370674/china-approves-locally-registered-bank-card-organisation-visa)). The incremental approval comes as the U.S. and Chinese presidents are due to meet for a third time this year next month ([CNBC](https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html)). US payments giant has sought market access for more than a decade ([FT](https://www.ft.com/content/6c5ee2f8-a26c-4655-9389-f877bb5b42db)).
+"Asian stocks to gain on signal for fewer Fed hikes" ([BBG](https://www.bloomberg.com/news/articles/2026-10-13/stock-market-today-dow-s-p-live-updates)). "Federal Reserve Bank of New York President John Williams said one more increase in interest rate" ([BBG](https://www.bloomberg.com/news/articles/2026-10-13/fed-s-williams-interview-with-bloomberg-news-full-transcript)). "Williams says Fed may not have to hike rates in 2027, at odds with traders" ([CNBC](https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html)). "Federal Reserve Bank of Boston President Susan Collins says interest rates will likely need to rise more before the end of the year to help rein in inflation" ([BBG](https://www.bloomberg.com/news/videos/2026-10-13/fed-s-collins-says-rates-will-likely-need-to-rise-more-video)). "Fed's Collins sees another rate hike on the table before end of 2026" ([Reuters](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQTNoWUtZWjdLcTc2ZmNycnptRmR1cmluWThZU2ZTYU5JUkdaazY1Z2hEdjIxNWZ3VU5RSVZvejc3VnlueGZoN0JyNlNmdkptQk9ZNEZqU1MyLTNUblpOaF9FMkdGbnZhX1hTVllLTzYxNFEwamlyazZKem00N1k1UFBablNQSVRCZTgySWNNR3pHemxzSEl1S0VBeE1DQlYyS0Ntdw)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Confirmation because China financial opening extends the China detente narrative into payments infrastructure.
-> * **Transmission / Market Read**: Capital-flow and policy channel; supports **CNH stability** and **Chinese financial sector**; lowers US-China tail risk.
-> * **Watchpoint / Confidence**: Visa completes preparation and files application; Trump-Xi summit signals more concessions; Confidence: High.
+> * **Narrative change**: New because explicit Fed communication distinguishes one more 2026 hike from no 2027 hikes, contrary to traders.
+> * **Transmission / Market Read**: Policy/rates channel; supports **long UST duration** and **short USD** near term, while retaining 2026 front-end hike premium.
+> * **Watchpoint / Confidence**: US CPI at 20:30 HKT Oct 14 validates or breaks the no-2027-hike pricing. Confidence: Medium.
+
+### 📌 BOK governor backs won gains
+
+**Fact**
+"BOK Governor Backs Further Won Gains, Vows to Keep Policy Tight" ([BBG](https://www.bloomberg.com/news/articles/2026-10-13/bok-governor-backs-further-won-gains-vows-to-keep-policy-tight)). "Bank of Korea chief says monetary policy to stay restrictive for now" ([CNA](https://news.google.com/rss/articles/CBMiqwFBVV95cUxONXM5b3BrR204bm5YU0owRWVCRUlnTDVyYkRBNW54ZUNqQW1aZFBKeVlRQ1JuZDB2WlRxVUYzN25ZeC1rYkxFUFE5M2w4aTlRczZjdkdac2xURTlkQkI4WlZNR2VmcndNZFpSV0VocFhpU3QyQzZMSGJrejV0bk9zYjBObzNuZ3BXRl9lNDFuVHcwZFozNkxtOUM5TXVEbm9QcVFiS0E3eHZ3b28)).
+
+> [!info] [AI Reasoning]
+> * **Narrative change**: New because BOK explicitly endorses further won appreciation and tight policy, diverging from regional risk-off pressures.
+> * **Transmission / Market Read**: Policy/capital-flow channel; favors **long KRW** and **short USD/KRW** on policy signaling, tempered by commodities war risk.
+> * **Watchpoint / Confidence**: USD/KRW follow-through and further BOK verbal or actual intervention in next 24-72 hours. Confidence: Medium.
 
 ---
 
 ## 🌍 Global Radar
 
-### 📊 Economic Indicators
-- AI boom bolstered growth in global trade, benefiting China and India, IMF says ([Reuters](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeVFzV2hGZjBlUUFETjhBYmxjM2pPNkFfS0dxTFlKUm5fRnJUQm9sYjBoNGhCNldSX2tlTGxwTWtRbG94cUdYVkhKZkZCZGRabTFtMWhyMHZfUFZmUjcwaUlTRzFCOE04MG81aWtjbHZfNGNsY1Q0M01oOFp3NFE4eFlodW1jd2tsaVNNYTgyUFlwX3d5b1hMaFU3Y19QVFVkYXZ6Q3YzMVYzZlYzV2NnLXNlZnQxREpOXzhVd1BPM2g3QQ)).
-- Middle East and Central Asia’s economy to shrink in 2026 amid war, IMF says; Iraq, Bahrain, Kuwait and Qatar face double-digit declines in GDP ([Al Jazeera](https://www.aljazeera.com/economy/2026/10/13/middle-east-and-central-asias-economy-to-shrink-in-2026-amid-war-imf-says)).
-- . Japan's wholesale inflation remains elevated, keeps alive BOJ rate-hike view ([Reuters](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV3hkUE0tV0pBM20wbEUtQTFuM011aHFUTWVPRDI3VEJ3d2lPaTRzNW1iYl9UeGRMaVE4VjhkWEV2OF9rVkxmMFZBd0FXMElhYVNoYkN3UFBBdnJ1b0RlRmliQ1ZZYzBpcDN0ZFhnYVl3dThzRHp6aXBSdGp3M0J2bW9wa3RELWQ0RTBmeXhDVkNjV0NVMUwyYlNjUWRrdkc4YjczQVRBYXVZMmhCZEFSdFMzZmdHZFFxaS1NbTBGaXF4Z2NJcjB6Zw)).
-
-### 🏦 Central Banks
-- **Fed** — Fed’s Waller Says Higher US Yields Could Help Cool Demand ([BBG](https://www.bloomberg.com/news/articles/2026-10-13/fed-s-waller-says-higher-yields-could-help-fed-cool-demand)).
-- **BOE** — BOE’s Greene Says UK Growth Upgrade Is Proof Rate Hike Needed ([BBG](https://www.bloomberg.com/news/articles/2026-10-13/boe-s-greene-says-uk-growth-upgrade-is-proof-rate-hike-needed)).
-- **India** — Rupee Jumps After India Central Bank Unveils Currency-Defense Measures ([WSJ](https://news.google.com/rss/articles/CBMiugFBVV95cUxObjRfQjhMOXN6M3FfdUtlSWFzaFVpU1JuNjVDdkdTTzJlNkQzRHpfQUdrLW5oNHN0b1c1WXBxWnlRZzRDTXlkT3cwVDdnYVBpR2JoemZXV0toVGZBWmpCeEg0MktXWHFLNGZRdk83NkZzNGw4Y3BrdDdhaEx5Wk5pbGRrQ0JwcmhyWldqUU5tSEwwY0dVcDBrcUxoSmxoeDNFWXo3LXpBcTQxbVVYVGZxVFRJaDlFSmowWGc)).
-
 ### 🌐 Geopolitics & Policy
-- Iran Is Fortifying Nuclear Sites and Rallying Its People for a Return to Fighting ([WSJ](https://news.google.com/rss/articles/CBMixwFBVV95cUxQMTkwZW9nLXl1eWlMQlZFd0oxTU40NEhlT1hJbDdhaGRpc3IyWkl4YzhPa1AzelhJNDRSVGdNT2x5akdidldLdklIVkRmYTE5ckhsQmxGR3Y2ZmdXUlJQZHBXMFA0cElkWlBKU19yaTQ1QUVFZjJobk8zckw0Z1lCWlM5YWhoSmRUckNMMW0xNVdCbUhiSEwzVlVIR0d3TDJaUy1Lc2UxTFpPZWIxX3dPTUJ3LWF4bTFmUVRxSVdZeHpSZkZwTVJF)).
-- Pakistan’s hard choice on Saudi Arabia’s war in Yemen. Defence pacts and financial reliance on Riyadh give Islamabad little leeway to avoid Houthi conflict ([FT](https://www.ft.com/content/7da76744-99d0-43b0-8682-b927a82096f7)).
-- Trump says he does not believe China and Russia are helping Iran 'at all' ([Reuters](https://news.google.com/rss/articles/CBMitgFBVV95cUxQaHZ3WXAyQzZiQXZBZmJ1aEV2WUZMcXA4bHlyNml3LUd5MG1GWjNJSFIyUnhycktZc1ZHZXVPMERsaEs1YzZEX3FtT1JwOERaMUtCY0RkYUZVQzhWWnIzLU45TXVLWUk4RnFaaU53X1VxVVNaOVVqaHpaeTdMRkFfS0h5aTFVaERIcEQ4S2xsTFJ0MVpHa093b1RmYjZPaV9DRTBGMkRLUWN2djRTSGtKVU1uUFBGZw)).
+- "Drones struck two ships in the Black Sea off Bulgaria on Tuesday, sinking one and prompting emergency rescue operations, Prime Minister Rumen Radev said" ([SCMP](https://www.scmp.com/news/world/europe/article/3370741/bulgaria-seeks-nato-support-after-black-sea-drone-strikes-hit-merchant-ships-sinking-1)).
+- "Blackstone Inc. President Jon Gray and Federal Reserve Governor Christopher Waller said the fiscal strains in France are a worrying sign for governments that have been spending heavily, but those risks are less pressing in the US thanks to its much higher growth" ([BBG](https://www.bloomberg.com/news/articles/2026-10-13/blackstone-s-gray-fed-s-waller-see-warning-from-france-s-stress)).
+- "Iran is trying to hit military sites in the UK and the suspected plot to attack a US-run military airbase in September was 'not unique', the head of Britain’s MI5 spy agency said on Tuesday" ([SCMP](https://www.scmp.com/news/world/europe/article/3370774/mi5-chief-warns-iran-targeting-military-sites-uk-hostile-state-threats-surge)).
 
 ### 🛢️ Commodities
-- Sulphur scramble poses latest threat to global food prices. Deep-pocketed miners outbid fertiliser makers for scarce supplies of commodity used in production for both sectors ([FT](https://www.ft.com/content/e4ad9ed5-76e0-435c-a46f-6fe53ab1cedf)).
-
-### 📈 Equities
-- BofA Poll Shows Investors Most Exposed to Tech Stocks Since 2020 ([BBG](https://www.bloomberg.com/news/articles/2026-10-13/bofa-poll-shows-investors-most-exposed-to-tech-stocks-since-2020)).
+- "Freight rates for Russian Urals oil shipments to India hit fresh records in early October" ([Reuters](https://news.google.com/rss/articles/CBMiywFBVV95cUxNcVpHcU5oOWl3WUt1NFlQNi1Ld3JVQWI5Z0l3Z3p4UTFGSDdsMk5Yak5zdy16Z1NCcl9NMzBqbkgxaEdSLUtBSWVJWXQ5MnBiTzlDMXUyZE5iemFmQlJ2b3JlRWgxTlRMdnhHMVptZXhvMUtwMHZpb3IwM0VOZEUyLXpVenhqb2toWmJUdU9kQ25odHY2enA2a2xvd19mQ2U0WTVIVUlYa0kzYUdWYUVIaGtQSVdZY2pGVC15b2pEZlZhRDVteFVlOGFCOA)).
 
 ---
 
@@ -87,18 +84,8 @@ The People’s Bank of China on Tuesday gave its approval to Visa to make prepar
 
 | Time (HKT) | Rgn | Event | Est. | Prior |
 |---|---|---|---|---|
-| Oct 13 05:30 PM | DE | 5-Year Bobl Auction | — | 3.28% |
-| Oct 13 06:00 PM | US | NFIB Business Optimism Index | 98 | 98.7 |
-| Oct 13 08:15 PM | US | ADP Employment Change Weekly | — | 23.75K |
-| Oct 13 08:30 PM | DE | Current Account | — | €21.2B |
-| Oct 13 10:00 PM | US | Existing Home Sales | 3.96M | 3.98M |
-| Oct 13 10:00 PM | US | Existing Home Sales MoM | — | -2% |
-| Oct 13 11:30 PM | US | 3-Month Bill Auction | — | 4.050% |
-| Oct 13 11:30 PM | US | 6-Month Bill Auction | — | 4.165% |
-| Oct 14 01:00 AM | US | 6-week bill auction | — | 3.945% |
-| Oct 14 02:00 AM | US | Monthly Budget Statement | $-28B | $-167B |
 | Oct 14 08:00 AM | AU | Westpac Leading Index MoM | — | 0% |
-| Oct 14 08:00 AM | SG | GDP Growth Rate QoQ Adv | 0.9% | 1.4% |
+| Oct 14 08:00 AM | SG | GDP Growth Rate QoQ Adv | 1.2% | 1.4% |
 | Oct 14 08:00 AM | SG | Monetary Policy Statement | — | — |
 | Oct 14 08:00 AM | SG | GDP Growth Rate YoY Adv | 5% | 5.9% |
 | Oct 14 09:30 AM | CN | Inflation Rate YoY | 1% | 0.8% |
@@ -126,58 +113,59 @@ The People’s Bank of China on Tuesday gave its approval to Visa to make prepar
 | Oct 14 07:00 PM | US | MBA Mortgage Market Index | — | 204.7 |
 | Oct 14 07:00 PM | US | MBA Mortgage Refinance Index | — | 515.8 |
 | Oct 14 07:00 PM | US | MBA Purchase Index | — | 145.1 |
+| Oct 14 08:30 PM | US | Core Inflation Rate MoM | 0.2% | 0.3% |
+| Oct 14 08:30 PM | US | Core Inflation Rate YoY | 2.5% | 2.4% |
+| Oct 14 08:30 PM | US | Inflation Rate MoM | 0.6% | 0.4% |
+| Oct 14 08:30 PM | US | Inflation Rate YoY | 3.6% | 3.4% |
+| Oct 14 08:30 PM | US | CPI | 336.65 | 334.98 |
+| Oct 14 08:30 PM | US | CPI s.a | — | 334.131 |
+| Oct 14 11:30 PM | US | 17-Week Bill Auction | — | 4.105% |
+| Oct 15 02:00 AM | US | Fed Beige Book | — | — |
+| Oct 15 04:30 AM | US | API Crude Oil Stock Change | — | -2.09M |
+| Oct 15 07:50 AM | JP | Machinery Orders MoM | 3% | -3.7% |
+| Oct 15 07:50 AM | JP | Machinery Orders YoY | 15.7% | 11.2% |
 
 ---
 
 ## 📚 Full Reading List
 
 - **BBG**
-  - [AI Selloff Drags Emerging Stocks Down, Weighs on Currency Gauge](https://www.bloomberg.com/news/articles/2026-10-13/ai-selloff-drags-emerging-stocks-down-weighs-on-currency-gauge)
-  - [Japan’s Producer Prices Cools, Indicating Room for BOJ to Wait](https://www.bloomberg.com/news/articles/2026-10-13/japan-s-producer-prices-cools-indicating-room-for-boj-to-wait)
-  - [BOJ Is Said to Lean Against Back-to-Back Rate Hike in October](https://www.bloomberg.com/news/articles/2026-10-13/boj-is-said-to-lean-against-back-to-back-rate-hike-in-october)
-  - [Fed’s Waller Says Higher US Yields Could Help Cool Demand](https://www.bloomberg.com/news/articles/2026-10-13/fed-s-waller-says-higher-yields-could-help-fed-cool-demand)
-  - [BOE’s Greene Says UK Growth Upgrade Is Proof Rate Hike Needed](https://www.bloomberg.com/news/articles/2026-10-13/boe-s-greene-says-uk-growth-upgrade-is-proof-rate-hike-needed)
-  - [Chinese Refiners to Slow Inventory Drawdowns as Imports Pick Up](https://www.bloomberg.com/news/articles/2026-10-13/chinese-refiners-to-slow-inventory-drawdowns-as-imports-pick-up)
-  - [BofA Poll Shows Investors Most Exposed to Tech Stocks Since 2020](https://www.bloomberg.com/news/articles/2026-10-13/bofa-poll-shows-investors-most-exposed-to-tech-stocks-since-2020)
-  - [Indian IT Stocks Set for Best Day in 17 Months On AI Selloff](https://www.bloomberg.com/news/articles/2026-10-13/indian-it-stocks-set-for-best-day-in-17-months-on-ai-selloff)
-
+  - [BOK Governor Backs Further Won Gains, Vows to Keep Policy Tight](https://www.bloomberg.com/news/articles/2026-10-13/bok-governor-backs-further-won-gains-vows-to-keep-policy-tight)
+  - [Fed’s Williams Interview With Bloomberg News: Full Transcript](https://www.bloomberg.com/news/articles/2026-10-13/fed-s-williams-interview-with-bloomberg-news-full-transcript)
+  - [Fed’s Collins Sees Higher Rates Likely This Year to Tame Prices](https://www.bloomberg.com/news/articles/2026-10-13/fed-s-collins-sees-higher-rates-likely-this-year-to-tame-prices)
+  - [Fed's Collins Says Rates Will Likely Need to Rise More](https://www.bloomberg.com/news/videos/2026-10-13/fed-s-collins-says-rates-will-likely-need-to-rise-more-video)
+  - [Asian Stocks Rise on Fed Rate Signal, Oil Gains: Markets Wrap](https://www.bloomberg.com/news/articles/2026-10-13/stock-market-today-dow-s-p-live-updates)
+  - [Aramco Headquarters Hit as Houthi Missiles Strike Saudi Arabia](https://www.bloomberg.com/news/articles/2026-10-13/aramco-headquarters-hit-during-houthi-attacks-on-saudi-arabia)
+  - [Latest Oil Market News and Analysis for Oct. 14](https://www.bloomberg.com/news/articles/2026-10-13/latest-oil-market-news-and-analysis-for-oct-14)
+  - [Blackstone’s Gray, Fed’s Waller See Warning From France’s Stress](https://www.bloomberg.com/news/articles/2026-10-13/blackstone-s-gray-fed-s-waller-see-warning-from-france-s-stress)
+  - [Asia’s Coal Appetite Endures as Winter Looms and Supply Tightens](https://www.bloomberg.com/news/articles/2026-10-13/asia-s-coal-appetite-endures-as-winter-looms-and-supply-tightens)
 - **Reuters**
-  - [Asian stocks hit 2-month low on AI jitters, bonds find favour](https://news.google.com/rss/articles/CBMihAFBVV95cUxOZDZBM1pYcUNfelRkWE5NNC1Ja0laMUZPTm5Yei0wWGVpV3BVR3RVNDh0cHQ5ZXRDTFJpdm1wNU8wRTlkN3A2aE1LeEt2dEctUmREeXBRajEzUG1tNXc1YUxqV2ttOUFRS1pPRWhiZnJNd184SDJRV1QyVWJlMGJ4NndIZnU)
-  - [Oil retreats as Russian diesel supply prospects counter Gulf supply risks](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa2sxWTVlekZ2bXloVXNiOUltMm5iODVOMW9NTUo4Q016ZU02OFQ5TU9relFTcUZSaW8xV0c2YmNVbE5jWW5uQjhKeXNKaWxBcE92SU1fQUU0R2RVamdNUzRhTER3NzEzMFUtRVd3bzVnZ1g0ZmtRek95VHdYbVNNMmNacmlDd3dLTThmaGF2VVJDYTc4c1hQeUZfX0ZGQzZjTXlpLU52U3JuUGpjOHJjWndoS19LandSX0dtMmdUMzNKZw)
-  - [AI boom bolstered growth in global trade, benefiting China and India, IMF says](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeVFzV2hGZjBlUUFETjhBYmxjM2pPNkFfS0dxTFlKUm5fRnJUQm9sYjBoNGhCNldSX2tlTGxwTWtRbG94cUdYVkhKZkZCZGRabTFtMWhyMHZfUFZmUjcwaUlTRzFCOE04MG81aWtjbHZfNGNsY1Q0M01oOFp3NFE4eFlodW1jd2tsaVNNYTgyUFlwX3d5b1hMaFU3Y19QVFVkYXZ6Q3YzMVYzZlYzV2NnLXNlZnQxREpOXzhVd1BPM2g3QQ)
-  - [Japan's wholesale inflation remains elevated, keeps alive BOJ rate-hike view](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV3hkUE0tV0pBM20wbEUtQTFuM011aHFUTWVPRDI3VEJ3d2lPaTRzNW1iYl9UeGRMaVE4VjhkWEV2OF9rVkxmMFZBd0FXMElhYVNoYkN3UFBBdnJ1b0RlRmliQ1ZZYzBpcDN0ZFhnYVl3dThzRHp6aXBSdGp3M0J2bW9wa3RELWQ0RTBmeXhDVkNjV0NVMUwyYlNjUWRrdkc4YjczQVRBYXVZMmhCZEFSdFMzZmdHZFFxaS1NbTBGaXF4Z2NJcjB6Zw)
-  - [Trump says he does not believe China and Russia are helping Iran 'at all'](https://news.google.com/rss/articles/CBMitgFBVV95cUxQaHZ3WXAyQzZiQXZBZmJ1aEV2WUZMcXA4bHlyNml3LUd5MG1GWjNJSFIyUnhycktZc1ZHZXVPMERsaEs1YzZEX3FtT1JwOERaMUtCY0RkYUZVQzhWWnIzLU45TXVLWUk4RnFaaU53X1VxVVNaOVVqaHpaeTdMRkFfS0h5aTFVaERIcEQ4S2xsTFJ0MVpHa093b1RmYjZPaV9DRTBGMkRLUWN2djRTSGtKVU1uUFBGZw)
-  - [Gold ticks up as oil eases; spotlight on US inflation data](https://news.google.com/rss/articles/CBMinwFBVV95cUxNRnRSZTl3U0dwUkZRSkNlalhmeF94cE1aaGV4NjNZdll2aENMRDZTWGNTTnhjMS1BQ1hKUG9qc2hKS185eXpWTjFfUnBwN1cwdVNIUllaMnc0Tno2SnFBaXp4RGxMWkd1eFhXR1VTLV9qN25ETlIyeEVLNXNGX2NqZV80SUk5WG5IeEVDNGpRbTRfaVliMk9HVk5vQ0lyVnc)
-
+  - [Fed's Collins sees another rate hike on the table before end of 2026](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQTNoWUtZWjdLcTc2ZmNycnptRmR1cmluWThZU2ZTYU5JUkdaazY1Z2hEdjIxNWZ3VU5RSVZvejc3VnlueGZoN0JyNlNmdkptQk9ZNEZqU1MyLTNUblpOaF9FMkdGbnZhX1hTVllLTzYxNFEwamlyazZKem00N1k1UFBablNQSVRCZTgySWNNR3pHemxzSEl1S0VBeE1DQlYyS0Ntdw)
+  - [Brutal session for chip stocks shows AI trade is turning](https://news.google.com/rss/articles/CBMimAFBVV95cUxPM1RJWWJHTmtIMnhaYWVyeFFpYV8wZndZMUFOVXM2NkpJdUNfRGlyQzdHeVcwMXkxcXkyWFFZQ3hXS3RpM0NqZUtNcmxNd3NkSGZETmlvTjRRYjJ3X3BXa0FEamh0NDExSTZieGRHam9BdFBiZXdOcTBSUXRPNlFEeTVKOEtkN3JiV25QUEsyekp0OTJRaU5nVA)
+  - [US chip stocks extend slide as China memory report, AI spending jitters hit sector](https://news.google.com/rss/articles/CBMixAFBVV95cUxQdjlLc0J0QjMyZmZRZWM1SldodnE0RV8xUWN0S0EzdUtWX1VjNXRiTVRKdDJQQVNkNkNadU50bGFueTItd3V0Zk43aFRiV2xsMVdCS1lFbFh3TVI3b05yd253VjBLSWdlYmwyb3VIOFBLQm5VbFRlR1ZQczRlekUyWHNOMjUwdmhvMXA2MWl1UUp6aDFydkZRZWdjUzZnRUR2NXAteDNMZS1zdDNUWm1HRVBxYlo3TXh6ZGZKT1lNOXFHUjBp)
+  - [IMF flags risks to global economy from AI market correction, war and debt](https://news.google.com/rss/articles/CBMiswFBVV95cUxOTXc4YzNuVFU1U2dtSjE1SG9xRUIxZTRtMU1xdXNodDkxMTRGaE9yQTJIVVVoeVJjdnFsbi0yeUJ6a09ZbGJ0Z3N5V1NiV1RGZlVDekptcUVqcTVtNGRsdDNpZkd1akEyN2hybUx5aFlXM05pZENOVFdfTXI3XzBxaGRMZ0NVcFFRVXZRbHlZYUNleHhiTTJ1UTN0dXJ6U0h2V3ZoWGdqOWp5SmdCMjFab1doZw)
+  - [Freight rates for Russian Urals oil shipments to India hit fresh records in early October](https://news.google.com/rss/articles/CBMiywFBVV95cUxNcVpHcU5oOWl3WUt1NFlQNi1Ld3JVQWI5Z0l3Z3p4UTFGSDdsMk5Yak5zdy16Z1NCcl9NMzBqbkgxaEdSLUtBSWVJWXQ5MnBiTzlDMXUyZE5iemFmQlJ2b3JlRWgxTlRMdnhHMVptZXhvMUtwMHZpb3IwM0VOZEUyLXpVenhqb2toWmJUdU9kQ25odHY2enA2a2xvd19mQ2U0WTVIVUlYa0kzYUdWYUVIaGtQSVdZY2pGVC15b2pEZlZhRDVteFVlOGFCOA)
 - **WSJ**
-  - [Asia Stocks Battered as Semiconductor Stocks Dive](https://news.google.com/rss/articles/CBMirAFBVV95cUxNVk5uUzN5NzdZNkh6U3AtRFNyMzQ3WU9vcTJNdmJCMW9FUVZJOVltaEFMS1FFUnduSHJOTUctYzlCVnJKdmF0WkY0ZEVyWFlpVzRrZDA4c0N4c0JVTFRJSUFJWVg5RWJialRCMXdOVlNIWWRQcW1WTmtWak5DcE4weGFqNnE1SFlPcVdlenMwM3VXdTUzQTFkczZtdTFZTnBrVnplVDhEVVZkajBw)
-  - [Oil Falls as Traders Weigh Gulf Risks, Russian Diesel Supply Prospects](https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ1hTLXpTWFludEh1ZFJGRW9SMjZyZm03clBiRXJfV2JROVNLRUlwSGlIUWVBeVU2Wm5BRDVkUmhaUDBRZHBKbkhCRFBRV3BjOHZSVnAwYXZJcHhPano4Ui03eDlJTGkwMWlzYTU3STcxeUxoOG5pSlN4UTE2YnZ5cF9taWtBdGRWN2pnbElPY3ZBakJRSXhzeFRtWXpDVUtvUURkeHhYbEhtX3VKRXc)
-  - [Rupee Jumps After India Central Bank Unveils Currency-Defense Measures](https://news.google.com/rss/articles/CBMiugFBVV95cUxObjRfQjhMOXN6M3FfdUtlSWFzaFVpU1JuNjVDdkdTTzJlNkQzRHpfQUdrLW5oNHN0b1c1WXBxWnlRZzRDTXlkT3cwVDdnYVBpR2JoemZXV0toVGZBWmpCeEg0MktXWHFLNGZRdk83NkZzNGw4Y3BrdDdhaEx5Wk5pbGRrQ0JwcmhyWldqUU5tSEwwY0dVcDBrcUxoSmxoeDNFWXo3LXpBcTQxbVVYVGZxVFRJaDlFSmowWGc)
-  - [Iran Is Fortifying Nuclear Sites and Rallying Its People for a Return to Fighting](https://news.google.com/rss/articles/CBMixwFBVV95cUxQMTkwZW9nLXl1eWlMQlZFd0oxTU40NEhlT1hJbDdhaGRpc3IyWkl4YzhPa1AzelhJNDRSVGdNT2x5akdidldLdklIVkRmYTE5ckhsQmxGR3Y2ZmdXUlJQZHBXMFA0cElkWlBKU19yaTQ1QUVFZjJobk8zckw0Z1lCWlM5YWhoSmRUckNMMW0xNVdCbUhiSEwzVlVIR0d3TDJaUy1Lc2UxTFpPZWIxX3dPTUJ3LWF4bTFmUVRxSVdZeHpSZkZwTVJF)
-
+  - [Nasdaq Futures Fall as Global AI Selloff Intensifies](https://news.google.com/rss/articles/CBMinAFBVV95cUxNaV9QVFVsbXRmd3pZTmU1SjAtTnJNT2ZoZ1QyUUpJUWc2eG5YS1lDaTA1bEZoc21DWUxTWTBOd1UtWE5wcDgtNklJMzM5VWhhTkdyV3JCVVJrVU9YY1ExaklxLU9sOHFvX1pkT2o0cVJkZ3dTbnBtT1VfdnZ3Qm43VUF0dWR2OXY3X0RiTGNhWC0wV2JqdF9VazU1UDI)
+  - [Oil Futures Settle Mixed as Diesel’s Rise Helps Lift WTI](https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ1hTLXpTWFludEh1ZFJGRW9SMjZyZm03clBiRXJfV2JROVNLRUlwSGlIUWVBeVU2Wm5BRDVkUmhaUDBRZHBKbkhCRFBRV3BjOHZSVnAwYXZJcHhPano4Ui03eDlJTGkwMWlzYTU3STcxeUxoOG5pSlN4UTE2YnZ5cF9taWtBdGRWN2pnbElPY3ZBakJRSXhzeFRtWXpDVUtvUURkeHhYbEhtX3VKRXc)
+  - [Europe Heads Into Winter With Low Gas Reserves, Uncertain Gulf Supplies](https://news.google.com/rss/articles/CBMixgFBVV95cUxQWnlTQ1FGck1iOTVzZGxpSXVJXy03LUJQb056SzNzU3N5eERSRlR6NGRGT1AycjZQT3V6Sll1NWk3cmg4WGE3bzA1OU02UlpUUlYzdDNlT0RUMWoxU0xXQjRPaHhfNzRGMnlkUmczRjdwWTJESFBDajZYTTB1ZnQ4RkJPX2NEVzJHQ0VWd0xGT3VPQjlJSm1aQmlFTl9yS1FmdlJ4NTdVS3hTMjJOcUdpWXI4cUhWSWtMbGVmUTZBZjFaQUdldnc)
+  - [U.S. Natural Gas Futures Gain on Storage Views](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNHpIQmw1RzVhTV9EY1BMR01HUGN2Z25MeFNyRUp1S0VZQkVVLXQ5NXVOYkJ2NWVtd1VXQjlGLUh1VHpvVGJicUZabDdGcUJhTEhqb1lxSzRKaEREblROaWlrVVo2T2hwWDNpUmo4S2UyT2hCcVlRdkw4RFU2N1JwbUFuRTh2aFJ1dmZJNXFvdHp4ZVZnVjlKUUF0UkNJcGlMNWEwOG04ZFB5Yms0aW4xYVMzZVFzdkJMaTlLVmRCZW4xV1YzbTBudA)
 - **FT**
-  - [Chip stocks slide in wake of ‘casino’ comment by Broadcom boss](https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63)
-  - [Visa gets approval for China card business ahead of Trump-Xi summit](https://www.ft.com/content/6c5ee2f8-a26c-4655-9389-f877bb5b42db)
-  - [Pakistan’s hard choice on Saudi Arabia’s war in Yemen](https://www.ft.com/content/7da76744-99d0-43b0-8682-b927a82096f7)
-  - [Sulphur scramble poses latest threat to global food prices](https://www.ft.com/content/e4ad9ed5-76e0-435c-a46f-6fe53ab1cedf)
-
+  - [Saudi Aramco HQ attacked in suspected Houthi strike](https://www.ft.com/content/a25417b3-d4e4-4b89-b14d-6370a85ce3c4)
+  - [Ships in Hormuz strait hit by worst spate of attacks since start of war](https://www.ft.com/content/a4ab83d4-81b5-4336-9569-a0708b41e894)
+  - [Chip stocks slide after Broadcom boss warns of ‘casino’ mentality in AI investing](https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63)
 - **CNBC**
-  - [Micron, SoftBank and ASML slide as Wall Street chip rout spreads](https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html)
-  - [Visa gets Beijing's green light for bank card business after 40 years of working with China](https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html)
-  - [Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Houthi conflict](https://www.cnbc.com/2026/10/13/oil-prices-today-brent-wti-hormuz.html)
-  - [Singapore PM Wong rejects weaker currency as shortcut to competitiveness](https://www.cnbc.com/2026/10/13/singapore-pm-wong-rejects-weakening-currency-for-competitiveness.html)
-
+  - [Williams says Fed may not have to hike rates in 2027, at odds with traders](https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html)
+  - [Oil prices mixed as traders assess Russian diesel supply prospects and Saudi-Houthi conflict](https://www.cnbc.com/2026/10/13/oil-prices-today-brent-wti-hormuz.html)
 - **SCMP**
-  - [China gives green light to Visa for local clearing organisation after years-long wait](https://www.scmp.com/economy/policy/article/3370674/china-approves-locally-registered-bank-card-organisation-visa)
-
+  - [Drones hit 2 ships off Bulgaria, sinking 1 and triggering Black Sea search for 11](https://www.scmp.com/news/world/europe/article/3370741/bulgaria-seeks-nato-support-after-black-sea-drone-strikes-hit-merchant-ships-sinking-1)
+  - [MI5 chief warns Iran is targeting military sites in UK as hostile state threats surge](https://www.scmp.com/news/world/europe/article/3370774/mi5-chief-warns-iran-targeting-military-sites-uk-hostile-state-threats-surge)
+- **CNN**
+  - [The Iran war is costing American households $2,000 each, Moody’s estimates](https://news.google.com/rss/articles/CBMifEFVX3lxTE5URThOcldKbDAzVkFoX2IxZThObUpOSGVEbmZrNFBzZ252QWE2YzZ4dXNVQkJYenRIdGxiR3hEMVhwSzJZXy1rTHdGMG9CS0U3NlFMVXVVTmFwdkw2NG41YU9yb0pOQlFOQXVFODRDVElrUTVqZXJodTJoSzI)
 - **Caixin**
-  - [T早报｜微软总裁再次呼吁监管AI；新能源汽车出口优惠收紧；胡塞武装再袭利雅得机场致1死11伤](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SRnhrRklCWkxBY1QycFhtWkdFXzlMWmx0REVhYndWYk1oMnU0Q0NTUzQxYVhHeUV2Y2NMVDU4RWlXdThsVDJnSHdhbHloMzZaY09HcTNYMk9Nd3J0RGdCMkZmcTI)
-  - [IMF下调中国经济增长预期：预计2026年增速为4.5%](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHWXhWNFBSeXA5MW5YWTZDeWp6bjZqb3ZiVFVYU2lXZ3Z2MzZFX2VncmowdkpRVG90Q0ctaGwxUVhMS2swdEM5YVJqSFF1dHJFdU84dEFNNUEyeUJUMXR3YVh3)
-
-- **CCTV**
-  - [国际货币基金组织上调2026年世界经济增长预期至3.1%](https://news.google.com/rss/articles/CBMieEFVX3lxTE9IcGdGV3hDcWxXUmVOSGtJaVZYb3p1VFJRM1VTS08xZWdIVXJYaTV3Ulk3LVpmellkaFlQNHFjV2RIeWlKYzVWUW1hRDVrRk5WNW1TMENGQXZFWUZXWG9qYzA4eGJWMG01bFhFVkhSa2NJZ1NwUFJ4dw)
-
-- **Al Jazeera**
-  - [Middle East and Central Asia’s economy to shrink in 2026 amid war, IMF says](https://www.aljazeera.com/economy/2026/10/13/middle-east-and-central-asias-economy-to-shrink-in-2026-amid-war-imf-says)
-
----
+  - [财新调查｜三季度实际GDP增速或微升至4.4% 出口强劲继续支撑经济](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VazNkZlRDVHNCSUhhYmpta0F2aXFGbVdORUluczhRTmFlRXY3TnkzZkk5allHME85QUlPa1dZaHo5YkpTY2h2Sm1GMmlPSlNTWlFwNmZNRXAtcWg0QWZXQ3F3)
+  - [财新调查｜国际油价再度冲高 9月CPI、PPI同比涨幅或扩大](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Selo0RnZ5S0NLZWU5MWpOTkEwMFltMk9NTDFDS2ZZZG1hb2k2M3JiSXhqbVNNLTdabzZ2RVB4VVRsZzA0S1dBMlBnaVota1o4LTM4UVNfdUdUZ3pDZzU3S3Nn)
+- **CNA**
+  - [Bank of Korea chief says monetary policy to stay restrictive for now](https://news.google.com/rss/articles/CBMiqwFBVV95cUxONXM5b3BrR204bm5YU0owRWVCRUlnTDVyYkRBNW54ZUNqQW1aZFBKeVlRQ1JuZDB2WlRxVUYzN25ZeC1rYkxFUFE5M2w4aTlRczZjdkdac2xURTlkQkI4WlZNR2VmcndNZFpSV0VocFhpU3QyQzZMSGJrejV0bk9zYjBObzNuZ3BXRl9lNDFuVHcwZFozNkxtOUM5TXVEbm9QcVFiS0E3eHZ3b28)
+- **WSJCN**
+  - [报道：日本央行拟在10月“按兵不动”，12月加息仍在考虑之中](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ET3pWMTVZXzJfa3hXdzdKR1dCVm5QSHhqVVhQQXVsaXdzY3k2amV1Zm5jUzNOV2I5c3lWX2F5VjRIV0lBZFZpY0tIQ3FLWXk3VGkw)
