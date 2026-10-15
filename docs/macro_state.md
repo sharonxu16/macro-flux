@@ -1,26 +1,26 @@
 # Macro State — Last updated: 2026-10-15
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **US inflation/Fed tightening repricing** — Status: Reversal; hot September CPI flips prior soft-yield/lower-dollar setup and puts October/December hikes back on table; next trigger: US PPI, retail sales, and initial claims Oct 15 20:30 HKT.
-- **Middle East energy/chokepoint escalation** — Status: Acceleration; Aramco HQ hit and container ship sunk in Hormuz reinforce physical supply disruption; next trigger: verified Hormuz closure, new tanker attacks, or IEA emergency release.
-- **China export/price reflation** — Status: Confirmation; exports `36.3%`, Q1-Q3 trade `39.94万亿元`, and CPI `0.9%` confirm strong external demand but weak domestic prices; next trigger: PBOC daily CNY fixing and EU summit trade statement.
-- **China policy easing speculation** — Status: New; talk swirls on `$600 billion` backdoor bond-buying buildup, potentially shaping CGB and CNH liquidity expectations; next trigger: PBOC operation details or official clarification.
+- **US inflation/Fed tightening repricing** — Status: Fading/Reversal; hot September CPI initially lifted hike bets, but afternoon safe-haven flows pulled the dollar off its 18-month high and eased Fed pricing; next trigger: US PPI, retail sales, initial claims Oct 15 20:30 HKT.
+- **Middle East energy/chokepoint escalation** — Status: Acceleration physically but Reversal in oil pricing; two more cargo ships were sunk in Hormuz while US weighed easing shadow-fleet sanctions, tilting oil lower despite the attack news; next trigger: official sanction decision, IEA response, or verified Hormuz closure.
+- **Global AI debt/rout** — Status: Acceleration; Nasdaq futures fell about `1%`, global tech stocks slumped, and AI default insurance spiked as data-centre confidence wobbled; next trigger: US data, major chipmaker risk appetite, and further credit-spread moves.
+- **China trade/EU relations and yuan pressure** — Status: Acceleration; IMF warned yuan is undervalued without stronger stimulus while Brussels prepared a tougher China trade stance; next trigger: EU summit trade statement and PBOC daily CNY fixing.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
 - US PPI, retail sales, and initial jobless claims Oct 15 20:30 HKT.
-- PBOC daily CNY fixing and any policy signal after trade/CPI.
+- Official US shadow-fleet sanctions decision, oil price response, and freight-rate implications.
 - Verified Hormuz closure, further tanker attacks, or IEA emergency stock release.
-- EU Council trade-weapons statement and follow-through on Li Qiang import pledge.
-- TSMC results as a high-bar test for the global AI equity trade.
+- EU Council trade-weapons statement and follow-through on China trade practices.
+- PBOC daily CNY fixing and any policy response to IMF yuan undervaluation warning.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will hot US CPI plus war-linked energy pass-through force a Fed hike this month or in December?
-- Can China’s hot exports and low CPI coexist without forcing PBOC easing, and will EU trade pressure accelerate stimulus?
-- Does the AI debt and rate shock have further to run if US PPI and retail sales stay hot?
+- Will risk-off AI flows keep Treasury yields and the dollar lower even if US PPI and retail sales stay hot?
+- Can shadow-fleet sanctions relief offset physical Hormuz disruption enough to keep oil offered?
+- Will IMF pressure and EU trade escalation force stronger China stimulus and a material yuan repricing?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- Brent `$106` — BBG; war-risk premium level triggered by Saudi Aramco damage and Hormuz transit risk.
-- US headline CPI `3.7%` y/y — CNBC/FT; inflation shock driving Fed repricing and dollar strength.
-- China September exports `36.3%` y/y — Caixin; external demand momentum supporting CNH and Asia growth.
-- China CPI `0.9%` y/y — Xinhua; subdued domestic price pressure despite trade strength.
-- CoreWeave bond yields near `15%` — CNBC; AI borrowing-cost stress signal for the broader AI complex.
+- Dollar 18-month high — Reuters; the dollar pulled back from this level as Fed hike bets eased and Treasury yields fell.
+- Nasdaq futures `-1%` — Reuters; AI rout intensity and risk-off signal for global equities.
+- Singapore Q3 GDP `5.4%` — CNA; regional growth resilience supporting SGD and Asia macro.
+- South Korea September household lending slowest pace in six months — BBG; BOK policy caution ahead of next week’s decision.
+- UK August GDP `0.1%` — CNBC; growth beat supporting sterling relative to dollar retreat.
