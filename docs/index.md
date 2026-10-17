@@ -2,83 +2,77 @@
 tags:
   - Macro/Hormuz_Blockade
   - Macro/AI_Credit_Stress
+  - Macro/Russia_Sanctions_Relief
   - Asset/Brent
-  - Asset/UST
-  - Trade/Long_Brent
 ---
 
 <div align="center">
 
 # 🌊 Macro Flux
 
-<small>Oct 16 5PM to Oct 17 8AM HKT</small>
+<small>Oct 17 8AM to Oct 17 5PM HKT</small>
 
-<small>Good morning.</small>
+<small>Good afternoon.</small>
 
 </div>
 
 ---
 
 > [!abstract] Overview
-> `Brent` crossed `$110` for the first time since May as Saudi-led forces intercepted missiles aimed at critical energy hubs, Washington flagged a potential strike on Iran’s Pickaxe Mountain, and the US moved to exchange up to `17 million barrels` from strategic reserves. The oil impulse arrived alongside an intensifying AI credit rout: CoreWeave equity slid roughly `25%` for the week, and the S&P 500 closed out its worst week since June. Fed Chair Warsh refrained from signalling another rate hike, leaving the dollar on course for its worst week in a month even as import prices posted the largest annual gain in more than four years and the fiscal deficit neared `$2 trillion`. China and the EU opened new trade fronts, with Brussels confirming a new “kill switch,” proposed import curbs, and Beijing publishing draft export controls on AI technologies and chips. The common thread is a tightening of financial conditions driven by energy supply risk and AI credit stress, even with the Fed on hold.
+> The AI credit squeeze deepened intraday as Anthropic moved to pay Blackstone a double-digit yield on chip financing, while Chinese equities became the biggest losers in the faltering global AI trade. A parallel geopolitical repricing saw Washington pause and waive Russia-related sanctions and tariffs after a diesel deal with Putin, even as new reporting indicated Iran is giving the Houthis targeting and intelligence for attacks on Saudi Arabia. ECB officials leaned toward finishing 2026 with a third rate increase in December. The common thread is tightening credit and energy-risk uncertainty that keeps central banks on guard and tilts equity leadership away from AI-linked names.
 
 ---
 
 ## 🔬 Narrative Watch
 
-### 📌 Middle East escalation lifts Brent to $110
+### 📌 AI credit stress spreads to China and chip financing
 
 **Fact**
-Brent oil hit `$110` a barrel for the first time since May as prospects for imminent supply relief dwindle, prompting traders to ramp up bets on higher prices ahead of the weekend ([BBG](https://www.bloomberg.com/news/articles/2026-10-16/oil-tops-110-for-first-time-since-may-as-supply-risk-grows)). Oil hits five-month high of `$110` on new escalation in Middle East: Brent prices jump on reports that Saudi Arabia-led forces intercepted and destroyed missiles aimed at critical energy hubs ([FT](https://www.ft.com/content/8ee22d89-03eb-48dc-99a5-27555373a89c)). Brent oil touches `$110` as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries ([CNBC](https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html)). Trump says US may need to strike Iran's Pickaxe Mountain ([Reuters 1](https://news.google.com/rss/articles/CBMimgFBVV95cUxPTWRtOEIzSmZRLXc0aEx6YkF3cGY5a2RwX1pzYmdQZnhqcmkzQUFkbndObFlvZEZybDNwU0lYT1I3U0pUdG9tZzNQTldkRktZajhWaXY2Vjh1NFQtU3BSbE10T2tXREh0dUVVWFQ0TVVsMmcyWDVUS21mQ21FVHVLaTF6M1dCX0NCZndtUy1fd3dXMzZPVDc1WXh3)). The US solicits exchange of up to `17 million barrels` of oil from strategic reserve ([Reuters 2](https://news.google.com/rss/articles/CBMitwFBVV95cUxQeFNXdnRkamV3Q2plZzU5UHl3LUlPa2hxTVY1VTA5dXU2UXUxWG5DekxOY0ZrWlNobFBDNTRQR2xrTHRZbEJMZUd1dzRQSUd0ZmQ1TDRtTE9YcmRoRVEzUkhrQjhUX01DVk8zdU5saFJEc1NDUWFXcFhsbmFZRlQ0b1FGdm9nTnFGSDAwWUxVMDVJeHZXalROYmNNdlVJLWxxaEloOWtLWUsxOWlzbTFmSWhHMHVaRGM)). Trump claims the US Navy blockade has stopped all Iranian ships from crossing the Strait of Hormuz ([Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2)).
+Anthropic offers Blackstone double-digit yield in latest chip financing; high borrowing costs complicate AI lab’s goal of achieving investment-grade status ([FT](https://www.ft.com/content/cb4034e1-475f-40b9-a5f9-256e91aacb89)). Chinese firms have emerged as the biggest losers of the faltering global AI trade, a setback for Beijing’s efforts to use stock markets to supercharge its ambition of technological supremacy ([BBG](https://www.bloomberg.com/news/articles/2026-10-17/chinese-stocks-turn-biggest-losers-as-global-ai-trade-stumbles)). China AI supply-chain IPOs hold firm despite valuation pullback, Citi says ([Reuters](https://news.google.com/rss/articles/CBMixAFBVV95cUxNcnFDdU1MSGd4Ylh4aktUWnlOM2V2RklNLXAxVm5QNThadUkzS2k1cWhoNnJpQkF3Nzk2U1c5ZlJlbUhGVFVpZTIxZEJYak8yVmtjVVhBdGs5NnVjVlowQnhRaWw1enZTVjBIVS1Wd2wwMkQtV2lYelR3MTFfVVlRRTBfMlBOUTlDYlI4UXdBZEFfcUFQcVNNNHVzOTR4bnUyanUtRE9nVkdnbTk4VHJvRWVxM2xjcXhjVUI4WVh2Y3Q2Q0Fw)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Acceleration versus prior fading tail-risk state; missile intercepts and an explicit US strike option re-escalate the energy and chokepoint conflict.
-> * **Transmission / Market Read**: Inflation and risk-premium channel favors **long Brent** and **short high-oil-import Asia FX**, with Treasury breakevens supported until supply relief appears.
-> * **Watchpoint / Confidence**: Reversal trigger is official strike stand-down plus SPR exchange award and Hormuz transit normalization; Confidence: High on cross-source confirmation, but headline risk is elevated.
+> * **Narrative change**: Acceleration because AI stress is now visible in double-digit financing costs and explicit Chinese equity underperformance.
+> * **Transmission / Market Read**: Risk-premium and capital-flow channel tilts risks toward **further Chinese equity underperformance** and **wider AI credit spreads**.
+> * **Watchpoint / Confidence**: Stabilization signal if Chinese AI IPOs keep outperforming or credit spreads narrow; Confidence: High.
 
-### 📌 AI credit stress meets a quiet Fed and softer dollar
+### 📌 Russia sanctions relief after diesel deal
 
 **Fact**
-The S&P 500 Index dropped on Friday to cap its biggest weekly loss since June, as a spike in crude prices renewed inflation fears while worries about the viability of the artificial intelligence trade pressured chipmakers ([BBG 1](https://www.bloomberg.com/news/articles/2026-10-16/s-p-500-steady-as-warsh-boosts-expectations-of-rate-hold)). CoreWeave Slides `25%` for the Week as AI Credit Concerns Grow ([BBG 2](https://www.bloomberg.com/news/videos/2026-10-16/coreweave-slides-on-ai-fears-closing-bell-video)). CoreWeave bond rout tests market's math on AI buildout ([Reuters](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdm5VTll1VmRrVEdWNm9HMmh4dUtxaDN2alV3YnJxUmtZdVJjZV9obW5Kc2tOYTNEQVdQNE1XMnFNbk1PaFBTTHZqcWxFZklDOVRtYm9IOWhnMjRuZTYyM2U0NVA1WmY0a3ZGQTFJbFp5cU1ha3h2WXBwLVFBSmtjRnVmZm8xdUtCMWlaX1YyUkpCSDhZamRzRG9UV3paVU9MalVpa0FFbzRBZw)). Treasuries declined as predictions fell flat that US government officials would directly nod at the possibility of reducing its sales of long-term debt and as oil prices rose ([BBG 3](https://www.bloomberg.com/news/articles/2026-10-16/long-term-treasuries-fall-as-dealer-survey-offers-little-signal)). Warsh refrained from signaling another interest rate hike this month, pointed to a 'synchronous tightening' by central banks in the fight against inflation ([CNBC](https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html)). The dollar’s monthlong rally ran out of steam this week after remarks from Federal Reserve Chairman Kevin Warsh failed to give the currency a lift ([BBG 4](https://www.bloomberg.com/news/articles/2026-10-16/dollar-heads-for-worst-week-in-over-a-month-as-warsh-stays-quiet)).
+US President Donald Trump has waived more sanctions on Russia in a bid to ease energy prices ([Al Jazeera 1](https://www.aljazeera.com/video/newsfeed/2026/10/17/trump-waives-russia-sanctions-as-rift-with-zelenskyy-widens)). Trump puts on hold new Russia sanctions he signed into law; the US president's executive order comes two days before sanctions deadline and a week after diesel deal with Putin ([Al Jazeera 2](https://www.aljazeera.com/news/2026/10/17/trump-puts-on-hold-new-russia-sanctions-he-signed-into-law)). Named after late senator Lindsey Graham, the measure had sought to clamp down on the flow of financial resources fuelling the Ukraine war ([SCMP](https://www.scmp.com/news/world/united-states-canada/article/3371222/trump-pauses-russian-sanctions-package-after-striking-diesel-deal-putin)). Trump waives key Russia-related sanctions, tariffs before they take effect under new law ([Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxQUWRsWXNvbUVMb01QdTFTbEhpSGhZLVZYVXZramJkQjg2RXUzbXRaZjZlcnY1QTNoeU1zQzhhOEhwOFZVSkRySFFZNWI3RjZtUHJLaDhybEhWVzFBTF9uVlZjWlNSQk5aX25iZ0EySjRQYjR5aVRiM1VERjVFWmpTOTR0Y1ZhNUtaTHpTaWdZZVRPUmppTUJtYl9IZlhGQnM3WkVSNmRreVBjaDF5anFfSHhqN1ZUc2p3cjRoU0pyUzRkZjlBM05B)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Acceleration from Fed hold and AI-driven dollar softness; credit-phase stress now spans AI equity and debt while Warsh keeps the hold bias intact.
-> * **Transmission / Market Read**: Risk-premium and policy channel supports **long US duration** on AI credit haven demand, while **long USD/Asia FX** credibility stays fragile until oil inflation is resolved.
-> * **Watchpoint / Confidence**: Invalidation is CoreWeave credit stabilization plus a Fed signal tolerating oil pass-through; Confidence: Medium because fiscal supply and oil inflation cut against a cleaner duration bid.
+> * **Narrative change**: Reversal because Washington is now using sanctions relief as an energy-price lever after the diesel deal.
+> * **Transmission / Market Read**: Energy supply and policy channel tends to **lower energy risk premium** and **narrow Russia-related risk premium** near term.
+> * **Watchpoint / Confidence**: Whether the sanctions package returns or Europe counters; Confidence: High.
 
-### 📌 China and the EU escalate trade restrictions while local chip earnings surge
+### 📌 Iran-Houthi targeting of Saudi Arabia
 
 **Fact**
-China warns EU not to ‘fantasise’ on trade approach as Brussels confirms new ‘kill switch’ ([SCMP 1](https://www.scmp.com/news/china/diplomacy/article/3371217/china-warns-eu-not-fantasise-trade-approach-brussels-confirms-new-kill-switch)). EU to propose import curbs on other Chinese sectors, says EU chief ([Reuters](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVFF1dWFoY2NKZzJmU2FwQkNSVW02MXFSYV90RUtPUlFWTnVvbl9UQi12OGJlc015SXRDZ3NaWjZ0Rm5sTDFIdXE2YndSbWJ0ZnVMRmRCcGljSkhtQVN4UURFUXpCa1UycnRBb2hCb1R1bnhaZE5SN2pacmVlNXlEX3ZKN2VNOVFiUGI0MHNjdjJrdjV1UE1GbUx4ZktkeG54NlBBai1ncmxQWFk)). China unveils draft export controls on AI technologies and chips ([FT](https://www.ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf)). China Proposes Export Controls on AI Technologies ([WSJ](https://news.google.com/rss/articles/CBMilwFBVV95cUxQMjh5b1NsdWxQRXNwXzlLSi1pLU8wdlIxVEc0TU1Md0hLM1FUdEVvcnhPa3d6bFBHc2VtY1UtRzZITnI1eVlzWGYyelBocjBsRXpBa1NlVjBwMmplX2Zhd0tUSWJDUmFGQVhIVVQ2UzlxN25ZdUFHbTFXejJqM3NWOXduVDhtdmZ4R0FiM2NoaVRtMzFRZjV3)). Chinese chip and tech firms have flagged as much as six-fold growth in unaudited third-quarter profits, as huge demand for home-grown processors and artificial intelligence infrastructure filters through links in the supply chain amid the country’s push for self-reliance ([SCMP 2](https://www.scmp.com/tech/tech-trends/article/3371159/chinas-ai-boom-self-sufficiency-push-fuel-earnings-surge-local-chip-firms)).
+Iran is giving the Houthis targeting and intelligence for attacks on Saudi Arabia ([WSJ](https://news.google.com/rss/articles/CBMihgFBVV95cUxPOS1nT1V3ajJHakhMdm5jRDRqQW5PMlU5N1FidUlPemxtZFBFYV9UY0dJdGp2US1qU2NsbGRLazVUd2RsXzc3bWIxa00xcmpEbEY4aG9xcmkzX3g2ZDd2RVdlRGRGV0JUZjZLN0JTU2xybHFKQTlaV19oYUp3a2o5Wjg2Sk9kQQ)). Iran-backed Houthis strike Yemen’s Aden: the Houthi strikes on Aden’s presidential palace and airport ([Al Jazeera 1](https://www.aljazeera.com/news/2026/10/17/iran-backed-houthis-strike-yemens-aden-what-that-means)). Houthi missile strikes threaten key supply routes on Yemen's Red Sea coast, intensifying pressure on government forces ([Al Jazeera 2](https://www.aljazeera.com/news-analysis/2026/10/17/can-yemens-government-forces-sustain-their-offensive-against-the-houthis)). How the US-Iran war upended two critical global trade routes ([CNN](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWkhLc0FrR3BPSms3TDdwX1QxN2tFaUpMM2t5eHQyWWFyYUxqN3JNUkdfU2hERzltNkZJY09kc0RMVGF5cWNURjlkNndGUmpkMmFINk5za1AxOWZzSklYcHR6d09OYWR3TzM5LXd1bDItb0oxaGYzNmNwUUwwLW5xa18tRW5qYm0tVWQ3aFNteVZMa2pVX0pISEY3OUV4Vi1ZZUxCOA)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: New; trade weaponization extends from tariffs to technology controls, while China self-sufficiency tailwinds strengthen local chip earnings.
-> * **Transmission / Market Read**: Trade-policy and capital-flow channel favors **long China semiconductor/local chip complex** and **short China-EU trade-sensitive exporters**, with CNH volatility risk if controls widen.
-> * **Watchpoint / Confidence**: EU import curb details and draft export control implementation; Q3 GDP and chip order flow; Confidence: Medium due offsetting local demand and global tech risk-off.
+> * **Narrative change**: Acceleration because intelligence support extends Iran’s operational role to Houthi targeting and attacks on Saudi Arabia.
+> * **Transmission / Market Read**: Risk-premium channel favors **long Brent** and **long USD/Asia FX** on renewed escalation.
+> * **Watchpoint / Confidence**: Confirmed Houthi strike on Saudi energy infrastructure or US military response; Confidence: Medium.
 
 ---
 
 ## 🌍 Global Radar
 
 ### 📊 Economic Indicators
-- The US federal budget deficit widened to nearly `$2 trillion` for the 2026 fiscal year, serving as a fresh reminder of the scale of government borrowing needs and leaving the nation on track for a record high debt burden in coming years ([BBG](https://www.bloomberg.com/news/articles/2026-10-16/us-posts-1-99-trillion-budget-gap-for-2026-as-spending-climbs)).
-- The energy shock is starting to spill across the US economy as businesses pass along rising costs, complicating the Federal Reserve’s task of stabilizing inflation ([BBG](https://www.bloomberg.com/news/articles/2026-10-16/energy-shock-filtering-through-us-economy-complicates-fed-s-job)).
+- Vietnam’s Prime Minister Le Minh Hung projected gross domestic product will expand at least `10%` next year as he outlined the nation’s economic targets in a speech to parliament ([BBG](https://www.bloomberg.com/news/articles/2026-10-17/vietnam-prime-minister-targets-2027-gdp-growth-of-at-least-10)).
 
 ### 🏦 Central Banks
-- **Bank of Japan** — Bank of Japan Must Ensure Underlying Inflation Doesn’t Go Above `2%`, Ueda Says ([WSJ](https://news.google.com/rss/articles/CBMixgFBVV95cUxQSWZaejJENjlkZjR2dmxXVmdKNGdpNk94S1laVWQtbEo1ajU1R1pxR21WU0Y3c3BFc1BKODZvNmxNdnVXeGd0bl9hZGg1NXRnWElSVHI0V0ZmdkdzSk9zU1NNSGZzNDNpNlRaRlRfTjJyc3M4dWlSc0RiR01OTGN2OEVWbkNNZy1RTDRIUGNaZWs1T2JDRktWM2NKODRMSnNoZmplSTdHbWFpMkJIOEZLTUNjMzBtdEVmTWcwNDIyMmtnT2tKMUE)).
-- **Global central bankers** — In Bangkok, central bankers push back on market rate-tightening bets ([FT](https://www.ft.com/content/4c83ec2c-cd77-4f9b-94e6-fdf70af706ef)).
+- **ECB** — European Central Bank officials are preparing to finish 2026 with a third interest-rate increase, the last before an increasingly complex backdrop overshadows decisions next year ([BBG](https://www.bloomberg.com/news/articles/2026-10-17/ecb-leans-toward-december-hike-as-bangkok-talks-expose-risks)).
+- **ECB** — European Central Bank President Christine Lagarde stressed the importance of sound public finances when she addressed ministers in charge of budgets from around the world in Thailand ([BBG](https://www.bloomberg.com/news/articles/2026-10-17/lagarde-says-fiscal-sustainability-key-for-economic-stability)).
 
 ### 🌐 Geopolitics & Policy
-- Trump said he would not use nuclear weapons against Iran or send ground troops as the U.S. reportedly weighs new strike options ([CNBC](https://www.cnbc.com/2026/10/16/us-iran-war-trump-hormuz.html)).
-- North Korea says it tested new torpedo with AI tech; artificial intelligence was used for target detection and guidance in the new high-speed precision-guided weapon, state media says ([SCMP](https://www.scmp.com/news/asia/east-asia/article/3371218/north-korea-says-it-tested-new-torpedo-ai-tech)).
-- EU rallies around Zelensky as rift widens with Trump over Russia energy strikes ([SCMP](https://www.scmp.com/news/world/europe/article/3371174/european-leaders-back-zelensky-ukraine-us-ties-fray-over-trumps-russia-sanctions-lift)).
+- ‘Hot economics, cold politics’: why China gave nod for expanded Japanese trade trip; allowing more executives to visit Beijing shows that China aims to use economic leverage to pressure Tokyo, experts say ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3371192/hot-economics-cold-politics-why-china-gave-nod-expanded-japanese-trade-trip)).
+- Japanese Prime Minister Sanae Takaichi said she plans to attend the APEC leaders summit hosted by China if parliament permits ([BBG](https://www.bloomberg.com/news/articles/2026-10-17/japan-s-takaichi-to-attend-apec-in-china-if-parliament-allows)).
+- North Korea gets closer to China and Russia with new bridges; increasing trade and co-operation reduces need for talks with Washington and Seoul, analysts say ([FT](https://www.ft.com/content/062bb1af-d44b-4176-89cd-49042e06362b)).
 
 ### 🛢️ Commodities
-- EXCLUSIVE: Iran ships some LPG, jet fuel despite US blockade, data shows ([Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUW43alBLT1ZtZE5UZF9VNEY2ZDhBNjNOdk93dG1BZTNBZWZkQ050OVZGQmxUWURPdG16Q1pwTmRtNkFfQTNNWDJEazN2aHBRY1UwLW1MbGRSWXpLdVZRenB6SGY2cFhVcmFlRzRQZkhzV24xeTVtWnJfRTdfUHlIbktueERWSGNCLUw2bzIwdUw1a3FpQ3pMdEk4NE9HaVppTnlvaWNLV19xMy1pOEc0bw)).
-- EXCLUSIVE: Naftogaz chief says Ukraine's gas reserves hit six-year high ahead of winter ([Reuters](https://news.google.com/rss/articles/CBMiwgFBVV95cUxON29wRXNnSDhoWUxFd0FpaklIeG1uOTI2VkdUdzZKU2NuemNyZGoyZFFEcl9OT3o1aUx5V1lwNEtUUDZtT0Y5MFlmUmRjVFhXTWk5VVM0clR6RjhqZFJvQlN0YVhfNnB0OGU4R0VJLXBPTXlLMFo3eTNfd0x5bU5tMUFHUTdKRkRESnhSVnk0YUR1azlnWGtXcjE1NnB5R0xzbFZVaVVfVU1MM3VtYW9BS3VLYVVLQU9NYWNRQ1RSTkZKZw)).
-
-### 📈 Equities
-- Big US bank shares recorded their worst weekly losing streak since the 2008 Global Financial Crisis after quarterly earnings didn’t do enough to lift sentiment for the ailing sector ([BBG](https://www.bloomberg.com/news/articles/2026-10-16/big-us-bank-shares-set-for-worst-weekly-losing-streak-since-2008)).
+- Hong Kong touts key advantages over London in bid to become global gold hub; financial services minister Christopher Hui says government backing, integrated settlement and Shanghai ties will distinguish city’s gold trading ecosystem ([SCMP](https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371228/hong-kong-touts-distinct-features-set-it-apart-london-global-gold-hub-push)).
 
 ---
 
@@ -91,47 +85,30 @@ No high-impact releases in the next 24 hours.
 ## 📚 Full Reading List
 
 - **BBG**
-  - [Brent Oil Taps $110 for First Time Since May as Risks Swirl](https://www.bloomberg.com/news/articles/2026-10-16/oil-tops-110-for-first-time-since-may-as-supply-risk-grows)
-  - [S&P 500 Suffers Worst Week Since June as AI Fears Hit Chipmakers](https://www.bloomberg.com/news/articles/2026-10-16/s-p-500-steady-as-warsh-boosts-expectations-of-rate-hold)
-  - [Coreweave Slides 25% for the Week as AI Credit Concerns Grow](https://www.bloomberg.com/news/videos/2026-10-16/coreweave-slides-on-ai-fears-closing-bell-video)
-  - [Dollar Has Worst Week in Month With Warsh Quiet on Rate Path](https://www.bloomberg.com/news/articles/2026-10-16/dollar-heads-for-worst-week-in-over-a-month-as-warsh-stays-quiet)
-  - [US Bonds Fall as Treasury Is Silent on Long End, Oil Climbs](https://www.bloomberg.com/news/articles/2026-10-16/long-term-treasuries-fall-as-dealer-survey-offers-little-signal)
-  - [Big US Bank Stocks Log Worst Weekly Losing Streak Since 2008](https://www.bloomberg.com/news/articles/2026-10-16/big-us-bank-shares-set-for-worst-weekly-losing-streak-since-2008)
-  - [Fed’s Job to Get Tougher as Oil Shock Filters Through Economy](https://www.bloomberg.com/news/articles/2026-10-16/energy-shock-filtering-through-us-economy-complicates-fed-s-job)
-  - [US Posts $1.99 Trillion Budget Gap for 2026 on Spending Rise](https://www.bloomberg.com/news/articles/2026-10-16/us-posts-1-99-trillion-budget-gap-for-2026-as-spending-climbs)
-
+  - [Chinese Stocks Turn Biggest Losers as Global AI Trade Stumbles](https://www.bloomberg.com/news/articles/2026-10-17/chinese-stocks-turn-biggest-losers-as-global-ai-trade-stumbles)
+  - [ECB Leans Toward December Hike as Bangkok Talks Expose Risks](https://www.bloomberg.com/news/articles/2026-10-17/ecb-leans-toward-december-hike-as-bangkok-talks-expose-risks)
+  - [Lagarde Says Sustainable Finances Key for Economic Stability](https://www.bloomberg.com/news/articles/2026-10-17/lagarde-says-fiscal-sustainability-key-for-economic-stability)
+  - [Japan’s Takaichi to Attend APEC in China if Parliament Allows](https://www.bloomberg.com/news/articles/2026-10-17/japan-s-takaichi-to-attend-apec-in-china-if-parliament-allows)
+  - [Vietnam Prime Minister Targets 2027 GDP Growth of at Least 10%](https://www.bloomberg.com/news/articles/2026-10-17/vietnam-prime-minister-targets-2027-gdp-growth-of-at-least-10)
 - **Reuters**
-  - [CoreWeave bond rout tests market's math on AI buildout](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdm5VTll1VmRrVEdWNm9HMmh4dUtxaDN2alV3YnJxUmtZdVJjZV9obW5Kc2tOYTNEQVdQNE1XMnFNbk1PaFBTTHZqcWxFZklDOVRtYm9IOWhnMjRuZTYyM2U0NVA1WmY0a3ZGQTFJbFp5cU1ha3h2WXBwLVFBSmtjRnVmZm8xdUtCMWlaX1YyUkpCSDhZamRzRG9UV3paVU9MalVpa0FFbzRBZw)
-  - [Trump says US may need to strike Iran's Pickaxe Mountain](https://news.google.com/rss/articles/CBMimgFBVV95cUxPTWRtOEIzSmZRLXc0aEx6YkF3cGY5a2RwX1pzYmdQZnhqcmkzQUFkbndObFlvZEZybDNwU0lYT1I3U0pUdG9tZzNQTldkRktZajhWaXY2Vjh1NFQtU3BSbE10T2tXREh0dUVVWFQ0TVVsMmcyWDVUS21mQ21FVHVLaTF6M1dCX0NCZndtUy1fd3dXMzZPVDc1WXh3)
-  - [US import prices increase; post largest annual gain in more than four years](https://news.google.com/rss/articles/CBMioAFBVV95cUxNOXBPbnpTYVoxLUJfaDFHQjdrTFJXblFfN0FRVENPaEcxd0FfZWJZJk5Q2tmUzRiYWhaSXdlUG9tVjgzVmRXZGlBaW1MQlZtRkFkQ0dxWkktQTNPdHM2anpjNGVMVnlWYUVuODlfVlZPbHp0T0pDcTNONU1RTDUyZDlIbkZUbnJNcjctWkdZQzZGeUpQOGkzcHY2R0RqRGM1)
-  - [US solicits exchange of up to 17 million barrels of oil from strategic reserve](https://news.google.com/rss/articles/CBMitwFBVV95cUxQeFNXdnRkamV3Q2plZzU5UHl3LUlPa2hxTVY1VTA5dXU2UXUxWG5DekxOY0ZrWlNobFBDNTRQR2xrTHRZbEJMZUd1dzRQSUd0ZmQ1TDRtTE9YcmRoRVEzUkhrQjhUX01DVk8zdU5saFJEc1NDUWFXcFhsbmFZRlQ0b1FGdm9nTnFGSDAwWUxVMDVJeHZXalROYmNNdlVJLWxxaEloOWtLWUsxOWlzbTFmSWhHMHVaRGM)
-  - [EXCLUSIVE: Iran ships some LPG, jet fuel despite US blockade, data shows](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUW43alBLT1ZtZE5UZF9VNEY2ZDhBNjNOdk93dG1BZTNBZWZkQ050OVZGQmxUWURPdG16Q1pwTmRtNkFfQTNNWDJEazN2aHBRY1UwLW1MbGRSWXpLdVZRenB6SGY2cFhVcmFlRzRQZkhzV24xeTVtWnJfRTdfUHlIbktueERWSGNCLUw2bzIwdUw1a3FpQ3pMdEk4NE9HaVppTnlvaWNLV19xMy1pOEc0bw)
-  - [EU to propose import curbs on other Chinese sectors, says EU chief](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVFF1dWFoY2NKZzJmU2FwQkNSVW02MXFSYV90RUtPUlFWTnVvbl9UQi12OGJlc015SXRDZ3NaWjZ0Rm5sTDFIdXE2YndSbWJ0ZnVMRmRCcGljSkhtQVN4UURFUXpCa1UycnRBb2hCb1R1bnhaZE5SN2pacmVlNXlEX3ZKN2VNOVFiUGI0MHNjdjJrdjV1UE1GbUx4ZktkeG54NlBBai1ncmxQWFk)
-  - [EXCLUSIVE: Naftogaz chief says Ukraine's gas reserves hit six-year high ahead of winter](https://news.google.com/rss/articles/CBMiwgFBVV95cUxON29wRXNnSDhoWUxFd0FpaklIeG1uOTI2VkdUdzZKU2NuemNyZGoyZFFEcl9OT3o1aUx5V1lwNEtUUDZtT0Y5MFlmUmRjVFhXTWk5VVM0clR6RjhqZFJvQlN0YVhfNnB0OGU4R0VJLXBPTXlLMFo3eTNfd0x5bU5tMUFHUTdKRkRESnhSVnk0YUR1azlnWGtXcjE1NnB5R0xzbFZVaVVfVU1MM3VtYW9BS3VLYVVLQU9NYWNRQ1RSTkZKZw)
-
+  - [China AI supply-chain IPOs hold firm despite valuation pullback, Citi says](https://news.google.com/rss/articles/CBMixAFBVV95cUxNcnFDdU1MSGd4Ylh4aktUWnlOM2V2RklNLXAxVm5QNThadUkzS2k1cWhoNnJpQkF3Nzk2U1c5ZlJlbUhGVFVpZTIxZEJYak8yVmtjVVhBdGs5NnVjVlowQnhRaWw1enZTVjBIVS1Wd2wwMkQtV2lYelR3MTFfVVlRRTBfMlBOUTlDYlI4UXdBZEFfcUFQcVNNNHVzOTR4bnUyanUtRE9nVkdnbTk4VHJvRWVxM2xjcXhjVUI4WVh2Y3Q2Q0Fw)
+  - [Trump waives key Russia-related sanctions, tariffs before they take effect under new law](https://news.google.com/rss/articles/CBMixwFBVV95cUxQUWRsWXNvbUVMb01QdTFTbEhpSGhZLVZYVXZramJkQjg2RXUzbXRaZjZlcnY1QTNoeU1zQzhhOEhwOFZVSkRySFFZNWI3RjZtUHJLaDhybEhWVzFBTF9uVlZjWlNSQk5aX25iZ0EySjRQYjR5aVRiM1VERjVFWmpTOTR0Y1ZhNUtaTHpTaWdZZVRPUmppTUJtYl9IZlhGQnM3WkVSNmRreVBjaDF5anFfSHhqN1ZUc2p3cjRoU0pyUzRkZjlBM05B)
+  - [German minister seeks debt-brake exemption to sustain Ukraine aid](https://news.google.com/rss/articles/CBMipwFBVV95cUxNNzgyQjREYTJZX3VWNTU2MWE0Y1YzRFZHTi1hb2pxVWFRV1lqd05fZVdKZXZsT1pCckMtOWJKaGxEM2dDOVVBQnVhVEdtaDBEZXRpTWx1ZFhVbDZqYzh0X1hpbWI0LUNvMlk1WHJCbGFtbzZDZFhmUTJlUXFUblJIYzhXenJFTUlTelYzTFpfNUUxVkFocHRLWjlDelJnUWFIWEkzQkMtZw)
 - **WSJ**
-  - [Bank of Japan Must Ensure Underlying Inflation Doesn’t Go Above 2%, Ueda Says](https://news.google.com/rss/articles/CBMixgFBVV95cUxQSWZaejJENjlkZjR2dmxXVmdKNGdpNk94S1laVWQtbEo1ajU1R1pxR21WU0Y3c3BFc1BKODZvNmxNdnVXeGd0bl9hZGg1NXRnWElSVHI0V0ZmdkdzSk9zU1NNSGZzNDNpNlRaRlRfTjJyc3M4dWlSc0RiR01OTGN2OEVWbkNNZy1RTDRIUGNaZWs1T2JDRktWM2NKODRMSnNoZmplSTdHbWFpMkJIOEZLTUNjMzBtdEVmTWcwNDIyMmtnT2tKMUE)
-  - [China Proposes Export Controls on AI Technologies](https://news.google.com/rss/articles/CBMilwFBVV95cUxQMjh5b1NsdWxQRXNwXzlLSi1pLU8wdlIxVEc0TU1Md0hLM1FUdEVvcnhPa3d6bFBHc2VtY1UtRzZITnI1eVlzWGYyelBocjBsRXpBa1NlVjBwMmplX2Zhd0tUSWJDUmFGQVhIVVQ2UzlxN25ZdUFHbTFXejJqM3NWOXduVDhtdmZ4R0FiM2NoaVRtMzFRZjV3)
-  - [U.S. Natural Gas Futures Settle Lower](https://news.google.com/rss/articles/CBMipAFBVV95cUxPSlJCOGU5TEd3TWxfTVhaeElzX2RDWGl2RzUydmFmTXROTnFZazA5cHRUUC10a0NMU1FENG11WVFVMHQ4dzlpUlJkUjJFc1hvZWc0ejE1b05vNTZVUEs4NG9xTFRyT1h5Tjg2MlAwdUYtNFVGc3BXZ3BIVFdGYklQdkgxZkZLQ1BkWGk3dVh4ZHlVSDd2elhFVi0wN0o5NUphVTFlTA)
-
+  - [Iran Is Giving Houthis Targeting and Intelligence for Attacks on Saudi Arabia](https://news.google.com/rss/articles/CBMihgFBVV95cUxPOS1nT1V3ajJHakhMdm5jRDRqQW5PMlU5N1FidUlPemxtZFBFYV9UY0dJdGp2US1qU2NsbGRLazVUd2RsXzc3bWIxa00xcmpEbEY4aG9xcmkzX3g2ZDd2RVdlRGRGV0JUZjZLN0JTU2xybHFKQTlaV19oYUp3a2o5Wjg2Sk9kQQ)
 - **FT**
-  - [Oil hits five-month high of $110 on new escalation in Middle East](https://www.ft.com/content/8ee22d89-03eb-48dc-99a5-27555373a89c)
-  - [China unveils draft export controls on AI technologies and chips](https://www.ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf)
-  - [In Bangkok, central bankers push back on market rate-tightening bets](https://www.ft.com/content/4c83ec2c-cd77-4f9b-94e6-fdf70af706ef)
-
-- **CNBC**
-  - [Fed's Warsh withholds rate signal, praises recent global tightening](https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html)
-  - [Trump says he won't use nuclear weapons or send ground troops to Iran](https://www.cnbc.com/2026/10/16/us-iran-war-trump-hormuz.html)
-  - [Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries](https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html)
-
+  - [Anthropic offers Blackstone double-digit yield in latest chip financing](https://www.ft.com/content/cb4034e1-475f-40b9-a5f9-256e91aacb89)
+  - [North Korea gets closer to China and Russia with new bridges](https://www.ft.com/content/062bb1af-d44b-4176-89cd-49042e06362b)
 - **SCMP**
-  - [China warns EU not to ‘fantasise’ on trade approach as Brussels confirms new ‘kill switch’](https://www.scmp.com/news/china/diplomacy/article/3371217/china-warns-eu-not-fantasise-trade-approach-brussels-confirms-new-kill-switch)
-  - [China’s AI boom, self-sufficiency push fuel earnings surge for local chip firms](https://www.scmp.com/tech/tech-trends/article/3371159/chinas-ai-boom-self-sufficiency-push-fuel-earnings-surge-local-chip-firms)
-  - [North Korea says it tested new torpedo with AI tech](https://www.scmp.com/news/asia/east-asia/article/3371218/north-korea-says-it-tested-new-torpedo-ai-tech)
-  - [EU rallies around Zelensky as rift widens with Trump over Russia energy strikes](https://www.scmp.com/news/world/europe/article/3371174/european-leaders-back-zelensky-ukraine-us-ties-fray-over-trumps-russia-sanctions-lift)
-
+  - [Trump pauses Russian sanctions package after striking diesel deal with Putin](https://www.scmp.com/news/world/united-states-canada/article/3371222/trump-pauses-russian-sanctions-package-after-striking-diesel-deal-putin)
+  - [‘Hot economics, cold politics’: why China gave nod for expanded Japanese trade trip](https://www.scmp.com/news/china/diplomacy/article/3371192/hot-economics-cold-politics-why-china-gave-nod-expanded-japanese-trade-trip)
+  - [Hong Kong touts key advantages over London in bid to become global gold hub](https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371228/hong-kong-touts-distinct-features-set-it-apart-london-global-gold-hub-push)
+- **CNN**
+  - [How the US-Iran war upended two critical global trade routes](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWkhLc0FrR3BPSms3TDdwX1QxN2tFaUpMM2t5eHQyWWFyYUxqN3JNUkdfU2hERzltNkZJY09kc0RMVGF5cWNURjlkNndGUmpkMmFINk5za1AxOWZzSklYcHR6d09OYWR3TzM5LXd1bDItb0oxaGYzNmNwUUwwLW5xa18tRW5qYm0tVWQ3aFNteVZMa2pVX0pISEY3OUV4Vi1ZZUxCOA)
 - **Al Jazeera**
-  - [Iran war live: Trump claims US Navy blockade stops Iranian ships in Hormuz](https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2)
-
+  - [Trump puts on hold new Russia sanctions he signed into law](https://www.aljazeera.com/news/2026/10/17/trump-puts-on-hold-new-russia-sanctions-he-signed-into-law)
+  - [Trump waives Russia sanctions as rift with Zelenskyy widens](https://www.aljazeera.com/video/newsfeed/2026/10/17/trump-waives-russia-sanctions-as-rift-with-zelenskyy-widens)
+  - [Iran-backed Houthis strike Yemen’s Aden: What that means](https://www.aljazeera.com/news/2026/10/17/iran-backed-houthis-strike-yemens-aden-what-that-means)
+  - [Can Yemen’s government forces sustain their offensive against the Houthis?](https://www.aljazeera.com/news-analysis/2026/10/17/can-yemens-government-forces-sustain-their-offensive-against-the-houthis)
 - **WSJCN**
-  - [央行规范银行间债券市场债券发行行为，禁止发行人认购、变相认购自己发行的债券](https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5dTM0YXdZZk9taXNqTkVBbDJzd3hhWk9GWjJrSU5FOFNWQ3J2N1ppMHJoYm1MU01LXzFHZXlxd1NuYU9YU3RST3k4U0FSNHNMS0pv)
+  - [卢比单周涨2%创七个月最大，贸易逆差却扩大至302亿美元，印度央行护盘资金已动用约一半](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJbC10WVQtZzRPUEtPODdkQURJV081cHBzQVhVYXFCblZidGNFZ2l1d3Y5R0Y2VHVFQUlRRk9ocE9zQ0VCejdYRHNNX3k3Z0xzRmtR)

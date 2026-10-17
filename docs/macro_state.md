@@ -1,24 +1,24 @@
 # Macro State — Last updated: 2026-10-17
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Middle East oil and chokepoint escalation** — Status: Acceleration; Brent `$110`, Saudi-led missile intercepts, US strike option and SPR exchange raise inflation and risk premium; next trigger: US strike decision, SPR award, Hormuz transit.
-- **AI credit stress and Fed quiet** — Status: Acceleration; CoreWeave `25%` weekly slide, S&P worst week since June, dollar soft as Warsh withholds hike signal; next trigger: CoreWeave credit stabilization, Fed speakers, Treasury refunding.
-- **China-EU trade weaponization and tech self-sufficiency** — Status: New; EU kill switch and import curbs meet China AI/chip export controls while local chip earnings surge; next trigger: EU draft details, China implementation, Q3 GDP.
-- **US fiscal and inflation impulse** — Status: Confirmation/Acceleration; US import prices largest annual gain in over four years and deficit near `$2 trillion` complicate Fed hold; next trigger: PCE pass-through, refunding, Fed communication.
+- **Middle East oil and chokepoint escalation** — Status: Acceleration; Iran-Houthi intelligence and Red Sea supply threats keep energy risk premium elevated; next trigger: confirmed Saudi energy infrastructure strike or US strike decision.
+- **AI credit stress and China underperformance** — Status: Acceleration; Anthropic double-digit yield and Chinese stocks becoming biggest losers extend tightening; next trigger: Chinese AI IPOs and AI credit stabilization.
+- **Russia sanctions relief and energy-price politics** — Status: New/Reversal; Washington pauses and waives sanctions after diesel deal to ease energy prices; next trigger: EU/Ukraine response and diesel flow data.
+- **ECB tightening convergence** — Status: Confirmation/Acceleration; officials lean toward December third hike; next trigger: December ECB decision and euro area inflation data.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- US strike decision against Iran, official de-escalation/ceasefire progress, and SPR exchange award.
-- CoreWeave CDS/credit stabilization and AI bond secondary stress.
-- EU import curb details and China export control implementation.
-- US import price follow-through into PCE and Fed speaker reaction.
-- North Korea military test response and Korea Peninsula risk.
+- Confirmed Houthi attack on Saudi energy infrastructure or US-Iran de-escalation/ceasefire.
+- Russia sanctions exemption implementation and EU/Ukraine countermeasures.
+- Chinese AI equity performance and AI financing spreads.
+- ECB December hike communication and euro area inflation prints.
+- India rupee intervention and trade deficit trends.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will oil’s reinflation impulse overturn Fed hold repricing and lift front-end yields?
-- Can AI credit stress remain contained before widening to leveraged credit or private debt?
-- Will China-EU trade escalation and export controls undermine China chip earnings and equity support?
+- Will AI credit stress spill into broader Asia equity and FX risk-off?
+- Can Russia sanctions relief offset Middle East supply risk enough to cap energy prices?
+- Will the ECB’s December hike be a one-off or extend into 2027?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- Brent `$110` first time since May; energy supply-risk threshold ([BBG](https://www.bloomberg.com/news/articles/2026-10-16/oil-tops-110-for-first-time-since-may-as-supply-risk-grows), [FT](https://www.ft.com/content/8ee22d89-03eb-48dc-99a5-27555373a89c)).
-- US fiscal deficit `$1.99 trillion`; government borrowing need and long-end supply pressure ([BBG](https://www.bloomberg.com/news/articles/2026-10-16/us-posts-1-99-trillion-budget-gap-for-2026-as-spending-climbs)).
-- CoreWeave weekly slide `25%`; AI credit stress gauge ([BBG](https://www.bloomberg.com/news/videos/2026-10-16/coreweave-slides-on-ai-fears-closing-bell-video)).
+- Anthropic `double-digit yield`; AI financing cost threshold ([FT](https://www.ft.com/content/cb4034e1-475f-40b9-a5f9-256e91aacb89)).
+- ECB `third interest-rate increase` finishing 2026; policy trajectory ([BBG](https://www.bloomberg.com/news/articles/2026-10-17/ecb-leans-toward-december-hike-as-bangkok-talks-expose-risks)).
+- Rupee `2% weekly rise` and `$302 billion trade deficit`; India FX intervention gauge ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJbC10WVQtZzRPUEtPODdkQURJV081cHBzQVhVYXFCblZidGNFZ2l1d3Y5R0Y2VHVFQUlRRk9ocE9zQ0VCejdYRHNNX3k3Z0xzRmtR)).
