@@ -1,22 +1,24 @@
-# Macro State — Last updated: 2026-10-16
+# Macro State — Last updated: 2026-10-17
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Fed October hold and AI-driven dollar softness** — Status: Confirmation; Warsh reinforced hold expectations and dollar fell despite hot PPI, shifting focus to AI risk; next trigger: US import/export prices and industrial production at 20:30 HKT.
-- **China growth miss and policy support** — Status: New; PBOC called for joint action on imbalances and promoted yuan bond collateral, while authorities moved to support equities; next trigger: PBOC daily CNY fixing, Q3 GDP, state fund buying.
-- **Middle East energy/chokepoint escalation** — Status: Reversal/Fading for nuclear/ground tail risk; Trump ruled out nuclear weapons and ground troops, but bunker fuel tightness persists; next trigger: US strike decision, IEA diesel delivery, Vitol/freight readings.
-- **EM stress** — Status: New/Acceleration; Indonesia MSCI downgrade warning sank stocks most since 1998 and South Korea is reviewing Middle East military expansion; next trigger: MSCI final decision, Korea government confirmation.
+- **Middle East oil and chokepoint escalation** — Status: Acceleration; Brent `$110`, Saudi-led missile intercepts, US strike option and SPR exchange raise inflation and risk premium; next trigger: US strike decision, SPR award, Hormuz transit.
+- **AI credit stress and Fed quiet** — Status: Acceleration; CoreWeave `25%` weekly slide, S&P worst week since June, dollar soft as Warsh withholds hike signal; next trigger: CoreWeave credit stabilization, Fed speakers, Treasury refunding.
+- **China-EU trade weaponization and tech self-sufficiency** — Status: New; EU kill switch and import curbs meet China AI/chip export controls while local chip earnings surge; next trigger: EU draft details, China implementation, Q3 GDP.
+- **US fiscal and inflation impulse** — Status: Confirmation/Acceleration; US import prices largest annual gain in over four years and deficit near `$2 trillion` complicate Fed hold; next trigger: PCE pass-through, refunding, Fed communication.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- US import/export prices and industrial production Oct 16 20:30 HKT.
-- PBOC daily CNY fixing, Q3 GDP release, and formal state fund buying announcements.
-- US-Iran strike decision, official ceasefire progress, and IEA diesel delivery timing.
+- US strike decision against Iran, official de-escalation/ceasefire progress, and SPR exchange award.
 - CoreWeave CDS/credit stabilization and AI bond secondary stress.
-- Indonesia MSCI decision and South Korea military mission confirmation.
+- EU import curb details and China export control implementation.
+- US import price follow-through into PCE and Fed speaker reaction.
+- North Korea military test response and Korea Peninsula risk.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will Fed hold repricing and AI concerns keep the dollar soft despite hot PPI and potential PCE pass-through?
-- Can China equity support and PBOC collateral promotion stabilize CNH assets amid EU trade risk and sub-target growth?
-- Will Trump’s no-nukes/no-ground-troops stance cap oil risk premium while bunker fuel tightness keeps freight inflation high?
+- Will oil’s reinflation impulse overturn Fed hold repricing and lift front-end yields?
+- Can AI credit stress remain contained before widening to leveraged credit or private debt?
+- Will China-EU trade escalation and export controls undermine China chip earnings and equity support?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- China 2026 growth target `4.5%` ([BBG](https://www.bloomberg.com/news/articles/2026-10-16/tardy-china-stimulus-sets-up-second-quarter-of-sub-target-growth)); growth under this threshold triggered stimulus and equity support.
+- Brent `$110` first time since May; energy supply-risk threshold ([BBG](https://www.bloomberg.com/news/articles/2026-10-16/oil-tops-110-for-first-time-since-may-as-supply-risk-grows), [FT](https://www.ft.com/content/8ee22d89-03eb-48dc-99a5-27555373a89c)).
+- US fiscal deficit `$1.99 trillion`; government borrowing need and long-end supply pressure ([BBG](https://www.bloomberg.com/news/articles/2026-10-16/us-posts-1-99-trillion-budget-gap-for-2026-as-spending-climbs)).
+- CoreWeave weekly slide `25%`; AI credit stress gauge ([BBG](https://www.bloomberg.com/news/videos/2026-10-16/coreweave-slides-on-ai-fears-closing-bell-video)).
