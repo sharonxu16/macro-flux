@@ -1,106 +1,84 @@
 ---
 tags:
+  - Macro/China_Growth
   - Macro/Hormuz_Blockade
-  - Macro/China_Export_Controls
-  - Macro/AI_Credit_Stress
-  - Asset/Brent
+  - Asset/CNH
   - Asset/UST
-  - Trade/Long_Brent
+  - Trade/Long_CNH
 ---
 
 <div align="center">
 
 # 🌊 Macro Flux
 
-<small>Oct 16 5:30 PM to Oct 19 8:00 AM HKT</small>
+<small>Oct 19 8AM to Oct 19 5PM HKT</small>
 
-<small>Good morning.</small>
+<small>Good afternoon.</small>
 
 </div>
 
 ---
 
 > [!abstract] Overview
-> A broadening Middle East war premium drove Brent to `$110`, its highest since May, after missiles targeted Saudi energy hubs and Iran signaled a prepared response, while traders weighed an unconfirmed Hormuz reopening proposal. AI credit stress slammed Big Tech to its worst week since the post-liberation-day sell-off, triggering a flight into Treasuries that interrupted this year’s bond-market slump. Washington’s Russia sanctions waiver and Ukrainian strikes on St Petersburg added a second energy-supply shock. Beijing proposed export controls on solar and AI technology just as EU trade friction escalated, raising the stakes ahead of Monday’s China GDP and LPR. Chair Warsh and other central bankers pushed back against October tightening bets, giving bonds and gold a brief reprieve. The common thread is a dollar-liquidity squeeze: war-driven energy costs, tech-credit losses, and trade restrictions are reinforcing demand for dollars and Treasuries while keeping Asia FX and equities defensive.
+> China’s third-quarter GDP re-accelerated to `4.5%` from `4.3%`, beating forecasts and driving the yuan to a four-year high, while benchmark lending rates are expected to stay unchanged for a 17th month. Oil slid after Washington waived sanctions on Russian crude, outweighing fresh Saudi drone intercepts and a `1,000`-drone Ukrainian attack on Russian energy infrastructure. That fall in crude helped US equity futures and Treasuries recover from last week’s AI-driven rout, with Nasdaq 100 futures up `1%` and US yields lower in Asian trade. But risk appetite remains split: Indonesian stocks hit a six-year low on MSCI downgrade fears even as developed tech stabilizes. The common thread is a fragile rotation from energy-driven risk premium into China-led growth optimism, still constrained by domestic softness and unresolved Middle East supply threats.
 
 ---
 
 ## 🔬 Narrative Watch
 
-### 📌 Middle East war premium: missiles at Saudi energy hubs push Brent to `$110`
+### 📌 China Q3 GDP beats at `4.5%`, yuan hits four-year high
 
 **Fact**
-Oil hits five-month high of `$110` on new escalation in Middle East. Brent prices jump on reports that **Saudi Arabia-led forces intercepted and destroyed missiles aimed at critical energy hubs** ([FT](https://www.ft.com/content/8ee22d89-03eb-48dc-99a5-27555373a89c)). Oil touches `$110` a barrel for first time since May on Middle East, Russia supply fears ([Reuters](https://news.google.com/rss/articles/CBMiywFBVV95cUxOY0FIVXBWc1k5eW1ObWUyOGNQS1NGZDA5anNoLVJmVDRoMGR0ZUM5aWdDYTFDX3lKN2dYbVlhZzhuTFUwcVo3N0xmTkpBNXJKV2JLVW9qUmdmNWdxaWFJVlFZLWVPVHJjZ0RTNUdYdGxoMk9RZms0aHpzQWlTVDd4LUNnQ1RKUlZmVkhFSS1FQlk5bWl1dkU2QTQ0bDA2dVdHVzMzcTlRZi00ZkM1THVWRFgzTnYtUm9id3pBM1BWeEI4ZVFqU1ltSDB2SQ)). **Missiles hit Aden airport** as Saudi-led coalition intercepts missile headed for Yanbu ([Reuters](https://news.google.com/rss/articles/CBMiywFBVV95cUxPelJ6OUp1VFpwTmJ0Qm85TzRUS2ppU0swVFMydlJuTDZiS1Q1V2R6M1N4bmpfeTZ0aWNqd29XbGdDMm9IVllmLTZUazAxQWFzX3lsVlJBbHI4TVRfQVFrZlk5MkNqVzVCMU5XYkFwM3Fyb0pkbDk0bGo5N1dwQWJMMEo5aEhIeXpaS1J5TkRLVFZTem93Rl9rM2trUHZlaDQwSzVIQTB4UG1xelRQSU5wZ2I4X1N1V0VPUElsWHBIYVZvckhpYk9RZVhZaw)). Iran Is Giving Houthis Targeting and Intelligence for Attacks on Saudi Arabia ([WSJ](https://news.google.com/rss/articles/CBMihgFBVV95cUxPOS1nT1V3ajJHakhMdm5jRDRqQW5PMlU5N1FidUlPemxtZFBFYV9UY0dJdGp2US1qU2NsbGRLazVUd2RsXzc3bWIxa00xcmpEbEY4aG9xcmkzX3g2ZDd2RVdlRGRGV0JUZjZLN0JTU2xybHFKQTlaV19oYUp3a2o5Wjg2Sk9kQQ)). Mohsen Rezaei, secretary of Iran's Supreme National Security Council, said the country's military has prepared a response to any new attacks ([CNBC](https://www.cnbc.com/2026/10/18/iran-us-war-rezaei-operational-plan-shipping-attacks.html)). Trump said he would not use nuclear weapons against Iran or send ground troops as the U.S. reportedly weighs new strike options ([CNBC](https://www.cnbc.com/2026/10/16/us-iran-war-trump-hormuz.html)). Iran urges US to accept proposal to reopen Strait of Hormuz ([Reuters](https://news.google.com/rss/articles/CBMipwFBVV95cUxOWUh3Z1JyMmU4SkJ4ZXQ4Y0VaN3RMS1Vtcmg4S1lDMGlvUG1GeVY3Q1pkaWltSG5yOWhmcTBnNkk4U0ZiTVREVzd3RVRZNjZJTjhaTkg5bTFGX0J2Q0JzTUI4UlZIWmxHMmRDeVRRODZRYU1mbkNrVzFRX3piTnpDbllfUGc3NnJkSl9hWWRCQzlxZjFBYnE5bXJQMVBjMzNBUFlNcmRtcw)). How the US-Iran war upended two critical global trade routes ([CNN](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWkhLc0FrR3BPSms3TDdwX1QxN2tFaUpMM2t5eHQyWWFyYUxqN3JNUkdfU2hERzltNkZJY09kc0RMVGF5cWNURjlkNndGUmpkMmFINk5za1AxOWZzSklYcHR6d09OYWR3TzM5LXd1bDItb0oxaGYzNmNwUUwwLW5xa18tRW5qYm0tVWQ3aFNteVZMa2pVX0pISEY3OUV4Vi1ZZUxCOA)).
+China’s economy grew faster than expected in the third quarter, keeping it broadly on track to meet Beijing’s annual growth target, as robust global demand for the country’s hi-tech exports bolstered economic momentum. Gross domestic product (GDP) grew by `4.5 per cent` in the third quarter, accelerating from `4.3 per cent` in the second quarter ([SCMP](https://www.scmp.com/plus/economy/china-economy/article/3371375/rebound-chinas-gdp-growth-keeps-2026-target-sight)). Third-quarter GDP rate puts world’s second-biggest economy on track for full-year target, analysts say ([FT](https://www.ft.com/content/cf113314-1077-4ab4-b667-9912656684f1)). 三季度GDP同比增速微升至`4.5%` 名义增速继续走高；9月工业增加值同比增长`5.5%` 出口交货值增速创新高 ([Caixin 1](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MbmgtNEVkbGsydGU4Nk01ZmlzcFBVT0ZHOHZtX0FsSUpCRW4yUWVGS2NtOUFQZFdYcUJHN3ZxNUltVnNzS3JCVG84S2JXUnNTdUZub3ozZXMzTUpScUxKYTZn), [2](https://news.google.com/rss/articles/CBMiYkFVX3lxTE50dHUwNjBCRTlNWW5xR2ZVQ3dQNlg3bndRSlRfVjhSRndSQjlScHpSRjJIWk90eG9MV2xyR0xwQXRCZS1NOERqZUlyZGE0ZXRNeUtLeTRlQVpadWNlNGV6VDB3)). China set to leave benchmark lending rates unchanged for 17th month ([Reuters](https://news.google.com/rss/articles/CBMirAFBVV95cUxQV0dSY2gyXzJ6LVdfTmNQQWFzZUJodXg0N09QQ0VEQXFvUVc4SXRIY3Z5U1JCOFZSV1Rmc0h6QWFJcGoxRzRxTkU0TVQwS1A2V09jVnJ4YmNYaF80T2h5b0xtM1ZpRHA2clQtWmdGVHhNaWJHYjQ5M3FiNl9kREpWMFJ4MDNmRGh6YTluTTBialgxcEd6T3BLdzBPWDh6X0ZuYjZ3ZS1seUgyV1hE)). Dollar holds losses; yuan hits 4-yr high after China Q3 GDP beat ([Investing](https://www.investing.com/news/forex-news/asia-fx-ticks-higher-yuan-hits-4yr-high-after-china-q3-gdp-beat-4956302)). China economy grows thanks to AI export boom but domestic slump remains a drag ([CNN](https://news.google.com/rss/articles/CBMibEFVX3lxTE9YZUM1RVhqMlhRS3JtZXkySURkQklGNnhTUnV0aFRRc2RnVzJhZVVSY1RGc05CaHNsdlpUS0ZLQTdPeXE0aGVXaHRmYzhKOWZKdi1DV0R1Yk8xSzg3V0hTTjN4bF9FQmlkV2FaeA)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Acceleration versus the Hormuz tanker narrative; missile attacks now target Saudi energy hubs and broaden regional escalation risk.
-> * **Transmission / Market Read**: Risk-premium and energy-supply channel favors **long Brent** and **short Asian energy-importing FX**, especially KRW and INR.
-> * **Watchpoint / Confidence**: Watch US response to Iran’s Hormuz reopening proposal and whether Yanbu/Aden missile fire continues; Confidence: High.
+> * **Narrative change**: Confirmation of China growth stabilization; GDP `4.5%` beat and export surge lifted yuan to four-year high.
+> * **Transmission / Market Read**: Growth channel supports **long CNH** and **China equities**; LPR on hold signals patient policy.
+> * **Watchpoint / Confidence**: LPR fix Oct 20 plus MOFCOM export-control details could cap CNH and tech; Confidence: Medium.
 
-### 📌 AI credit stress: Big Tech’s worst week since the post-liberation-day rout drives Treasury haven bid
+### 📌 Oil retreats on Russia sanctions waiver; Middle East risks persist
 
 **Fact**
-Big Tech stocks suffer biggest weekly drop since ‘liberation day’. AI trade jitters send investors scrambling for government debt in a move that halts a months-long Treasury sell-off ([FT](https://www.ft.com/content/4c4f03f4-f878-4bd6-8128-5be7e3bb8ca1)). Anthropic offers Blackstone double-digit yield in latest chip financing. High borrowing costs complicate AI lab’s goal of achieving investment-grade status ([FT](https://www.ft.com/content/cb4034e1-475f-40b9-a5f9-256e91aacb89)). US Treasuries are showing tentative signs of reclaiming their traditional role as a haven — threatening to wrong-foot investors who are heavily positioned for this year’s bond slump to deepen ([BBG](https://www.bloomberg.com/news/articles/2026-10-18/bond-market-s-big-short-bet-gets-wakeup-call-as-ai-trade-wobbles)). Accelerating US inflation and tremors across the AI sector jolted stocks in recent days, and some investors are now betting that bigger swings in tech shares will finally spread to the broader market ([BBG](https://www.bloomberg.com/news/articles/2026-10-18/option-traders-brace-for-vix-surge-as-ai-jitters-jolt-market)). Chinese stocks turn biggest losers as global AI trade stumbles ([BT](https://news.google.com/rss/articles/CBMirwFBVV95cUxQUHY5MEo1NEU1cFVBWGVOclAybndna0xET1NLOHlEV2IxM05nVFRGSi15QkpVbHhfdUxyU254ZHlHb3dNT3BzWElrNHJ2SUZ1enl0OVFydGxTcVpCcjNjYy1tM2hUdGFsZjROWnBLYU5nUk8tUEZfejhQTUdfUjJvakYyaDhVMkFpbDhjZE92U2VidzhJOTE3Tk9BcXNZeEVuNHFSZmN3SzFqeVFJSUdV)). US equity-index futures rebounded from last week’s chip rout ahead of key earnings that may set the market’s direction amid mounting pressure on the artificial intelligence trade. Oil slipped. ([BBG](https://www.bloomberg.com/news/articles/2026-10-18/stock-market-today-dow-s-p-live-updates)).
+Oil Falls After President Trump Waives Sanctions Against Russia. Oil Prices Fall as Traders Weigh Russia Sanctions Waiver, Middle East Risks ([WSJ 1](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTDJ2Qjl2WFNBTjRjQzBPZ3NvaVFXOFctRlZqQzBVZDhDTkR4eEZ6NzZadGhJZHdwSzVuVExwYmxtUFVucTdBRVFzS1BfT3dVeVpNYmJzUzNnTVlzZng0dUZzNTlLOERkZl8wbXRjZS1QVlRDbnhBejVWU2k1UnF5U1BhZzNiUGd6TEFvWmkxajJmUzdiSVBOWnIzaHBmWE9Td1FMMUZtNEMxcEtzOXltQmhsNzNvRTNNX3VhYm8yX2xzU0diYTNNZkp1M0Q5LTJoZGxTaWg0MG1VTlR1Smc), [2](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTjUxeXdZWDd5c3MxTHBocWZqajJlQ2UwRTF6dW9KMXh6Q1ROdllKRGZiMV9kWUhvRW9CQzNQMU1LYk80U04zc0dLU2ppcFkySWRjenZFSm8wQjA5QmRPVXhPN3dhMTZPdnFiWjh1QjZ6VDR1ZDg5dFFlZ0t0STJzZlBrUzBMQ0N1R1RTQ2FkekRVaTlPN3lPYU94ZjZRdktUTlJEeTVqSEVFamNkc1FWelQ2MnRNb25OemZ5aUx3dl8)). Oil prices slide as sanctions relief on Russian crude raises hopes of increased supply ([CNBC](https://www.cnbc.com/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html)). Saudi Arabia Intercepts Drone Waves, Trump Says Riyadh Welcomes US and Israeli Support ([BBG](https://www.bloomberg.com/news/videos/2026-10-19/horizons-middle-east-africa-10-19-2026-video)). Ukraine launches over `1,000` drones at Russia, setting oil facilities ablaze ([Al Jazeera 1](https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites)). Qatar warns global energy shockwaves from Iran war have yet to peak. Deputy PM calls for dialogue with Tehran, highlights US defence ties and rejects Strait of Hormuz transit fees ([Al Jazeera 2](https://www.aljazeera.com/news/2026/10/19/qatar-warns-global-energy-shockwaves-from-iran-war-have-yet-to-peak)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Acceleration from AI valuation jitters to explicit credit stress; Anthropic is paying a premium to fund chip commitments.
-> * **Transmission / Market Read**: Liquidity and risk-premium channel supports **long UST duration** and **short Asia semiconductor equity beta** while credit stress deepens.
-> * **Watchpoint / Confidence**: Meta earnings, Nvidia GTC, and Treasury yield follow-through confirm or fade the risk-off; Confidence: Medium.
+> * **Narrative change**: Reversal of the oil war premium as Russia sanctions relief outweighs ongoing Middle East and Ukraine strikes.
+> * **Transmission / Market Read**: Inflation/risk-premium channel; lower crude supports **long UST** and **Asia FX**, pressures energy equities.
+> * **Watchpoint / Confidence**: New Saudi energy hub strike or Hormuz transit disruption reverses the move; Confidence: Medium.
 
-### 📌 Fed October repricing: Warsh withholds signal, markets pare rate-hike bets
+### 📌 US tech stabilizes as Nasdaq futures rebound; Treasury yields fall
 
 **Fact**
-Gold Edges Higher as Traders Ease Rate-Hike Bets on Warsh Speech. Gold opened the week higher as traders pared bets on the Federal Reserve raising interest rates this month after remarks by Chair Kevin Warsh ([BBG](https://www.bloomberg.com/news/articles/2026-10-18/gold-edges-higher-as-traders-ease-rate-hike-bets-on-warsh-speech)). Warsh refrained from signaling another interest rate hike this month, pointed to a 'synchronous tightening' by central banks in the fight against inflation ([CNBC](https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html)). Federal Reserve and ECB play down likelihood of October rate rises while BoE says data does not currently support substantial further tightening ([FT](https://www.ft.com/content/4c83ec2c-cd77-4f9b-94e6-fdf70af706ef)). Rate markets have been particularly volatile on the outcome of the Fed’s next rate decision later in the month ([FT](https://www.ft.com/content/5b36d8a4-49f1-4877-8719-2db984c13081)).
+Nasdaq 100 futures rise `1%` following biggest weekly drop since Trump’s ‘liberation day’ in April last year ([FT](https://www.ft.com/content/915ea7ca-1f35-4847-810a-fb29e8344496)). European Chip Stocks Mixed as U.S. Tech Futures Point to Recovery ([WSJ](https://news.google.com/rss/articles/CBMikwFBVV95cUxQWVpCTGEzNHM2dnhMVW9kU1JJcTAtMnd1YVRWZW5iNjlldk1OcTMzMjJrNkVTM3hVVW1HT3paWVZDbElDcXU0MENtbFFWcF9uQkF2cmIwRjM3RFVNaEJ3Vk1BNVdGR3VhVGNFZDIyYlEwSnFYTDRvV0E3cnJnS0RZQjdLTkowT3RCYjZsaUFvRzV1Rkk)). U.S. Treasury Yields Fall in Asian Trade ([WSJ](https://news.google.com/rss/articles/CBMijwFBVV95cUxOSk1wWWp6WG1vZjdfYjZXX1hRU0lPVEl6WnVGbkozSXB5eTU5UHN2aG9nRHRpc1VMNlI5eF92YXNZNTFUOGFBMnk1anY0cUxFcG5YTTF0NFRhaGZ0VjkwbjNETmpiWkVXUHlNMmZJV014MlJ2LXRKZWlmS3E1N21wZHdnUXZybnJBRzlVSmdwUQ)). Treasury yields moved lower as investors weigh the domestic inflation and interest rate backdrop against broader geopolitical developments ([CNBC](https://www.cnbc.com/2026/10/19/bonds-treasurys-us-yields.html)). Gold Rises Amid Falling Oil Prices ([WSJ](https://news.google.com/rss/articles/CBMiugFBVV95cUxOZU5uN1haS1FQQW82aVdiWmxlbDJrMkszT091U2xWR3dGOTdBeVZ6Z0gzSGpqQ2ZNTE96MG1kckxxY2NVV0I0THpteE9lWGZTdHUxa01OTzJkUndWcVVRWDVZWHVYeFZPcm5VckhaZFBVRDRjcmgyRDg5OUJ1WFBlTlotVGlnekE3SVFDVkpFMHBQbTVPWmd4WTNSSTd1X0ZJNDFlUmVWcGxlSE5oWG1ENmZoYk1oVTdKZlE)). Morgan Stanley’s Wilson Says Get Ready to Buy as Stock Drop Ends ([BBG](https://www.bloomberg.com/news/articles/2026-10-19/morgan-stanley-s-wilson-says-get-ready-to-buy-as-stock-drop-ends)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Reversal of market pricing as Chair Warsh withholds an October hike signal and Bangkok officials push back on tightening bets.
-> * **Transmission / Market Read**: Policy-rate channel lowers front-end hike premium, supports **gold** and the **US Treasury front end**.
-> * **Watchpoint / Confidence**: Next Fed decision and US inflation data are the binary; Confidence: High given direct official statements.
-
-### 📌 Russia sanctions waiver: Washington reprieve adds second energy-policy shock
-
-**Fact**
-Trump exempts Russia from further sanctions mandated by new law. US president gives Putin a reprieve on threatened energy measures after cutting deal with Moscow to release diesel ([FT](https://www.ft.com/content/836eddd7-3adc-4cbb-8527-7a0a7a277e50)). Rubio says Trump to take up to `60 days` to weigh Russia sanctions ([Reuters](https://news.google.com/rss/articles/CBMiogFBVV95cUxNRlRkQlBQYXFvck1VQUYxcVpwM2dEVDMwQThIY3ZHRldBd0M0dmV5NXFnZlBXMnpuUnozQlhLbkg4ZjZCT3kzVW5mcnl3RVEwUXRpdUJsZGViRlE1MFdJbHZWZ3pRTXNOUDQtOTRsQU5nSzd4a3d5Z3c2dTkzZWZSNlZsbXZBamFSMS1qVEVnaHc2MTZJUHZ4YU1zS0hfNVM4eVE)). Zelenskiy criticizes Trump's waiver of sanctions on Russia as 'wrong' ([Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxQUWRsWXNvbUVMb01QdTFTbEhpSGhZLVZYVXZramJkQjg2RXUzbXRaZjZlcnY1QTNoeU1zQzhhOEhwOFZVSkRySFFZNWI3RjZtUHJLaDhybEhWVzFBTF9uVlZjWlNSQk5aX25iZ0EySjRQYjR5aVRiM1VERjVFWmpTOTR0Y1ZhNUtaTHpTaWdZZVRPUmppTUJtYl9IZlhGQnM3WkVSNmRreVBjaDF5anFfSHhqN1ZUc2p3cjRoU0pyUzRkZjlBM05B)). Brent crude hovers near `$109` a barrel as Ukraine resumes energy strikes, tankers attacked in Middle East ([CNBC](https://www.cnbc.com/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html)). Fires broke out at an oil terminal and depot in St. Petersburg after Ukraine launched a massive wave of drone strikes on Sunday ([CNBC](https://www.cnbc.com/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html)).
-
-> [!info] [AI Reasoning]
-> * **Narrative change**: Reversal from threatened energy sanctions as Washington grants Putin a reprieve after a diesel deal, despite Ukrainian strikes.
-> * **Transmission / Market Read**: Energy-supply and European security channel tilts risks toward **elevated Brent volatility** and **softer EUR**.
-> * **Watchpoint / Confidence**: EU/Ukraine countermeasures and Trump formalizing the 60-day review; Confidence: Medium due conflicting official signals.
-
-### 📌 Beijing proposes solar and AI export controls; EU trade friction escalates before China GDP
-
-**Fact**
-China proposes export controls on solar-manufacturing technologies ([Reuters](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaGtBN1ctcU1NbGFxLXVKb01UVVdDUklxa3Z6Tk1ac05vT2lkd0d2THJqR1Q4VDBDTjJFSUlJYXNCdF83Tko2S0hrbDZSX3NrWWRrWFljNFNHOWhVUnpib3JpdjY3TWZJUEpEQzJKdnFpckZhZTM4X3RXTnhuMzVJWXRxemxoUTdlcDcwckxSUlROQ1pqbHZWdFplOEZUTHh1dDVxb3pfTlN3X2dURk1ETnJzTXJmUFluU0dfck1OSFl4YVlqZHE1NA)). China unveils draft export controls on AI technologies and chips. Expanded restrictions highlight Beijing’s determination to prevent transfer of most advanced technology overseas ([FT](https://www.ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf)). Beijing warned Brussels not to 'fantasise' that taking a hard line will force it into concessions, while Brussels confirms new 'kill switch'. Latest flare-up suggests danger of trade war between two of the world’s three biggest economies has far from de-escalated ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3371217/china-warns-eu-not-fantasise-trade-approach-brussels-confirms-new-kill-switch)). Power inverters are central to the global clean electricity boom but reliance on China is triggering security fears ([FT](https://www.ft.com/content/bc221890-6718-4792-967c-9828e96f38af)).
-
-> [!info] [AI Reasoning]
-> * **Narrative change**: New escalation from Beijing as it proposes solar and AI export controls alongside EU friction before Monday GDP.
-> * **Transmission / Market Read**: Trade-policy and supply-chain channel supports **long USD/CNH** into the LPR/GDP event risk unless data surprises strong.
-> * **Watchpoint / Confidence**: MOFCOM formal notice and China Q3 GDP/LPR prints; Confidence: Medium because draft controls are not yet effective.
+> * **Narrative change**: Reversal of AI credit stress intraday as Nasdaq futures rebound and Treasury yields fall.
+> * **Transmission / Market Read**: Risk-sentiment channel; easing AI stress supports **long US tech**, **long duration**, and lifts Asia semiconductors.
+> * **Watchpoint / Confidence**: Meta earnings and Nvidia GTC confirm or invalidate the stabilization; Confidence: Medium.
 
 ---
 
 ## 🌍 Global Radar
 
 ### 📊 Economic Indicators
-- Total investment in research and experimental development crossed `3.9 trillion yuan` (`US$583 billion`) in 2025, “maintaining a trajectory of steady growth”, the National Bureau of Statistics said when releasing the data on Friday ([SCMP](https://www.scmp.com/news/china/science/article/3371198/chinas-rd-spending-keeps-steady-rise-no-1-us-seeks-further-funding-cuts)).
-- The Treasury Department published the U.S. budget deficit for the 2026 fiscal year. U.S. budget deficit swells to almost `$2 trillion` for fiscal 2026, up `12%` in a single year ([CNBC](https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html)).
-- Global economy set for AI-driven surge, FT survey suggests. Poll of 94 economists points to benefits reaching far beyond the US and China ([FT](https://www.ft.com/content/c6aeb3a1-1874-4947-8ffc-4d993301244a)).
-- The Iran war and shifts by China are tightening the supply of dollars in international markets ([FT](https://www.ft.com/content/cea20e2a-379c-4ea2-af94-353b1896b748)).
-- The government is more “optimistic” than the International Monetary Fund about Hong Kong’s economic growth for the year, pointing to the city’s unique position to capitalise on international capital flows and the artificial intelligence boom ([SCMP](https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371288/hong-kong-optimistic-economic-growth-despite-global-slowdown-paul-chan-says)).
-- Semiconductor market to remain solid “at least through next year,” South Korea finance minister says ([CNBC](https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html)).
+- China home price slump eases, fuelling hopes for market recovery ([BT](https://news.google.com/rss/articles/CBMiowFBVV95cUxQUzNCZlJVSzdnS25vdFhMakh5aXpFNmxiT1ZTUzV1Z2ZZeE9KWV9tQ1NqS05UNlJsMkpMcGRwb1R5QjNIVFJLUW85N1M2cVp0X0pmSENRa2s5enl6Q0dXSGNzR1RBQ3ZhVnR2NUtFSWJadDdacmxySUFYQVZZaVVhbTBhZEVSNkdtd2JTYjJ5REEtN3hEZ0cyMnE3Sk5NODFJcmhR)).
 
 ### 🏦 Central Banks
-- **BOE** — BoE’s Bailey tells G30 they “have got to address” AI agent concerns. Central Bank governor warns rapid development of AI is a major issue for financial stability ([FT](https://www.ft.com/content/3185b4cd-ab35-4efc-9d75-dcecc1631625)).
-- **RBA** — Reserve Bank of Australia Assistant Governor Christopher Kent reaffirmed the monetary authority’s view that the `A$8.5 billion` (`$5.9 billion`) accounting loss recorded for last fiscal year does not hurt its operations ([BBG](https://www.bloomberg.com/news/articles/2026-10-18/rba-s-kent-is-sanguine-on-accounting-loss-seen-in-fiscal-2026)).
+- **中国人民银行 PBOC** — China Signals Overnight Rate Set to Become Main Policy Benchmark ([BBG](https://www.bloomberg.com/news/articles/2026-10-19/china-signals-plan-for-overnight-rate-to-play-bigger-policy-role)).
+- **BOJ** — BOJ chief says underlying inflation 'quite close' to price goal ([Reuters](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOUlPaThzNFplTl9JQ0oxQjlBY1VFT0N4ZnBGY09mTXZRaG9yeko1M1pzXzNfZ0Zla1RpZlNrVUd1dHRDMzY2cGNmUU13VzNmY2RFTW1VTW5kdDI1NEJsZTBxZ2Y0MHcxTTQweThkSUpZbmRyV1pLMEtpcXc3VWxmd3FqWmhmbzYya1lvSnEwa0J3QXQtMllSTjlfMWlIWVlpQV9KZnFBcDVaRkMtM2R1M1hVb2VJejdUYWRR)).
+- **RBA** — Australia central banker sees signs of labour market easing ([Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTTZPWjBsMUN6Z3o1eE14ODc0ZTE4VnZVSEczSnlkRGM5ZVVYSld0UDNxTkRtWVdsbEFiSEZ1M1B1YW5FVGtyaUVTRXN5Zi1mb3h2bUd4a2wwOWItMW9vUXJoOE1oRGU2N0hEcGRlTkxhY0lJZkhUTktUbExYQjQxX0tXZFNVV3BMR3lVdG5DMzFqUE1zX2hqbTViTk04QTBQaHlDWmhTYnVDZ19TTnliMA)).
 
 ### 🌐 Geopolitics & Policy
-- China is ramping up its presence around Taiwan, in a pattern that Taipei said is designed to 'alter the status quo' ([Al Jazeera](https://www.aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment)).
-- The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says ([CNBC](https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html)).
-- Egypt says ready to back Saudi Arabia in war against Iran-allied Houthis ([Reuters](https://news.google.com/rss/articles/CBMixgFBVV95cUxNaUsxbVVqQ0FFUl81U25IbG1NaXhrNzFqZzIzaFpRUVhKbF9rYlZoMXg1Z3NzYjR1TEtkeHNCU1BrOWs4ZXR5VHFqMTBoX3VjSV9FRV9neGVDSkdUNWIxMlNhZWRJbldocDM5Q2hiMXYxUXpHVUJqWkkyOEF5OGNBNWduQXFPMXp6VXhYRjUyNmsxaV9pbXJhS29uVGh6Tm51emp4S3YtdmI5c21HZE9HeFkycENlNGxHRUlJd29YWkxwRF85eXc)).
-- North Korea says it tested new torpedo with AI tech. Artificial intelligence was used for target detection and guidance in the new high-speed precision-guided weapon, state media says ([SCMP](https://www.scmp.com/news/asia/east-asia/article/3371218/north-korea-says-it-tested-new-torpedo-ai-tech)).
+- Philippines Summons China Envoy Over ‘Use of Force’ Threat ([BBG](https://www.bloomberg.com/news/articles/2026-10-19/philippines-summons-china-envoy-over-use-of-force-threat)).
+- Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war — without Zelenskyy ([CNBC](https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html)).
+- French Bond Yields Rise Sharply, German Yields Edge Lower ([WSJ](https://news.google.com/rss/articles/CBMihAFBVV95cUxNVWlGZml4V2JESElWVjd5RDgtN0htcHAxSEUwT3p6LUlWQm1nLVNkR2lzSlNxQ2ZaQW5ZMjZiVnZJeWZjaDJNS2o4LXU3TEljOHNjU052OC1laGhOZ0lRbU5XeWZRR0FDSXVpcm04S0FLTDFpQTJpNkIyQUpqdTRNLW9udEk)).
 
 ### 🛢️ Commodities
-- Since Donald Trump came back into office, copper has surged on a seismic reshuffling of global inventories linked to the risk that he’ll impose tariffs on the metal ([BBG](https://www.bloomberg.com/news/articles/2026-10-18/traders-grow-wary-of-copper-bull-market-with-no-sign-of-tariffs)).
+- Global food inflation is expected to intensify as supply shocks pile up ([Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUVRkb2hsTDU1SE9pWjNla2I5RTYxUFJQZndkWkVIQ05EbzhUOWlfbGp5X2J2SHA0bTJpMGptenRDdXdWZ3E2VkthVVdBY2YxTFQ0SjhPc2xadGJWRFR2dENBZ1luZ1lEOUlsVTFxYnJxYmJ4ck9kZmtaQlg1bzFjemN5Rk1WdFhSb0tpT2c2OVVGd2lRenlBVnRud2E5S2ZsMlRucENKZ0hpLWJBd1dCX0R5VG10YkU)).
+- India sugar stocks slide as government halts sugar diversion to ethanol ([Reuters](https://news.google.com/rss/articles/CBMiswFBVV95cUxOMlFmT0M5dG0wX2EyLUlXVzJHNlFjRjJGMUZ3dC1rUGpMbDFGRllfNlJlR2dTbEM0eV9sOUptaEZtTXYtS0RyQVozT2JkMjVxay0wT0hyT2c5Y09rZ3k0dHNfNFY4MVZaREVUdWk2eVVWTldqRGZqVVlmSkFnaks1UFBEMTNQSk9YV0NsQWZISGp0MjVNX1p1WE9oVmg4cDlXLW10ODN5WDVBVl9jQnZOUnZUVQ)).
+
+### 📈 Equities
+- Indonesian stocks plunge to six-year low as MSCI downgrade fears mount ([CNBC](https://www.cnbc.com/2026/10/19/indonesian-stocks-msci-downgrade-fears-mount.html)).
 
 ---
 
@@ -108,78 +86,93 @@ China proposes export controls on solar-manufacturing technologies ([Reuters](ht
 
 | Time (HKT) | Rgn | Event | Est. | Prior |
 |---|---|---|---|---|
-| 09:30 AM | CN | House Price Index YoY | — | -3% |
-| 10:00 AM | CN | GDP Growth Rate YoY | 4.4% | 4.3% |
-| 10:00 AM | CN | Industrial Production YoY | 5.4% | 5.2% |
-| 10:00 AM | CN | Retail Sales YoY | 0.5% | 0.4% |
-| 10:00 AM | CN | Fixed Asset Investment (YTD) YoY | -7.3% | -7.2% |
-| 10:00 AM | CN | GDP Growth Rate QoQ | 1.1% | 0.9% |
-| 10:00 AM | CN | Industrial Capacity Utilization | — | 73% |
-| 10:00 AM | CN | Unemployment Rate | 5.3% | 5.3% |
-| 10:30 AM | KR | 10-Year KTB Auction | — | 4.510% |
-| 11:35 AM | JP | 52-Week Bill Auction | — | 1.5749% |
-| 12:30 PM | JP | Tertiary Industry Index MoM | -0.4% | 0.4% |
-| 08:30 PM | BR | BCB Focus Market Readout | — | — |
-| 09:00 PM | FR | 12-Month BTF Auction | — | 3.255% |
-| 09:00 PM | FR | 3-Month BTF Auction | — | 2.761% |
-| 09:00 PM | FR | 6-Month BTF Auction | — | 2.964% |
-| 10:00 PM | US | NAHB Housing Market Index | 31 | 32 |
-| 10:30 PM | CA | BoC Business Outlook Survey | — | — |
-| 10:30 PM | CA | BoC Survey of Consumer Expectations | — | — |
-| 11:30 PM | US | 3-Month Bill Auction | — | 4.085% |
-| 11:30 PM | US | 6-Month Bill Auction | — | 4.200% |
-| 09:15 AM | CN | Loan Prime Rate 1Y | 3% | 3.0% |
-| 09:15 AM | CN | Loan Prime Rate 5Y | 3.5% | 3.5% |
+| Oct 19 08:30 PM | BR | BCB Focus Market Readout | — | — |
+| Oct 19 09:00 PM | FR | 12-Month BTF Auction | — | `3.255%` |
+| Oct 19 09:00 PM | FR | 3-Month BTF Auction | — | `2.761%` |
+| Oct 19 09:00 PM | FR | 6-Month BTF Auction | — | `2.964%` |
+| Oct 19 10:00 PM | US | NAHB Housing Market Index | `32` | `32` |
+| Oct 19 10:30 PM | CA | BoC Business Outlook Survey | — | — |
+| Oct 19 10:30 PM | CA | BoC Survey of Consumer Expectations | — | — |
+| Oct 19 11:30 PM | US | 3-Month Bill Auction | — | `4.085%` |
+| Oct 19 11:30 PM | US | 6-Month Bill Auction | — | `4.200%` |
+| Oct 20 09:15 AM | CN | Loan Prime Rate 1Y | `3%` | `3.0%` |
+| Oct 20 09:15 AM | CN | Loan Prime Rate 5Y | `3.5%` | `3.5%` |
+| Oct 20 11:35 AM | JP | 20-Year JGB Auction | — | `3.856%` |
+| Oct 20 01:00 PM | SG | MAS 12-Week Bill Auction | — | `1.84%` |
+| Oct 20 01:00 PM | SG | MAS 4-Week Bill Auction | — | `1.69%` |
+| Oct 20 02:00 PM | DE | PPI YoY | — | `4.6%` |
+| Oct 20 02:00 PM | DE | PPI MoM | `0.8%` | `1.1%` |
+| Oct 20 02:00 PM | GB | Unemployment Rate | `4.9%` | `4.9%` |
+| Oct 20 02:00 PM | GB | Average Earnings incl. Bonus (3Mo/Yr) | `3.8%` | `3.9%` |
+| Oct 20 02:00 PM | GB | Employment Change | `20K` | `67K` |
+| Oct 20 02:00 PM | GB | Average Earnings excl. Bonus (3Mo/Yr) | `3.6%` | `3.5%` |
+| Oct 20 02:00 PM | GB | Claimant Count Change | `19.4K` | `27.8K` |
+| Oct 20 02:00 PM | GB | HMRC Payrolls Change | — | `-26K` |
+| Oct 20 04:00 PM | IT | Construction Output YoY | — | `-1.2%` |
+| Oct 20 04:00 PM | IT | Current Account | — | `€7384M` |
+| Oct 20 05:00 PM | DE | ZEW Economic Sentiment Index | `32` | `34.7` |
+| Oct 20 05:00 PM | DE | ZEW Current Conditions | `-45` | `-47.1` |
+| Oct 20 05:00 PM | ES | Balance of Trade | — | `€-5.22B` |
+| Oct 20 05:00 PM | GB | Treasury Gilt 2036 Auction | — | `5.383%` |
+| Oct 20 05:30 PM | DE | 30-year bund/g auction | — | `3.60%` |
+| Oct 20 05:30 PM | DE | 5-year bobl/g auction | — | `2.49%` |
 
 ---
 
 ## 📚 Full Reading List
+
 - **BBG**
-  - [Gold Edges Higher as Traders Ease Rate-Hike Bets on Warsh Speech](https://www.bloomberg.com/news/articles/2026-10-18/gold-edges-higher-as-traders-ease-rate-hike-bets-on-warsh-speech)
-  - [Bond Market’s Big Short Bet Gets Wakeup Call as AI Trade Wobbles](https://www.bloomberg.com/news/articles/2026-10-18/bond-market-s-big-short-bet-gets-wakeup-call-as-ai-trade-wobbles)
-  - [Option Traders Brace for VIX Surge as AI Jitters Jolt Market](https://www.bloomberg.com/news/articles/2026-10-18/option-traders-brace-for-vix-surge-as-ai-jitters-jolt-market)
-  - [US Stock Futures Bounce After Chip Rout, Oil Slips: Markets Wrap](https://www.bloomberg.com/news/articles/2026-10-18/stock-market-today-dow-s-p-live-updates)
-  - [RBA’s Kent Is Sanguine on Accounting Loss Seen in Fiscal 2026](https://www.bloomberg.com/news/articles/2026-10-18/rba-s-kent-is-sanguine-on-accounting-loss-seen-in-fiscal-2026)
-  - [Traders Grow Wary of Copper Bull Market With No Sign of Tariffs](https://www.bloomberg.com/news/articles/2026-10-18/traders-grow-wary-of-copper-bull-market-with-no-sign-of-tariffs)
+  - [Saudi Arabia Intercepts Drone Waves, Trump Says Riyadh Welcomes US and Israeli Support](https://www.bloomberg.com/news/videos/2026-10-19/horizons-middle-east-africa-10-19-2026-video)
+  - [Morgan Stanley’s Wilson Says Get Ready to Buy as Stock Drop Ends](https://www.bloomberg.com/news/articles/2026-10-19/morgan-stanley-s-wilson-says-get-ready-to-buy-as-stock-drop-ends)
+  - [Philippines Summons China Envoy Over ‘Use of Force’ Threat](https://www.bloomberg.com/news/articles/2026-10-19/philippines-summons-china-envoy-over-use-of-force-threat)
+  - [Indonesia’s Selloff Deepens Across Stocks, Bonds on MSCI Risk](https://www.bloomberg.com/news/articles/2026-10-19/indonesian-stocks-tumble-to-lowest-since-2020-after-msci-warning)
+  - [China Signals Overnight Rate Set to Become Main Policy Benchmark](https://www.bloomberg.com/news/articles/2026-10-19/china-signals-plan-for-overnight-rate-to-play-bigger-policy-role)
+
 - **Reuters**
-  - [Oil touches $110 a barrel for first time since May on Middle East, Russia supply fears](https://news.google.com/rss/articles/CBMiywFBVV95cUxOY0FIVXBWc1k5eW1ObWUyOGNQS1NGZDA5anNoLVJmVDRoMGR0ZUM5aWdDYTFDX3lKN2dYbVlhZzhuTFUwcVo3N0xmTkpBNXJKV2JLVW9qUmdmNWdxaWFJVlFZLWVPVHJjZ0RTNUdYdGxoMk9RZms0aHpzQWlTVDd4LUNnQ1RKUlZmVkhFSS1FQlk5bWl1dkU2QTQ0bDA2dVdHVzMzcTlRZi00ZkM1THVWRFgzTnYtUm9id3pBM1BWeEI4ZVFqU1ltSDB2SQ)
-  - [Missiles hit Aden airport as Saudi-led coalition intercepts missile headed for Yanbu](https://news.google.com/rss/articles/CBMiywFBVV95cUxPelJ6OUp1VFpwTmJ0Qm85TzRUS2ppU0swVFMydlJuTDZiS1Q1V2R6M1N4bmpfeTZ0aWNqd29XbGdDMm9IVllmLTZUazAxQWFzX3lsVlJBbHI4TVRfQVFrZlk5MkNqVzVCMU5XYkFwM3Fyb0pkbDk0bGo5N1dwQWJMMEo5aEhIeXpaS1J5TkRLVFZTem93Rl9rM2trUHZlaDQwSzVIQTB4UG1xelRQSU5wZ2I4X1N1V0VPUElsWHBIYVZvckhpYk9RZVhZaw)
-  - [Iran urges US to accept proposal to reopen Strait of Hormuz](https://news.google.com/rss/articles/CBMipwFBVV95cUxOWUh3Z1JyMmU4SkJ4ZXQ4Y0VaN3RMS1Vtcmg4S1lDMGlvUG1GeVY3Q1pkaWltSG5yOWhmcTBnNkk4U0ZiTVREVzd3RVRZNjZJTjhaTkg5bTFGX0J2Q0JzTUI4UlZIWmxHMmRDeVRRODZRYU1mbkNrVzFRX3piTnpDbllfUGc3NnJkSl9hWWRCQzlxZjFBYnE5bXJQMVBjMzNBUFlNcmRtcw)
-  - [China proposes export controls on solar-manufacturing technologies](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaGtBN1ctcU1NbGFxLXVKb01UVVdDUklxa3Z6Tk1ac05vT2lkd0d2THJqR1Q4VDBDTjJFSUlJYXNCdF83Tko2S0hrbDZSX3NrWWRrWFljNFNHOWhVUnpib3JpdjY3TWZJUEpEQzJKdnFpckZhZTM4X3RXTnhuMzVJWXRxemxoUTdlcDcwckxSUlROQ1pqbHZWdFplOEZUTHh1dDVxb3pfTlN3X2dURk1ETnJzTXJmUFluU0dfck1OSFl4YVlqZHE1NA)
-  - [Egypt says ready to back Saudi Arabia in war against Iran-allied Houthis](https://news.google.com/rss/articles/CBMixgFBVV95cUxNaUsxbVVqQ0FFUl81U25IbG1NaXhrNzFqZzIzaFpRUVhKbF9rYlZoMXg1Z3NzYjR1TEtkeHNCU1BrOWs4ZXR5VHFqMTBoX3VjSV9FRV9neGVDSkdUNWIxMlNhZWRJbldocDM5Q2hiMXYxUXpHVUJqWkkyOEF5OGNBNWduQXFPMXp6VXhYRjUyNmsxaV9pbXJhS29uVGh6Tm51emp4S3YtdmI5c21HZE9HeFkycENlNGxHRUlJd29YWkxwRF85eXc)
-  - [Rubio says Trump to take up to 60 days to weigh Russia sanctions](https://news.google.com/rss/articles/CBMiogFBVV95cUxNRlRkQlBQYXFvck1VQUYxcVpwM2dEVDMwQThIY3ZHRldBd0M0dmV5NXFnZlBXMnpuUnozQlhLbkg4ZjZCT3kzVW5mcnl3RVEwUXRpdUJsZGViRlE1MFdJbHZWZ3pRTXNOUDQtOTRsQU5nSzd4a3d5Z3c2dTkzZWZSNlZsbXZBamFSMS1qVEVnaHc2MTZJUHZ4YU1zS0hfNVM4eVE)
-  - [Zelenskiy criticizes Trump's waiver of sanctions on Russia as 'wrong'](https://news.google.com/rss/articles/CBMixwFBVV95cUxQUWRsWXNvbUVMb01QdTFTbEhpSGhZLVZYVXZramJkQjg2RXUzbXRaZjZlcnY1QTNoeU1zQzhhOEhwOFZVSkRySFFZNWI3RjZtUHJLaDhybEhWVzFBTF9uVlZjWlNSQk5aX25iZ0EySjRQYjR5aVRiM1VERjVFWmpTOTR0Y1ZhNUtaTHpTaWdZZVRPUmppTUJtYl9IZlhGQnM3WkVSNmRreVBjaDF5anFfSHhqN1ZUc2p3cjRoU0pyUzRkZjlBM05B)
+  - [China set to leave benchmark lending rates unchanged for 17th month](https://news.google.com/rss/articles/CBMirAFBVV95cUxQV0dSY2gyXzJ6LVdfTmNQQWFzZUJodXg0N09QQ0VEQXFvUVc4SXRIY3Z5U1JCOFZSV1Rmc0h6QWFJcGoxRzRxTkU0TVQwS1A2V09jVnJ4YmNYaF80T2h5b0xtM1ZpRHA2clQtWmdGVHhNaWJHYjQ5M3FiNl9kREpWMFJ4MDNmRGh6YTluTTBialgxcEd6T3BLdzBPWDh6X0ZuYjZ3ZS1seUgyV1hE)
+  - [BOJ chief says underlying inflation 'quite close' to price goal](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOUlPaThzNFplTl9JQ0oxQjlBY1VFT0N4ZnBGY09mTXZRaG9yeko1M1pzXzNfZ0Zla1RpZlNrVUd1dHRDMzY2cGNmUU13VzNmY2RFTW1VTW5kdDI1NEJsZTBxZ2Y0MHcxTTQweThkSUpZbmRyV1pLMEtpcXc3VWxmd3FqWmhmbzYya1lvSnEwa0J3QXQtMllSTjlfMWlIWVlpQV9KZnFBcDVaRkMtM2R1M1hVb2VJejdUYWRR)
+  - [Australia central banker sees signs of labour market easing](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTTZPWjBsMUN6Z3o1eE14ODc0ZTE4VnZVSEczSnlkRGM5ZVVYSld0UDNxTkRtWVdsbEFiSEZ1M1B1YW5FVGtyaUVTRXN5Zi1mb3h2bUd4a2wwOWItMW9vUXJoOE1oRGU2N0hEcGRlTkxhY0lJZkhUTktUbExYQjQxX0tXZFNVV3BMR3lVdG5DMzFqUE1zX2hqbTViTk04QTBQaHlDWmhTYnVDZ19TTnliMA)
+  - [Global food inflation is expected to intensify as supply shocks pile up](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUVRkb2hsTDU1SE9pWjNla2I5RTYxUFJQZndkWkVIQ05EbzhUOWlfbGp5X2J2SHA0bTJpMGptenRDdXdWZ3E2VkthVVdBY2YxTFQ0SjhPc2xadGJWRFR2dENBZ1luZ1lEOUlsVTFxYnJxYmJ4ck9kZmtaQlg1bzFjemN5Rk1WdFhSb0tpT2c2OVVGd2lRenlBVnRud2E5S2ZsMlRucENKZ0hpLWJBd1dCX0R5VG10YkU)
+  - [India sugar stocks slide as government halts sugar diversion to ethanol](https://news.google.com/rss/articles/CBMiswFBVV95cUxOMlFmT0M5dG0wX2EyLUlXVzJHNlFjRjJGMUZ3dC1rUGpMbDFGRllfNlJlR2dTbEM0eV9sOUptaEZtTXYtS0RyQVozT2JkMjVxay0wT0hyT2c5Y09rZ3k0dHNfNFY4MVZaREVUdWk2eVVWTldqRGZqVVlmSkFnaks1UFBEMTNQSk9YV0NsQWZISGp0MjVNX1p1WE9oVmg4cDlXLW10ODN5WDVBVl9jQnZOUnZUVQ)
+  - [Gold edges up as oil retreat lends support; Fed decision in focus](https://news.google.com/rss/articles/CBMioAFBVV95cUxOcHBoaXFtRmhELVpxR3BOYzNDX3IzS1Y1UHZaZUlWRnBiY0Y3WWxwa19vSlVRUENyTGtpZVJFSEFSLW9hVWhEaktYRTVhVWpObTFOYThBVXNRX19VY0phaUJjSkdSMjFZQ19FUFZGMm44UnNpZkZGSnNCeUc2SFZ4c1ZZUU9lV2tiUk1odm44Wmc2WGVjSGp5YUU3QnE2NGYx)
+  - [Asian stocks slip, Wall St and bonds benefit from oil dip](https://news.google.com/rss/articles/CBMigwFBVV95cUxOLVFWRVZxMkJLTnJJaThPRWdnNTFRbmc2V1FTYW1CbUNZc1hNYkZKd0xCbHJTeUpzYnNzYmx6RS1aZS1FNnBUcGx0VHY5bFZmY2xTMU1nZHlJNTNpWmliOE0tcmJ5d0JpeVJlZmw3Y1RuRnJvQWZSQXJraTNtN1pGOTJ4RQ)
+
 - **WSJ**
-  - [Iran Is Giving Houthis Targeting and Intelligence for Attacks on Saudi Arabia](https://news.google.com/rss/articles/CBMihgFBVV95cUxPOS1nT1V3ajJHakhMdm5jRDRqQW5PMlU5N1FidUlPemxtZFBFYV9UY0dJdGp2US1qU2NsbGRLazVUd2RsXzc3bWIxa00xcmpEbEY4aG9xcmkzX3g2ZDd2RVdlRGRGV0JUZjZLN0JTU2xybHFKQTlaV19oYUp3a2o5Wjg2Sk9kQQ)
+  - [Oil Falls After President Trump Waives Sanctions Against Russia](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTDJ2Qjl2WFNBTjRjQzBPZ3NvaVFXOFctRlZqQzBVZDhDTkR4eEZ6NzZadGhJZHdwSzVuVExwYmxtUFVucTdBRVFzS1BfT3dVeVpNYmJzUzNnTVlzZng0dUZzNTlLOERkZl8wbXRjZS1QVlRDbnhBejVWU2k1UnF5U1BhZzNiUGd6TEFvWmkxajJmUzdiSVBOWnIzaHBmWE9Td1FMMUZtNEMxcEtzOXltQmhsNzNvRTNNX3VhYm8yX2xzU0diYTNNZkp1M0Q5LTJoZGxTaWg0MG1VTlR1Smc)
+  - [Oil Prices Fall as Traders Weigh Russia Sanctions Waiver, Middle East Risks](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTjUxeXdZWDd5c3MxTHBocWZqajJlQ2UwRTF6dW9KMXh6Q1ROdllKRGZiMV9kWUhvRW9CQzNQMU1LYk80U04zc0dLU2ppcFkySWRjenZFSm8wQjA5QmRPVXhPN3dhMTZPdnFiWjh1QjZ6VDR1ZDg5dFFlZ0t0STJzZlBrUzBMQ0N1R1RTQ2FkekRVaTlPN3lPYU94ZjZRdktUTlJEeTVqSEVFamNkc1FWelQ2MnRNb25OemZ5aUx3dl8)
+  - [European Chip Stocks Mixed as U.S. Tech Futures Point to Recovery](https://news.google.com/rss/articles/CBMikwFBVV95cUxQWVpCTGEzNHM2dnhMVW9kU1JJcTAtMnd1YVRWZW5iNjlldk1OcTMzMjJrNkVTM3hVVW1HT3paWVZDbElDcXU0MENtbFFWcF9uQkF2cmIwRjM3RFVNaEJ3Vk1BNVdGR3VhVGNFZDIyYlEwSnFYTDRvV0E3cnJnS0RZQjdLTkowT3RCYjZsaUFvRzV1Rkk)
+  - [U.S. Treasury Yields Fall in Asian Trade](https://news.google.com/rss/articles/CBMijwFBVV95cUxOSk1wWWp6WG1vZjdfYjZXX1hRU0lPVEl6WnVGbkozSXB5eTU5UHN2aG9nRHRpc1VMNlI5eF92YXNZNTFUOGFBMnk1anY0cUxFcG5YTTF0NFRhaGZ0VjkwbjNETmpiWkVXUHlNMmZJV014MlJ2LXRKZWlmS3E1N21wZHdnUXZybnJBRzlVSmdwUQ)
+  - [Gold Rises Amid Falling Oil Prices](https://news.google.com/rss/articles/CBMiugFBVV95cUxOZU5uN1haS1FQQW82aVdiWmxlbDJrMkszT091U2xWR3dGOTdBeVZ6Z0gzSGpqQ2ZNTE96MG1kckxxY2NVV0I0THpteE9lWGZTdHUxa01OTzJkUndWcVVRWDVZWHVYeFZPcm5VckhaZFBVRDRjcmgyRDg5OUJ1WFBlTlotVGlnekE3SVFDVkpFMHBQbTVPWmd4WTNSSTd1X0ZJNDFlUmVWcGxlSE5oWG1ENmZoYk1oVTdKZlE)
+  - [French Bond Yields Rise Sharply, German Yields Edge Lower](https://news.google.com/rss/articles/CBMihAFBVV95cUxNVWlGZml4V2JESElWVjd5RDgtN0htcHAxSEUwT3p6LUlWQm1nLVNkR2lzSlNxQ2ZaQW5ZMjZiVnZJeWZjaDJNS2o4LXU3TEljOHNjU052OC1laGhOZ0lRbU5XeWZRR0FDSXVpcm04S0FLTDFpQTJpNkIyQUpqdTRNLW9udEk)
+
 - **FT**
-  - [Oil hits five-month high of $110 on new escalation in Middle East](https://www.ft.com/content/8ee22d89-03eb-48dc-99a5-27555373a89c)
-  - [Big Tech stocks suffer biggest weekly drop since ‘liberation day’](https://www.ft.com/content/4c4f03f4-f878-4bd6-8128-5be7e3bb8ca1)
-  - [Anthropic offers Blackstone double-digit yield in latest chip financing](https://www.ft.com/content/cb4034e1-475f-40b9-a5f9-256e91aacb89)
-  - [In Bangkok, central bankers push back on market rate-tightening bets](https://www.ft.com/content/4c83ec2c-cd77-4f9b-94e6-fdf70af706ef)
-  - [The hunt for Fed October](https://www.ft.com/content/5b36d8a4-49f1-4877-8719-2db984c13081)
-  - [China unveils draft export controls on AI technologies and chips](https://www.ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf)
-  - [The once-obscure tech at the heart of the green energy trade war](https://www.ft.com/content/bc221890-6718-4792-967c-9828e96f38af)
-  - [BoE’s Bailey tells G30 they ‘have got to address’ AI agent concerns](https://www.ft.com/content/3185b4cd-ab35-4efc-9d75-dcecc1631625)
-  - [Global economy set for AI-driven surge, FT survey suggests](https://www.ft.com/content/c6aeb3a1-1874-4947-8ffc-4d993301244a)
-  - [US rate rises are being amplified in global markets](https://www.ft.com/content/cea20e2a-379c-4ea2-af94-353b1896b748)
-  - [Chart of the Week: The chip stock split](https://www.ft.com/content/c5ed09fe-dc65-4f05-8c12-8f74f5dc7ccd)
-  - [Trump exempts Russia from further sanctions mandated by new law](https://www.ft.com/content/836eddd7-3adc-4cbb-8527-7a0a7a277e50)
+  - [China’s economy picks up pace with 4.5% growth](https://www.ft.com/content/cf113314-1077-4ab4-b667-9912656684f1)
+  - [US stocks set for rebound after AI sell-off](https://www.ft.com/content/915ea7ca-1f35-4847-810a-fb29e8344496)
+  - [Investors turn on data centres](https://www.ft.com/content/5970614a-b1f7-4b4e-b1e5-6038e1dde654)
+
 - **CNBC**
-  - [Fed's Warsh withholds rate signal, praises recent global tightening](https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html)
-  - [Iran says it has a 'new operational plan' if the U.S. resumes attacks, as shipping vessels report strikes](https://www.cnbc.com/2026/10/18/iran-us-war-rezaei-operational-plan-shipping-attacks.html)
-  - [Trump says he won't use nuclear weapons or send ground troops to Iran](https://www.cnbc.com/2026/10/16/us-iran-war-trump-hormuz.html)
-  - [U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year](https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html)
-  - [Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says](https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html)
-  - [U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says](https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html)
-  - [Brent crude hovers near $109 a barrel as Ukraine resumes energy strikes, tankers attacked in Middle East](https://www.cnbc.com/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html)
+  - [Oil prices slide as sanctions relief on Russian crude raises hopes of increased supply](https://www.cnbc.com/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html)
+  - [Treasury yields move lower as investors assess U.S. inflation backdrop](https://www.cnbc.com/2026/10/19/bonds-treasurys-us-yields.html)
+  - [Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war — without Zelenskyy](https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html)
+  - [Indonesian stocks plunge to six-year low as MSCI downgrade fears mount](https://www.cnbc.com/2026/10/19/indonesian-stocks-msci-downgrade-fears-mount.html)
+
 - **SCMP**
-  - [China warns EU not to ‘fantasise’ on trade approach as Brussels confirms new ‘kill switch’](https://www.scmp.com/news/china/diplomacy/article/3371217/china-warns-eu-not-fantasise-trade-approach-brussels-confirms-new-kill-switch)
-  - [China’s R&D spending keeps up steady rise as No 1 US seeks further funding cuts](https://www.scmp.com/news/china/science/article/3371198/chinas-rd-spending-keeps-steady-rise-no-1-us-seeks-further-funding-cuts)
-  - [Hong Kong ‘optimistic’ on economic growth despite global slowdown, Paul Chan says](https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371288/hong-kong-optimistic-economic-growth-despite-global-slowdown-paul-chan-says)
-  - [North Korea says it tested new torpedo with AI tech](https://www.scmp.com/news/asia/east-asia/article/3371218/north-korea-says-it-tested-new-torpedo-ai-tech)
+  - [Rebound in China’s GDP growth keeps 2026 target in sight](https://www.scmp.com/plus/economy/china-economy/article/3371375/rebound-chinas-gdp-growth-keeps-2026-target-sight)
+
 - **CNN**
-  - [How the US-Iran war upended two critical global trade routes](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWkhLc0FrR3BPSms3TDdwX1QxN2tFaUpMM2t5eHQyWWFyYUxqN3JNUkdfU2hERzltNkZJY09kc0RMVGF5cWNURjlkNndGUmpkMmFINk5za1AxOWZzSklYcHR6d09OYWR3TzM5LXd1bDItb0oxaGYzNmNwUUwwLW5xa18tRW5qYm0tVWQ3aFNteVZMa2pVX0pISEY3OUV4Vi1ZZUxCOA)
+  - [China economy grows thanks to AI export boom but domestic slump remains a drag](https://news.google.com/rss/articles/CBMibEFVX3lxTE9YZUM1RVhqMlhRS3JtZXkySURkQklGNnhTUnV0aFRRc2RnVzJhZVVSY1RGc05CaHNsdlpUS0ZLQTdPeXE0aGVXaHRmYzhKOWZKdi1DV0R1Yk8xSzg3V0hTTjN4bF9FQmlkV2FaeA)
+
 - **Al Jazeera**
-  - [‘Hybrid warfare’: Taiwan drives away 16 Chinese ships](https://www.aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment)
+  - [Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze](https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites)
+  - [Qatar warns global energy shockwaves from Iran war have yet to peak](https://www.aljazeera.com/news/2026/10/19/qatar-warns-global-energy-shockwaves-from-iran-war-have-yet-to-peak)
+
 - **BusinessTimes**
-  - [Chinese stocks turn biggest losers as global AI trade stumbles](https://news.google.com/rss/articles/CBMirwFBVV95cUxQUHY5MEo1NEU1cFVBWGVOclAybndna0xET1NLOHlEV2IxM05nVFRGSi15QkpVbHhfdUxyU254ZHlHb3dNT3BzWElrNHJ2SUZ1enl0OVFydGxTcVpCcjNjYy1tM2hUdGFsZjROWnBLYU5nUk8tUEZfejhQTUdfUjJvakYyaDhVMkFpbDhjZE92U2VidzhJOTE3Tk9BcXNZeEVuNHFSZmN3SzFqeVFJSUdV)
+  - [China home price slump eases, fuelling hopes for market recovery](https://news.google.com/rss/articles/CBMiowFBVV95cUxQUzNCZlJVSzdnS25vdFhMakh5aXpFNmxiT1ZTUzV1Z2ZZeE9KWV9tQ1NqS05UNlJsMkpMcGRwb1R5QjNIVFJLUW85N1M2cVp0X0pmSENRa2s5enl6Q0dXSGNzR1RBQ3ZhVnR2NUtFSWJadDdacmxySUFYQVZZaVVhbTBhZEVSNkdtd2JTYjJ5REEtN3hEZ0cyMnE3Sk5NODFJcmhR)
+
+- **Caixin**
+  - [三季度GDP同比增速微升至4.5% 名义增速继续走高](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MbmgtNEVkbGsydGU4Nk01ZmlzcFBVT0ZHOHZtX0FsSUpCRW4yUWVGS2NtOUFQZFdYcUJHN3ZxNUltVnNzS3JCVG84S2JXUnNTdUZub3ozZXMzTUpScUxKYTZn)
+  - [9月工业增加值同比增长5.5% 出口交货值增速创新高](https://news.google.com/rss/articles/CBMiYkFVX3lxTE50dHUwNjBCRTlNWW5xR2ZVQ3dQNlg3bndRSlRfVjhSRndSQjlScHpSRjJIWk90eG9MV2xyR0xwQXRCZS1NOERqZUlyZGE0ZXRNeUtLeTRlQVpadWNlNGV6VDB3)
+  - [能源内参｜中国限制或禁止出口AI、生物医药和光伏三领域共40项技术](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Jd0VxWDZyTEFmcmpsblpscGZ1QlhmOXppNEdwYjlyN1cxMzMxZ0R1cFQ1ZzhMRG5HS0h3LS02YXoxNjk5TUhRb09iZUwxUTBmdE1HTS1FNFRsTENVODdLLWhlWkw)
+
+- **Investing**
+  - [Dollar holds losses; yuan hits 4-yr high after China Q3 GDP beat](https://www.investing.com/news/forex-news/asia-fx-ticks-higher-yuan-hits-4yr-high-after-china-q3-gdp-beat-4956302)
