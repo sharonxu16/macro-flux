@@ -1,89 +1,86 @@
 ---
 tags:
-  - Macro/AI_Credit_Stress
-  - Asset/UST
-  - Macro/PBOC_Framework
+  - Macro/UK_Inflation
+  - Macro/France_Fiscal
+  - Macro/Oil_Supply_Risk
   - Asset/Brent
-  - Trade/Short_KRW
+  - Trade/Short_EUR
 ---
 
 <div align="center">
 
 # 🌊 Macro Flux
 
-<small>Oct 20 5PM to Oct 21 8AM HKT</small>
+<small>Oct 21 8AM to Oct 21 5PM HKT</small>
 
-<small>Good morning.</small>
+<small>Good afternoon.</small>
 
 </div>
 
 ---
 
 > [!abstract] Overview
-> Markets are caught between a fresh wave of AI credit stress and a sharp deterioration in US housing data that keeps the Federal Reserve's path uncertain. Treasury yields fell on weak housing while nearly all surveyed economists still expect a December hike after an October skip. Crude prices slipped on hopes of US-Iran diplomacy even as attacks on commercial shipping transiting the Strait of Hormuz escalated and Iran repeated that talks depend on unmet demands. The PBOC formalized an overnight repo anchor, reinforcing a liquidity framework that supports RMB assets. The unifying thread is a widening rift between risk assets and credit markets, with oil and US rates as the main macro swing factors.
+> Oil whipsawed higher on renewed Hormuz shipping attacks before settling lower on a US waiver of some Russia sanctions, leaving energy-driven inflation risk the dominant macro input. UK September CPI surprised to the upside at `3.5%`, cementing expectations of a Bank of England move in November, while government borrowing overshot ahead of next week's Budget. France's 10-year yield crossed `5%` for the first time since 2002, reviving euro-area sovereign-bank doom-loop concerns and adding to the day's rate repricing. Asian equities climbed on Wall Street earnings momentum, with South Korea and Japan shares higher, but fixed income and FX reflected the more cautious inflation and fiscal stress backdrop. The unifying thread is fragile sovereign credit and energy supply risk colliding with still-resilient equity sentiment.
 
 ---
 
 ## 🔬 Narrative Watch
 
-### 📌 PBOC anchors short-end framework to overnight repo
+### 📌 UK inflation and borrowing accelerate ahead of Budget
 
 **Fact**
-央行完善短端利率调控机制，隔夜回购将成主要操作品种 ([Caixin 1](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZRVNUTnpSUG9yNW1VVjg5dUtfZmtULWhZemtNb1lSWlZtWHZnYlR2YmRzZkJodW1DU3gwb0tCZHlSTC03UFAzRmJiNkRjZmpJeWJiaG96eHc2QllwVXJsczVn)). 政策利率“换锚”隔夜影响几何？一文读懂货币政策框架新变化 ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE16Z0UzRVVZN3pIcUNOQkIzR1ZZYl8zRnNLRzhJM3NQX1hibzd0MnM3U3duM0E5dDVhbHhWNHlDaF9UdTBSUEdQQWhDdDJCSEZZQ2RJ)). 潘功胜：高科技产业快速发展，为人民币资产提供坚实支撑 ([Caixin 2](https://news.google.com/rss/articles/CBMiYkFVX3lxTE45MXZqZXZ1SDdrNHd6dThaX2hxOTgxVDlRVmFGM1NoR0RHWnBFZVdzblVhN2ptalNBdWtBWXBwUkk4OHA1THA2R2JrYlVVbGtHLW9NWVY2SjhtdWdtSkNhR0Rn)).
+The pace of UK price rises accelerated ahead of Chancellor John Healey's first Budget, pushed up by sharp increases in petrol and diesel prices. The rate of inflation rose to 3.5% from ... ([BBC](https://www.bbc.co.uk/news/articles/c6gel2xv4493o)). Headline and core inflation accelerates ahead of November meeting ([FT 1](https://www.ft.com/content/70f1da13-3c33-4881-aaa8-3458c1ba7eaf)). UK inflation and borrowing top forecasts in blow to Healey; the figure comes ahead of next week's Budget and will cement expectations of Bank of England rate rise in November ([FT 2](https://www.ft.com/content/443ce2f3-ba36-4dc7-aa0b-a2bc593fa563)). UK borrowing exceeds forecast in final data before budget ([BBG](https://www.bloomberg.com/news/articles/2026-10-21/uk-borrowing-exceeds-forecast-in-final-data-before-budget)). Hotter UK inflation sparks gilt pressure ([Investing](https://www.investing.com/news/forex-news/french-yields-hover-near-2002-highs-hotter-uk-inflation-sparks-gilt-pressure-4961706)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Confirmation because prior framework shift now has operational detail on overnight repo as the main instrument.
-> * **Transmission / Market Read**: Liquidity and policy channel favors lower CNY short rates and stable RMB assets.
-> * **Watchpoint / Confidence**: Next PBOC OMO/MLF operation and USD/CNY fixing; Confidence: Medium.
+> * **Narrative change**: Acceleration because actual `3.5%` above morning consensus `3.4%` marks an 11-month high and borrowing overshoots.
+> * **Transmission / Market Read**: Inflation and policy channel favors **short gilts** and **long GBP** on BOE November hike repricing, with fiscal risk premium.
+> * **Watchpoint / Confidence**: Next week's Budget and BOE November MPC; Confidence: High due to cross-source data and market reaction.
 
-### 📌 AI credit stress splits from equity rally
+### 📌 Hormuz supply fears collide with US Russia-sanctions relief
 
 **Fact**
-Tech credit risk hits fresh highs on fears of debt wave to come ([BBG 1](https://www.bloomberg.com/news/articles/2026-10-20/tech-credit-risk-hits-fresh-highs-on-fears-of-debt-wave-to-come)). AI debt fears spark default insurance trading surge ([FT](https://www.ft.com/content/92a2e2a4-356a-4aa3-9d1e-8b4fbaf1c365)). Investors were still demanding high yields and more insurance on CoreWeave and Oracle bonds ([CNBC](https://www.cnbc.com/2026/10/19/coreweave-oracle-ai-credit-stress.html)). AI stocks rally after Super Micro preliminary sales bring relief ([BBG 2](https://www.bloomberg.com/news/articles/2026-10-20/ai-stocks-rally-after-super-micro-preliminary-sales-bring-relief)). CoreWeave债券暴跌敲响警钟，美联储或需重新审视加息节奏 ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xZlk4OG1lRHZjSi0yX2FRZm1xcjFucXduT2FGbmJkYXgwUXYzVUltbjJUandpYVJqQzlJMFo2U1ZpbGxiSGZPZWNDeHlsWGtPbTRV)).
+Oil rises as Hormuz shipping attacks fuel supply fears ([WSJ 1](https://news.google.com/rss/articles/CBMirwFBVV95cUxNS2x1amxZRkdMSDU2d1dKN3hBTGd0cEhSYlBEeXpVRzZZZ05LQjUycGxSdG9zaEVzMVhFbzV5YUNEbHdha0ZzMlVRR251clR0UzFJTENpY2RGdmhublNRWHc3WFRxNUYxdXhhaXhUQS1HZkpfWlg0cUkzUnEzV21TcWlta2RPTlMtVDl4STJBVU1ZbzB1VlBMUk50aXo1djRNLUVOdWFoVGd1S3l5dndB)). Oil futures settle lower as U.S. waives some Russia sanctions ([WSJ 2](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTDJ2Qjl2WFNBTjRjQzBPZ3NvaVFXOFctRlZqQzBVZDhDTkR4eEZ6NzZadGhJZHdwSzVuVExwYmxtUFVucTdBRVFzS1BfT3dVeVpNYmJzUzNnTVlzZng0dUZzNTlLOERkZl8wbXRjZS1QVlRDbnhBejVWU2k1UnF5U1BhZzNiUGd6TEFvWmkxajJmUzdiSVBOWnIzaHBmWE9Td1FMMUZtNEMxcEtzOXltQmhsNzNvRTNNX3VhYm8yX2xzU0diYTNNZkp1M0Q5LTJoZGxTaWg0MG1VTlR1Smc)). Oil prices climb as traders assess Middle East developments ([CNBC](https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html)). More oil is now coming out of the Persian Gulf than before the Iran war ([WSJ 3](https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ25MSXRodmt6X1ZwZFZ1b01nR01ZTE1PWDU0SGVaWTRKMXJLdl9FbXVHSnZTMGxiV1pMbGtOZTVUMjZER01kVHQ1TmtIczlGZ3Z3X2djQng0b0RrOEQtZkk4REEtYTE2U1JxVlpLMzAtUnNycVhiQXVqV3BET09SZDZLbWtfZGp3NFl6eDZPakRzeDk4N3VydmJucDB6SlgwNmNNWVlrVTVRdGQ2RTVVOUpqTXBJa3RWaXc)). Indian Oil Corp. plans to reduce the amount of crude purchased under term contracts with Middle Eastern producers next year, according to a person familiar with the matter, as attacks in the Persian Gulf continue to threaten supply routes ([BBG](https://www.bloomberg.com/news/articles/2026-10-21/indian-oil-to-trim-term-deals-with-gulf-producers-for-next-year)). A blast was heard in Yemen's Aden as Houthis claimed an attack on a military camp with a ballistic missile ([Al Jazeera](https://www.aljazeera.com/news/2026/10/21/blast-heard-in-yemens-aden-as-houthis-claim-attack-on-military-camp)). Gold dips for fourth session as oil rally fans inflation concerns ([Reuters](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2dJZXdfdnptbDVvajUtNHBONy13T1Z5aEtVc3d2d2VDYUNpUEpTM1JxNGVZRFhiQmh1b1U2RWpOaW0zVndyQk9uSFZ6b0pQXzVvNUhRMFVXeEMzS3BrU1FkdE9tNEYxY21PdDFEWGplNkkwMkJ2Rkk5VVg2VUVDcXFIUmp4cUR4SnhqQ2h6b3hYTExtTkhCNGtqZWt6WUtUYURrc3owUUptdw)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Acceleration because credit stress hits fresh highs even as equity buyers fade the AI rout.
-> * **Transmission / Market Read**: Risk-premium and liquidity channel supports **long UST** and **short US high yield** until spreads stabilize.
-> * **Watchpoint / Confidence**: CoreWeave and Oracle bond spreads, Super Micro full results, Fed December pricing; Confidence: Medium.
+> * **Narrative change**: Acceleration versus morning oil slip; Hormuz attacks and Indian Oil term-deal cuts now collide with supply resilience and Russia sanctions relief.
+> * **Transmission / Market Read**: Inflation risk-premium channel favors **long Brent** and **long USD/Asia FX** on energy import terms of trade.
+> * **Watchpoint / Confidence**: Next Hormuz vessel strike or verified US-Iran diplomatic de-escalation; EIA crude stocks tonight. Confidence: Medium due to conflicting signals.
 
-### 📌 Iran diplomacy hopes collide with shipping escalation
+### 📌 France 10-year yield crosses 5% as fiscal stress deepens
 
 **Fact**
-Oil steadies as traders weigh conflicting signals on Iran talks ([BBG](https://www.bloomberg.com/news/articles/2026-10-20/latest-oil-market-news-and-analysis-for-oct-21)). Oil prices fall as traders hope for diplomatic progress in Middle East ([CNBC](https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html)). Developments in the Middle East remain in focus, with attacks on commercial ships transiting the Strait of Hormuz escalating in recent weeks ([CNBC](https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html)). Oil futures settle lower in volatile session ([WSJ](https://news.google.com/rss/articles/CBMipwFBVV95cUxPTUxmM3AtZ2FXSDFNbHBRTVlickI1OXNDdU1BeGZwOHZ6NVd5SW9RaUx0ZFlMTGVTN3J1QXFzUEc2Z3JOaVFzTTRQV1VXVVVpTktIaV9HYnU3Z2U1UmJCZExNdlZiWlhyMzlJRmh3X0Z5bHhNYW02R09JbE1nSWxEVW9hbXFsdTZuOVVuVjVvYlFEazFqR012VU40cTdnS096MmFQY1h0VQ)). NATO to send planes and drones to Black Sea after attacks on shipping ([Reuters 1](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSTdZakRjOTJLeFp1bjdZQ0p1cGJwSjZEYWwtTG5jZXJ4bnloM0J0bVJROTRKM0xCSENRY1dzbGlfeW1renV1SmpfOS1CYVVMWEU1UWdUQS01SkZCZndJcHpFM240c3VReU95Rkw2Z0Q0R1E0Vlo3cHpGMVcxVVVMQW1yUU5YRUYzQTE5TkhhcDUzZ2FpVnlYMExxOW1XbHJUUjJmMVRLV1p6QVdGb2VKRFY2cmRMMEw5NHQw)). Iran tells Pakistan army chief no talks with Washington until demands are met ([Reuters 2](https://news.google.com/rss/articles/CBMizgFBVV95cUxOVDRWMklOYkRvUmtPYU1tcnN0MVJCbzRxWlJzS3lSUFhsZzQ3SnQ2N0FKXzRsZFpmdmMwS1lVYWhKenNoNEF6UmhhcThrbVM1V0ZHQUk0aXFwWHlvbXFNWVhzQkV2aHVzM1I2am9fOHFHa19CQlN0Z3FqUG5nc2VwQUJxazBhbGZlSUhDMHExSWJLbDJNNXRjc3BOYkZrTThIUW1IUkE4QUI2azl6MzZHT0Nrb2M4aDZBQzZKYVp4OTg0VV9xWWllLUJGYkFkdw)). US warns peace deal with Tehran is extremely difficult ([Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/10/21/iran-war-live-us-warns-peace-deal-with-tehran-is-extremely-difficult)).
+France’s borrowing costs hit 5% for first time since 2002; concerns over public finances and political stability have helped push up 10-year bond yields from 3.2% in late February ([FT](https://www.ft.com/content/76f076e4-9db2-4971-8ac9-73d9f39e4876)). French 10-year bond yield hits 5% for first time since 2002 amid unrest ([CNBC](https://www.cnbc.com/2026/10/21/france-protests-bonds-debt.html)). Bond selloff revives debate about euro zone banks' 'doom loop' ([Reuters](https://news.google.com/rss/articles/CBMitgFBVV95cUxNSE45YzVMT3FwR1hwcF9lMDBYS3pEYkozajNuaFFteWx0TlZIaVZjdzRQMkstbnhiUEhXVjlLU0lha011VmNwYmZWeTdVb1pUSHNKY3hOVkZXTzZJWndTakUyZVo3ejJNcXlJbldSMTBQTURvcDBvU2ZnYU1Tc202dXJ1VHlzZnlncTVCX284Nlg5ZE50b3hMNlBTZEl2TC13Q2FvOWFyYmZETDdDRjlSczZFbjZXZw)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Confirmation of elevated shipping risk, with price action reversing lower on diplomacy hopes.
-> * **Transmission / Market Read**: Risk-premium channel splits oil and equities, favors **long Brent volatility** and **short KRW** on headline risk.
-> * **Watchpoint / Confidence**: Verified Hormuz de-escalation or new commercial vessel strike within 72 hours; Confidence: Medium.
+> * **Narrative change**: New because French 10-year yield crossing `5%` was not in prior state; euro fiscal stress is accelerating.
+> * **Transmission / Market Read**: Financial-stability and risk-premium channel favors **short EUR/USD** and **wider OAT-Bund spreads** on sovereign credit repricing.
+> * **Watchpoint / Confidence**: Contagion to Italian BTPs, EU/ECB response, next French auction. Confidence: High due to price action and cross-source confirmation.
 
 ---
 
 ## 🌍 Global Radar
 
 ### 📊 Economic Indicators
-- US pending home sales dropped `7.3%` in September as rising borrowing costs deepened housing market slowdown ([FT](https://www.ft.com/content/42ed6778-d350-48a6-ba3d-99efca3cd276)).
-- New data on the housing market's performance in September is bleak, with sales, construction and sentiment all falling more than expected ([CNBC](https://www.cnbc.com/2026/10/20/september-data-shows-housing-market-in-a-deep-freeze.html)).
-- Dollar falls as record Japanese bond auction lifts yen, pound surges on jobs data ([Investing](https://www.investing.com/news/forex-news/asian-currencies-firm-asdollar-retreats-yuan-hits-fouryear-high-4958775)).
+- South Korea’s Export Boom Stays Strong Ahead of BOK Rate Decision ([BBG](https://www.bloomberg.com/news/articles/2026-10-21/s-korea-s-export-boom-stays-strong-ahead-of-bok-rate-decision)).
+- Japan’s Export Growth Stays Solid, Supported by Chips, Cars ([BBG](https://www.bloomberg.com/news/articles/2026-10-21/japan-s-export-growth-stays-solid-supported-by-chips-cars)).
 
 ### 🏦 Central Banks
-- **Fed** — Fed to skip October but raise rates again in December, nearly all economists say ([Reuters](https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ)).
-- **Hungary** — Hungary holds interest rate with budget and euro path in focus ([BBG](https://www.bloomberg.com/news/articles/2026-10-20/hungary-holds-interest-rate-with-budget-and-euro-path-in-focus)).
+- **Bank Indonesia** — Bank Indonesia holds rate as MSCI shock threatens rupiah ([BBG](https://www.bloomberg.com/news/articles/2026-10-21/bank-indonesia-holds-rate-as-msci-shock-threatens-rupiah)).
+- **BOJ** — The Bank of Japan will probably keep raising interest rates every three months to contain risks of inflation deviating from its stable price target, according to a former BOJ executive director who oversaw monetary policy ([BBG](https://www.bloomberg.com/news/articles/2026-10-21/boj-likely-to-keep-hiking-rates-every-quarter-ex-official-says)).
+- **ECB** — Lane says greater global euro use may help ECB control inflation ([BBG](https://www.bloomberg.com/news/articles/2026-10-21/lane-says-greater-global-euro-use-may-help-ecb-control-inflation)).
+- **Sweden** — Sweden to Hike Key Rate Twice Before April 2027, Survey Finds ([BBG](https://www.bloomberg.com/news/articles/2026-10-21/sweden-to-hike-key-rate-twice-before-april-2027-survey-finds)).
 
 ### 🌐 Geopolitics & Policy
-- Trump sued over `50%` tariffs on Canada in latest trade challenge ([CNBC](https://www.cnbc.com/2026/10/20/trump-tariffs-canada-section-338-lawsuit.html)).
-- First Quad leaders' summit after two years in Manila next month, Rubio confirms ([SCMP](https://www.scmp.com/news/us/article/3371558/first-quad-leaders-summit-after-two-years-manila-next-month-rubio-confirms)).
-- EU unveils Arctic strategy to counter increasing Russia, China influence ([SCMP](https://www.scmp.com/news/world/europe/article/3371549/eu-unveils-arctic-strategy-counter-increasing-russia-china-influence)).
-- US troops in South Korea must be ready for missions beyond peninsula, commander says ([SCMP](https://www.scmp.com/news/us/article/3371562/us-troops-south-korea-must-be-ready-missions-beyond-peninsula-commander-says)).
+- North Korea tells border troops to take 'resolute action' if South threatens their safety ([Reuters](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdHllSVpuQVItNDhYcW9GeTVrUkJHVngxel9VR20xQnZVLUlJcHYxYktzQjFoNEpMWkFLcmlWZS1HU2dFMTFSaDZjX3NrNlNQT2ZFS0JqeGJkZ25lREY0ZUZNbVp6clBlbmg4Y1dDMUlyT0RxajZYMTdZU1VUaW9NbjFURGtPbjB0X09ScFJ4UWVnMFRxMFd6VGRFdTBMeDJlQV83NE94SUFFZzJVeGRuVzlndEpMNUIydDRZcXQ0OVlPTFIwQ2RIV1lpeWxZbzB3)).
+- China says it is 'safeguarding order' around Taiwan-controlled South China Sea atoll ([Reuters](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdTQyY2ZrQm1kT0JUNy1VTFUxZVVuMHhqVEFFSkl0RDY3ZWpuQjQybnhNSE1UZTdtUXA0bTh2MU5KSlh0amZIaVFiMDhPVi1ZQV9nVG5DaHBVOE1jUS1OUnVzOEFwQUNnY3ljbnBqQkNGM242a21id1pBRk56UUhkeXRFMGZxQzFWYlZJaXE2ZXhoa0tHelh1V2loc19TS1psNjVzMFptQlNBdjJfU3REQzhOSEZUakdQN1NWTEtpcmh0Zw)).
+- Witkoff in Russia for Putin meeting after 'positive' talks with Zelenskyy ([Al Jazeera](https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy)).
 
 ### 🛢️ Commodities
-- Diesel market remains under pressure as jet fuel crack widens in Europe ([S&P Global](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNajJ6bmlDY0dhZkV2cGFOcExlOTJwVTJLMk9DN0NGQ0RBX0l3LW50cnM1b3dGcjhfWWRZTGszMWJ3NDRxVkR4NkFhNUVYb1lNdlRVa1RjaGViSXhSUGlVU0c5Q2R0cmRZaUNRaFlYVHRUa1I1aWNfR0txczhFS1RKTkg5UzBfaFMtRzlFb3M2YmwyaEZFVmtETmxrUzZhRjRXMXRCUHlURTlRWEpwbVlyd0Y2RW9Pb0s5TkZRSGZtYkEyVXdCM2hKeVBIR3dHejRsU05TYWdweUFUUXVyV0tDYnBLQQ)).
-- Russian diesel returns to Turkey, Brazil after export ban lifted, shipping data shows ([Reuters](https://news.google.com/rss/articles/CBMiywFBVV95cUxQTzdwRFZCSlN2bEpHUURBc2xXaDU5djAzLV9JR1RWTk95VVdueUQ1TW9sWjdQWmhDR2tWNW9kdVJWYy1JdS05dHhNYUVkTTFvdzYzUUlHOGhhTVBvZmQ3c1RWZW40NTQ3ajM2RjZXRWczYkE1YW4zaW1FNHdCX3hiNEk0dWJwUTVLMndZbFlCLWhORVAzcXNaRHh4ZkEtOU9YVkFTSEQxSzJ6ZHBiQzJZNFF4WlJiT2xpdW1BMnZtREh6ZU5NczVrR3VPNA)).
-- Traders are growing wary of a copper price crash with no sign of tariffs ([BBG](https://www.bloomberg.com/news/newsletters/2026-10-20/traders-are-growing-wary-of-a-copper-price-crash-with-no-sign-of-tariffs)).
+- U.S. eyes refining muscle of Indian billionaire Ambani's Reliance as Rubio visits Jamnagar plant ([CNBC](https://www.cnbc.com/2026/10/21/rubio-reliance-venezuela-oil-diesel.html)).
 
 ### 📈 Equities
-- The S&P 500 Index erased early-session losses to close higher on Tuesday as big banks and healthcare companies rallied. The tech-heavy Nasdaq 100 Index ended the day with a slight decline after South Korean neocloud company Elice Inc. tanked in its trading debut, spurring concern about the sustainability of the global AI boom ([BBG](https://www.bloomberg.com/news/articles/2026-10-20/us-futures-slip-as-neocloud-ipo-elice-flops-spacex-results-loom)).
-- U.S. Stocks Mixed as Strong Earnings Offset AI Credit Fears ([WSJ](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeDRUVjRlc3JBSWk3Q3F4QkpoekUzZGVUNHM2UmJnZlNJcm5XZmdKa2h1NlFJX19TYkpmd010QUpqZHN5WC1uY0FrWnZTM1pPSXJCQng1MGlIRkxDeFBKLTdta1dVUDhqN05DMk5aTGt6ZkVZTTBQWllOQVNFR2ZPY3pqdDVEVGxtcXNHcnRzV1FqNmV2MWtrN0VMekJ4bU1ETmZ4TA)).
-- General Motors Stock Slides as Iran Conflict Drives Up Costs ([WSJ](https://news.google.com/rss/articles/CBMipAFBVV95cUxQM01KTTI0bUhmZU9PU1JWbGgxcXlnRmM5T3lBeHVMOXpVZzdRV0ZvamNhMkhPYmFWelhhT1dZWXViMEE4azRCb1FydmZQYVZhaTFsNWZMVXJXZWZOZUxNcE9ocU9NSS0wcUp1Nm1XTlBTRGNGZTE1c1JHNWl1amRyZ2xUcl9iSzF1d1V2SGE1Y2dGaGV2QWZzT3Jab0IyT0JxXzY3Xw)).
+- South Korea, Japan shares rise; Asian stocks climb as strong earnings buoy Wall Street ([BusinessTimes](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNd2o5U0NVVnIwVDdPcklFeDhRTlo2UUZBY3FBaGRsOGpDRkhvUW1ES0UzWDhSbmtRMGMzQWNLV0szUWhaUXMwUWtwVVhWNTFIWi1YaU9NYnNfdlZEMmZyd1ZEd2ZDUmRfalg3dUY2MzJIc2M0RkZrX2lLTVhrcUE1MWJsZ1RsemxwM1NyYmpEYTBHaXZtZ0lvelRuOWtrZ1B5RDVmbWVGaTBnYmlMVXNTOTYtM1V2cDBvc0J2c3lGdl8zSVJVaUJ1VHZvbS1BaXJYem5jNHVFUUN4VTBHSnkzMk5jZnIwVUtsSDhybm10Wk0)).
+- Indian share benchmarks rise, led by IT stocks, Reliance with Jio IPO in focus ([Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdjNITnczLXgyWGppRkFrTDc1dE9MOWM3aENNVGVKRkFJWU9XT0RUcWM4WTFUaVlxanNvVVZQV0E3OGFZWEM4UDFLSXFuV3psVEFxOGtqVFgxdGpVWDRILWJxS1IwUW1PU0FDSGg4ZUNjQnlUeG54aDI5TTREMDIwWXJHdXU5WW1ndEp2YTBVejl3UW5YeXpVRUItV2NKbGdqb2ZwNlV3Wm8xWThfRU9xVQ)).
 
 ---
 
@@ -91,28 +88,12 @@ Oil steadies as traders weigh conflicting signals on Iran talks ([BBG](https://w
 
 | Time (HKT) | Rgn | Event | Est. | Prior |
 |---|---|---|---|---|
-| Oct 21 11:35 AM | JP | boj jgb purchase | — | — |
-| Oct 21 02:00 PM | GB | Inflation Rate YoY | 3.4% | 3.1% |
-| Oct 21 02:00 PM | GB | Core Inflation Rate YoY | 2.7% | 2.6% |
-| Oct 21 02:00 PM | GB | Inflation Rate MoM | 0.3% | 0.5% |
-| Oct 21 02:00 PM | GB | Core Inflation Rate MoM | 0.2% | 0.3% |
-| Oct 21 02:00 PM | GB | PPI Core Output MoM | — | 0.3% |
-| Oct 21 02:00 PM | GB | PPI Core Output YoY | — | 2.7% |
-| Oct 21 02:00 PM | GB | PPI Input MoM | 1.6% | 0.3% |
-| Oct 21 02:00 PM | GB | PPI Input YoY | 7.2% | 6.1% |
-| Oct 21 02:00 PM | GB | PPI Output MoM | 0.7% | 0.7% |
-| Oct 21 02:00 PM | GB | PPI Output YoY | 4.3% | 3.7% |
-| Oct 21 02:00 PM | GB | Public Sector Net Borrowing Ex Banks | £-23.9B | £-18.3B |
-| Oct 21 02:00 PM | GB | Retail Price Index MoM | 0.1% | 0.6% |
-| Oct 21 02:00 PM | GB | Retail Price Index YoY | 3.9% | 3.4% |
-| Oct 21 03:30 PM | ID | Interest Rate Decision | 6% | 5.75% |
-| Oct 21 03:30 PM | ID | Deposit Facility Rate | 5% | 4.75% |
 | Oct 21 07:00 PM | US | MBA 30-Year Mortgage Rate | — | 7.5% |
 | Oct 21 07:00 PM | US | MBA Mortgage Applications | — | -2.7% |
 | Oct 21 07:00 PM | US | MBA Mortgage Market Index | — | 199.2 |
 | Oct 21 07:00 PM | US | MBA Mortgage Refinance Index | — | 513.5 |
 | Oct 21 07:00 PM | US | MBA Purchase Index | — | 139.3 |
-| Oct 21 10:30 PM | US | EIA Crude Oil Stocks Change | -0.3M | -8.557M |
+| Oct 21 10:30 PM | US | EIA Crude Oil Stocks Change | -0.1M | -8.557M |
 | Oct 21 10:30 PM | US | EIA Gasoline Stocks Change | — | 3.518M |
 | Oct 21 10:30 PM | US | EIA Crude Oil Imports Change | — | -0.596M |
 | Oct 21 10:30 PM | US | EIA Cushing Crude Oil Stocks Change | — | 1.862M |
@@ -126,53 +107,70 @@ Oil steadies as traders weigh conflicting signals on Iran talks ([BBG](https://w
 | Oct 22 07:50 AM | JP | Foreign Bond Investment | — | ¥-339.7B |
 | Oct 22 07:50 AM | JP | Stock Investment by Foreigners | — | ¥3521.5B |
 | Oct 22 09:00 AM | KR | Interest Rate Decision | 3% | 3% |
+| Oct 22 01:00 PM | SG | 6-Month T-Bill Auction | — | 1.9% |
+| Oct 22 02:45 PM | FR | Business Confidence | 101 | 101 |
+| Oct 22 02:45 PM | FR | Business Climate Indicator | 96 | 96 |
+| Oct 22 05:00 PM | GB | index-linked treasury gilt 2031 auction | — | 0.933% |
+| Oct 22 06:00 PM | GB | CBI Business Optimism Index | — | -36 |
+| Oct 22 06:00 PM | GB | CBI Industrial Trends Orders | -20 | -9 |
+| Oct 22 07:00 PM | TR | TCMB Interest Rate Decision | 36% | 37% |
+| Oct 22 07:00 PM | TR | Overnight Borrowing Rate | — | 35.5% |
 
 ---
 
 ## 📚 Full Reading List
+
 - **BBG**
-  - [Tech Credit Risk Hits Fresh Highs on Fears of Debt Wave to Come](https://www.bloomberg.com/news/articles/2026-10-20/tech-credit-risk-hits-fresh-highs-on-fears-of-debt-wave-to-come)
-  - [AI Stocks Rally After Super Micro Preliminary Sales Bring Relief](https://www.bloomberg.com/news/articles/2026-10-20/ai-stocks-rally-after-super-micro-preliminary-sales-bring-relief)
-  - [US Housing Starts Fall to Four-Month Low as Demand Falters](https://www.bloomberg.com/news/articles/2026-10-20/us-housing-starts-fall-to-four-month-low-as-demand-falters)
-  - [BOE’s Greene Says UK Labor Market Is Not as Weak as Thought](https://www.bloomberg.com/news/articles/2026-10-20/boe-s-greene-says-uk-labor-market-is-not-as-weak-as-thought)
-  - [ECB’s Rehn Says French Spread to Germany Has Widened ‘Somewhat’](https://www.bloomberg.com/news/articles/2026-10-20/ecb-s-rehn-says-french-spread-to-germany-has-widened-somewhat)
-  - [Hungary Holds Interest Rate With Budget and Euro Path In Focus](https://www.bloomberg.com/news/articles/2026-10-20/hungary-holds-interest-rate-with-budget-and-euro-path-in-focus)
-  - [Traders Grow Wary of Copper Bull Market With No Sign of Tariffs](https://www.bloomberg.com/news/newsletters/2026-10-20/traders-are-growing-wary-of-a-copper-price-crash-with-no-sign-of-tariffs)
-  - [S&P 500 Climbs as Big Bank Stocks Rally, SpaceX Results Loom](https://www.bloomberg.com/news/articles/2026-10-20/us-futures-slip-as-neocloud-ipo-elice-flops-spacex-results-loom)
-  - [Oil Steadies as Traders Weigh Conflicting Signals on Iran Talks](https://www.bloomberg.com/news/articles/2026-10-20/latest-oil-market-news-and-analysis-for-oct-21)
+  - [UK Borrowing Exceeds Forecast in Final Data Before Budget](https://www.bloomberg.com/news/articles/2026-10-21/uk-borrowing-exceeds-forecast-in-final-data-before-budget)
+  - [Indian Oil to Trim Term Deals With Gulf Producers For Next Year](https://www.bloomberg.com/news/articles/2026-10-21/indian-oil-to-trim-term-deals-with-gulf-producers-for-next-year)
+  - [Bank Indonesia Holds Rate as MSCI Shock Threatens Rupiah](https://www.bloomberg.com/news/articles/2026-10-21/bank-indonesia-holds-rate-as-msci-shock-threatens-rupiah)
+  - [South Korea’s Export Boom Stays Strong Ahead of BOK Rate Decision](https://www.bloomberg.com/news/articles/2026-10-21/s-korea-s-export-boom-stays-strong-ahead-of-bok-rate-decision)
+  - [Japan’s Export Growth Stays Solid, Supported by Chips, Cars](https://www.bloomberg.com/news/articles/2026-10-21/japan-s-export-growth-stays-solid-supported-by-chips-cars)
+  - [BOJ Likely to Keep Hiking Rates Every Quarter, Ex-Official Says](https://www.bloomberg.com/news/articles/2026-10-21/boj-likely-to-keep-hiking-rates-every-quarter-ex-official-says)
+  - [Lane Says Greater Global Euro Use May Help ECB Control Inflation](https://www.bloomberg.com/news/articles/2026-10-21/lane-says-greater-global-euro-use-may-help-ecb-control-inflation)
+  - [Sweden to Hike Key Rate Twice Before April 2027, Survey Finds](https://www.bloomberg.com/news/articles/2026-10-21/sweden-to-hike-key-rate-twice-before-april-2027-survey-finds)
+
 - **Reuters**
-  - [Fed to skip October but raise rates again in December, nearly all economists say](https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ)
-  - [NATO to send planes and drones to Black Sea after attacks on shipping](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSTdZakRjOTJLeFp1bjdZQ0p1cGJwSjZEYWwtTG5jZXJ4bnloM0J0bVJROTRKM0xCSENRY1dzbGlfeW1renV1SmpfOS1CYVVMWEU1UWdUQS01SkZCZndJcHpFM240c3VReU95Rkw2Z0Q0R1E0Vlo3cHpGMVcxVVVMQW1yUU5YRUYzQTE5TkhhcDUzZ2FpVnlYMExxOW1XbHJUUjJmMVRLV1p6QVdGb2VKRFY2cmRMMEw5NHQw)
-  - [Iran tells Pakistan army chief no talks with Washington until demands are met](https://news.google.com/rss/articles/CBMizgFBVV95cUxOVDRWMklOYkRvUmtPYU1tcnN0MVJCbzRxWlJzS3lSUFhsZzQ3SnQ2N0FKXzRsZFpmdmMwS1lVYWhKenNoNEF6UmhhcThrbVM1V0ZHQUk0aXFwWHlvbXFNWVhzQkV2aHVzM1I2am9fOHFHa19CQlN0Z3FqUG5nc2VwQUJxazBhbGZlSUhDMHExSWJLbDJNNXRjc3BOYkZrTThIUW1IUkE4QUI2azl6MzZHT0Nrb2M4aDZBQzZKYVp4OTg0VV9xWWllLUJGYkFkdw)
-  - [Russian diesel returns to Turkey, Brazil after export ban lifted, shipping data shows](https://news.google.com/rss/articles/CBMiywFBVV95cUxQTzdwRFZCSlN2bEpHUURBc2xXaDU5djAzLV9JR1RWTk95VVdueUQ1TW9sWjdQWmhDR2tWNW9kdVJWYy1JdS05dHhNYUVkTTFvdzYzUUlHOGhhTVBvZmQ3c1RWZW40NTQ3ajM2RjZXRWczYkE1YW4zaW1FNHdCX3hiNEk0dWJwUTVLMndZbFlCLWhORVAzcXNaRHh4ZkEtOU9YVkFTSEQxSzJ6ZHBiQzJZNFF4WlJiT2xpdW1BMnZtREh6ZU5NczVrR3VPNA)
+  - [Bond selloff revives debate about euro zone banks' 'doom loop'](https://news.google.com/rss/articles/CBMitgFBVV95cUxNSE45YzVMT3FwR1hwcF9lMDBYS3pEYkozajNuaFFteWx0TlZIaVZjdzRQMkstbnhiUEhXVjlLU0lha011VmNwYmZWeTdVb1pUSHNKY3hOVkZXTzZJWndTakUyZVo3ejJNcXlJbldSMTBQTURvcDBvU2ZnYU1Tc202dXJ1VHlzZnlncTVCX284Nlg5ZE50b3hMNlBTZEl2TC13Q2FvOWFyYmZETDdDRjlSczZFbjZXZw)
+  - [Gold dips for fourth session as oil rally fans inflation concerns](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2dJZXdfdnptbDVvajUtNHBONy13T1Z5aEtVc3d2d2VDYUNpUEpTM1JxNGVZRFhiQmh1b1U2RWpOaW0zVndyQk9uSFZ6b0pQXzVvNUhRMFVXeEMzS3BrU1FkdE9tNEYxY21PdDFEWGplNkkwMkJ2Rkk5VVg2VUVDcXFIUmp4cUR4SnhqQ2h6b3hYTExtTkhCNGtqZWt6WUtUYURrc3owUUptdw)
+  - [North Korea tells border troops to take 'resolute action' if South threatens their safety](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdHllSVpuQVItNDhYcW9GeTVrUkJHVngxel9VR20xQnZVLUlJcHYxYktzQjFoNEpMWkFLcmlWZS1HU2dFMTFSaDZjX3NrNlNQT2ZFS0JqeGJkZ25lREY0ZUZNbVp6clBlbmg4Y1dDMUlyT0RxajZYMTdZU1VUaW9NbjFURGtPbjB0X09ScFJ4UWVnMFRxMFd6VGRFdTBMeDJlQV83NE94SUFFZzJVeGRuVzlndEpMNUIydDRZcXQ0OVlPTFIwQ2RIV1lpeWxZbzB3)
+  - [China says it is 'safeguarding order' around Taiwan-controlled South China Sea atoll](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdTQyY2ZrQm1kT0JUNy1VTFUxZVVuMHhqVEFFSkl0RDY3ZWpuQjQybnhNSE1UZTdtUXA0bTh2MU5KSlh0amZIaVFiMDhPVi1ZQV9nVG5DaHBVOE1jUS1OUnVzOEFwQUNnY3ljbnBqQkNGM242a21id1pBRk56UUhkeXRFMGZxQzFWYlZJaXE2ZXhoa0tHelh1V2loc19TS1psNjVzMFptQlNBdjJfU3REQzhOSEZUakdQN1NWTEtpcmh0Zw)
+  - [EU will propose new tools to protect market, von der Leyen says](https://news.google.com/rss/articles/CBMisgFBVV95cUxQRDhFRkdJRjdBMGRIYVJtMEtQTzFWNHp1Vnk3NTVGTDZsSzluRXBRWk5xaGEtTTZLQWVsM3oweVhlZTVfVUNockNWeU1GNDZZT1ZFLWFuLVdQektqNU5JWTFFaW1WY05iM1FuSVR1bWRZUkJ5VFZVUFRjYU0tUTlVVU5vTEVXY3BKbjdZRk8yY1ZjaE5QZHBOMDh5UEE1Rk12Um9DWnlrRkZZREZ5MTJ2SWxn)
+  - [In China, ECB makes case for euro liquidity lines](https://news.google.com/rss/articles/CBMimgFBVV95cUxNN3NOb19uSnBzc0sxX3ZDZjdhVDNlNTVHR0tYZnFCT1NPc0wwSE9oSkp0SjA2WXJzMmJnNnY5NEVKN3ZBdlE3aTJBNmRpaC10YmFjekVvWS1fQW83RWE3NDBRVDRXdmVVS2NFRFBWelRZQ3lIakk5RUhSdExqM0F4NktQOHdkVkFnQ2pGaDhIaFNsTmpRWnhYSWVR)
+  - [Indian share benchmarks rise, led by IT stocks, Reliance with Jio IPO in focus](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdjNITnczLXgyWGppRkFrTDc1dE9MOWM3aENNVGVKRkFJWU9XT0RUcWM4WTFUaVlxanNvVVZQV0E3OGFZWEM4UDFLSXFuV3psVEFxOGtqVFgxdGpVWDRILWJxS1IwUW1PU0FDSGg4ZUNjQnlUeG54aDI5TTREMDIwWXJHdXU5WW1ndEp2YTBVejl3UW5YeXpVRUItV2NKbGdqb2ZwNlV3Wm8xWThfRU9xVQ)
+
 - **WSJ**
-  - [Oil Futures Settle Lower in Volatile Session](https://news.google.com/rss/articles/CBMipwFBVV95cUxPTUxmM3AtZ2FXSDFNbHBRTVlickI1OXNDdU1BeGZwOHZ6NVd5SW9RaUx0ZFlMTGVTN3J1QXFzUEc2Z3JOaVFzTTRQV1VXVVVpTktIaV9HYnU3Z2U1UmJCZExNdlZiWlhyMzlJRmh3X0Z5bHhNYW02R09JbE1nSWxEVW9hbXFsdTZuOVVuVjVvYlFEazFqR012VU40cTdnS096MmFQY1h0VQ)
-  - [U.S. Stocks Mixed as Strong Earnings Offset AI Credit Fears](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeDRUVjRlc3JBSWk3Q3F4QkpoekUzZGVUNHM2UmJnZlNJcm5XZmdKa2h1NlFJX19TYkpmd010QUpqZHN5WC1uY0FrWnZTM1pPSXJCQng1MGlIRkxDeFBKLTdta1dVUDhqN05DMk5aTGt6ZkVZTTBQWllOQVNFR2ZPY3pqdDVEVGxtcXNHcnRzV1FqNmV2MWtrN0VMekJ4bU1ETmZ4TA)
-  - [General Motors Stock Slides as Iran Conflict Drives Up Costs](https://news.google.com/rss/articles/CBMipAFBVV95cUxQM01KTTI0bUhmZU9PU1JWbGgxcXlnRmM5T3lBeHVMOXpVZzdRV0ZvamNhMkhPYmFWelhhT1dZWXViMEE4azRCb1FydmZQYVZhaTFsNWZMVXJXZWZOZUxNcE9ocU9NSS0wcUp1Nm1XTlBTRGNGZTE1c1JHNWl1amRyZ2xUcl9iSzF1d1V2SGE1Y2dGaGV2QWZzT3Jab0IyT0JxXzY3Xw)
+  - [Oil Futures Settle Lower As U.S. Waives Some Russia Sanctions](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTDJ2Qjl2WFNBTjRjQzBPZ3NvaVFXOFctRlZqQzBVZDhDTkR4eEZ6NzZadGhJZHdwSzVuVExwYmxtUFVucTdBRVFzS1BfT3dVeVpNYmJzUzNnTVlzZng0dUZzNTlLOERkZl8wbXRjZS1QVlRDbnhBejVWU2k1UnF5U1BhZzNiUGd6TEFvWmkxajJmUzdiSVBOWnIzaHBmWE9Td1FMMUZtNEMxcEtzOXltQmhsNzNvRTNNX3VhYm8yX2xzU0diYTNNZkp1M0Q5LTJoZGxTaWg0MG1VTlR1Smc)
+  - [Oil Rises As Hormuz Shipping Attacks Fuel Supply Fears](https://news.google.com/rss/articles/CBMirwFBVV95cUxNS2x1amxZRkdMSDU2d1dKN3hBTGd0cEhSYlBEeXpVRzZZZ05LQjUycGxSdG9zaEVzMVhFbzV5YUNEbHdha0ZzMlVRR251clR0UzFJTENpY2RGdmhublNRWHc3WFRxNUYxdXhhaXhUQS1HZkpfWlg0cUkzUnEzV21TcWlta2RPTlMtVDl4STJBVU1ZbzB1VlBMUk50aXo1djRNLUVOdWFoVGd1S3l5dndB)
+  - [More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War](https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ25MSXRodmt6X1ZwZFZ1b01nR01ZTE1PWDU0SGVaWTRKMXJLdl9FbXVHSnZTMGxiV1pMbGtOZTVUMjZER01kVHQ1TmtIczlGZ3Z3X2djQng0b0RrOEQtZkk4REEtYTE2U1JxVlpLMzAtUnNycVhiQXVqV3BET09SZDZLbWtfZGp3NFl6eDZPakRzeDk4N3VydmJucDB6SlgwNmNNWVlrVTVRdGQ2RTVVOUpqTXBJa3RWaXc)
+
 - **FT**
-  - [US pending home sales fall to record low as mortgage rates surge](https://www.ft.com/content/42ed6778-d350-48a6-ba3d-99efca3cd276)
-  - [FirstFT: AI debt fears spark default insurance trading surge](https://www.ft.com/content/92a2e2a4-356a-4aa3-9d1e-8b4fbaf1c365)
+  - [UK inflation and borrowing top forecasts in blow to Healey](https://www.ft.com/content/443ce2f3-ba36-4dc7-aa0b-a2bc593fa563)
+  - [UK September inflation fuels expectations of imminent BoE rate rise](https://www.ft.com/content/70f1da13-3c33-4881-aaa8-3458c1ba7eaf)
+  - [France’s borrowing costs hit 5% for first time since 2002](https://www.ft.com/content/76f076e4-9db2-4971-8ac9-73d9f39e4876)
+
 - **CNBC**
-  - [Stock investors are ready to move on from the AI rout. Credit investors are not](https://www.cnbc.com/2026/10/19/coreweave-oracle-ai-credit-stress.html)
-  - [September data shows housing market in a deep freeze](https://www.cnbc.com/2026/10/20/september-data-shows-housing-market-in-a-deep-freeze.html)
-  - [Trump sued over 50% tariffs on Canada in latest trade challenge](https://www.cnbc.com/2026/10/20/trump-tariffs-canada-section-338-lawsuit.html)
-  - [Oil prices fall as traders hope for diplomatic progress in Middle East](https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html)
-- **SCMP**
-  - [First Quad leaders’ summit after two years in Manila next month, Rubio confirms](https://www.scmp.com/news/us/article/3371558/first-quad-leaders-summit-after-two-years-manila-next-month-rubio-confirms)
-  - [EU unveils Arctic strategy to counter increasing Russia, China influence](https://www.scmp.com/news/world/europe/article/3371549/eu-unveils-arctic-strategy-counter-increasing-russia-china-influence)
-  - [US troops in South Korea must be ready for missions beyond peninsula, commander says](https://www.scmp.com/news/us/article/3371562/us-troops-south-korea-must-be-ready-missions-beyond-peninsula-commander-says)
+  - [UK inflation jumps to 3.5% — cementing rate hike expectations](https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html)
+  - [Oil prices climb as traders assess Middle East developments](https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html)
+  - [French 10-year bond yield hits 5% for first time since 2002 amid unrest](https://www.cnbc.com/2026/10/21/france-protests-bonds-debt.html)
+  - [U.S. eyes refining muscle of Indian billionaire Ambani's Reliance as Rubio visits Jamnagar plant](https://www.cnbc.com/2026/10/21/rubio-reliance-venezuela-oil-diesel.html)
+
 - **BBC**
-  - [Trump sued over Canadian tariffs in latest legal challenge](https://www.bbc.co.uk/news/articles/cqrkyj13m588o)
+  - [Surging fuel prices push UK inflation rate to 3.5% ahead of Budget](https://www.bbc.co.uk/news/articles/c6gel2xv4493o)
+
 - **Al Jazeera**
-  - [Iran war live: US warns peace deal with Tehran is extremely difficult](https://www.aljazeera.com/news/liveblog/2026/10/21/iran-war-live-us-warns-peace-deal-with-tehran-is-extremely-difficult)
+  - [Blast heard in Yemen’s Aden as Houthis claim attack on military camp](https://www.aljazeera.com/news/2026/10/21/blast-heard-in-yemens-aden-as-houthis-claim-attack-on-military-camp)
+  - [Witkoff in Russia for Putin meeting after ‘positive’ talks with Zelenskyy](https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy)
+
+- **BusinessTimes**
+  - [South Korea, Japan shares rise; Asian stocks climb as strong earnings buoy Wall Street](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNd2o5U0NVVnIwVDdPcklFeDhRTlo2UUZBY3FBaGRsOGpDRkhvUW1ES0UzWDhSbmtRMGMzQWNLV0szUWhaUXMwUWtwVVhWNTFIWi1YaU9NYnNfdlZEMmZyd1ZEd2ZDUmRfalg3dUY2MzJIc2M0RkZrX2lLTVhrcUE1MWJsZ1RsemxwM1NyYmpEYTBHaXZtZ0lvelRuOWtrZ1B5RDVmbWVGaTBnYmlMVXNTOTYtM1V2cDBvc0J2c3lGdl8zSVJVaUJ1VHZvbS1BaXJYem5jNHVFUUN4VTBHSnkzMk5jZnIwVUtsSDhybm10Wk0)
+
 - **Caixin**
-  - [央行完善短端利率调控机制 隔夜回购将成主要操作品种](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZRVNUTnpSUG9yNW1VVjg5dUtfZmtULWhZemtNb1lSWlZtWHZnYlR2YmRzZkJodW1DU3gwb0tCZHlSTC03UFAzRmJiNkRjZmpJeWJiaG96eHc2QllwVXJsczVn)
-  - [潘功胜：高科技产业快速发展 为人民币资产提供坚实支撑](https://news.google.com/rss/articles/CBMiYkFVX3lxTE45MXZqZXZ1SDdrNHd6dThaX2hxOTgxVDlRVmFGM1NoR0RHWnBFZVdzblVhN2ptalNBdWtBWXBwUkk4OHA1THA2R2JrYlVVbGtHLW9NWVY2SjhtdWdtSkNhR0Rn)
-  - [分析｜柴油突破6美元，美俄柴油协议意义几何？](https://news.google.com/rss/articles/CBMiakFVX3lxTE9NSGNHazdfVFBuR2M3dHJnalV2VlNkaV9pTjRwOHdCd2RzRmwtdE1LcjBLSWhrMU1FR25SSGNnY1hNcTF6VW9LQmtjQmdfZXE5d1l5QThPbmZra3U5SWtfTy1KTGxUeW9iQnc)
-- **WSJCN**
-  - [政策利率“换锚”隔夜影响几何？一文读懂货币政策框架新变化](https://news.google.com/rss/articles/CBMiU0FVX3lxTE16Z0UzRVVZN3pIcUNOQkIzR1ZZYl8zRnNLRzhJM3NQX1hibzd0MnM3U3duM0E5dDVhbHhWNHlDaF9UdTBSUEdQQWhDdDJCSEZZQ2RJ)
-  - [CoreWeave债券暴跌敲响警钟，美联储或需重新审视加息节奏](https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xZlk4OG1lRHZjSi0yX2FRZm1xcjFucXduT2FGbmJkYXgwUXYzVUltbjJUandpYVJqQzlJMFo2U1ZpbGxiSGZPZWNDeHlsWGtPbTRV)
+  - [出口超高速增长是否可持续？研究者称2027年或转入中高速增长](https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzaVJPV2NyXzZGcVliQzY5NUtST0liTGszTkhUMW5WNHZnWFJ0MnAxS1JZR3NGcnFKRnFXNWsyUnVhZDJLU3NQeERtdGJFNUpydWJmQjRzOUdkSjhaR3dzNEF3)
+  - [中欧刚达成共识，欧盟为何又酝酿贸易新工具](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LRVVlNlM3aFo5TzFMbTBwTkRtemxuTERGcmRMX1JmcDdRTjJrcHdNTHhSX2RoXzEzRDBDNnlfVFQzRVgteW5CNEc1b0owcE5JTjBFdDdSMnNvNlhMMldNUENB)
+  - [油价风险升高带动通胀](https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtUm5sazBTTEpzREV2RXUwRWxrOW4zMWo0cWwxNkJCRXAzYlBaRHZKZnZFZk1VaktoMXowZDJfLWpfYkhHbW1XM1lvSVhNZ0VhYXpyOE1YS0dJM1VQMnU0dDJn)
+
 - **Investing**
-  - [Dollar falls as record Japanese bond auction lifts yen, pound surges on jobs data](https://www.investing.com/news/forex-news/asian-currencies-firm-asdollar-retreats-yuan-hits-fouryear-high-4958775)
-- **S&P Global**
-  - [Diesel market remains under pressure as jet fuel crack widens in Europe](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNajJ6bmlDY0dhZkV2cGFOcExlOTJwVTJLMk9DN0NGQ0RBX0l3LW50cnM1b3dGcjhfWWRZTGszMWJ3NDRxVkR4NkFhNUVYb1lNdlRVa1RjaGViSXhSUGlVU0c5Q2R0cmRZaUNRaFlYVHRUa1I1aWNfR0txczhFS1RKTkg5UzBfaFMtRzlFb3M2YmwyaEZFVmtETmxrUzZhRjRXMXRCUHlURTlRWEpwbVlyd0Y2RW9Pb0s5TkZRSGZtYkEyVXdCM2hKeVBIR3dHejRsU05TYWdweUFUUXVyV0tDYnBLQQ))
+  - [French yields hover near 2002 highs; hotter UK inflation sparks gilt pressure](https://www.investing.com/news/forex-news/french-yields-hover-near-2002-highs-hotter-uk-inflation-sparks-gilt-pressure-4961706)
+
+---
