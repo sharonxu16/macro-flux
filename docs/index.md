@@ -1,9 +1,9 @@
 ---
 tags:
-  - Macro/Euro_Fiscal_Stress
-  - Macro/Hormuz_Blockade
+  - Macro/MiddleEast_Escalation
+  - Macro/Asia_Rate_Hawkishness
   - Asset/Brent
-  - Trade/Long_Brent
+  - Asset/KRW
   - Trade/Short_KRW
 ---
 
@@ -11,86 +11,64 @@ tags:
 
 # 🌊 Macro Flux
 
-<small>Oct 21 5PM to Oct 22 8AM HKT</small>
+<small>Oct 22 8AM to Oct 22 5PM HKT</small>
 
-<small>Good morning.</small>
+<small>Good afternoon.</small>
 
 </div>
 
 ---
 
 > [!abstract] Overview
-> France’s 10-year yield surging to `5%`, the highest since 2002, is the dominant macro shock, pulling global duration lower as euro-area fiscal stress meets fresh ECB tightening talk. Middle East risks stay elevated after Iranian naval mines blocked three tankers at the Strait of Hormuz, yet Gulf export volumes have recovered to prewar levels and US crude inventories fell more than expected, keeping Brent bid but two-sided. North Korea’s Kim Yo Jong warned South Korea that border loudspeakers will be ready within days, adding a security risk premium just before the Bank of Korea decision. UK inflation and borrowing overshoot cement a November Bank of England hike, reinforcing the global repricing toward higher policy rates. The single cross-market thread is a simultaneous repricing of fiscal risk, oil supply risk, and Asia security risk that favors higher developed-market yields, a firmer dollar, and vulnerable Asian FX.
+> The afternoon session is dominated by a sharp re-escalation in the Middle East, with the U.S. ordering non-emergency staff out of Saudi Arabia after Houthi strikes on an airport and an oil field and reportedly preparing Iran strikes, pushing oil above `$112` and triggering a broad risk-off in Asian and global equities. The Bank of Korea held its policy rate after back-to-back hikes but signaled the pause does not end its tightening cycle, keeping Korea risk premia alive alongside Pyongyang’s renewed border broadcasts. China’s CSI 300 deepened its bear-market rout as tech shares fell on fresh regulatory curbs and AI earnings disappointments, dragging Asian stocks to a three-month low while haven currencies rallied. Philippine policymakers delivered a surprise jumbo rate hike and said they are ready to tighten further, reinforcing the regional push toward higher rates. The single cross-market thread is a simultaneous oil supply shock and hawkish Asia policy repricing that supports commodities and havens while punishing risk assets and Asian FX.
 
 ---
 
 ## 🔬 Narrative Watch
 
-### 📌 France 10-year yield hits 5%, euro fiscal stress deepens
+### 📌 Middle East escalation pushes oil above $112 after Houthi strikes
 
 **Fact**
-Concerns over public finances and political stability have helped push up 10-year bond yields from `3.2%` in late February ([FT](https://www.ft.com/content/76f076e4-9db2-4971-8ac9-73d9f39e4876)). French 10-year bond yields hit `5%`, highest since 2002 ([Reuters](https://news.google.com/rss/articles/CBMiogFBVV95cUxOYXc5VF91b3J6TjJpdkR6VFR1SUtTX1VUY1ZTUFBTNXFIT3ZZQ3RBMTVPaDNjMVNZbzRqcGdqRjRXcFhEQjRZd0V6R2ZRZVJwOHdmeHl5LWhva0Y3c285ZUNuaG80bWxBNUMyczhxWWdPd0NZZlNUTVJmUEszM1dCMzU2dU43ZzJ0bHNMQVF5cjgzZWZMUWViWE5aeWc3NUYwSkE)). France is grappling with intense pressure to slash spending, while trying to quell violent protests demanding the government spends more ([CNBC](https://www.cnbc.com/2026/10/21/france-protests-bonds-debt.html)). French bond yields hit multiyear highs, U.S. Treasury yields edge higher ([WSJ](https://news.google.com/rss/articles/CBMimAFBVV95cUxNUUVqY01YZEVBNGdnSkZQSllpNnZmNFNUUm5ab0VxODNVWXVUdm5VYW1GcGRjSXJvTE9lSjlITEZZYmR6MUJiQ1ZtaFhNb3JDQkJoQ09JdlJUdlFsTXRfeEVKM0s1em51dUR0Z3h2WW9hRS1BdVVDSWhGSXNZZ1NIRTlzSnk4ZzZianQ0bnRheEEwRGpXTmY0SA)). ECB’s Kazaks says more tightening may be needed ([BBG](https://www.bloomberg.com/news/articles/2026-10-21/ecb-s-kazaks-says-more-tightening-may-be-needed-econostream)).
+The U.S. ordered non-emergency staff out of Saudi Arabia after **Houthi strikes on an airport and an oil field**, reviving fears of a widening regional conflict ([CNBC](http://www.cnbc.com/2026/10/22/us-iran-trump-hormuz-.html)). Oil prices rise more than 2% as attacks on Saudi Arabia, U.S.-Iran risks persist ([WSJ 1](https://news.google.com/rss/articles/CBMixAFBVV95cUxQYjRlQlhGVEJPT2JaeEpGWkxTZFVEdnpuMUxLRUZhUU1EY09ZcnJMaFlZNmdUbHkwdlBpcURmeHpZXzl1c1Z4WW94YmtMNTJ2N0paSlQtNXJ2eGVfam4tdW5NekpScjdYLU1RSzVGRTJqN3hCT3NOWnNmNGZpYjEwemo3ejBfOTU2ODFoMWtFX1hWS3RHZU9lcm93anl4UUczODQyd1hrUVc4VHQ5ZEpPay1SWGhWbW9YdFFPVmZWd3ZwNmhV)). Oil jumps `$2` on escalating Middle East tension ([Reuters](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYzBEdGVKYmZ3VVpJajg0TW5DN2VHVEM2aDVTcFJKQVduMnVMTU5NbVcyMGxBanBHY3VvMzJQR1VrQWM4b0hLeG1YaTFWcldTeU9yTlBXc3FiR1FtcUp0SmxhRkJkWmpmZ2x6X3VGZHZEUDNLTE9LTFZNSlBWWjNJVGtaV3YwWkc4QVhxbHozYkx5THpZMVlYVDAtd0dqbUMyOUcyVk91NEYxaFFCZklRWWhjQm5qN2NvVHdWdnZIQVJSMk0)). AI stocks slide after earnings disappoint; French bonds tumble and oil tops `$112` ([WSJ 2](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDB3cDByVmVJQWQ4bzhobm83ZDVVN3MtYXh0VjlYT0xtakhpVkNrUFFHbVpWZEp2UHdpeWIwX0h2eVJqSzdod0t1Y3JxcVBaTzZlUFRKTFNkMDE4LVYxMHNjRGlYb0FsOVdqMnJuVzdHMk0xNVVxWXh4Y0tidlFtbXBUa1lXTVJGOXc1c0VvbjJ6eGVINVY0cEpFZHEtakM1UkFwdVZLVW4ySWlxV0RwNHpnNkpKcUsyRXU4RXN2Zm03QTQ)). Iran’s fleet of shadow tankers has run out of oil after monthslong U.S. blockade ([WSJ 3](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa0NkenN2WUo2NHU0WXRYU0dmdldBVmhIVmphdk9HZFpMckZOZ2paMVFiQ3BaMHFCZ0lydjdyVHVWWUFwNUwzblVZVWVacU8tRXBCVXI0V1pibHdaT1BtelN4Qks5eVA0VDJkOGdWS1BpNWhZZVdtRXgtMmJ2bXFkYkZUMlRSNjF0WTBVZEZKdkVkakgtd0R2SnZHUk9MSHNJYXppMUpWNXhDMXFJQjg1QTBoemZBUG9GWVNwRlZyZW9xYlE)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Acceleration; France 10-year yield prints `5%` and ECB commentary turns hawkish.
-> * **Transmission / Market Read**: Risk-premium and policy channel; favors **short EUR** and **higher European sovereign spreads** until a credible backstop appears.
-> * **Watchpoint / Confidence**: French business confidence and ECB speaker response next 24h; watch OAT-Bund spread. Confidence: High.
+> * **Narrative change**: Acceleration; Hormuz naval mine threat now joined by Houthi attacks on Saudi energy and potential direct US-Iran strike preparations.
+> * **Transmission / Market Read**: Risk-premium and commodity channel favors **long Brent**, **short KRW**, and **short Asian risk assets** while escalation persists.
+> * **Watchpoint / Confidence**: Pivot to neutral if no US strike follows and Saudi facilities restore; Confidence: Medium due to volatile official messaging.
 
-### 📌 Hormuz naval mine threat collides with prewar export recovery
+---
+
+### 📌 BOK holds, signals tightening not over as North Korea resumes broadcasts
 
 **Fact**
-Iran's Revolutionary Guards said Tuesday that **naval mines had prevented three tankers attempting to pass through the Strait of Hormuz** ([CNBC](https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html)). Oil rises as deadly Saudi attack fans Middle East supply fears ([BBG](https://www.bloomberg.com/news/articles/2026-10-21/latest-oil-market-news-and-analysis-for-oct-22)). Daily shipments from Gulf producers average `24.6mn`, above `23.3mn` before conflict, as ships use alternative routes ([FT 1](https://www.ft.com/content/509c0ecf-625e-4473-96cf-e249edb7c86e)). Record heating oil prices are forcing the region to rethink prior opposition to natural gas pipelines ([FT 2](https://www.ft.com/content/162c6dd8-5501-46f4-8f7c-b456a4e29539)). US aims to loan about a third of heating oil reserve in bid to tame prices ([Reuters](https://news.google.com/rss/articles/CBMisgFBVV95cUxNUzkxVzJaMlBtRGhfVVdxVERodk94eEllV09nNDlZVFV5MnZxMUttc2d5djloZTFuVEN6UUlfbFo4aGFNZk83RGQ4MzNZV0ZzMXU1RjM0bnhNelR3Tmd6cUNacEJjdko4dnd5Q081U3dheFNZVm9aVmM1aHc1a2xJaVZadUFEX1YyWm9XSTNOT29RYk1wckVnZllWLUU2aUFkclNYS3NQQmpkUnMxakhDcUNR)). US crude oil stockpiles fall more than expected ([WSJ](https://news.google.com/rss/articles/CBMingFBVV95cUxPQm5hOGlwVkNzMHk1V2V2Snc3WXZkaXNUMEVyc0NmSmh2Yl9ieENlaUE4YkVKWUpFNExZZ1ZkYWdXQjkySW5HWlBjeDJSUHZEY282M2Z3UXhLeWtKOXdVWnFsZHBVMGVydzdUcHJCSFdkeDE3eU5vZktQZmEzdmZhOFNxczNqajJ1YUkyUGVPS1JRTDZCb210VExyY21SQQ)). HSFO shortage to persist despite rising MEG crude exports ([Lloyds List](https://news.google.com/rss/articles/CBMimgFBVV95cUxPQnZzc1lUM3VySWtNYXFYMDM3WEVJd2JZZFNPU1pFbUNIY1R3X3hPOHZuaWlaWmp2Z05QdUNyVTUxM3RzVUJDajNGWXdiTUl2empyaWxhcFNxTUZ2aGdJeW9SbFI2YzMzTGxUM0hGWi1lWUNjMEIxZ3ZENmp1MkJjdVBxRFlhY3JUVlZ0SE1ZRU9IZnBBd3ZLa3BB)).
+Bank of Korea holds rates after President Lee calls for boosting housing supply ([CNBC](http://www.cnbc.com/2026/10/22/bok-rate-decision-seoul-property.html)). BOK holds rate as it takes stock of back-to-back increases ([BBG](http://www.bloomberg.com/news/articles/2026-10-22/bok-holds-rate-as-it-takes-stock-of-back-to-back-increases)). 连续加息两次后，韩国央行本月按兵不动，行长：暂停不等于紧缩终结 ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjd0lIZm1mNDJDQThSTXRYLVk2elRMTjB2dk9EYmFPXzVKOGl6R3ZpMlBJSmREV2QelZCRlRsb3d5R1RmUDRuendCV2JIMHVTYmNN)). North Korea to resume propaganda broadcasts, South Korea urges dialogue ([Al Jazeera](https://www.aljazeera.com/news/2026/10/22/north-korea-to-resume-propaganda-broadcasts-south-korea-urges-dialogue)). Pyongyang plans to resume broadcasting anti-South Korean propaganda along the armed border ([Al Jazeera](https://www.aljazeera.com/news/2026/10/22/north-korea-to-resume-propaganda-broadcasts-south-korea-urges-dialogue)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Acceleration; naval mines block tankers even as Gulf export normalization and reserve measures cap the shock.
-> * **Transmission / Market Read**: Supply-shock and risk-premium channel; supports **long Brent** and **short Asia energy-importing FX** on disruption fears.
-> * **Watchpoint / Confidence**: New Hormuz vessel strike or verified US-Iran de-escalation; watch reserve loan execution. Confidence: Medium.
+> * **Narrative change**: Confirmation; expected BOK hold now confirms hawkish bias, while Pyongyang rhetoric escalates into action.
+> * **Transmission / Market Read**: Policy channel supports Korea front-end rates, but geopolitical risk premium keeps **KRW** vulnerable; net tilts **short KRW**.
+> * **Watchpoint / Confidence**: Next BOK forward guidance or North-South dialogue signal; Confidence: High on policy, Medium on geopolitics.
 
-### 📌 Kim Yo Jong border loudspeaker warning raises Korean risk premium
+---
+
+### 📌 China equities enter bear market as tech and AI selloff deepens
 
 **Fact**
-North Korea's Kim Yo Jong warns South Korea, says border loudspeakers to be ready within days ([Reuters](https://news.google.com/rss/articles/CBMiywFBVV95cUxNcGZVb0JBZXNEbHJDcHFKVjkxal90OGdZZm11Ukswb0YweE9WZzVHUzFrWnM2dy1PNzBzV0NBOEI1OWFHc2JXR2RxX1p0NkhSeG5PRW5ROVlFQ1JpZVlVTHhreFgwYUFWTDkyM2R2S29ld2l4U0RscTU0bVdGc0tad0V0aTJCMlczc0lyajBLZXJMdUtaNDhDVTM5enFhbFl2Q0lQUUVkVkJmY2lpbXRXVHRIbnFsWmNkMGVRVF9RbFV4S1VYZ0xDTl9zbw)).
+China’s CSI 300 index sheds `1.8%` and Eurozone bond sell-off deepens ([FT](http://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f)). China's stock market sinks into bear territory as CSI 300 extends 10-week rout ([CNBC](http://www.cnbc.com/2026/10/22/chinas-stock-market-csi-300-bear-market.html)). Alibaba shares post steepest drop in two months on China curbs ([BBG](http://www.bloomberg.com/news/articles/2026-10-22/alibaba-shares-post-steepest-drop-in-two-months-on-china-curbs)). Asian stocks sink to 3-month low on tech angst, Gulf tensions ([Reuters](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNmlzbXFUNWNXc3U3RHRac2lYVEhXNjZmZGw0Q19yNVRORUEtak91QlJnTEVqcGhWT2xuT2RmOHdTVHlyN1JmSHRVZEpfMzgtNEVMT1RCWk1VNGswaVFYTXI4WlFpUE95aEJid1NxNVNBdzBGX0pzOUQwMnZnQ25kOVNXQQ)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Acceleration; direct North Korean warning heightens Korean Peninsula risk premium.
-> * **Transmission / Market Read**: Risk-premium plus policy channel; favors **short KRW** and **long USD/Asia FX** into the policy decision.
-> * **Watchpoint / Confidence**: BOK decision at `09:00 HKT` and whether loudspeakers deploy. Confidence: Medium.
+> * **Narrative change**: Acceleration; China rout enters bear-market phase with Alibaba regulatory hit compounding AI-led tech weakness.
+> * **Transmission / Market Read**: Capital-flow and risk-premium channel favors **defensive havens**, **long USD/Asia FX**, and continued China/HK equity underperformance.
+> * **Watchpoint / Confidence**: Stabilization if Beijing policy support emerges or US tech earnings recover; Confidence: High.
 
 ---
 
 ## 🌍 Global Radar
 
 ### 📊 Economic Indicators
-
-- Inflation and government borrowing both hit their highest in a year on Wednesday, adding to the pressure on Chancellor John Healey ahead of his first Budget in a week ([BBC](https://www.bbc.co.uk/news/articles/c6gel2xv4493o)).
-- US Mortgage Rates Fall for First Time Since Early August ([BBG](https://www.bloomberg.com/news/articles/2026-10-21/us-mortgage-rates-fall-for-first-time-since-early-august)).
-- India’s 10-year bond yield climbs above `7.45%` to multi-year high ([Investing](https://www.investing.com/news/forex-news/indias-10year-bond-yield-climbs-above-745-to-multiyear-high-93CH-4962437)).
-
-### 🏦 Central Banks
-
-- **Bank of Japan** — Most BOJ Watchers Expect Next Interest Rate Hike in December ([BBG](https://www.bloomberg.com/news/articles/2026-10-21/most-boj-watchers-expect-next-interest-rate-hike-in-december)).
-- **Reserve Bank of India** — Indian policymakers warned that accelerating inflation warranted continued vigilance, though they differed over how strongly to signal further tightening, minutes of the central bank’s October meeting showed ([BBG](https://www.bloomberg.com/news/articles/2026-10-21/inflation-weak-rupee-keep-rbi-rate-hikes-in-play-minutes-show)).
-- **Bank of Israel** — Israel’s central bank kept interest rates steady and said it expects the economy to grow `5.6%` this year, just six days before the country faces one of its most consequential elections ([BBG](https://www.bloomberg.com/news/articles/2026-10-21/israel-pauses-interest-rate-cuts-ahead-of-crucial-election)).
-- **Bangko Sentral ng Pilipinas** — The Philippine central bank is on track to raise the key rate for a fourth consecutive meeting as a severe El Niño dry spell threatens to further fan resurgent inflation ([BBG](https://www.bloomberg.com/news/articles/2026-10-21/philippines-to-lift-key-rate-as-el-nino-adds-to-inflation-threat)).
+- Japanese investors sell foreign bonds for fifth straight week, eye home market ([Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxQaWFpYXNMY0l3alFBQnlRTUNpdUl4aUlld1F2VmxJb0ZETkVqM0FNWHFqQlZxSHhNM3VhdnlpQW1CV3I1ZDRWNGhQVXJ3QVFyX294cHFScXYtNVEzYjlyUHotQm5vWHRlQXQ4SW03cDZSaWRxSXJtQ0Jaams2eWxVYXhEdEUxcFdnRnRPdS0yRy05ODkyMGMtZk1DSHZsRjVtM0I5bXRkLVlqVkRHUV9HQmZTWEdrRTBUMTNFbnF1RTFNTHg2amQ4)).
 
 ### 🌐 Geopolitics & Policy
-
-- Beijing’s top Taiwan official meets US think tank to reaffirm red lines ([SCMP](https://www.scmp.com/news/china/politics/article/3371662/beijings-top-taiwan-official-meets-us-think-tank-reaffirm-red-lines)).
-- German Chancellor Friedrich Merz said the European Union would seek to avoid a trade war with China even as it protects itself from a new dimension of overcapacity and an undervalued currency. "That is our goal, not a conflict, but to have a new balance in trade with China," he said ([BBG](https://www.bloomberg.com/news/videos/2026-10-21/merz-eu-isn-t-looking-for-a-trade-conflict-with-china-video)).
-- Russian President Vladimir Putin has agreed to resume US-mediated peace talks with Ukraine as soon as next month, the Kremlin said on Wednesday, after Putin met US envoy Steve Witkoff ([SCMP](https://www.scmp.com/news/world/russia-central-asia/article/3371659/putin-holds-ukraine-peace-talks-trumps-envoy-witkoff-frees-american-hubbard)).
-- China has allowed the Philippines to resupply a grounded warship on a disputed South China Sea reef, the coastguard said on Wednesday ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3371693/china-says-it-allowed-philippines-resupply-warship-amid-diplomatic-tensions)).
-
-### 🛢️ Commodities
-
-- Price of Russian oil used for tax calculations jumps `60%` above the budget level ([Reuters](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM1VvUFdrcXA5VlZyOURwRi1jUmhOMGhBTDYyVVEwbWNZRjhTT0NnbDVIT1JpeW1FOU1PTjVfWGEwYUhkNzBGTnNSb0tWZWt3VzE0ZTJTU3pUV3hOOVhBdFlfajhkZ1lOTzE5V2N1RXlFVE5VYmQwZTFfdW4tZEpRSTVFSmVMLVN4MHZJQnhDa1F6SWdSVlEzWGhNWEZHUWZwNHk5RTNwdURIYUVxY3JjZlBZODdEUUtTRy1N)).
-- Soaring Energy Prices Spur U.K. to Approve Controversial Gas Field ([WSJ](https://news.google.com/rss/articles/CBMipgFBVV95cUxQYnpSOVJGMHRzcGRNRTQwcDM5WlJaWlFnQ0xFLUg5RXBaTWw2RDEzd2NpOWpHSVhKSjZqdzhvRlZVRDRmb1E4bEdQc1JxX3JtMUZOODRrVU1lRk5LRGZaWXRLcGJTa2VCTUJpNUl2WVJFeHF5dVNITUZnRkV0dUY0ak9HT2Q0TTRyQ1piV3dxaVRlQXloVmJZNXMxLTdoMkdfUFRKelB3)).
-
-### 📈 Equities
-
-- US Stock Futures Slip as Tech Earnings Rally Fades: Markets Wrap ([BBG](https://www.bloomberg.com/news/articles/2026-10-21/stock-market-today-dow-s-p-live-updates)).
-- Healthcare Stocks Are Rallying, and Flashing a Warning for the Rest of the Market ([WSJ](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdlhWeklVUVQ5Si1oNFBocmZXU2ZPU1JrSFJ2cjJiN29oSmh2UUNucjVSWTJYdGNiR3h5ZVNLZnlwa3NuWWFZbU5tdURxS1ZJMi15TmJQdlAwU0o3a0haTENjcG1rSy1ILU1wWEJsYmoxN3E3bE5MRy1UN3JqbXQ2bVhmbE5pMDhLaUxJRFl3LVBtQ0NCU0FDYUN2R2FzaU5qeGtuREpqMm5lc3ZPRFhQLVNwVkdXb2tkZFN3Zkh5SVZCZw)).
-- Hong Kong’s SHKP sells 128 Sierra Sea flats ahead of possible US rate increase ([SCMP](https://www.scmp.com/business/article/3371657/hong-kongs-shkp-sells-128-sierra-sea-flats-ahead-possible-us-rate-increase)).
-- CoreWeave’s market confidence erodes as bond yields spike and stock sinks ([CNBC](https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html)).
+- German regulator revokes license of Bank Saderat Iran in Hamburg ([Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxNLUpGcUpQSDMwN3g2aktoXzFtWXpvNWlaWjhRaks5YzNMRGgwYU5tZ2xiNm1fN1pVZVFzOWVsRlVqdUljN0xQenJlSnJkLVRYQmd3ZG1SeW9kVFVMT2FnT0Q3b3hGVHNadlRGZTlYSV9lazVIQWI2ZV90aWhyWWlJSXdZWlNDNG52S3BVcFQwUERITHNPanJGTVRYVHJDdDkydEFnVWY3QlREdFBzaUlOLQ)).
 
 ---
 
@@ -98,11 +76,6 @@ North Korea's Kim Yo Jong warns South Korea, says border loudspeakers to be read
 
 | Time (HKT) | Rgn | Event | Est. | Prior |
 |---|---|---|---|---|
-| 09:00 AM | KR | Interest Rate Decision | 3% | 3% |
-| 01:00 PM | SG | 6-Month T-Bill Auction | — | 1.9% |
-| 02:45 PM | FR | Business Confidence | 101 | 101 |
-| 02:45 PM | FR | Business Climate Indicator | 96 | 96 |
-| 05:00 PM | GB | index-linked treasury gilt 2031 auction | — | 0.933% |
 | 06:00 PM | GB | CBI Business Optimism Index | — | -36 |
 | 06:00 PM | GB | CBI Industrial Trends Orders | -20 | -9 |
 | 07:00 PM | TR | TCMB Interest Rate Decision | 36% | 37% |
@@ -111,7 +84,7 @@ North Korea's Kim Yo Jong warns South Korea, says border loudspeakers to be read
 | 08:30 PM | US | Continuing Jobless Claims | 1720K | 1710K |
 | 08:30 PM | US | Jobless Claims 4-week Average | 200K | 198.5K |
 | 10:00 PM | US | cb leading index mom | -0.1% | -0.1% |
-| 10:30 PM | US | EIA Natural Gas Stocks Change | 83Bcf | 67Bcf |
+| 10:30 PM | US | EIA Natural Gas Stocks Change | 80Bcf | 67Bcf |
 | 11:00 PM | US | Kansas Fed Composite Index | — | 14 |
 | 11:00 PM | US | Kansas Fed Manufacturing Index | — | 20 |
 | 11:30 PM | US | 4-Week Bill Auction | — | 4.000% |
@@ -132,55 +105,61 @@ North Korea's Kim Yo Jong warns South Korea, says border loudspeakers to be read
 | 08:30 AM | JP | S&P Global Services PMI Flash | — | 51.3 |
 | 08:30 AM | JP | S&P Global Composite PMI Flash | — | 52.3 |
 | 08:30 AM | SG | URA Property Index QoQ Final | 1.4% | 0.5% |
+| 11:35 AM | JP | 3-Month Bill Auction | — | 1.2803% |
+| 01:00 PM | SG | Core Inflation Rate YoY | 2.3% | 2.2% |
+| 01:00 PM | SG | Inflation Rate MoM | — | 0.6% |
+| 01:00 PM | SG | Inflation Rate YoY | 2.3% | 2.3% |
+| 02:00 PM | GB | Retail Sales MoM | -0.1% | 0.5% |
+| 02:00 PM | GB | Retail Sales YoY | 1% | 2.4% |
+| 02:00 PM | GB | Retail Sales ex Fuel MoM | -0.1% | 0.6% |
+| 02:00 PM | GB | Retail Sales ex Fuel YoY | 1.5% | 2.7% |
+| 03:15 PM | FR | S&P Global Composite PMI Flash | 50.5 | 51.1 |
+| 03:15 PM | FR | S&P Global Manufacturing PMI Flash | 50.5 | 50.6 |
+| 03:15 PM | FR | S&P Global Services PMI Flash | 50.7 | 51.2 |
 
 ---
 
 ## 📚 Full Reading List
 
 - **BBG**
-  - [ECB’s Kazaks Says More Tightening May Be Needed: Econostream](https://www.bloomberg.com/news/articles/2026-10-21/ecb-s-kazaks-says-more-tightening-may-be-needed-econostream)
-  - [Oil Rises as Deadly Saudi Attack Fans Middle East Supply Fears](https://www.bloomberg.com/news/articles/2026-10-21/latest-oil-market-news-and-analysis-for-oct-22)
-  - [Most BOJ Watchers Expect Next Interest Rate Hike in December](https://www.bloomberg.com/news/articles/2026-10-21/most-boj-watchers-expect-next-interest-rate-hike-in-december)
-  - [US Mortgage Rates Fall for First Time Since Early August](https://www.bloomberg.com/news/articles/2026-10-21/us-mortgage-rates-fall-for-first-time-since-early-august)
-  - [RBI Minutes Show Split Over Signal for Further Rate Hikes](https://www.bloomberg.com/news/articles/2026-10-21/inflation-weak-rupee-keep-rbi-rate-hikes-in-play-minutes-show)
-  - [Israel Holds Rates, Hikes Growth Forecasts Ahead of Election](https://www.bloomberg.com/news/articles/2026-10-21/israel-pauses-interest-rate-cuts-ahead-of-crucial-election)
-  - [Philippines to Lift Key Rate as El Niño Adds to Inflation Threat](https://www.bloomberg.com/news/articles/2026-10-21/philippines-to-lift-key-rate-as-el-nino-adds-to-inflation-threat)
-  - [Merz Says EU Isn't Looking for a Trade 'Conflict' With China](https://www.bloomberg.com/news/videos/2026-10-21/merz-eu-isn-t-looking-for-a-trade-conflict-with-china-video)
-  - [US Stock Futures Slip as Tech Earnings Rally Fades: Markets Wrap](https://www.bloomberg.com/news/articles/2026-10-21/stock-market-today-dow-s-p-live-updates)
+  - [BOK Holds Rate as It Takes Stock of Back-to-Back Increases](http://www.bloomberg.com/news/articles/2026-10-22/bok-holds-rate-as-it-takes-stock-of-back-to-back-increases)
+  - [Philippines Delivers Jumbo Rate Hike as Inflation Heats Up Anew](http://www.bloomberg.com/news/articles/2026-10-22/philippines-delivers-jumbo-rate-hike-as-inflation-heats-up-anew)
+  - [SNB Judged Franc Threat No Longer Needed as Haven Flows Ebbed](http://www.bloomberg.com/news/articles/2026-10-22/snb-judged-franc-threat-no-longer-needed-as-haven-flows-ebbed)
+  - [Alibaba Shares Post Steepest Drop in Two Months on China Curbs](http://www.bloomberg.com/news/articles/2026-10-22/alibaba-shares-post-steepest-drop-in-two-months-on-china-curbs)
+  - [Copper Declines as Tech-Stock Selloff Dulls Appetite for Risk](http://www.bloomberg.com/news/articles/2026-10-22/copper-declines-as-tech-stock-selloff-dulls-appetite-for-risk)
+  - [Palm Oil Glut Lures Indian Buyers as Price Gap to Rivals Widens](http://www.bloomberg.com/news/articles/2026-10-22/palm-oil-glut-lures-indian-buyers-as-price-gap-to-rivals-widens)
+  - [Indonesian Stocks Rebound as Sovereign Wealth Fund Shows Support](http://www.bloomberg.com/news/articles/2026-10-22/indonesian-stocks-fall-as-concerns-over-msci-s-downgrade-return)
 
 - **Reuters**
-  - [French 10-year bond yields hit 5%, highest since 2002](https://news.google.com/rss/articles/CBMiogFBVV95cUxOYXc5VF91b3J6TjJpdkR6VFR1SUtTX1VUY1ZTUFBTNXFIT3ZZQ3RBMTVPaDNjMVNZbzRqcGdqRjRXcFhEQjRZd0V6R2ZRZVJwOHdmeHl5LWhva0Y3c285ZUNuaG80bWxBNUMyczhxWWdPd0NZZlNUTVJmUEszM1dCMzU2dU43ZzJ0bHNMQVF5cjgzZWZMUWViWE5aeWc3NUYwSkE)
-  - [EXCLUSIVE: US aims to loan about a third of heating oil reserve in bid to tame prices](https://news.google.com/rss/articles/CBMisgFBVV95cUxNUzkxVzJaMlBtRGhfVVdxVERodk94eEllV09nNDlZVFV5MnZxMUttc2d5djloZTFuVEN6UUlfbFo4aGFNZk83RGQ4MzNZV0ZzMXU1RjM0bnhNelR3Tmd6cUNacEJjdko4dnd5Q081U3dheFNZVm9aVmM1aHc1a2xJaVZadUFEX1YyWm9XSTNOT29RYk1wckVnZllWLUU2aUFkclNYS3NQQmpkUnMxakhDcUNR)
-  - [North Korea's Kim Yo Jong warns South Korea, says border loudspeakers to be ready within days](https://news.google.com/rss/articles/CBMiywFBVV95cUxNcGZVb0JBZXNEbHJDcHFKVjkxal90OGdZZm11Ukswb0YweE9WZzVHUzFrWnM2dy1PNzBzV0NBOEI1OWFHc2JXR2RxX1p0NkhSeG5PRW5ROVlFQ1JpZVlVTHhreFgwYUFWTDkyM2R2S29ld2l4U0RscTU0bVdGc0tad0V0aTJCMlczc0lyajBLZXJMdUtaNDhDVTM5enFhbFl2Q0lQUUVkVkJmY2lpbXRXVHRIbnFsWmNkMGVRVF9RbFV4S1VYZ0xDTl9zbw)
-  - [Price of Russian oil used for tax calculations jumps 60% above the budget level](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM1VvUFdrcXA5VlZyOURwRi1jUmhOMGhBTDYyVVEwbWNZRjhTT0NnbDVIT1JpeW1FOU1PTjVfWGEwYUhkNzBGTnNSb0tWZWt3VzE0ZTJTU3pUV3hOOVhBdFlfajhkZ1lOTzE5V2N1RXlFVE5VYmQwZTFfdW4tZEpRSTVFSmVMLVN4MHZJQnhDa1F6SWdSVlEzWGhNWEZHUWZwNHk5RTNwdURIYUVxY3JjZlBZODdEUUtTRy1N)
+  - [Oil jumps $2 on escalating Middle East tension](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYzBEdGVKYmZ3VVpJajg0TW5DN2VHVEM2aDVTcFJKQVduMnVMTU5NbVcyMGxBanBHY3VvMzJQR1VrQWM4b0hLeG1YaTFWcldTeU9yTlBXc3FiR1FtcUp0SmxhRkJkWmpmZ2x6X3VGZHZEUDNLTE9LTFZNSlBWWjNJVGtaV3YwWkc4QVhxbHozYkx5THpZMVlYVDAtd0dqbUMyOUcyVk91NEYxaFFCZklRWWhjQm5qN2NvVHdWdnZIQVJSMk0)
+  - [Asian stocks sink to 3-month low on tech angst, Gulf tensions](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNmlzbXFUNWNXc3U3RHRac2lYVEhXNjZmZGw0Q19yNVRORUEtak91QlJnTEVqcGhWT2xuT2RmOHdTVHlyN1JmSHRVZEpfMzgtNEVMT1RCWk1VNGswaVFYTXI4WlFpUE95aEJid1NxNVNBdzBGX0pzOUQwMnZnQ25kOVNXQQ)
+  - [India's Mideast oil imports return to pre-war levels in September](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRl9GVUFVbTBqSFIzbnJpZmJ0c3Q5ZFJlQ0hQUkkwZW5aVDdVWTMwczBlRFRTbF9zM0NNODcyWG9PUTg5WXZKOXRfSUdJSXhHM1FPcFhUOTVmb0pIUHh5Rl9tYldSWDd1all5UV9fV2VMSmNxSUU4anJpUVVvMkFadHpQcmwxdFhRSHlvSXhpMEY1bXNkV2NnUnVNelltUHVRQjFzWE14TWZVVnhrRndv)
+  - [German regulator revokes license of Bank Saderat Iran in Hamburg](https://news.google.com/rss/articles/CBMisAFBVV95cUxNLUpGcUpQSDMwN3g2aktoXzFtWXpvNWlaWjhRaks5YzNMRGgwYU5tZ2xiNm1fN1pVZVFzOWVsRlVqdUljN0xQenJlSnJkLVRYQmd3ZG1SeW9kVFVMT2FnT0Q3b3hGVHNadlRGZTlYSV9lazVIQWI2ZV90aWhyWWlJSXdZWlNDNG52S3BVcFQwUERITHNPanJGTVRYVHJDdDkydEFnVWY3QlREdFBzaUlOLQ)
+  - [Japanese investors sell foreign bonds for fifth straight week, eye home market](https://news.google.com/rss/articles/CBMixwFBVV95cUxQaWFpYXNMY0l3alFBQnlRTUNpdUl4aUlld1F2VmxJb0ZETkVqM0FNWHFqQlZxSHhNM3VhdnlpQW1CV3I1ZDRWNGhQVXJ3QVFyX294cHFScXYtNVEzYjlyUHotQm5vWHRlQXQ4SW03cDZSaWRxSXJtQ0Jaams2eWxVYXhEdEUxcFdnRnRPdS0yRy05ODkyMGMtZk1DSHZsRjVtM0I5bXRkLVlqVkRHUV9HQmZTWEdrRTBUMTNFbnF1RTFNTHg2amQ4)
+  - [Yen set for biggest rally in a month; risk-averse investors shun dollar](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeE9SaFExZHZyS2plVTA2NHNkbDFpcGpBSVVhc3J2NmZrRmtMRW1uY0FUU0JDMGtFQncxcnB3bUlFY21oa3V2VTZtOWsxcEVrWFhfOWZOd2oxY09XaWtpQ2ltWnE2NFFTYmg0OVNhaHJLVFdocG9NdGh1N3hjVzRPZUJlVW8wRFU3N24zR0tZbjk2bkNGVFhXaE1qbw)
 
 - **WSJ**
-  - [French Bond Yields Hit Multiyear Highs, U.S. Treasury Yields Edge Higher](https://news.google.com/rss/articles/CBMimAFBVV95cUxNUUVqY01YZEVBNGdnSkZQSllpNnZmNFNUUm5ab0VxODNVWXVUdm5VYW1GcGRjSXJvTE9lSjlITEZZYmR6MUJiQ1ZtaFhNb3JDQkJoQ09JdlJUdlFsTXRfeEVKM0s1em51dUR0Z3h2WW9hRS1BdVVDSWhGSXNZZ1NIRTlzSnk4ZzZianQ0bnRheEEwRGpXTmY0SA)
-  - [U.S. Crude Oil Stockpiles Fall More Than Expected](https://news.google.com/rss/articles/CBMingFBVV95cUxPQm5hOGlwVkNzMHk1V2V2Snc3WXZkaXNUMEVyc0NmSmh2Yl9ieENlaUE4YkVKWUpFNExZZ1ZkYWdXQjkySW5HWlBjeDJSUHZEY282M2Z3UXhLeWtKOXdVWnFsZHBVMGVydzdUcHJCSFdkeDE3eU5vZktQZmEzdmZhOFNxczNqajJ1YUkyUGVPS1JRTDZCb210VExyY21SQQ)
-  - [Soaring Energy Prices Spur U.K. to Approve Controversial Gas Field](https://news.google.com/rss/articles/CBMipgFBVV95cUxQYnpSOVJGMHRzcGRNRTQwcDM5WlJaWlFnQ0xFLUg5RXBaTWw2RDEzd2NpOWpHSVhKSjZqdzhvRlZVRDRmb1E4bEdQc1JxX3JtMUZOODRrVU1lRk5LRGZaWXRLcGJTa2VCTUJpNUl2WVJFeHF5dVNITUZnRkV0dUY0ak9HT2Q0TTRyQ1piV3dxaVRlQXloVmJZNXMxLTdoMkdfUFRKelB3)
-  - [Healthcare Stocks Are Rallying, and Flashing a Warning for the Rest of the Market](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdlhWeklVUVQ5Si1oNFBocmZXU2ZPU1JrSFJ2cjJiN29oSmh2UUNucjVSWTJYdGNiR3h5ZVNLZnlwa3NuWWFZbU5tdURxS1ZJMi15TmJQdlAwU0o3a0haTENjcG1rSy1ILU1wWEJsYmoxN3E3bE5MRy1UN3JqbXQ2bVhmbE5pMDhLaUxJRFl3LVBtQ0NCU0FDYUN2R2FzaU5qeGtuREpqMm5lc3ZPRFhQLVNwVkdXb2tkZFN3Zkh5SVZCZw)
+  - [Oil Prices Rise More Than 2% as Attacks on Saudi Arabia, U.S.-Iran Risks Persist](https://news.google.com/rss/articles/CBMixAFBVV95cUxQYjRlQlhGVEJPT2JaeEpGWkxTZFVEdnpuMUxLRUZhUU1EY09ZcnJMaFlZNmdUbHkwdlBpcURmeHpZXzl1c1Z4WW94YmtMNTJ2N0paSlQtNXJ2eGVfam4tdW5NekpScjdYLU1RSzVGRTJqN3hCT3NOWnNmNGZpYjEwemo3ejBfOTU2ODFoMWtFX1hWS3RHZU9lcm93anl4UUczODQyd1hrUVc4VHQ5ZEpPay1SWGhWbW9YdFFPVmZWd3ZwNmhV)
+  - [AI Stocks Slide After Earnings Disappoint; French Bonds Tumble and Oil Tops $112](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDB3cDByVmVJQWQ4bzhobm83ZDVVN3MtYXh0VjlYT0xtakhpVkNrUFFHbVpWZEp2UHdpeWIwX0h2eVJqSzdod0t1Y3JxcVBaTzZlUFRKTFNkMDE4LVYxMHNjRGlYb0FsOVdqMnJuVzdHMk0xNVVxWXh4Y0tidlFtbXBUa1lXTVJGOXc1c0VvbjJ6eGVINVY0cEpFZHEtakM1UkFwdVZLVW4ySWlxV0RwNHpnNkpKcUsyRXU4RXN2Zm03QTQ)
+  - [Iran’s Fleet of Shadow Tankers Has Run Out of Oil After Monthslong U.S. Blockade](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa0NkenN2WUo2NHU0WXRYU0dmdldBVmhIVmphdk9HZFpMckZOZ2paMVFiQ3BaMHFCZ0lydjdyVHVWWUFwNUwzblVZVWVacU8tRXBCVXI0V1pibHdaT1BtelN4Qks5eVA0VDJkOGdWS1BpNWhZZVdtRXgtMmJ2bXFkYkZUMlRSNjF0WTBVZEZKdkVkakgtd0R2SnZHUk9MSHNJYXppMUpWNXhDMXFJQjg1QTBoemZBUG9GWVNwRlZyZW9xYlE)
 
 - **FT**
-  - [France’s borrowing costs hit 5% for first time since 2002](https://www.ft.com/content/76f076e4-9db2-4971-8ac9-73d9f39e4876)
-  - [Middle East oil exports climb back to prewar levels](https://www.ft.com/content/509c0ecf-625e-4473-96cf-e249edb7c86e)
-  - [Iran war sparks heating crisis in US north-east as winter approaches](https://www.ft.com/content/162c6dd8-5501-46f4-8f7c-b456a4e29539)
+  - [Global stocks tumble as oil prices rise](http://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f)
+  - [China steps up ‘grey zone’ tactics to isolate Taiwan](http://www.ft.com/content/587f1f89-3bff-4aae-9130-41f142f1cc5f)
+  - [Australian iron ore miner warns of production slowdown without China deal](http://www.ft.com/content/835e37e2-d4a4-4428-ab96-583640cf42bd)
 
 - **CNBC**
-  - [French 10-year bond yield hits 5% for first time since 2002 amid unrest](https://www.cnbc.com/2026/10/21/france-protests-bonds-debt.html)
-  - [Oil prices mixed as traders assess Middle East developments](https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html)
-  - [CoreWeave’s market confidence erodes as bond yields spike and stock sinks](https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html)
+  - [U.S. pulls diplomats from Saudi Arabia as it reportedly readies Iran strikes after midterms](http://www.cnbc.com/2026/10/22/us-iran-trump-hormuz-.html)
+  - [China's stock market sinks into bear territory as CSI 300 extends 10-week rout](http://www.cnbc.com/2026/10/22/chinas-stock-market-csi-300-bear-market.html)
+  - [Sovereign wealth funds' China and Hong Kong investments surge 190% after a bruising slump](http://www.cnbc.com/2026/10/22/sovereign-wealth-funds-china-hong-kong.html)
+  - [World's largest wealth fund posts $30 billion loss after bond market turbulence](http://www.cnbc.com/2026/10/22/norges-bank-nbim-wealth-fund-q3-results.html)
+  - [Bank of Korea holds rates after President Lee calls for boosting housing supply](http://www.cnbc.com/2026/10/22/bok-rate-decision-seoul-property.html)
 
-- **SCMP**
-  - [Beijing’s top Taiwan official meets US think tank to reaffirm red lines](https://www.scmp.com/news/china/politics/article/3371662/beijings-top-taiwan-official-meets-us-think-tank-reaffirm-red-lines)
-  - [Putin says Russia to restart peace deal talks with US and Ukraine](https://www.scmp.com/news/world/russia-central-asia/article/3371659/putin-holds-ukraine-peace-talks-trumps-envoy-witkoff-frees-american-hubbard)
-  - [China says it allowed Philippines to resupply warship amid diplomatic tensions](https://www.scmp.com/news/china/diplomacy/article/3371693/china-says-it-allowed-philippines-resupply-warship-amid-diplomatic-tensions)
-  - [Hong Kong’s SHKP sells 128 Sierra Sea flats ahead of possible US rate increase](https://www.scmp.com/business/article/3371657/hong-kongs-shkp-sells-128-sierra-sea-flats-ahead-possible-us-rate-increase)
+- **Al Jazeera**
+  - [North Korea to resume propaganda broadcasts, South Korea urges dialogue](https://www.aljazeera.com/news/2026/10/22/north-korea-to-resume-propaganda-broadcasts-south-korea-urges-dialogue)
+  - [Russian strikes hit Kyiv after Witkoff meets Putin](https://www.aljazeera.com/news/2026/10/22/russian-strikes-hit-kyiv-after-witkoff-meets-putin)
 
-- **BBC**
-  - [Inflation and government borrowing highest for a year ahead of next week's Budget](https://www.bbc.co.uk/news/articles/c6gel2xv4493o)
+- **WSJCN**
+  - [连续加息两次后，韩国央行本月按兵不动，行长：暂停不等于紧缩终结](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjd0lIZm1mNDJDQThSTXRYLVk2elRMTjB2dk9EYmFPXzVKOGl6R3ZpMlBJSmREV2QelZCRlRsb3d5R1RmUDRuendCV2JIMHVTYmNN)
 
-- **Lloyds List**
-  - [HSFO shortage to persist despite rising MEG crude exports](https://news.google.com/rss/articles/CBMimgFBVV95cUxPQnZzc1lUM3VySWtNYXFYMDM3WEVJd2JZZFNPU1pFbUNIY1R3X3hPOHZuaWlaWmp2Z05QdUNyVTUxM3RzVUJDajNGWXdiTUl2empyaWxhcFNxTUZ2aGdJeW9SbFI2YzMzTGxUM0hGWi1lWUNjMEIxZ3ZENmp1MkJjdVBxRFlhY3JUVlZ0SE1ZRU9IZnBBd3ZLa3BB)
-
-- **Investing**
-  - [India’s 10-year bond yield climbs above 7.45% to multi-year high](https://www.investing.com/news/forex-news/indias-10year-bond-yield-climbs-above-745-to-multiyear-high-93CH-4962437)
+---

@@ -1,25 +1,26 @@
 # Macro State — Last updated: 2026-10-22
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Euro-area fiscal stress and ECB tightening risk** — Status: Acceleration; France 10-year at `5%` and Kazaks hawkish comments deepen duration risk; next trigger: French business confidence, ECB speakers, OAT-Bund spread.
-- **Middle East oil and shipping risk** — Status: Acceleration; Hormuz naval mine disruption and US heating oil reserve loan collide with prewar export recovery; next trigger: new vessel strike, verified de-escalation, US energy inventory data.
-- **North Korea/KRW risk premium into BOK** — Status: Acceleration; Kim Yo Jong loudspeaker warning raises Korean Peninsula risk; next trigger: BOK decision Oct 22 `09:00 HKT`.
-- **Global inflation and policy repricing** — Status: Confirmation; UK inflation/borrowing, BOJ December hike expectations, RBI and Philippine hawkishness reinforce higher rates; next trigger: UK Budget, BOJ meeting, US claims.
+- **Middle East oil and shipping escalation** — Status: Acceleration; Houthi strikes on Saudi airport/oil field and potential US-Iran strikes push oil above `$112`; next trigger: confirmed US military response or restoration of Saudi facilities.
+- **Asia central bank hawkish repricing** — Status: Acceleration; BOK holds after two hikes but says pause not end of tightening, Philippines jumbo hike; next trigger: BOK/BSP follow-up guidance and Asia inflation prints.
+- **China equity bear market and tech regulatory risk** — Status: Acceleration; CSI 300 enters bear territory, Alibaba drops on curbs; next trigger: Beijing policy support or US tech earnings recovery.
+- **Global risk-off and haven demand** — Status: New; AI-led tech selloff and oil spike drive yen rally and Asian equity weakness; next trigger: oil direction and US initial jobless claims.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- BOK interest rate decision Oct 22 `09:00 HKT`.
-- French business confidence Oct 22 `14:45 HKT` and OAT-Bund spread.
-- New Hormuz commercial vessel strike or verified US-Iran diplomatic progress.
-- US Initial Jobless Claims Oct 22 `20:30 HKT`.
-- UK Budget next week and BOE November MPC.
+- US-Iran strike/no-strike headlines and Hormuz transit status.
+- China/HK tech stabilization or further CSI 300 deterioration.
+- BOK and BSP follow-up policy communication.
+- US Initial Jobless Claims Oct 22 20:30 HKT.
+- Japan CPI and PMI releases Oct 23 HKT.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Does France `5%` yield spill into Italian BTPs and euro-area banks?
-- Will BOK hold at `3%` and how does North Korea rhetoric affect KRW risk premium?
-- Does Hormuz naval mining persist despite Gulf exports already back at prewar levels?
+- Will direct US-Iran strikes occur post-midterms and keep oil above `$112`?
+- Does China/HK bear market force Beijing policy easing or sovereign support?
+- Can Asian central banks maintain hawkish bias if oil-driven inflation accelerates while growth slows?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- `5%` France 10-year yield ([FT](https://www.ft.com/content/76f076e4-9db2-4971-8ac9-73d9f39e4876)); first since 2002, euro fiscal stress marker.
-- `3.2%` France 10-year yield in late February ([FT](https://www.ft.com/content/76f076e4-9db2-4971-8ac9-73d9f39e4876)); shows repricing into `5%`.
-- `24.6mn` Gulf daily shipments versus `23.3mn` before conflict ([FT](https://www.ft.com/content/509c0ecf-625e-4473-96cf-e249edb7c86e)); physical supply normalization signal.
-- `7.45%` India 10-year bond yield ([Investing](https://www.investing.com/news/forex-news/indias-10year-bond-yield-climbs-above-745-to-multiyear-high-93CH-4962437)); emerging Asia rate stress marker.
+- `$112` oil top ([WSJ](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDB3cDByVmVJQWQ4bzhobm83ZDVVN3MtYXh0VjlYT0xtakhpVkNrUFFHbVpWZEp2UHdpeWIwX0h2eVJqSzdod0t1Y3JxcVBaTzZlUFRKTFNkMDE4LVYxMHNjRGlYb0FsOVdqMnJuVzdHMk0xNVVxWXh4Y0tidlFtbXBUa1lXTVJGOXc1c0VvbjJ6eGVINVY0cEpFZHEtakM1UkFwdVZLVW4ySWlxV0RwNHpnNkpKcUsyRXU4RXN2Zm03QTQ)); Middle East escalation marker.
+- `1.8%` CSI 300 daily decline ([FT](http://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f)); China equity stress marker.
+- `3-month low` Asian stocks ([Reuters](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNmlzbXFUNWNXc3U3RHRac2lYVEhXNjZmZGw0Q19yNVRORUEtak91QlJnTEVqcGhWT2xuT2RmOHdTVHlyN1JmSHRVZEpfMzgtNEVMT1RCWk1VNGswaVFYTXI4WlFpUE95aEJid1NxNVNBdzBGX0pzOUQwMnZnQ25kOVNXQQ)); regional risk-off marker.
+- `190%` sovereign wealth fund China/HK investment surge ([CNBC](http://www.cnbc.com/2026/10/22/sovereign-wealth-funds-china-hong-kong.html)); contrarian flow signal.
+- `$30 billion` wealth fund loss ([CNBC](http://www.cnbc.com/2026/10/22/norges-bank-nbim-wealth-fund-q3-results.html)); bond turbulence marker.
