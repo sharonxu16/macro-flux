@@ -1,25 +1,25 @@
-# Macro State — Last updated: 2026-10-21
+# Macro State — Last updated: 2026-10-22
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **UK inflation and BoE repricing** — Status: Acceleration; CPI `3.5%` and borrowing overshoot cement November hike risk; next trigger: Budget and BOE November MPC.
-- **Euro-area fiscal stress** — Status: New; France 10-year yield crossed `5%` for first time since 2002, reviving doom-loop concerns; next trigger: EU/ECB response, BTP spread widening, French auction.
-- **Middle East oil and shipping risk** — Status: Confirmation; Hormuz attacks and Indian Oil term-deal cuts persist but Russia sanctions relief and higher Persian Gulf flows cap prices; next trigger: EIA crude stocks tonight, new vessel strike, or verified diplomacy.
-- **Asia FX and BOK** — Status: Confirmation; South Korea export strength and North Korea tension frame tomorrow's BOK decision; next trigger: BOK rate decision Oct 22 09:00 HKT.
+- **Euro-area fiscal stress and ECB tightening risk** — Status: Acceleration; France 10-year at `5%` and Kazaks hawkish comments deepen duration risk; next trigger: French business confidence, ECB speakers, OAT-Bund spread.
+- **Middle East oil and shipping risk** — Status: Acceleration; Hormuz naval mine disruption and US heating oil reserve loan collide with prewar export recovery; next trigger: new vessel strike, verified de-escalation, US energy inventory data.
+- **North Korea/KRW risk premium into BOK** — Status: Acceleration; Kim Yo Jong loudspeaker warning raises Korean Peninsula risk; next trigger: BOK decision Oct 22 `09:00 HKT`.
+- **Global inflation and policy repricing** — Status: Confirmation; UK inflation/borrowing, BOJ December hike expectations, RBI and Philippine hawkishness reinforce higher rates; next trigger: UK Budget, BOJ meeting, US claims.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- BOK interest rate decision Oct 22 09:00 HKT, consensus `3%` prior `3%`.
-- UK Budget next week and BOE November MPC after `3.5%` September CPI.
-- EIA crude oil stocks Oct 21 22:30 HKT, prior `-8.557M`.
+- BOK interest rate decision Oct 22 `09:00 HKT`.
+- French business confidence Oct 22 `14:45 HKT` and OAT-Bund spread.
 - New Hormuz commercial vessel strike or verified US-Iran diplomatic progress.
-- French OAT-Bund spread and EU/ECB response to `5%` 10-year yield.
+- US Initial Jobless Claims Oct 22 `20:30 HKT`.
+- UK Budget next week and BOE November MPC.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Does UK fiscal borrowing overshoot force faster or wider BOE tightening?
-- Can French `5%` yields stay contained or do they spill into Italian BTPs and euro-area banks?
+- Does France `5%` yield spill into Italian BTPs and euro-area banks?
 - Will BOK hold at `3%` and how does North Korea rhetoric affect KRW risk premium?
+- Does Hormuz naval mining persist despite Gulf exports already back at prewar levels?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- `3.5%` UK September CPI ([BBC](https://www.bbc.co.uk/news/articles/c6gel2xv4493o)); above `3.4%` consensus, BoE hike trigger.
 - `5%` France 10-year yield ([FT](https://www.ft.com/content/76f076e4-9db2-4971-8ac9-73d9f39e4876)); first since 2002, euro fiscal stress marker.
-- `3.2%` France 10-year yield in late February ([FT](https://www.ft.com/content/76f076e4-9db2-4971-8ac9-73d9f39e4876)); shows 180bps repricing in eight months.
-- `£3 trillion` UK public debt ([BBG](https://www.bloomberg.com/news/articles/2026-10-21/uk-borrowing-exceeds-forecast-in-final-data-before-budget)); fiscal overshoot ahead of Budget.
+- `3.2%` France 10-year yield in late February ([FT](https://www.ft.com/content/76f076e4-9db2-4971-8ac9-73d9f39e4876)); shows repricing into `5%`.
+- `24.6mn` Gulf daily shipments versus `23.3mn` before conflict ([FT](https://www.ft.com/content/509c0ecf-625e-4473-96cf-e249edb7c86e)); physical supply normalization signal.
+- `7.45%` India 10-year bond yield ([Investing](https://www.investing.com/news/forex-news/indias-10year-bond-yield-climbs-above-745-to-multiyear-high-93CH-4962437)); emerging Asia rate stress marker.
