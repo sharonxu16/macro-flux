@@ -1,26 +1,26 @@
 # Macro State — Last updated: 2026-10-23
 
-## Active Narratives (max 4) 
-- **AI capex and credit stress de-rating** - Status: Acceleration; Meta FCF negative, five-year CDS record, UST yields below `5%`; next trigger Meta credit spreads and AI debt stress tests.
-- **Middle East oil supply shock** - Status: Acceleration; Brent above `$113`, Saudi attacks and US-Iran strike risk, China Red Sea chokepoint statement; next trigger confirmed US response and Gulf transit.
-- **France/euro-area sovereign stress** - Status: Acceleration; OAT 10-year at `24-year high`, risk premium at crisis levels, foreign exit; next trigger ECB backstop signals or fiscal announcements.
-- **Asia central bank hawkish repricing** - Status: Confirmation; Japan core inflation `2.1%`, yen outperforms, BSP surprise hike; next trigger BOJ commentary, SG CPI, Japan PMI.
+## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
+- **Middle East oil supply shock and emergency reserves** — Status: Acceleration; Iran formalizes wider economic/civilian strike threat and emergency stocks are multidecade low; next trigger confirmed US strike or Hormuz closure.
+- **AI capex de-rating with selective Asia recovery** — Status: Deceleration; US tech still falls but Asia chipmakers rebound and issuance retrenches; next trigger additional IPO pullbacks or valuation cuts.
+- **Global central bank hawkish repricing** — Status: Confirmation; BOJ December focus and ECB December hike view build against soft European activity; next trigger BOJ commentary and ECB speakers.
+- **France/euro-area sovereign stress** — Status: Acceleration; weak eurozone and German PMIs intensify fiscal fragmentation concerns; next trigger ECB backstop or official fiscal response.
 
-## Watchpoints (max 5)
-- Meta five-year CDS and free-cash-flow guidance, AI debt stress tests.
-- Confirmed US-Iran strike pause or Saudi facility restoration, Bab al-Mandeb and Hormuz transit normalization.
-- France OAT-Bund spread and ECB/European Commission official comments.
-- Japan PMI and Singapore CPI; BOJ commentary.
-- Taiwan market reopen after Typhoon Champi.
+## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
+- Confirmed US-Iran strike or Hormuz/Bab el-Mandeb transit disruption.
+- SK Hynix IPO status, OpenAI valuation trajectory, and AI credit spread stress.
+- BOJ policy comments and government-BOJ inflation gap.
+- France OAT-Bund spread and ECB governance/backstop signals.
+- MAS reaction to Singapore core inflation cooling and December policy guidance.
 
-## Open Questions (max 3)
-- Will AI leverage stress force developed central banks dovish even as oil inflation rises?
-- Can ECB manage French sovereign fragmentation without a fiscal backstop?
-- Will BOJ normalization accelerate yen carry unwind amid global risk-off?
+## Open Questions (max 3 — only unresolved questions that affect positioning)
+- Will oil-driven inflation force DM central banks to tighten even as AI/growth stress rises?
+- Can ECB deliver a December hike without a French fiscal fragmentation backstop?
+- Will BOJ December normalization accelerate yen carry unwind amid global risk-off?
 
-## Key Levels (max 5)
-- `$113` Brent ([CNBC](https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html)): Middle East escalation marker.
-- `$124bn` Meta market value loss ([FT](https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f)): AI de-rating marker.
-- `5%` US 10-year Treasury yield ([WSJ](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaG1kb1dxekJabUk3czhacmlCWC1GV1N5WlkyaFZVekxHaUhsbUVIU0lLMXFHRk91ZnVBRUZCMkNWWmVMZGppbDJ1QXZTX05OdkJpNy1nVlQ0MzVyb3dONjNQcjVoU1ZsdDVwc1BuVnpUTk9TX1dMNnBJdVNtVHpkbjZCSDBrZTZlOEo5MFo5QV9WTnAxV2JySkVpWGh5alBYVTNBRlBJTUVYVjJ1Q2hwdDlyY2tJUmFJYjg4)): safe-haven threshold.
-- `2.1%` Japan core inflation ([CNBC](https://www.cnbc.com/2026/10/23/japan-inflation-september-highest-in-2026.html)): BOJ normalization trigger.
-- `194,000` US initial jobless claims ([BBG](https://www.bloomberg.com/news/articles/2026-10-22/us-initial-jobless-claims-fall-to-three-month-low)): labor market strength supporting hawkish Fed.
+## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
+- `$114` Brent ([FT](https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308)): Middle East escalation threshold and oil supply risk marker.
+- `$100` WTI ([CNBC](https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html)): US crude psychological floor amid Iran warfare warnings.
+- `2.6%` Nasdaq decline ([Al Jazeera](https://www.aljazeera.com/economy/2026/10/23/us-tech-stocks-tumble-as-investors-fret-over-ai-spending)): AI repricing intensity marker.
+- `2.1%` Japan core inflation ([CNBC](https://www.cnbc.com/2026/10/23/japan-inflation-september-highest-in-2026.html)): BOJ December hike trigger.
+- `$1.25tn` OpenAI valuation target ([FT](https://www.ft.com/content/5587abab-d5c8-480d-923d-b7b68afcb3f0)): AI funding stress marker.
