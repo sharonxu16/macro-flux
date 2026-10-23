@@ -1,26 +1,26 @@
-# Macro State — Last updated: 2026-10-22
+# Macro State — Last updated: 2026-10-23
 
-## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Middle East oil and shipping escalation** — Status: Acceleration; Houthi strikes on Saudi airport/oil field and potential US-Iran strikes push oil above `$112`; next trigger: confirmed US military response or restoration of Saudi facilities.
-- **Asia central bank hawkish repricing** — Status: Acceleration; BOK holds after two hikes but says pause not end of tightening, Philippines jumbo hike; next trigger: BOK/BSP follow-up guidance and Asia inflation prints.
-- **China equity bear market and tech regulatory risk** — Status: Acceleration; CSI 300 enters bear territory, Alibaba drops on curbs; next trigger: Beijing policy support or US tech earnings recovery.
-- **Global risk-off and haven demand** — Status: New; AI-led tech selloff and oil spike drive yen rally and Asian equity weakness; next trigger: oil direction and US initial jobless claims.
+## Active Narratives (max 4) 
+- **AI capex and credit stress de-rating** - Status: Acceleration; Meta FCF negative, five-year CDS record, UST yields below `5%`; next trigger Meta credit spreads and AI debt stress tests.
+- **Middle East oil supply shock** - Status: Acceleration; Brent above `$113`, Saudi attacks and US-Iran strike risk, China Red Sea chokepoint statement; next trigger confirmed US response and Gulf transit.
+- **France/euro-area sovereign stress** - Status: Acceleration; OAT 10-year at `24-year high`, risk premium at crisis levels, foreign exit; next trigger ECB backstop signals or fiscal announcements.
+- **Asia central bank hawkish repricing** - Status: Confirmation; Japan core inflation `2.1%`, yen outperforms, BSP surprise hike; next trigger BOJ commentary, SG CPI, Japan PMI.
 
-## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- US-Iran strike/no-strike headlines and Hormuz transit status.
-- China/HK tech stabilization or further CSI 300 deterioration.
-- BOK and BSP follow-up policy communication.
-- US Initial Jobless Claims Oct 22 20:30 HKT.
-- Japan CPI and PMI releases Oct 23 HKT.
+## Watchpoints (max 5)
+- Meta five-year CDS and free-cash-flow guidance, AI debt stress tests.
+- Confirmed US-Iran strike pause or Saudi facility restoration, Bab al-Mandeb and Hormuz transit normalization.
+- France OAT-Bund spread and ECB/European Commission official comments.
+- Japan PMI and Singapore CPI; BOJ commentary.
+- Taiwan market reopen after Typhoon Champi.
 
-## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will direct US-Iran strikes occur post-midterms and keep oil above `$112`?
-- Does China/HK bear market force Beijing policy easing or sovereign support?
-- Can Asian central banks maintain hawkish bias if oil-driven inflation accelerates while growth slows?
+## Open Questions (max 3)
+- Will AI leverage stress force developed central banks dovish even as oil inflation rises?
+- Can ECB manage French sovereign fragmentation without a fiscal backstop?
+- Will BOJ normalization accelerate yen carry unwind amid global risk-off?
 
-## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- `$112` oil top ([WSJ](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDB3cDByVmVJQWQ4bzhobm83ZDVVN3MtYXh0VjlYT0xtakhpVkNrUFFHbVpWZEp2UHdpeWIwX0h2eVJqSzdod0t1Y3JxcVBaTzZlUFRKTFNkMDE4LVYxMHNjRGlYb0FsOVdqMnJuVzdHMk0xNVVxWXh4Y0tidlFtbXBUa1lXTVJGOXc1c0VvbjJ6eGVINVY0cEpFZHEtakM1UkFwdVZLVW4ySWlxV0RwNHpnNkpKcUsyRXU4RXN2Zm03QTQ)); Middle East escalation marker.
-- `1.8%` CSI 300 daily decline ([FT](http://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f)); China equity stress marker.
-- `3-month low` Asian stocks ([Reuters](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNmlzbXFUNWNXc3U3RHRac2lYVEhXNjZmZGw0Q19yNVRORUEtak91QlJnTEVqcGhWT2xuT2RmOHdTVHlyN1JmSHRVZEpfMzgtNEVMT1RCWk1VNGswaVFYTXI4WlFpUE95aEJid1NxNVNBdzBGX0pzOUQwMnZnQ25kOVNXQQ)); regional risk-off marker.
-- `190%` sovereign wealth fund China/HK investment surge ([CNBC](http://www.cnbc.com/2026/10/22/sovereign-wealth-funds-china-hong-kong.html)); contrarian flow signal.
-- `$30 billion` wealth fund loss ([CNBC](http://www.cnbc.com/2026/10/22/norges-bank-nbim-wealth-fund-q3-results.html)); bond turbulence marker.
+## Key Levels (max 5)
+- `$113` Brent ([CNBC](https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html)): Middle East escalation marker.
+- `$124bn` Meta market value loss ([FT](https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f)): AI de-rating marker.
+- `5%` US 10-year Treasury yield ([WSJ](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaG1kb1dxekJabUk3czhacmlCWC1GV1N5WlkyaFZVekxHaUhsbUVIU0lLMXFHRk91ZnVBRUZCMkNWWmVMZGppbDJ1QXZTX05OdkJpNy1nVlQ0MzVyb3dONjNQcjVoU1ZsdDVwc1BuVnpUTk9TX1dMNnBJdVNtVHpkbjZCSDBrZTZlOEo5MFo5QV9WTnAxV2JySkVpWGh5alBYVTNBRlBJTUVYVjJ1Q2hwdDlyY2tJUmFJYjg4)): safe-haven threshold.
+- `2.1%` Japan core inflation ([CNBC](https://www.cnbc.com/2026/10/23/japan-inflation-september-highest-in-2026.html)): BOJ normalization trigger.
+- `194,000` US initial jobless claims ([BBG](https://www.bloomberg.com/news/articles/2026-10-22/us-initial-jobless-claims-fall-to-three-month-low)): labor market strength supporting hawkish Fed.
