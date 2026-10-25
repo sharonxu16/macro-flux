@@ -1,74 +1,76 @@
 ---
 tags:
-  - Macro/Hormuz_Blockade
-  - Macro/Energy_Supply_Security
+  - Macro/MiddleEast_Oil
+  - Macro/Energy_Supply_Shock
   - Asset/Brent
-  - Asset/SGD
-  - Trade/Long_USD
+  - Asset/HighYield_Credit
+  - Trade/Long_Brent
 ---
 
 <div align="center">
 
 # 🌊 Macro Flux
 
-<small>Oct 24 8AM to Oct 24 5PM HKT</small>
+<small>Oct 24 5PM to Oct 25 8AM HKT</small>
 
-<small>Good afternoon.</small>
+<small>Good morning.</small>
 
 </div>
 
 ---
 
 > [!abstract] Overview
-> Afternoon price action deepened the inflation-risk and haven rotation: silver futures fell to the lowest this year while Swiss equities drew defensive bids as oil-driven inflation and AI-unwind pressures persisted. The Middle East escalation moved from planning to operational security responses, with US departure orders tied to Iran and Houthi threats and a UAE oil slick reinforcing chokepoint spillover risk. North Korea's Kim visited China via the new Dandong bridge as Typhoon Champi disrupted Taiwan and eastern China, adding Northeast Asian supply-chain and geopolitical noise. Indonesia's gas export cuts and the Novatek-linked US LNG resignations extended energy-security fragmentation beyond oil. The common thread is geopolitical energy shocks feeding a defensive, inflation-risk premium adjustment across commodities and equities.
+> Middle East escalation risk is the dominant overnight driver after Iran warned that even limited strikes would trigger a response `'several times greater'` and US assets were shown rearming for possible strikes, keeping oil risk premium elevated even as Hormuz flows recover. The Federal Reserve, ECB and BOJ look set to hold rates in the coming week but are described as biding their time before potential further hikes, limiting scope for duration to rally against energy-led inflation. Singapore faces a fresh gas supply disruption after Indonesia cut pipeline exports by about `9%`, though the impact is capped at less than `2%` of total daily demand. The riskiest debt market is flashing a `"total meltdown"` signal, and French government and corporate bond yields are converging. The cross-market thread is energy-driven inflation risk meeting tighter financial conditions and early credit stress.
 
 ---
 
 ## 🔬 Narrative Watch
 
-### 📌 Middle East escalation shifts to operational security response as oil slick hits UAE coast
+### 📌 Middle East Escalation Keeps Oil Risk Premium Elevated
 
 **Fact**
-"Iran Plots, Houthi Attacks Spur US Departure Orders in Mideast" ([BBG](https://www.bloomberg.com/news/articles/2026-10-24/iran-plots-houthi-attacks-spurred-us-depature-orders-in-mideast)). "An oil spill off the UAE coast has prompted beach closures after a vessel reportedly hit a naval mine in early October." ([Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/10/24/massive-oil-slick-seen-weeks-after-tanker-struck-off-uaes-coast)).
+The risk of renewed fighting between the US, Israel and Iran is rising, helping keep oil prices elevated even as energy flows through the Strait of Hormuz recover ([BBG](https://www.bloomberg.com/news/videos/2026-10-24/oil-markets-brace-for-renewed-iran-fighting-video)). Iran blames US for deal failure, urges new try amid fear of new attacks. Tehran warns that even limited strikes would trigger a response 'several times greater' ([Al Jazeera](https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks)). Houthis say they targeted Saudi oil sites; attacks reported in Aden ([Reuters](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1JpTkpxd3RUSFgwb29mWkRuSmg5UFd5d1RMQkZMdE5tV3F4cEN6SXFOODhTQUZTbTZucHJGVnpxMWpGZVFuSXJzZ045Q0o1Uzh5NFNvVENFX1M2dFQ0NzRGYjUtWk9TYjBWcldGNS1hY21yS2IyOXBsX29hcFg5N2ZENUlIV2oyTE1OT3hJQUFaS1pjTHV3VnZUTkRWbVFnd0JqYV9iZmVwUW4xcGNVOUdUZmgtaWpkVGdsVzJ1SXR1U1hyWG5uWg)). Iran has ramped up efforts to target US personnel, intelligence memo warns ([Reuters 2](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSnBGckdpTkdaSnNZeFIyenI0MVVDMHd6R2ZDcTlUX3I4OWNNMlRjd0FTXzhCY09zakU1MWx2RzBpRW1QYTRxY2M3UWpBZHR3S1JlNjQ0WlIyRlh3ZnhNaVZ0OVcwU21YMjUyVVF0RXB0VXFLMWpGdEVtak1DUktTdUdLWmQyWGRFQ0xmb2Z3WG1nSHdfVUxlbUlsc2RJRmNmWVRHS1Qtd0RCVU92d2t1S19HbjlFVzdoREJONTRNYk1iZw)). Aboard USS George Washington as It Rearms for Possible Iran Strikes ([WSJ](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOUxveWNyQjdJTWRlS2FqTWxnQnp2TFB0WHplWjBCTTlpZ3VEUzFqNmtDbDA1ZVZtUktmUUpQMEprNDlKcm1nUkRtOVEybFZ3eGc2MjBTWVM1NVRUZFU2VExzNXpTdi1QRlpORUZIZTlsRUg2aG1WLVloenozUkJuM1ZuWnF1cTBONjhreTRhUGJlSnNTa0YxT1ZXM1NURjNCbFlwZTNhNFIwWmFwS29TbkJkUWkwSURndHZMckROUDM)). American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections ([CNBC](https://www.cnbc.com/2026/10/24/iran-threats-us-embassies-middle-east.html)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Acceleration because US departure orders and a confirmed oil slick move the regional risk beyond cable-threat planning.
-> * **Transmission / Market Read**: Risk-premium channel favors **long Brent** and **long USD/Asia FX**, especially **short KRW and TWD** on shipping and regional risk.
-> * **Watchpoint / Confidence**: A new Gulf transit advisory or confirmed US-Iran kinetic contact within 72h would confirm; reversal if no further incident. Confidence: Medium.
+> * **Narrative change**: Acceleration versus prior Gulf risk state because Tehran threats and Houthi/Saudi strikes broaden the regional risk premium while Hormuz stays open.
+> * **Transmission / Market Read**: Risk-premium and inflation channel favours **long Brent** and **short Asia FX** on energy-led risk-off.
+> * **Watchpoint / Confidence**: Confirmed US-Iran kinetic contact or a Gulf transit disruption confirms the defensive move; Confidence: High.
 
----
-
-### 📌 Gas supply security tightens from Indonesia to Alaska LNG
+### 📌 Indonesia Gas Cut Adds Singapore Energy Shock
 
 **Fact**
-"Indonesia is reducing natural gas exports to neighboring Singapore as President Prabowo Subianto seeks to shore up domestic supply and strengthen energy security for Southeast Asia’s largest economy." ([BBG 1](https://www.bloomberg.com/news/articles/2026-10-24/indonesia-begins-trimming-pipeline-gas-exports-to-singapore)). "Former CEO of Polar Train LNG tells FT that energy giant Novatek financed and held reins of strategic Alaska project without Washington’s approval" ([FT](https://www.ft.com/content/e9cfbfbb-e65a-4303-aebb-20d59319ef1b)). "US LNG Project Developer Funded by Russia’s Novatek, FT Says" ([BBG 2](https://www.bloomberg.com/news/articles/2026-10-24/us-lng-project-developer-funded-by-russia-s-novatek-ft-says)).
+Indonesia cut exports of natural gas to Singapore amid Borneo, Sumatra wildfire haze. President Prabowo Subianto berated 'countries that like to insult' his nation over the haze crisis. He did not name specific countries ([SCMP](https://www.scmp.com/news/asia/southeast-asia/article/3372025/indonesia-cuts-gas-singapore-amid-borneo-sumatra-wildfire-haze)). Indonesia cuts pipeline gas exports to Singapore by about `9%` ([Reuters](https://news.google.com/rss/articles/CBMirAFBVV95cUxNMVVkTFlZc0hWcDVneTJjckZnXy1kYjhtX1BYaUlZR1JwTlBJMTRzbU1jWm1yQTVqQUZ5Rl92QndOdk1wTFhoUVZUTHU5NTQ1WjFXd1YwcHJZb21JWEw1MmJVUlZRTDc2VTEzU0VyNlVIeXN2cUNOVWlKV3h3dm9Ud21RQU9ZbmdnU2lFaVU5SDMyUG9pcEI5aGF1NEo1TGZCUkxuUjQ2YjdQX0Vj)). Reduction in Indonesia gas supply amounts to less than `2%` of Singapore’s total daily demand: EMA ([CNA](https://news.google.com/rss/articles/CBMigAFBVV95cUxNRTAxTDMzbHRaQWJIMThQZmR4MktiUEk4V3J6QWVTclRNaGd6OVpJTzE0Ti02M2wtZGkzaEYwSW9abXVvc2tOWTBvU2d6YXNXT2FLQUNxbGJ3V0RadUhBeGhrQ1cyUVREOEpjbmU5SWZHNmJrbU9HdTJLMlFtSzZWTQ)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: New; gas export cuts hit Singapore directly and US LNG faces Russian-control allegations.
-> * **Transmission / Market Read**: Energy-inflation channel favors **long natural gas** and **long USD/SGD**; policy uncertainty may stall US LNG approvals.
-> * **Watchpoint / Confidence**: Singapore utility or policy response and any US action on Polar Train within 72h. Confidence: Medium.
+> * **Narrative change**: Acceleration of Singapore gas security stress with a confirmed pipeline cut and haze-linked political friction.
+> * **Transmission / Market Read**: Energy-cost and supply-security channel tilts risks toward **higher Singapore energy import costs** and **underperformance in SGD** if cuts extend.
+> * **Watchpoint / Confidence**: Alternative LNG supply or Jakarta pipeline restoration caps the move; Confidence: High on facts, Medium on market impact.
 
----
-
-### 📌 Silver hits year low as Swiss stocks attract AI-haven flows
+### 📌 Risky Debt Shows Early Meltdown Signal
 
 **Fact**
-"Silver Futures Fall to Lowest This Year as Oil Prices Fuel Inflation Risks" ([WSJ](https://news.google.com/rss/articles/CBMiywFBVV95cUxORUItR05OSU1QNjA3dzU1SXJ3N2ZhRldQeF8xaVNOVXlRVDhaZnU4TUFjYnowU0RhSkR5VTNvck5LdF9pU2R4T3lzQ2NDY3Z6dXBpTFR4bmtuUlZBbVFZZi1JVGJZRU1JZGh3emVzTEhMbE9qVzFIUFBFYzNzbG9sQ1BjQXlsSThiY1ZMVkk5REo5MWxWbUJQZWphVnZrVW5IWk5rcnVRNmEzZkhqbjhUVzUwSlRudEJfWHRyMnBYUnFPSEtwOE1ia0psNA)). "Swiss Stocks Are Becoming a Haven From AI Fears Roiling Markets" ([BBG](https://www.bloomberg.com/news/articles/2026-10-24/swiss-stocks-are-becoming-a-haven-from-ai-fears-roiling-markets)).
+'Total Meltdown' in Riskiest Debt Unnerves Market: Credit Weekly. It was a panicked message from a colleague that woke fund manager Ivelina Green at 5 a.m. on Thursday morning in New York: “Total meltdown.” ([BBG](https://www.bloomberg.com/news/articles/2026-10-24/-total-meltdown-in-riskiest-debt-unnerves-market-credit-weekly))
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Confirmation because inflation-driven real-rate pressure and AI de-rating extend beyond gold and tech.
-> * **Transmission / Market Read**: Liquidity and inflation-expectations channel favors **short silver** and **long Swiss equities versus US tech**.
-> * **Watchpoint / Confidence**: Precious metals stabilization or Swiss outperformance fading into Europe close would signal pause. Confidence: Medium.
+> * **Narrative change**: New stress signal in high-yield credit beyond prior AI de-rating; early liquidity-stress indicator.
+> * **Transmission / Market Read**: Liquidity and credit-spread channel argues for **defensive duration** and **short risk assets**.
+> * **Watchpoint / Confidence**: Wider HY spreads and accelerating outflows over coming sessions confirm; Confidence: Medium due single-source and limited detail.
 
 ---
 
 ## 🌍 Global Radar
 
-### 🌐 Geopolitics & Policy
+### 🏦 Central Banks
+- **Federal Reserve / ECB / BOJ** - The Federal Reserve and its peers in the euro zone and Japan will probably keep interest rates steady in the coming week, opting to bide their time before potential further hikes ([BBG](https://www.bloomberg.com/news/articles/2026-10-24/fed-set-to-lead-g7-trio-in-hawkish-rate-pause-eco-week-ahead)).
 
-- "Kim arrived in the Chinese border city of Dandong using the New Yalu River Bridge, officially opened about a week ago." ([Al Jazeera](https://www.aljazeera.com/news/2026/10/24/north-koreas-kim-jong-un-arrives-in-china-south-korean-media-says)).
-- "White House lifts tariffs on some Canadian goods as midterm elections loom" ([BBC](https://www.bbc.co.uk/news/articles/c60qk573yzz8o)).
-- "Defence secretary says Beijing-backed organisations on US campuses have been added to Pentagon list of threats to national security" ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3372023/systematically-dismantled-hegseths-new-offensive-against-chinas-confucius-institutes)).
+### 🌐 Geopolitics & Policy
+- North Korean leader Kim Jong-un pays unexpected visit to Chinese border city of Dandong. One-day trip comes weeks before Apec forum in China, with Trump and Putin set to attend. Trump has also said he wants to meet Kim again ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3372026/north-korean-leader-kim-jong-un-visits-chinese-border-city-dandong)).
+- Beijing is concerned that Pyongyang and Moscow are forging a stronger relationship, say analysts ([FT](https://www.ft.com/content/fd106d25-3abf-4729-be26-683d1d115d2e)).
+- China urges US to halt proposed expansion of outbound investment curbs ([Reuters](https://news.google.com/rss/articles/CBMisgFBVV95cUxOY3V2bWpZckhlWExlaDZRLTR0NG1MY3l4NmpfZzJCUkVpSkJGblR1S0RScmxSa2tWWVhtZFdBNzkyc0ZaUnlDU2lVNEh3WUpUTkw3d0tIdGlzeTNrRnpWNFhiUk9xTEw4bENXWmxuRlRYTXQtU2N4MXRLVURsUkVxYUpGMks3R0hUaXA4eUZHSXNBWXRLRUN4VVkyVW5WQlBVUFo1dnRSVGxPYmxqMXRXUnVn)).
+- French government and corporate bond yields are converging; some companies’ bonds now yield less than government bonds ([FT Markets](https://www.ft.com/content/473c0e0b-d4f7-449c-9192-648b82077222)).
+
+### 🛢️ Commodities
+- The first Russian diesel shipment under President Donald Trump’s deal with Vladimir Putin raises legal and compliance questions while offering limited relief for US fuel prices ([BBG](https://www.bloomberg.com/news/videos/2026-10-24/russian-diesel-deal-confronts-legal-uncertainty-video)).
 
 ---
 
@@ -81,24 +83,27 @@ No high-impact releases in the next 24 hours.
 ## 📚 Full Reading List
 
 - **BBG**
-  - [Indonesia Begins Trimming Pipeline Gas Exports to Singapore](https://www.bloomberg.com/news/articles/2026-10-24/indonesia-begins-trimming-pipeline-gas-exports-to-singapore)
-  - [US LNG Project Developer Funded by Russia’s Novatek, FT Says](https://www.bloomberg.com/news/articles/2026-10-24/us-lng-project-developer-funded-by-russia-s-novatek-ft-says)
-  - [Swiss Stocks Are Becoming a Haven From AI Fears Roiling Markets](https://www.bloomberg.com/news/articles/2026-10-24/swiss-stocks-are-becoming-a-haven-from-ai-fears-roiling-markets)
-  - [Iran Plots, Houthi Attacks Spur US Departure Orders in Mideast](https://www.bloomberg.com/news/articles/2026-10-24/iran-plots-houthi-attacks-spurred-us-depature-orders-in-mideast)
+  - [Oil Markets Brace for Renewed Iran Fighting](https://www.bloomberg.com/news/videos/2026-10-24/oil-markets-brace-for-renewed-iran-fighting-video)
+  - [Fed Set to Lead G7 Trio in Hawkish Rate Pause: Eco Week Ahead](https://www.bloomberg.com/news/articles/2026-10-24/fed-set-to-lead-g7-trio-in-hawkish-rate-pause-eco-week-ahead)
+  - ['Total Meltdown' in Riskiest Debt Unnerves Market: Credit Weekly](https://www.bloomberg.com/news/articles/2026-10-24/-total-meltdown-in-riskiest-debt-unnerves-market-credit-weekly)
+  - [Russian Diesel Deal Confronts Legal Uncertainty](https://www.bloomberg.com/news/videos/2026-10-24/russian-diesel-deal-confronts-legal-uncertainty-video)
 - **Reuters**
-  - [Typhoon Champi sweeps past Taiwan, leaving 1 dead, 500 injured](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM0x3U0pTZEhoZWZsQjJTQTVoTl9VdTdkeHdtMnNmMVVzU003NVc0YjhJX3g4MTU5dkRoWHVCSm00MUI2bWRhczZyNE1QVE4wSGFfanVwckZkVV9kRFFQeUpkQ1Z2TkhURWUwZ2ZZb1FsQndnZnhPMlNPZlZJVDZZZTRXQnVnODQ2UHFBd2NLOXVJOXFMdU1MamVHRkhBOVdGdXRydjVqWVRUczV3MmxVdUI2VmQ1eG0y)
+  - [Iran has ramped up efforts to target US personnel, intelligence memo warns](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSnBGckdpTkdaSnNZeFIyenI0MVVDMHd6R2ZDcTlUX3I4OWNNMlRjd0FTXzhCY09zakU1MWx2RzBpRW1QYTRxY2M3UWpBZHR3S1JlNjQ0WlIyRlh3ZnhNaVZ0OVcwU21YMjUyVVF0RXB0VXFLMWpGdEVtak1DUktTdUdLWmQyWGRFQ0xmb2Z3WG1nSHdfVUxlbUlsc2RJRmNmWVRHS1Qtd0RCVU92d2t1S19HbjlFVzdoREJONTRNYk1iZw)
+  - [Houthis say they targeted Saudi oil sites; attacks reported in Aden](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1JpTkpxd3RUSFgwb29mWkRuSmg5UFd5d1RMQkZMdE5tV3F4cEN6SXFOODhTQUZTbTZucHJGVnpxMWpGZVFuSXJzZ045Q0o1Uzh5NFNvVENFX1M2dFQ0NzRGYjUtWk9TYjBWcldGNS1hY21yS2IyOXBsX29hcFg5N2ZENUlIV2oyTE1OT3hJQUFaS1pjTHV3VnZUTkRWbVFnd0JqYV9iZmVwUW4xcGNVOUdUZmgtaWpkVGdsVzJ1SXR1U1hyWG5uWg)
+  - [Indonesia cuts pipeline gas exports to Singapore by about 9%](https://news.google.com/rss/articles/CBMirAFBVV95cUxNMVVkTFlZc0hWcDVneTJjckZnXy1kYjhtX1BYaUlZR1JwTlBJMTRzbU1jWm1yQTVqQUZ5Rl92QndOdk1wTFhoUVZUTHU5NTQ1WjFXd1YwcHJZb21JWEw1MmJVUlZRTDc2VTEzU0VyNlVIeXN2cUNOVWlKV3h3dm9Ud21RQU9ZbmdnU2lFaVU5SDMyUG9pcEI5aGF1NEo1TGZCUkxuUjQ2YjdQX0Vj)
+  - [China urges US to halt proposed expansion of outbound investment curbs](https://news.google.com/rss/articles/CBMisgFBVV95cUxOY3V2bWpZckhlWExlaDZRLTR0NG1MY3l4NmpfZzJCUkVpSkJGblR1S0RScmxSa2tWWVhtZFdBNzkyc0ZaUnlDU2lVNEh3WUpUTkw3d0tIdGlzeTNrRnpWNFhiUk9xTEw4bENXWmxuRlRYTXQtU2N4MXRLVURsUkVxYUpGMks3R0hUaXA4eUZHSXNBWXRLRUN4VVkyVW5WQlBVUFo1dnRSVGxPYmxqMXRXUnVn)
 - **WSJ**
-  - [Silver Futures Fall to Lowest This Year as Oil Prices Fuel Inflation Risks](https://news.google.com/rss/articles/CBMiywFBVV95cUxORUItR05OSU1QNjA3dzU1SXJ3N2ZhRldQeF8xaVNOVXlRVDhaZnU4TUFjYnowU0RhSkR5VTNvck5LdF9pU2R4T3lzQ2NDY3Z6dXBpTFR4bmtuUlZBbVFZZi1JVGJZRU1JZGh3emVzTEhMbE9qVzFIUFBFYzNzbG9sQ1BjQXlsSThiY1ZMVkk5REo5MWxWbUJQZWphVnZrVW5IWk5rcnVRNmEzZkhqbjhUVzUwSlRudEJfWHRyMnBYUnFPSEtwOE1ia0psNA)
+  - [Aboard USS George Washington as It Rearms for Possible Iran Strikes](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOUxveWNyQjdJTWRlS2FqTWxnQnp2TFB0WHplWjBCTTlpZ3VEUzFqNmtDbDA1ZVZtUktmUUpQMEprNDlKcm1nUkRtOVEybFZ3eGc2MjBTWVM1NVRUZFU2VExzNXpTdi1QRlpORUZIZTlsRUg2aG1WLVloenozUkJuM1ZuWnF1cTBONjhreTRhUGJlSnNTa0YxT1ZXM1NURjNCbFlwZTNhNFIwWmFwS29TbkJkUWkwSURndHZMckROUDM)
 - **FT**
-  - [US executives quit $25bn gas venture over claims of secret Russian control](https://www.ft.com/content/e9cfbfbb-e65a-4303-aebb-20d59319ef1b)
+  - [Kim reaffirms ties with China amid worries over Russian friendship](https://www.ft.com/content/fd106d25-3abf-4729-be26-683d1d115d2e)
+  - [French government and corporate bond yields are converging](https://www.ft.com/content/473c0e0b-d4f7-449c-9192-648b82077222)
+- **CNBC**
+  - [American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections](https://www.cnbc.com/2026/10/24/iran-threats-us-embassies-middle-east.html)
 - **SCMP**
-  - [‘Systematically dismantled’: Hegseth’s new offensive against China’s Confucius Institutes](https://www.scmp.com/news/china/diplomacy/article/3372023/systematically-dismantled-hegseths-new-offensive-against-chinas-confucius-institutes)
-- **BBC**
-  - [White House lifts tariffs on some Canadian goods as midterm elections loom](https://www.bbc.co.uk/news/articles/c60qk573yzz8o)
+  - [Indonesia cuts gas to Singapore amid Borneo, Sumatra wildfire haze](https://www.scmp.com/news/asia/southeast-asia/article/3372025/indonesia-cuts-gas-singapore-amid-borneo-sumatra-wildfire-haze)
+  - [North Korean leader Kim Jong-un pays unexpected visit to Chinese border city of Dandong](https://www.scmp.com/news/china/diplomacy/article/3372026/north-korean-leader-kim-jong-un-visits-chinese-border-city-dandong)
 - **Al Jazeera**
-  - [Massive oil slick seen weeks after tanker struck off UAE’s coast](https://www.aljazeera.com/video/newsfeed/2026/10/24/massive-oil-slick-seen-weeks-after-tanker-struck-off-uaes-coast)
-  - [North Korea’s Kim Jong Un visits China via newly opened bridge](https://www.aljazeera.com/news/2026/10/24/north-koreas-kim-jong-un-arrives-in-china-south-korean-media-says)
-- **BOK_GN**
-  - [Bank of Korea Extends Operating Hours of BOK-Wire+](https://news.google.com/rss/articles/CBMigAFBVV95cUxNNGpocmp5WEZadk9xMUhFckd6cnRPWUQ4MHcyZE1CY1A5SDZ3ZWJtODBtQkpsUnhNOVFyY0d5SVc1QkgxaDg3RWV6NkFqVHA3cldyYVc3QzdsTzNTdWZNbFV3TnlITGtPTnFWaGVsRE5zX19rd2hTYk1DSGJtcm9tMA)
-
----
+  - [Iran blames US for deal failure, urges new try amid fear of new attacks](https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks)
+  - [Kim Jong Un crosses new bridge linking North Korea and China](https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china)
+- **CNA**
+  - [Reduction in Indonesia gas supply amounts to less than 2% of Singapore’s total daily demand: EMA](https://news.google.com/rss/articles/CBMigAFBVV95cUxNRTAxTDMzbHRaQWJIMThQZmR4MktiUEk4V3J6QWVTclRNaGd6OVpJTzE0Ti02M2wtZGkzaEYwSW9abXVvc2tOWTBvU2d6YXNXT2FLQUNxbGJ3V0RadUhBeGhrQ1cyUVREOEpjbmU5SWZHNmJrbU9HdTJLMlFtSzZWTQ)

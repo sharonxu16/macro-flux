@@ -1,22 +1,22 @@
-# Macro State — Last updated: 2026-10-24
+# Macro State — Last updated: 2026-10-25
 
-## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Middle East oil supply shock and undersea cable threat** — Status: Acceleration; US departure orders and UAE oil slick extend regional risk premium; next trigger confirmed Gulf transit disruption or kinetic contact.
-- **Global gas supply security fragmentation** — Status: New; Indonesia cuts pipeline gas to Singapore and US LNG faces Novatek control allegations; next trigger Singapore/MAS response or US sanctions action.
-- **AI de-rating with defensive rotation** — Status: Confirmation; Swiss stocks attract haven flows and silver falls to year low as oil fuels inflation risks; next trigger tech earnings and inflation breakevens.
-- **North Korea-China diplomacy** — Status: New; Kim visits China via new Dandong bridge amid Korean-style military rhetoric; next trigger joint statements or border talks.
+## Active Narratives (max 4)
+- **Middle East oil risk premium and Iran escalation** - Status: Acceleration; Tehran threats and Houthi/Saudi strikes widen regional risk even with Hormuz flows open; next trigger confirmed US-Iran kinetic contact or Gulf transit advisory.
+- **Singapore gas supply curtailment** - Status: Acceleration; Indonesia pipeline cut of `9%` with EMA impact under `2%` daily demand; next trigger alternative LNG supply or pipeline restoration.
+- **G7 hawkish pause** - Status: New; Fed, ECB and BOJ set to hold but bide time before potential hikes; next trigger policy statements next week.
+- **Risky debt stress** - Status: New; high-yield credit flashing early "total meltdown" signal; next trigger HY spread widening and outflow data.
 
-## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- Confirmed US-Iran kinetic contact or Gulf transit advisory.
-- Singapore pivots to alternative LNG supply or MAS responds to energy costs.
-- Precious metals stabilization or Swiss stocks outperformance fades.
-- North Korea-China joint statement or Korean peninsula military/border talks.
-- Taiwan/east China post-typhoon supply-chain normalization.
+## Watchpoints (max 5)
+- Confirmed US-Iran kinetic contact or Gulf transit disruption.
+- Houthi/Saudi strikes causing physical oil supply loss.
+- Singapore/EMA secures alternative LNG or Indonesia restores pipeline volumes.
+- Fed/ECB/BOJ policy statements next week signal hawkish pause or renewed hike bias.
+- HY credit spreads widen further and outflows accelerate after the "total meltdown" signal.
 
-## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will oil and gas supply shocks keep DM central banks on tightening paths while growth and AI stress rise?
-- Can Singapore secure alternative gas/LNG if Indonesian pipeline exports keep declining?
-- Does North Korea-China alignment alter US-Korea/Japan security and FX risk premia?
+## Open Questions (max 3)
+- Will energy-driven inflation keep DM central banks on hold or push them to hike further while credit stress builds?
+- Can Singapore contain gas costs if Indonesian pipeline cuts persist or exceed EMA's daily demand buffer?
+- Does Kim's Beijing visit alter North Asia FX and US-Korea/Japan security risk premia?
 
-## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- Silver futures lowest this year ([WSJ](https://news.google.com/rss/articles/CBMiywFBVV95cUxORUItR05OSU1QNjA3dzU1SXJ3N2ZhRldQeF8xaVNOVXlRVDhaZnU4TUFjYnowU0RhSkR5VTNvck5LdF9pU2R4T3lzQ2NDY3Z6dXBpTFR4bmtuUlZBbVFZZi1JVGJZRU1JZGh3emVzTEhMbE9qVzFIUFBFYzNzbG9sQ1BjQXlsSThiY1ZMVkk5REo5MWxWbUJQZWphVnZrVW5IWk5rcnVRNmEzZkhqbjhUVzUwSlRudEJfWHRyMnBYUnFPSEtwOE1ia0psNA)): oil-driven inflation and real-rate pressure marker.
+## Key Levels (max 5)
+None cited in today's feed.
