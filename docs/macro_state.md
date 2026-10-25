@@ -1,22 +1,22 @@
 # Macro State — Last updated: 2026-10-25
 
 ## Active Narratives (max 4)
-- **Middle East oil risk premium and Iran escalation** - Status: Acceleration; Tehran threats and Houthi/Saudi strikes widen regional risk even with Hormuz flows open; next trigger confirmed US-Iran kinetic contact or Gulf transit advisory.
-- **Singapore gas supply curtailment** - Status: Acceleration; Indonesia pipeline cut of `9%` with EMA impact under `2%` daily demand; next trigger alternative LNG supply or pipeline restoration.
-- **G7 hawkish pause** - Status: New; Fed, ECB and BOJ set to hold but bide time before potential hikes; next trigger policy statements next week.
-- **Risky debt stress** - Status: New; high-yield credit flashing early "total meltdown" signal; next trigger HY spread widening and outflow data.
+- **Middle East oil risk premium and Iran escalation** — Status: Acceleration; missile targeting Riyadh and Sunday US attack-or-deal binary; next trigger Sunday announcement.
+- **AI trade unwind and Korea equity derating** — Status: New; Kospi 12-month target cut by 25%; next trigger KOSPI price action and foreign flows.
+- **Singapore gas supply curtailment** — Status: Deceleration; officials say electricity impact unlikely; next trigger pipeline restoration or alternative LNG cost.
+- **G7/DM hawkish pause** — Status: Confirmation; no new central bank news today; next trigger Fed/ECB/BOJ statements next week.
 
 ## Watchpoints (max 5)
-- Confirmed US-Iran kinetic contact or Gulf transit disruption.
-- Houthi/Saudi strikes causing physical oil supply loss.
-- Singapore/EMA secures alternative LNG or Indonesia restores pipeline volumes.
-- Fed/ECB/BOJ policy statements next week signal hawkish pause or renewed hike bias.
-- HY credit spreads widen further and outflows accelerate after the "total meltdown" signal.
+- Sunday US Iran attack-or-deal decision.
+- Saudi retaliatory response or further Houthi missile interception causing regional escalation.
+- KOSPI price action and foreign equity flows confirming or rejecting AI derating.
+- Indonesia pipeline restoration or Singapore electricity tariff changes.
+- Fed/ECB/BOJ policy statements next week.
 
 ## Open Questions (max 3)
-- Will energy-driven inflation keep DM central banks on hold or push them to hike further while credit stress builds?
-- Can Singapore contain gas costs if Indonesian pipeline cuts persist or exceed EMA's daily demand buffer?
-- Does Kim's Beijing visit alter North Asia FX and US-Korea/Japan security risk premia?
+- Will China luxury and consumer weakness offset export strength and weigh on RMB sentiment?
+- Can Korea weather AI trade unwind without broader Asia FX contagion?
+- Does Kim Jong Un's China visit alter North Asia security risk premia and won positioning?
 
 ## Key Levels (max 5)
 None cited in today's feed.
