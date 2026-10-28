@@ -1,24 +1,26 @@
 # Macro State — Last updated: 2026-10-28
 
-## Active Narratives
-- **Iran-Hormuz shipping and diplomatic risk** — Status: Acceleration; Iran threat to South Korean shipping adds direct Asia shipping risk, while diplomacy and Israeli election keep oil heavy; next trigger Iran military action or Sinokor transit interruption.
-- **Fed hawkish hold** — Status: Confirmation; FOMC expected to hold but Warsh signals more hikes, supporting USD and pressuring gold/Treasury duration; next trigger FOMC statement and press conference.
-- **Asia AI trade resurrection** — Status: Confirmation; AI debt fears ease and Asia equities advance into Big Tech earnings; next trigger Oracle, Alphabet, Amazon capex and earnings.
-- **Brazil Lula shock** — Status: Fading; markets recover some ground and minister vows fiscal discipline; next trigger fiscal detail from transition.
+## Active Narratives (max 4)
+- **Iran-Gulf energy and shipping risk** — Status: Acceleration; Houthi strike on Aramco and US warning re-escalate physical supply risk; next trigger US/Gulf military response and Hormuz transit.
+- **Fed hawkish hold / USD strength** — Status: Confirmation; euro at 17-month low, Treasury yields higher, gold eased into FOMC; next trigger FOMC statement and Warsh guidance.
+- **China stabilization / fiscal and currency diplomacy** — Status: New; national team buying, faster bond sales, EU currency pressure; next trigger November EU-China talks and PBOC fixing tolerance.
+- **Asia AI equity momentum** — Status: Confirmation; SK Hynix record profit and Anthropic proxy bets support Asia tech; next trigger Big Tech earnings and AI capex updates.
 
-## Watchpoints
-- FOMC statement and Warsh guidance on December rate hike.
-- Israel election coalition outcome and Iran reaction.
-- Sinokor/Hormuz transit or Iranian military enforcement.
-- Oracle, Alphabet, Amazon AI capex and earnings.
-- Bank of Canada decision and EIA crude inventory.
+## Watchpoints (max 5)
+- FOMC statement and Warsh guidance at 2am HKT.
+- US/Gulf military or diplomatic response to Saudi Aramco attack.
+- EIA crude oil stocks at 10:30pm HKT.
+- China national team follow-through and government bond sale pace.
+- November high-level EU-China currency talks.
 
-## Open Questions
-- Will FOMC signal a December hike and pressure gold/Treasury duration?
-- Does Iran follow through on Sinokor threat and widen KRW risk premium?
-- Can AI earnings and capex sustain Asia tech rally despite a firm USD?
+## Open Questions (max 3)
+- Will FOMC signal a December hike and extend USD strength against EUR and gold?
+- Does the Aramco attack widen into broader Hormuz shipping disruption and Asia FX risk premium?
+- Can Beijing’s equity support and fiscal acceleration stabilize China assets under EU exchange-rate pressure?
 
-## Key Levels
-- **Gold `$4,000/oz`** — threshold being tested pre-FOMC ([BBG](https://www.bloomberg.com/news/articles/2026-10-27/gold-holds-above-4-000-as-traders-look-to-fed-rate-decision)).
-- **Oil `$115/bbl`** — BoC inflation risk gauge from energy costs ([BBG](https://www.bloomberg.com/news/articles/2026-10-27/bank-of-canada-rate-hike-expected-as-oil-prices-at-115-fuel-inflation-fears)).
-- **Anthropic debt `$63 billion`** — AI credit demand signal supporting risk-on ([WSJ](https://news.google.com/rss/articles/CBMioAFBVV95cUxNbkxxMllvRjN2M1VzSVJVSU5xNnJmamxXSTA3a3dWU2VLeW1sZjhLbDhLcXoyakFIYjFCVktFMFNfM3JaenA5UjFMRTE2cEVVTXdlN3l0eUpQN2d3cXM4VUhZc3owSGdUTDF2N01pT0U2WTVIXy12bDBtRS1ZUjNob3YtYUVkUU5hVEdxVVFjaEpHMVdfVHNHY1ktOEtLa2c5)).
+## Key Levels (max 5)
+- **EUR/USD 17-month low** — Fed/ECB policy divergence supports USD into the FOMC decision ([WSJ](https://news.google.com/rss/articles/CBMinwFBVV95cUxNTldaVURJT2Rwd2d0WEZoTHZIWTMyYWt4OUx3VjBRVHdjdlR1Y0taSExYbG5BRDdGb2lyOHVEYmVmWjBtMUNwakZUUmJwWV9nWU1DbnBJTVd6RDNhM2tJOVM0VnVCUVpCYjE1RnlxcTBwWmcwc0lXQ1hoT3RtMUdUN3FWMUhVU19qTUpEejQtbGFjTm9yU0pWS09fUlRtNWs)).
+- **RBA cash rate `4.85%` expected in November** — hot Q3 inflation cements imminent hike case ([BBG](https://www.bloomberg.com/news/articles/2026-10-28/commonwealth-bank-now-expects-rba-to-hike-to-4-85-in-november)).
+- **Thailand policy rate `1%` as policy floor** — growth support balanced against high energy costs ([BBG](https://www.bloomberg.com/news/articles/2026-10-28/thailand-seen-holding-rate-to-support-growth-as-1-emerges-as-policy-floor)).
+- **Anthropic IPO `$1.5 trillion` valuation** — Asia semiconductor proxy demand signal ([BBG](https://www.bloomberg.com/news/articles/2026-10-28/anthropic-ipo-shutout-sends-asia-s-investors-into-proxy-bets)).
+- **US Iran war cost `$47 billion`** — fiscal and political escalation metric ([Reuters](https://news.google.com/rss/articles/CBMivAFBVV95cUxQclRmNndRN0ZxR18wcDdQUy01TjRUZnN3V2NOMGRPcmF1WnZCVDM0TzgzWHdHSVpISFgzWnFYbDlpazlmZVpIVEltalZ0cHVSak1YQ1ZkVmtTbXFvcFhUVFFoSE5NTWR1UTFWdnp0bGtxVXJYM0c0VmgxbS1KS1EtUW9qb2xCVEhHVWdNWVdvTWpVZnp6QW13TWVGOEhPeXF1MVlPTWhpTmV2Q0N3MjUxaVdEeU5MZFRLLWRCOA)).
