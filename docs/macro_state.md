@@ -1,23 +1,26 @@
-# Macro State — Last updated: 2026-10-29
+# Macro State — Last updated: 2026-10-30
 
-## Active Narratives (max 4)
-- **Fed hawkish hold and December hike odds** — Status: Confirmation; market still prices elevated December path, PCE/GDP tonight is next trigger.
-- **Iran-Gulf energy and shipping risk** — Status: Reversal; peace diplomacy prices out immediate supply premium, but Seoul Hormuz deployment keeps tail risk alive; next trigger confirmed transit disruption or US-Iran talks.
-- **AI capex repricing** — Status: New; Alphabet/Microsoft capex disappointment triggers tech selloff and Asia semiconductor pressure; next trigger US cash open and further hyperscaler guidance.
-- **EU pressure for stronger yuan** — Status: New; planned high-level Beijing visits create CNH policy catalyst; next trigger official confirmation and PBoC response.
+## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
+- **Fed hawkish hold and hot US data** — Status: Confirmation; strong growth and PCE keep December hike risk alive; next trigger December Fed pricing and next CPI/PCE.
+- **ECB leadership vacuum and December hike** — Status: New; Lagarde exit adds succession risk to hawkish pause; next trigger successor nomination and euro-area HICP.
+- **AI capex repricing** — Status: Acceleration; Alphabet and Intel selloff threatens Asia semis and KRW/TWD; next trigger US cash open and hyperscaler capex guidance.
+- **Iran-Gulf oil risk** — Status: Reversal; military options back on table despite diplomacy; next trigger confirmed Hormuz disruption or US-Iran talks.
 
-## Watchpoints (max 5)
-- US Core PCE, GDP Growth Rate QoQ Adv, PCE Price Index and Initial Jobless Claims at `8:30 PM HKT`.
-- ECB Interest Rate Decision and Deposit Facility Rate at `9:15 PM HKT`.
-- Nasdaq 100 cash open and further Alphabet/Microsoft hyperscaler capex commentary.
-- Confirmed Hormuz transit disruption or South Korea deployment details.
-- Official EU mission confirmation and any PBoC yuan policy statement.
+## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
+- BOJ interest rate decision and monetary policy statement on Oct 30.
+- US cash open tech follow-through and further Alphabet/Microsoft/Intel capex commentary.
+- ECB successor nomination headlines and euro-area inflation data.
+- Confirmed Hormuz transit disruption or US-Iran diplomatic meeting.
+- China-EU trade safeguard response and any yuan policy signal.
 
-## Open Questions (max 3)
-- Will firm PCE/GDP data push December hike pricing toward certainty and lift USD?
-- Does AI capex disappointment extend to broader Asia semiconductor FX and Korea/Taiwan equity underperformance?
-- Can European pressure shift PBoC tolerance toward a stronger yuan and support CNH?
+## Open Questions (max 3 — only unresolved questions that affect positioning)
+- Will hot US data ultimately lift UST yields and USD, or does the Fed hold cap front-end repricing?
+- Does AI capex disappointment extend into KRW/TWD and broader Asia semiconductor FX?
+- Can ECB succession uncertainty limit EUR upside despite December hike pricing?
 
-## Key Levels (max 5)
-- **Nasdaq 100 `1%` lower premarket** — AI capex concerns after Alphabet/Microsoft report lower than expected capex ([FT](https://www.ft.com/content/1639620b-99e7-47ed-8484-49646816489e)).
-- **KOSPI `1.4%` down** — AI investment doubt triggered Korean tech selling ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CRXh4T2hMaGlyZEhJVFVFLVdGZWZYc2VmY1hOWXRoUkN6STliTFBkMUhNRXJ3TTlzcUdvVkpLOThwemRoM2IybWFwTWs5bGFSbHNR)).
+## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
+- **Nasdaq 100 down `1.4%`** — AI capex unwind benchmark ([FT](https://www.ft.com/content/1639620b-99e7-47ed-8484-49646816489e)).
+- **Intel down `21%`** — semiconductor sentiment shock ([CNBC](https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html)).
+- **ECB rate `2.5%`** — hawkish pause anchor for EUR and EGBs ([CNBC](https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html)).
+- **US Q3 GDP `3.4%`** — growth surprise keeping Fed tightening path ([CNBC](https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html)).
+- **Gold near `$4,000`** — inflation hedge test against rate-hike bets ([BBG](https://www.bloomberg.com/news/articles/2026-10-29/gold-steadies-near-4-000-as-inflation-keeps-rate-hike-bets-firm)).

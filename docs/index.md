@@ -1,9 +1,9 @@
 ---
 tags:
-  - Macro/Iran_Energy_Risk
+  - Macro/Fed_Hiking
+  - Macro/ECB_Leadership
   - Macro/AI_Capex
-  - Asset/CNH
-  - Asset/KOSPI
+  - Asset/Brent
   - Trade/Short_KRW
 ---
 
@@ -11,74 +11,90 @@ tags:
 
 # 🌊 Macro Flux
 
-<small>Oct 29 8AM to Oct 29 5PM HKT</small>
+<small>Oct 29 5PM to Oct 30 8AM HKT</small>
 
-<small>Good afternoon.</small>
+<small>Good morning.</small>
 
 </div>
 
 ---
 
 > [!abstract] Overview
-> AI capex anxiety took over intraday as a disappointing Alphabet print and lower than expected hyperscaler spending pulled Nasdaq 100 futures about `1%` lower and triggered a sharp rotation out of Asian semiconductor names, with South Korean equities off `1.4%` and Samsung down more than `4%`. The other big repricing was in crude, where renewed US-Iran diplomacy and regional peace talk hollowed the Hormuz supply premium, even as Seoul said it was studying deployment options, including aircraft, to the Strait of Hormuz, and Pyongyang fired around 10 ballistic missiles. The dollar held firm ahead of tonight's PCE and ECB, while gold drifted lower. China came into focus as European officials planned Beijing visits to push for a stronger yuan. The cross-market thread is an unwinding of both AI capex and Iran-war premia that hurts Asian tech exporters but offers some relief to energy-importing Asia FX.
+> The overnight session was dominated by a rare collision of hot US data, a hawkish pre-election snapshot, and an unexpected ECB leadership shock: third-quarter US GDP printed a better-than-expected 3.4% while PCE inflation accelerated, keeping the Federal Reserve on a tightening path even as Treasury yields slipped after the Fed held. That policy backdrop collided with the surprise early departure of ECB President Christine Lagarde, announced alongside the ECB’s hold at 2.5% and a signal that December hikes are in play, leaving euro rates and the euro caught between hawkish pricing and succession uncertainty. The macro cross-current then hit the AI trade, as Alphabet suffered its worst day ever and Intel plunged, dragging Nasdaq futures and threatening Asia semiconductor and FX sentiment. Oil oscillated between diplomacy headlines and fresh signs the US may resume military strikes against Iran. The connecting thread is central-bank leadership uncertainty superimposed on re-accelerating inflation and an AI capex unwind, keeping global risk premia bid and the dollar supported into Asia.
 
 ---
 
 ## 🔬 Narrative Watch
 
-### 📌 Iran-Gulf risk premium deflates as diplomacy gains, Seoul weighs Hormuz deployment
+### 📌 ECB holds at 2.5% as Lagarde announces early departure
 
 **Fact**
-Oil prices declined Thursday as prospects of renewed peace negotiations eased fears of supply disruptions stemming from escalating tensions in the Middle East ([CNBC](https://www.cnbc.com/2026/10/29/oil-price-today-wti-brent.html)). Oil prices fall as peace hopes offset fears of growing Middle East conflict ([Reuters](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdy1kTGwzTi1ZWVpiLUFTbF9HS0VGbXFnVWhMVzBfOUhieU95OGhLZnpZLTB3ckdrOEFMZms2UU1qYUMyY01yd3VOQmNhNGU4MmZvNE1uUzdqcXc0OWxLYlRRSk5NaU85cUdZYTd0a1d0QU93S0JfaTNMdlpVa3pMeVBUZnFtd0ZMVXhMWGhHejZOVjQtZlN2ekVsaTdWU2hCVE8xaTlpamEzXzQ)). Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy ([WSJ](https://news.google.com/rss/articles/CBMiogFBVV95cUxNTW53UkVQVFpVMFB6SjNNeTdCWjNiSUxKZGJVVGVHQkJRZTA2UFljc3ZMc1ZqeVdtMzNPa1BtTkw5T21VMGp5bmVxOUF4QVQ4QWxWNERFbnJicUtuUXo2QWIyVkRCUzVFaHoycEpFVFVjcWRPWGdyQ2xyWHc2V1F3YVVsTk9JQ2pfV2VFLVFKT1lyRHRsM2NhaXlHUWNlSzJTV0E)). South Korea says considering deployment options to Strait of Hormuz, including aircraft ([Reuters](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOa0hrZWR2U1dyeG1NekMtUlJORFZ6M1dHUWNDbDFFWTU0bldwU3RwM0hEVGVDVExpeV9rLUtNOFMxdTVWX0pOa2d2Z2ZwZTBRM0pNSU5Md0RSWW82Zmkzb0JzemVjSUlQRTdDMExKZHpvbnRSaTItSVZ5VnBBcVVHSzg1eklqSnAtZF9DRm5UMFhibDJGMHQ4eGZXWGY0RllZMDdHZHhVb2h1WjJORzBEaGhBYk81ZGp1V3BxMWhETDNFQnptQllBS0cyMXY4ZkQz)).
+ECB President Lagarde to step down on 7 February 2027 ([ECB](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html)). Christine Lagarde to step down as ECB president in February ([FT](http://www.ft.com/content/b9294b91-0eee-413b-bdde-0569f48539b9)). European Central Bank keeps key interest rate on hold at `2.5%` ([CNBC](https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html)). Markets saw the decision as a hawkish pause and were last pricing in a `67%` chance of a December rate hike ([CNBC](https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html)). ECB flags December hike but sees yield rise hitting growth ([Reuters](https://news.google.com/rss/articles/CBMiowFBVV95cUxQWVJheVZacGhZZXFXZGZ5RU91NEt6eTlObWpmUnBvMFZKVmlVZ2xFVThBNkVrN1hxaTViSllZa0I0TzVMSW5Ub19vWk5ZcFBJZkdnX0lZNGtLZHpFVDF0N2didHE5MER6NjhpdnNyYmJGSVY4azhKTmE1V3pzY2MyOFZRTWtPUWNUS2FMT18zNGRXRlZpQkRUdFVVNDE1VEVGWUg4)). President Christine Lagarde announced she’ll leave the European Central Bank in early 2027, intensifying the struggle to replace one of the world’s most powerful monetary policymakers ([BBG](https://www.bloomberg.com/news/articles/2026-10-29/lagarde-will-step-down-as-ecb-president-in-february)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Reversal from prior acceleration as diplomacy trims immediate supply premium, but military planning keeps tail risk alive.
-> * **Transmission / Market Read**: Risk-premium channel favors fading **long Brent** into peace news while keeping **short KRW** hedges until deployment options clarify.
-> * **Watchpoint / Confidence**: Pivot back to bullish commodities if Hormuz transit is confirmed disrupted; Confidence: Medium on mixed diplomatic and military signals.
+> * **Narrative change**: New because the early ECB leadership exit introduces institutional policy uncertainty not previously priced in.
+> * **Transmission / Market Read**: Policy and risk-premium channel favors **long EUR** and **European duration** on the hawkish pause, with abrupt moves limited by succession overhang.
+> * **Watchpoint / Confidence**: Successor nomination and euro-area inflation data before December; Confidence: High given cross-source confirmation.
 
-### 📌 AI capex disappointment knocks Asian tech complex
+---
+
+### 📌 Hot US growth and inflation keep Fed tightening path
 
 **Fact**
-US tech stocks set to fall after earnings fuel AI spending concerns: Nasdaq 100 to open `1%` down after Google parent Alphabet and Microsoft report lower than expected capex ([FT](https://www.ft.com/content/1639620b-99e7-47ed-8484-49646816489e)). Asian shares wobble as Alphabet earnings miss drags Wall St futures lower ([Reuters](https://news.google.com/rss/articles/CBMigwFBVV95cUxNbTZuQXNrYUZEUEdVMGdDOEljdHJ1bW0zeHR6Yl9nYXp5dWd0cXU2WGk2QXVITW5xOVhlOUNVYm83QzFaRDZXcFdaZDZXa2xUd2otaXRjcmhmaWZ2aF8zVC03WFc5RkliNkhLZjk1MzhqUHBGZ3NmdmRKbF9CSklOUzhBQQ)). AI投资回报存疑，韩股下跌`1.4%`，三星跌超`4%`，油价下跌，金价走软 ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CRXh4T2hMaGlyZEhJVFVFLVdGZWZYc2VmY1hOWXRoUkN6STliTFBkMUhNRXJ3TTlzcUdvVkpLOThwemRoM2IybWFwTWs5bGFSbHNR)).
+Third-quarter U.S. GDP increases a better-than-expected `3.4%` as September inflation accelerates ([CNBC](https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html)). PCE Inflation Accelerated Last Month ([WSJ](https://news.google.com/rss/articles/CBMikwFBVV95cUxNN05udWJhTkF2akFvSEhxbUF0TXpBZ25iVWZKMEsxVmhxelQ5X3BZVUFTZE9OMXdsUUc0empSRjBzOEVfalFrbXJiY0ptcDZtREJUamZJb2thX2hLaEhnVzdVUFVLR3pzOU53cVJoQ3ROMFByeXNUcTB6T3RjVnNDU215WlNqQjJWM1NTbmVfbmdZVVE)). Strong US inflation and growth will keep Fed on a tightening path ([FT](https://www.ft.com/content/2afe7f73-4717-4e26-8257-317f637738b4)). U.S. Treasury, European Bond Yields Fall After Fed, ECB Hold ([WSJ](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMVJzTU8waHdld3FnbVROOGw4ZEtGS2g3UHpKYVFXTXhzdW9DeW8xYmJrY1RmWGFvNUlqWThQR2FWaTRuaklmYWlhbTNQV0lfa3BNNmFjSHBUaTk0NDVNSHRFLUg5MFFhTFZZMWZrTHh5ZHpYVnVzMlpNZ2hqaEM3LVJuOUhrUV9kc3NGRHpfdFNkUEhTX2oyTzVRMUhvS1dyNkF1UVV4eEtFM3VXTXJvUG9Lc3dnRjRDc190d0Vzem5ZNmxfNktGcUl3)). Euro edges up versus dollar after ECB holds rates ([CNA](https://news.google.com/rss/articles/CBMinwFBVV95cUxQRW5pRWU2RHptRUNKSmxIYnlWekVvMEZHSF94clZ4OUtseVktbDcteUFORkQwWlVUWVJHRWRETkVDQ2dlTy1CMFk0elhVT3IxOTJLWE1TSkR3TWRVdHU4RmNyclhLdndMTGs3MExsVzJEMi1Qd3NTWEg5ZlN1QkRGWF85dm02eWVHUmh6enNoYXZBWmNoSV9mTXdqemJhOVE)). Federal Debt Hits 100% of GDP ([WSJ](https://news.google.com/rss/articles/CBMic0FVX3lxTE5DV1RvZTQwdmNyaVBrQW00ZjBxTTJmYnItRGQwNkh4RHgxQTJlbXJOOWNjZFl0SmkyNkgzTGtjQXFwZGpkVXZQanRyZTl1TWgwSlhWTlZ4dV9Ndk5Ec1VvZmVNTUVqdzFvMEFJRlE2SXFtZlk)). Last snapshot of the US economy before midterms shows stronger growth but higher inflation ([CNN](https://news.google.com/rss/articles/CBMidkFVX3lxTE9CcHgwbVpMWEZWTm5kOVlEdWVjaXU3c1VHVzNpaXRsdGVOYUkzMjlOamtjbXRIZUF0SEtCTF9SYnllaDRKMjBIelJGRm5JN1BwWXBKUzBKUHAxblpDSHZDaThBVVdvV0tnRUYyWkVaeEtELWF1UEE)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Reversal from AI capex as a tailwind, now repricing lower after Alphabet/Microsoft signals.
-> * **Transmission / Market Read**: Liquidity and risk-premium channel drags **global tech** and **KOSPI**, supporting **short KRW** on equity outflow risk.
-> * **Watchpoint / Confidence**: US cash equity open and further hyperscaler capex guidance confirm or fade the rotation; Confidence: Medium.
+> * **Narrative change**: Confirmation of the hawkish Fed hold, as growth and inflation keep December hike risks live.
+> * **Transmission / Market Read**: Growth and inflation channel supports **higher UST yields** and **long USD/Asia FX**, with the post-hold dollar dip a tactical consolidation.
+> * **Watchpoint / Confidence**: December Fed pricing and next CPI/PCE, plus fiscal supply after debt hit 100% of GDP; Confidence: High.
 
-### 📌 EU officials ready Beijing push for stronger yuan
+---
+
+### 📌 AI capex unwind accelerates
 
 **Fact**
-Top European economic and finance officials are set to visit Beijing as they seek to persuade Chinese policymakers to let the yuan strengthen in order to help shrink a surging trade gap, the South China Morning Post reported exclusively ([SCMP](https://www.scmp.com/plus/news/china/diplomacy/article/3372579/eu-officials-push-yuan-appreciation-beijing-visits)). Maarten Verwey, the European Commission’s director general for economic and financial affairs, would lead a delegation to the Chinese capital in the week of November 23 ([SCMP](https://www.scmp.com/plus/news/china/diplomacy/article/3372579/eu-officials-push-yuan-appreciation-beijing-visits)). This would be followed by a joint mission around year-end probably comprising European Central Bank president Christine Lagarde, European Union economy chief Valdis Dombrovskis and Eurogroup president Kyriakos Pierrakakis ([SCMP](https://www.scmp.com/plus/news/china/diplomacy/article/3372579/eu-officials-push-yuan-appreciation-beijing-visits)). The EU delegation would meet People’s Bank of China governor Pan Gongsheng and Chinese Finance Minister Lan Foan ([SCMP](https://www.scmp.com/plus/news/china/diplomacy/article/3372579/eu-officials-push-yuan-appreciation-beijing-visits)).
+Alphabet Sheds Half a Trillion in Market Value in Stock’s Worst Day Ever ([WSJ](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdGV1bXVNOXFOR1NrQndfTDlkLTlxemh6b0JkY0l0LWhZUTJIUWVadTdDOXl2aG1WZ1JVT0l2TzE4OURJMFhKSlctVmptS2UwZmpzajRHT19BaEF1dzNaWjRVcjh3YnY1MV93dkt3V2dTZXNFdEpHTHJ2T3FzSHowekRBclY0eWw2bWRrZHhnajNyNlFncy10TmdTSHBBYkMtUk1KaV8tMXc0bG8x)). Nasdaq 100 drops `1.4%` after Google parent Alphabet and Microsoft report lower than expected capex ([FT](https://www.ft.com/content/1639620b-99e7-47ed-8484-49646816489e)). Intel stock plunges `21%` as chipmaker blames PC slowdown for weak guidance ([CNBC](https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html)). Technology stocks sold off for a second straight session as another round of disappointing earnings fueled a rotation out of the artificial intelligence trade, with heavy spending raising doubts about returns from those investments ([BBG](https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates)). Intel Shares Plunge More Than 20% on Weak PC-Market Outlook ([WSJ](https://news.google.com/rss/articles/CBMinAFBVV95cUxNbEJ5MFFEaHVhdTZRSm51TUNpSVQ5MEZOVE9SQTEya011RkNRQ25aUmlQeDhFV3JIQ2YyUk1hRll0aGxXOTRNRHBSZUprNzhjMU9ueGliTTJRMkNRU0VITmdva1JmMDduczdYTmpUR1dSTmtNNXZrVHdhSnViYkZPQUlfbWo5Y1l6bTJhaEM0bUJGYjVpbzBjX2tHNWo)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: New; EU open pressure on yuan policy is a direct CNH-relevant diplomatic catalyst.
-> * **Transmission / Market Read**: Policy and capital-flow channel favors **long CNH** if Beijing tolerates gradual appreciation to soften trade frictions.
-> * **Watchpoint / Confidence**: Official confirmation of November/December missions and any PBoC response; Confidence: Medium based on SCMP exclusive.
+> * **Narrative change**: Acceleration of the AI capex repricing, as Alphabet’s worst day extends into Intel.
+> * **Transmission / Market Read**: Risk-premium and capital-flow channel favors **lower Asia semis** and **weaker KRW/TWD**, while supporting **UST duration**.
+> * **Watchpoint / Confidence**: US cash open follow-through and further hyperscaler capex commentary; Confidence: High.
+
+---
+
+### 📌 Iran war risk re-enters oil price
+
+**Fact**
+Oil rose on signs the US may resume military strikes against Iran, risking fresh turbulence in the region that may hurt energy flows ([BBG](https://www.bloomberg.com/news/articles/2026-10-29/latest-oil-market-news-and-analysis-for-oct-30)). Oil prices ease as U.S. seeks to renew diplomacy with Iran ([WSJ](https://news.google.com/rss/articles/CBMiogFBVV95cUxNTW53UkVQVFpVMFB6SjNNeTdCWjNiSUxKZGJVVGVHQkJRZTA2UFljc3ZMc1ZqeVdtMzNPa1BtTkw5T21VMGp5bmVxOUF4QVQ4QWxWNERFbnJicUtuUXo2QWIyVkRCUzVFaHoycEpFVFVjcWRPWGdyQ2xyWHc2V1F3YVVsTk9JQ2pfV2VFLVFKT1lyRHRsM2NhaXlHUWNlSzJTV0E)). Top Military Admiral Briefs Trump on Iran Options ([WSJ](https://news.google.com/rss/articles/CBMipgFBVV95cUxOeXlDRTRqNXluY3ZWOXVwdmY2ck13Z0ttaTdMaVhreFZYdXhpbDJsNlNBcUM2TFo5OFVNSW5sal8xNkVvY3pjT2xOSXFLb0xpaXdvMGdpRzB4UEZlaFZfT0ZKY0FmeFh1TjM2djRzWXVrV3B1Ym9oRjEwbHAtQWd1VnhnRG5tMmswUUJOU3hES1J1ZTdzWHNNZi1ld1VHXzZNeVM3YlBR)). Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks ([CNBC](https://www.cnbc.com/2026/10/29/us-iran-war-trump-hormuz.html)). Vance outreach to Iran related to medical supplies, says Trump ([Reuters](https://news.google.com/rss/articles/CBMirgFBVV95cUxPQm9INjQwOFV2OFBtTHNrV0F6RnF1Z0NmMHJyT1lJMVJBNm4xNm10VzYtdGF3Zl93aUVxNklqNnpld3VXbHFfRTRZWW9MekFMeXJqcHdWc2pJV2xtYXBiRWE3YmFEbGZIa1dGUVRMbVktYXp5Z3dsenJjZFNORjlJaUdGYjVZQ0E0UEt2VFJVUFBxb1NTMjJTRENRSjN5OTFRaXNpLVFKc1ZGR2xzekE)).
+
+> [!info] [AI Reasoning]
+> * **Narrative change**: Reversal of de-escalation, as military options return to the table despite diplomacy headlines.
+> * **Transmission / Market Read**: Risk-premium and energy channel favors **long Brent** and **long USD/Asia FX**, with choppy headline risk.
+> * **Watchpoint / Confidence**: Confirmed Hormuz transit disruption or concrete US-Iran talks; Confidence: Medium due conflicting headlines.
 
 ---
 
 ## 🌍 Global Radar
 
-### 🏦 Central Banks
-
-- **Bank of Korea** — Bank of Korea board member says won moves faster than expected ([Reuters](https://news.google.com/rss/articles/CBMitAFBVV95cUxONzlXbXM0MExkRTJ3QlRCNkQ5MzJHT2lZb01GSVhLcVdBMUJaSmt0dl96YWhxTzdTc000YWxEbk80NXJYR0lhOWFCal92MG5fY25qNzZ0c1pSU1Z6VzM4dk1RM09JVmFMckYwc3huMXV5MGVFWDF0SE95T1dfc3BMTTZzamNzX0RYbFFOX1ZjSXhHTTB3aGx1MThGQ2F2YTBsSVRGMTBqcU5KamRWV19mYTRhQWk)).
-- **European Central Bank** — The European Central Bank is set to keep borrowing costs steady as it weighs bond-market turmoil in France and a renewed advance in energy costs ([BBG](https://www.bloomberg.com/news/articles/2026-10-29/ecb-set-to-hold-rates-to-assess-france-and-energy-risks)).
-- **Hong Kong Monetary Authority** — Hong Kong Monetary Authority leaves interest rates unchanged, tracking Fed move ([CNA](https://news.google.com/rss/articles/CBMixgFBVV95cUxONzBwMXZScVVWb1BjdEFPUHVDT181MWQ5ZG94Y1RNZTZlM3h3SmI0U1JsZEZGa1dqUmZKRW8wU2Z4YlB6ejI2Vm1ObnEzZGo2b3hfM1NVLW54dm1LOVllandjQ2hOWHpFVlpBWldWNm5wNHpLZlBBb1hUYi04TzBvWGFDYWRrc3oxeW1EZF96U0dUTDZQeXBnWjFMbzBnLWllVWZJUHdNLVdtQW9RZE1aOExkdlgyRG0yZjZfQXlTWnNrUWFMNkE)).
-- **Reserve Bank of New Zealand** — New Zealand’s central bank governor says there is a "high" chance of an interest rate increase when policymakers next meet in December ([BBG](https://www.bloomberg.com/news/articles/2026-10-29/rbnz-governor-sees-high-chance-of-december-interest-rate-hike)).
+### 📊 Economic Indicators
+- JPMorgan Asset sees yuan gaining `10%` as global push deepens ([BBG](https://www.bloomberg.com/news/articles/2026-10-29/jpmorgan-asset-sees-yuan-gaining-10-as-global-push-deepens)).
+- Consumer inflation in Tokyo remained well above the Bank of Japan’s `2%` target, underscoring persistent price pressures just hours before the central bank’s board is expected to hold its policy settings steady ([BBG](https://www.bloomberg.com/news/articles/2026-10-29/tokyo-inflation-exceeds-boj-s-2-target-ahead-of-rate-decision)).
+- China’s BYD, Geely report profit jump as sales abroad surge, though local market stalls ([SCMP](https://www.scmp.com/business/china-evs/article/3372611/chinas-byd-geely-report-profit-jump-sales-abroad-surge-though-local-market-stalls)).
+- Toyota monthly sales fall as China slump enters eighth month ([BT](https://news.google.com/rss/articles/CBMipwFBVV95cUxOQlpGUEdmZ21iby1uVmpNeHJJeVFjWGhMWlBzcl9kcEVHMWNPVjkzTXpwRk8zcFVyRnlDQVhhSEJXWHBRZHdXQUF6cnpKSEdmMHBoY1UxODBESTN3T19KNnk3ODd4cndkalpNN29SWW5lRzlQZWFJcjVrWUNEc0tIQ1B2VDhjcWF6UjZlLUZrc1pFSmQyY2NVQmIzcjBuaHc3blY1NXhvUQ)).
 
 ### 🌐 Geopolitics & Policy
-
-- North Korea fires around 10 ballistic missiles toward sea off east coast, Seoul says ([Reuters](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNnZ5bUJlNUMySGJ0bkRrSWk0b0RFeXVlLVZEU1FJbHBQUTNESXZyWkdtdm5hOFY3T1UzaTNmWGJXNkNIcDJrUGR2MUd0djRRUTJ3WHcyS1VncEt4VnpELUhvdk9ZVlNod0I2djAyVHUzeDZQd004bHNkZTNKQWdsVk9udEE4SWFuemZFS1liUnNYNnY4MFdVX1B4UlJDNVNrYlJEZmk4cHdEVWw0LUtnNkd0bmw3a1JOQUtGU0pRcUtVTlN2dlZEdUNnWXN3UUdm)).
-- Taiwan flags 'obvious' threat from 50 Chinese vessels in wide sweep of waters ([Reuters](https://news.google.com/rss/articles/CBMisgFBVV95cUxNelRKZ21DWjJBX09xRTJyZnBicWsyLWJTQk1CcmVoVFJYLXBIcWt6LWpwdDRyeGhzbFpNaUFmV0ZhM0NuWmNVRXpKd2s2QnY3bTdwTUFJSFBoUEVUNjlWbThFLXpxN0dkRklMYy1JQVZhWW5abUNtQlZYc21la2htWWVzUWVBMjhTMHc5OF80V3EzLWVPQmFhZnFyOExtWEVfeFhsMnVOYzdfakc1NHdIMjN3)).
-- Lieutenant General Brett Sylvia was removed as head of strategy, plans and policy on the Joint Chiefs of Staff ([CNBC](https://www.cnbc.com/2026/10/29/us-iran-war-trump-hormuz.html)).
-- Russia and US discussing sanctions relief for Moscow’s sovereign wealth fund, Kremlin aide says ([CNN](https://news.google.com/rss/articles/CBMiigFBVV95cUxNX3RtTjdiTklWeVlfbTUwdFowWHJBZzl4dG43UEd3c0RVLUpNYk05RG41SlNtUVdMNFR3bHg4MTlNS3BEeDdiSXVuZnNwcUZ2RGFFYWxFYXFFLTBDUE5rbkthaldwMVotX21WWk45YWhZQ3ZSTHY0ZFpvcWxueTBqcThxWlBDZHBFaGc)).
+- Germany, South Korea deepen security partnership amid Russia-North Korea concerns ([Reuters](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOd1RoZjFhNXBDeHVTOHhPdWhOWHFOZGFzOVNzemRNYTRZd1V1MnoybGs1WUlzLWpXY09XRjRHMVI4QmRXRDRENnRHdU9BcF81S0pnQ09idHNUOTZkNnppSXpVS3ZqRHQ5TGNMQVUyWktCVVBXRnlOSWp1N05KRnpHV1g1TTN1bjBIWjFYdGRrWVBoQU05VUh4d1VYYUg5a3NqclI3ZVJGeWo5OGpYUV9TblItSU9BQUJJOTVZalhFUHhGZTFxNE9jS2NlaTBMZl9peHhOcHZIR3I3RHc)).
+- China slams EU’s potential new trade safeguards, says they may violate WTO rules ([SCMP](https://www.scmp.com/economy/china-economy/article/3372612/china-slams-eus-potential-new-trade-safeguards-says-they-may-violate-wto-rules)).
+- Trump Administration Promised Tariff Relief in Talks to Secure U.S. Audi Factory ([WSJ](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeUpKcVNybjJHYmNxUVRITlRaVW9qQVdrQjI4MFZvTkJ6bU8tSVNKQzNIWG54bXVMWGl2QzhMX3VpUVdWRERaYlhhNENWcW0yNUJKdWFFVzduQ0pzamh6aWJhQlJDem9JWm1EUUxLQzBjVjBMVTg4MFNHOElhaUptVno3d3dLUUhmMmRKSmMzOVExM0NBaG5yQnZXUlpLQjg4YlpnNTc1bmd5M3BYcmx4MUJpbndqZ2JfMG5MRDZqLWE)).
 
 ### 🛢️ Commodities
+- Rio Tinto Group has suspended underground operations at its massive Oyu Tolgoi copper mine in Mongolia ([BBG](https://www.bloomberg.com/news/articles/2026-10-29/rio-tinto-s-oyu-tolgoi-mine-suspended-underground-operations)).
+- Gulf Oil Giants Work to Expand Overseas Storage As War Exposes Supply Risks ([WSJ](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOFEwQVVzNnVCYUtFWXo0ZktYajNCb2x1bEhySmZPeGZYTGxzWlo2WmY1Z0xSQTNseHh4UmlLcUdXMVZfWnE0bnprNEJ0UUFWdXBqTlNLSmdFQXFmcXdRSC1BUTczbXZmYWJWT2IycnQxY2hkdkdqdXJzVUhjNzZrMjlFMDYydkJXYVR5c0xWc0NKdTQ5TDR0MllSWUJGb21hRUs3S2ZHZmRid2o2V2lKQW42VmpCMW1ZdGpQUlhyMWJCZw)).
+- Gold steadies near `$4,000` as inflation keeps rate-hike bets firm ([BBG](https://www.bloomberg.com/news/articles/2026-10-29/gold-steadies-near-4-000-as-inflation-keeps-rate-hike-bets-firm)).
+- Russia to extend diesel export ban, use quotas to fulfil US deal, sources say ([Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ01aWkZiWm9NUjBpUUZNSV90SzRVbEN4TmM5MU1yV3U5ME9mTV9JM2xISVJvZmlxVmI5ZzV5Q1dic2hteWRoeTgwalJXRGNfQjNzV2pxcUUzRGFkTG1SZFkwd2luRW1zanZuOFNvNjF6Ym5fVk15QUFpWWNnbjZwU2R4bmtzVXMxN3VQU0dRT1NKdTg4N3JNU0FvZ1ZjZm9sTHJtdUdBMFdnY2JIOUlpZmt1Mm9mVmJwNS12SVBB)).
 
-- Shell, TotalEnergies and Repsol report surge in third-quarter earnings as refining margins soar ([FT](https://www.ft.com/content/5ded8d57-46f5-406c-a4ce-e58415b8d4ad)).
-- Tariff threats from the US may have driven up the price but the industry has shifted spending on the basis of long-term demand ([FT](https://www.ft.com/content/6b5b96f5-0d2a-4161-911f-71dda46ccb9d)).
-- The EPA projects Trump’s methane rollback would only lower 2027 U.S. crude prices `11 cents a barrel`, while lifting domestic oil output `0.09%` ([CNBC](https://www.cnbc.com/2026/10/29/trump-methane-rollback-oil-prices-epa.html)).
+### 📈 Equities
+- European oil majors lift buybacks as Iran war drives bumper profits ([FT](https://www.ft.com/content/5ded8d57-46f5-406c-a4ce-e58415b8d4ad)).
 
 ---
 
@@ -86,86 +102,107 @@ Top European economic and finance officials are set to visit Beijing as they see
 
 | Time (HKT) | Rgn | Event | Est. | Prior |
 |---|---|---|---|---|
-| Oct 29 05:30 PM | GB | BoE Consumer Credit | £2.2B | £2.683B |
-| Oct 29 05:30 PM | GB | Mortgage Approvals | 54K | 54.81K |
-| Oct 29 05:30 PM | GB | Mortgage Lending | £4.2B | £4.17B |
-| Oct 29 05:30 PM | GB | M4 Money Supply MoM | 0.3% | 0.4% |
-| Oct 29 05:30 PM | GB | Net Lending to Individuals MoM | £6.2B | £6.874B |
-| Oct 29 06:00 PM | GB | Treasury Gilt 2031 Auction | - | 4.842% |
-| Oct 29 06:10 PM | IT | 10-Year BTP Auction | - | 4.58% |
-| Oct 29 06:10 PM | IT | 5-Year BTP Auction | - | 4.08% |
-| Oct 29 06:10 PM | IT | 7-Year BTP Auction | - | 4.24% |
-| Oct 29 07:00 PM | IT | Business Confidence | 92 | 91.9 |
-| Oct 29 07:00 PM | IT | Consumer Confidence | 90.9 | 91.2 |
-| Oct 29 07:00 PM | ES | Business Confidence | - | -1.6 |
-| Oct 29 08:30 PM | US | Core PCE Price Index MoM | 0.3% | 0.2% |
-| Oct 29 08:30 PM | US | GDP Growth Rate QoQ Adv | 3.2% | 2.2% |
-| Oct 29 08:30 PM | US | Personal Income MoM | 0.3% | 0.2% |
-| Oct 29 08:30 PM | US | Personal Spending MoM | 0.6% | 0.9% |
-| Oct 29 08:30 PM | US | Initial Jobless Claims | 199K | 194K |
-| Oct 29 08:30 PM | US | PCE Price Index MoM | 0.5% | 0.3% |
-| Oct 29 08:30 PM | US | PCE Price Index YoY | 3.6% | 3.4% |
-| Oct 29 08:30 PM | US | Continuing Jobless Claims | 1720K | 1728K |
-| Oct 29 08:30 PM | US | Core PCE Price Index YoY | 3.1% | 3% |
-| Oct 29 08:30 PM | US | Core PCE Prices QoQ Adv | 2.4% | 3.3% |
-| Oct 29 08:30 PM | US | GDP Sales QoQ Adv | - | 2.8% |
-| Oct 29 08:30 PM | US | Jobless Claims 4-week Average | - | 197.75K |
-| Oct 29 08:30 PM | US | PCE Prices QoQ Adv | 3.4% | 5% |
-| Oct 29 08:30 PM | US | Real Consumer Spending QoQ Adv | - | 3.8% |
-| Oct 29 08:30 PM | US | Real Personal Spending MoM | - | 0.6% |
-| Oct 29 09:15 PM | EA | Deposit Facility Rate | 2.5% | 2.5% |
-| Oct 29 09:15 PM | EA | ECB Interest Rate Decision | 2.65% | 2.65% |
-| Oct 29 09:15 PM | EA | ECB Monetary Policy Statement | - | - |
-| Oct 29 10:30 PM | US | EIA Natural Gas Stocks Change | 75Bcf | 77Bcf |
-| Oct 29 11:30 PM | US | 4-Week Bill Auction | - | 3.945% |
-| Oct 29 11:30 PM | US | 8-Week Bill Auction | - | 4.015% |
-| Oct 30 12:00 AM | US | 15-Year Mortgage Rate | - | 6.68% |
-| Oct 30 12:00 AM | US | 30-Year Mortgage Rate | - | 7.32% |
-| Oct 30 01:00 AM | US | 7-Year Note Auction | - | 5.085% |
-| Oct 30 04:30 AM | US | Fed Balance Sheet | - | $6.754T |
-| Oct 30 04:30 AM | US | Reserve Balances with Fed Banks | - | $2.969T |
-| Oct 30 07:00 AM | KR | Industrial Production MoM | - | -4.8% |
-| Oct 30 07:00 AM | KR | Industrial Production YoY | - | -2.2% |
+| 08:30 AM | AU | PPI QoQ | 1% | 1.3% |
+| 08:30 AM | AU | Housing Credit MoM | — | 0.4% |
+| 08:30 AM | AU | PPI YoY | — | 3.6% |
+| 08:30 AM | AU | Private Sector Credit MoM | 0.5% | 0.6% |
+| 08:30 AM | AU | Private Sector Credit YoY | — | 8.4% |
+| 10:00 AM | SG | Bank Lending | — | S$966.4B |
+| 10:00 AM | SG | Unemployment Rate Prel | — | 1.9% |
+| 11:00 AM | JP | BoJ Interest Rate Decision | 1.25% | 1.25% |
+| 11:00 AM | JP | BoJ Monetary Policy Statement | — | — |
+| 11:00 AM | JP | BoJ Quarterly Outlook Report | — | — |
+| 01:00 PM | JP | Housing Starts YoY | 2.9% | 6.1% |
+| 01:00 PM | JP | Construction Orders YoY | — | -3.6% |
+| 01:00 PM | SG | Business Confidence | — | 12.00 |
+| 02:30 PM | FR | GDP Growth Rate QoQ Prel | 0.1% | 0% |
+| 02:30 PM | FR | GDP Growth Rate YoY Prel | 0.3% | 0.5% |
+| 02:30 PM | FR | Household Consumption MoM | 0.2% | -0.5% |
+| 03:00 PM | DE | Import Prices MoM | 1.8% | 1% |
+| 03:00 PM | DE | Import Prices YoY | 10.3% | 8.3% |
+| 03:00 PM | GB | Nationwide Housing Prices MoM | -0.1% | -0.2% |
+| 03:00 PM | GB | Nationwide Housing Prices YoY | 0.6% | 0.8% |
+| 03:45 PM | FR | Inflation Rate YoY Prel | 3.2% | 3.1% |
+| 03:45 PM | FR | Inflation Rate MoM Prel | 0.2% | -0.3% |
+| 03:45 PM | FR | Harmonised Inflation Rate MoM Prel | 0.3% | -0.3% |
+| 03:45 PM | FR | Harmonised Inflation Rate YoY Prel | 3.6% | 3.4% |
+| 03:45 PM | FR | PPI MoM | — | 1% |
+| 03:45 PM | FR | PPI YoY | — | 4.8% |
+| 03:45 PM | FR | Private Non Farm Payrolls QoQ Prel | -0.1% | -0.1% |
+| 04:00 PM | ES | GDP Growth Rate QoQ Flash | 0.6% | 0.7% |
+| 04:00 PM | ES | GDP Growth Rate YoY Flash | 2.7% | 2.6% |
+| 04:00 PM | ES | Inflation Rate MoM Prel | 0.6% | 0.3% |
+| 04:00 PM | ES | Inflation Rate YoY Prel | 4.9% | 4.9% |
+| 04:00 PM | ES | Core Inflation Rate YoY Prel | — | 3.1% |
+| 04:00 PM | ES | Harmonised Inflation Rate MoM Prel | 0.5% | 0.6% |
+| 04:00 PM | ES | Harmonised Inflation Rate YoY Prel | 4.9% | 5% |
+| 04:55 PM | DE | Unemployed Persons | — | 3.012M |
+| 04:55 PM | DE | Unemployment Change | 5K | 12K |
+| 04:55 PM | DE | Unemployment Rate | 6.4% | 6.4% |
+| 05:00 PM | DE | GDP Growth Rate QoQ Flash | 0.1% | 0.3% |
+| 05:00 PM | DE | GDP Growth Rate YoY Flash | 1.1% | 1% |
+| 05:00 PM | DE | Baden Wuerttemberg CPI YoY | — | 2.9% |
 
 ---
 
 ## 📚 Full Reading List
 
 - **BBG**
-  - [ECB Set to Hold Rates to Assess France and Energy Risks](https://www.bloomberg.com/news/articles/2026-10-29/ecb-set-to-hold-rates-to-assess-france-and-energy-risks)
-  - [RBNZ Governor Sees ‘High’ Chance of December Interest-Rate Hike](https://www.bloomberg.com/news/articles/2026-10-29/rbnz-governor-sees-high-chance-of-december-interest-rate-hike)
+  - [Christine Lagarde to Leave ECB Early, Igniting Race to Replace Her](https://www.bloomberg.com/news/articles/2026-10-29/lagarde-will-step-down-as-ecb-president-in-february)
+  - [JPMorgan Asset Sees Yuan Gaining 10% as Global Push Deepens](https://www.bloomberg.com/news/articles/2026-10-29/jpmorgan-asset-sees-yuan-gaining-10-as-global-push-deepens)
+  - [Latest Oil Market News and Analysis for Oct. 30](https://www.bloomberg.com/news/articles/2026-10-29/latest-oil-market-news-and-analysis-for-oct-30)
+  - [Gold Steadies Near $4,000 as Inflation Keeps Rate-Hike Bets Firm](https://www.bloomberg.com/news/articles/2026-10-29/gold-steadies-near-4-000-as-inflation-keeps-rate-hike-bets-firm)
+  - [Nasdaq Futures Fall as Tech Struggles on Earnings: Markets Wrap](https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates)
+  - [Rio Tinto Halts Underground Operations at Major Copper Mine](https://www.bloomberg.com/news/articles/2026-10-29/rio-tinto-s-oyu-tolgoi-mine-suspended-underground-operations)
+  - [Tokyo Inflation Exceeds BOJ’s 2% Target Before Rate Decision](https://www.bloomberg.com/news/articles/2026-10-29/tokyo-inflation-exceeds-boj-s-2-target-ahead-of-rate-decision)
 
 - **Reuters**
-  - [South Korea says considering deployment options to Strait of Hormuz, including aircraft](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOa0hrZWR2U1dyeG1NekMtUlJORFZ6M1dHUWNDbDFFWTU0bldwU3RwM0hEVGVDVExpeV9rLUtNOFMxdTVWX0pOa2d2Z2ZwZTBRM0pNSU5Md0RSWW82Zmkzb0JzemVjSUlQRTdDMExKZHpvbnRSaTItSVZ5VnBBcVVHSzg1eklqSnAtZF9DRm5UMFhibDJGMHQ4eGZXWGY0RllZMDdHZHhVb2h1WjJORzBEaGhBYk81ZGp1V3BxMWhETDNFQnptQllBS0cyMXY4ZkQz)
-  - [Oil prices fall as peace hopes offset fears of growing Middle East conflict](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdy1kTGwzTi1ZWVpiLUFTbF9HS0VGbXFnVWhMVzBfOUhieU95OGhLZnpZLTB3ckdrOEFMZms2UU1qYUMyY01yd3VOQmNhNGU4MmZvNE1uUzdqcXc0OWxLYlRRSk5NaU85cUdZYTd0a1d0QU93S0JfaTNMdlpVa3pMeVBUZnFtd0ZMVXhMWGhHejZOVjQtZlN2ekVsaTdWU2hCVE8xaTlpamEzXzQ)
-  - [North Korea fires around 10 ballistic missiles toward sea off east coast, Seoul says](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNnZ5bUJlNUMySGJ0bkRrSWk0b0RFeXVlLVZEU1FJbHBQUTNESXZyWkdtdm5hOFY3T1UzaTNmWGJXNkNIcDJrUGR2MUd0djRRUTJ3WHcyS1VncEt4VnpELUhvdk9ZVlNod0I2djAyVHUzeDZQd004bHNkZTNKQWdsVk9udEE4SWFuemZFS1liUnNYNnY4MFdVX1B4UlJDNVNrYlJEZmk4cHdEVWw0LUtnNkd0bmw3a1JOQUtGU0pRcUtVTlN2dlZEdUNnWXN3UUdm)
-  - [EXCLUSIVE: Bank of Korea board member says won moves faster than expected](https://news.google.com/rss/articles/CBMitAFBVV95cUxONzlXbXM0MExkRTJ3QlRCNkQ5MzJHT2lZb01GSVhLcVdBMUJaSmt0dl96YWhxTzdTc000YWxEbk80NXJYR0lhOWFCal92MG5fY25qNzZ0c1pSU1Z6VzM4dk1RM09JVmFMckYwc3huMXV5MGVFWDF0SE95T1dfc3BMTTZzamNzX0RYbFFOX1ZjSXhHTTB3aGx1MThGQ2F2YTBsSVRGMTBqcU5KamRWV19mYTRhQWk)
-  - [Asian shares wobble as Alphabet earnings miss drags Wall St futures lower](https://news.google.com/rss/articles/CBMigwFBVV95cUxNbTZuQXNrYUZEUEdVMGdDOEljdHJ1bW0zeHR6Yl9nYXp5dWd0cXU2WGk2QXVITW5xOVhlOUNVYm83QzFaRDZXcFdaZDZXa2xUd2otaXRjcmhmaWZ2aF8zVC03WFc5RkliNkhLZjk1MzhqUHBGZ3NmdmRKbF9CSklOUzhBQQ)
-  - [Taiwan flags 'obvious' threat from 50 Chinese vessels in wide sweep of waters](https://news.google.com/rss/articles/CBMisgFBVV95cUxNelRKZ21DWjJBX09xRTJyZnBicWsyLWJTQk1CcmVoVFJYLXBIcWt6LWpwdDRyeGhzbFpNaUFmV0ZhM0NuWmNVRXpKd2s2QnY3bTdwTUFJSFBoUEVUNjlWbThFLXpxN0dkRklMYy1JQVZhWW5abUNtQlZYc21la2htWWVzUWVBMjhTMHc5OF80V3EzLWVPQmFhZnFyOExtWEVfeFhsMnVOYzdfakc1NHdIMjN3)
+  - [ECB flags December hike but sees yield rise hitting growth](https://news.google.com/rss/articles/CBMiowFBVV95cUxQWVJheVZacGhZZXFXZGZ5RU91NEt6eTlObWpmUnBvMFZKVmlVZ2xFVThBNkVrN1hxaTViSllZa0I0TzVMSW5Ub19vWk5ZcFBJZkdnX0lZNGtLZHpFVDF0N2didHE5MER6NjhpdnNyYmJGSVY4azhKTmE1V3pzY2MyOFZRTWtPUWNUS2FMT18zNGRXRlZpQkRUdFVVNDE1VEVGWUg4)
+  - [US inflation heats up in September; consumer spending rises](https://news.google.com/rss/articles/CBMiogFBVV95cUxNamNwQk5mVXlad05tREVFeXVRU29iOGZLMHJLQ3dhQURxb2s2OXNfYzhjQ2tmakJEUFpJcU9FUlZrZmY1czdGVXpsYzVaY21EaVR3R2NDM3pfeEpXYVpRQmZOSXphSXdSMDlyM0plUnlvVnJCdkVhd2Q2dlhOTjUwQm42TE1uYVpsUEJEX1V0WHJ1cVZXajFSNm9zcHlGTUprQWc)
+  - [Vance outreach to Iran related to medical supplies, says Trump](https://news.google.com/rss/articles/CBMirgFBVV95cUxPQm9INjQwOFV2OFBtTHNrV0F6RnF1Z0NmMHJyT1lJMVJBNm4xNm10VzYtdGF3Zl93aUVxNklqNnpld3VXbHFfRTRZWW9MekFMeXJqcHdWc2pJV2xtYXBiRWE3YmFEbGZIa1dGUVRMbVktYXp5Z3dsenJjZFNORjlJaUdGYjVZQ0E0UEt2VFJVUFBxb1NTMjJTRENRSjN5OTFRaXNpLVFKc1ZGR2xzekE)
+  - [QatarEnergy buys US, other LNG to hedge future Hormuz disruptions](https://news.google.com/rss/articles/CBMiswFBVV95cUxQT19OLUYzbVNkOXdLUFJnQWJpOHRJaDQ0Y3FyVWs5M1IyLTFIZmRsazhqakFvMlFPNnFTeEM1T0VTTnlHTjJyMjFsblVzMlduWlRNeFI0VjlZVXRwNUZGUTVFeWdTY0tLRzlaRWFKam9uU2lRREVFS0lTLXpQME9jR25LRjF5Z0lnZ2lqbV9ybjZfRlZldDRYXzB6UElVU08zVFduMzhCYjFTb25hWTBtNTA4dw)
+  - [Russia to extend diesel export ban, use quotas to fulfil US deal, sources say](https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ01aWkZiWm9NUjBpUUZNSV90SzRVbEN4TmM5MU1yV3U5ME9mTV9JM2xISVJvZmlxVmI5ZzV5Q1dic2hteWRoeTgwalJXRGNfQjNzV2pxcUUzRGFkTG1SZFkwd2luRW1zanZuOFNvNjF6Ym5fVk15QUFpWWNnbjZwU2R4bmtzVXMxN3VQU0dRT1NKdTg4N3JNU0FvZ1ZjZm9sTHJtdUdBMFdnY2JIOUlpZmt1Mm9mVmJwNS12SVBB)
+  - [Germany, South Korea deepen security partnership amid Russia-North Korea concerns](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOd1RoZjFhNXBDeHVTOHhPdWhOWHFOZGFzOVNzemRNYTRZd1V1MnoybGs1WUlzLWpXY09XRjRHMVI4QmRXRDRENnRHdU9BcF81S0pnQ09idHNUOTZkNnppSXpVS3ZqRHQ5TGNMQVUyWktCVVBXRnlOSWp1N05KRnpHV1g1TTN1bjBIWjFYdGRrWVBoQU05VUh4d1VYYUg5a3NqclI3ZVJGeWo5OGpYUV9TblItSU9BQUJJOTVZalhFUHhGZTFxNE9jS2NlaTBMZl9peHhOcHZIR3I3RHc)
 
 - **WSJ**
-  - [Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy](https://news.google.com/rss/articles/CBMiogFBVV95cUxNTW53UkVQVFpVMFB6SjNNeTdCWjNiSUxKZGJVVGVHQkJRZTA2UFljc3ZMc1ZqeVdtMzNPa1BtTkw5T21VMGp5bmVxOUF4QVQ4QWxWNERFbnJicUtuUXo2QWIyVkRCUzVFaHoycEpFVFVjcWRPWGdyQ2xyWHc2V1F3YVVsTk9JQ2pfV2VFLVFKT1lyRHRsM2NhaXlHUWNlSzJTV0E)
+  - [U.S. Treasury, European Bond Yields Fall After Fed, ECB Hold](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMVJzTU8waHdld3FnbVROOGw4ZEtGS2g3UHpKYVFXTXhzdW9DeW8xYmJrY1RmWGFvNUlqWThQR2FWaTRuaklmYWlhbTNQV0lfa3BNNmFjSHBUaTk0NDVNSHRFLUg5MFFhTFZZMWZrTHh5ZHpYVnVzMlpNZ2hqaEM3LVJuOUhrUV9kc3NGRHpfdFNkUEhTX2oyTzVRMUhvS1dyNkF1UVV4eEtFM3VXTXJvUG9Lc3dnRjRDc190d0Vzem5ZNmxfNktGcUl3)
+  - [Christine Lagarde to Resign Early as ECB President](https://news.google.com/rss/articles/CBMilwFBVV95cUxPXzdxQXdBY2xpYmxjbER5SnUxc2ZHM1JCZlJLYmJkaTJjbjNTLV9vZWEzblBWN0EzUWdvTzItY1NfSzFVV3VWMHNObHViNFl1S1NGSFJnaEF5cmlQMUR3dENYaTk4SGt5TkE4akxwV1pGZE0tN0F3NG56WjVib1BrcW91NHBGVHhHWUMwWThPYzl1US1rdEVB)
+  - [Alphabet Sheds Half a Trillion in Market Value in Stock’s Worst Day Ever](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdGV1bXVNOXFOR1NrQndfTDlkLTlxemh6b0JkY0l0LWhZUTJIUWVadTdDOXl2aG1WZ1JVT0l2TzE4OURJMFhKSlctVmptS2UwZmpzajRHT19BaEF1dzNaWjRVcjh3YnY1MV93dkt3V2dTZXNFdEpHTHJ2T3FzSHowekRBclY0eWw2bWRrZHhnajNyNlFncy10TmdTSHBBYkMtUk1KaV8tMXc0bG8x)
+  - [Intel Shares Plunge More Than 20% on Weak PC-Market Outlook](https://news.google.com/rss/articles/CBMinAFBVV95cUxNbEJ5MFFEaHVhdTZRSm51TUNpSVQ5MEZOVE9SQTEya011RkNRQ25aUmlQeDhFV3JIQ2YyUk1hRll0aGxXOTRNRHBSZUprNzhjMU9ueGliTTJRMkNRU0VITmdva1JmMDduczdYTmpUR1dSTmtNNXZrVHdhSnViYkZPQUlfbWo5Y1l6bTJhaEM0bUJGYjVpbzBjX2tHNWo)
+  - [PCE Inflation Accelerated Last Month](https://news.google.com/rss/articles/CBMikwFBVV95cUxNN05udWJhTkF2akFvSEhxbUF0TXpBZ25iVWZKMEsxVmhxelQ5X3BZVUFTZE9OMXdsUUc0empSRjBzOEVfalFrbXJiY0ptcDZtREJUamZJb2thX2hLaEhnVzdVUFVLR3pzOU53cVJoQ3ROMFByeXNUcTB6T3RjVnNDU215WlNqQjJWM1NTbmVfbmdZVVE)
+  - [U.S. Economy Accelerated This Summer Despite High Gas Prices](https://news.google.com/rss/articles/CBMiakFVX3lxTFBqZFZmSEdkY01hT3RMQm9xUDZLbWRvanI3M3EwVUFVVzRiZVB6ZGVEdExtWmhzQ2lFd2xER2RtSUU5NE14dWNyVVBxdnNNdnRnM3Rtd1hCTGFERFVnV3VZY3d3Tlo0dzIwSUE)
+  - [Oil Prices Ease as U.S. Seeks to Renew Diplomacy With Iran](https://news.google.com/rss/articles/CBMiogFBVV95cUxNTW53UkVQVFpVMFB6SjNNeTdCWjNiSUxKZGJVVGVHQkJRZTA2UFljc3ZMc1ZqeVdtMzNPa1BtTkw5T21VMGp5bmVxOUF4QVQ4QWxWNERFbnJicUtuUXo2QWIyVkRCUzVFaHoycEpFVFVjcWRPWGdyQ2xyWHc2V1F3YVVsTk9JQ2pfV2VFLVFKT1lyRHRsM2NhaXlHUWNlSzJTV0E)
+  - [Top Military Admiral Briefs Trump on Iran Options](https://news.google.com/rss/articles/CBMipgFBVV95cUxOeXlDRTRqNXluY3ZWOXVwdmY2ck13Z0ttaTdMaVhreFZYdXhpbDJsNlNBcUM2TFo5OFVNSW5sal8xNkVvY3pjT2xOSXFLb0xpaXdvMGdpRzB4UEZlaFZfT0ZKY0FmeFh1TjM2djRzWXVrV3B1Ym9oRjEwbHAtQWd1VnhnRG5tMmswUUJOU3hES1J1ZTdzWHNNZi1ld1VHXzZNeVM3YlBR)
+  - [Federal Debt Hits 100% of GDP](https://news.google.com/rss/articles/CBMic0FVX3lxTE5DV1RvZTQwdmNyaVBrQW00ZjBxTTJmYnItRGQwNkh4RHgxQTJlbXJOOWNjZFl0SmkyNkgzTGtjQXFwZGpkVXZQanRyZTl1TWgwSlhWTlZ4dV9Ndk5Ec1VvZmVNTUVqdzFvMEFJRlE2SXFtZlk)
+  - [Gulf Oil Giants Work to Expand Overseas Storage As War Exposes Supply Risks](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOFEwQVVzNnVCYUtFWXo0ZktYajNCb2x1bEhySmZPeGZYTGxzWlo2WmY1Z0xSQTNseHh4UmlLcUdXMVZfWnE0bnprNEJ0UUFWdXBqTlNLSmdFQXFmcXdRSC1BUTczbXZmYWJWT2IycnQxY2hkdkdqdXJzVUhjNzZrMjlFMDYydkJXYVR5c0xWc0NKdTQ5TDR0MllSWUJGb21hRUs3S2ZHZmRid2o2V2lKQW42VmpCMW1ZdGpQUlhyMWJCZw)
+  - [Trump Administration Promised Tariff Relief in Talks to Secure U.S. Audi Factory](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeUpKcVNybjJHYmNxUVRITlRaVW9qQVdrQjI4MFZvTkJ6bU8tSVNKQzNIWG54bXVMWGl2QzhMX3VpUVdWRERaYlhhNENWcW0yNUJKdWFFVzduQ0pzamh6aWJhQlJDem9JWm1EUUxLQzBjVjBMVTg4MFNHOElhaUptVno3d3dLUUhmMmRKSmMzOVExM0NBaG5yQnZXUlpLQjg4YlpnNTc1bmd5M3BYcmx4MUJpbndqZ2JfMG5MRDZqLWE)
 
 - **FT**
-  - [US tech stocks set to fall after earnings fuel AI spending concerns](https://www.ft.com/content/1639620b-99e7-47ed-8484-49646816489e)
+  - [Christine Lagarde to step down as ECB president in February](http://www.ft.com/content/b9294b91-0eee-413b-bdde-0569f48539b9)
+  - [Strong US inflation and growth will keep Fed on a tightening path](https://www.ft.com/content/2afe7f73-4717-4e26-8257-317f637738b4)
+  - [US tech stocks fall after earnings fuel AI spending concerns](https://www.ft.com/content/1639620b-99e7-47ed-8484-49646816489e)
   - [European oil majors lift buybacks as Iran war drives bumper profits](https://www.ft.com/content/5ded8d57-46f5-406c-a4ce-e58415b8d4ad)
-  - [Copper’s AI-fuelled boom gets a reality check](https://www.ft.com/content/6b5b96f5-0d2a-4161-911f-71dda46ccb9d)
 
 - **CNBC**
-  - [Oil prices fall as renewed U.S.-Iran peace efforts ease supply fears](https://www.cnbc.com/2026/10/29/oil-price-today-wti-brent.html)
+  - [European Central Bank keeps key interest rate on hold at 2.5%](https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html)
+  - [Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates](https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html)
+  - [Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance](https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html)
   - [Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks](https://www.cnbc.com/2026/10/29/us-iran-war-trump-hormuz.html)
-  - [Trump methane policy rollback may have minimal impact on crude prices, EPA says](https://www.cnbc.com/2026/10/29/trump-methane-rollback-oil-prices-epa.html)
 
 - **SCMP**
-  - [EU officials to push yuan appreciation in Beijing visits](https://www.scmp.com/plus/news/china/diplomacy/article/3372579/eu-officials-push-yuan-appreciation-beijing-visits)
+  - [China’s BYD, Geely report profit jump as sales abroad surge, though local market stalls](https://www.scmp.com/business/china-evs/article/3372611/chinas-byd-geely-report-profit-jump-sales-abroad-surge-though-local-market-stalls)
+  - [China slams EU’s potential new trade safeguards, says they may violate WTO rules](https://www.scmp.com/economy/china-economy/article/3372612/china-slams-eus-potential-new-trade-safeguards-says-they-may-violate-wto-rules)
 
 - **CNN**
-  - [Russia and US discussing sanctions relief for Moscow’s sovereign wealth fund, Kremlin aide says](https://news.google.com/rss/articles/CBMiigFBVV95cUxNX3RtTjdiTklWeVlfbTUwdFowWHJBZzl4dG43UEd3c0RVLUpNYk05RG41SlNtUVdMNFR3bHg4MTlNS3BEeDdiSXVuZnNwcUZ2RGFFYWxFYXFFLTBDUE5rbkthaldwMVotX21WWk45YWhZQ3ZSTHY0ZFpvcWxueTBqcThxWlBDZHBFaGc)
+  - [Last snapshot of the US economy before midterms shows stronger growth but higher inflation](https://news.google.com/rss/articles/CBMidkFVX3lxTE9CcHgwbVpMWEZWTm5kOVlEdWVjaXU3c1VHVzNpaXRsdGVOYUkzMjlOamtjbXRIZUF0SEtCTF9SYnllaDRKMjBIelJGRm5JN1BwWXBKUzBKUHAxblpDSHZDaThBVVdvV0tnRUYyWkVaeEtELWF1UEE)
 
 - **CNA**
-  - [Hong Kong Monetary Authority leaves interest rates unchanged, tracking Fed move](https://news.google.com/rss/articles/CBMixgFBVV95cUxONzBwMXZScVVWb1BjdEFPUHVDT181MWQ5ZG94Y1RNZTZlM3h3SmI0U1JsZEZGa1dqUmZKRW8wU2Z4YlB6ejI2Vm1ObnEzZGo2b3hfM1NVLW54dm1LOVllandjQ2hOWHpFVlpBWldWNm5wNHpLZlBBb1hUYi04TzBvWGFDYWRrc3oxeW1EZF96U0dUTDZQeXBnWjFMbzBnLWllVWZJUHdNLVdtQW9RZE1aOExkdlgyRG0yZjZfQXlTWnNrUWFMNkE)
+  - [Euro edges up versus dollar after ECB holds rates](https://news.google.com/rss/articles/CBMinwFBVV95cUxQRW5pRWU2RHptRUNKSmxIYnlWekVvMEZHSF94clZ4OUtseVktbDcteUFORkQwWlVUWVJHRWRETkVDQ2dlTy1CMFk0elhVT3IxOTJLWE1TSkR3TWRVdHU4RmNyclhLdndMTGs3MExsVzJEMi1Qd3NTWEg5ZlN1QkRGWF85dm02eWVHUmh6enNoYXZBWmNoSV9mTXdqemJhOVE)
 
-- **WSJCN**
-  - [AI投资回报存疑，韩股下跌1.4%，三星跌超4%，油价下跌，金价走软](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CRXh4T2hMaGlyZEhJVFVFLVdGZWZYc2VmY1hOWXRoUkN6STliTFBkMUhNRXJ3TTlzcUdvVkpLOThwemRoM2IybWFwTWs5bGFSbHNR)
+- **ECB**
+  - [ECB President Lagarde to step down on 7 February 2027](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html)
+
+- **BT**
+  - [Toyota monthly sales fall as China slump enters eighth month](https://news.google.com/rss/articles/CBMipwFBVV95cUxOQlpGUEdmZ21iby1uVmpNeHJJeVFjWGhMWlBzcl9kcEVHMWNPVjkzTXpwRk8zcFVyRnlDQVhhSEJXWHBRZHdXQUF6cnpKSEdmMHBoY1UxODBESTN3T19KNnk3ODd4cndkalpNN29SWW5lRzlQZWFJcjVrWUNEc0tIQ1B2VDhjcWF6UjZlLUZrc1pFSmQyY2NVQmIzcjBuaHc3blY1NXhvUQ)
 
 ---
