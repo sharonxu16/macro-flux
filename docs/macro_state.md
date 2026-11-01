@@ -1,22 +1,22 @@
 # Macro State — Last updated: 2026-11-01
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Hormuz energy escalation with diplomacy restart** — Status: Acceleration; OPEC+ restraint and Russia’s diesel ban widen supply risk while talks try to restart; next trigger direct US-Iran talks or transit normalization.
-- **Fed hiking path** — Status: Confirmation; US jobs pickup keeps the two-hike path alive; next trigger payrolls or Fed speaker guidance.
-- **AI-led tech selloff** — Status: New; negative free cash flow at megacaps fuels broad equity and capex repricing; next trigger further earnings or capex guidance.
-- **Taiwan/Quad regional risk premium** — Status: New; coast guard patrols and supply-chain warnings add Asia FX risk; next trigger Quad leaders summit and Trump-Xi talks.
+- **Iran diplomacy/de-escalation** — Status: Reversal; US letter and Trump no-hurry reduce immediate strike risk while physical oil supply remains tight; next trigger Iran response to Vance letter or direct talks.
+- **China capital-market support tools** — Status: New; PBOC/CSRC symposium may expand policy support for equities and sentiment; next trigger Nov 2 symposium outcome.
+- **Taiwan Strait shipping harassment** — Status: Acceleration; coast-guard patrols now extend to commercial shipping, raising regional FX and insurance risk; next trigger any collision or rerouting.
+- **Germany/Europe gas storage shortfall** — Status: New; record-low storage forces spot-market reliance and lifts EU gas prices; next trigger EU response or spot gas moves.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- Hormuz transit normalization or further tanker/mine incidents.
-- Direct US-Iran negotiation outcome or formal ceasefire signal.
-- US payrolls release and Fed speaker confirmation of two-hike guidance.
-- Quad leaders summit and Trump-Xi meeting tone on supply chains.
-- Korea Nov 1 exports, trade balance, and imports.
+- Iran response to US letter and any direct US-Iran talks.
+- PBOC/CSRC symposium outcome and announced capital-market tools.
+- Taiwan east-coast commercial shipping incident or rerouting.
+- Germany gas storage/spot price reaction and any EU emergency measures.
+- South Korea chip exports sustainability and Taiwan chip-equity spillover.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will direct US-Iran talks reduce Brent risk premium or will OPEC+/Russia supply restraint dominate?
-- Will AI-negative free cash flow deepen risk-off across Asia tech and Asia FX?
-- Will Fed speakers maintain two-hike guidance if tech selloff intensifies?
+- Will US-Iran diplomacy lower Brent risk premium while OPEC+/Russia supply restraint dominates?
+- Will China capital-market support tools be substantive enough to lift CNH and China equities?
+- Will Taiwan shipping harassment escalate into broader trade/insurance disruption across Asia FX?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- **Hong Kong 2026 GDP forecast band `3.5` to `4.5` per cent** — possible upward revision as growth momentum holds ([SCMP](https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372830/hong-kong-may-raise-gdp-forecast-growth-poised-5-year-high-paul-chan))
+- None from today's feed.
