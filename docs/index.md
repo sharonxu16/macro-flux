@@ -1,75 +1,87 @@
 ---
 tags:
   - Macro/Hormuz_Blockade
-  - Macro/China_PMI
-  - Macro/PBOC_Easing
+  - Macro/Fed_Hike_Path
+  - Macro/Tech_Selloff
   - Asset/Brent
-  - Trade/Long_Brent
+  - Trade/Long_USD
 ---
 
 <div align="center">
 
 # 🌊 Macro Flux
 
-<small>Oct 31 8AM to Oct 31 5PM HKT</small>
+<small>Oct 31 5PM to Nov 1 8AM HKT</small>
 
-<small>Good afternoon.</small>
+<small>Good morning.</small>
 
 </div>
 
 ---
 
 > [!abstract] Overview
-> The afternoon’s dominant macro driver is escalation in the Strait of Hormuz, where Iran’s Revolutionary Guard says four tankers caught fire after striking mines, and oil settled at six-month highs. China’s NBS Manufacturing PMI fell to 49.3 in October, with both supply and demand shifting from expansion to contraction. The PBOC formalized its new policy rate benchmark below the old anchor, adding an easing layer to Asia’s policy mix. The cross-market thread is intensifying energy supply risk colliding with a fresh Chinese demand and policy easing impulse.
+> Middle East energy risk remains the dominant macro driver: Iran’s supreme leader warned the US and Israel against returning to war, Qatari mediators held talks in Tehran aimed at restarting direct US-Iran negotiations, OPEC+ agreed in principle to keep December output targets steady, and Russia extended its ban on most diesel exports through January. The physical supply picture is tightening further even as diplomacy attempts to restart, keeping crude risk premiums elevated. A sharp AI-led tech selloff is adding broad equity weakness after megacap earnings showed heavy AI investment hitting free cash flow, while the US jobs pickup keeps the Fed on track to hike rates again. Taiwan Strait friction is rising on China coast guard patrols and Quad ministers’ warnings on supply chains. The single cross-market thread is tightening energy supply plus restrictive Fed risk, which favors crude and the dollar and compresses risk appetite across equities and Asia FX.
 
 ---
 
 ## 🔬 Narrative Watch
 
-### 📌 Hormuz escalation: four tankers on fire after mines
+### 📌 Hormuz energy escalation, Iran diplomacy, OPEC+ supply restraint
 
 **Fact**
-Iran’s Revolutionary Guard says **four tankers have caught fire** in the Strait of Hormuz ([Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz)). Oil jumps `2%`, settles at 6-month highs on fears of escalation in Iran ([Business Times](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS2ZwWEhlSTJwNDJEMmN3UW54cmEtdzFXcVZLMDgwWjNITFQ2QkVCbWtKUk5XZGlwSE5QdTB1aGd1ZlM5bS15MU4wRm02Xzg5dndfMTZtdDBfLTJtWGRreENIVWhIeE5sRGt6aG5KOEpaN0RLODQ0RFVvU0g3ZW1WdFpmRi1ib1YtX0pEWV9mWDVCcFZjcXJ3eWhnY0dpVFM3eExkN3ZMOUZwQQ)).
+Iran’s supreme leader Mojtaba Khamenei on Saturday warned the United States and Israel against returning to war, according to a written statement, following threats from the Islamic republic’s foes of a possible resumption of strikes ([SCMP](https://www.scmp.com/news/world/middle-east/article/3372847/irans-supreme-leader-warns-us-israel-against-war)). Shipping Strikes In Hormuz Leave Both Sides With Economic Pain ([BBG](https://www.bloomberg.com/news/articles/2026-10-31/shipping-strikes-in-hormuz-leave-both-sides-with-economic-pain)). Qatari mediators held talks in Tehran aimed at restarting direct U.S.-Iran negotiations, source says ([CNBC](https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html)). OPEC+ agrees in principle to keep oil output targets steady in December, sources say ([Reuters](https://news.google.com/rss/articles/CBMitgFBVV95cUxOTk80ZVBzRVczc0hyRHU0RkJiTWx5ZDUwdnBHb0FWSmJyQWJzWHRYR0hZd0MzTW1INnFtSWRISVVRb1RncDltYW16eTYxRU9NcWJzanRqMmp4LWFXUVNTV2tzT3JCM0doS01hWDdGeUhNdHZ3WTdYXy14Q0luZTRmOWdQNlp2ZThtYlQ0cWhNSVk0c0ZkOUFyMExMUWRHMXRKamU2ZHRLa2pPMG9heUhzN2YwTnpCZw)). Russia Extends Ban on Most Diesel Exports Through January ([BBG](https://www.bloomberg.com/news/articles/2026-10-31/russia-extends-ban-on-most-diesel-exports-through-january)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Escalation from prior briefing’s single tanker to four tankers on fire after mines; energy war risk accelerates.
-> * **Transmission / Market Read**: Risk-premium and energy supply channel; favors **long Brent** and adds pressure to **short KRW** until transit clarifies.
-> * **Watchpoint / Confidence**: Whether more tankers reroute or official lanes clear; Confidence: High due official IRGC video and market price confirmation.
+> * **Narrative change**: Acceleration; OPEC+ restraint and Russia’s extended diesel ban broaden the supply shock beyond Hormuz while diplomacy remains untested.
+> * **Transmission / Market Read**: Inflation and risk-premium channels favor **long Brent**, **long USD/Asia FX**, and **short KRW** on energy import strain.
+> * **Watchpoint / Confidence**: Direct US-Iran talks resuming or Hormuz transit normalizing would de-escalate; Confidence: Medium due cross-source confirmation but no operational detail.
 
-### 📌 China manufacturing PMI falls into contraction
+### 📌 US jobs keep Fed on hike path
 
 **Fact**
-10月统计局制造业PMI降至49.3 供需均由扩张转为收缩 ([Caixin](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VTml4MXU3Ulo2bTBoeTFtelZickx6Y0RBZDRfeVMyS2dtdEkwX0F0VmktZ04xTHVIU0wzTHZOMC05UXJtS3dQbjh1SWdTWlRuOGx5NnJ5VUV5U3BPbWRua3Rn)). China’s factory activity slowed in October, underscoring the challenges facing policymakers as they seek to sustain an economic recovery to ensure this year’s growth target is met ([BBG](https://www.bloomberg.com/news/articles/2026-10-31/china-factory-activity-manufacturing-purchasing-managers-index-services)).
+US Jobs Pickup May Keep Fed on Track to Hike Rates Again ([BBG](https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: New data confirms prior watchpoint: NBS Manufacturing PMI printed `49.3`, shifting into contraction.
-> * **Transmission / Market Read**: Growth channel weakens; supports **long USD/CNH** and **short CNH**, but PBOC easing may cushion.
-> * **Watchpoint / Confidence**: Whether follow-up official or Caixin PMI stays below 50 and how PBOC liquidity responds; Confidence: High due Caixin and BBG alignment.
+> * **Narrative change**: Confirmation; employment momentum supports the prior two-hike Fed path in Macro State.
+> * **Transmission / Market Read**: Policy and financial-conditions channel favors **long USD** and **short duration** across developed rates.
+> * **Watchpoint / Confidence**: Next US payrolls release and Fed speaker guidance; Confidence: Medium because today’s feed gives only the headline.
 
-### 📌 PBOC policy rate benchmark switch formalized
+### 📌 AI-led tech selloff
 
 **Fact**
-China lifts secrecy on new key rate, sets it below old benchmark ([Business Times](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTS1kX21mSmhrWGJhUXZoR0x5QTl3NkVSY3c3QjQzNkhMc2p4WjNmM1FnLUpjeXBhYlRqTmU1ZWQyS1NoblRTZmFkeHNQd19BZDZiQnpjNm5fNHhtaVFRMVZUczlSYVJGb3lBNm1fYjk0QVBWVTA0ZmJnSDc5VGtTSWd4TU53R3RlX0U0UUVFbk5YU1BJdVFHU3JoTU0zdjZjaERqSnJQYjlZRFk)). 政策利率基准切换：焦点与市场启示 ([Caixin](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIOEZzaFF0MWJ3b1FrM2poRFRLd3R1SjhyeXFIcmRMd1FtV05WZjBHem5udFRWeG5RbHljQkMxazZseWlrZ0xWWkV3MXFBakJWRlpPdzd2bHJPcXdBbkJKVmRn)).
+AI Enthusiasm Is Collapsing and Tech Earnings Just Made It Worse ([BBG 1](https://www.bloomberg.com/news/articles/2026-10-31/ai-enthusiasm-is-collapsing-and-tech-earnings-just-made-it-worse)). Alphabet, Amazon, Meta Report Negative Free Cash Flow After Heavy AI Investment ([BBG 1](https://www.bloomberg.com/news/articles/2026-10-31/ai-enthusiasm-is-collapsing-and-tech-earnings-just-made-it-worse)). Final Countdown to Midterm Elections, Tech Stocks Tank ([BBG 2](https://www.bloomberg.com/news/videos/2026-10-31/bloomberg-this-weekend-10-31-2026-video)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Confirmation of prior PBOC shift to overnight rate anchor; now explicit new key rate below old benchmark.
-> * **Transmission / Market Read**: Policy and liquidity channel; easier Chinese money rates support **long China duration** and pressure **CNH carry**.
-> * **Watchpoint / Confidence**: Next fixed-rate OMO or LPR operation and whether market rates settle below old benchmark; Confidence: Medium due local sources without specific levels in feed.
+> * **Narrative change**: Acceleration; negative free cash flow at megacaps deepens the AI capex unwind and reprices broad equity risk.
+> * **Transmission / Market Read**: Risk-premium and liquidity channels favor **short US tech**, **long USD**, and pressure Asian tech exporters.
+> * **Watchpoint / Confidence**: Next megacap capex or earnings guidance confirms or stalls the unwind; Confidence: High due multiple source confirmations but no quantified free-cash-flow figures.
+
+### 📌 Taiwan Strait patrols and Quad supply-chain friction
+
+**Fact**
+China's coast guard conducts patrols east of Taiwan, CCTV reports ([Reuters](https://news.google.com/rss/articles/CBMirAFBVV95cUxNRkd6WXdmaWtsU1FOM05LUHZxS3NqOS0zY1UzMEFMSEdLNjdMWW1zemhFV2ZIUGpJUkp4b1c0c19PdGM1TjA0ckpHRmljcG13MGlYZnNUVHlZS1lkXzgxazE1MWxzcENENk5xcS1CY3NHU1NmQWI1RlRDdlljSWVuTWFuLUwxeWF5N3dZZGp3SVZrQ3RLbllCT3hIcENBM1BrNnhuQjVLVmtqRWdI)). Quad not ‘anti-China’, says Rubio as first summit in two years set before Trump-Xi talks ([SCMP 1](https://www.scmp.com/news/china/diplomacy/article/3372852/quad-diplomats-finalise-first-leaders-summit-two-years-trump-xi-meeting)). Without naming China, foreign ministers express ‘grave concerns’ about overcapacity disrupting global supply chains in critical industries ([SCMP 1](https://www.scmp.com/news/china/diplomacy/article/3372852/quad-diplomats-finalise-first-leaders-summit-two-years-trump-xi-meeting)). Is Beijing’s 2027 military milestone now a US readiness deadline over Taiwan? ([SCMP 2](https://www.scmp.com/news/china/military/article/3372829/beijings-2027-military-milestone-now-us-readiness-deadline-over-taiwan)).
+
+> [!info] [AI Reasoning]
+> * **Narrative change**: New; explicit patrols and supply-chain warnings add a regional risk premium not reflected in the prior Macro State.
+> * **Transmission / Market Read**: Capital-flow and risk-premium channels favor **short TWD**, **long USD/Asia FX** on regional tension.
+> * **Watchpoint / Confidence**: Quad leaders summit and Trump-Xi talks are the next catalysts; Confidence: Medium because geopolitics is headline-driven.
 
 ---
 
 ## 🌍 Global Radar
 
 ### 📊 Economic Indicators
-- HK’s Chan Says 2026 Growth May Be Strongest in Five Years: RTHK ([BBG](https://www.bloomberg.com/news/articles/2026-10-31/hk-s-chan-says-2026-growth-may-be-strongest-in-five-years-rthk)).
-
-### 🏦 Central Banks
-- **Bank of England** — Bank of England explores easing key limit on riskier mortgage lending ([FT](https://www.ft.com/content/78363dc1-90fa-4a10-b84a-69be3d749f42)).
+- Hong Kong’s annual economic growth may hit a five-year high, the finance chief has said, raising the possibility of an upward revision to the current forecast of `3.5` to `4.5` per cent for 2026 ([SCMP](https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372830/hong-kong-may-raise-gdp-forecast-growth-poised-5-year-high-paul-chan)).
 
 ### 🌐 Geopolitics & Policy
-- Beijing blasts US ban on device testing in China, warns of supply chain disruptions ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3372816/beijing-blasts-us-ban-device-testing-china-warns-supply-chain-disruptions)).
-- Kim Jong-un urges drone expansion as North Korea showcases new unmanned tech ([SCMP](https://www.scmp.com/news/asia/east-asia/article/3372809/kim-jong-un-urges-drone-expansion-north-korea-showcases-new-unmanned-tech)).
-- US, South Korea, Japan call for ‘complete denuclearisation’ of North Korea ([Al Jazeera](https://www.aljazeera.com/news/2026/10/31/us-south-korea-japan-call-for-complete-denuclearisation-of-north-korea)).
+- Top diplomats from the world’s largest economies worry about export restrictions and threats to supply chains but stop short of calling out China ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3372855/g20-foreign-ministers-end-atlanta-meeting-without-consensus-key-issues)).
+- North Korea says defence research institutes tested major weapon system ([Reuters](https://news.google.com/rss/articles/CBMizwFBVV95cUxOa2szXzlwbFhuTl8xcVFPLU9JTTFnUTYtT1pYWGxTbEFhUmxWV1E5NkxvbTZvOEtETEp4YjdMaEhDbG1MSzIweE5kYXpSM3FWVEpUWEFFNUZTUFdaNzN2UldqMHlVdDZsT3NaNm9PQl9xSFpfMm1FR3JCUTA0Z2hiQ0EtUXpKZ3MwLThwQmZ3R0JxZ2lRZ2hjcEpkWjI0R2FyUGdIQ3VZZUVwRl96UVByZklTSm1KY1RVRExaSlptRUtLbHRld0FVN2lEYUcwbUU)).
+- Chinese Executive Close to Nvidia CEO Suspected of Giving China Information ([WSJ](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWHJLWWpfcXR5dEpVekREaFNLUlhOUmpFYm1neGZkZDh5blljZWw5WHdPWWZ4ZkVBbUJGOTFsWFVnUnJZODJNMVJiYWlfTFBMaTNwWjFZUFZsdHZweU9xUXZjX0dnMWpWN0pYOTEzNTFFYkRaWDRDdjJPdmVITzlmZTJVcmlqZWNZSXZzTmxuaU9WNlViUWtLYTBYLVZ3M2loY3FBa0JJWlFwZldqUWc)).
+
+### 📈 Equities
+- How to grow a nest egg while protecting it from inflation and market drops ([CNN](https://news.google.com/rss/articles/CBMinAFBVV95cUxNYkNKVFl2UXp5aE5CM1lHaThxcDRFOXZ4R3FfWk11VVNXREFmWWR4VS01ZEMweWdJMkx5OUVIYWI0b0lydVZZQzlGOHFqck9fOUxpSi1qMVFyOUZiUnhzZHRfUFVXVjBiY3c0LU5CMFBVNFhMVDZieDNINENSNl9SZzBSN1YzY2kzVDFpREVCYmlyQUFGWkxydi12QmY)).
+- Apple Intelligence to roll out on iPhones in China in December with Alibaba backing ([SCMP](https://www.scmp.com/tech/big-tech/article/3372831/apple-intelligence-roll-out-iphones-china-december-alibaba-backing)).
+- Japan Is the Giant Asian Market Where Trading Has Doubled: New Economy ([BBG](https://www.bloomberg.com/news/newsletters/2026-10-31/japan-is-the-giant-asian-market-where-trading-has-doubled-new-economy)).
 
 ---
 
@@ -80,29 +92,47 @@ China lifts secrecy on new key rate, sets it below old benchmark ([Business Time
 | Nov 01 08:00 AM | KR | Exports YoY | 93.2% | 83.7% |
 | Nov 01 08:00 AM | KR | Balance of Trade | $37.24B | $49.97B |
 | Nov 01 08:00 AM | KR | Imports YoY | 39.9% | 26% |
+| Nov 02 06:00 AM | AU | S&P Global Manufacturing PMI Final | 49.7 | 49.6 |
+| Nov 02 08:00 AM | AU | TD-MI Inflation Gauge MoM | — | 0.3% |
+| Nov 02 08:30 AM | AU | Building Permits MoM Prel | 2.1% | -6.1% |
+| Nov 02 08:30 AM | AU | Building Permits YoY Prel | — | 10.3% |
+| Nov 02 08:30 AM | AU | Private House Approvals MoM Prel | — | 3.7% |
+| Nov 02 08:30 AM | JP | S&P Global Manufacturing PMI Final | 53.3 | 54.1 |
+| Nov 02 08:30 AM | KR | S&P Global Manufacturing PMI | — | 53.9 |
+| Nov 02 09:45 AM | CN | RatingDog Manufacturing PMI | 51.6 | 52.1 |
 
 ---
 
 ## 📚 Full Reading List
 
 - **BBG**
-  - [China Factory Activity Eases Into Decline as Growth Wobbles](https://www.bloomberg.com/news/articles/2026-10-31/china-factory-activity-manufacturing-purchasing-managers-index-services)
-  - [HK’s Chan Says 2026 Growth May Be Strongest in Five Years: RTHK](https://www.bloomberg.com/news/articles/2026-10-31/hk-s-chan-says-2026-growth-may-be-strongest-in-five-years-rthk)
-- **FT**
-  - [Bank of England explores easing key limit on riskier mortgage lending](https://www.ft.com/content/78363dc1-90fa-4a10-b84a-69be3d749f42)
+  - [Shipping Strikes In Hormuz Leave Both Sides With Economic Pain](https://www.bloomberg.com/news/articles/2026-10-31/shipping-strikes-in-hormuz-leave-both-sides-with-economic-pain)
+  - [Russia Extends Ban on Most Diesel Exports Through January](https://www.bloomberg.com/news/articles/2026-10-31/russia-extends-ban-on-most-diesel-exports-through-january)
+  - [US Jobs Pickup May Keep Fed on Track to Hike Rates Again](https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again)
+  - [AI Enthusiasm Is Collapsing and Tech Earnings Just Made It Worse](https://www.bloomberg.com/news/articles/2026-10-31/ai-enthusiasm-is-collapsing-and-tech-earnings-just-made-it-worse)
+  - [Final Countdown to Midterm Elections, Tech Stocks Tank](https://www.bloomberg.com/news/videos/2026-10-31/bloomberg-this-weekend-10-31-2026-video)
+  - [Angola Plans to Cut Fuel Subsidies Without Price Increases](https://www.bloomberg.com/news/articles/2026-10-31/angola-plans-to-cut-fuel-subsidies-without-price-increases)
+  - [Japan Is the Giant Asian Market Where Trading Has Doubled: New Economy](https://www.bloomberg.com/news/newsletters/2026-10-31/japan-is-the-giant-asian-market-where-trading-has-doubled-new-economy)
+- **Reuters**
+  - [OPEC+ agrees in principle to keep oil output targets steady in December, sources say](https://news.google.com/rss/articles/CBMitgFBVV95cUxOTk80ZVBzRVczc0hyRHU0RkJiTWx5ZDUwdnBHb0FWSmJyQWJzWHRYR0hZd0MzTW1INnFtSWRISVVRb1RncDltYW16eTYxRU9NcWJzanRqMmp4LWFXUVNTV2tzT3JCM0doS01hWDdGeUhNdHZ3WTdYXy14Q0luZTRmOWdQNlp2ZThtYlQ0cWhNSVk0c0ZkOUFyMExMUWRHMXRKamU2ZHRLa2pPMG9heUhzN2YwTnpCZw)
+  - [China's coast guard conducts patrols east of Taiwan, CCTV reports](https://news.google.com/rss/articles/CBMirAFBVV95cUxNRkd6WXdmaWtsU1FOM05LUHZxS3NqOS0zY1UzMEFMSEdLNjdMWW1zemhFV2ZIUGpJUkp4b1c0c19PdGM1TjA0ckpHRmljcG13MGlYZnNUVHlZS1lkXzgxazE1MWxzcENENk5xcS1CY3NHU1NmQWI1RlRDdlljSWVuTWFuLUwxeWF5N3dZZGp3SVZrQ3RLbllCT3hIcENBM1BrNnhuQjVLVmtqRWdI)
+  - [North Korea says defence research institutes tested major weapon system](https://news.google.com/rss/articles/CBMizwFBVV95cUxOa2szXzlwbFhuTl8xcVFPLU9JTTFnUTYtT1pYWGxTbEFhUmxWV1E5NkxvbTZvOEtETEp4YjdMaEhDbG1MSzIweE5kYXpSM3FWVEpUWEFFNUZTUFdaNzN2UldqMHlVdDZsT3NaNm9PQl9xSFpfMm1FR3JCUTA0Z2hiQ0EtUXpKZ3MwLThwQmZ3R0JxZ2lRZ2hjcEpkWjI0R2FyUGdIQ3VZZUVwRl96UVByZklTSm1KY1RVRExaSlptRUtLbHRld0FVN2lEYUcwbUU)
+- **WSJ**
+  - [Chinese Executive Close to Nvidia CEO Suspected of Giving China Information](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWHJLWWpfcXR5dEpVekREaFNLUlhOUmpFYm1neGZkZDh5blljZWw5WHdPWWZ4ZkVBbUJGOTFsWFVnUnJZODJNMVJiYWlfTFBMaTNwWjFZUFZsdHZweU9xUXZjX0dnMWpWN0pYOTEzNTFFYkRaWDRDdjJPdmVITzlmZTJVcmlqZWNZSXZzTmxuaU9WNlViUWtLYTBYLVZ3M2loY3FBa0JJWlFwZldqUWc)
+- **CNBC**
+  - [Qatari mediators held talks in Tehran aimed at restarting direct U.S.-Iran negotiations, source says](https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html)
 - **SCMP**
-  - [Beijing blasts US ban on device testing in China, warns of supply chain disruptions](https://www.scmp.com/news/china/diplomacy/article/3372816/beijing-blasts-us-ban-device-testing-china-warns-supply-chain-disruptions)
-  - [Kim Jong-un urges drone expansion as North Korea showcases new unmanned tech](https://www.scmp.com/news/asia/east-asia/article/3372809/kim-jong-un-urges-drone-expansion-north-korea-showcases-new-unmanned-tech)
-  - [US, South Korea and Japan reaffirm North Korea denuclearisation stance](https://www.scmp.com/news/asia/east-asia/article/3372818/us-south-korea-and-japan-reaffirm-north-korea-denuclearisation-stance)
-- **Al Jazeera**
-  - [Iran says four tankers on fire after striking mines in Hormuz](https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz)
-  - [US greenlights $2.1bn Patriot missile sale to Ukraine](https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine)
-  - [US, South Korea, Japan call for ‘complete denuclearisation’ of North Korea](https://www.aljazeera.com/news/2026/10/31/us-south-korea-japan-call-for-complete-denuclearisation-of-north-korea)
+  - [Iran’s supreme leader warns US, Israel against war](https://www.scmp.com/news/world/middle-east/article/3372847/irans-supreme-leader-warns-us-israel-against-war)
+  - [Quad not ‘anti-China’, says Rubio as first summit in two years set before Trump-Xi talks](https://www.scmp.com/news/china/diplomacy/article/3372852/quad-diplomats-finalise-first-leaders-summit-two-years-trump-xi-meeting)
+  - [Is Beijing’s 2027 military milestone now a US readiness deadline over Taiwan?](https://www.scmp.com/news/china/military/article/3372829/beijings-2027-military-milestone-now-us-readiness-deadline-over-taiwan)
+  - [Hong Kong may raise GDP forecast as growth could hit 5-year high: Paul Chan](https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372830/hong-kong-may-raise-gdp-forecast-growth-poised-5-year-high-paul-chan)
+  - [G20 foreign ministers end Atlanta meeting without consensus on key issues](https://www.scmp.com/news/china/diplomacy/article/3372855/g20-foreign-ministers-end-atlanta-meeting-without-consensus-key-issues)
+  - [Apple Intelligence to roll out on iPhones in China in December with Alibaba backing](https://www.scmp.com/tech/big-tech/article/3372831/apple-intelligence-roll-out-iphones-china-december-alibaba-backing)
+- **CNN**
+  - [How to grow a nest egg while protecting it from inflation and market drops](https://news.google.com/rss/articles/CBMinAFBVV95cUxNYkNKVFl2UXp5aE5CM1lHaThxcDRFOXZ4R3FfWk11VVNXREFmWWR4VS01ZEMweWdJMkx5OUVIYWI0b0lydVZZQzlGOHFqck9fOUxpSi1qMVFyOUZiUnhzZHRfUFVXVjBiY3c0LU5CMFBVNFhMVDZieDNINENSNl9SZzBSN1YzY2kzVDFpREVCYmlyQUFGWkxydi12QmY)
 - **Caixin**
-  - [10月统计局制造业PMI降至49.3 供需均由扩张转为收缩](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VTml4MXU3Ulo2bTBoeTFtelZickx6Y0RBZDRfeVMyS2dtdEkwX0F0VmktZ04xTHVIU0wzTHZOMC05UXJtS3dQbjh1SWdTWlRuOGx5NnJ5VUV5U3BPbWRua3Rn)
-  - [政策利率基准切换：焦点与市场启示](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIOEZzaFF0MWJ3b1FrM2poRFRLd3R1SjhyeXFIcmRMd1FtV05WZjBHem5udFRWeG5RbHljQkMxazZseWlrZ0xWWkV3MXFBakJWRlpPdzd2bHJPcXdBbkJKVmRn)
-- **Business Times**
-  - [Oil jumps 2%, settles at 6-month highs on fears of escalation in Iran](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS2ZwWEhlSTJwNDJEMmN3UW54cmEtdzFXcVZLMDgwWjNITFQ2QkVCbWtKUk5XZGlwSE5QdTB1aGd1ZlM5bS15MU4wRm02Xzg5dndfMTZtdDBfLTJtWGRreENIVWhIeE5sRGt6aG5KOEpaN0RLODQ0RFVvU0g3ZW1WdFpmRi1ib1YtX0pEWV9mWDVCcFZjcXJ3eWhnY0dpVFM3eExkN3ZMOUZwQQ)
-  - [China lifts secrecy on new key rate, sets it below old benchmark](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTS1kX21mSmhrWGJhUXZoR0x5QTl3NkVSY3c3QjQzNkhMc2p4WjNmM1FnLUpjeXBhYlRqTmU1ZWQyS1NoblRTZmFkeHNQd19BZDZiQnpjNm5fNHhtaVFRMVZUczlSYVJGb3lBNm1fYjk0QVBWVTA0ZmJnSDc5VGtTSWd4TU53R3RlX0U0UUVFbk5YU1BJdVFHU3JoTU0zdjZjaERqSnJQYjlZRFk)
-- **WSJCN**
-  - [美联储官员接连放鹰：洛根预计至少再加息两次，穆萨莱姆呼吁尽快行动](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xNkpyNS1ZN0NCcVo3Q0t2M08xU0N1VzdlTGVJQWl1Smt1bUJ6X1RSWFNNVC00YTdfQmVFaGdKTDFaSjREU0pGTW50aWRaQVE5bDJN)
+  - [拉加德提前辞卸欧央行行长职务 疫情与战争考验货币掌舵能力](https://news.google.com/rss/articles/CBMiakFVX3lxTFBJYllnR0VwcUJLTlhVR3VJbG9DUFZDZHZkaGwwRzVWYXV1ODYzSm1BaW9Ya0stQS1MNWo4bHZsNFNIRGlxUkl6NjR2MUNyeTRfeDZCaDBQdlNFVEdkYWw1MVo1SWdpZHhzQkE)
+- **CCTV**
+  - [东北地区货物贸易进出口规模创历史同期新高 进出口双向协同 均衡发展](https://news.google.com/rss/articles/CBMieEFVX3lxTE5DRlNjOUNkd2NHNFc5dmhUNWZIR2pmbjI0T3A1R2l0WjV2a1N3VU5EVjNmU1ROQkROano4R0ViSHA0NzJzc3NzRlVtT3VmTlYzUHRCRE5jd1FyeXg3OWJBWXNqamdWX212WnUxb0FiRk9kd1JuWE5uTg)
+
+---

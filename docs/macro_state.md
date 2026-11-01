@@ -1,23 +1,22 @@
-# Macro State — Last updated: 2026-10-31
+# Macro State — Last updated: 2026-11-01
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Hormuz energy escalation** — Status: Acceleration; four tankers on fire after mines versus prior single tanker; next trigger transit normalization or further mine strikes.
-- **China manufacturing contraction** — Status: New; NBS Manufacturing PMI 49.3 with supply and demand both contracting; next trigger follow-up PMI or PBOC response.
-- **PBOC policy rate benchmark shift** — Status: Confirmation; new key rate set below old benchmark; next trigger OMO/LPR fixing.
-- **Fed hiking path** — Status: Confirmation; Logan expects at least two more hikes and Musalem calls for quick action; next trigger US data and Fed speakers.
+- **Hormuz energy escalation with diplomacy restart** — Status: Acceleration; OPEC+ restraint and Russia’s diesel ban widen supply risk while talks try to restart; next trigger direct US-Iran talks or transit normalization.
+- **Fed hiking path** — Status: Confirmation; US jobs pickup keeps the two-hike path alive; next trigger payrolls or Fed speaker guidance.
+- **AI-led tech selloff** — Status: New; negative free cash flow at megacaps fuels broad equity and capex repricing; next trigger further earnings or capex guidance.
+- **Taiwan/Quad regional risk premium** — Status: New; coast guard patrols and supply-chain warnings add Asia FX risk; next trigger Quad leaders summit and Trump-Xi talks.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- Hormuz transit normalization or further tanker incidents.
-- China follow-up PMI and PBOC liquidity response after NBS contraction.
-- PBOC fixed-rate OMO/LPR setting and market rate alignment.
+- Hormuz transit normalization or further tanker/mine incidents.
+- Direct US-Iran negotiation outcome or formal ceasefire signal.
+- US payrolls release and Fed speaker confirmation of two-hike guidance.
+- Quad leaders summit and Trump-Xi meeting tone on supply chains.
 - Korea Nov 1 exports, trade balance, and imports.
-- Fed speakers after upcoming US data and any shift from two-hike guidance.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will Hormuz escalation force official convoy protection and how long will Brent risk premium persist?
-- Does China manufacturing contraction plus policy rate benchmark weaken CNH despite settlement inflows?
-- Will Fed officials maintain two-hike guidance if growth and tech selloff intensify?
+- Will direct US-Iran talks reduce Brent risk premium or will OPEC+/Russia supply restraint dominate?
+- Will AI-negative free cash flow deepen risk-off across Asia tech and Asia FX?
+- Will Fed speakers maintain two-hike guidance if tech selloff intensifies?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- **NBS Manufacturing PMI `49.3`** — China factory activity contraction threshold ([Caixin](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VTml4MXU3Ulo2bTBoeTFtelZickx6Y0RBZDRfeVMyS2dtdEkwX0F0VmktZ04xTHVIU0wzTHZOMC05UXJtS3dQbjh1SWdTWlRuOGx5NnJ5VUV5U3BPbWRua3Rn), [BBG](https://www.bloomberg.com/news/articles/2026-10-31/china-factory-activity-manufacturing-purchasing-managers-index-services))
-- **Oil up `2%`, settles at 6-month highs** — energy supply risk benchmark ([Business Times](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS2ZwWEhlSTJwNDJEMmN3UW54cmEtdzFXcVZLMDgwWjNITFQ2QkVCbWtKUk5XZGlwSE5QdTB1aGd1ZlM5bS15MU4wRm02Xzg5dndfMTZtdDBfLTJtWGRreENIVWhIeE5sRGt6aG5KOEpaN0RLODQ0RFVvU0g3ZW1WdFpmRi1ib1YtX0pEWV9mWDVCcFZjcXJ3eWhnY0dpVFM3eExkN3ZMOUZwQQ))
+- **Hong Kong 2026 GDP forecast band `3.5` to `4.5` per cent** — possible upward revision as growth momentum holds ([SCMP](https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372830/hong-kong-may-raise-gdp-forecast-growth-poised-5-year-high-paul-chan))
