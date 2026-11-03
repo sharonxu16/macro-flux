@@ -1,84 +1,79 @@
 ---
 tags:
   - Macro/Hormuz_Blockade
-  - Macro/PBOC_Easing
+  - Macro/China_Equities
   - Asset/Brent
-  - Asset/TWD
-  - Trade/Short_TWD
+  - Asset/UST
+  - Trade/Long_UST
 ---
 
 <div align="center">
 
 # 🌊 Macro Flux
 
-<small>Nov 2 8AM to Nov 2 5PM HKT</small>
+<small>Nov 2 5PM to Nov 3 8AM HKT</small>
 
-<small>Good afternoon.</small>
+<small>Good morning.</small>
 
 </div>
 
 ---
 
 > [!abstract] Overview
-> Intraday price action was driven by a sharp Middle East de-escalation bid: oil fell more than 3% as Hormuz reopening talks advanced, even as Iran warned any renewed war could last longer and shipping in the Strait remained dangerous. The softer crude impulse supported risk assets and steadied the dollar into tomorrow’s US midterms, while gold bounced off a one-year low. China added a second pocket of support after the PBOC announced a fresh one-year swap facility of 100 billion yuan to steady A-shares following their worst sell-off in nearly a decade, with the yuan holding near a four-year high. Taiwan eased exporter US-dollar sale curbs after currency weakness and record stock outflows, underscoring Asia FX divergence. The cross-market thread is fragile Middle East diplomacy lowering the commodity-risk premium, while China-specific liquidity support and Taiwan capital-flight signals pull Asian assets in opposite directions.
+> Oil prices were the dominant macro driver, tumbling more than 7% on US-Iran diplomacy optimism even as talks closed without a formal breakthrough, dragging Treasury yields lower and easing inflation pressure. That disinflation impulse was offset in equities by renewed AI-trade anxiety and midterm event risk, leaving US tech underperforming and risk appetite uneven. China stepped up capital-market support with a third swap facility and a cut in the buyback/relending rate to 1%, reinforcing the policy put for A-shares and CNH. Korean inflation remained firm enough to bolster the case for additional BOK tightening, while the RBA decision due later today adds another Asia rate catalyst. The cross-market thread is Middle East de-escalation easing the global inflation and bond-yield impulse, but US election and AI uncertainty capping the equity risk-on follow-through.
 
 ---
 
 ## 🔬 Narrative Watch
 
-### 📌 Hormuz reopening talks advance as Iran warns of wider response
+### 📌 Iran diplomacy and oil selloff
 
 **Fact**
-Oil Prices Fall More Than 3% as Iran Peace Talks Ease Supply Fears ([WSJ](https://news.google.com/rss/articles/CBMisgFBVV95cUxNSGlnQ2hWb0xhREU3dG5ZeGtaV3cxb1kzRk9TT2FOanNnRW8yWWVkd0xCLWpmbDRLVkVqRVpMWXJuY2E1N2tfMGRnV3hkWE1IRmtjYWU0M3Z0V1FlMmoyaTlGSXl2Y1R1ZVZYUUdvdnJnZjNVRzBTNzhtb0FnaWJuV3hhWkpVQU1iRkVtSmFhWjQ0XzM3T0NBVmFudVVldWhZemFoeDJPSy1hWXhCbmdEbUVB)). Hormuz Reopening Talks Advance as Iran Warns of Wider Response if Attacked ([BBG](https://www.bloomberg.com/news/videos/2026-11-02/horizons-middle-east-africa-11-2-2026-video)). China and Oman have called for a peaceful resolution and full ceasefire between the US and Iran, stressing that safe passage through the Strait of Hormuz must be restored ([SCMP 1](https://www.scmp.com/news/china/diplomacy/article/3372994/china-and-oman-unite-mideast-peace-call-sultans-historic-beijing-visit)). The call came during talks in Beijing on Monday between Chinese President Xi Jinping and Oman’s Sultan Haitham bin Tariq ([SCMP 1](https://www.scmp.com/news/china/diplomacy/article/3372994/china-and-oman-unite-mideast-peace-call-sultans-historic-beijing-visit)). Rubio says Trump wants to end Iran war 'peacefully' even as both sides prepare for strikes ([CNBC](https://www.cnbc.com/2026/11/02/us-iran-war-trump-hormuz-rubio.html)). Iran warned on Sunday that any renewed war with the United States could last longer than the previous round of fighting, after US President Donald Trump said he still had to “take care” of more targets ([SCMP 2](https://www.scmp.com/news/world/middle-east/article/3372947/iran-warns-new-war-us-could-last-longer-trump-threatens-hammer)). The Strait of Hormuz remains dangerous and costly for shipping, despite US claims that it is open ([Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/11/2/hormuz-shipping-still-faces-major-risks)).
+Oil tumbled on hopes for US-Iran talks, with prices extending the decline after Iran’s president said the supreme leader has given officials certain authority over talks ([FT](https://www.ft.com/content/d7fe99f8-d292-4cb5-a8fd-45be0f8cc2b3)). Crude oil prices sold off more than `7%` on Iran peace talk hopes ahead of US midterms ([CNBC](https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html)). Tehran says the US must lift its naval blockade and meet its demands in full before any agreement is reached ([Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court)). Iran says contacts over ending war continue after talks finish with no breakthrough ([Reuters](https://news.google.com/rss/articles/CBMizAFBVV95cUxOLXhRTFk2aHFYY3VOMWFGdmFySFR5MTNxeWRRU1ZQM3RaWjg4ZFZlOTJHNDZjYmdCVjBOX0RweVAyWEI4T2dZMVFSbUt4bTc4NGlibnlTaDh2TUNydEdOQjZJSmt3RnRIbk1LNVJ4SlNkR0M3QWs3NnZwQ0JlMW5Ud0FaN29PaGcwdk1CbTZ1UUhjYkg5XzZwVmdwWGNnRnladzZVUEhBeTZScEZIMl9YZ0hUT01GcDdkMXFwcXF0Q3hkTEluSnpnb3F5RFA)). Trump raised doubts about renewed attacks on Iran ([Reuters](https://news.google.com/rss/articles/CBMiogFBVV95cUxOQndTRnlIMnd2YXYxWE0ySGhhU2lzZldZWGdGNlhUejVqLUxyTkJ3dzVnNWNZaGszckxhWVh3eDdtb1VmWHlpSkdyS1lES2VoYnhfdnVraHV4UE9ScDV3UHo2UVFmb1lHblVhaDdxM0I2QkxNc2x5Q3RybjNEVFRJQXdTbk05N2lxemd5cU1jWHh0aXVvM05rVmJiQm5uY2VmNGc)). America’s Gulf allies prepare for a new round of strikes on Iran and the blowback ([WSJ](https://news.google.com/rss/articles/CBMiwgFBVV95cUxONGprSkphSVBVaURoYUtYbXJZdGRRRWFRZEF4dzFtcXJlaW45aGFzTTkyS1VtMmR3eFVrT0p1M1dOWkx6VnlnZld3U2c4WkVnVjV3amQwdFhWQUdsTHRKUW1NeHQ2S0RBd2M2b0xaS2FvUlNTY3hDNW1kYkdwUVBYTjlVUGVOeW11RnFocWtuZkN4T2xlYWlpbjI2WF82Q0dlT2tPSkJwQUk0SDgyLWU2dy1tc0JvX3FnZGVCUnF3dmZEUQ)). Lloyd’s List asks how much longer can the Hormuz stalemate last ([Lloyd's List](https://news.google.com/rss/articles/CBMiigFBVV95cUxQamQxbDRnTXdBNGlvOFJTZVlqWDJjZHBwY0g5Z3VhMGxaSTMtcDJnZnJMWVpQRDBGZVBfRzdvdXJjYUFlbWJmTDFaaEpkYVBsZzE3UkFlRFgtZ2drRXlmdkM5VnV6NDhQRFk5a2hTeUxjQUZ5YXFya3RwU01XTmJhUThKeHZZaXJtZXc)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Acceleration because reopening talks advanced and oil fell more than 3%, but Hormuz shipping risk persists.
-> * **Transmission / Market Read**: Risk-premium channel lowers energy fear; favors reduced Brent upside tail and supported Asia equities if diplomacy holds.
-> * **Watchpoint / Confidence**: Confirmed US-Iran ceasefire framework or a new Hormuz vessel attack within 72h; Confidence: Medium due conflicting signals.
+> * **Narrative change**: Acceleration of Iran de-escalation repricing as crude sold off more than `7%`, though talks ended without a formal breakthrough.
+> * **Transmission / Market Read**: Inflation and risk-premium channel favors **long UST** and **long Asia FX** on lower energy costs; **short Brent** is crowded and fragile.
+> * **Watchpoint / Confidence**: Ceasefire framework or normalized Hormuz transit extends oil downside; renewed strikes reverse the move. Confidence: Medium.
 
----
-
-### 📌 PBOC launches fresh 100 billion yuan equity-support swap
+### 📌 US midterms and AI trade correction
 
 **Fact**
-China’s central bank announced on Monday it would start a fresh round of a swap facility to support the struggling A-share market, after its worst sell-off in almost a decade dealt a heavy blow to investor confidence and threatened to bring new risks to the country’s financial system ([SCMP](https://www.scmp.com/business/markets/article/3372993/beijing-refreshes-asset-swap-support-chinas-stock-market-after-sell)). The People’s Bank of China would have a one-year swap that allows institutional investors to exchange illiquid assets for liquid ones with the central bank to buy stocks, according to its statement ([SCMP](https://www.scmp.com/business/markets/article/3372993/beijing-refreshes-asset-swap-support-chinas-stock-market-after-sell)). Thirty-one institutions have applied for the programme with combined size of `100 billion yuan (US$15.04 billion)`, it added ([SCMP](https://www.scmp.com/business/markets/article/3372993/beijing-refreshes-asset-swap-support-chinas-stock-market-after-sell)). 央行将开展第三次证券、基金、保险公司互换便利操作 超30家机构表达初步意向 ([华尔街见闻 1](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MT1k1YkdSaUlybU1CZlU2Zmc2YTVkRlkzNmo1dkVrVkFMc1Jfa3o3dEFmOFg1MDlmYWlrN3dQMF9VM3FsYkxMSVk3VW1FdzduUENF)). 央行明日开展互换便利操作，31家机构申报额度超1000亿元 ([华尔街见闻 2](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MNWpIR19CZFB6U2V1V2VFYV95ckQwemdfU1NKNzBMTmlTOS1MUENUamtaV2hFMld1TjZrMGJCQ05TSnI5OFFGVVdfMWpfZXVSZHdv)).
+A big majority of US voters disapprove of Trump’s handling of inflation, and on the eve of the midterm elections Americans say they want politicians who can better handle the economy ([FT](https://www.ft.com/content/5ed63d08-66f3-4ad3-9ec7-2ec8b590fc85)). Technology stocks led US equities lower on Monday as worries around the artificial intelligence trade outweighed hopes of US-Iran diplomacy ([BBG](https://www.bloomberg.com/news/articles/2026-11-02/us-stock-futures-rise-as-oil-prices-drop-easing-ai-led-selloff)). Treasuries rose, building on their biggest monthly advance in more than two years, as tumbling oil prices eased concern about inflation pressure leading to additional Federal Reserve interest-rate hikes ([BBG](https://www.bloomberg.com/news/articles/2026-11-02/treasury-yields-extend-past-month-s-slide-as-oil-prices-tumble)). AI risk needs to clear before any post-midterm S&P rally begins ([BBG](https://www.bloomberg.com/news/articles/2026-11-02/midterm-rally-may-be-tricky-as-ai-trade-becomes-show-me-story)). America’s multi-trillion dollar AI buildout is on the ballot and Wall Street is watching ([WSJ](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMGRBeXJhcngwMjFaRi1WQXd4VnpvYUctLTVvY01ERTJibUdjeTJITl9XMFJncFRuTXJ1eUxYbnF6U2xybHpyd0R3NjBFem9jTmZHdVJwTFBDdjlDUG1QdWtTR1VXSVBpUFZSdVhoSlRoLXdZdUgtSjZiNzc2bnB0bTE4OVdkLU5Qejl1cXhsYmREN0t1QlMtbVFtLVRRU2FsVXh2UjZ1bGVXTG9oMVZQaTcwZ0NoNWJJ)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Acceleration from reported PBOC-CSRC stock-support meeting to concrete `100 billion yuan` swap facility.
-> * **Transmission / Market Read**: Policy-liquidity channel supports A-share funding; favors **long China equity proxies** and **long CNH**.
-> * **Watchpoint / Confidence**: Tomorrow’s swap operation take-up and whether A-shares stabilize after the drawdown; Confidence: High due official confirmation.
+> * **Narrative change**: Reversal from easing AI unwind back to risk-off, with tech correction and midterm event risk repricing.
+> * **Transmission / Market Read**: Risk-premium and policy channel supports **long UST**, **defensive equities** over **US tech** into midterms.
+> * **Watchpoint / Confidence**: Tuesday midterm results and AI capex guidance resolve the risk bid; Confidence: High.
 
----
-
-### 📌 Taiwan eases exporter FX curbs as currency drops
+### 📌 PBOC equity support steps up
 
 **Fact**
-Taiwan Eases Exporter US Dollar Sale Curbs as Currency Drops ([BBG](https://www.bloomberg.com/news/articles/2026-11-02/taiwan-said-to-ease-exporter-fx-rule-after-record-stocks-exodus)).
+央行启动第三次互换便利，申请额度超1000亿元 ([Caixin](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXVDVEdE1GeHBMclF5cXZ4dVZ2Rk5pTXdXcnFjaElKVDBGWG5jRmREdnFmRW44eEl3bE83VWxZaUJ1b053NmhLSjVVLXNnQnJjTkdGeXNzUXZ6R2wxUDM3VlVR))。央行等三部门优化资本市场支持工具，回购增持再贷款利率降至1% ([WallstreetCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZR1VOM3A4R3VUQnFUaWJxYWN5U0cyUGM2Z21nbnJWVHFNY0xVVWlTOVd4TC1EUHZCaUQ1TGVyLWNNTW15dlRFQzJwSHVvaGlNaUM0))。
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: New because Taiwan FX policy and capital-outflow strain appear separate from prior shipping-harassment narrative.
-> * **Transmission / Market Read**: Capital-flow channel with less forced USD sales tilts risks toward **higher USD/TWD** and **short TWD**.
-> * **Watchpoint / Confidence**: Exporter conversion slowdown and TWD closing weakness; Confidence: Medium on single-source report.
+> * **Narrative change**: Acceleration of PBOC easing and capital-market support.
+> * **Transmission / Market Read**: Liquidity and capital-flow channel favors **A-share stabilization** and **steady-to-firmer CNH**.
+> * **Watchpoint / Confidence**: Swap facility take-up and A-share response; Confidence: Medium as headlines lack full operation detail.
 
 ---
 
 ## 🌍 Global Radar
 
 ### 📊 Economic Indicators
-- China’s factory activity expanded at a slower pace for the first time since July, a private survey showed, as weaker overseas orders call into question the outlook for the country’s export-led expansion ([BBG](https://www.bloomberg.com/news/articles/2026-11-02/china-factory-activity-expands-but-ends-streak-of-faster-growth)).
-- South Korea factory activity growth slows to 8-month low, PMI shows ([Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxQd0piN0pmbXlKU2xFeFFUY2dRYU1weXZyUXBfeUd2YVJxQWNXbTZMR2NvUFdpelVCX014emQ0cklBZFdobGgtWnlXVXZSdDc4bUxpWDFzQ0w2NVZwRERVbllGaVBSZDd1cEZra0c2ZllRbzdOVFRtRDdrckNVNkpaeDlmbjdsTmtoTmd0NWgwUDlxSVZPOWtjMFpVMEZ1RlYxRXRjLWFWWkg3UGphRXl1a1FYZ2sxTTZGWXc)).
-- Japan's October factory growth slows as costs pick up, PMI shows ([Reuters](https://news.google.com/rss/articles/CBMitAFBVV95cUxPNHpkYmhCcHc0RVJPMzNVSElLRzl3MkJ0UWRaMjZXR3BUMGJZeTNKNDRTa29WanJuYkctNkVVN1RYOUxvZk9NQVIxM3I3aDlzUFI4Y3c3V3d1d2xGaS1pQy1VNWMtem8tSmV4MTczeFoya0h1a0FXM3JzYVR4YzBURkRPMVUzeGk0RjhJNG1HMmJYS3RaSTNsOVd2dWJXM3M0Y3hZNkZGRmJObTYwaVBiZEh5elI)).
+- South Korea inflation holds firm, bolstering case for more hikes ([BBG](https://www.bloomberg.com/news/articles/2026-11-02/south-korea-inflation-holds-firm-bolstering-case-for-more-hikes)).
+- A powerful warming of Pacific waters this year could push US prices higher and boost employment next year, according to a new economic letter from the Federal Reserve Bank of San Francisco ([BBG](https://www.bloomberg.com/news/articles/2026-11-02/el-nino-could-raise-us-inflation-boost-jobs-in-2027-fed-study)).
 
 ### 🏦 Central Banks
-- **Bank of Japan** — The Bank of Japan signaled that the shrinking of Japan’s population means that it’s increasingly difficult to achieve robust growth in overall consumer spending, suggesting that weak aggregate consumption by itself might not point to deteriorating household demand ([BBG](https://www.bloomberg.com/news/articles/2026-11-02/boj-signals-low-hopes-for-consumer-spending-as-population-falls)).
+- **Bank of England** — BOE to raise interest rates for first time since 2023, survey shows ([BBG](https://www.bloomberg.com/news/articles/2026-11-02/boe-to-raise-rates-for-first-time-since-2023-survey-shows)).
+- **European Central Bank** — France’s politicians need to “get on and fix” the problems facing their economy, Irish central-bank Governor Gabriel Makhlouf said, ruling out immediate intervention by the European Central Bank to shore up the country’s debt ([BBG](https://www.bloomberg.com/news/articles/2026-11-02/ecb-s-makhlouf-says-france-needs-to-fix-public-finances)).
 
 ### 🌐 Geopolitics & Policy
-- North Korea says US-South Korea nuclear drill shows need for stronger nuclear deterrent ([Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxOWWxMc2tZWEhyS1Q1TXlxdFg1OTlIcEU0aVp5c0xGWEI0RE0wbzVfTVhOdHhXQXFseElRYlZIalE0bEpGeUNRRHVVWmY4MmhoYjNDakEyeEtkd1ZPSU9EYnZUSTZBOWNzU25MNkJQaWRYXzVVR1pESzJBX0IzQ255MnpBOXhpaXpyUGhVTHBHdHVHc3hQM0syRmlHam8wVmc5V1lHNnUwWkdGbW5kbjU2a2J4QXFQOGVzUFRFUnNLMVZDVS00cVpB)).
-- Tesla, Samsung oppose new US tariffs on Vietnam as probe deadline nears ([Reuters](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTUJxSGZ6aEZSWjV4VHFHeVBzTXMxVDFKcEg5OG1sbEdjTkliSDZSS2NvYmlRbUxfQks0eUVUbjJRSktzZVFqWnZTWlplTHM5YjVnUkNESHd4ZmgyRk5ib2lHdlNKYlZlQ3VqUHdvcHZvMjAzYXE2NDZLbnFnel9CZ1FoSHI5Nk1zY3NiTy1tSjhrZ1hZdVRnNVB3eHBfVUticXc1ejZ2cWlhUjR6ajRhTGRsVWVDVV9I)).
+- US to suspend South Africa and Rwanda from duty-free trade access ([Reuters](https://news.google.com/rss/articles/CBMipAFBVV95cUxQTXBRdlBrbE5GVUt6UUhpRWFyUUNFTlBtSTAtdXgyaDA1OFl6ajZTQWg1SGlTakZXRXFNc0x4V1QtMHdmc1Vpb0ZWUGxlai1xR2xJTDd5YnVfZXBuY3ZyU1JDQk5tWU5PMEUwZlV2NGpGamg3SEZ0clF1NzA2R25McW52dzk0aGxLUkVnXzFwNlRpYlY3SlR2ckJnNHZPOUx6ZHNzNg)).
+- China's slow buying of US farm goods tests `$17 billion` trade pledge ([Reuters](https://news.google.com/rss/articles/CBMirwFBVV95cUxNeGp4TlZzUzhLZkJsbVoyLWVtTVNHUmMtWVNteFpvbE9vYkZhcWxUSTdwQ0JyYi14MzdCN2dqeEU1Rkw5NHZISnhzbVV0Wno3U3M2b3FkRFdlXzBkdW5OT3RKRU5DamhSOWh1WVQyVk5ucG83amhtMDdqNWUwR2xianV2MUNtQ1Y0Qmo1QXJmOWd3SnB3eVZDcHpCZFFXc1MwamktYlRMeVhRc3FlZUlr)).
 
-### 📈 Equities
-- Global AI sell-off eases after Nasdaq’s worst month in over a year ([FT](https://www.ft.com/content/d7fe99f8-d292-4cb5-a8fd-45be0f8cc2b3)).
-- Alphabet Kicks Off Sale of Its Second Euro Bond This Year ([BBG](https://www.bloomberg.com/news/articles/2026-11-02/alphabet-kicks-off-sale-of-its-second-euro-bond-this-year)).
+### 🛢️ Commodities
+- Exclusive | U.S. Pushes to Restore Russian Gas Sales to Europe Via Ukraine ([WSJ](https://news.google.com/rss/articles/CBMipgFBVV95cUxNcGJ5czJUY0hNMkJORml6Z2ptY3h0SWp1MXNFVDhlNjNJY0RqQVRweDl0eGtJQ0RWZndidWFsM3VhLV82bTQ2TEYxUlRtVV9qdk1wSDd6RWM0QklacEhOWnFjeEQ0S0tZNXRDVlZiTk82cmdxZU1BY2J2dGE4aTlzcDJveW1tUUJtb0hudHI2cmJ0d2JvZDh4XzZ0Z0wtY2FwMG5YVGJn)).
 
 ---
 
@@ -86,23 +81,6 @@ Taiwan Eases Exporter US Dollar Sale Curbs as Currency Drops ([BBG](https://www.
 
 | Time (HKT) | Rgn | Event | Est. | Prior |
 |---|---|---|---|---|
-| Nov 02 05:30 PM | GB | S&P Global Manufacturing PMI Final | 52.8 | 51.9 |
-| Nov 02 09:00 PM | SG | SIPMM Manufacturing PMI | — | 51.7 |
-| Nov 02 10:00 PM | FR | 12-Month BTF Auction | — | 3.365% |
-| Nov 02 10:00 PM | FR | 3-Month BTF Auction | — | 2.787% |
-| Nov 02 10:00 PM | FR | 6-Month BTF Auction | — | 3.025% |
-| Nov 02 10:45 PM | US | S&P Global Manufacturing PMI Final | 56 | 55.9 |
-| Nov 02 11:00 PM | US | ISM Manufacturing PMI | 54.6 | 54.5 |
-| Nov 02 11:00 PM | US | ISM Manufacturing Employment | — | 52.7 |
-| Nov 02 11:00 PM | US | Construction Spending MoM | 0.4% | 0.9% |
-| Nov 02 11:00 PM | US | ISM Manufacturing New Orders | — | 55.3 |
-| Nov 02 11:00 PM | US | ISM Manufacturing Prices | 77 | 77.9 |
-| Nov 03 12:30 AM | US | 3-Month Bill Auction | — | 4.050% |
-| Nov 03 12:30 AM | US | 6-Month Bill Auction | — | 4.210% |
-| Nov 03 03:00 AM | US | Loan Officer Survey | — | — |
-| Nov 03 04:00 AM | US | Treasury Refunding Financing Estimates | — | — |
-| Nov 03 07:00 AM | KR | Inflation Rate YoY | 2.9% | 2.9% |
-| Nov 03 07:00 AM | KR | Inflation Rate MoM | 0.3% | 0.3% |
 | Nov 03 10:30 AM | KR | 30-Year KTB Auction | — | 4.495% |
 | Nov 03 11:30 AM | AU | RBA Interest Rate Decision | 4.85% | 4.6% |
 | Nov 03 11:30 AM | AU | RBA Monetary Policy Statement | — | — |
@@ -116,49 +94,65 @@ Taiwan Eases Exporter US Dollar Sale Curbs as Currency Drops ([BBG](https://www.
 | Nov 03 06:30 PM | DE | 5-Year Bobl Auction | — | 3.22% |
 | Nov 03 07:00 PM | US | LMI Logistics Managers Index | — | 70.2 |
 | Nov 03 07:30 PM | BR | BCB Focus Market Readout | — | — |
+| Nov 03 09:55 PM | US | Redbook YoY | — | 9.3% |
+| Nov 03 11:00 PM | US | JOLTs Job Openings | 7.13M | 7.079M |
+| Nov 03 11:00 PM | US | Factory Orders MoM | 1.2% | 0.1% |
+| Nov 03 11:00 PM | US | Durable Goods Orders ex Defense MoM Final | 2.2% | 0.3% |
+| Nov 03 11:00 PM | US | Durable Goods Orders Ex Transp MoM Final | 0.5% | 0.3% |
+| Nov 03 11:00 PM | US | Factory Orders ex Transportation | — | 0.3% |
+| Nov 03 11:00 PM | US | JOLTs Job Quits | — | 3.066M |
+| Nov 03 11:00 PM | US | RCM/TIPP Economic Optimism Index | 46.2 | 46.8 |
+| Nov 04 12:30 AM | US | 6-week bill auction | — | 3.950% |
+| Nov 04 05:00 AM | KR | Foreign Exchange Reserves | — | $440.56B |
+| Nov 04 05:30 AM | US | API Crude Oil Stock Change | — | -2.031M |
+| Nov 04 06:00 AM | AU | Ai Group Industry Index | — | -24.2 |
+| Nov 04 06:00 AM | AU | Ai Group Construction Index | — | -34.5 |
+| Nov 04 06:00 AM | AU | Ai Group Manufacturing Index | — | -8.7 |
+| Nov 04 06:00 AM | AU | S&P Global Composite PMI Final | 47.7 | 51.3 |
+| Nov 04 06:00 AM | AU | S&P Global Services PMI Final | 47.8 | 51.9 |
+| Nov 04 07:50 AM | JP | Monetary Base YoY | -14% | -15.2% |
+| Nov 04 08:30 AM | AU | Household Spending MoM | 0.2% | 0.0% |
+| Nov 04 08:30 AM | AU | Household Spending YoY | — | 6.8% |
+| Nov 04 08:30 AM | AU | RBA Chart Pack | — | — |
+| Nov 04 08:30 AM | SG | S&P Global PMI | — | 58.1 |
+| Nov 04 09:45 AM | CN | RatingDog Services PMI | 51.5 | 51.6 |
 
 ---
 
 ## 📚 Full Reading List
 
 - **BBG**
-  - [Hormuz Reopening Talks Advance as Iran Warns of Wider Response if Attacked](https://www.bloomberg.com/news/videos/2026-11-02/horizons-middle-east-africa-11-2-2026-video)
-  - [Taiwan Eases Exporter US Dollar Sale Curbs as Currency Drops](https://www.bloomberg.com/news/articles/2026-11-02/taiwan-said-to-ease-exporter-fx-rule-after-record-stocks-exodus)
-  - [Chinese Factory Activity Cools With Slowdown in Export Orders](https://www.bloomberg.com/news/articles/2026-11-02/china-factory-activity-expands-but-ends-streak-of-faster-growth)
-  - [BOJ Signals Low Hopes for Consumer Spending as Population Falls](https://www.bloomberg.com/news/articles/2026-11-02/boj-signals-low-hopes-for-consumer-spending-as-population-falls)
-  - [Alphabet Kicks Off Sale of Its Second Euro Bond This Year](https://www.bloomberg.com/news/articles/2026-11-02/alphabet-kicks-off-sale-of-its-second-euro-bond-this-year)
-
+  - [South Korea Inflation Holds Firm, Bolstering Case for More Hikes](https://www.bloomberg.com/news/articles/2026-11-02/south-korea-inflation-holds-firm-bolstering-case-for-more-hikes)
+  - [BOE to Raise Rates for First Time Since 2023, Survey Shows](https://www.bloomberg.com/news/articles/2026-11-02/boe-to-raise-rates-for-first-time-since-2023-survey-shows)
+  - [El Niño Could Raise US Inflation, Boost Jobs in 2027: Fed Study](https://www.bloomberg.com/news/articles/2026-11-02/el-nino-could-raise-us-inflation-boost-jobs-in-2027-fed-study)
+  - [AI Risk Needs to Clear Before Any Post-Midterm S&P Rally Begins](https://www.bloomberg.com/news/articles/2026-11-02/midterm-rally-may-be-tricky-as-ai-trade-becomes-show-me-story)
+  - [US Tech Stocks Enter Correction on AI and Midterm Election Risks](https://www.bloomberg.com/news/articles/2026-11-02/us-stock-futures-rise-as-oil-prices-drop-easing-ai-led-selloff)
+  - [Treasury Yields Extend Past Month’s Slide as Oil Prices Drop](https://www.bloomberg.com/news/articles/2026-11-02/treasury-yields-extend-past-month-s-slide-as-oil-prices-tumble)
+  - [ECB’s Makhlouf Says France Needs to Fix Public Finances](https://www.bloomberg.com/news/articles/2026-11-02/ecb-s-makhlouf-says-france-needs-to-fix-public-finances)
 - **Reuters**
-  - [Stocks bounce as Apple earnings near, oil falls](https://news.google.com/rss/articles/CBMigwFBVV95cUxPbXpaWVRrQUkzYThuc1E5TnFCUXBTSTV2bHNaR1FhUmdEYnhjSHVneFdpbGhjeENwWlE2WVE1c3FCUV9qeGZzRGNoNFEzdERMblBDb005a2NBV3B2YzdfNF95dGtrVmxiNlJrNFU3UC1BTnZHcVh4a3hna25vdEFkSEtMUQ)
-  - [BOJ locks in December hike, but neutral-rate uncertainty muddies outlook](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYTctMVc3dnVQZlY5amJ2ejRjZEpqWTl4UFZJcHhvMzJoVjRJLUV6LVduano0Q2VaUHdmY1RXNWlSUTNxRGhPUVoxZ1dqelBadS1ENmNZcmwtTTJkYm5zU1NLNDhxSWtmUHVRY0hHRjg3NUY0QzdCbmZWRlZwWEZ5WC00Q2ZpNlVKSEp0QWVyNThIVE5WN1V5c2NvTFdmWEM5NWlKNFpmVGxHbm1LQktvSXo4alFhc29Z)
-  - [North Korea says US-South Korea nuclear drill shows need for stronger nuclear deterrent](https://news.google.com/rss/articles/CBMixwFBVV95cUxOWWxMc2tZWEhyS1Q1TXlxdFg1OTlIcEU0aVp5c0xGWEI0RE0wbzVfTVhOdHhXQXFseElRYlZIalE0bEpGeUNRRHVVWmY4MmhoYjNDakEyeEtkd1ZPSU9EYnZUSTZBOWNzU25MNkJQaWRYXzVVR1pESzJBX0IzQ255MnpBOXhpaXpyUGhVTHBHdHVHc3hQM0syRmlHam8wVmc5V1lHNnUwWkdGbW5kbjU2a2J4QXFQOGVzUFRFUnNLMVZDVS00cVpB)
-  - [Tesla, Samsung oppose new US tariffs on Vietnam as probe deadline nears](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTUJxSGZ6aEZSWjV4VHFHeVBzTXMxVDFKcEg5OG1sbEdjTkliSDZSS2NvYmlRbUxfQks0eUVUbjJRSktzZVFqWnZTWlplTHM5YjVnUkNESHd4ZmgyRk5ib2lHdlNKYlZlQ3VqUHdvcHZvMjAzYXE2NDZLbnFnel9CZ1FoSHI5Nk1zY3NiTy1tSjhrZ1hZdVRnNVB3eHBfVUticXc1ejZ2cWlhUjR6ajRhTGRsVWVDVV9I)
-  - [Gold rises on softer oil; markets parse Fed signals](https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXFkdElkaE5fVGZ6eUVZUFZnZjNuaUFoM2pPZ1ZJeEY4bmN0Wm9zSTRwLWpHcjNjLWRLRklsOV95a21mWjZWckhUam5qTVZVUzVDdWEwQXVOVWlpaHpCMktPLU41TGNkZjI3MFM1azNvSEtUai1pUGFpNi1mZFhISlB3TXFUSWtseGlhYmRISUpuWXdlVU5mLTJPRQ)
-  - [South Korea factory activity growth slows to 8-month low, PMI shows](https://news.google.com/rss/articles/CBMiugFBVV95cUxQd0piN0pmbXlKU2xFeFFUY2dRYU1weXZyUXBfeUd2YVJxQWNXbTZMR2NvUFdpelVCX014emQ0cklBZFdobGgtWnlXVXZSdDc4bUxpWDFzQ0w2NVZwRERVbllGaVBSZDd1cEZra0c2ZllRbzdOVFRtRDdrckNVNkpaeDlmbjdsTmtoTmd0NWgwUDlxSVZPOWtjMFpVMEZ1RlYxRXRjLWFWWkg3UGphRXl1a1FYZ2sxTTZGWXc)
-  - [Japan's October factory growth slows as costs pick up, PMI shows](https://news.google.com/rss/articles/CBMitAFBVV95cUxPNHpkYmhCcHc0RVJPMzNVSElLRzl3MkJ0UWRaMjZXR3BUMGJZeTNKNDRTa29WanJuYkctNkVVN1RYOUxvZk9NQVIxM3I3aDlzUFI4Y3c3V3d1d2xGaS1pQy1VNWMtem8tSmV4MTczeFoya0h1a0FXM3JzYVR4YzBURkRPMVUzeGk0RjhJNG1HMmJYS3RaSTNsOVd2dWJXM3M0Y3hZNkZGRmJObTYwaVBiZEh5elI)
-  - [US pushes to restore Russian gas sales to Europe via Ukraine, WSJ reports](https://news.google.com/rss/articles/CBMiugFBVV95cUxOMkQyS0lzcURKNWt5Rk9fQlRvMGx5ejJiMTBRSnFsdTA1SWl6cncxdHNHR28wWDdCelVyWVctTkx3TjB6T3pCaHBDdm5veGVtZnJQWnRGNXVIQlRpamRENktDTU5SQ0JtZGFyWGFNYloyTTg5LTM5eTVKaklmZWlqRTNBM1FHRGdPYW9HS05QWlg3aEU5cXFjbVNvbm1BeVZBSk94RWFQbW9Cc2RGTVlGejBsT1RNZ0hZdlE)
-
+  - [Iran says contacts over ending war continue after talks finish with no breakthrough](https://news.google.com/rss/articles/CBMizAFBVV95cUxOLXhRTFk2aHFYY3VOMWFGdmFySFR5MTNxeWRRU1ZQM3RaWjg4ZFZlOTJHNDZjYmdCVjBOX0RweVAyWEI4T2dZMVFSbUt4bTc4NGlibnlTaDh2TUNydEdOQjZJSmt3RnRIbk1LNVJ4SlNkR0M3QWs3NnZwQ0JlMW5Ud0FaN29PaGcwdk1CbTZ1UUhjYkg5XzZwVmdwWGNnRnladzZVUEhBeTZScEZIMl9YZ0hUT01GcDdkMXFwcXF0Q3hkTEluSnpnb3F5RFA)
+  - [Trump raises doubts about renewed attacks on Iran](https://news.google.com/rss/articles/CBMiogFBVV95cUxOQndTRnlIMnd2YXYxWE0ySGhhU2lzZldZWGdGNlhUejVqLUxyTkJ3dzVnNWNZaGszckxhWVh3eDdtb1VmWHlpSkdyS1lES2VoYnhfdnVraHV4UE9ScDV3UHo2UVFmb1lHblVhaDdxM0I2QkxNc2x5Q3RybjNEVFRJQXdTbk05N2lxemd5cU1jWHh0aXVvM05rVmJiQm5uY2VmNGc)
+  - [US to suspend South Africa and Rwanda from duty-free trade access](https://news.google.com/rss/articles/CBMipAFBVV95cUxQTXBRdlBrbE5GVUt6UUhpRWFyUUNFTlBtSTAtdXgyaDA1OFl6ajZTQWg1SGlTakZXRXFNc0x4V1QtMHdmc1Vpb0ZWUGxlai1xR2xJTDd5YnVfZXBuY3ZyU1JDQk5tWU5PMEUwZlV2NGpGamg3SEZ0clF1NzA2R25McW52dzk0aGxLUkVnXzFwNlRpYlY3SlR2ckJnNHZPOUx6ZHNzNg)
+  - [China's slow buying of US farm goods tests $17 billion trade pledge](https://news.google.com/rss/articles/CBMirwFBVV95cUxNeGp4TlZzUzhLZkJsbVoyLWVtTVNHUmMtWVNteFpvbE9vYkZhcWxUSTdwQ0JyYi14MzdCN2dqeEU1Rkw5NHZISnhzbVV0Wno3U3M2b3FkRFdlXzBkdW5OT3RKRU5DamhSOWh1WVQyVk5ucG83amhtMDdqNWUwR2xianV2MUNtQ1Y0Qmo1QXJmOWd3SnB3eVZDcHpCZFFXc1MwamktYlRMeVhRc3FlZUlr)
+  - [US Treasury cuts fourth-quarter borrowing estimate to $618 billion](https://news.google.com/rss/articles/CBMiugFBVV95cUxOa24zc1dZcF9ab1hPdmlNanR5cXExUTNjMmpzMzlwN2RlV0JIQkZkVmJLX1VTdWctaHV6MVppUkNfZVBKX3NSd0lZTHFwXzN3Y2sxYURZalFHVUFZN3Zab3hXbkM5VlBGQmlaYU1yMlhtSDU2TVVEek40MF9vZF9vcUJNRlRya3MyZHA4SkZnbnJ2WTRuS201RlRJVVlIWUNyV1BzcXFGbWphSWhzN0JwSE9XdUtFNWlwM0E)
+  - [Canadian factory PMI shows sector contracting for first time in 2026](https://news.google.com/rss/articles/CBMisgFBVV95cUxQWHhsWlZpSkJudmhFd1lEZU1Jdll1Z0VoX2RCYVlLcE10RTlYTkIxRm5PNTJ3YTA1STNja1hQeXIzN3lBb1FuSW9GZE90dnE1N1ptX1VSR01VRkNTUXY5c2JsYTlWNGp2MGJFb0ZqZDZhN1pTcmF3Y0JUV1RBbWhtdm9VV1pUSlRYd2pFazkzbUlTRGdrYUV3Zzg2QU5SQVk1YXFKb3V3MnotaGc1aFNGRGRR)
 - **WSJ**
-  - [Oil Prices Fall More Than 3% as Iran Peace Talks Ease Supply Fears](https://news.google.com/rss/articles/CBMisgFBVV95cUxNSGlnQ2hWb0xhREU3dG5ZeGtaV3cxb1kzRk9TT2FOanNnRW8yWWVkd0xCLWpmbDRLVkVqRVpMWXJuY2E1N2tfMGRnV3hkWE1IRmtjYWU0M3Z0V1FlMmoyaTlGSXl2Y1R1ZVZYUUdvdnJnZjNVRzBTNzhtb0FnaWJuV3hhWkpVQU1iRkVtSmFhWjQ0XzM3T0NBVmFudVVldWhZemFoeDJPSy1hWXhCbmdEbUVB)
-  - [Saudi Arabia’s Economy Shrinks 3.8% as Oil Output Falls](https://news.google.com/rss/articles/CBMiogFBVV95cUxNank1YzNlSFhfdUV4UGw1RjBIdDBoam9faEZnRTZtQzdqT3JDemlTQnQ2UnVOTWRISHUweDRTRzVJZi1GQW1pRHoxRmhBRGxOWERURUNtejZLR21iWXRBYU1NR2lpZmgtNFJBSDRiWmtFVFhiMHNUUXMzSXBKU2N1T3pzSm0zMFlkNDlOQUV2SlktNkxSNXMtcElJZkxRU0FXaEE)
-  - [Nikkei Falls 0.9%, Dragged by Bank, Tech Stocks](https://news.google.com/rss/articles/CBMikgFBVV95cUxQcGxGdEEtcWJLZ2lOQkhnN3ByeUtHZUZtZC1jR0daSS1pMVJTZktCU3J1ZU41YkhJOEJQZkhHRThGQ2UzZ0F4RkItYmw0c2phb2NXaFE0bmNrQ1R0a182OXBHdExCMzV4a0VWU1JvZlB5WlYxR05lSE5zM3RGdUtKcmRxaDdpQmdKTnptWHplb1RhZw)
-
+  - [America’s Gulf Allies Prepare for New Round of Strikes on Iran—and the Blowback](https://news.google.com/rss/articles/CBMiwgFBVV95cUxONGprSkphSVBVaURoYUtYbXJZdGRRRWFRZEF4dzFtcXJlaW45aGFzTTkyS1VtMmR3eFVrT0p1M1dOWkx6VnlnZld3U2c4WkVnVjV3amQwdFhWQUdsTHRKUW1NeHQ2S0RBd2M2b0xaS2FvUlNTY3hDNW1kYkdwUVBYTjlVUGVOeW11RnFocWtuZkN4T2xlYWlpbjI2WF82Q0dlT2tPSkJwQUk0SDgyLWU2dy1tc0JvX3FnZGVCUnF3dmZEUQ)
+  - [America’s Multi-Trillion Dollar AI Buildout Is on the Ballot—And Wall Street Is Watching](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMGRBeXJhcngwMjFaRi1WQXd4VnpvYUctLTVvY01ERTJibUdjeTJITl9XMFJncFRuTXJ1eUxYbnF6U2xybHpyd0R3NjBFem9jTmZHdVJwTFBDdjlDUG1QdWtTR1VXSVBpUFZSdVhoSlRoLXdZdUgtSjZiNzc2bnB0bTE4OVdkLU5Qejl1cXhsYmREN0t1QlMtbVFtLVRRU2FsVXh2UjZ1bGVXTG9oMVZQaTcwZ0NoNWJJ)
+  - [Exclusive | U.S. Pushes to Restore Russian Gas Sales to Europe Via Ukraine](https://news.google.com/rss/articles/CBMipgFBVV95cUxNcGJ5czJUY0hNMkJORml6Z2ptY3h0SWp1MXNFVDhlNjNJY0RqQVRweDl0eGtJQ0RWZndidWFsM3VhLV82bTQ2TEYxUlRtVV9qdk1wSDd6RWM0QklacEhOWnFjeEQ0S0tZNXRDVlZiTk82cmdxZU1BY2J2dGE4aTlzcDJveW1tUUJtb0hudHI2cmJ0d2JvZDh4XzZ0Z0wtY2FwMG5YVGJn)
 - **FT**
-  - [BoE set to raise rates to 4% in fight against inflation](https://www.ft.com/content/30405694-3487-4c41-b720-613bde9d2de1)
-  - [China’s soaring chemical exports threaten new trade war front](https://www.ft.com/content/2962ad57-cee1-4a63-82ba-17acfc09d812)
-  - [Global AI sell-off eases after Nasdaq’s worst month in over a year](https://www.ft.com/content/d7fe99f8-d292-4cb5-a8fd-45be0f8cc2b3)
-
+  - [Oil tumbles on hopes for US-Iran talks](https://www.ft.com/content/d7fe99f8-d292-4cb5-a8fd-45be0f8cc2b3)
+  - [Big majority of US voters disapprove of Trump’s handling of inflation: FT poll](https://www.ft.com/content/5ed63d08-66f3-4ad3-9ec7-2ec8b590fc85)
 - **CNBC**
-  - [Rubio says Trump wants to end Iran war 'peacefully' even as both sides prepare for strikes](https://www.cnbc.com/2026/11/02/us-iran-war-trump-hormuz-rubio.html)
-
-- **SCMP**
-  - [Beijing launches US$15b asset swap to support China’s markets after sell-off](https://www.scmp.com/business/markets/article/3372993/beijing-refreshes-asset-swap-support-chinas-stock-market-after-sell)
-  - [China and Oman unite in Mideast peace call on sultan’s ‘historic’ Beijing visit](https://www.scmp.com/news/china/diplomacy/article/3372994/china-and-oman-unite-mideast-peace-call-sultans-historic-beijing-visit)
-  - [Iran warns new war with US could last longer as Trump threatens ‘the hammer’](https://www.scmp.com/news/world/middle-east/article/3372947/iran-warns-new-war-us-could-last-longer-trump-threatens-hammer)
-
-- **Al Jazeera**
-  - [Hormuz shipping still faces major risks](https://www.aljazeera.com/video/newsfeed/2026/11/2/hormuz-shipping-still-faces-major-risks)
-
+  - [Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. midterms](https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html)
+- **Caixin**
+  - [央行启动第三次互换便利 申请额度超1000亿元](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXVDVEdE1GeHBMclF5cXZ4dVZ2Rk5pTXdXcnFjaElKVDBGWG5jRmREdnFmRW44eEl3bE83VWxZaUJ1b053NmhLSjVVLXNnQnJjTkdGeXNzUXZ6R2wxUDM3VlVR)
 - **WallstreetCN**
-  - [央行将开展第三次证券、基金、保险公司互换便利操作 超30家机构表达初步意向](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MT1k1YkdSaUlybU1CZlU2Zmc2YTVkRlkzNmo1dkVrVkFMc1Jfa3o3dEFmOFg1MDlmYWlrN3dQMF9VM3FsYkxMSVk3VW1FdzduUENF)
-  - [央行明日开展互换便利操作，31家机构申报额度超1000亿元](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MNWpIR19CZFB6U2V1V2VFYV95ckQwemdfU1NKNzBMTmlTOS1MUENUamtaV2hFMld1TjZrMGJCQ05TSnI5OFFGVVdfMWpfZXVSZHdv)
+  - [央行等三部门优化资本市场支持工具，回购增持再贷款利率降至1%](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZR1VOM3A4R3VUQnFUaWJxYWN5U0cyUGM2Z21nbnJWVHFNY0xVVWlTOVd4TC1EUHZCaUQ1TGVyLWNNTW15dlRFQzJwSHVvaGlNaUM0)
+- **Al Jazeera**
+  - [Iran war live: Vance sees ‘progress’, Tehran says ‘ball is in US court’](https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court)
+- **Lloyd's List**
+  - [How much longer can the Hormuz stalemate last?](https://news.google.com/rss/articles/CBMiigFBVV95cUxQamQxbDRnTXdBNGlvOFJTZVlqWDJjZHBwY0g5Z3VhMGxaSTMtcDJnZnJMWVpQRDBGZVBfRzdvdXJjYUFlbWJmTDFaaEpkYVBsZzE3UkFlRFgtZ2drRXlmdkM5VnV6NDhQRFk5a2hTeUxjQUZ5YXFya3RwU01XTmJhUThKeHZZaXJtZXc)
+  - [Container reliability slumps to 52% as delays near record](https://news.google.com/rss/articles/CBMimAFBVV95cUxONnFwU1JON2kxQ25jLTNlbDBSTnVGc0dvdmRfRFZiUjhERVdHR2kwbUZHalZEbTFjLVNnd3MwUGE4Z05IS2U5WXNqcjFJLXNIN2d2SVNFMHRhMzZTNE1RTEV2ZlFoUVNUUnJIUkJpcWdtcGxHSFB2MFNPalpjV2VGMTdQUlFPMTRHOE1HZ3N3cFg3cXNMUHdYag)
+
+---

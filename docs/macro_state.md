@@ -1,22 +1,26 @@
-# Macro State — Last updated: 2026-11-02
+# Macro State — Last updated: 2026-11-03
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Iran diplomacy/de-escalation with Hormuz chokepoint risk** — Status: Acceleration; Hormuz reopening talks advanced and oil fell more than 3%, but shipping danger persists; next trigger ceasefire framework or renewed strikes.
-- **China capital-market support and PBOC easing** — Status: Acceleration; PBOC announced fresh 100 billion yuan one-year swap for A-share support; next trigger tomorrow’s operation take-up and A-share stabilization.
-- **Taiwan FX pressure and capital outflows** — Status: New; Taiwan eased exporter US-dollar sale curbs as currency dropped after record stock exodus; next trigger exporter conversion behavior and TWD closing weakness.
-- **US repricing and AI trade unwind** — Status: Fading; global AI sell-off eased and stocks bounced while BoE/BOJ signals kept rate repricing live; next trigger US ISM today and Tuesday midterms.
+- **Iran diplomacy and oil selloff** — Status: Acceleration; crude sold off more than 7% on diplomacy hopes but talks ended without breakthrough; next trigger ceasefire framework or renewed strikes.
+- **US midterms and AI trade correction** — Status: Reversal; tech correction and midterm risk offset oil-driven easing; next trigger Tuesday midterm results and AI capex guidance.
+- **PBOC equity support** — Status: Acceleration; third swap facility and buyback/relending rate cut to 1% signal stronger A-share and CNH support; next trigger swap take-up and A-share reaction.
+- **Korea inflation and BOK tightening** — Status: Confirmation; inflation held firm bolsters case for more hikes; next trigger BOK guidance and KRW response.
+
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- Confirmed US-Iran ceasefire framework or new Hormuz vessel attack within 72h.
-- PBOC swap facility operation tomorrow, size/take-up and A-share reaction.
-- Taiwan TWD closing levels and whether exporter dollar sales decline.
-- US ISM Manufacturing today and Tuesday US midterms as Fed/AI repricing checks.
-- RBA interest rate decision tomorrow, expected 4.85% versus 4.60% prior.
+- US midterm election results and any AI capex or fiscal policy signals within 24h.
+- Iran ceasefire framework or renewed strikes/Hormuz disruption within 72h.
+- PBOC swap facility operation details and A-share reaction.
+- RBA interest rate decision today.
+- Korea inflation follow-through and BOK policy signal.
+
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will Middle East de-escalation hold without a new kinetic event and keep Brent risk premium lower?
-- Will PBOC swap/stabilization tools reverse A-share outflows and anchor CNH?
-- Will Taiwan FX easing signal broader Asia FX divergence or spread to KRW/TWD?
+- Will US midterm outcomes shift fiscal, trade, and AI policy expectations enough to reset equity and bond risk premia?
+- Will Iran talks hold without a new kinetic event and keep Brent risk premium lower?
+- Will PBOC support tools reverse A-share outflows and anchor CNH?
+
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- Brent: oil prices fell more than 3% as Iran peace talks ease supply fears ([WSJ](https://news.google.com/rss/articles/CBMisgFBVV95cUxNSGlnQ2hWb0xhREU3dG5ZeGtaV3cxb1kzRk9TT2FOanNnRW8yWWVkd0xCLWpmbDRLVkVqRVpMWXJuY2E1N2tfMGRnV3hkWE1IRmtjYWU0M3Z0V1FlMmoyaTlGSXl2Y1R1ZVZYUUdvdnJnZjNVRzBTNzhtb0FnaWJuV3hhWkpVQU1iRkVtSmFhWjQ0XzM3T0NBVmFudVVldWhZemFoeDJPSy1hWXhCbmdEbUVB)); de-escalation repricing.
-- USD/TWD: Taiwan eases exporter US dollar sale curbs as currency drops ([BBG](https://www.bloomberg.com/news/articles/2026-11-02/taiwan-said-to-ease-exporter-fx-rule-after-record-stocks-exodus)); capital-outflow and FX policy signal.
-- China swap facility: `100 billion yuan (US$15.04 billion)` ([SCMP](https://www.scmp.com/business/markets/article/3372993/beijing-refreshes-asset-swap-support-chinas-stock-market-after-sell)); A-share liquidity support.
-- XAU/USD: gold bounced from one-year low as softer oil and Fed parsing drove dip buying ([Reuters](https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXFkdElkaE5fVGZ6eUVZUFZnZjNuaUFoM2pPZ1ZJeEY4bmN0Wm9zSTRwLWpHcjNjLWRLRklsOV95a21mWjZWckhUam5qTVZVUzVDdWEwQXVOVWlpaHpCMktPLU41TGNkZjI3MFM1azNvSEtUai1pUGFpNi1mZFhISlB3TXFUSWtseGlhYmRISUpuWXdlVU5mLTJPRQ)).
+- Brent: crude oil prices sold off more than `7%` on Iran peace talk hopes ([CNBC](https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html)); de-escalation repricing.
+- PBOC buyback/relending rate: cut to `1%` ([WallstreetCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZR1VOM3A4R3VUQnFUaWJxYWN5U0cyUGM2Z21nbnJWVHFNY0xVVWlTOVd4TC1EUHZCaUQ1TGVyLWNNTW15dlRFQzJwSHVvaGlNaUM0)); A-share liquidity support.
+- US Q4 borrowing estimate: `$618 billion` ([Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxOa24zc1dZcF9ab1hPdmlNanR5cXExUTNjMmpzMzlwN2RlV0JIQkZkVmJLX1VTdWctaHV6MVppUkNfZVBKX3NSd0lZTHFwXzN3Y2sxYURZalFHVUFZN3Zab3hXbkM5VlBGQmlaYU1yMlhtSDU2TVVEek40MF9vZF9vcUJNRlRya3MyZHA4SkZnbnJ2WTRuS201RlRJVVlIWUNyV1BzcXFGbWphSWhzN0JwSE9XdUtFNWlwM0E)); fiscal supply signal.
+- US Treasuries: yields extended past month’s slide as oil prices dropped ([BBG](https://www.bloomberg.com/news/articles/2026-11-02/treasury-yields-extend-past-month-s-slide-as-oil-prices-tumble)); inflation-policy repricing.
+- Container reliability: slumps to `52%` as delays near record ([Lloyd's List](https://news.google.com/rss/articles/CBMimAFBVV95cUxONnFwU1JON2kxQ25jLTNlbDBSTnVGc0dvdmRfRFZiUjhERVdHR2kwbUZHalZEbTFjLVNnd3MwUGE4Z05IS2U5WXNqcjFJLXNIN2d2SVNFMHRhMzZTNE1RTEV2ZlFoUVNUUnJIUkJpcWdtcGxHSFB2MFNPalpjV2VGMTdQUlFPMTRHOE1HZ3N3cFg3cXNMUHdYag)); supply-chain friction signal.
