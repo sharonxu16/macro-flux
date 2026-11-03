@@ -1,26 +1,24 @@
 # Macro State — Last updated: 2026-11-03
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Iran diplomacy and oil selloff** — Status: Acceleration; crude sold off more than 7% on diplomacy hopes but talks ended without breakthrough; next trigger ceasefire framework or renewed strikes.
-- **US midterms and AI trade correction** — Status: Reversal; tech correction and midterm risk offset oil-driven easing; next trigger Tuesday midterm results and AI capex guidance.
-- **PBOC equity support** — Status: Acceleration; third swap facility and buyback/relending rate cut to 1% signal stronger A-share and CNH support; next trigger swap take-up and A-share reaction.
-- **Korea inflation and BOK tightening** — Status: Confirmation; inflation held firm bolsters case for more hikes; next trigger BOK guidance and KRW response.
+- **PBOC FX stabilization** — Status: New; first FX RRR hike to `6%` in nearly five years after CNY broke `6.65` signals policy cap on yuan strength; next trigger follow-up FX tools or spot reaction near `6.65`.
+- **US-Iran military escalation and energy risk** — Status: Reversal; US struck Qeshm Island and Iran says deal distant, reversing this morning's de-escalation impulse and reviving oil/gas risk premium; next trigger ceasefire framework or further energy-infrastructure strikes.
+- **RBA terminal-rate pivot** — Status: New; split-decision hike to `4.85%` with Bullock pause signal argues tightening cycle near peak; next trigger RBA Chart Pack and household spending.
+- **China equity market support** — Status: Acceleration; IPO pause adds to prior swap facility and buyback/relending measures, extending the A-share/HK policy put; next trigger listing halt details and A-share/HK response.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- US midterm election results and any AI capex or fiscal policy signals within 24h.
-- Iran ceasefire framework or renewed strikes/Hormuz disruption within 72h.
-- PBOC swap facility operation details and A-share reaction.
-- RBA interest rate decision today.
-- Korea inflation follow-through and BOK policy signal.
+- US midterm election results and Asia market reaction within 24h.
+- PBOC FX RRR implementation and CNH reaction near `6.65`.
+- Iran ceasefire framework or further strikes on energy infrastructure within 72h.
+- RBA Chart Pack and household spending data due tomorrow.
+- China IPO halt details and A-share/HK trading response.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will US midterm outcomes shift fiscal, trade, and AI policy expectations enough to reset equity and bond risk premia?
-- Will Iran talks hold without a new kinetic event and keep Brent risk premium lower?
-- Will PBOC support tools reverse A-share outflows and anchor CNH?
+- Will the PBOC FX RRR hike cap yuan appreciation without triggering broader FX deleveraging?
+- Can US-Iran talks survive the Qeshm strike and midterm pressure, or is de-escalation reversing?
+- Will China's IPO pause plus existing equity support stabilize A-share/HK outflows and anchor CNH?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- Brent: crude oil prices sold off more than `7%` on Iran peace talk hopes ([CNBC](https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html)); de-escalation repricing.
-- PBOC buyback/relending rate: cut to `1%` ([WallstreetCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZR1VOM3A4R3VUQnFUaWJxYWN5U0cyUGM2Z21nbnJWVHFNY0xVVWlTOVd4TC1EUHZCaUQ1TGVyLWNNTW15dlRFQzJwSHVvaGlNaUM0)); A-share liquidity support.
-- US Q4 borrowing estimate: `$618 billion` ([Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxOa24zc1dZcF9ab1hPdmlNanR5cXExUTNjMmpzMzlwN2RlV0JIQkZkVmJLX1VTdWctaHV6MVppUkNfZVBKX3NSd0lZTHFwXzN3Y2sxYURZalFHVUFZN3Zab3hXbkM5VlBGQmlaYU1yMlhtSDU2TVVEek40MF9vZF9vcUJNRlRya3MyZHA4SkZnbnJ2WTRuS201RlRJVVlIWUNyV1BzcXFGbWphSWhzN0JwSE9XdUtFNWlwM0E)); fiscal supply signal.
-- US Treasuries: yields extended past month’s slide as oil prices dropped ([BBG](https://www.bloomberg.com/news/articles/2026-11-02/treasury-yields-extend-past-month-s-slide-as-oil-prices-tumble)); inflation-policy repricing.
-- Container reliability: slumps to `52%` as delays near record ([Lloyd's List](https://news.google.com/rss/articles/CBMimAFBVV95cUxONnFwU1JON2kxQ25jLTNlbDBSTnVGc0dvdmRfRFZiUjhERVdHR2kwbUZHalZEbTFjLVNnd3MwUGE4Z05IS2U5WXNqcjFJLXNIN2d2SVNFMHRhMzZTNE1RTEV2ZlFoUVNUUnJIUkJpcWdtcGxHSFB2MFNPalpjV2VGMTdQUlFPMTRHOE1HZ3N3cFg3cXNMUHdYag)); supply-chain friction signal.
+- USD/CNY: `6.65` threshold triggered PBOC FX RRR hike ([Caixin](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LZ1Z3NVRWdGlUejB5UV9FRzJvOW5nV0hRWHF0Wkp6ZklLcjJFZl8teWgwR2pVeHdfTzBsTG5EUW4xLTI5czViLUxrenpfVlBnU0wyem9kQlgwVDFKU19zWVhR)).
+- PBOC FX RRR: raised to `6%`, first tightening in nearly five years ([Caixin](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LZ1Z3NVRWdGlUejB5UV9FRzJvOW5nV0hRWHF0Wkp6ZklLcjJFZl8teWgwR2pVeHdfTzBsTG5EUW4xLTI5czViLUxrenpfVlBnU0wyem9kQlgwVDFKU19zWVhR)).
+- RBA cash rate: `4.85%`, 18-year high with split vote signaling pause ([BT](https://news.google.com/rss/articles/CBMivAFBVV95cUxQM3RyZXlPVWhhWWxsMXk5aUR2eUhQbHlYcWQ2Zk1Ndzh1SHU5TVhzZ21GbC01cnF0XzVSdnNYeGhwTTVPQkc4VWpkT3F6ZTVGQ0FrdE9INWZwTDlNajZMVjBNYUFyN3ZzcVlLRnoySW1rRU45MVRtc0luc2JYZlM0a1VicElSVFM1cWlKYzZub0FzdUlLa2xrZ2lCUWlpcDVUR3MtTWZqVHdxS0tHdkVfenBPR3JUcWstS1kzdg)).
