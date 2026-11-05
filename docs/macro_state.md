@@ -1,26 +1,26 @@
 # Macro State — Last updated: 2026-11-05
 
-## Active Narratives
-- **US midterm sweep re-pricing** — Status: Acceleration; Democratic control drives softer dollar, lower yields, equity rally, and sector rotation; next trigger Trump Iran decision and US jobless claims.
-- **Iran/Hormuz war premium unwinding** — Status: Reversal; oil below `$100` and banks flag supply recovery; next trigger ceasefire framework or escalation.
-- **Eurozone 4% inflation and ECB tightening** — Status: New; December hike nearly certain; next trigger energy pass-through and ECB communication.
-- **China equity stabilization via ETF support** — Status: Confirmation; official ETF inflows second-highest on record; next trigger A-share/HK turnover.
+## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
+- **Post-midterm Asia rotation** — Status: Acceleration; China/HK tech and cleantech bid while Korea heavyweights and defense sink; next trigger HK/China turnover and US AI-regulation headlines.
+- **Hormuz war premium residual** — Status: Fading; oil stays below `$100` but Seoul anti-piracy deployment and oil rebound keep risk premium; next trigger Houthi attack or ceasefire framework.
+- **China investment screening** — Status: New; SoftBank-ABB block signals inbound M&A barrier; next trigger official Commerce Ministry or SoftBank/ABB response.
+- **Asia inflation impulse** — Status: Acceleration; Philippine `7.8%`, Indonesia GDP `5.5%`, rice two-year high; next trigger BOE and US jobless claims.
 
-## Watchpoints
-- Explicit Iran ceasefire or Trump escalation; EIA inventory confirmation.
-- US Initial Jobless Claims and BoE rate decision tonight.
-- A-share/HK turnover response to state-linked ETF inflows.
-- Eurozone core inflation and ECB December policy guidance.
-- Follow-through in US AI/datacenter and defense stock rotation.
+## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
+- HK/China tech and cleantech follow-through after the post-midterm rotation.
+- BoE rate decision and US Initial Jobless Claims tonight.
+- Oil behavior below `$100` after South Korea Hormuz patrol expansion.
+- Official China response on ABB-SoftBank deal block.
+- North Korea or Hormuz security escalation headlines.
 
-## Open Questions
-- Can oil supply recovery and political de-escalation sustain Brent below `$100`?
-- Does Eurozone `4%` inflation force a December hike even as oil slides?
-- Will China ETF inflows offset US AI-regulation drag and revive the AI trade?
+## Open Questions (max 3 — only unresolved questions that affect positioning)
+- Does HK/China value rotation sustain if US AI-regulation fears trigger wider Asian tech selling?
+- Will food and energy pass-through force ASEAN central banks to tighten despite China easing?
+- Does China’s ABB block signal broader inbound FDI screening tightening into 2027?
 
-## Key Levels
-- Brent: below `$100` on post-election peace hopes ([FT](https://www.ft.com/content/b526f876-810a-4e74-8b8d-4ffca04b29c7)).
-- Gold: holds above `$4,000` as dollar and yields fall ([BBG](https://www.bloomberg.com/news/articles/2026-11-04/gold-holds-above-4-000-as-dollar-yields-fall-on-midterm-result?leadSource=uverify%20wall)).
-- Eurozone October inflation: `4%`, fastest in three years ([FT](https://www.ft.com/content/23cedd6f-e550-4869-aee1-e0ec10ae7e51)).
-- US ADP private payrolls: `86,000` in October ([BBG](https://www.bloomberg.com/news/articles/2026-11-04/us-companies-add-86-000-jobs-more-than-forecast-adp-data-show?leadSource=uverify%20wall)).
-- Brazil Selic rate: `13.75%` after Lula election ([BBG](https://www.bloomberg.com/news/articles/2026-11-04/brazil-holds-key-rate-steady-at-13-75-after-lula-s-election-win?leadSource=uverify%20wall)).
+## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
+- Brent: below `$100` as traders weigh Iran diplomacy and supply outlook ([WSJ](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNFRHX3ZFOFQ1SHJRd3R1M0R5dU4zY1NnckI5ODFjRmtWQUVXOC1WRTJiQTBYTEVEbWJlOW94WlF3a1R2aUVMLXg3VnJ0aVZrQktIZHpmZnNpTWktYVgyZXVNMGVpRGdjSlhfRDhQSHczQ3BDdWhybUx2c043YmQwdkRuWW9WeGE3amVpZFE2VEVDTlRxZktZc0JLSFRxdnplcUxUdVhuZm5Bbl9nb3Q3aW0xdFFDam1XcEstMVFB)).
+- Philippine October inflation: `7.8%`, close to four-year high ([BBG](https://www.bloomberg.com/news/articles/2026-11-05/philippine-october-inflation-accelerates-7-8-close-to-four-year-high)).
+- Indonesia GDP: `5.5%`, defying market slump ([BBG](https://www.bloomberg.com/news/articles/2026-11-05/indonesia-s-gdp-grows-5-47-beating-estimates-in-third-quarter)).
+- UK inflation peak: `4.4%` in 2027 ([FT](https://www.ft.com/content/aa340415-ef92-45f3-a145-6b05f6aac9cb)).
+- Asia rice prices: two-year high on El Niño, threatening inflation ([BBG](https://www.bloomberg.com/news/articles/2026-11-05/el-nino-pushes-asia-rice-prices-to-2-year-high-threatening-inflation)).

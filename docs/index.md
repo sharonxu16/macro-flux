@@ -1,85 +1,85 @@
 ---
 tags:
   - Macro/US_Midterm_Sweep
-  - Macro/Iran_Deescalation
+  - Macro/China_Tech_Rotation
   - Asset/Brent
-  - Asset/Gold
-  - Trade/Long_UST
+  - Asset/KRW
+  - Trade/Short_KRW
 ---
 
 <div align="center">
 
 # 🌊 Macro Flux
 
-<small>Nov 4 5PM to Nov 5 8AM HKT</small>
+<small>Nov 5 8AM to Nov 5 5PM HKT</small>
 
-<small>Good morning.</small>
+<small>Good afternoon.</small>
 
 </div>
 
 ---
 
 > [!abstract] Overview
-> The Democratic sweep of both chambers of Congress is dominating global assets, with oil crumbling below `$100` on bets that Washington will push for an end to the Iran war, while US equities posted their best day since August and Treasury yields slid. That political shock is also producing sharp sector rotation, with AI data-center and defense stocks falling while renewables and hyperscalers outperform, and gold holds above `$4,000` on the softer dollar. Separately, Eurozone inflation accelerated to `4%`, a three-year high, making a December ECB hike nearly certain and keeping European rates supported even as energy prices fall. China is reinforcing its own equity market with state-linked ETF inflows at the second-highest level on record. The cross-market thread is a Washington-driven unwind of war and dollar premium plus a re-anchoring of policy expectations across the Eurozone and China.
+> China and Hong Kong equities led the Asia session, with rotation into China tech and cleantech while Korea’s heavyweights and defense complex sank, extending the post-midterm repricing beyond US markets. Brent is holding below `$100` but found a bid as investors weigh Iran escalation risks, and Seoul is expanding anti-piracy patrols toward Hormuz, keeping a residual war-risk premium in energy and shipping. The Bank of England is the next major catalyst, expected to deliver its first hike in three years later today. Philippine inflation accelerated to `7.8%`, Indonesia posted `5.5%` GDP growth, and Asia rice prices hit a two-year high on El Niño, complicating the regional inflation picture. The cross-market thread is a two-way rotation: the Democratic sweep is boosting China-exposed and non-AI value assets while food and energy price rebounds keep Asia inflation and central banks on edge.
 
 ---
 
 ## 🔬 Narrative Watch
 
-### 📌 Democratic sweep re-prices US markets and unwinds Iran war premium
+### 📌 Post-midterm Asia rotation: China/HK tech and cleantech bid, Korea heavyweights and Asian AI names slide
 
 **Fact**
-US stocks posted their best day since August after Democrats swept the midterms, with hyperscalers surging and chipmakers falling as investors bet on winners and losers from an expected backlash against the AI boom ([FT](https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea)). Oil tumbled below `$100` on post-election peace hopes, and US vice-president JD Vance blamed Republicans’ midterm defeat on anger over the Iran war ([FT](https://www.ft.com/content/b526f876-810a-4e74-8b8d-4ffca04b29c7)). Oil steadied after tumbling more than `8%` in the previous session as investors bet that a Democratic sweep in the US midterm elections could accelerate efforts to end the war in the Middle East ([BBG](https://www.bloomberg.com/news/articles/2026-11-04/latest-oil-market-news-and-analysis-for-nov-5)). Gold held above `$4,000` as dollar and yields fell on the midterm result ([BBG](https://www.bloomberg.com/news/articles/2026-11-04/gold-holds-above-4-000-as-dollar-yields-fall-on-midterm-result?leadSource=uverify%20wall)). The 10-year Treasury yield slid as traders mulled Democrats’ midterm victories and oil prices dropped ([CNBC](https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html)). Democrats took Congress as Trump said the Iran war was partly to blame for GOP losses ([WSJ](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWTdDcl95ZWRjVHlORVdINFFmUnpoa1hEVVAyd09haUZvOEpLdGNJNV9aZlh0ejR1MEFYWkFla2lFcnlmWjVRUnBQc0piRGtvRjBhb1h3TlhPZmlZaVBiT0hDRjY1akEyOTNqalZ3SlBqLWZQZUZ0b0FsVm10TkZLZ01mSEVDRW1kNG02d0hiQ0otOFJYTi1vUXBaSld5NXVickpfZ2xNbmhJUFdPdHU0dW9WUXdmQQ)). Beaten at home, Trump faces a stark choice on Iran: deal or escalation ([Reuters](https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3dTRDFGYS1HSWtZcGh3ZTh2MjRleFhNUkwtR0wwSUd3TWlsQU1tcjI2ZG1fa1RxNHEyRDJsSUpjTzNGb0xTRE90Umh1RVdncGxtN29NNVhXel9PMlZ3UEQ1bDJzTkh4V052MEh5UFFteDRHakRVTzVQLS1rdjEzM2xjZDlYdjhCWkxwMkZOMjVSUlhOV2NCVl9ETFROeEN3ZENWQmZiejJhLXctcHFDUkc5d3k)).
+China Stocks Surge As Blue Wave Sinks Korea's Heavyweights ([BBG](https://www.bloomberg.com/news/videos/2026-11-05/the-china-show-11-05-2026-video)). Hong Kong Stocks Roar Back as Value Rotation Boosts China Tech ([BBG](https://www.bloomberg.com/news/articles/2026-11-05/hong-kong-stocks-roar-back-as-investors-rotate-away-from-ai)). China's cleantech stocks jump as investors bet on US policy shift ([Reuters](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdHllX1NRUnhtUFNpX3FES2xxMF93ZVJTdkhEelhpSXR6RmViQ2ZLc3Z1TXpKRjBNMjdrbWZZYmlSVGdWd2MxSUdsaHdCTmUzckE1M09ScmVsLWhuTThTa190TVlFMWpwbC1jcTlobmxjMG9SOVV0N3hHQUl3dDUzdmR2ZFhjQkFFRVRtOEhSdzVJazQ0aF9mdnhtY0h5ZDBVQUhOc0hkS3pJejN6Ui1F)). Asian tech stocks slide on post-midterm AI fears ([FT](https://www.ft.com/content/21755495-c68a-45a9-90d8-64f698cd1952)). Concerns mount that Democratic control of Congress will slow data centre build-out ([FT](https://www.ft.com/content/21755495-c68a-45a9-90d8-64f698cd1952)). South Korean defense stocks rode a wave of global rearmament for the past two years, but they have plunged in 2026 ([CNBC](https://www.cnbc.com/2026/11/05/south-korea-defense-weapon-war-stocks-fall.html)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Acceleration of the blue sweep repricing, with Iran war premium reversing as oil falls below `$100`.
-> * **Transmission / Market Read**: Risk-premium and rates channel favors **long UST**, **long gold**, **long US equities**, and **short Brent**.
-> * **Watchpoint / Confidence**: Watch for explicit Iran ceasefire or Trump escalation, plus EIA inventory confirmation. Confidence: High.
+> * **Narrative change**: Acceleration of the US midterm rotation into Asia, with China/HK value bid and Korea heavyweights underperforming.
+> * **Transmission / Market Read**: Capital-flow and risk-premium channel favors **long China/HK tech and cleantech**, **short KRW and KOSPI defense**.
+> * **Watchpoint / Confidence**: Follow-through in HK/China turnover and any US AI-regulation headlines; Confidence: Medium due to video-led sourcing.
 
-### 📌 Eurozone inflation hits 4%, pointing to December ECB hike
+### 📌 China blocks SoftBank’s $5.4bn ABB robotics takeover
 
 **Fact**
-Eurozone inflation rose to `4%` in October, with consumer prices accelerating at the fastest pace in three years and core inflation remaining well above the ECB’s `2%` target ([FT 1](https://www.ft.com/content/23cedd6f-e550-4869-aee1-e0ec10ae7e51), [2](https://www.ft.com/content/a3da6c3a-4ab3-413c-bbeb-490d7cde34dc)). Eurozone inflation rose to `4%`, driven by energy costs ([WSJ](https://news.google.com/rss/articles/CBMinwFBVV95cUxQUk5sSUkwTkkyRVh3VGRuc196anVjNGZpeW1SNmRBZTNvTzEzYmVaQ1JYTnlieXpXT0ZZQmVDVU5iU2dIVnFoNEZGU1phUkp0ekRUUlpxZjNDTU9LdW96bTJHaGd2cjNiTnBKaWRJN3VDYUFPR2NqWmZ6T0xjcnAxamxoYmpaSnVOMDlWQnljckJYZF9tQ0JJZFU2OElZQjA)). An ECB rate hike looks nearly certain after inflation rose to a three-year high ([Reuters](https://news.google.com/rss/articles/CBMijwFBVV95cUxNSnlWVjhZeXhCME9sTHdmcC1RWTdrNUVIbUhhbE1td2t3Z2VDbzh1SW1kSmJJdWU5aVRSeW8tQ3hweVJwTDdVMGR0XzdtM0UtSGhkRnY1NWN6ZUkxR05xb2NadnJuNjEza3d4cDNOcTRnWXJBT2MzYnJjY2hkbjdHUmxoWjVsWGE0UE5NOUx0QQ)). ECB Governing Council member Knot said the ECB will need to stick with a hawkish stance on policy ([BBG](https://www.bloomberg.com/news/articles/2026-11-04/knot-says-ecb-will-need-to-stick-with-a-hawkish-stance-on-policy?leadSource=uverify%20wall)).
+China blocks SoftBank’s `$5.4bn` takeover of ABB’s robotics division ([FT](https://www.ft.com/content/f10c3e24-45e4-47ff-bde2-24a8de90aec4)). Swiss-Swedish company’s unit is focused on Chinese market and has mega-factory in Pudong ([FT](https://www.ft.com/content/f10c3e24-45e4-47ff-bde2-24a8de90aec4)). China blocks SoftBank’s `$5.4 billion` takeover of ABB’s robotics division ([Reuters](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTVBJa2g4T1RZOXVuY3phU1ZicmlpM0kzUTdjNlBrMmtNZ29aNlBxZzNwQWkzam9WNVB6MGFwV2tERnA5WWNhWE9ZaWtKaV9JMDdpWHBKRjUyU2ZKU2lEN2R4U29ZQlo3T3g1cndpLUNqZXFhclphYzdyN0thaXM5WXl4UnN2eGZiUXd4SXdUenppTXNRTU1CV3RURnEyT05XUFRNUWFiMGNwN0QzYjVtS1Zoc24zcV9lWHV2eDZQckJwb2ZpS3g0OG9VMnpJaHJt)). ABB Confirms China Blocked SoftBank Deal for Robotics Unit ([WSJ](https://news.google.com/rss/articles/CBMipAFBVV95cUxNWU1MYTRpWmVYU2dfWXBkTjR3U3ZERnVWUGtMVkttTjFPT3JPUE43NUdIRE1KcHVzcEpRNHpDaHdHOXEzbHQxcEJEVkNYNGRnY2lhV0ctZFRvb19adzJLcENWLXlINk1DRkNSUl9LQWlrVlRDaFVhb3dSVWF6c1l3Y3NGd3dQdFR5Z2ZLQWlvMFNhV1dtQVIyNVF2SFQycm9iS1Y4dQ)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: New. Eurozone inflation accelerates to `4%`, a three-year high, making December ECB tightening nearly certain.
-> * **Transmission / Market Read**: Inflation-policy channel supports **long EUR** and **short Bunds**; oil slide could soften energy impulse.
-> * **Watchpoint / Confidence**: Watch next Eurozone core prints and ECB communication on energy pass-through. Confidence: High.
+> * **Narrative change**: New cross-border capital-flow restriction and potential tech self-reliance signal from Beijing.
+> * **Transmission / Market Read**: Capital-flow and geopolitical channel tilts toward **China robotics and localization**, pressure on foreign M&A into China.
+> * **Watchpoint / Confidence**: Official Commerce Ministry or SoftBank-ABB response; Confidence: High because multiple primary sources confirm.
 
-### 📌 China steps up stock market defence with record ETF inflows
+### 📌 Seoul expands Hormuz anti-piracy footprint as oil steadies below $100
 
 **Fact**
-China stepped up defence of its stock market in a bid to revive the AI boom, with ETFs commonly used by Beijing to support the market seeing the second-highest net inflows on record ([FT](https://www.ft.com/content/b86cc3e7-e638-4b58-8d4d-4516c13c45f5)).
+South Korea to expand anti-piracy unit operations closer to Strait of Hormuz ([Reuters](https://news.google.com/rss/articles/CBMivwFBVV95cUxNWmlVV005TWpIcUdLT2ZZaUpORmNMc09CYnNzQnFBRUhJeF8yTklGM20tcHlpZkI3bGpCa2VXQlJfOGd2MEdOTWtpN1BpMnNmUVUyYzF1R2U5SjN4bl90X2xGRDZ2MzY2aGU1WTVYM3otVlRhTjRXR2JMUWp5cGZsZFV1MFUtWG83QW1tMG44aXY3dmg4Zl9GbGFjMEZ5bWhUbGliempaM2dRaE9pZHlHUldkUndDZEtLTkdTUlQ1RQ)). Seoul proposes extending its Cheonghae unit’s patrols to waters near Oman’s Duqm amid US pressure over Iran war ([Al Jazeera](https://www.aljazeera.com/news/2026/11/5/south-korea-plans-to-expand-anti-piracy-operations-closer-to-hormuz-strait)). Oil rises as investors weigh risk of Iran war escalation ([Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdzM2c3YzcktwU285aS1QaVVzTk51WFR0UnpxMXlnaFdEd2RtZWYzMm81TDZQUTJZS0ZlLXFVV3ZhcGFibkdLZm9Remo3YjlhNHJTd1lxSXNMUFNzejhIMkt0TlFRXy1RZl9TdTkxbDhfdjQxUEIzcUhaYlpOMjZJSVViNmVPV0dRV0RmaTJ3dDJ3QUs4TTFleFlnZnNyUHhVYlQ5NldaZVRZRFd5dU5nVnRKVUQ0UFE)). Oil Prices Stay Below `$100` as Traders Weigh Iran Diplomacy, Supply Outlook ([WSJ](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNFRHX3ZFOFQ1SHJRd3R1M0R5dU4zY1NnckI5ODFjRmtWQUVXOC1WRTJiQTBYTEVEbWJlOW94WlF3a1R2aUVMLXg3VnJ0aVZrQktIZHpmZnNpTWktYVgyZXVNMGVpRGdjSlhfRDhQSHczQ3BDdWhybUx2c043YmQwdkRuWW9WeGE3amVpZFE2VEVDTlRxZktZc0JLSFRxdnplcUxUdVhuZm5Bbl9nb3Q3aW0xdFFDam1XcEstMVFB)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Acceleration of China equity stabilization, with state-linked ETF inflows second-highest on record.
-> * **Transmission / Market Read**: Liquidity-policy channel supports **long China A-shares** and **HK-listed China tech**; US AI policy is crosscurrent.
-> * **Watchpoint / Confidence**: A-share or HK turnover must confirm official bid, otherwise fading. Confidence: Medium.
+> * **Narrative change**: Noise versus the morning de-escalation trade, no confirmed escalation but residual war risk is returning.
+> * **Transmission / Market Read**: Risk-premium channel favors **long Brent** on export disruption risk, **short KRW** if Hormuz tension escalates.
+> * **Watchpoint / Confidence**: Houthi attack or explicit ceasefire framework in next 24-72h; Confidence: Medium due to conflicting signals.
 
 ---
 
 ## 🌍 Global Radar
 
 ### 📊 Economic Indicators
-- Canada’s trade surplus widens to more than four-year high in September ([Reuters](https://news.google.com/rss/articles/CBMitAFBVV95cUxNajVmTlFjZ0JCOG11S1BTTUxBNnFrMXBCb1J6a3dtX1RjMmtYdWxXUlVaeXZZU2JEb05YdnlCNy12aFJITlBxeWI0Y1VLNzRfM3JPNlhkTm1ES3JEN2l6QjZNYXFWUVQ0dHFRdDRnRnF0QWxtN2xFUTE2UU02Q1czak13SzVab2ZWNlB0YjRRZENSemxYbGt6UWkybm1Vbk5vcEJYelFaNDVubU85a3hIRXpYbDE)).
+- Philippine October Inflation Accelerates `7.8%`, Close to Four-Year High ([BBG](https://www.bloomberg.com/news/articles/2026-11-05/philippine-october-inflation-accelerates-7-8-close-to-four-year-high)).
+- . Energy bills set to jump by nearly `£470` in January to about `£2,200` a year for a typical household ([FT](https://www.ft.com/content/aa340415-ef92-45f3-a145-6b05f6aac9cb)).
 
 ### 🏦 Central Banks
-- **Bank Negara Malaysia** — expected to keep interest rates unchanged at its final policy meeting of the year on Thursday while signaling scope for a hike early in 2027 as economic growth remains strong ([BBG](https://www.bloomberg.com/news/articles/2026-11-04/malaysia-set-to-hold-rates-on-strong-growth-signal-hike-in-2027)).
+- **Bank Negara Malaysia** — Malaysia’s central bank kept interest rates unchanged on Thursday but signaled it would be ready to act as price pressures grow ([BBG](https://www.bloomberg.com/news/articles/2026-11-05/malaysia-holds-rates-vows-vigilance-as-inflation-pressures-grow)).
+- **Norges Bank** — Norway Keeps Rate Steady With Option of Another Hike If Needed ([BBG](https://www.bloomberg.com/news/articles/2026-11-05/norway-keeps-rate-steady-with-option-of-another-hike-if-needed)).
+- **Czech National Bank** — Czechs Set for Second Rate Hike This Year as Price Risks Persist ([BBG](https://www.bloomberg.com/news/articles/2026-11-05/czechs-set-for-second-rate-hike-this-year-as-price-risks-persist)).
+- **Riksbank** — Sweden’s Slowing Inflation Weakens Riksbank Rate Hike Case ([BBG](https://www.bloomberg.com/news/articles/2026-11-05/sweden-s-slowing-inflation-weakens-riksbank-rate-hike-case)).
 
 ### 🌐 Geopolitics & Policy
-- US slaps sanctions on Indian, Turkish firms and people for aiding Iran ([Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTU5EOWpMNjZvcmh2TzIzTHo1OWRzaUdGRWZEN0xwbWpqV09pOGFoY2M5dlEya2xHTHJnS0VsQjZGM2lSTVk1U05TbHpLc3FveFhySUgtb1dPWEtXTkNXVlg4MWlwbTBSeGw1R2pPWTg3d3ZuV01nSDNvWWVQSjRTeFRSb3N2QnFMa0FMUDBGTWY5NDVIdG41Z05wdnRQT3pBRWJvSzg3Z0tEVXZSZDM5ag)).
-- China, US defence officials agree to improve ‘communication’ to reduce risks ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3373321/china-us-defence-officials-agree-improve-communication-reduce-risks)).
-- What’s the message for China as Japan weighs `US$500 billion` defence surge? ([SCMP](https://www.scmp.com/news/china/military/article/3373139/whats-message-china-japan-weighs-us500-billion-defence-surge)).
+- North Korea digs in for US stand-off as Democratic midterm wins dim summit hopes ([SCMP](https://www.scmp.com/week-asia/politics/article/3373364/north-korea-digs-us-stand-democratic-midterm-wins-dim-summit-hopes)) . Recent weapons tests signal Pyongyang will lean on Moscow and Beijing rather than bank on Washington talks amid shifting US politics ([SCMP](https://www.scmp.com/week-asia/politics/article/3373364/north-korea-digs-us-stand-democratic-midterm-wins-dim-summit-hopes)).
+- Russian President Vladimir Putin has signed into law a deal to build a second standard-gauge railway track at a key border crossing with China, as Moscow looks to accelerate its eastward pivot and boost ties with Beijing ahead of the Apec summit ([SCMP](https://www.scmp.com/economy/china-economy/article/3373339/russias-eastward-pivot-gains-steam-putin-confirms-new-china-border-railway)).
+- We currently have 30 domestic banks as e-CNY operators. Right now we’re working to extend this capability to offshore banks ([SCMP](https://www.scmp.com/business/banking-finance/article/3373264/chinese-banks-explore-local-e-cny-wallets-foreign-firms-upgraded-platform)).
 
 ### 🛢️ Commodities
-- JPMorgan, HSBC say oil supplies are recovering from Middle East disruption ([Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxPdFJUTVpmWVQ2VEN4MEw2NEcwRk9BODBmQ0MzSUdOWEN2ZU5fU0FXOG5QbmdwQkFQU25hX3NBMkg3ZUF3TkRMNkxnZGVTcGdweEJaU1Q5Y241RF9EX0swdmRSRjJybWdzNHFDZlNmWUFTOXFtYnllWFA2ckpLb3dzTXE2XzdQOTYzOEIzRXFuQVdMTngyLVJRQ1QzYS1BalVyRi1lOW0tWTJnT1dLaTJwa0dEQXNPSXE0VnhxRzJvVzdMczE4dVdn)).
-- Freeport-McMoRan to invest `$4.5 billion` in expanding, modernizing copper and molybdenum mine in Arizona ([WSJ](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWkZyY2pBYmJ2WGFfb0VuZWNMYlZmdHk3X01sSlp2MFo4S29ITzM0Tng4VzhZZUcwSW5WU2dNRGVnc29xbGlyb2RXaURZNXhDU21LNkJrbHpnN1ZRcmZ4eTh0N0liZ0ZabGN0MXpjNnY1SG93LUJiTHVHaTR2T1lDM2dYYk03VUt5Y2hlcVJzV1gwS1ZLaFRod09KdHFHWXZwWHBnMmI5clNJUUtUMFB0b2Frdjg2N21nNGEyWUZXamFaZDZQMHJSMkhnS2ltMllrc0pjMkh3)).
-- Copper and conflict trigger profit surge for Buffett-backed Japanese commodity traders; Mitsui chief warns geopolitical risks continue to be ‘unpredictable rather than calming down’ ([FT](https://www.ft.com/content/656f10c4-26ec-430e-adfa-dcadf0dd61ff)).
+- El Niño Pushes Asia Rice Prices to 2-Year High, Threatening Inflation ([BBG](https://www.bloomberg.com/news/articles/2026-11-05/el-nino-pushes-asia-rice-prices-to-2-year-high-threatening-inflation)).
 
 ### 📈 Equities
-- AI data-center stocks slide, renewables rally after Democratic US midterm sweep ([Reuters](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcW5CTURXaGFocTExc3NDZk9feEYwc1dTaDVuTkVqUEZxejUwS1ZkZkhaMlNZUnh0UkY5VFo5ZXczeFBPMDFzMVBvUTc0SEUxREtORkRSTE5maGlaZWVMREY5ZXduYlZRQUFPNGNnUFhqNlpiQUhKYWhKeVNscEF2ZGNSaG5ha19TZ3ZkYXJxbVpPZ0RId1g3VXBCM0RfTzdqWnBxbEFqanIxS1NYUGJKOTNPcUlNOEhzM0xvMkt0RlhPcDB1aWF6MnRUaktaQ0R0YWRJ)).
-- Wall Street trading desks bet on US stock rally after midterms ([BBG](https://www.bloomberg.com/news/articles/2026-11-04/wall-street-trading-desks-bet-on-us-stock-rally-after-midterms)).
-- Upbeat earnings bolster case for India stocks as Asia wavers ([BBG](https://www.bloomberg.com/news/articles/2026-11-04/upbeat-earnings-bolster-case-for-india-stocks-as-asia-wavers)).
+- Indian benchmarks near three-month highs as oil slides after US Democratic win ([Reuters](https://news.google.com/rss/articles/CBMivwFBVV95cUxNVmJaMVVmaUE0cUtPUW9iRklDNUNCV2k4c1NXYzllRGYzeUdXOFJkeGVEOUNsdkhwc0pfc3pkSVdvb3Nwc3FMSE0xTVBnbEtiQ29Gd2NzbmFtMU9rVXNoNXF3MkRrMEtHczdSX0VGUExrTDkyNHAxYWI0SGFWbVRSZWhDaGlvNkhLdUtiZGdDaWVQaFJ0NkRkckJvQ0ZzSnM2dmFUd2tZXzdQaWZBaFN4Y3BNYXo0UkVZRGpQTkdTUQ)).
 
 ---
 
@@ -87,88 +87,94 @@ China stepped up defence of its stock market in a bid to revive the AI boom, wit
 
 | Time (HKT) | Rgn | Event | Est. | Prior |
 |---|---|---|---|---|
-| 08:30 AM | AU | Balance of Trade | A$0.8B | A$0.495B |
-| 08:30 AM | JP | S&P Global Composite PMI Final | 52.3 | 52.3 |
-| 08:30 AM | JP | S&P Global Services PMI Final | 52.0 | 51.3 |
-| 11:35 AM | JP | 10-Year JGB Auction | - | 3.101% |
-| 01:00 PM | SG | Retail Sales MoM | - | -1% |
-| 01:00 PM | SG | Retail Sales YoY | - | 0.7% |
-| 03:00 PM | DE | Factory Orders MoM | 4.8% | -10.6% |
-| 03:45 PM | FR | Industrial Production MoM | 0.3% | -0.3% |
-| 04:30 PM | FR | S&P Global Construction PMI | - | 39.8 |
-| 04:30 PM | DE | S&P Global Construction PMI | - | 43.5 |
-| 04:30 PM | IT | S&P Global Construction PMI | - | 46.5 |
-| 05:00 PM | IT | Retail Sales MoM | 0.2% | 0.3% |
-| 05:00 PM | IT | Retail Sales YoY | - | 0.5% |
-| 05:00 PM | GB | New Car Sales YoY | - | 12.1% |
-| 05:30 PM | GB | S&P Global Construction PMI | 46.1 | 46.1 |
-| 05:40 PM | ES | 10-Year Obligacion Auction | - | 4.176% |
-| 05:40 PM | ES | 15-Year Obligacion Auction | - | 3.813% |
-| 05:40 PM | ES | 5-Year Bonos Auction | - | 3.482% |
-| 05:40 PM | ES | 7-year index-linked obligacion auction | - | 1.960% |
-| 06:00 PM | FR | 2036 OAT Auction | - | 4.93% |
-| 06:00 PM | FR | 2038 oat auction | - | 5.06% |
-| 06:00 PM | FR | 2043 oat auction | - | 3.94% |
-| 06:00 PM | FR | 2057 oat auction | - | 4.55% |
-| 06:30 PM | RU | Summary of the Key Rate Discussion | - | - |
-| 06:30 PM | US | Challenger Job Cuts | - | 43.281K |
-| 07:00 PM | DE | New Car Registrations YoY | - | 9.0% |
-| 08:00 PM | GB | BoE Interest Rate Decision | 4% | 3.75% |
-| 09:30 PM | US | Initial Jobless Claims | 196K | 194K |
-| 09:30 PM | US | Nonfarm Productivity QoQ Prel | 2.8% | 1.4% |
-| 09:30 PM | US | Continuing Jobless Claims | 1710K | 1701K |
-| 09:30 PM | US | Jobless Claims 4-week Average | - | 196.75K |
-| 09:30 PM | US | Unit Labour Costs QoQ Prel | 0.6% | 1.2% |
-| 11:20 PM | US | ny fed bill purchases 1 to 4 months | $3.652 billion | - |
-| 11:30 PM | US | EIA Natural Gas Stocks Change | - | 80Bcf |
-| 12:30 AM | US | 4-Week Bill Auction | - | 3.910% |
-| 12:30 AM | US | 8-Week Bill Auction | - | 4.020% |
-| 01:00 AM | US | 15-Year Mortgage Rate | - | 6.60% |
-| 01:00 AM | US | 30-Year Mortgage Rate | - | 7.24% |
-| 03:00 AM | MX | Interest Rate Decision | 6.5% | 6.5% |
-| 05:30 AM | US | Fed Balance Sheet | - | $6.746T |
+| Nov 05 05:30 PM | GB | S&P Global Construction PMI | 46.1 | 46.1 |
+| Nov 05 05:40 PM | ES | 10-Year Obligacion Auction | — | 4.176% |
+| Nov 05 05:40 PM | ES | 15-Year Obligacion Auction | — | 3.813% |
+| Nov 05 05:40 PM | ES | 5-Year Bonos Auction | — | 3.482% |
+| Nov 05 05:40 PM | ES | 7-year index-linked obligacion auction | — | 1.960% |
+| Nov 05 06:00 PM | FR | 2036 OAT Auction | — | 4.93% |
+| Nov 05 06:00 PM | FR | 2038 oat auction | — | 5.06% |
+| Nov 05 06:00 PM | FR | 2043 oat auction | — | 3.94% |
+| Nov 05 06:00 PM | FR | 2057 oat auction | — | 4.55% |
+| Nov 05 06:30 PM | RU | Summary of the Key Rate Discussion | — | — |
+| Nov 05 06:30 PM | US | Challenger Job Cuts | — | 43.281K |
+| Nov 05 07:00 PM | DE | New Car Registrations YoY | — | 9.0% |
+| Nov 05 08:00 PM | GB | BoE Interest Rate Decision | 4% | 3.75% |
+| Nov 05 09:30 PM | US | Initial Jobless Claims | 196K | 194K |
+| Nov 05 09:30 PM | US | Nonfarm Productivity QoQ Prel | 2.8% | 1.4% |
+| Nov 05 09:30 PM | US | Continuing Jobless Claims | 1710K | 1701K |
+| Nov 05 09:30 PM | US | Jobless Claims 4-week Average | — | 196.75K |
+| Nov 05 09:30 PM | US | Unit Labour Costs QoQ Prel | 0.6% | 1.2% |
+| Nov 05 11:20 PM | US | ny fed bill purchases 1 to 4 months | $3.652 billion | — |
+| Nov 05 11:30 PM | US | EIA Natural Gas Stocks Change | 81Bcf | 80Bcf |
+| Nov 06 12:30 AM | US | 4-Week Bill Auction | — | 3.910% |
+| Nov 06 12:30 AM | US | 8-Week Bill Auction | — | 4.020% |
+| Nov 06 01:00 AM | US | 15-Year Mortgage Rate | — | 6.60% |
+| Nov 06 01:00 AM | US | 30-Year Mortgage Rate | — | 7.24% |
+| Nov 06 03:00 AM | MX | Interest Rate Decision | 6.5% | 6.5% |
+| Nov 06 05:30 AM | US | Fed Balance Sheet | — | $6.746T |
+| Nov 06 05:30 AM | US | Reserve Balances with Fed Banks | — | $2.895T |
+| Nov 06 07:30 AM | JP | Average Cash Earnings YoY | 3.8% | 3.8% |
+| Nov 06 07:30 AM | JP | Overtime Pay YoY | — | 5.2% |
+| Nov 06 07:50 AM | JP | Foreign Bond Investment | — | ¥-92.6B |
+| Nov 06 07:50 AM | JP | Stock Investment by Foreigners | — | ¥1180.9B |
+| Nov 06 11:35 AM | JP | 3-Month Bill Auction | — | 1.2706% |
+| Nov 06 03:00 PM | DE | Industrial Production MoM | 0% | 2% |
+| Nov 06 03:00 PM | GB | Lloyds House Price Index MoM | 0.1% | 0% |
+| Nov 06 03:00 PM | GB | Lloyds House Price Index YoY | -0.3% | 0% |
+| Nov 06 03:45 PM | FR | Balance of Trade | €-5.8B | €-6.1B |
+| Nov 06 03:45 PM | FR | Current Account | — | €-1.5B |
+| Nov 06 03:45 PM | FR | Exports | — | €54.2B |
+| Nov 06 03:45 PM | FR | Foreign Exchange Reserves | — | €370.203B |
+| Nov 06 03:45 PM | FR | Imports | — | €60.3B |
 
 ---
 
 ## 📚 Full Reading List
 
 - **BBG**
-  - [Latest Oil Market News and Analysis for Nov. 5](https://www.bloomberg.com/news/articles/2026-11-04/latest-oil-market-news-and-analysis-for-nov-5)
-  - [Gold Holds Above $4,000 as Dollar, Yields Fall on Midterm Result](https://www.bloomberg.com/news/articles/2026-11-04/gold-holds-above-4-000-as-dollar-yields-fall-on-midterm-result?leadSource=uverify%20wall)
-  - [US Companies Added 86,000 Jobs in October, ADP Data Show](https://www.bloomberg.com/news/articles/2026-11-04/us-companies-add-86-000-jobs-more-than-forecast-adp-data-show?leadSource=uverify%20wall)
-  - [Defense Stocks in US, Europe Drop After Democrats Sweep Midterms](https://www.bloomberg.com/news/articles/2026-11-04/european-defense-stocks-slide-as-democrats-sweep-dents-optimism?leadSource=uverify%20wall)
-  - [Wall Street Trading Desks Bet on US Stock Rally After Midterms](https://www.bloomberg.com/news/articles/2026-11-04/wall-street-trading-desks-bet-on-us-stock-rally-after-midterms)
-  - [Knot Says ECB Will Need to Stick With a Hawkish Stance on Policy](https://www.bloomberg.com/news/articles/2026-11-04/knot-says-ecb-will-need-to-stick-with-a-hawkish-stance-on-policy?leadSource=uverify%20wall)
-  - [Bank of England’s New Inflation Gauge Provides Some Reassurance](https://www.bloomberg.com/news/articles/2026-11-04/bank-of-england-s-new-inflation-gauge-provides-some-reassurance?leadSource=uverify%20wall)
-  - [Brazil Keeps Interest Rate at 13.75% After Lula’s Election Shakes Markets](https://www.bloomberg.com/news/articles/2026-11-04/brazil-holds-key-rate-steady-at-13-75-after-lula-s-election-win?leadSource=uverify%20wall)
-  - [Norges Bank Expected to Hold Rates, Signals Openness to Further Hikes: Decision Guide](https://www.bloomberg.com/news/articles/2026-11-04/norges-bank-set-to-keep-door-open-for-more-hikes-decision-guide?leadSource=uverify%20wall)
-  - [Malaysia Set to Hold Rates on Strong Growth, Signal Hike in 2027](https://www.bloomberg.com/news/articles/2026-11-04/malaysia-set-to-hold-rates-on-strong-growth-signal-hike-in-2027)
+  - [China Stocks Surge As Blue Wave Sinks Korea's Heavyweights](https://www.bloomberg.com/news/videos/2026-11-05/the-china-show-11-05-2026-video)
+  - [Hong Kong Stocks Roar Back as Value Rotation Boosts China Tech](https://www.bloomberg.com/news/articles/2026-11-05/hong-kong-stocks-roar-back-as-investors-rotate-away-from-ai)
+  - [Philippine October Inflation Accelerates 7.8%, Close to Four-Year High](https://www.bloomberg.com/news/articles/2026-11-05/philippine-october-inflation-accelerates-7-8-close-to-four-year-high)
+  - [Indonesia’s GDP Growth Jumps to 5.5%, Defying Market Slump](https://www.bloomberg.com/news/articles/2026-11-05/indonesia-s-gdp-grows-5-47-beating-estimates-in-third-quarter)
+  - [Malaysia Holds Rates, Vows Vigilance as Price Pressures Grow](https://www.bloomberg.com/news/articles/2026-11-05/malaysia-holds-rates-vows-vigilance-as-inflation-pressures-grow)
+  - [Norway Keeps Rate Steady With Option of Another Hike If Needed](https://www.bloomberg.com/news/articles/2026-11-05/norway-keeps-rate-steady-with-option-of-another-hike-if-needed)
+  - [Czechs Set for Second Rate Hike This Year as Price Risks Persist](https://www.bloomberg.com/news/articles/2026-11-05/czechs-set-for-second-rate-hike-this-year-as-price-risks-persist)
+  - [Sweden’s Slowing Inflation Weakens Riksbank Rate Hike Case](https://www.bloomberg.com/news/articles/2026-11-05/sweden-s-slowing-inflation-weakens-riksbank-rate-hike-case)
+  - [China’s Copper Squeeze Deepens as Buyers Scramble For Metal](https://www.bloomberg.com/news/articles/2026-11-05/china-s-copper-squeeze-deepens-as-buyers-scramble-for-spot-metal)
+  - [El Niño Pushes Asia Rice Prices to 2-Year High, Threatening Inflation](https://www.bloomberg.com/news/articles/2026-11-05/el-nino-pushes-asia-rice-prices-to-2-year-high-threatening-inflation)
+  - [European Stocks Hit Fresh Record as AI Unwind Boosts Region](https://www.bloomberg.com/news/articles/2026-11-05/european-stocks-hit-fresh-record-as-ai-unwind-boosts-region)
 
 - **Reuters**
-  - [ECB rate hike looks nearly certain after inflation rises to three-year high](https://news.google.com/rss/articles/CBMijwFBVV95cUxNSnlWVjhZeXhCME9sTHdmcC1RWTdrNUVIbUhhbE1td2t3Z2VDbzh1SW1kSmJJdWU5aVRSeW8tQ3hweVJwTDdVMGR0XzdtM0UtSGhkRnY1NWN6ZUkxR05xb2NadnJuNjEza3d4cDNOcTRnWXJBT2MzYnJjY2hkbjdHUmxoWjVsWGE0UE5NOUx0QQ)
-  - [Beaten at home, Trump faces stark choice on Iran: deal or escalation](https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3dTRDFGYS1HSWtZcGh3ZTh2MjRleFhNUkwtR0wwSUd3TWlsQU1tcjI2ZG1fa1RxNHEyRDJsSUpjTzNGb0xTRE90Umh1RVdncGxtN29NNVhXel9PMlZ3UEQ1bDJzTkh4V052MEh5UFFteDRHakRVTzVQLS1rdjEzM2xjZDlYdjhCWkxwMkZOMjVSUlhOV2NCVl9ETFROeEN3ZENWQmZiejJhLXctcHFDUkc5d3k)
-  - [Canada’s trade surplus widens to more than four-year high in September](https://news.google.com/rss/articles/CBMitAFBVV95cUxNajVmTlFjZ0JCOG11S1BTTUxBNnFrMXBCb1J6a3dtX1RjMmtYdWxXUlVaeXZZU2JEb05YdnlCNy12aFJITlBxeWI0Y1VLNzRfM3JPNlhkTm1ES3JEN2l6QjZNYXFWUVQ0dHFRdDRnRnF0QWxtN2xFUTE2UU02Q1czak13SzVab2ZWNlB0YjRRZENSemxYbGt6UWkybm1Vbk5vcEJYelFaNDVubU85a3hIRXpYbDE)
-  - [JPMorgan, HSBC say oil supplies are recovering from Middle East disruption](https://news.google.com/rss/articles/CBMixwFBVV95cUxPdFJUTVpmWVQ2VEN4MEw2NEcwRk9BODBmQ0MzSUdOWEN2ZU5fU0FXOG5QbmdwQkFQU25hX3NBMkg3ZUF3TkRMNkxnZGVTcGdweEJaU1Q5Y241RF9EX0swdmRSRjJybWdzNHFDZlNmWUFTOXFtYnllWFA2ckpLb3dzTXE2XzdQOTYzOEIzRXFuQVdMTngyLVJRQ1QzYS1BalVyRi1lOW0tWTJnT1dLaTJwa0dEQXNPSXE0VnhxRzJvVzdMczE4dVdn)
-  - [US slaps sanctions on Indian, Turkish firms and people for aiding Iran](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTU5EOWpMNjZvcmh2TzIzTHo1OWRzaUdGRWZEN0xwbWpqV09pOGFoY2M5dlEya2xHTHJnS0VsQjZGM2lSTVk1U05TbHpLc3FveFhySUgtb1dPWEtXTkNXVlg4MWlwbTBSeGw1R2pPWTg3d3ZuV01nSDNvWWVQSjRTeFRSb3N2QnFMa0FMUDBGTWY5NDVIdG41Z05wdnRQT3pBRWJvSzg3Z0tEVXZSZDM5ag)
-  - [AI data-center stocks slide, renewables rally after Democratic US midterm sweep](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcW5CTURXaGFocTExc3NDZk9feEYwc1dTaDVuTkVqUEZxejUwS1ZkZkhaMlNZUnh0UkY5VFo5ZXczeFBPMDFzMVBvUTc0SEUxREtORkRSTE5maGlaZWVMREY5ZXduYlZRQUFPNGNnUFhqNlpiQUhKYWhKeVNscEF2ZGNSaG5ha19TZ3ZkYXJxbVpPZ0RId1g3VXBCM0RfTzdqWnBxbEFqanIxS1NYUGJKOTNPcUlNOEhzM0xvMkt0RlhPcDB1aWF6MnRUaktaQ0R0YWRJ)
+  - [China's cleantech stocks jump as investors bet on US policy shift](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdHllX1NRUnhtUFNpX3FES2xxMF93ZVJTdkhEelhpSXR6RmViQ2ZLc3Z1TXpKRjBNMjdrbWZZYmlSVGdWd2MxSUdsaHdCTmUzckE1M09ScmVsLWhuTThTa190TVlFMWpwbC1jcTlobmxjMG9SOVV0N3hHQUl3dDUzdmR2ZFhjQkFFRVRtOEhSdzVJazQ0aF9mdnhtY0h5ZDBVQUhOc0hkS3pJejN6Ui1F)
+  - [China blocks SoftBank’s $5.4 billion takeover of ABB’s robotics division](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTVBJa2g4T1RZOXVuY3phU1ZicmlpM0kzUTdjNlBrMmtNZ29aNlBxZzNwQWkzam9WNVB6MGFwV2tERnA5WWNhWE9ZaWtKaV9JMDdpWHBKRjUyU2ZKU2lEN2R4U29ZQlo3T3g1cndpLUNqZXFhclphYzdyN0thaXM5WXl4UnN2eGZiUXd4SXdUenppTXNRTU1CV3RURnEyT05XUFRNUWFiMGNwN0QzYjVtS1Zoc24zcV9lWHV2eDZQckJwb2ZpS3g0OG9VMnpJaHJt)
+  - [South Korea to expand anti-piracy unit operations closer to Strait of Hormuz](https://news.google.com/rss/articles/CBMivwFBVV95cUxNWmlVV005TWpIcUdLT2ZZaUpORmNMc09CYnNzQnFBRUhJeF8yTklGM20tcHlpZkI3bGpCa2VXQlJfOGd2MEdOTWtpN1BpMnNmUVUyYzF1R2U5SjN4bl90X2xGRDZ2MzY2aGU1WTVYM3otVlRhTjRXR2JMUWp5cGZsZFV1MFUtWG83QW1tMG44aXY3dmg4Zl9GbGFjMEZ5bWhUbGliempaM2dRaE9pZHlHUldkUndDZEtLTkdTUlQ1RQ)
+  - [Taiwan sees continued US arms sale support after midterm election](https://news.google.com/rss/articles/CBMiswFBVV95cUxPVWRHR1I4R0JTNGloMlpZQVpHelBtM0VBWWFQMV9IcVZIdHZYSTlBRFFVUXlLRnk3U4zYkp4Tjd2SkllRkx2X2FpWXE0a0s1b2lnSjRzS3pIVVFsUVgybGdMRHFVUk93MTktRERWN214VWN2c2dMWVd5MGwySWlVOFpiVWxCa3VXRk10REFlM3FFWi04dHlQb1BGVmFsdk1CZzRUa3FlS0N3LS1UZmN6ZmhYVQ)
+  - [Oil rises as investors weigh risk of Iran war escalation](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdzM2c3YzcktwU285aS1QaVVzTk51WFR0UnpxMXlnaFdEd2RtZWYzMm81TDZQUTJZS0ZlLXFVV3ZhcGFibkdLZm9Remo3YjlhNHJTd1lxSXNMUFNzejhIMkt0TlFRXy1RZl9TdTkxbDhfdjQxUEIzcUhaYlpOMjZJSVViNmVPV0dRV0RmaTJ3dDJ3QUs4TTFleFlnZnNyUHhVYlQ5NldaZVRZRFd5dU5nVnRKVUQ0UFE)
+  - [Indian benchmarks near three-month highs as oil slides after US Democratic win](https://news.google.com/rss/articles/CBMivwFBVV95cUxNVmJaMVVmaUE0cUtPUW9iRklDNUNCV2k4c1NXYzllRGYzeUdXOFJkeGVEOUNsdkhwc0pfc3pkSVdvb3Nwc3FMSE0xTVBnbEtiQ29Gd2NzbmFtMU9rVXNoNXF3MkRrMEtHczdSX0VGUExrTDkyNHAxYWI0SGFWbVRSZWhDaGlvNkhLdUtiZGdDaWVQaFJ0NkRkckJvQ0ZzSnM2dmFUd2tZXzdQaWZBaFN4Y3BNYXo0UkVZRGpQTkdTUQ)
 
 - **WSJ**
-  - [Democrats Take Congress as Trump Says Iran War Is Partly to Blame for GOP Losses](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWTdDcl95ZWRjVHlORVdINFFmUnpoa1hEVVAyd09haUZvOEpLdGNJNV9aZlh0ejR1MEFYWkFla2lFcnlmWjVRUnBQc0piRGtvRjBhb1h3TlhPZmlZaVBiT0hDRjY1akEyOTNqalZ3SlBqLWZQZUZ0b0FsVm10TkZLZ01mSEVDRW1kNG02d0hiQ0otOFJYTi1vUXBaSld5NXVickpfZ2xNbmhJUFdPdHU0dW9WUXdmQQ)
-  - [Gold Climbs on Softer Dollar, Falling Treasury Yields After U.S. Midterms](https://news.google.com/rss/articles/CBMixwFBVV95cUxOY2pqVFU0QUVHeU9sRWtncjlGa1RWNVQya0VLb3FxcWdDQ3pmSGVkbmJCUWV6WW1HODhFeWVGY0dqVTh2LTRTTk5ZRVVSbDROMzR5ZDc5dlZRbjdHeXd3N3FOcmx5bDliX0Nlblkzd0U5dzd2NTc0MjFraFh4WXN0aFhQTE90RUtPZXg2Nml5SG4zOXdrc3RZQmtsaDI5VVhGLVNPUWlhZnBIQjB0a2VpM0VxTDU3dTMydzdzbm9OeWZ3LWR4SUlZ)
-  - [Eurozone Inflation Rises to 4%, Driven by Energy Costs](https://news.google.com/rss/articles/CBMinwFBVV95cUxQUk5sSUkwTkkyRVh3VGRuc196anVjNGZpeW1SNmRBZTNvTzEzYmVaQ1JYTnlieXpXT0ZZQmVDVU5iU2dIVnFoNEZGU1phUkp0ekRUUlpxZjNDTU9LdW96bTJHaGd2cjNiTnBKaWRJN3VDYUFPR2NqWmZ6T0xjcnAxamxoYmpaSnVOMDlWQnljckJYZF9tQ0JJZFU2OElZQjA)
-  - [Freeport-McMoRan to Invest $4.5 Billion in Expanding, Modernizing Copper and Molybdenum Mine in Arizona](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWkZyY2pBYmJ2WGFfb0VuZWNMYlZmdHk3X01sSlp2MFo4S29ITzM0Tng4VzhZZUcwSW5WU2dNRGVnc29xbGlyb2RXaURZNXhDU21LNkJrbHpnN1ZRcmZ4eTh0N0liZ0ZabGN0MXpjNnY1SG93LUJiTHVHaTR2T1lDM2dYYk03VUt5Y2hlcVJzV1gwS1ZLaFRod09KdHFHWXZwWHBnMmI5clNJUUtUMFB0b2Frdjg2N21nNGEyWUZXamFaZDZQMHJSMkhnS2ltMllrc0pjMkh3)
+  - [ABB Confirms China Blocked SoftBank Deal for Robotics Unit](https://news.google.com/rss/articles/CBMipAFBVV95cUxNWU1MYTRpWmVYU2dfWXBkTjR3U3ZERnVWUGtMVkttTjFPT3JPUE43NUdIRE1KcHVzcEpRNHpDaHdHOXEzbHQxcEJEVkNYNGRnY2lhV0ctZFRvb19adzJLcENWLXlINk1DRkNSUl9LQWlrVlRDaFVhb3dSVWF6c1l3Y3NGd3dQdFR5Z2ZLQWlvMFNhV1dtQVIyNVF2SFQycm9iS1Y4dQ)
+  - [Oil Prices Stay Below $100 as Traders Weigh Iran Diplomacy, Supply Outlook](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNFRHX3ZFOFQ1SHJRd3R1M0R5dU4zY1NnckI5ODFjRmtWQUVXOC1WRTJiQTBYTEVEbWJlOW94WlF3a1R2aUVMLXg3VnJ0aVZrQktIZHpmZnNpTWktYVgyZXVNMGVpRGdjSlhfRDhQSHczQ3BDdWhybUx2c043YmQwdkRuWW9WeGE3amVpZFE2VEVDTlRxZktZc0JLSFRxdnplcUxUdVhuZm5Bbl9nb3Q3aW0xdFFDam1XcEstMVFB)
 
 - **FT**
-  - [US stocks post best day since August after Democrats sweep midterms](https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea)
-  - [Oil tumbles below $100 on post-election peace hopes](https://www.ft.com/content/b526f876-810a-4e74-8b8d-4ffca04b29c7)
-  - [Eurozone inflation rises to 4% in October](https://www.ft.com/content/23cedd6f-e550-4869-aee1-e0ec10ae7e51)
-  - [October inflation in the Eurozone keeps ECB on course for another tightening](https://www.ft.com/content/a3da6c3a-4ab3-413c-bbeb-490d7cde34dc)
-  - [China steps up defence of stock market in bid to revive AI boom](https://www.ft.com/content/b86cc3e7-e638-4b58-8d4d-4516c13c45f5)
-  - [Copper and conflict trigger profit surge for Buffett-backed Japanese commodity traders](https://www.ft.com/content/656f10c4-26ec-430e-adfa-dcadf0dd61ff)
+  - [Asian tech stocks slide on post-midterm AI fears](https://www.ft.com/content/21755495-c68a-45a9-90d8-64f698cd1952)
+  - [China blocks SoftBank’s $5.4bn takeover of ABB’s robotics division](https://www.ft.com/content/f10c3e24-45e4-47ff-bde2-24a8de90aec4)
+  - [UK inflation to peak at 4.4% in 2027, according to FT survey of economists](https://www.ft.com/content/aa340415-ef92-45f3-a145-6b05f6aac9cb)
 
 - **CNBC**
-  - [10-year Treasury yield slides as traders mull over Democrats’ midterm victories, oil prices drop](https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html)
+  - [From tanks to drones: South Korea’s defense firms face a new battlefield test](https://www.cnbc.com/2026/11/05/south-korea-defense-weapon-war-stocks-fall.html)
 
 - **SCMP**
-  - [China, US defence officials agree to improve ‘communication’ to reduce risks](https://www.scmp.com/news/china/diplomacy/article/3373321/china-us-defence-officials-agree-improve-communication-reduce-risks)
-  - [What’s the message for China as Japan weighs US$500 billion defence surge?](https://www.scmp.com/news/china/military/article/3373139/whats-message-china-japan-weighs-us500-billion-defence-surge)
+  - [North Korea digs in for US stand-off as Democratic midterm wins dim summit hopes](https://www.scmp.com/week-asia/politics/article/3373364/north-korea-digs-us-stand-democratic-midterm-wins-dim-summit-hopes)
+  - [Russia’s ‘eastward pivot’ gains steam as Putin confirms new China border railway](https://www.scmp.com/economy/china-economy/article/3373339/russias-eastward-pivot-gains-steam-putin-confirms-new-china-border-railway)
+  - [Chinese banks explore local e-CNY wallets for foreign firms via upgraded platform](https://www.scmp.com/business/banking-finance/article/3373264/chinese-banks-explore-local-e-cny-wallets-foreign-firms-upgraded-platform)
+
+- **Al Jazeera**
+  - [South Korea plans to expand anti-piracy operations closer to Hormuz Strait](https://www.aljazeera.com/news/2026/11/5/south-korea-plans-to-expand-anti-piracy-operations-closer-to-hormuz-strait)
+
+- **CNA**
+  - [Japan services activity expands for fifth month, PMI shows](https://news.google.com/rss/articles/CBMipAFBVV95cUxQODVKbGtoTXlZZGdMV2M3WWVmajFHM0d1YUZBMGUwTjMyeGo0VEtwZHppRnRoYWw3cTFZTWhKa3dENF93NkUxN1RPNGZjVDZ2STdEQ2dmVHRuZmZHdVVzSWUxbHphXzdkeEYzdkp5cUtRNFNLbGRXVE1HZ1hFY3Vqdm9NR3FaeG1ETXdKNzBFdk96V041ZUk5UWdjWXZiSUxFd1czNA)
+
+- **WallstreetCN_GN**
+  - [黄金牛市命系中东！花旗：局势缓和冲5000美元，僵局持续恐跌至3500](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXY3d6NDdQdUtuT01TeEZXSkdzNDMtREhlSEFEb3FLakpod0pncUVKbGt6SE4xSTJzeXkxVktvZkgwaUV5bmdjVlpDeWEwVjI3MnUw)
