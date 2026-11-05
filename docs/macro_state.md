@@ -1,25 +1,26 @@
-# Macro State — Last updated: 2026-11-04
+# Macro State — Last updated: 2026-11-05
 
-## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **US midterm blue sweep and softer dollar/yields** — Status: Reversal; Democratic control of Congress reverses the morning strong-dollar and higher-yield trade via AI regulation and policy uncertainty; next trigger US ADP/ISM services and Treasury refunding announcement.
-- **Iran/Hormuz war risk premium** — Status: Acceleration; Gulf allies preparing new strikes and Iran shifting to guerrilla tactics refill oil risk premium after morning diplomacy drift; next trigger EIA inventories and confirmed strike or ceasefire framework.
-- **China equity stabilization** — Status: Acceleration; state funds, buybacks, and PBOC `2000亿元` buyback re-lending expand official support; next trigger A-share/HK turnover response.
-- **Cross-strait and regional military risk** — Status: Acceleration; Taiwan reports highest PLA air sortie total this year and North Korea fires multiple missiles; next trigger Taiwan defence statement and regional FX reaction.
+## Active Narratives
+- **US midterm sweep re-pricing** — Status: Acceleration; Democratic control drives softer dollar, lower yields, equity rally, and sector rotation; next trigger Trump Iran decision and US jobless claims.
+- **Iran/Hormuz war premium unwinding** — Status: Reversal; oil below `$100` and banks flag supply recovery; next trigger ceasefire framework or escalation.
+- **Eurozone 4% inflation and ECB tightening** — Status: New; December hike nearly certain; next trigger energy pass-through and ECB communication.
+- **China equity stabilization via ETF support** — Status: Confirmation; official ETF inflows second-highest on record; next trigger A-share/HK turnover.
 
-## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- US ADP employment change and ISM Services PMI tonight: confirm or reverse the post-election dollar and yield decline.
-- EIA crude inventories tonight: validate physical oil tightness or show rebuilding.
-- Confirmed Gulf strike on Iran or new Hormuz disruption by Iran; also any ceasefire framework.
-- A-share/HK turnover and index response to PBOC buyback re-lending and state buying.
-- Taiwan Strait PLA sortie continuation and South Korea/North Korea missile follow-up.
+## Watchpoints
+- Explicit Iran ceasefire or Trump escalation; EIA inventory confirmation.
+- US Initial Jobless Claims and BoE rate decision tonight.
+- A-share/HK turnover response to state-linked ETF inflows.
+- Eurozone core inflation and ECB December policy guidance.
+- Follow-through in US AI/datacenter and defense stock rotation.
 
-## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will Democratic control of Congress sustain lower US yields and a softer dollar, or will strong US data reassert the overnight rates trade?
-- Can official China equity support offset the US AI-regulation and tech selloff after the blue sweep?
-- Will Iran escalate around Hormuz now that Trump faces a Democratic Congress, lifting Brent further despite sporadic diplomacy headlines?
+## Open Questions
+- Can oil supply recovery and political de-escalation sustain Brent below `$100`?
+- Does Eurozone `4%` inflation force a December hike even as oil slides?
+- Will China ETF inflows offset US AI-regulation drag and revive the AI trade?
 
-## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- Gold: jumped more than `2%` on softer dollar after Democratic midterm sweep ([Reuters](https://news.google.com/rss/articles/CBMipgFBVV95cUxQd0lHOUFsbExIR3lscDNTRy14T012UWd6UlBSLUtySlpjSTdFaEtYLW1hbnpOTHdrSm1fM1RGU2V0WmxNSWJGU3AxeV9PUDVRVm1BRjBBNXQxZVVacElvaE5IbGJFU2FZbnN1Tmg4dlVTZ3prY0U0SEh5X1VzWmxUYnQ3VWhtZGpGOXloc1R6X3BvNlprVmw0UGppaFE2VFcyYkl3SzJ3)) — safe-haven bid and dollar reversal benchmark.
-- DXY: slid to one-month low as Democratic gains stoke AI regulation fears ([Reuters](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMG9Jam5JQ09uMEx5R0FoYnl4ajRFeU03eDQ0RXUyc3FqZ0xxdVo1czh6MUw0Z2E2UDlYcjJMWjR4WnQ4RUVXWVBWMXNqa29IUnl5MEl1TEF6UmhGaGloLXk5MDRSclZ5MXFsMDJXSmxTYnM1Tmc3VDFUbTBCOW5CUVFVSDhBWFYtbG1ickM0eVZBUWdf)) — core dollar trend after midterm sweep.
-- KOSPI: swung through a `seven-percentage-point` range before ending higher ([BBG](https://www.bloomberg.com/news/articles/2026-11-04/kospi-slumps-as-democrats-us-election-lead-spurs-chip-selloff)) — AI-trade volatility gauge.
-- PBOC buyback re-lending: added `2000亿元` to stabilize stock market ([Caixin](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1veG5odUFtQXFoa0I2VVFwQ3JzSk9ZSWFRWFAtSUJhWXgwS3RBbnJhRTZhM2kyQjR4dWM0VGh6X2ZxT0ZaM0pPUjcxY0FLek5zSXFWQ3dKdTNqN05VN0xqWDFR)) — China equity policy support level.
+## Key Levels
+- Brent: below `$100` on post-election peace hopes ([FT](https://www.ft.com/content/b526f876-810a-4e74-8b8d-4ffca04b29c7)).
+- Gold: holds above `$4,000` as dollar and yields fall ([BBG](https://www.bloomberg.com/news/articles/2026-11-04/gold-holds-above-4-000-as-dollar-yields-fall-on-midterm-result?leadSource=uverify%20wall)).
+- Eurozone October inflation: `4%`, fastest in three years ([FT](https://www.ft.com/content/23cedd6f-e550-4869-aee1-e0ec10ae7e51)).
+- US ADP private payrolls: `86,000` in October ([BBG](https://www.bloomberg.com/news/articles/2026-11-04/us-companies-add-86-000-jobs-more-than-forecast-adp-data-show?leadSource=uverify%20wall)).
+- Brazil Selic rate: `13.75%` after Lula election ([BBG](https://www.bloomberg.com/news/articles/2026-11-04/brazil-holds-key-rate-steady-at-13-75-after-lula-s-election-win?leadSource=uverify%20wall)).
