@@ -2,7 +2,7 @@
 tags:
   - Macro/AI_Rout
   - Macro/Hormuz_Blockade
-  - Macro/BOE_Hawkish
+  - Asset/TWD
   - Asset/JPY
   - Trade/Short_KRW
 ---
@@ -11,83 +11,72 @@ tags:
 
 # 🌊 Macro Flux
 
-<small>Nov 5 5PM to Nov 6 8AM HKT</small>
+<small>Nov 6 8AM to Nov 6 5PM HKT</small>
 
-<small>Good morning.</small>
+<small>Good afternoon.</small>
 
 </div>
 
 ---
 
 > [!abstract] Overview
-> A Democratic midterm sweep triggered a historic AI and tech equity rout, with roughly `$2.5 trillion` erased from Nasdaq as investors repriced US data-center and AI-infrastructure risk. The shock extended into Asia, hitting Korean chip stocks, dragging the Kospi below `5,000`, and driving haven flow into the yen and Treasuries while yields tumbled. The Bank of England added to the global repricing by raising rates to `4%` for the first time since 2023 and warning inflation could approach `5%`, leaving further hikes tied to Middle East energy costs. Oil whipsawed as tankers were hit in Hormuz and Saudi Arabia warned over Yanbu, even while Iran sent a nuclear proposal to Washington via Qatar. The cross-market thread is a simultaneous rerating of global AI capex and DM policy paths, with Asia tech and FX caught between lower US yields and escalating supply-chain and geopolitical risk premiums.
+> Today’s session was dominated by an accelerating unwind of global AI and tech exposure as the US midterm shock spread deeper into Asia and Europe. Japan’s Nikkei 225 and Topix posted their biggest one-day drops since the “liberation day” chaos, Korea’s equity rout reached `$1.7 trillion`, and Taiwan’s dollar broke past `33` per dollar before rebounding. The other major move was lower oil on signs of Gulf de-escalation, including Iran’s Hormuz exemptions for China, India, Qatar and Iraq, though one energy adviser still flagged a potential push above `$100`. US Treasury traders added bullish duration bets ahead of tonight’s Nonfarm Payrolls, while BOJ commentary pointed to a possible December hike and `2%` terminal rate. The cross-market thread is a simultaneous repricing of AI-capex risk and Gulf risk premia, with Asia FX caught between tech-led risk-off and oil-led de-escalation.
 
 ---
 
 ## 🔬 Narrative Watch
 
-### 📌 AI rout after US midterm sweep
+### 📌 Global AI selloff deepens across Asia and Europe
 
 **Fact**
-The Nasdaq 100 index was set for market value declines exceeding `US$2 trillion` on investor fears that the Democratic Party’s sweeping midterm victory could stall AI infrastructure expansion ([SCMP](https://www.scmp.com/news/world/united-states-canada/article/3373465/ai-storm-dooms-tech-stocks-us2-trillion-decline-darkest-day-2025)). Nasdaq drops the most since pandemic as Democratic “blue wave” upends AI bets, with investors fearing newly elected politicians up and down the US will seek to slow data centre development in a blow to tech stocks ([FT](https://www.ft.com/content/7c6ceb4f-d7b1-49ec-9047-0e2e4cd2615c)). Massive tech sell-off wipes `$2.5 trillion` from the stock market ([CNN](https://news.google.com/rss/articles/CBMidEFVX3lxTFBRNUYxQ2c5VUJvNkd2RExjdVJ1YU5UNmpYYzh2dzgzT2FOZFFaNmlpd0ZUSVViTzZkRG91RmRad3MxNXdncmt4aFFuR2U5di11dmlYSG9hODllU2RNZXFTUHR1UlhpYzhESlpfMS15OVdETTNP)). South Korean chip stocks plummeted as fears deepened over how the Democrat sweep of Congress could slow the artificial intelligence buildout ([BBG](https://www.bloomberg.com/news/articles/2026-11-05/korean-chip-stocks-sink-10-in-pre-market-as-ai-fears-deepen)). Treasury and European bond yields tumble as markets reacted to US Democrats’ victory ([WSJ](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdld4SERJUnFrU2lIQ2NMNTJkZy1mVGZUbUFRaEtBQllGTHdQODM2WkhrV1lwd0tCaEd0UUJWclh4M2t6Y0RxMEZWTTBGRHRvNkpMaUV6YkZweVR5MlFwVThma29VWEI4dzdPMTNaSGR1Y28wRnBDWGZQWk02SnhXbnNQbWkycmo0QU50Wm9MNnFGa2lLR2czVU5Vd0thSTNkUEZyTGZDVHR6dWd2RkhoQ18zdnl3b1k0U3QxdWs1Qk5kQQ)). The yen held onto gains after a selloff in US technology shares drove investors toward safer assets, a shift that strategists expect will provide further support to the currency ([BBG 2](https://www.bloomberg.com/news/articles/2026-11-05/yen-rises-on-haven-demand-as-cibc-nomura-see-room-for-more-gain)).
+Japanese stocks posted their biggest one-day fall since “liberation day” chaos, with the Nikkei 225 and Topix indices dropping nearly `6%` in a flight from the AI trade ([FT](https://www.ft.com/content/b77ebe43-a017-4e63-af84-5bdec8f47648)). Wall Street’s AI sell-off spread to Asia and Europe, with Donald Trump blaming voters for the tech rout and futures suggesting the sell-off will ease at the US open on Friday ([FT](https://www.ft.com/content/642b32dc-e3a1-4df8-ae91-5c84bdeb89e0)). Korea’s `$1.7 trillion` rout burned day traders and challenged Lee ([BBG](https://www.bloomberg.com/news/articles/2026-11-06/korea-s-1-7-trillion-rout-burns-day-traders-challenges-lee)). The Nasdaq sell-off battered Asian chip stocks as SK Hynix, Samsung, Softbank and TSMC tumbled ([CNBC](https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Acceleration of the global AI unwind; the prior Asia rotation now extends into a broad US tech and Asian chip risk-off.
-> * **Transmission / Market Read**: Risk-premium and rates channel; lower UST yields support **long JPY** and **long UST**, while Asia tech underperformance favors **short KRW**.
-> * **Watchpoint / Confidence**: US Nonfarm Payrolls tonight and any fresh data-center regulation headlines; Confidence: High given cross-source confirmation.
+> * **Narrative change**: Acceleration because the rout extended from US into Japan and Europe, and Korea's equity loss reached `$1.7 trillion`.
+> * **Transmission / Market Read**: Risk-premium and capital-flow channel favors **long JPY**, **long UST**, and **short KRW/Asia chip equities** until AI policy uncertainty clears.
+> * **Watchpoint / Confidence**: US open stabilization and Nonfarm Payrolls reaction; Confidence: High based on multi-source price action.
 
-### 📌 Bank of England hikes and signals more
+### 📌 Taiwan dollar breaks 33 before rebounding
 
 **Fact**
-Bank of England raises interest rates to `4%` in bid to tame inflation, lifting borrowing costs for the first time since 2023 ([FT](https://www.ft.com/content/2153a8c5-976c-471f-9ca9-bf0a5da40b61)). Bank of England strikes a hawkish tone with its first hike since 2023 and warns of `4.9%` inflation ([BBG](https://www.bloomberg.com/news/articles/2026-11-05/bank-of-england-unanimously-hikes-rates-warns-of-4-9-inflation)). Bank of England hikes interest rate for the first time since Iran war and warns inflation will near `5%` ([CNBC](https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html)). Bank of England Governor Andrew Bailey said another interest-rate hike is more likely than not if the high energy costs seen in recent weeks return ([BBG 2](https://www.bloomberg.com/news/articles/2026-11-05/bailey-says-second-boe-hike-more-likely-than-not-if-war-goes-on)).
+Taiwan’s currency rebounded after weakening past `33` per US dollar amid AI jitters ([BBG](https://www.bloomberg.com/news/articles/2026-11-06/taiwan-s-currency-weakens-past-33-per-us-dollar-on-ai-jitters)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Confirmation and acceleration of the global inflation impulse; the BoE delivered the expected hike but added explicit energy-war conditionality.
-> * **Transmission / Market Read**: Policy channel; tilts risks toward **higher UK front-end yields** and **short duration**, reinforcing energy-price sensitivity across DM rate markets.
-> * **Watchpoint / Confidence**: Another BoE hike becomes the base case if Iranian war energy costs persist; Confidence: High.
+> * **Narrative change**: New because TWD breaking past `33` marks a fresh AI-driven FX spillover, though the rebound shows two-way risk.
+> * **Transmission / Market Read**: Capital-flow and risk-premium channel favors **short TWD** on rallies and **long USD/Asia FX** if payrolls surprise hawkish.
+> * **Watchpoint / Confidence**: Whether TWD holds below `33` after US payrolls and US equity open; Confidence: Medium due to limited source detail.
 
-### 📌 Hormuz attacks and Yanbu warning reset oil risk
+### 📌 Gulf de-escalation signs emerge, oil slides
 
 **Fact**
-**Tankers hit in Hormuz** as Iran keeps up pressure after US vote ([Reuters](https://news.google.com/rss/articles/CBMirgFBVV95cUxQS25WaGR6RHltaldweFlqblRLWTQwanRGbVY4Vm5YZXBVdUVacG5DSTU3SXd1N00zTDROTTlYaGlnQzZPQUlmeUNPRlExc01kSUUwTFkwQUpWTWlXZEtkdTZmQktpWXUwcGt6dVBHbjkyb25ISjB1N0tOaWNJRHBoNk9iSzBJMURrM2dlemVvVnU5aHplVko3aGlQc296enRpdDlLNWJDWGtLWDZZVWc)). Saudi Arabia warns of **potential danger in Yanbu oil hub** as Houthi attacks continue ([Reuters 2](https://news.google.com/rss/articles/CBMixgFBVV95cUxQR1J2UXI1T2psd21CTE9jNjdvWmZpaktQTVh0Vzg1VGNzZndWZVNab0JhcFNkMEZSRlF1R0d1Vm9EVmZVMDhfUThrOG84Q2VQaTZocklZaEV4end3cjBUYWFTTWxWZFc4WjBLV1MtOFQ3c0d1bHRvODdrQTFTT01MLVFvTlA1eXI3T3JnMzlXNmpXcGNsWE1KQ3hQRDZCRG8xZjBZMTJSRHZqMmNuVkFWZTVXLXRqdkoxaUlvQUVmcVoxTW9FdFE)). Iran sent a nuclear proposal to the US via Qatar, a senior Iranian official told Reuters ([Reuters 3](https://news.google.com/rss/articles/CBMiywFBVV95cUxOSlJZVlphdWhPcDNGc1E5eDVNdDdMQkJNTXVDS0RYSVRqaC1tblFqQy1FekRQdldnV0FsMU5RdnVHNEI3UEZWMC1MY1l5cnRtcjBlcDlpUXdvX0hXbV91S1UxajV1TEx1VmJ2SzNLNElXSjc3YkdmYWw4VGNXZEl5NXR4RFNjRXBxeEZMLWpBT1Z5X2JRc3NEdkdMZDljQ0dkZXZRbzc3U1NmNkhnaFN5QzNhVmRzSmhsM0Q5VzU3Mm11OWZBa3M1V1lvaw)). Oil was on track for the biggest weekly loss since April after a volatile stretch of trading, as investors weighed prospects for an end to the months-long war in the Middle East ([BBG](https://www.bloomberg.com/news/articles/2026-11-05/latest-oil-market-news-and-analysis-for-nov-6)).
+Iran is exempting India, China, Qatar and Iraq from Hormuz restrictions, a move that carries political risks according to analysts ([Al Jazeera](https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions)). Oil declined on signs of moves toward Gulf War de-escalation ([BBG](https://www.bloomberg.com/news/articles/2026-11-06/oil-declines-on-signs-of-moves-toward-gulf-war-de-escalation)). Oil is set for a sharp weekly drop, but Middle East supply concerns provide a floor ([Reuters](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR0loTjAtWUlkbnpIR2huZE8zWWkxZHZIZlprNlQ5Z3BSaGUxcnE1ZDdqbXFuOHFpQVdrbzEyNnRUSGR4ZDh3SEpqQkpqX2NZa0JlZjEyZlp3RElJMFlhVDRLLTZ3MzRuV2NuTXR3SjhQejExMVR4eE10YThVcmJYaTdNYmt1SjJfeG10NlJRRFB1SFNQUlRSanFrYzBFUjlZNjBGMjhxSi1MZG1sd19kWGU0Ykt5bmR4by1B)). Renewed U.S.-Iran tension could push oil past `$100`, according to Rapidan Energy ([CNBC](https://www.cnbc.com/2026/11/06/us-iran-war-trump-hormuz-oil-midterms.html)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Reversal from the prior fading Hormuz premium; physical tanker strikes and the Yanbu warning reinsert supply-side risk despite diplomacy headlines.
-> * **Transmission / Market Read**: Supply and risk-premium channel; favors **long Brent** on escalation and **short Asia energy importer FX** as a cross-market hedge.
-> * **Watchpoint / Confidence**: Pivot to neutral if Hormuz transit normalizes or the US-Iran nuclear channel formalizes; Confidence: Medium given mixed diplomacy and physical attack signals.
-
-### 📌 China tightens AI and technology controls
-
-**Fact**
-China Blocks `$5.4 Billion` SoftBank Robot Deal, Flexing Control Over AI Tech ([WSJ](https://news.google.com/rss/articles/CBMipAFBVV95cUxNWU1MYTRpWmVYU2dfWXBkTjR3U3ZERnVWUGtMVkttTjFPT3JPUE43NUdIRE1KcHVzcEpRNHpDaHdHOXEzbHQxcEJEVkNYNGRnY2lhV0ctZFRvb19adzJLcENWLXlINk1DRkNSUl9LQWlrVlRDaFVhb3dSVWF6c1l3Y3NGd3dQdFR5Z2ZLQWlvMFNhV1dtQVIyNVF2SFQycm9iS1Y4dQ)). EXCLUSIVE: Nvidia chips pile up in Hong Kong as China withholds import approval ([Reuters](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZHNUQnlURFBWSTlTSE5wNWUzekR0cDZfcWQzQVRFLVNweXJiSGhtSFZ6cWdvMXF4SHpLRy1YT1Y2QjJZMGxRajNaRGQ1Y25SVGkycEphaU4zTTRJSzV0QjNPTFMxeEl0Mm9CdGFQc0JJTHBNemVoSXdkTnhsR1FNR0t1b2hoUHdfSW0yVnlGMl95Qkd4dDAtMGdhYTFhUzRhc0U1Mm9fdGxLRnhacUNr)). Chinese AI lab Moonshot has sought leasing agreements with neoclouds for advanced chips in Europe, as US export controls restrict their import to China ([CNBC](https://www.cnbc.com/2026/11/05/moonshot-ai-nvidia-chips-europe-china.html)).
-
-> [!info] [AI Reasoning]
-> * **Narrative change**: Acceleration of China inbound technology and investment screening, broadening from prior deal blocks into chip import approval delays.
-> * **Transmission / Market Read**: Capital-flow and tech supply-chain channel; favors **short Asia AI supply-chain FX** and underperformance in **China AI hardware exposure**.
-> * **Watchpoint / Confidence**: Official Commerce Ministry or Nvidia statement on Hong Kong chip approvals within 72 hours; Confidence: Medium.
+> * **Narrative change**: Reversal because morning escalation gave way to visible de-escalation signs via Iran's Hormuz exemptions and lower oil.
+> * **Transmission / Market Read**: Risk-premium and commodity channel favors **long Brent** on dips while exemptions remain fragile; supports **oil-importing Asia FX**.
+> * **Watchpoint / Confidence**: Confirmed implementation of Iran's Hormuz exemptions and no new tanker incidents through weekend; Confidence: Medium due to diplomatic volatility.
 
 ---
 
 ## 🌍 Global Radar
 
 ### 📊 Economic Indicators
-- Lower-income nations face the highest debt costs since 1989, according to the World Bank ([BBG](https://www.bloomberg.com/news/articles/2026-11-05/lower-income-nations-face-highest-debt-costs-since-1989-world-bank)).
+- US Treasury traders make bullish bets ahead of jobs report ([BBG](https://www.bloomberg.com/news/articles/2026-11-06/us-treasury-traders-make-bullish-bets-ahead-of-jobs-report)).
 
 ### 🏦 Central Banks
-- **Federal Reserve** — Cleveland Fed’s Hammack Calls for Tighter Policy to Meet `2%` Inflation Target ([BBG](https://www.bloomberg.com/news/articles/2026-11-05/fed-s-hammack-says-restrictive-rates-needed-to-cool-inflation)).
-- **Federal Reserve** — In a CNBC interview, Barkin expressed concern over inflation and said monetary policy will need to adjust ([CNBC](https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html)).
-- **Czech National Bank** — Czechs Lift Benchmark Rate for Second Time This Year on Price Pressures ([BBG](https://www.bloomberg.com/news/articles/2026-11-05/czechs-hike-rates-for-second-time-this-year-to-tame-price-risks)).
+- **BOJ** — BOJ to hike in December, seek terminal rate of `2%`, says ex-central bank top economist ([CNA](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM1pqYXYwVlRWc1JITW1ETDJncU5XVDJvZ3R1T1VYX2wtSlNmVU50YnJtSWNacEJYdjEzbUdXVmxSZUN3NmgySlFueTdiRkdJeWt4NUt4ZDZtUS10TnhyNTBLRUM2ZUNsTzBtNUozbmJhcnZxaUk1enNvU2RObHQtdkY5N0ZiODNrbGFraG1WVHFEWXFTenVXM3RSZEw5VHo4dVZRcDR3V1BXQUVZeVMtUEt4eGRJb3NFdDgyNVFsZkc5MVk)).
 
 ### 🌐 Geopolitics & Policy
-- The Democrat expected to become US House speaker has met Taiwan’s former leader and backed legislation supporting the island, yet is unlikely to follow Nancy Pelosi’s example in pursuing high-profile engagement with Taipei ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3373438/why-next-us-house-speaker-wont-follow-nancy-pelosis-taiwan-playbook)).
-- China ready to expand US agricultural imports if Board of Trade tariff cuts take effect; soybean purchases are on track to meet this year’s target, but a separate `US$17 billion` commitment remains largely unfulfilled ([SCMP 2](https://www.scmp.com/economy/global-economy/article/3373412/china-ready-expand-us-agricultural-imports-if-board-trade-tariff-cuts-take-effect)).
+- EU-China truce under strain as both sides brace for potential trade war; Beijing warns of swift counterstrikes while Brussels readies fast-track export bans just weeks after striking deal ([SCMP](https://www.scmp.com/news/china/article/3373493/eu-china-trade-truce-under-strain-both-sides-brace-potential-trade-war)).
+- US lawmakers summon Jensen Huang over Chinese spying concerns; top Republicans ask Nvidia boss to brief congressional committees after reports he was targeted by China ([FT](https://www.ft.com/content/20119746-a285-482e-a0ae-336ce13b26bc)).
+- Iran’s security chief meets Putin, delivers message from Khamenei; Putin meets Iran's top security official to discuss regional security and receives a letter from Mojtaba Khamenei ([Al Jazeera](https://www.aljazeera.com/news/2026/11/6/irans-security-chief-meets-putin-delivers-message-from-khamenei)).
+- Iraq’s al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran; call comes as Iraq's top diplomat urges armed groups not to join any Iranian retaliation to US attacks ([Al Jazeera](https://www.aljazeera.com/news/2026/11/6/iraqs-al-zaidi-talks-to-trump-as-baghdad-seeks-to-stay-out-of-war-on-iran)).
 
 ### 🛢️ Commodities
-- Attack appears to hit Russia's Ryazan oil refinery, Reuters analysis finds ([Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxOWk03bDJPMTdlbGlRNi1YMHRCNHlsMWllWWt4Slk4dEZzeExCbUs5QmtjbG56TzlIWHg2eHZCbEF2U3hucml0UXBIeVoyamdhVlhqWjJTaENueW1tYjdhN1k5dy00NEk3UWJtUG45cmxiOHphOEJkNXJ2dG84UlpFYV8zOWpfMVFnY1dNWVV5Q083Q2VucHFfdG1PeWVtcW9nT216LVJwUlFnbE0wMEhDT3kzVUhnU2NLZ1k2US1R)).
+- As high oil prices curb demand, fresh signs of glut appear ([Reuters](https://news.google.com/rss/articles/CBMipgFBVV95cUxQem82aUU3S0NZWXNNcXlreW9xS3J0UnpIcDNCWVdqS3NyclRxSUtWenpmMEhoNmp6amtNSG5ZYmpuMzc1TElxODVYTmVSZURrYjJsbVliVXlVSzNtM3J5TDBMNl9sQ0JSTmxKQ2RxVzc4RnMxX2lIZGp3Y3kwTFdrUndLZkFMN0JkN2xLTi02dDZjT0x1Wk0ySTMxZlpNZWRmX1F6ZDhR)).
 
 ### 📈 Equities
-- European stocks overtake Wall Street following Democratic sweep; Stoxx Europe 600 index ahead of S&P 500 for this year as US stocks tumble ([FT](https://www.ft.com/content/1ca182d6-8d16-4ddb-98fb-cf933b4c3073)).
-- Equity Volatility Jumps Most Since April 2025 Tariff Turmoil ([BBG](https://www.bloomberg.com/news/articles/2026-11-05/equity-volatility-jumps-most-since-april-2025-tariff-turmoil)).
+- India bucks Asia tech rout as oil slide reverses market fortunes ([Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWjNzeFpJV2tDZUlhN19jRzc4UDQ2NUJ2eWNvdnBjdW1Bam5YdE9HUGhfLUZ3Z3FMOVpQMFdId2Z4SlBlMll2Z2dYVXZqamZYdjRMazg3NnZfbzA0WHFNMVNLY0VqQ0dwMkI5RDB2S1ZrNFNGWWpnQmdjUXE2cjcwem9KVzVPYzJMWm5ycGVJaTFWTGRTX3g3T1JIbVAwb3pFUGFXVHBmMWIxdGhOWUtIQm1hWnZsbUhHMVE)).
 
 ---
 
@@ -95,83 +84,54 @@ China Blocks `$5.4 Billion` SoftBank Robot Deal, Flexing Control Over AI Tech ([
 
 | Time (HKT) | Rgn | Event | Est. | Prior |
 |---|---|---|---|---|
-| 11:35 AM | JP | 3-Month Bill Auction | — | 1.2706% |
-| 03:00 PM | DE | Industrial Production MoM | 0% | 2% |
-| 03:00 PM | GB | Lloyds House Price Index MoM | 0.1% | 0% |
-| 03:00 PM | GB | Lloyds House Price Index YoY | -0.3% | 0% |
-| 03:45 PM | FR | Balance of Trade | €-5.8B | €-6.1B |
-| 03:45 PM | FR | Current Account | — | €-1.5B |
-| 03:45 PM | FR | Exports | — | €54.2B |
-| 03:45 PM | FR | Foreign Exchange Reserves | — | €370.203B |
-| 03:45 PM | FR | Imports | — | €60.3B |
-| 04:00 PM | ES | Industrial Production YoY | — | 1.5% |
-| 05:00 PM | SG | Foreign Exchange Reserves | — | S$553.6B |
-| 06:00 PM | GB | BBA Mortgage Rate | — | 6.58% |
-| 09:30 PM | US | Non Farm Payrolls | 65K | 29K |
-| 09:30 PM | US | Unemployment Rate | 4.2% | 4.2% |
-| 09:30 PM | US | Average Hourly Earnings MoM | 0.3% | 0.1% |
-| 09:30 PM | US | Average Hourly Earnings YoY | 2.9% | 3% |
-| 09:30 PM | US | Participation Rate | — | 61.8% |
-| 09:30 PM | US | Average Weekly Hours | 34.4 | 34.4 |
-| 09:30 PM | US | Government Payrolls | — | -17K |
-| 09:30 PM | US | Manufacturing Payrolls | 5K | 9K |
-| 09:30 PM | US | Nonfarm Payrolls Private | 64K | 46K |
-| 09:30 PM | US | U-6 Unemployment Rate | — | 7.6% |
-| 10:00 PM | US | Used Car Prices MoM | — | -1.1% |
-| 10:00 PM | US | Used Car Prices YoY | — | -0.6% |
-| 11:00 PM | US | Michigan Consumer Sentiment Prel | 48 | 48.0 |
-| 11:00 PM | US | Michigan 5 Year Inflation Expectations Prel | — | 3.5% |
-| 11:00 PM | US | Michigan Consumer Expectations Prel | 49.5 | 48.8 |
-| 11:00 PM | US | Michigan Current Conditions Prel | 48 | 46.7 |
-| 11:00 PM | US | Michigan Inflation Expectations Prel | — | 4.7% |
-| 02:00 AM | US | Baker Hughes Oil Rig Count | — | 462 |
-| 02:00 AM | US | Baker Hughes Total Rigs Count | — | 603 |
-| 04:00 AM | US | Consumer Credit Change | $12B | $8.28B |
+| Nov 06 06:00 PM | GB | BBA Mortgage Rate | — | 6.58% |
+| Nov 06 09:30 PM | US | Non Farm Payrolls | 65K | 29K |
+| Nov 06 09:30 PM | US | Unemployment Rate | 4.2% | 4.2% |
+| Nov 06 09:30 PM | US | Average Hourly Earnings MoM | 0.3% | 0.1% |
+| Nov 06 09:30 PM | US | Average Hourly Earnings YoY | 2.9% | 3% |
+| Nov 06 09:30 PM | US | Participation Rate | — | 61.8% |
+| Nov 06 09:30 PM | US | Average Weekly Hours | 34.4 | 34.4 |
+| Nov 06 09:30 PM | US | Government Payrolls | — | -17K |
+| Nov 06 09:30 PM | US | Manufacturing Payrolls | 5K | 9K |
+| Nov 06 09:30 PM | US | Nonfarm Payrolls Private | 64K | 46K |
+| Nov 06 09:30 PM | US | U-6 Unemployment Rate | — | 7.6% |
+| Nov 06 10:00 PM | US | Used Car Prices MoM | — | -1.1% |
+| Nov 06 10:00 PM | US | Used Car Prices YoY | — | -0.6% |
+| Nov 06 11:00 PM | US | Michigan Consumer Sentiment Prel | 48 | 48.0 |
+| Nov 06 11:00 PM | US | Michigan 5 Year Inflation Expectations Prel | — | 3.5% |
+| Nov 06 11:00 PM | US | Michigan Consumer Expectations Prel | 49.5 | 48.8 |
+| Nov 06 11:00 PM | US | Michigan Current Conditions Prel | 48 | 46.7 |
+| Nov 06 11:00 PM | US | Michigan Inflation Expectations Prel | — | 4.7% |
+| Nov 07 02:00 AM | US | Baker Hughes Oil Rig Count | — | 462 |
+| Nov 07 02:00 AM | US | Baker Hughes Total Rigs Count | — | 603 |
+| Nov 07 04:00 AM | US | Consumer Credit Change | $12B | $8.28B |
 
 ---
 
 ## 📚 Full Reading List
-
 - **BBG**
-  - [Korea’s Kospi Tumbles Below 5,000 Milestone as AI Fears Spread](https://www.bloomberg.com/news/articles/2026-11-05/korean-chip-stocks-sink-10-in-pre-market-as-ai-fears-deepen)
-  - [Yen Regains Haven Appeal as AI Rout Sends Investors to Safety](https://www.bloomberg.com/news/articles/2026-11-05/yen-rises-on-haven-demand-as-cibc-nomura-see-room-for-more-gain)
-  - [Bank of England Strikes Hawkish Tone With First Hike Since 2023](https://www.bloomberg.com/news/articles/2026-11-05/bank-of-england-unanimously-hikes-rates-warns-of-4-9-inflation)
-  - [Bailey Says Second BOE Hike More Likely Than Not If War Goes On](https://www.bloomberg.com/news/articles/2026-11-05/bailey-says-second-boe-hike-more-likely-than-not-if-war-goes-on)
-  - [Latest Oil Market News and Analysis for Nov. 6](https://www.bloomberg.com/news/articles/2026-11-05/latest-oil-market-news-and-analysis-for-nov-6)
-  - [Lower-Income Nations Face Highest Debt Costs Since 1989: World Bank](https://www.bloomberg.com/news/articles/2026-11-05/lower-income-nations-face-highest-debt-costs-since-1989-world-bank)
-  - [Fed’s Hammack Says Restrictive Rates Needed to Cool Prices](https://www.bloomberg.com/news/articles/2026-11-05/fed-s-hammack-says-restrictive-rates-needed-to-cool-inflation)
-  - [Banxico Surprises With Cut to 6.25%, Signals Extended Hold](https://www.bloomberg.com/news/articles/2026-11-05/mexico-unexpectedly-cuts-interest-rate-to-four-year-low-of-6-25)
-  - [Czechs Raise Rates as ‘Fine-Tuning’ Move After Rare Tight Vote](https://www.bloomberg.com/news/articles/2026-11-05/czechs-hike-rates-for-second-time-this-year-to-tame-price-risks)
-  - [Equity Volatility Jumps Most Since April 2025 Tariff Turmoil](https://www.bloomberg.com/news/articles/2026-11-05/equity-volatility-jumps-most-since-april-2025-tariff-turmoil)
-
+  - [Taiwan’s Currency Rebounds After Weakening Past 33 Per US Dollar](https://www.bloomberg.com/news/articles/2026-11-06/taiwan-s-currency-weakens-past-33-per-us-dollar-on-ai-jitters)
+  - [Korea’s $1.7 Trillion Rout Burns Day Traders, Challenges Lee](https://www.bloomberg.com/news/articles/2026-11-06/korea-s-1-7-trillion-rout-burns-day-traders-challenges-lee)
+  - [Oil Declines on Signs of Moves Toward Gulf War De-Escalation](https://www.bloomberg.com/news/articles/2026-11-06/oil-declines-on-signs-of-moves-toward-gulf-war-de-escalation)
+  - [Thailand Inflation Surges to 3.9%, Breaching BOT’s Target](https://www.bloomberg.com/news/articles/2026-11-06/thailand-inflation-accelerates-to-3-9-breaching-bot-target)
+  - [US Treasury Traders Make Bullish Bets Ahead of Jobs Report](https://www.bloomberg.com/news/articles/2026-11-06/us-treasury-traders-make-bullish-bets-ahead-of-jobs-report)
 - **Reuters**
-  - [Blue tsunami wipes out $2.5 trillion from Nasdaq, as investors fret about AI trade](https://news.google.com/rss/articles/CBMivwFBVV95cUxPVVFVWVUwWmVwQXRLMTV2ZFBIV3dpR1VBUTU4dnhfUW5SN3BwcGZraXF1YTFDMmx2TjZFOTVBTWNqc09zTV9VbE1faDJ5Y294THA0YlFkTlZmX3AzWDJacm96Um1YQ0htd2FLRmJFTlpvLWVhQ0pXdUtyLVh0ZTRESzBJNW1fZ2lrTVBkUEIzejF2VUVLeGdyQWxDazczTmNWQWdOMXIybTR2T0x5OWFGNWMyU256bUhRME54eXBlTQ)
-  - [Tankers hit in Hormuz as Iran keeps up pressure after US vote](https://news.google.com/rss/articles/CBMirgFBVV95cUxQS25WaGR6RHltaldweFlqblRLWTQwanRGbVY4Vm5YZXBVdUVacG5DSTU3SXd1N00zTDROTTlYaGlnQzZPQUlmeUNPRlExc01kSUUwTFkwQUpWTWlXZEtkdTZmQktpWXUwcGt6dVBHbjkyb25ISjB1N0tOaWNJRHBoNk9iSzBJMURrM2dlemVvVnU5aHplVko3aGlQc296enRpdDlLNWJDWGtLWDZZVWc)
-  - [Saudi Arabia warns of potential danger in Yanbu oil hub as Houthi attacks continue](https://news.google.com/rss/articles/CBMixgFBVV95cUxQR1J2UXI1T2psd21CTE9jNjdvWmZpaktQTVh0Vzg1VGNzZndWZVNab0JhcFNkMEZSRlF1R0d1Vm9EVmZVMDhfUThrOG84Q2VQaTZocklZaEV4end3cjBUYWFTTWxWZFc4WjBLV1MtOFQ3c0d1bHRvODdrQTFTT01MLVFvTlA1eXI3T3JnMzlXNmpXcGNsWE1KQ3hQRDZCRG8xZjBZMTJSRHZqMmNuVkFWZTVXLXRqdkoxaUlvQUVmcVoxTW9FdFE)
-  - [Iran sent nuclear proposal to the US via Qatar, senior Iranian official tells Reuters](https://news.google.com/rss/articles/CBMiywFBVV95cUxOSlJZVlphdWhPcDNGc1E5eDVNdDdMQkJNTXVDS0RYSVRqaC1tblFqQy1FekRQdldnV0FsMU5RdnVHNEI3UEZWMC1MY1l5cnRtcjBlcDlpUXdvX0hXbV91S1UxajV1TEx1VmJ2SzNLNElXSjc3YkdmYWw4VGNXZEl5NXR4RFNjRXBxeEZMLWpBT1Z5X2JRc3NEdkdMZDljQ0dkZXZRbzc3U1NmNkhnaFN5QzNhVmRzSmhsM0Q5VzU3Mm11OWZBa3M1V1lvaw)
-  - [EXCLUSIVE: Nvidia chips pile up in Hong Kong as China withholds import approval](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZHNUQnlURFBWSTlTSE5wNWUzekR0cDZfcWQzQVRFLVNweXJiSGhtSFZ6cWdvMXF4SHpLRy1YT1Y2QjJZMGxRajNaRGQ1Y25SVGkycEphaU4zTTRJSzV0QjNPTFMxeEl0Mm9CdGFQc0JJTHBNemVoSXdkTnhsR1FNR0t1b2hoUHdfSW0yVnlGMl95Qkd4dDAtMGdhYTFhUzRhc0U1Mm9fdGxLRnhacUNr)
-  - [US issues new Cuba sanctions, takes aim at sectors of Cuban economy](https://news.google.com/rss/articles/CBMisAFBVV95cUxQblVpSUg3SjBzNjdqeWlrY1hpeWNhQ2E0VzNmZW1RTVl3ekVfRW5ERnpNU2gwa3M3NUZuNWFFc3JWR3BnNGlHeS1VOENLeFcwRUxaYm00TnVxZWd1RkxtbEJ0WlJTQmFMeXZDZm9iX1Fybk5qTGJ5eVhCMlV6c2VFbUd4ZXZBS2VmeW9tM0d1SjRoN0FibW13RnAtcU11XzVENk5PVTVYV2RPMGJkM3ZlaQ)
-  - [Attack appears to hit Russia's Ryazan oil refinery, Reuters analysis finds](https://news.google.com/rss/articles/CBMivgFBVV95cUxOWk03bDJPMTdlbGlRNi1YMHRCNHlsMWllWWt4Slk4dEZzeExCbUs5QmtjbG56TzlIWHg2eHZCbEF2U3hucml0UXBIeVoyamdhVlhqWjJTaENueW1tYjdhN1k5dy00NEk3UWJtUG45cmxiOHphOEJkNXJ2dG84UlpFYV8zOWpfMVFnY1dNWVV5Q083Q2VucHFfdG1PeWVtcW9nT216LVJwUlFnbE0wMEhDT3kzVUhnU2NLZ1k2US1R)
-
-- **WSJ**
-  - [China Blocks $5.4 Billion SoftBank Robot Deal, Flexing Control Over AI Tech](https://news.google.com/rss/articles/CBMipAFBVV95cUxNWU1MYTRpWmVYU2dfWXBkTjR3U3ZERnVWUGtMVkttTjFPT3JPUE43NUdIRE1KcHVzcEpRNHpDaHdHOXEzbHQxcEJEVkNYNGRnY2lhV0ctZFRvb19adzJLcENWLXlINk1DRkNSUl9LQWlrVlRDaFVhb3dSVWF6c1l3Y3NGd3dQdFR5Z2ZLQWlvMFNhV1dtQVIyNVF2SFQycm9iS1Y4dQ)
-  - [Treasury, European Bond Yields Tumble as Markets Lifted by U.S. Democrats’ Victory](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdld4SERJUnFrU2lIQ2NMNTJkZy1mVGZUbUFRaEtBQllGTHdQODM2WkhrV1lwd0tCaEd0UUJWclh4M2t6Y0RxMEZWTTBGRHRvNkpMaUV6YkZweVR5MlFwVThma29VWEI4dzdPMTNaSGR1Y28wRnBDWGZQWk02SnhXbnNQbWkycmo0QU50Wm9MNnFGa2lLR2czVU5Vd0thSTNkUEZyTGZDVHR6dWd2RkhoQ18zdnl3b1k0U3QxdWs1Qk5kQQ)
-
+  - [Oil set for sharp weekly drop but Middle East supply concerns provide floor](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR0loTjAtWUlkbnpIR2huZE8zWWkxZHZIZlprNlQ5Z3BSaGUxcnE1ZDdqbXFuOHFpQVdrbzEyNnRUSGR4ZDh3SEpqQkpqX2NZa0JlZjEyZlp3RElJMFlhVDRLLTZ3MzRuV2NuTXR3SjhQejExMVR4eE10YThVcmJYaTdNYmt1SjJfeG10NlJRRFB1SFNQUlRSanFrYzBFUjlZNjBGMjhxSi1MZG1sd19kWGU0Ykt5bmR4by1B)
+  - [India bucks Asia tech rout as oil slide reverses market fortunes](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWjNzeFpJV2tDZUlhN19jRzc4UDQ2NUJ2eWNvdnBjdW1Bam5YdE9HUGhfLUZ3Z3FMOVpQMFdId2Z4SlBlMll2Z2dYVXZqamZYdjRMazg3NnZfbzA0WHFNMVNLY0VqQ0dwMkI5RDB2S1ZrNFNGWWpnQmdjUXE2cjcwem9KVzVPYzJMWm5ycGVJaTFWTGRTX3g3T1JIbVAwb3pFUGFXVHBmMWIxdGhOWUtIQm1hWnZsbUhHMVE)
+  - [Gold drops 1% on higher oil prices; US payrolls data in focus](https://news.google.com/rss/articles/CBMirwFBVV95cUxQQVNBUlY0RkQ3Vm5qcDFmbS12Nlo0Wjd4RWNEWkROOFRSX0hha1VobWJkTW82YTM1QzNMUXlzX1V5bktiSHJDYklFR2ZDUnN4aEhGM3U0UmlRT3pDcjVFRkR5ak9IZ1NVbG4wempaX1Y0R2JXb0U2THRLcE80d0l1NFppQ3l5b2M4c3RQZU1sS1RNRHdiYmFsYmw0czRoUnVJRVJLNTl0VmVNODg3NWVR)
+  - [As high oil prices curb demand, fresh signs of glut appear](https://news.google.com/rss/articles/CBMipgFBVV95cUxQem82aUU3S0NZWXNNcXlreW9xS3J0UnpIcDNCWVdqS3NyclRxSUtWenpmMEhoNmp6amtNSG5ZYmpuMzc1TElxODVYTmVSZURrYjJsbVliVXlVSzNtM3J5TDBMNl9sQ0JSTmxKQ2RxVzc4RnMxX2lIZGp3Y3kwTFdrUndLZkFMN0JkN2xLTi02dDZjT0x1Wk0ySTMxZlpNZWRmX1F6ZDhR)
 - **FT**
-  - [Nasdaq drops the most since pandemic as Democratic ‘blue wave’ upends AI bets](https://www.ft.com/content/7c6ceb4f-d7b1-49ec-9047-0e2e4cd2615c)
-  - [Bank of England raises interest rates to 4% in bid to tame inflation](https://www.ft.com/content/2153a8c5-976c-471f-9ca9-bf0a5da40b61)
-  - [European stocks overtake Wall Street following Democratic sweep](https://www.ft.com/content/1ca182d6-8d16-4ddb-98fb-cf933b4c3073)
-
+  - [Japanese stocks post biggest one-day fall since ‘liberation day’ chaos](https://www.ft.com/content/b77ebe43-a017-4e63-af84-5bdec8f47648)
+  - [Wall Street AI sell-off spreads to Asia and Europe](https://www.ft.com/content/642b32dc-e3a1-4df8-ae91-5c84bdeb89e0)
+  - [US lawmakers summon Jensen Huang over Chinese spying concerns](https://www.ft.com/content/20119746-a285-482e-a0ae-336ce13b26bc)
 - **CNBC**
-  - [Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%](https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html)
-  - [Barkin sees interest rate hikes ahead, but at a gradual pace](https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html)
-  - [Chinese AI lab Moonshot turned to Europe for Nvidia Blackwell access amid U.S. China curbs, sources tell CNBC](https://www.cnbc.com/2026/11/05/moonshot-ai-nvidia-chips-europe-china.html)
-  - [Banks are turning cautious on lending, according to the Fed. What it means for the economy](https://www.cnbc.com/2026/11/05/fed-bank-lending-standards-small-business.html)
-
+  - [Renewed U.S.-Iran tension could push oil past $100: Rapidan Energy](https://www.cnbc.com/2026/11/06/us-iran-war-trump-hormuz-oil-midterms.html)
+  - [Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble](https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html)
 - **SCMP**
-  - [AI storm dooms tech stocks to US$2 trillion decline on darkest day since 2025](https://www.scmp.com/news/world/united-states-canada/article/3373465/ai-storm-dooms-tech-stocks-us2-trillion-decline-darkest-day-2025)
-  - [Why the next US House speaker won’t follow Nancy Pelosi’s Taiwan playbook](https://www.scmp.com/news/china/diplomacy/article/3373438/why-next-us-house-speaker-wont-follow-nancy-pelosis-taiwan-playbook)
-  - [China ready to expand US agricultural imports if Board of Trade tariff cuts take effect](https://www.scmp.com/economy/global-economy/article/3373412/china-ready-expand-us-agricultural-imports-if-board-trade-tariff-cuts-take-effect)
-
-- **CNN**
-  - [Massive tech sell-off wipes $2.5 trillion from the stock market](https://news.google.com/rss/articles/CBMidEFVX3lxTFBRNUYxQ2c5VUJvNkd2RExjdVJ1YU5UNmpYYzh2dzgzT2FOZFFaNmlpd0ZUSVViTzZkRG91RmRad3MxNXdncmt4aFFuR2U5di11dmlYSG9hODllU2RNZXFTUHR1UlhpYzhESlpfMS15OVdETTNP)
+  - [EU-China truce under strain as both sides brace for potential trade war](https://www.scmp.com/news/china/article/3373493/eu-china-trade-truce-under-strain-both-sides-brace-potential-trade-war)
+- **CNA**
+  - [BOJ to hike in December, seek terminal rate of 2%, says ex-central bank top economist](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM1pqYXYwVlRWc1JITW1ETDJncU5XVDJvZ3R1T1VYX2wtSlNmVU50YnJtSWNacEJYdjEzbUdXVmxSZUN3NmgySlFueTdiRkdJeWt4NUt4ZDZtUS10TnhyNTBLRUM2ZUNsTzBtNUozbmJhcnZxaUk1enNvU2RObHQtdkY5N0ZiODNrbGFraG1WVHFEWXFTenVXM3RSZEw5VHo4dVZRcDR3V1BXQUVZeVMtUEt4eGRJb3NFdDgyNVFsZkc5MVk)
+- **Al Jazeera**
+  - [Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?](https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions)
+  - [Iran’s security chief meets Putin, delivers message from Khamenei](https://www.aljazeera.com/news/2026/11/6/irans-security-chief-meets-putin-delivers-message-from-khamenei)
+  - [Iraq’s al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran](https://www.aljazeera.com/news/2026/11/6/iraqs-al-zaidi-talks-to-trump-as-baghdad-seeks-to-stay-out-of-war-on-iran)
