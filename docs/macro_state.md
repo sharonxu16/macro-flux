@@ -1,24 +1,22 @@
 # Macro State — Last updated: 2026-11-07
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Hawkish DM labor repricing after strong US payrolls** — Status: Acceleration; strong payrolls and `4.1%` unemployment revive Fed hike bets, pressuring Asia FX and Treasuries; next trigger US inflation and Fed speakers.
-- **AI capex unwind and global tech correction** — Status: Confirmation; rout extended into Asia and forced Taiwan stabilization measures; next trigger Asia open stability and Taiwan intervention details.
-- **US-China trade compliance tension post-Busan** — Status: Acceleration; Washington demands immediate implementation on rare earths, adding tariff and supply-chain risk; next trigger China Commerce Ministry response and rare earth export data.
-- **Middle East oil diplomacy with residual kinetic tail risk** — Status: Confirmation; oil slides on diplomacy hopes but tanker missile attack keeps risk premium alive; next trigger no further tanker incidents and Iran diplomacy implementation.
+- **Middle East kinetic escalation with active diplomacy** — Status: Acceleration; fresh US strikes on Qeshm Island keep oil risk premium while Qatar pursues an interim deal; next trigger deal confirmation or new strikes.
+- **US-China trade retaliation post-Busan** — Status: Acceleration; Beijing vows retaliation after US sanctions on Chinese companies, widening the trade conflict; next trigger official retaliation details.
+- **Global hawkish DM labor repricing** — Status: Confirmation; strong US payrolls revived Fed hike bets and an ECB candidate warned on energy-driven inflation risks; next trigger US inflation and Fed/ECB speakers.
+- **Central bank gold reserve accumulation** — Status: Confirmation; PBOC extended gold purchases to a 24th month and October purchases accelerated to `83万盎司`; next trigger next monthly reserve data.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- Asia FX and equity stabilization after the `165,000` US payrolls print.
-- Taiwan market stabilization follow-through and TWD movement after intervention activation.
-- China response to US Busan compliance demand.
-- Tanker attack investigation and any new Gulf shipping disruption.
-- AI credit stress signals from CoreWeave and data center loan pricing.
+- Qatar-US-Iran interim deal or new strikes in the next 24-72h.
+- China official retaliation list after US sanctions.
+- Gold price response to PBOC demand and China-US risk.
+- US inflation data and Fed speeches after the strong payrolls print.
+- AI credit stress and semiconductor supply-chain signals.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Does strong payrolls dominate the AI growth scare, keeping USD and UST yields bid?
-- Does the Busan compliance dispute escalate into new tariffs or rare earth controls?
-- Does the tanker attack derail Middle East de-escalation and oil’s downward drift?
+- Does fresh Iran escalation persist despite Doha mediation, keeping oil bid and Asia FX pressured?
+- Does China retaliation widen the trade conflict into new tariffs or export controls?
+- Does central bank gold buying signal accelerated reserve diversification away from USD assets?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- US nonfarm payrolls: `165,000`, unemployment `4.1%` ([BBG](https://www.bloomberg.com/news/articles/2026-11-06/us-adds-165-000-jobs-above-all-forecasts-as-unemployment-falls), [CNBC](https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html)) — stronger than expected, fuels Fed repricing.
-- Nasdaq 100 recovery: `1.4%` ([FT](https://www.ft.com/content/642b32dc-e3a1-4df8-ae91-5c84bdeb89e0)) — tepid stabilization benchmark after tech rout.
-- AI rout market value: `$5.7 trillion` ([BBG](https://www.bloomberg.com/news/articles/2026-11-06/ai-s-wild-week-has-wall-street-hunting-for-fresh-escape-routes)) — scale of cross-asset risk-off.
+- PBOC October gold purchases: `83万盎司` ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FcFFqcWc2dk41TTVmQWJnS3Q1R0RsTExwTjgwTktUODZjaWVWak9vSVNYbC00Sl9pOWZWcDVnSXFFcFl6U0ZKZS1QREtwR3ZoTXNV), [CCTV](https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZcWdEd1ZMVVdacUVFdkVJbmdZcHFiTVBCQ3Q4YVJhanB5aXZsUlVSTGRnOWRaUUVXenB0MkNPUGg2NU8wME1ta2hsbk11TXZXbmRoRGJQelhTYV9mLU5zZkR1VzQ2YVBzdG5YX1pxT2V3OW5uaFpJSQ)) — evidence of accelerated official gold accumulation.

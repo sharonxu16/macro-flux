@@ -1,85 +1,78 @@
 ---
 tags:
-  - Macro/AI_Capex_Unwind
-  - Macro/Fed_Hike_Risk
+  - Macro/Iran_Conflict
   - Macro/China_Trade
-  - Asset/UST
-  - Trade/Short_TWD
+  - Asset/Gold
+  - Asset/CNH
+  - Trade/Short_CNH
 ---
 
 <div align="center">
 
 # 🌊 Macro Flux
 
-<small>Nov 6 5PM to Nov 7 8AM HKT</small>
+<small>Nov 7 8AM to Nov 7 5PM HKT</small>
 
-<small>Good morning.</small>
+<small>Good afternoon.</small>
 
 </div>
 
 ---
 
 > [!abstract] Overview
-> US October payrolls blew past forecasts at `165,000`, unemployment fell to `4.1%`, and the strong print immediately revived Federal Reserve rate-hike bets, lifting Treasury yields and the dollar while capping the prior session’s tech-led rebound. The jobs shock lands after a Democratic congressional sweep triggered a global AI selloff that erased trillions in market value and forced Taiwan to activate market stabilization measures as SK Hynix, Samsung, SoftBank and TSMC tumbled, leaving US equities with only a tepid bounce. Washington separately pressed Beijing for immediate compliance with the Busan trade deal, raising the risk of renewed tariff and rare-earth friction on top of the AI correction. Oil slid on Middle East diplomacy hopes even as a suspected missile attack killed a seafarer on a tanker in the Gulf. The common thread is a transition from an AI growth scare toward hawkish developed-market policy repricing, with Asia tech FX and US-China trade as the main stress points.
+> Fresh US strikes on Iran’s Qeshm Island air defences kept the Middle East risk premium alive even as Qatari mediation signalled Washington remains open to a negotiated solution. Beijing’s vow to retaliate against new US sanctions on Chinese companies added another leg to the US-China trade conflict, making CNH and China equities the main direct stress point this afternoon. The People’s Bank of China extended its gold-buying streak to a 24th consecutive month and accelerated October purchases, reinforcing bullion’s reserve-diversification bid as prices fell. The dominant cross-market thread is a shift from the prior AI growth scare toward geopolitical and sanctions risk premia alongside persistent official demand for hard assets.
 
 ---
 
 ## 🔬 Narrative Watch
 
-### 📌 Strong October payrolls revive Fed rate-hike repricing before December meeting
+### 📌 Fresh US strikes on Iran’s Qeshm Island as Qatar pushes for an interim deal
 
 **Fact**
-US job growth surged in October and the unemployment rate edged lower, signs of labor-market strength in an expanding economy ([BBG 1](https://www.bloomberg.com/news/articles/2026-11-06/us-adds-165-000-jobs-above-all-forecasts-as-unemployment-falls)). The U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1% ([CNBC 1](https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html)). Nonfarm payrolls were expected to increase by 59,000 in October as the unemployment rate was expected to hold steady at 4.2% ([CNBC 1](https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html)). Hiring rebound reinforces expectations Federal Reserve will raise interest rates ([FT](https://www.ft.com/content/f84c722c-99a9-4628-84dc-c42a192cb35c)). Federal Reserve Bank of New York President John Williams endorsed the US central bank’s statement saying that this is the time to collect information on the risks to prices ([BBG 2](https://www.bloomberg.com/news/articles/2026-11-06/williams-says-fed-should-gather-information-to-judge-price-risks)). Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says ([CNBC 2](https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html)). Treasury Yields Rise as Strong US Jobs Data Fuels Fed Rate-Hike Expectations ([BBG 3](https://www.bloomberg.com/news/articles/2026-11-06/us-treasuries-stumble-as-strong-labor-market-lifts-fed-hike-bets)).
+The strikes on Qeshm Island’s air defences, called ‘minor’ by Trump, come as Qatar pushes an interim deal to halt escalation ([SCMP](https://www.scmp.com/news/world/middle-east/article/3373633/trump-confirms-fresh-iran-strikes-days-after-voters-punish-war-polls)). Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island ([CNBC](https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html)). US President Donald Trump said America has carried out ‘minor strikes’ on Iran’s Qeshm Island ([Al Jazeera 1](https://www.aljazeera.com/video/newsfeed/2026/11/7/trump-confirms-us-strikes-in-iran-insists-its-not-a)). Qatari PM says US willing to seek solution to war with Iran ([Al Jazeera 2](https://www.aljazeera.com/video/newsfeed/2026/11/7/qatari-pm-says-us-willing-to-seek-solution-to-war-with-iran)). Qatar says its mediation efforts between US and Iran continue to prevent escalation ([Reuters](https://news.google.com/rss/articles/CBMiygFBVV95cUxOWnBiR0l0NVE4d1Rpd2xSTmFvVGtGSTU2SDJmZXRndk9yS2Z0TlhsUW1ZNldhRnZtOGs0UUhJZWt0VFYzNEtrV1FJMW9QU05BMl94azJLZkZNNTNDWm9TbDFualhlV0VBbHJyQzdnZEJOVnd5Z0pMNzJUZkQ1dF82TU83MkNJbkxsRlhkRVVCYWxxbXF0SlhGaGdvcEhYdVFRQm05bVM4b1BHZzlhcEEta21QQzZRZUl6NUtQZ0o4ajVTTzJxV3lEdVhB)). Trump’s Clashing Advisers Press Him to Make Iran War Decision ([WSJ](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTk1hcGl4cm5rQ0ctRmRhUFRqWDVmMTNIaXdSY0xiQkc4QkYyYkdOa3lIY2xHN0ZPR3d4N1dubVh0M0Vydmo5NlRfUnh5ZG4tdzJ0RldicGE1cW1ybXRockZiNTJUek5pY2Z6M3NrRGxObWZZR1pkX2o4UnB3SHFfaWpYMGdnUEpjRHBSWUpFU01uNGg1djNhNnhrR0phSUhIOGdWOC1NeFAtbzg)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Acceleration; strong payrolls flip prior AI-led risk-off toward hawkish Fed repricing, confirming the Nonfarm Payrolls watchpoint.
-> * **Transmission / Market Read**: Rates and FX channel; favors **long USD/Asia FX** and **short TWD/KRW** while Treasury yields retrace higher.
-> * **Watchpoint / Confidence**: Fed speakers and next inflation data; if yields fail to hold gains or risk assets re-rout, repricing weakens; Confidence: High.
+> * **Narrative change**: Acceleration because fresh US strikes on Qeshm Island revive kinetic risk even as Doha pushes an interim deal.
+> * **Transmission / Market Read**: Risk-premium channel favors **long Brent** and **long gold**, pressures risk-sensitive Asia FX such as **short KRW**.
+> * **Watchpoint / Confidence**: A confirmed interim deal or 48 hours without new strikes would reduce premium; Confidence: Medium due mixed official signals.
 
-### 📌 AI correction enters stabilization phase as Taiwan intervenes and Asia chip stocks tumble
+### 📌 Beijing vows retaliation after new US sanctions on Chinese companies
 
 **Fact**
-Months of unease over Wall Street’s artificial-intelligence boom erupted into a global market convulsion this week, opening a dangerous new chapter for the investment frenzy that has helped power stock prices, corporate spending and economic growth ([BBG](https://www.bloomberg.com/news/articles/2026-11-06/ai-s-wild-week-has-wall-street-hunting-for-fresh-escape-routes)). Wall Street Gets $2.5 Trillion AI Reality Check With Historic Rout of Tech Stocks ([WSJ 1](https://news.google.com/rss/articles/CBMiYkFVX3lxTE10SnF2czRFZktMVElNOWFRby1Ra21tSm50TXVWNXVsUUJYeVN6SjBIZmJBdEpFZ3JYR3ZqQllvNkNCYlhVZjJjZW5yZ2QzWkVydVNKWmx1OTFHWERDb29MMjRR)). Tech-heavy Nasdaq 100 rises 1.4% following day of turmoil ([FT 1](https://www.ft.com/content/642b32dc-e3a1-4df8-ae91-5c84bdeb89e0)). US stocks stage tepid recovery after $3.2tn rout fuelled by AI fears ([FT 2](https://www.ft.com/content/088ed252-ea9c-4b61-b2d1-37295fd0f7c2)). Taiwan Activates Market-Stabilization Measures to Stem AI Bleeding ([WSJ 2](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQmRQc05FTEtYbm9hLUhzOHFESHo4UHlMX2Fwd2l3eTNscTdsTHp1SnF6RGNuMENybV93Z1BZeE03NTVobVF3OG9YUVlhNjI5SElLODdkSXBxNUwtOWlJczdNdmhtQ1N1cnhqcGpaNmlVdS1lNm12RXA3YXNUbDBETzk0UENTUExibVpUa3V5dWFNVGswNEJwaERZSkJodzI2c20wV3hTd2hELW1OOHFvU0JKaHRFYjFWMDEtOFg1WHI)). Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble ([CNBC](https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html)).
+Beijing Vows to Hit Back Against US Sanctions on China Companies ([BBG](https://www.bloomberg.com/news/articles/2026-11-07/beijing-vows-to-hit-back-against-us-sanctions-on-china-companies)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Confirmation; AI capex unwind remains active but shifting to stabilization after Taiwan steps in.
-> * **Transmission / Market Read**: Risk-premium and capital-flow channel; favors **short TWD/KRW** until US equity close confirms, **long UST** if growth scare resumes.
-> * **Watchpoint / Confidence**: Asia open stability, Taiwan intervention details, and AI credit spreads; Confidence: Medium due mixed recovery signals.
+> * **Narrative change**: Acceleration because Beijing explicitly vows retaliation after new US sanctions, extending the Busan-triggered trade conflict.
+> * **Transmission / Market Read**: Trade-policy risk premium favors **short CNH/CNY** and **long USD/Asia FX**, supports **long gold** as hedge.
+> * **Watchpoint / Confidence**: Official retaliation list or US statement within 48 hours; Confidence: Medium due single-source headline.
 
-### 📌 Washington pressures Beijing for immediate Busan compliance; Taiwan politics adds friction
+### 📌 China central bank extends gold buying to a 24th month as October purchases accelerate
 
 **Fact**
-Washington says Beijing is not fulfilling commitments to increase supply of rare earths and other critical products ([FT](https://www.ft.com/content/391bb785-0247-4c39-b53b-35007187d603)). Bessent, Greer Raise Concerns on China Trade Deal Compliance ([BBG](https://www.bloomberg.com/news/articles/2026-11-06/bessent-greer-raise-concerns-on-china-trade-deal-actions)). Trump-Xi Busan deal aimed to ease tariffs and tech restrictions; progress hinges on China's fulfilment of commitments ([Al Jazeera](https://www.aljazeera.com/economy/2026/11/6/us-urges-china-to-honour-busan-trade-deal-commitments)). US agricultural exporters, hit hard by last year’s trade war, call for Washington and Beijing to implement trade deals agreed earlier this year ([SCMP 1](https://www.scmp.com/economy/china-economy/article/3373595/after-midterms-upheaval-us-ag-exporters-call-stability-china-trade)). Democratic Congress to guard US’ Taiwan policy and press Trump on arms sales ([SCMP 2](https://www.scmp.com/news/china/politics/article/3373517/democratic-congress-guard-us-taiwan-policy-and-press-trump-arms-sales)).
+中国央行连续第`24`个月增持黄金 ([CCTV](https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZcWdEd1ZMVVdacUVFdkVJbmdZcHFiTVBCQ3Q4YVJhanB5aXZsUlVSTGRnOWRaUUVXenB0MkNPUGg2NU8wME1ta2hsbk11TXZXbmRoRGJQelhTYV9mLU5zZkR1VzQ2YVBzdG5YX1pxT2V3OW5uaFpJSQ)). 连续24个月增持！中国央行10月扩购`83万盎司`黄金，步伐明显加快 ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FcFFqcWc2dk41TTVmQWJnS3Q1R0RsTExwTjgwTktUODZjaWVWak9vSVNYbC00Sl9pOWZWcDVnSXFFcFl6U0ZKZS1QREtwR3ZoTXNV)). China Extends Gold-Buying Streak to Two Years as Prices Drop ([BBG](https://www.bloomberg.com/news/articles/2026-11-07/china-extends-gold-buying-streak-to-two-years-as-prices-drop)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Acceleration; post-midterm US trade enforcement hardens, with rare earths as trigger.
-> * **Transmission / Market Read**: Trade-policy channel; favors **higher USD/CNH** and **short TWD**, raises China equity supply-chain risk.
-> * **Watchpoint / Confidence**: China Commerce Ministry response and rare earth export data; Confidence: Medium due official statements but no immediate actions.
+> * **Narrative change**: Confirmation because PBOC extends gold buying to a 24th month and October purchases accelerated to `83万盎司`.
+> * **Transmission / Market Read**: Reserve-diversification channel favors **long gold**, damping downside while prices drop.
+> * **Watchpoint / Confidence**: Next monthly reserve data and sustained official buying; Confidence: High due multiple official/local sources.
 
 ---
 
 ## 🌍 Global Radar
 
-### 📊 Economic Indicators
-- `Canada Unemployment Rate Climbs to 6.7% as Employment Falls in October` ([BBG](https://www.bloomberg.com/news/articles/2026-11-06/canada-jobless-rate-rises-to-6-7-amid-small-employment-decline)).
-- `Chile’s Annual Inflation Hits Highest Level in Over a Year` ([BBG](https://www.bloomberg.com/news/articles/2026-11-06/chile-annual-inflation-speeds-up-to-highest-level-in-over-a-year)).
-- The average jobless worker's bout of unemployment surpassed 27 weeks in October, the highest outside of the pandemic period in a decade ([CNBC](https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html)).
-
 ### 🏦 Central Banks
-- **Bank of Japan (BOJ)** — BOJ’s Ueda Says 2% Inflation May Not Persist, Cites Uncertainty on Outlook ([BBG](https://www.bloomberg.com/news/articles/2026-11-06/boj-s-ueda-says-unclear-how-long-2-inflation-rate-will-remain)).
+
+- **ECB** — Pablo Hernández de Cos, one of two candidates in the running to replace Christine Lagarde as president of the European Central Bank, signaled that monetary policy-makers should remain attentive to inflation risks emerging from high energy prices ([BBG](https://www.bloomberg.com/news/articles/2026-11-07/ecb-candidate-de-cos-says-vigilance-needed-on-inflation-risks)).
 
 ### 🌐 Geopolitics & Policy
-- US Treasury sanctions Canadian money services firms over Iran-related transactions ([Reuters](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQanB1RlNfclNuTUN5SEpJTjFWWUM1UVR2V2xLclNnTjhfNnp0VjNGZE5qeDBiekZXOFpLR2hOTnFud1ZKYlgzaFF6dGpwbkdENXF5VldQSEl0MEE1X0dHbWMyWHFvOU82WC01SjNSamFuSFQtY1M4VHJMN1VEMzlyQnN3UkotaXhiTm4taGdud2w5Wnk0cmtVQlp1MjRvNEJreERfdzZZbmtRQWo5d3NTYnVpOThYRjUwU3BJSGRFSEE)).
-- Trump’s latest Ukraine offer may only tempt Putin to step up his war ([CNN](https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmhLdEFhNEhJcUhIaGQ5UEwwSzRNdjQwWFZhRmN3T3ZoNDU2QWtwSUx5dzBkcXlabFNiSWFsVWI3Ul93VG1lajJmbk9reGpZZ0w1NVdTMVVCRUhaNE5SM3lSb2NHdm1jTnFLZDJvWW5NaWFVNF8yR29xMTJFZk5QZEhR)).
-- Zelenskiy says Ukraine is continuing attacks on Russia's oil refining sector ([Reuters](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOang4bWpWa1pIeDBMQlo0MzhWRVAzY0JURlFwX09PVjlBVmhEbDBLTndoWFU1NTA2MXNhT0xYdkstQ1dlMFU4Z1FBYkdhVXBRRHp0NlAxcmhyV19hQ1NkZzdoMU9NOVFCQWF5UURPUzVQWlBjYkt4T1RuRG9lRE0zbkZLX1k2RWJJQW1YM3dReEhMdUVWZ1RDeGdDY1d1NUtEbDZxMUwyenRrNE5UOVpRWkI2aVdMa1M4bEFEX2FiYnJ5dw)).
+
+- US Treasury claims firms helped sanctioned Iranian entities and handled funds linked to alleged drug trafficking boss ([Al Jazeera](https://www.aljazeera.com/economy/2026/11/7/us-treasury-sanctions-eight-canadian-money-exchange-firms-over-iran-ties)).
+- Russia says it hit targets in and around Kyiv in massive overnight strike ([Reuters](https://news.google.com/rss/articles/CBMisgFBVV95cUxOVkpxUWQ1cUFXSEJhbTI5OFNqVGZNOUFIb3ZoY3lZWmdEUHNYMHYwWXowdnNQZ1dlcWJ3dDF5engyV0VaaG1XUEVia2oyTjNJTEgwYUI3VHhCaml6RTdZMEQwbm9YZ1BTcUZjekdhOHhwQ2gwcFI5YkpJcTV2YUQ3WjVWampRdS1SZk5JQXA0WW04OV9ZMzNQcklSTDhIS2IxT3I4OE14VkRBN0huQzhmdktR)).
 
 ### 🛢️ Commodities
-- Oil Futures Slide As Market Holds Out Hopes for Middle East Diplomacy ([WSJ](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXo3c0pXbll5VVJ6eUlRbTJQZ0xLSnFISGlnVGRReWlBTnJYT2d5RVd5cTZmTnFkS0VoZ3h1cVNGOEhOMHUtMUlRU0hPMDhhTmtINTNHdC1JeVRlTExaSklrRWNvaHpMSERXOF9VRlRZTGh4YmZ4aWg3a2ctdlI1bkVsdUY4X0RDMElsTHpaOFN4VVE4YzBwRzVHRk0yamVxM2dJMmdVYlNSdVZoaGR6akhlUGU5WTlx)).
-- Hedge funds cut bullish crude bets by the most since June as the US and Iran struck rare de-escalatory notes, positioning them to profit from the selloff after the Democratic sweep of Congress ([BBG](https://www.bloomberg.com/news/articles/2026-11-06/hedge-funds-fled-bullish-oil-bets-ahead-of-election-day-drop)).
-- Red metal has soared this year on forecasts of surging demand from AI data centres, now seen at risk after Democrat sweep in US midterms ([FT](https://www.ft.com/content/0a4e2a58-f83f-4445-8f32-892657cf8c27)).
 
-### 📈 Equities
-- Retail traders, the stock market’s most avid dip buyers since the pandemic, were among the investors buying on Friday after US equities had their worst day since 2025. But their typical enthusiasm was nowhere to be found ([BBG](https://www.bloomberg.com/news/articles/2026-11-06/retail-traders-cautiously-buy-stocks-after-worst-rout-since-2025)).
+- Port of Los Angeles Strike Averted Again With Two-Week Negotiation Extension ([BBG](https://www.bloomberg.com/news/articles/2026-11-07/la-port-strike-threat-deferred-again-as-labor-talks-drag-on)).
+- Trafigura Snaps Up Copper in Asia as China Faces Supply Crunch ([BBG](https://www.bloomberg.com/news/articles/2026-11-07/trafigura-snaps-up-copper-in-asia-as-china-faces-supply-crunch)).
 
 ---
 
@@ -92,54 +85,33 @@ No high-impact releases in the next 24 hours.
 ## 📚 Full Reading List
 
 - **BBG**
-  - [US Adds 165,000 Jobs, Topping All Forecasts in Broad Advance](https://www.bloomberg.com/news/articles/2026-11-06/us-adds-165-000-jobs-above-all-forecasts-as-unemployment-falls)
-  - [Williams Says Fed Should Gather Data to Judge Price Risks](https://www.bloomberg.com/news/articles/2026-11-06/williams-says-fed-should-gather-information-to-judge-price-risks)
-  - [Treasury Yields Rise as Strong US Jobs Data Fuels Fed Rate-Hike Expectations](https://www.bloomberg.com/news/articles/2026-11-06/us-treasuries-stumble-as-strong-labor-market-lifts-fed-hike-bets)
-  - [Wall Street Grapples With $5.7 Trillion Rout as AI Bets Unwind](https://www.bloomberg.com/news/articles/2026-11-06/ai-s-wild-week-has-wall-street-hunting-for-fresh-escape-routes)
-  - [Bessent, Greer Raise Concerns on China Trade Deal Compliance](https://www.bloomberg.com/news/articles/2026-11-06/bessent-greer-raise-concerns-on-china-trade-deal-actions)
-  - [Canada Unemployment Rate Climbs to 6.7% as Employment Falls in October](https://www.bloomberg.com/news/articles/2026-11-06/canada-jobless-rate-rises-to-6-7-amid-small-employment-decline)
-  - [Chile’s Annual Inflation Hits Highest Level in Over a Year](https://www.bloomberg.com/news/articles/2026-11-06/chile-annual-inflation-speeds-up-to-highest-level-in-over-a-year)
-  - [BOJ’s Ueda Says Unclear How Long 2% Inflation Rate Will Remain](https://www.bloomberg.com/news/articles/2026-11-06/boj-s-ueda-says-unclear-how-long-2-inflation-rate-will-remain)
-  - [Knot and De Cos Are the Only Two Candidates for ECB President](https://www.bloomberg.com/news/articles/2026-11-06/knot-and-de-cos-are-the-only-two-candidates-for-ecb-president)
-  - [Hedge Funds Fled Bullish Oil Bets Ahead of Election Day Drop](https://www.bloomberg.com/news/articles/2026-11-06/hedge-funds-fled-bullish-oil-bets-ahead-of-election-day-drop)
-  - [Retail Traders Cautiously Buy Stocks After Worst Rout Since 2025](https://www.bloomberg.com/news/articles/2026-11-06/retail-traders-cautiously-buy-stocks-after-worst-rout-since-2025)
+  - [Beijing Vows to Hit Back Against US Sanctions on China Companies](https://www.bloomberg.com/news/articles/2026-11-07/beijing-vows-to-hit-back-against-us-sanctions-on-china-companies)
+  - [China Extends Gold-Buying Streak to Two Years as Prices Drop](https://www.bloomberg.com/news/articles/2026-11-07/china-extends-gold-buying-streak-to-two-years-as-prices-drop)
+  - [ECB Candidate de Cos Says Vigilance Needed on Inflation Risks](https://www.bloomberg.com/news/articles/2026-11-07/ecb-candidate-de-cos-says-vigilance-needed-on-inflation-risks)
+  - [Trafigura Snaps Up Copper in Asia as China Faces Supply Crunch](https://www.bloomberg.com/news/articles/2026-11-07/trafigura-snaps-up-copper-in-asia-as-china-faces-supply-crunch)
+  - [Port of Los Angeles Strike Averted Again With Two-Week Negotiation Extension](https://www.bloomberg.com/news/articles/2026-11-07/la-port-strike-threat-deferred-again-as-labor-talks-drag-on)
 
 - **Reuters**
-  - [US Treasury sanctions Canadian money services firms over Iran-related transactions](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQanB1RlNfclNuTUN5SEpJTjFWWUM1UVR2V2xLclNnTjhfNnp0VjNGZE5qeDBiekZXOFpLR2hOTnFud1ZKYlgzaFF6dGpwbkdENXF5VldQSEl0MEE1X0dHbWMyWHFvOU82WC01SjNSamFuSFQtY1M4VHJMN1VEMzlyQnN3UkotaXhiTm4taGdud2w5Wnk0cmtVQlp1MjRvNEJreERfdzZZbmtRQWo5d3NTYnVpOThYRjUwU3BJSGRFSEE)
-  - [Zelenskiy says Ukraine is continuing attacks on Russia's oil refining sector](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOang4bWpWa1pIeDBMQlo0MzhWRVAzY0JURlFwX09PVjlBVmhEbDBLTndoWFU1NTA2MXNhT0xYdkstQ1dlMFU4Z1FBYkdhVXBRRHp0NlAxcmhyV19hQ1NkZzdoMU9NOVFCQWF5UURPUzVQWlBjYkt4T1RuRG9lRE0zbkZLX1k2RWJJQW1YM3dReEhMdUVWZ1RDeGdDY1d1NUtEbDZxMUwyenRrNE5UOVpRWkI2aVdMa1M4bEFEX2FiYnJ5dw)
-  - [Seafarer killed in suspected missile attack on tanker in Gulf](https://news.google.com/rss/articles/CBMikgFBVV95cUxOQlB2Sm9vTXA4Rlp1QWxROTNzaUJ5TG0teEFKRWs1cmY3VFZkZXd6RlVzQmxNTGcxcmwyMG9SOUZlRVdKS0o2V08xbzdaRW5sbGNBTDdpRUduU0xsQUV3czAybnlIU0FPQUs1ZFR1RE41U3BpZXhIeHFYeEI1b2RRamRWQnhpOUVESHM2TENjNS1XUQ)
+  - [Qatar says its mediation efforts between US and Iran continue to prevent escalation](https://news.google.com/rss/articles/CBMiygFBVV95cUxOWnBiR0l0NVE4d1Rpd2xSTmFvVGtGSTU2SDJmZXRndk9yS2Z0TlhsUW1ZNldhRnZtOGs0UUhJZWt0VFYzNEtrV1FJMW9QU05BMl94azJLZkZNNTNDWm9TbDFualhlV0VBbHJyQzdnZEJOVnd5Z0pMNzJUZkQ1dF82TU83MkNJbkxsRlhkRVVCYWxxbXF0SlhGaGdvcEhYdVFRQm05bVM4b1BHZzlhcEEta21QQzZRZUl6NUtQZ0o4ajVTTzJxV3lEdVhB)
+  - [Russia says it hit targets in and around Kyiv in massive overnight strike](https://news.google.com/rss/articles/CBMisgFBVV95cUxOVkpxUWQ1cUFXSEJhbTI5OFNqVGZNOUFIb3ZoY3lZWmdEUHNYMHYwWXowdnNQZ1dlcWJ3dDF5engyV0VaaG1XUEVia2oyTjNJTEgwYUI3VHhCaml6RTdZMEQwbm9YZ1BTcUZjekdhOHhwQ2gwcFI5YkpJcTV2YUQ3WjVWampRdS1SZk5JQXA0WW04OV9ZMzNQcklSTDhIS2IxT3I4OE14VkRBN0huQzhmdktR)
 
 - **WSJ**
-  - [Wall Street Gets $2.5 Trillion AI Reality Check With Historic Rout of Tech Stocks](https://news.google.com/rss/articles/CBMiYkFVX3lxTE10SnF2czRFZktMVElNOWFRby1Ra21tSm50TXVWNXVsUUJYeVN6SjBIZmJBdEpFZ3JYR3ZqQllvNkNCYlhVZjJjZW5yZ2QzWkVydVNKWmx1OTFHWERDb29MMjRR)
-  - [Taiwan Activates Market-Stabilization Measures to Stem AI Bleeding](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQmRQc05FTEtYbm9hLUhzOHFESHo4UHlMX2Fwd2l3eTNscTdsTHp1SnF6RGNuMENybV93Z1BZeE03NTVobVF3OG9YUVlhNjI5SElLODdkSXBxNUwtOWlJczdNdmhtQ1N1cnhqcGpaNmlVdS1lNm12RXA3YXNUbDBETzk0UENTUExibVpUa3V5dWFNVGswNEJwaERZSkJodzI2c20wV3hTd2hELW1OOHFvU0JKaHRFYjFWMDEtOFg1WHI)
-  - [Oil Futures Slide As Market Holds Out Hopes for Middle East Diplomacy](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXo3c0pXbll5VVJ6eUlRbTJQZ0xLSnFISGlnVGRReWlBTnJYT2d5RVd5cTZmTnFkS0VoZ3h1cVNGOEhOMHUtMUlRU0hPMDhhTmtINTNHdC1JeVRlTExaSklrRWNvaHpMSERXOF9VRlRZTGh4YmZ4aWg3a2ctdlI1bkVsdUY4X0RDMElsTHpaOFN4VVE4YzBwRzVHRk0yamVxM2dJMmdVYlNSdVZoaGR6akhlUGU5WTlx)
-
-- **FT**
-  - [US economy outstrips forecasts to add 165,000 jobs in October](https://www.ft.com/content/f84c722c-99a9-4628-84dc-c42a192cb35c)
-  - [US stocks recover after tech rout](https://www.ft.com/content/642b32dc-e3a1-4df8-ae91-5c84bdeb89e0)
-  - [US stocks stage tepid recovery after $3.2tn rout fuelled by AI fears](https://www.ft.com/content/088ed252-ea9c-4b61-b2d1-37295fd0f7c2)
-  - [US warns China it must ‘immediately’ meet terms of Busan trade deal](https://www.ft.com/content/391bb785-0247-4c39-b53b-35007187d603)
-  - [Copper prices fall on fears of AI backlash](https://www.ft.com/content/0a4e2a58-f83f-4445-8f32-892657cf8c27)
+  - [Trump’s Clashing Advisers Press Him to Make Iran War Decision](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTk1hcGl4cm5rQ0ctRmRhUFRqWDVmMTNIaXdSY0xiQkc4QkYyYkdOa3lIY2xHN0ZPR3d4N1dubVh0M0Vydmo5NlRfUnh5ZG4tdzJ0RldicGE1cW1ybXRockZiNTJUek5pY2Z6M3NrRGxObWZZR1pkX2o4UnB3SHFfaWpYMGdnUEpjRHBSWUpFU01uNGg1djNhNnhrR0phSUhIOGdWOC1NeFAtbzg)
 
 - **CNBC**
-  - [U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%](https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html)
-  - [Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says](https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html)
-  - [Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble](https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html)
-  - [A disturbing employment trend is hiding beneath the latest strong job numbers](https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html)
+  - [Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island](https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html)
 
 - **SCMP**
-  - [After midterms upheaval, US ag exporters call for stability in China trade](https://www.scmp.com/economy/china-economy/article/3373595/after-midterms-upheaval-us-ag-exporters-call-stability-china-trade)
-  - [Democratic Congress to guard US’ Taiwan policy and press Trump on arms sales](https://www.scmp.com/news/china/politics/article/3373517/democratic-congress-guard-us-taiwan-policy-and-press-trump-arms-sales)
-
-- **CNN**
-  - [Trump’s latest Ukraine offer may only tempt Putin to step up his war](https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmhLdEFhNEhJcUhIaGQ5UEwwSzRNdjQwWFZhRmN3T3ZoNDU2QWtwSUx5dzBkcXlabFNiSWFsVWI3Ul93VG1lajJmbk9reGpZZ0w1NVdTMVVCRUhaNE5SM3lSb2NHdm1jTnFLZDJvWW5NaWFVNF8yR29xMTJFZk5QZEhR)
-  - [Market turmoil saps enthusiasm for the buzziest IPO of the year](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWW5HTUpxTkFZN1Fncko2aDNsN2NVZjA1MElHY3czeFZSWnZ0TEJYLUxydDA4T1I0UXktTG93ZG8yYzlPVE5ldVdoRDFiaGR6aDMyRVAyaFMtX21sb2stZWVKQnZkeFB5dlJzd1Juekc3bXZobXY5c0VTQ2JJMXdSS24xdm1zNXBUQnRjOElhSjZnbXhGdzg4akFTVVBTWFhINlNOZ0h4Z2toQQ)
+  - [Trump confirms fresh Iran strikes days after voters punish war at polls](https://www.scmp.com/news/world/middle-east/article/3373633/trump-confirms-fresh-iran-strikes-days-after-voters-punish-war-polls)
+  - [Iran’s nuclear programme: US offers US$20 million reward for information](https://www.scmp.com/news/world/united-states-canada/article/3373625/irans-nuclear-programme-us-offers-us20-million-reward-information)
 
 - **Al Jazeera**
-  - [US urges China to honour Busan trade deal commitments](https://www.aljazeera.com/economy/2026/11/6/us-urges-china-to-honour-busan-trade-deal-commitments)
+  - [Qatari PM says US willing to seek solution to war with Iran](https://www.aljazeera.com/video/newsfeed/2026/11/7/qatari-pm-says-us-willing-to-seek-solution-to-war-with-iran)
+  - [Trump confirms US strikes in Iran, insists ‘it’s not a war’](https://www.aljazeera.com/video/newsfeed/2026/11/7/trump-confirms-us-strikes-in-iran-insists-its-not-a)
+  - [US Treasury sanctions eight Canadian money exchange firms over Iran ties](https://www.aljazeera.com/economy/2026/11/7/us-treasury-sanctions-eight-canadian-money-exchange-firms-over-iran-ties)
 
 - **WSJCN**
-  - [日央行行长：通胀存在上行风险，若未来遭遇严重冲击，或再次启用非常规宽松工具](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UeVB5ZGVjYTFpdmpQaC02WTBpdUJyU0Q3a1B4QWR5a0VBUHV5cnB2MllaQ2tnUU9Hc0g0TFRVTi1scTZUQzB5QXlNRkxxVk5xTWw4)
+  - [连续24个月增持！中国央行10月扩购83万盎司黄金，步伐明显加快](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FcFFqcWc2dk41TTVmQWJnS3Q1R0RsTExwTjgwTktUODZjaWVWak9vSVNYbC00Sl9pOWZWcDVnSXFFcFl6U0ZKZS1QREtwR3ZoTXNV)
 
-- **Caixin**
-  - [股债跷跷板叠加政策利率“换锚” 10年期国债收益率探新低](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PdTRGdXNiNmp3eUt2MEx0Ty1XVXVIdkdjdTZZMHR2Q2tRdEtNd2VJeTY2Q1V0NFcwcWtfNFpnRjBSeFlMN2x1WWhiNHFnRW5JSlI2ZDd0ckZlUmJ5UER3ZWJR)
+- **CCTV**
+  - [中国央行连续第24个月增持黄金](https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZcWdEd1ZMVVdacUVFdkVJbmdZcHFiTVBCQ3Q4YVJhanB5aXZsUlVSTGRnOWRaUUVXenB0MkNPUGg2NU8wME1ta2hsbk11TXZXbmRoRGJQelhTYV9mLU5zZkR1VzQ2YVBzdG5YX1pxT2V3OW5uaFpJSQ)
