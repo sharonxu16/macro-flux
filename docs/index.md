@@ -1,76 +1,66 @@
 ---
 tags:
   - Macro/Iran_Escalation
-  - Macro/Fed_Hawkish
+  - Macro/AI_Rout
   - Asset/Brent
-  - Asset/Gold
-  - Trade/Long_USD
+  - Asset/Asia_Equities
+  - Trade/Short_Asia_Tech
 ---
 
 <div align="center">
 
 # 🌊 Macro Flux
 
-<small>Nov 7 5PM to Nov 8 8AM HKT</small>
+<small>Nov 8 8AM to Nov 8 5PM HKT</small>
 
-<small>Good morning.</small>
+<small>Good afternoon.</small>
 
 </div>
 
 ---
 
 > [!abstract] Overview
-> The interest-rate complex remains the dominant macro driver, with October's US payrolls beat strengthening the case for a December Fed hike even as the ECB signals cautious persistence on inflation. The Democratic midterm sweep injects a fresh political constraint, leaving a lame-duck White House while Iran escalation risk keeps oil supported. China's official gold purchases extended into a second year, reinforcing reserve diversification demand. The cross-market thread is hawkish DM monetary repricing layered over geopolitical uncertainty, favoring USD and gold and pressuring Asia FX and equities.
+> The dominant intraday impulse was a midday attack on Saudi Aramco's Riyadh financial hub tower, alongside blasts around the Strait of Hormuz, which compounds the Iran risk premium. An AI-led selloff after the US midterms hit Asia hard and revived out-of-favour Chinese and Indian stocks. U.S. bonds also gave back their midterm relief rally as inflation fears resurfaced, keeping yields biased higher. The cross-market thread is a two-sided shock: Middle East supply and safe-haven demand supporting USD and oil, while hawkish rates and the AI de-rating pressure Asia equities and FX.
 
 ---
 
 ## 🔬 Narrative Watch
 
-### 📌 US labor market strengthens December Fed hike case while ECB stays hawkish
+### 📌 Iran escalation hits Saudi financial hub and Hormuz
 
 **Fact**
-"US Jobs Surge Raises Odds of December Fed Hike" ([BBG 1](https://www.bloomberg.com/news/videos/2026-11-07/us-jobs-surge-raises-odds-of-december-fed-hike-video)). "October's surprisingly strong jobs report showed hiring broadening into white collar, manufacturing and transportation jobs, strengthening the case for another Federal Reserve rate hike." ([BBG 1](https://www.bloomberg.com/news/videos/2026-11-07/us-jobs-surge-raises-odds-of-december-fed-hike-video)). "Job Growth in US Tops All Forecasts" ([BBG 2](https://www.bloomberg.com/news/articles/2026-11-07/charting-the-global-economy-job-growth-in-us-tops-all-forecasts)). "US Inflation Likely Cooled in October After Two Months of Faster Price Gains" ([BBG 3](https://www.bloomberg.com/news/articles/2026-11-07/us-inflation-set-to-simmer-down-some-after-recent-pickup)). "ECB’s Lagarde Says Inflation Likely to Stay High in Near Future" ([BBG 4](https://www.bloomberg.com/news/articles/2026-11-07/ecb-s-lagarde-says-inflation-likely-to-stay-high-in-near-future)).
+"Iran war live: Riyadh’s Saudi Aramco tower damaged during attack from Yemen" ([Al Jazeera 1](https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes)). "Iranian state media report **blasts on Qeshm Island in Strait of Hormuz** and the cities of Jask, Sirik, and Bandar Abbas" ([Al Jazeera 1](https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes)). "**Aramco Tower in Riyadh’s Financial Hub Damaged After Attack**" ([BBG](https://www.bloomberg.com/news/articles/2026-11-08/aramco-tower-in-riyadh-s-financial-hub-damaged-after-attack)). "Aramco Riyadh Office Targeted in Attack, Causing Limited Damage" ([BBG](https://www.bloomberg.com/news/articles/2026-11-08/aramco-tower-in-riyadh-s-financial-hub-damaged-after-attack)). "The operation is to prevent Iran from using ground routes to transport weapons and other materials, US says" ([Al Jazeera 2](https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Confirmation because strong October payrolls and Lagarde's hawkish language reinforce the prior hawkish DM labor repricing narrative.
-> * **Transmission / Market Read**: Rate differential channel favors **long USD** and **higher US front-end yields**.
-> * **Watchpoint / Confidence**: Next US CPI and Fed speakers can confirm or reverse December hike odds; Confidence: High.
+> * **Narrative change**: Acceleration because the conflict has now extended into Saudi Arabia’s financial core and Washington is intervening on land supply routes.
+> * **Transmission / Market Read**: Risk-premium channel favors **long Brent** and **short Asia FX**, with **higher USD** on safe-haven demand.
+> * **Watchpoint / Confidence**: Saudi and US military response or Qatar mediation progress. Confidence: High on multi-source confirmation but volatile official messaging.
 
-### 📌 Iran war escalation risk keeps oil risk premium alive
+### 📌 AI slump revives China-India rotation
 
 **Fact**
-"Explosions heard in areas in southern Iran, Iranian media report" ([Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxObzVlZDVLRWxGVlQ1a2V1cTY5NXBjcjlJVzVqbjBKRGpRLUpnWndzNlM5bFpUYjJaUU5UeG1OS2E3c205RVVNMDJaUWxoWFN2ODc1bVhnc096VFlpOFo1N1YwR2JGS2JQYURyQ3NHZEVZaFhvQU5IaWZ1VFZHRjZNTkstbVhiOTUyTDJKTjAySmE0N3FiUzZLUGJKdDdrcGllOTNmMEdHUC1DanlqZ3V5MA)). "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections" ([CNBC](https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html)). "Houthis report `25` killed in Yemen strikes" ([Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes)). "Oil prices have surged across the United States as a result of the ongoing war in Iran. This means higher costs for households in most states, but in Alaska, the state government is bringing in new revenue from its high oil production to offset those higher costs." ([BBG](https://www.bloomberg.com/news/videos/2026-11-07/inside-alaska-s-oil-paradox-video)).
+"AI rout after US midterms hits Asia hard, reviving out-of-favour Chinese and Indian stocks" ([BT](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbnMtaHBZeFlIcmVVMDIxNFM0RVhPZGdkdUxmaThqaVFsQmdZVTVRWkN2ZVZCTkNPS3o2U0ktRVluZUlsRWRuVXBWb0RYN19leWZNLTc3a1FiV0F1Q192dWdmMVhFSUJEXzdXeFp5T3dqWm42V0E2dURRZTFMLXV0ZWxOd1piZ3pfMU4zb3VDUHdlSWktd1pjMnZSNnlMU2JHTUt4ZVRCalJFQ1VPZXdjeDUwLVo5RlRka0cxbmRyTUpZLVpzZHplNjlTeDB1OU8tQUJXTmpYdw)). "AI Slump Revives Asia’s Forgotten Trades From China to India" ([BBG](https://www.bloomberg.com/news/articles/2026-11-08/ai-slump-revives-asia-s-forgotten-trades-from-china-to-india)). "下周重磅日程：中美CPI、俄美乌三方会谈、CoreWeave财报与Anthropic路演" ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wYmpfMExLY0pCRjNEa1NMcERwOHcyVDMzdUp4dy1IWE5uUWxqNk95QVF1Yi1pc3JER3YyV2hUMGxMcldIb0Q3amI3NGZPdXhEbHFv)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Confirmation because explosions and Houthi strikes show kinetic risk persists alongside diplomacy, matching prior Middle East acceleration.
-> * **Transmission / Market Read**: Risk premium channel favors **long Brent** and **long gold**, pressures **Asia FX**.
-> * **Watchpoint / Confidence**: Pivot to neutral if Qatar interim deal is confirmed without new strikes; Confidence: Medium.
+> * **Narrative change**: New because the prior state had no AI de-rating narrative and this is an intraday post-midterm rotation.
+> * **Transmission / Market Read**: Equity risk-premium and capital-flow channel favors **short Asia AI/tech** and **long China/India value**.
+> * **Watchpoint / Confidence**: Confirm whether rotation persists through China CPI and AI earnings/roadshow dates. Confidence: Medium on BBG and BT cross-source confirmation.
 
-### 📌 Democratic sweep creates lame-duck policy shock with China channel
+### 📌 US bonds halt rally as inflation fears return
 
 **Fact**
-"How Democrats won their blowout midterm victory" ([Reuters](https://news.google.com/rss/articles/CBMiogFBVV95cUxNV01ET2lGRzZiTlVXb0VSajdkWXJ5ZmlGMlEzdFdSTWo0QnRUcFhaS3F6ZUxDcWhXVUpZcmRZTUlVUVdHd3UyaEF3d2ZVY3VpSTNzVXV0VHdiT0xQUzFnYkQ4bnBIc1dmdjJIdXRHd1pFWHZJalZJLUxWdFFROUgzMUFpeFNMTzNZeXhpNVdlSXRpcTlld1VjbjFKOFppUjQyVmc)). "Trump has ordered the Department of Justice (DOJ) to look into Democrats for 'threatening a lot of people' with impeachment and other forms of punishment, following their midterm election victory." ([Al Jazeera](https://www.aljazeera.com/news/2026/11/7/trump-orders-doj-to-investigate-democrats-for-threatening-people)). "History repeats in Shenzhen? China hosts another lame-duck US president. Echoing Obama’s 2016 visit, the Apec meeting will show whether Trump can broker enduring agreements with Beijing." ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3373654/history-repeats-shenzhen-china-hosts-another-lame-duck-us-president)).
+"US bonds’ midterm election rally skids to halt after strong jobs data" ([BT 1](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeEV3UnJhMTFEb3czZ25jd1ZUX3V3VF9IRTBoUjZEWmE4UXVNSGRpc0pYaXFGeXJ0bHN5ZFRjMmFGZUJlTjFYZzBiOWpERmZoSHFtSVJhMTJlN3puY01oSEdwc3NIZUJ2bS15NmxmOFdxNGFjMHY5cmRHdjJURzRrajF2SFZ5QVRudi1JV1V2OWpqbTFMYXlpdXZhOXRDaXBVcVVBWkpLTE9DR1NmSTYwbjdoUkN5b0ZqdmFRTXdFa0RxYXBMN2M3QVVFZXQ3N0tsQ3dKWnQwaENPWEU)). "US inflation fears return as corporate America counts the cost" ([BT 2](https://news.google.com/rss/articles/CBMipAFBVV95cUxQYmpSY1UweHYwaFY3TDVoZ1Y3NnVXTGpEYVRIR254OTNwNE41TDlkVkVFREl5OHBEeFl5U090SF9xRTdvSVV0THNIYzBlUXBTS0hqc1NLWllva0VOLThRd1hibk9JRC1FZV85cmQzTjFlWlRQSnhhOWNNTTUtT3U3RXZySVdtUHFPVjh4ODQtOHBsek1FRFItb20ydXVTSDdUcjN2cw)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: New because Democratic sweep creates a lame-duck president and fresh US political constraints not in prior state.
-> * **Transmission / Market Read**: Policy uncertainty channel tilts risks toward **higher cross-asset volatility** and **defensive USD**.
-> * **Watchpoint / Confidence**: APEC Shenzhen signals and new congressional leadership priorities; Confidence: Medium.
+> * **Narrative change**: Confirmation because the morning payrolls hawkish repricing now extends into the Treasury market and corporate inflation signals.
+> * **Transmission / Market Read**: Policy channel supports **higher UST yields** and **long USD**, weighing on **Asia FX**.
+> * **Watchpoint / Confidence**: US CPI and Fed repricing beyond the 24-hour calendar. Confidence: Medium.
 
 ---
 
 ## 🌍 Global Radar
 
-### 📊 Economic Indicators
-- "More than `140,000` rally as new protests against rising costs sweep France" ([Al Jazeera](https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france)).
-
-### 🌐 Geopolitics & Policy
-- "Trump’s war secretary Hegseth and Pacific Command chief Paparo may ‘soon visit China’" ([SCMP](https://www.scmp.com/news/china/military/article/3373649/trumps-war-secretary-hegseth-and-pacific-command-chief-paparo-may-soon-visit-china)).
-- "American intelligence warned the tech boss was involved with executive recruited by China to gather information on US group" ([FT](https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790)).
-- "The China-Switzerland free-trade upgrade is a practical rebuttal to the trends of unilateralism and protectionism" ([SCMP](https://www.scmp.com/opinion/china-opinion/article/3373312/china-switzerland-trade-partnership-offers-model-amid-fraught-eu-ties)).
-
-### 📈 Equities
-- "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup" ([CNBC](https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html)).
-- "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers" ([CNBC](https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html)).
+No additional high-impact items outside Narrative Watch after deduplication and source-support validation.
 
 ---
 
@@ -85,34 +75,27 @@ tags:
 | Nov 09 09:30 AM | CN | Inflation Rate YoY | 0.8% | 0.9% |
 | Nov 09 09:30 AM | CN | Inflation Rate MoM | — | 0.2% |
 | Nov 09 09:30 AM | CN | PPI YoY | 5.3% | 5% |
+| Nov 09 10:30 AM | KR | 3-Year KTB Auction | — | 3.940% |
+| Nov 09 11:35 AM | JP | 6-Month Bill Auction | — | 1.4051% |
+| Nov 09 01:00 PM | JP | Coincident Index Prel | — | 118.8 |
+| Nov 09 01:00 PM | JP | Leading Economic Index Prel | 116.7 | 118.0 |
+| Nov 09 03:00 PM | DE | Balance of Trade | €19.4B | €19.5B |
+| Nov 09 07:30 PM | BR | BCB Focus Market Readout | — | — |
 
 ---
 
 ## 📚 Full Reading List
+
 - **BBG**
-  - [US Jobs Surge Raises Odds of December Fed Hike](https://www.bloomberg.com/news/videos/2026-11-07/us-jobs-surge-raises-odds-of-december-fed-hike-video)
-  - [Charting the Global Economy: Job Growth in US Tops All Forecasts](https://www.bloomberg.com/news/articles/2026-11-07/charting-the-global-economy-job-growth-in-us-tops-all-forecasts)
-  - [US Inflation Set to Simmer Down Some After Recent Pickup](https://www.bloomberg.com/news/articles/2026-11-07/us-inflation-set-to-simmer-down-some-after-recent-pickup)
-  - [ECB’s Lagarde Says Inflation Likely to Stay High in Near Future](https://www.bloomberg.com/news/articles/2026-11-07/ecb-s-lagarde-says-inflation-likely-to-stay-high-in-near-future)
-  - [Inside Alaska’s Oil Paradox](https://www.bloomberg.com/news/videos/2026-11-07/inside-alaska-s-oil-paradox-video)
-  - [Wall Street Strategists Call Stock Rout a Fresh Reason to Buy](https://www.bloomberg.com/news/articles/2026-11-07/wall-street-strategists-call-stock-rout-a-fresh-reason-to-buy)
-- **Reuters**
-  - [Explosions heard in areas in southern Iran, Iranian media report](https://news.google.com/rss/articles/CBMisAFBVV95cUxObzVlZDVLRWxGVlQ1a2V1cTY5NXBjcjlJVzVqbjBKRGpRLUpnWndzNlM5bFpUYjJaUU5UeG1OS2E3c205RVVNMDJaUWxoWFN2ODc1bVhnc096VFlpOFo1N1YwR2JGS2JQYURyQ3NHZEVZaFhvQU5IaWZ1VFZHRjZNTkstbVhiOTUyTDJKTjAySmE0N3FiUzZLUGJKdDdrcGllOTNmMEdHUC1DanlqZ3V5MA)
-  - [How Democrats won their blowout midterm victory](https://news.google.com/rss/articles/CBMiogFBVV95cUxNV01ET2lGRzZiTlVXb0VSajdkWXJ5ZmlGMlEzdFdSTWo0QnRUcFhaS3F6ZUxDcWhXVUpZcmRZTUlVUVdHd3UyaEF3d2ZVY3VpSTNzVXV0VHdiT0xQUzFnYkQ4bnBIc1dmdjJIdXRHd1pFWHZJalZJLUxWdFFROUgzMUFpeFNMTzNZeXhpNVdlSXRpcTlld1VjbjFKOFppUjQyVmc)
-- **FT**
-  - [US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy](https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790)
-- **CNBC**
-  - [Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections](https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html)
-  - [Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers](https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html)
-  - [Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup](https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html)
-- **SCMP**
-  - [History repeats in Shenzhen? China hosts another lame-duck US president](https://www.scmp.com/news/china/diplomacy/article/3373654/history-repeats-shenzhen-china-hosts-another-lame-duck-us-president)
-  - [Trump’s war secretary Hegseth and Pacific Command chief Paparo may ‘soon visit China’](https://www.scmp.com/news/china/military/article/3373649/trumps-war-secretary-hegseth-and-pacific-command-chief-paparo-may-soon-visit-china)
-  - [China-Switzerland trade partnership offers a model amid fraught EU ties](https://www.scmp.com/opinion/china-opinion/article/3373312/china-switzerland-trade-partnership-offers-model-amid-fraught-eu-ties)
+  - [Aramco Tower in Riyadh’s Financial Hub Damaged After Attack](https://www.bloomberg.com/news/articles/2026-11-08/aramco-tower-in-riyadh-s-financial-hub-damaged-after-attack)
+  - [AI Slump Revives Asia’s Forgotten Trades From China to India](https://www.bloomberg.com/news/articles/2026-11-08/ai-slump-revives-asia-s-forgotten-trades-from-china-to-india)
+  - [China Set to Lead World in Energy Investment in 2026, CCTV Says](https://www.bloomberg.com/news/articles/2026-11-08/china-set-to-lead-world-in-energy-investment-in-2026-cctv-says)
 - **Al Jazeera**
-  - [Trump orders DOJ to investigate Democrats for ‘threatening’ people](https://www.aljazeera.com/news/2026/11/7/trump-orders-doj-to-investigate-democrats-for-threatening-people)
-  - [Houthis report 25 killed in Yemen strikes](https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes)
-  - [More than 140,000 rally as new protests against rising costs sweep France](https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france)
-  - [Eisenkot chosen over Netanyahu to form Israel’s next government](https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government)
-- **Caixin**
-  - [10月中国黄金储备增加26吨 央行连续购金已满两年](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDZWtiR19faTc0REQ4Y05Vb0R5eldxekFKcmQ2RlBUbGdHUU04UjZrWHUxM25mb1ZSc2pQUUNtVEpJZzNTZlpjOTFvWWdEQjNLaEF2cjJRaFBHV2NyYWcwejNB)
+  - [Iran war live: Riyadh’s Saudi Aramco tower damaged during attack from Yemen](https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes)
+  - [US launches task force to disrupt Iran’s land-based supply routes](https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes)
+- **WSJCN**
+  - [下周重磅日程：中美CPI、俄美乌三方会谈、CoreWeave财报与Anthropic路演](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wYmpfMExLY0pCRjNEa1NMcERwOHcyVDMzdUp4dy1IWE5uUWxqNk95QVF1Yi1pc3JER3YyV2hUMGxMcldIb0Q3amI3NGZPdXhEbHFv)
+- **BT**
+  - [AI rout after US midterms hits Asia hard, reviving out-of-favour Chinese and Indian stocks](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbnMtaHBZeFlIcmVVMDIxNFM0RVhPZGdkdUxmaThqaVFsQmdZVTVRWkN2ZVZCTkNPS3o2U0ktRVluZUlsRWRuVXBWb0RYN19leWZNLTc3a1FiV0F1Q192dWdmMVhFSUJEXzdXeFp5T3dqWm42V0E2dURRZTFMLXV0ZWxOd1piZ3pfMU4zb3VDUHdlSWktd1pjMnZSNnlMU2JHTUt4ZVRCalJFQ1VPZXdjeDUwLVo5RlRka0cxbmRyTUpZLVpzZHplNjlTeDB1OU8tQUJXTmpYdw)
+  - [US bonds’ midterm election rally skids to halt after strong jobs data](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeEV3UnJhMTFEb3czZ25jd1ZUX3V3VF9IRTBoUjZEWmE4UXVNSGRpc0pYaXFGeXJ0bHN5ZFRjMmFGZUJlTjFYZzBiOWpERmZoSHFtSVJhMTJlN3puY01oSEdwc3NIZUJ2bS15NmxmOFdxNGFjMHY5cmRHdjJURzRrajF2SFZ5QVRudi1JV1V2OWpqbTFMYXlpdXZhOXRDaXBVcVVBWkpLTE9DR1NmSTYwbjdoUkN5b0ZqdmFRTXdFa0RxYXBMN2M3QVVFZXQ3N0tsQ3dKWnQwaENPWEU)
+  - [US inflation fears return as corporate America counts the cost](https://news.google.com/rss/articles/CBMipAFBVV95cUxQYmpSY1UweHYwaFY3TDVoZ1Y3NnVXTGpEYVRIR254OTNwNE41TDlkVkVFREl5OHBEeFl5U090SF9xRTdvSVV0THNIYzBlUXBTS0hqc1NLWllva0VOLThRd1hibk9JRC1FZV85cmQzTjFlWlRQSnhhOWNNTTUtT3U3RXZySVdtUHFPVjh4ODQtOHBsek1FRFItb20ydXVTSDdUcjN2cw)
