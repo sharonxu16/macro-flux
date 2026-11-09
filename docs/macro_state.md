@@ -1,26 +1,26 @@
 # Macro State — Last updated: 2026-11-09
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **US hawkish repricing driven by strong payrolls** — Status: Acceleration; October payrolls of `165,000` and unemployment at `4.1%` pushed December hike bets above 80%; next trigger US CPI release and Fed repricing.
-- **Middle East kinetic escalation with diplomatic off-ramp** — Status: Acceleration; Houthi Riyadh, Qeshm strikes, and Khor Mor gas field attack broaden supply risk while Trump conditions further strikes on talks progress; next trigger Hormuz transit and talks outcome.
-- **Global AI de-rating and rotation** — Status: Confirmation; Nasdaq 100 rebounded `1.4%` but the recovery was tepid and AI credit stress persists; next trigger Anthropic IPO and CoreWeave earnings.
-- **China reserve diversification and trade compliance stress** — Status: Confirmation; PBOC gold accumulation extended and FX reserves rose while Washington demanded immediate Busan trade compliance; next trigger Xi-Trump Shenzhen meeting and rare earth response.
+- **US hawkish repricing driven by strong payrolls** — Status: Confirmation; dollar holds gains and Fed hike bets remain firm after strong payrolls; next trigger US CPI and consumer inflation expectations.
+- **China policy-managed stability** — Status: New; tariff truce extension, PPI at 5.7%, and dollar deposit rate moves signal Beijing managing trade, inflation, and yuan strength; next trigger Xi-Trump APEC and PBOC fix.
+- **AI de-rating with governance and political risk** — Status: Acceleration; Nvidia after-hours decline, Jensen Huang affair headlines, and record hedge fund tech selling deepen AI stress; next trigger Nvidia probe and US-China tech policy.
+- **Middle East physical chokepoint risk vs diplomatic off-ramp** — Status: Acceleration; destroyed Hormuz navigation aids, US strike on bulker, and Khor Mor suspension raise supply risk even as oil stays below $100; next trigger Hormuz transit and Qatar diplomacy.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- US CPI release this week and whether it extends or unwinds December Fed hike pricing.
-- Anthropic IPO demand and CoreWeave earnings as AI de-rating confirmation or reversal signals.
-- Iran-Hormuz transit and any US-Iran talks progress threshold reached.
-- Xi-Trump Shenzhen meeting and China rare earth export or Busan compliance response.
-- US 3-year note auction and consumer inflation expectations for rates sentiment.
+- US CPI release and consumer inflation expectations this week.
+- Xi-Trump APEC meeting and whether the 10% tariff line changes.
+- PBOC dollar deposit rate follow-through and CNH daily fixing.
+- Hormuz transit normalisation or oil inventory draw evidence.
+- Nvidia probe and any Washington response to Jensen Huang affair.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Does Iran escalation persist despite renewed talks progress, keeping oil bid and Asia FX pressured?
-- Does the AI selloff broaden into full equity risk-off or remain a controlled rotation?
-- Does China make rare earth concessions or Busan compliance moves that reduce trade tail risk into Xi-Trump summit?
+- Does Beijing’s dollar deposit rate move cap yuan strength despite record cross-border inflows?
+- Does Hormuz physical disruption override diplomacy and lift Brent back above $100?
+- Does AI governance and political shock broaden the equity de-rating beyond tech names?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- US October nonfarm payrolls: `165,000` vs `59,000` expected; unemployment `4.1%` vs `4.2%` prior, cited by FT/CNBC, drives Fed repricing.
-- Nasdaq 100 Friday rebound: `1.4%`, cited by FT, signals weak recovery after AI rout.
-- CoreWeave bond yield: above `16%`, cited by CNBC, AI credit stress gauge.
-- China FX reserves: `$3.4052tn`, cited by Xinhua/WSJ, reserve adequacy and intervention capacity signal.
-- PBOC gold accumulation: `26 tons` / `830,000 oz` October, cited by Caixin/WSJCN, reserve diversification signal.
+- China October PPI: `5.7%`, fastest in nearly 4.5 years, cited by Caixin/Reuters/CNBC, producer-price inflation signal.
+- China tariff suspension: `24%` tariff suspended, `10%` rate kept until January, cited by Reuters/BBG, trade policy threshold.
+- Gold: `$4,100/oz`, cited by WSJ, focus on US inflation data.
+- Brent: below `$100`, cited by WSJ, despite fresh Hormuz disruption signals.
+- Nvidia after-hours: `-3%`, cited by Reuters, AI risk repricing.
