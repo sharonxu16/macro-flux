@@ -1,9 +1,9 @@
 ---
 tags:
-  - Macro/Tariffs
-  - Macro/Hormuz_Blockade
+  - Macro/Iran_Deescalation
   - Asset/Brent
-  - Asset/CNH
+  - Macro/AI_Governance
+  - Asset/UST
   - Trade/Long_USD
 ---
 
@@ -11,86 +11,83 @@ tags:
 
 # 🌊 Macro Flux
 
-<small>Nov 9 8AM to Nov 9 5PM HKT</small>
+<small>Nov 9 5PM to Nov 10 8AM HKT</small>
 
-<small>Good afternoon.</small>
+<small>Good morning.</small>
 
 </div>
 
 ---
 
 > [!abstract] Overview
-> Asia-Pacific afternoon trading saw equities recover from last week’s AI rout and the dollar hold its post-payrolls gains, but the marginal macro impulse came from Beijing, which extended its US tariff truce, reported October PPI at `5.7%`, and took fresh steps to cap yuan strength via dollar deposit rates. Oil slipped back below `$100` despite hardened Hormuz risk signals after Iran said navigation aids were destroyed and no unauthorised vessels transited, while gold rebounded above `$4,100`. The cross-market thread is China’s policy-managed stabilisation against a still-hawkish Fed repricing backdrop and unresolved Middle East supply risk.
+> Crude slid to a 10-week low after President Trump said further strikes on Iran were unlikely, even as a Saudi East-West pipeline was hit in the Medina region and OPEC output climbed to 90% of pre-war levels. The slide cooled inflation worry, lifting US equities broadly and masking Nvidia's continued decline after the president confirmed an FBI probe into CEO Jensen Huang. Fed officials Barkin and Goolsbee kept the tightening bias intact, leaving Treasury yields firmer ahead of an October CPI report that will lack 12-month headline and core prints because the BLS said it will not publish them. China remained in managed-stability mode, with Washington extending tariff exemptions on 178 product categories and Beijing extending its suspension of rare-earth controls until January. The day’s thread is an unwinding of Middle East risk premium colliding with fresh uncertainty over US inflation data and AI governance.
 
 ---
 
 ## 🔬 Narrative Watch
 
-### 📌 China extends tariff truce and adjusts additional tariffs on US goods
+### 📌 Oil hits 10-week low despite Saudi East-West pipeline strike
 
 **Fact**
-China extends suspensions of 24% tariff on US goods, port fees on US ships for two months ([Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSTA2TElMOUVJb2VPUWp2RnhuNWtoOHhncWpKUW9Ob1lEQ19BVUluTWRvRkZTYWJTYlU5RlZNR2F6UmZOcW5GLXlrQVJuMzMxakd2V2M4d1dXRDBCU3FBN182RlFQTjVBbVpTbzQ2cXZzdkk4YUJxZkF4NUVoZXlXR1haVlZIY2lpMnJQeTdFWTFMQkR5QWxiaWtqZUJSSUI5bFpzdGNmUENfU2h4dWIxcg)). China Extends Suspension of 24% US Tariffs, Keeps 10% Rate Until January ([BBG](https://www.bloomberg.com/news/articles/2026-11-09/china-extends-pause-on-24-us-tariffs-to-january-keeps-10-rate)). 国务院关税税则委员会发布公告调整对原产于美国的进口商品加征关税措施 ([CCTV](https://news.google.com/rss/articles/CBMieEFVX3lxTE1vbmdGNmM1TkI0bzhfdzlJeEowX1FDU3BZWXVQc1BXMjRGSHhLTjdsOTd0RVg1WmJkX0kyWTc1UmwteFBxYzhIeHExSGdnZFB4ZWNETV8wd0NVeEllc0tXQmRqd1BPRkhqQkJxUUR5c2NoNUFibUdWUA)). Port fee truce extended to January as Democratic sweep clouds US-China trade outlook ([Lloyd’s List](https://news.google.com/rss/articles/CBMivgFBVV95cUxPTmQ4c0pqcHZEYjRfSXlNZzYzVTNRcXBYcWI3RVVTandmUTlvLVU4S09ESXljUjljLTl4Wi11cTJmRXBNZ1RZaG52NEtFaU9KcjNXbUhNdXQ5eVpfWTVlVHd2MjE4bWc1Wm9LYWJWWmhuU2lORlNCN3cyb0V2eExLeTNEdUJhdWtXNTMzMlZNblQzZmlLLW9ZcGpXUDBfLUk2bGUzWGowdWdqNUtXV05QYlNPZmJmaHJzRGVmS19B)).
+Oil traded near its lowest since August after US President Donald Trump said further strikes on Iran wouldn’t be necessary ([BBG 1](https://www.bloomberg.com/news/articles/2026-11-09/latest-oil-market-news-and-analysis-for-nov-10)). Brent crude extended last week’s losses that followed Republicans’ historic midterms defeat ([FT](https://www.ft.com/content/1b818c16-5197-45f4-857a-49f99a10252f)). **Saudi Arabia’s vital East-West pipeline struck in attack** and Houthis and Iraqi militias have repeatedly threatened the critical outlet for kingdom’s crude exports ([FT](https://www.ft.com/content/45dce79e-2758-43f2-a06c-3c56db392f39)). OPEC oil output rises in October to 90% of pre-war rate, Reuters survey shows ([Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxNcGJ3LUpzaXpKMGVQTkVDUmxmck5BRE9ycmRsR2ljV2x5ZmpoOW5UbW1WSE9XUnd5XzJsano5X0hPMU1DZW5Za2lsQ05Sa2NzWWNnTkpHdVc4ZmFvRnZ1WDRGVnVLaFNJVVdNSGhhYmRBaXZSSVNjc29qT2dUbnEtZ3JBNXdyQ01IaWxJRDJsZThnT29yUmxnSTh2dHFidnZBd2R6QU5nS182LUFjV1U0RXJqSVR2VXpicTBjalNR)). Iran war live: Trump says war ‘effectively over’, Iran demands ‘surrender’ ([Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-war-effectively-over-iran-demands-surrender)). Oil tanker rates drop, making long-haul crude trades attractive ([BBG 2](https://www.bloomberg.com/news/articles/2026-11-09/oil-tanker-rates-extend-plunge-still-trade-at-very-high-levels)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Deceleration because Beijing extends tariff and port fee suspensions, reducing trade tail risk while keeping the 10% tariff in place until January.
-> * **Transmission / Market Read**: Trade risk-premium channel supports **long CNH** and **long Asia FX** as export drag and port disruption ease.
-> * **Watchpoint / Confidence**: Xi-Trump APEC meeting and any change to the 10% tariff line. Confidence: High due multiple official and trade sources.
+> * **Narrative change**: Reversal; diplomatic off-ramp now dominates pricing over prior physical chokepoint acceleration.
+> * **Transmission / Market Read**: Risk-premium and inflation channel; favors **short Brent** near term, **long US equities**; pipeline strike keeps **long oil-volatility** tail.
+> * **Watchpoint / Confidence**: Hormuz transit and Saudi outage confirmation; invalidation on further supply hits; Confidence: Medium.
 
-### 📌 China October PPI accelerates to 5.7% while CPI moderates
+### 📌 Nvidia slides as broad US equities rebound
 
 **Fact**
-10月PPI同比攀升至5.7%、CPI涨幅回落 上下游价格分化加剧 ([Caixin](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fdHFwZ3hPYUc2Y0xkTlVaYVhnSkxBUmxWVDRucFN6Zmk1RDRfbUsyUXZYdXdVN0VRSGZMcWwwUGlPeGxVeTJGS0lpQjVZcDUzNW00eHJadV9qZS1WVXZjcFVB)). China's factory-gate inflation at fastest in nearly 4-1/2 years in October, while CPI rise moderates ([Reuters](https://news.google.com/rss/articles/CBMiywFBVV95cUxOdHZHeWlBMm5ScUQ3Um9LTHZLdHpkZzNXNXF0NWlKUjlMaE54NnI2VUhSNktuS3BpWEtldEk4ZklwbDFaLUVGaXcxdVY3ZllyX1o5aFNNX1R0dC03Zzc3NFVkSVdTZDl5dTg0UUF4R1lLQXNlT3NmS29zVjhqQWZPVVU5OXlpLXpWdmpSeEJCVWhrY1FUcnc0REduM3VITEs0TXRvLXRtLUxXMUZYaWl5NmYxZml3MDQzUDMxU20wbWdHWWMzbERkeVZHTQ)). China wholesale inflation hits highest in more than four years as consumer measure slows ([CNBC](https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html)). China Producer Inflation Accelerates to Over Four-Year High ([WSJ](https://news.google.com/rss/articles/CBMinAFBVV95cUxPcm1tR2Voci0zUnpsNlVhbzdXQ19DNDB3anhvdU9HZGRtYjE0akY0b0VHZi0xUndnYTkxOExkOHUyTmxHNnJMZzFldjRDRXFxNDE1S2ZZX014aWhxdFFqR1ExbGFEV0FDNHBuMElPOVNwZjYwY20ydlJna2hoN3N5OTJEbGRJbmxwOXZFZWdzMjd6UklTZTRabVBiNkE)).
+Nvidia stock falls after investigation into CEO, bucking market rally ([CNN](https://news.google.com/rss/articles/CBMifkFVX3lxTE50WjBIUUkwd0ZNMkFYTzZjQjRnOFZoc2lPTFVORzZtU0ZwOV9SNldqdUxPZ0NsUEFLZ3lDdzh3RV9ZTWZ4ek9KaWR4aENKVEFtdFIybjhqUkxvTHRFYWFocVgta1ZKRWJYYTFIZ1JpaE5uTVBfNzMzb3VkUC1iUQ)). Trump says FBI probing Nvidia CEO Huang as China controversy deepens ([Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxNcUVlREFfdFVvdmk1OXFEamNOcFVZTGJFX1gxZkhjYjhXNTFnZkJqUmpLLTliVmRCZUNtRGdHSDZ2cVBvRXlLdldZSG1rVmFfMFk5M1dKNnBnVnNnUzZ1NmVSNkRWakkyNktBZmhGbzJwYkh5YTZBekVPY3pyUU9lTXY1WGt4TkhLcHVPTldJb1k3MGVPdzBLcTIyVzNuRUpyRGt5cDJpMV91QzdjcWFtQy1MekMwU3lkRlNXUFNn)). As Nvidia Corp goes, so too does the US stock market, until Monday, that is ([BBG](https://www.bloomberg.com/news/articles/2026-11-09/nvidia-sees-historic-split-from-s-p-as-stock-sinks-market-soars)). Lower oil prices help equity indices shrug off fall in Nvidia shares ([FT](https://www.ft.com/content/b8644327-86e7-4d1c-a71f-3fb1d552723b)). Goldman CEO David Solomon says investor appetite for AI infrastructure remains strong despite a reset in AI stocks and political uncertainty around data centers ([CNBC](https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: New data point showing producer-price acceleration while CPI moderates, entrenching the upstream-downstream inflation divergence flagged by sources.
-> * **Transmission / Market Read**: Inflation channel supports **long commodities** on upstream price momentum, while moderating CPI keeps **CNH rates** anchored and PBOC easing optional.
-> * **Watchpoint / Confidence**: China trade data next session and PBOC policy response. Confidence: Medium due multi-source confirmation but limited CPI detail.
+> * **Narrative change**: Acceleration for AI governance risk but Noise/Reversal for broad AI de-rating as market breadth holds.
+> * **Transmission / Market Read**: Risk-premium channel; favors **long S&P 500** and **short Nvidia** on company-specific overhang.
+> * **Watchpoint / Confidence**: FBI probe details and Megaspeed China supply link; broad de-rating resumes if tech leadership fails; Confidence: Medium.
 
-### 📌 Chinese banks boost dollar deposit rates to smooth yuan rally
+### 📌 Fed hawkish messaging ahead of incomplete CPI
 
 **Fact**
-EXCLUSIVE: Chinese banks boost dollar deposit rates, sources say, as Beijing seeks to smooth yuan rally ([Reuters](https://news.google.com/rss/articles/CBMiywFBVV95cUxQTzF1MFhueDRWX1A3LWlGYWJuZ21hMjNBQkE5aG9JdElOT1pYeUNrMHUxS2lXaGQ4RDAxUUp1T256bjBXelZMZ3UyNDA1UEI5QlJ4SHgwX3QweWsyczBnRUhRTC1PZGtpRUVFNzVycWp3d1RQVE0zUm40SUNURVdES2EwZmpNUFNlMGV5S1lXajlza3A4OW1RSGFzWldtU1N1N0N1R0kxbTUxRGtXU29FX0x3M2J6SU5yVjBxWk1yZmN2WHdvR01UMGtqaw)). CNH/USD: Cross-Border Yuan Flows on China’s Network Head for Record Year ([BBG](https://www.bloomberg.com/news/articles/2026-11-09/cross-border-yuan-flows-on-china-s-network-head-for-record-year)).
+Federal Reserve Bank of Richmond President Tom Barkin signaled robust demand and stubbornly high inflation mean interest rates will need to go higher, though he cautioned that any hikes will need to be done at a careful pace ([BBG 1](https://www.bloomberg.com/news/articles/2026-11-09/fed-s-barkin-says-policy-direction-clear-but-needs-careful-pace)). Federal Reserve Bank of Chicago President Austan Goolsbee said policymakers need to tackle a potential overheating in the economy from the artificial intelligence build-out and a broadening of inflation pressures ([BBG 2](https://www.bloomberg.com/news/articles/2026-11-09/fed-s-goolsbee-says-officials-must-address-inflation-failure)). Bureau of Labor Statistics Cancels Year-Over-Year Inflation Figures for October ([BBG 3](https://www.bloomberg.com/news/articles/2026-11-09/bls-will-not-publish-12-month-cpi-core-cpi-figures-for-october)). New York Fed Survey Shows Steady Inflation Outlook, Rising Job Market Concerns ([BBG 4](https://www.bloomberg.com/news/articles/2026-11-09/steady-inflation-outlook-mixed-views-for-jobs-in-ny-fed-survey)). Treasury Yields Edge Higher Ahead of CPI Data ([WSJ](https://news.google.com/rss/articles/CBMikAFBVV95cUxNbW9yUzg3WWNmNi1LS2M4aDN1S1c3LURlb1lTX0ZuVDBrQlI5VS1oWjFrMy1JSHhGY0hXWi1IUHFveU9aTGdPQnlHMGhLMGFsdjhUTnA4NEV3U0xXeG4wVFVEcm1WZXVtOGJHc242VWNmSWhodDlWT3RiWnJJbHhrVjFSdGhnWnhPUU9BT3BvMVM)). The CPI headline reading is expected to show an increase of `0.3%` while the core is forecast to increase `0.2%` ([CNBC](https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html)). Dollar slips, taking a breather after last week’s advance a day ahead of CPI test ([Investing_Forex](https://www.investing.com/news/forex-news/asia-fx-gains-as-dollar-steadies-after-strong-us-jobs-data-china-cpi-in-focus-5010449)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: New because Beijing is directly leaning against yuan strength through dollar deposit rates even as cross-border yuan inflows head for a record year.
-> * **Transmission / Market Read**: Capital-flow and policy channel supports **long USD/CNH** near term and **short CNH** on managed strength, offsetting inflow pressure.
-> * **Watchpoint / Confidence**: PBOC daily fixing and bank dollar deposit rate follow-through. Confidence: Medium due single exclusive and no official confirmation.
+> * **Narrative change**: Confirmation of hawkish reprice but with new data-integrity uncertainty from missing 12-month CPI.
+> * **Transmission / Market Read**: Policy and inflation channel; favors **long USD** and **higher UST yields** into CPI with reduced conviction.
+> * **Watchpoint / Confidence**: Core CPI MoM `0.2%` estimate and BLS methodology; upside accelerates hikes, absent y/y may lift vol; Confidence: Low.
 
-### 📌 Hormuz physical disruption deepens even as oil falls below $100
+### 📌 US-China tariff and rare-earth extensions with China CPI
 
 **Fact**
-Iran says no unauthorised vessels transited Strait of Hormuz overnight after navigation aids destroyed ([Reuters](https://news.google.com/rss/articles/CBMitgFBVV95cUxPNFkyaVpFU2VKQUVYc0xKQ1NmMFhuUmhEZXpCRFF5Ym5HaVpwSENiYk9QaWJhd1BtcU9sSEVyeGVoZ1RxUS1UamJHbEJOTUJwQjhzWUhrYko5RmZCMXJZQ04wZ2tyeFJZTGNFdUotNURHOXpDQTdGdXlMMEpaU3pWT0lvVzNPVkV1aHRIdjVYTE5yM2dwdVpDM0pQdV9TTDhTLXRQTlgxRkVlVFZtU0haT29fdEpyZw)). US strike on bulker marks new escalation as Hormuz ship casualties mount ([Lloyd’s List](https://news.google.com/rss/articles/CBMirgFBVV95cUxNTU5leHNTdmExcGhfaUMxNEhubXR4TjFlckdUQmFnU1RwcWJIM3NSeDRIN3V4MzhQdThjR25zOXNKN2g4cU02azNyWXZocS0tdVJOTlR5V1FrQW1weTd6MmZWSXktWlFXbVdaOFBJc1ExSElZdFVCZ2xtemFmbzFsNzFFbXNma1RMOV9TeldxcVhtMzVXVUpyaXB6U1luRC1NYXFCOHJ4NUI5Vm5uUGc)). Iraq’s Khor Mor gas field suspends output after drone attack, operator says ([BusinessTimes](https://news.google.com/rss/articles/CBMivAFBVV95cUxQWjMtb3g3SDhCejBvZlZkdnNDVzJ0QzFkbEl0YzRZdVFhem1sUGE0NmlhbWNFeUR4X0hhTl9hRUFFUm5sUWM0SmoxRFJ0cjNvN0wwVl9HODllN1dhZVlSUEsxcGVZX3VGd3BWdVhHQmlQX2tYOW9lMlEwNFNX)). Oil Prices Fall, Staying Below $100, as Trump Plays Down New Iran Strikes ([WSJ](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS29XR2VmWjE0VXk0djYtZVB1ZHpfSXBjYS02b1psblVVYjBUWjMtejVmMzhmREwtNHZrdGFHQzNub0o1STNxRV9DclpWOG8tdTNGNzVJYnJKdWxiM1ZjOC1GLXQ0OGxvTXE3SWp2eGV3WEJ2ZS1VbnUxZk9aMHYtcEtVbi1MUTd1RnRLdjhudUcxbW9GOVh1akQyazdXSV83QURqM3g4VEtTc0VtNGd2a25pczBoT2FJ)).
+美国延长178类中国产品关税豁免，涉及电子元件、医疗用品等 ([Caixin](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DdzBWRkZseHlfOE9OVkZwZXNBMzJwM3QxM05YdE1JTk9wZURUR01hZ3BsSHJfUUlMYmY1bEl2TlMtOHQ0NTF6Y3E5Y3hqNWduQUJuZkxGZEQwNkx0aUpHWkVvbVE)). China extends suspension of new rare earth controls until January ([CNA](https://news.google.com/rss/articles/CBMiogFBVV95cUxPSHA0dzJET1pBV2JjNlVJV2hzTFdqY1Rod0FjV1UxbTZjT1FfMm96UUVOTmNNMkJfQWcxeUwzcDFTeXNrOXgzOW5LUFM2QkQyRWNxeTVibTJ4RVVxeVAzeURoRUYwcXZzYnkycHFCNjEzMng3cnU5VHNLckI1R0RJdjdiZk9Oc0J3OFJrajVqOENtd1czcGtrZ2J6TGI1aEhOMVE)). 10月份CPI同比上涨0.7% ([Xinhua](https://www.news.cn/fortune/20261110/830b78c183f7453792f834a0289e1463/c.html)). Following the latest Trump-Xi summit, China pledged further opening of its financial market to companies from all countries, including the U.S. ([CNBC](https://www.cnbc.com/2026/11/09/cnbcs-the-china-connection-newsletter-wall-street-dips-in-again.html)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Acceleration because physical chokepoint risk is rising via destroyed navigation aids and a US strike on a bulker, even as Trump downplays new strikes.
-> * **Transmission / Market Read**: Energy supply and risk-premium channel supports **long Brent** and **long USD/Asia FX** if transit disruption widens, though financial pricing has not confirmed.
-> * **Watchpoint / Confidence**: Hormuz transit normalisation or inventory draw evidence. Confidence: Medium due conflicting physical risk and soft oil price signals.
+> * **Narrative change**: Confirmation of managed stability; tariff truce and rare-earth extension reinforce Beijing's de-escalation with Washington.
+> * **Transmission / Market Read**: Trade and capital-flow channel; favors **stable CNH** and **long China-exposed assets** on lower tariff risk.
+> * **Watchpoint / Confidence**: November 10 China trade data and PBOC fixing; tariff reversal would break stance; Confidence: Medium.
 
 ---
 
 ## 🌍 Global Radar
 
-### 🏦 Central Banks
+### 📊 Economic Indicators
+- Japan Household Outlays Fall for 10th Month as Inflation Lingers ([BBG](https://www.bloomberg.com/news/articles/2026-11-09/japan-household-outlays-fall-for-10th-month-as-inflation-lingers)).
+- Faltering Philippine Growth Spurs Calls for State Action, Pause in Rate Hikes ([BBG](https://www.bloomberg.com/news/articles/2026-11-09/faltering-philippine-growth-spurs-calls-for-state-action-pause-in-rate-hikes)).
 
-- **ECB** — ECB contender Klaas Knot said he would be ready to invent new crisis-fighting tools if required ([FT](https://www.ft.com/content/4dfbc7b0-1add-4bc3-ab5e-78c18b2ca87a)).
-- **ECB** — First EU talks on ECB chief loom as Knot and De Cos speak out on economic challenges ([BBG](https://www.bloomberg.com/news/articles/2026-11-09/first-eu-talks-on-ecb-chief-loom-as-knot-and-de-cos-speak-out)).
-- **Japan MoF** — Japan said it intervened in the currency market three times over the summer to prop up the yen, confirming previously reported actions that included Tokyo’s first coordinated operation with the US to support the currency in nearly three decades ([BBG](https://www.bloomberg.com/news/articles/2026-11-09/japan-says-three-day-yen-intervention-lifted-yen-in-summer)).
+### 🏦 Central Banks
+- **ECB**: Euro-zone governments are looking to agree on the European Central Bank presidency with two other jobs after a stocktaking of candidates for the top role ([BBG](https://www.bloomberg.com/news/articles/2026-11-09/ecb-succession-advances-as-ministers-look-to-pick-trio-of-jobs)).
+- **BOE**: Bank of England Bailey Backs Trade Opportunities as Burnham Pursues New EU Deal ([BBG](https://www.bloomberg.com/news/articles/2026-11-09/bank-of-england-bailey-backs-trade-opportunities-as-burnham-pursues-new-eu-deal)).
 
 ### 🌐 Geopolitics & Policy
-
-- Trump thinks he will meet Xi and Putin at China APEC summit ([Reuters](https://news.google.com/rss/articles/CBMiogFBVV95cUxNY0h5RWRYOHBsak5MVm5FQy1UV09NSk1odWFia1BUV1VJeVE5Z01CU0NqLVc1ckZ0V1FGSndBMUVMSlRyOVpnNktxVmNoZm13Y1FwTUw3QWxGYk5YR0VHX0k5VFlFZDJXWTJBYi03dWJ6c1MxLXZQdDVCWVBDOUJDOW5rLUdFYkZjaVZzRkNzTVd1YnpvV0tHV0p1YlNQbTRzVUE)).
-- Is the PLA rehearsing operations to keep US forces out of a Taiwan conflict? More than 100 vessels have been reported in the western Pacific and South China Sea but no large-scale drill has been announced ([SCMP](https://www.scmp.com/news/china/military/article/3373741/pla-rehearsing-operations-keep-us-forces-out-taiwan-conflict)).
-- South Korea says $10 billion US nuclear project remittance requires a full feasibility review ([Reuters](https://news.google.com/rss/articles/CBMixAFBVV95cUxOZTVSVTltZmdxS1lpSE9PSWhWRFJqcGJGN2tLOGwzVmlzRmpwdHZybGR0bFJpRTZTRVNzRGlSRm9PVF9yT3hGeGRhdVNHbExRbXFtYTVsbjdSb0l2RldaT1gtNGktRWFkQU0tTEpsbGtPWl9rRUZ6MzFnVDh5T3hoR0hMZHJ1bHozWjZfS0U1em9FUEd3Ylc4M0NLU3FEMGhpcEVZWTZ4RTlrbi1XaU1WU3I3RGYwUEJubldjRGdnSE5pNTNq)).
-- Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat ([Al Jazeera](https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat)).
+- France, U.S. Suspect Iran Was Behind Cyberattack on European Fridges ([WSJ](https://news.google.com/rss/articles/CBMirAFBVV95cUxQZU5pb3psb2FBQVpFOHg3c2xOb25DQzBmMGpmb2ZxMHBpRUF5MXhQZ2Y1Tmw4UXhxLVNxTnBmc05TelMxUURxUlNSZjFib2pHTGZydk9RSzdtZ18tdi1MaGJneWRRUFY5YTc0WlZuSjBnWHBmM084Q3hmZndYclVqSnd6U2ZEbnpPcWVscmNLMnpIa3BRc2xfX1pvVkhxb1l2NnpxZWx0X3hOMEFJ)).
+- Congress returns with government funding, Pete Hegseth and the debt limit on the agenda ([CNBC](https://www.cnbc.com/2026/11/09/congress-government-funding-debt-limit-elections.html)).
 
 ### 🛢️ Commodities
-
-- Gold Rises Above $4,100 an Ounce, With Focus on U.S. Inflation Data ([WSJ](https://news.google.com/rss/articles/CBMimAFBVV95cUxQRm5kNDdzUnNUa1J6RkFIN1J1TlFOeXlsR1lEQmNDclhjcEpZOTQtNzNrYXlLNUt3LW05MmZBdnFZaHNFdEF2Sk5zT2lFMWNId3FoQnlTaklkQ0J6cmRJd0VrNHYtODEwUnR2a09LMUVZUVRTVGRZQjdiYUZCSVV1czY3RzlvTDNqd3llNjBCU0pkZlBTSVY0dw)).
+- SpaceX plans `$24 billion` gas power plant, data center project in Texas ([Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxNZGhRNnpDTGdodFotZVZacFc5cC1NdnhETU5xb19iMFIxUUgySlJiOEYyX1RsdnFwY1h5VkM5RWpoVVVseFVJMFFFQ3ByaGxUOXZxY3R2M2RNSFJGaXhqU3VzSmhndWpmdklTd2RIekc1Nlg2b1FRVGdsdnN0YzVEQVVrZmpqT1JUVG9GamZ1U29EZjdaV0xFZEJTemZxdUZleGlLb055UEo0Slhod1VBU09kNWw0ajZmQnJmQUp3)).
 
 ### 📈 Equities
-
-- Asian stocks bounce as AI, Mideast jitters recede; dollar firm on Fed bets ([Reuters](https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0oxRGlDMkl5NWVMcTZ3NjVxWU5RakhWT3BnZG1vc254T1RSXzg0SE5MelBYSTNsakduTFo5R0pJMkNWNXZKVW9SZEFOLWZfbWQwdG94bkpoeGw5V0I5bmtlRktsWmpqTGhwVzFNSkgyaDdEVUprbDNsMkI1WThjZ1cwQmpIRjN5VVFOVw)).
-- Hedge Funds Dump Tech Stocks at One of Fastest Paces on Record ([BBG](https://www.bloomberg.com/news/articles/2026-11-09/hedge-funds-dump-tech-stocks-at-one-of-fastest-paces-on-record)).
+- Asian Stocks to Rally on US Tech Surge, Oil Slump: Markets Wrap ([BBG](https://www.bloomberg.com/news/articles/2026-11-09/stock-market-today-dow-s-p-live-updates)).
+- Equity volatility is maybe a bit sort-of back ([FT](https://www.ft.com/content/5c5926e2-bd32-47d8-954c-a0f02ca7b113)).
 
 ---
 
@@ -98,92 +95,98 @@ Iran says no unauthorised vessels transited Strait of Hormuz overnight after nav
 
 | Time (HKT) | Rgn | Event | Est. | Prior |
 |---|---|---|---|---|
-| Nov 09 07:30 PM | BR | BCB Focus Market Readout | — | — |
-| Nov 09 10:00 PM | FR | 12-Month BTF Auction | — | 3.352% |
-| Nov 09 10:00 PM | FR | 3-Month BTF Auction | — | 2.788% |
-| Nov 09 10:00 PM | FR | 6-Month BTF Auction | — | 3.068% |
-| Nov 09 11:00 PM | US | cb employment trends index | — | 107.56 |
-| Nov 09 11:00 PM | US | Wholesale Inventories MoM | 0.6% | 0.5% |
-| Nov 09 11:00 PM | US | Wholesale Sales MoM | — | — |
-| Nov 09 11:20 PM | US | ny fed bill purchases 1 to 4 months | $3.653 billion | — |
-| Nov 10 12:00 AM | US | Consumer Inflation Expectations | — | 3.9% |
-| Nov 10 12:30 AM | US | 3-Month Bill Auction | — | 4.040% |
-| Nov 10 12:30 AM | US | 6-Month Bill Auction | — | 4.150% |
-| Nov 10 02:00 AM | US | 3-Year Note Auction | — | 4.932% |
-| Nov 10 02:00 AM | US | 6-week bill auction | — | 3.940% |
-| Nov 10 07:30 AM | AU | Westpac Consumer Confidence Change | — | -4.7% |
-| Nov 10 07:30 AM | AU | Westpac Consumer Confidence Index | — | 80.4 |
-| Nov 10 07:30 AM | JP | Household Spending MoM | 0.3% | 0.1% |
-| Nov 10 07:30 AM | JP | Household Spending YoY | -3.1% | -3.1% |
-| Nov 10 07:50 AM | JP | BoJ Summary of Opinions | — | — |
-| Nov 10 07:50 AM | JP | Current Account | ¥3354.4B | ¥4062B |
-| Nov 10 07:50 AM | JP | Bank Lending YoY | 5.4% | 5.3% |
-| Nov 10 08:01 AM | GB | BRC Retail Sales Monitor YoY | — | 1% |
-| Nov 10 08:30 AM | AU | NAB Business Confidence | — | -13 |
-| Nov 10 11:00 AM | CN | Balance of Trade | $126.5B | $133.53B |
-| Nov 10 11:00 AM | CN | Exports YoY | — | 36.3% |
-| Nov 10 11:00 AM | CN | Imports YoY | — | 31% |
+| Nov 10 08:01 AM | GB | BRC Retail Sales Monitor YoY | 1.2% | 1% |
+| Nov 10 08:30 AM | AU | NAB Business Confidence | - | -13 |
+| Nov 10 11:00 AM | CN | Balance of Trade | $125.8B | $133.53B |
+| Nov 10 11:00 AM | CN | Exports YoY | 33.5% | 36.3% |
+| Nov 10 11:00 AM | CN | Imports YoY | 32% | 31% |
 | Nov 10 11:00 AM | CN | Balance of Trade Yuan | CNY859B | CNY905.97B |
-| Nov 10 11:35 AM | JP | 30-Year JGB Auction | — | 4.109% |
+| Nov 10 11:35 AM | JP | 30-Year JGB Auction | - | 4.109% |
 | Nov 10 01:00 PM | JP | Eco Watchers Survey Current | 46.8 | 47.0 |
-| Nov 10 01:00 PM | JP | Eco Watchers Survey Outlook | — | 47.4 |
+| Nov 10 01:00 PM | JP | Eco Watchers Survey Outlook | - | 47.4 |
 | Nov 10 02:30 PM | FR | Unemployment Rate | 8.4% | 8.3% |
-| Nov 10 05:40 PM | ES | 3-Month Letras Auction | — | 2.635% |
-| Nov 10 05:40 PM | ES | 9-month letras auction | — | 2.960% |
-| Nov 10 06:00 PM | GB | Treasury Gilt 2056 Auction | — | 5.82% |
+| Nov 10 05:40 PM | ES | 3-Month Letras Auction | - | 2.635% |
+| Nov 10 05:40 PM | ES | 9-month letras auction | - | 2.960% |
+| Nov 10 06:00 PM | GB | Treasury Gilt 2056 Auction | - | 5.82% |
 | Nov 10 07:00 PM | US | NFIB Business Optimism Index | 97.7 | 97.9 |
+| Nov 10 09:15 PM | US | ADP Employment Change Weekly | - | 16.75K |
+| Nov 10 09:30 PM | US | Core Inflation Rate MoM | 0.2% | 0.3% |
+| Nov 10 09:30 PM | US | Inflation Rate MoM | 0.3% | 0.6% |
+| Nov 10 09:30 PM | US | CPI | 337.02 | 336.94 |
+| Nov 10 09:30 PM | US | CPI s.a | - | 336.30 |
+| Nov 10 09:30 PM | US | Real Earnings MoM | - | -0.5% |
+| Nov 10 09:55 PM | US | Redbook YoY | 9.3% | 10.4% |
+| Nov 11 12:00 AM | US | Total Household Debt | - | $18.8T |
+| Nov 11 12:00 AM | US | wasde report | - | - |
+| Nov 11 01:00 AM | US | eia short-term energy outlook | - | - |
+| Nov 11 02:00 AM | US | 10-Year Note Auction | - | 5.300% |
+| Nov 11 02:30 AM | CA | BoC Summary of Deliberations | - | - |
+| Nov 11 02:30 AM | CA | BoC Survey of Consumer Expectations | - | - |
+| Nov 11 05:30 AM | US | API Crude Oil Stock Change | - | -5.267M |
+| Nov 11 07:00 AM | JP | Reuters Tankan Index | - | 22 |
+| Nov 11 07:00 AM | KR | Unemployment Rate | - | 2.6% |
+| Nov 11 08:30 AM | AU | Investment Lending for Homes | - | -10.2% |
 
 ---
 
 ## 📚 Full Reading List
 
 - **BBG**
-  - [Cross-Border Yuan Flows on China’s Network Head for Record Year](https://www.bloomberg.com/news/articles/2026-11-09/cross-border-yuan-flows-on-china-s-network-head-for-record-year)
-  - [China Extends Suspension of 24% US Tariffs, Keeps 10% Rate Until January](https://www.bloomberg.com/news/articles/2026-11-09/china-extends-pause-on-24-us-tariffs-to-january-keeps-10-rate)
-  - [Chinese Producer Inflation Soars to 5.7% for Post-Covid Era High](https://www.bloomberg.com/news/articles/2026-11-09/chinese-producer-inflation-soars-to-5-7-for-post-covid-era-high)
-  - [First EU Talks on ECB Chief Loom as Knot and De Cos Speak Out](https://www.bloomberg.com/news/articles/2026-11-09/first-eu-talks-on-ecb-chief-loom-as-knot-and-de-cos-speak-out)
-  - [Japan Says Three-Day Yen Intervention Lifted Yen in Summer](https://www.bloomberg.com/news/articles/2026-11-09/japan-says-three-day-yen-intervention-lifted-yen-in-summer)
-  - [European Stocks Rise as Banks, Technology Shares Advance](https://www.bloomberg.com/news/articles/2026-11-09/european-stocks-rise-as-banks-technology-shares-advance)
-  - [Hedge Funds Dump Tech Stocks at One of Fastest Paces on Record](https://www.bloomberg.com/news/articles/2026-11-09/hedge-funds-dump-tech-stocks-at-one-of-fastest-paces-on-record)
-  - [QatarEnergy Buys 25% Stake in Chevron’s Namibia Oil Block](https://www.bloomberg.com/news/articles/2026-11-09/qatarenergy-adds-chevron-block-to-stakes-in-african-oil-hotspot)
+  - [Latest Oil Market News and Analysis for Nov. 10](https://www.bloomberg.com/news/articles/2026-11-09/latest-oil-market-news-and-analysis-for-nov-10)
+  - [Nvidia Sees Historic Split From S&P as Stock Sinks, Market Soars](https://www.bloomberg.com/news/articles/2026-11-09/nvidia-sees-historic-split-from-s-p-as-stock-sinks-market-soars)
+  - [Fed’s Barkin Says Policy Direction Clear, Needs Careful Pace](https://www.bloomberg.com/news/articles/2026-11-09/fed-s-barkin-says-policy-direction-clear-but-needs-careful-pace)
+  - [Fed’s Goolsbee Says Officials Must Address Inflation Failure](https://www.bloomberg.com/news/articles/2026-11-09/fed-s-goolsbee-says-officials-must-address-inflation-failure)
+  - [BLS Will Not Publish 12-Month CPI, Core CPI Figures For October](https://www.bloomberg.com/news/articles/2026-11-09/bls-will-not-publish-12-month-cpi-core-cpi-figures-for-october)
+  - [New York Fed Survey Shows Steady Inflation Outlook, Rising Job Market Concerns](https://www.bloomberg.com/news/articles/2026-11-09/steady-inflation-outlook-mixed-views-for-jobs-in-ny-fed-survey)
+  - [Japan Household Outlays Fall Most Since Pandemic](https://www.bloomberg.com/news/articles/2026-11-09/japan-household-outlays-fall-for-10th-month-as-inflation-lingers)
+  - [Australia’s Consumer Confidence Slumps on Cost-of-Living Fears](https://www.bloomberg.com/news/articles/2026-11-09/australia-s-consumer-confidence-slumps-on-cost-of-living-fears)
+  - [ECB Succession Advances as Ministers Look at Trio of Jobs](https://www.bloomberg.com/news/articles/2026-11-09/ecb-succession-advances-as-ministers-look-to-pick-trio-of-jobs)
+  - [Bank of England Bailey Backs Trade Opportunities as Burnham Pursues New EU Deal](https://www.bloomberg.com/news/articles/2026-11-09/bank-of-england-bailey-backs-trade-opportunities-as-burnham-pursues-new-eu-deal)
+  - [Oil Tanker Rates Drop, Making Long-Haul Crude Trades Attractive](https://www.bloomberg.com/news/articles/2026-11-09/oil-tanker-rates-extend-plunge-still-trade-at-very-high-levels)
+  - [Asian Stocks to Rally on US Tech Surge, Oil Slump: Markets Wrap](https://www.bloomberg.com/news/articles/2026-11-09/stock-market-today-dow-s-p-live-updates)
+  - [Colombian Inflation Accelerates Less Than Forecast to 6.30%](https://www.bloomberg.com/news/articles/2026-11-09/colombian-inflation-accelerates-less-than-forecast-to-6-30)
+  - [Faltering Philippine Growth Spurs Calls for State Action, Pause in Rate Hikes](https://www.bloomberg.com/news/articles/2026-11-09/faltering-philippine-growth-spurs-calls-for-state-action-pause-in-rate-hikes)
 
 - **Reuters**
-  - [Chinese banks boost dollar deposit rates, sources say, as Beijing seeks to smooth yuan rally](https://news.google.com/rss/articles/CBMiywFBVV95cUxQTzF1MFhueDRWX1A3LWlGYWJuZ21hMjNBQkE5aG9JdElOT1pYeUNrMHUxS2lXaGQ4RDAxUUp1T256bjBXelZMZ3UyNDA1UEI5QlJ4SHgwX3QweWsyczBnRUhRTC1PZGtpRUVFNzVycWp3d1RQVE0zUm40SUNURVdES2EwZmpNUFNlMGV5S1lXajlza3A4OW1RSGFzWldtU1N1N0N1R0kxbTUxRGtXU29FX0x3M2J6SU5yVjBxWk1yZmN2WHdvR01UMGtqaw)
-  - [China extends suspensions of 24% tariff on US goods, port fees on US ships for two months](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSTA2TElMOUVJb2VPUWp2RnhuNWtoOHhncWpKUW9Ob1lEQ19BVUluTWRvRkZTYWJTYlU5RlZNR2F6UmZOcW5GLXlrQVJuMzMxakd2V2M4d1dXRDBCU3FBN182RlFQTjVBbVpTbzQ2cXZzdkk4YUJxZkF4NUVoZXlXR1haVlZIY2lpMnJQeTdFWTFMQkR5QWxiaWtqZUJSSUI5bFpzdGNmUENfU2h4dWIxcg)
-  - [China's factory-gate inflation at fastest in nearly 4-1/2 years in October, while CPI rise moderates](https://news.google.com/rss/articles/CBMiywFBVV95cUxOdHZHeWlBMm5ScUQ3Um9LTHZLdHpkZzNXNXF0NWlKUjlMaE54NnI2VUhSNktuS3BpWEtldEk4ZklwbDFaLUVGaXcxdVY3ZllyX1o5aFNNX1R0dC03Zzc3NFVkSVdTZDl5dTg0UUF4R1lLQXNlT3NmS29zVjhqQWZPVVU5OXlpLXpWdmpSeEJCVWhrY1FUcnc0REduM3VITEs0TXRvLXRtLUxXMUZYaWl5NmYxZml3MDQzUDMxU20wbWdHWWMzbERkeVZHTQ)
-  - [Trump thinks he will meet Xi and Putin at China APEC summit](https://news.google.com/rss/articles/CBMiogFBVV95cUxNY0h5RWRYOHBsak5MVm5FQy1UV09NSk1odWFia1BUV1VJeVE5Z01CU0NqLVc1ckZ0V1FGSndBMUVMSlRyOVpnNktxVmNoZm13Y1FwTUw3QWxGYk5YR0VHX0k5VFlFZDJXWTJBYi03dWJ6c1MxLXZQdDVCWVBDOUJDOW5rLUdFYkZjaVZzRkNzTVd1YnpvV0tHV0p1YlNQbTRzVUE)
-  - [Asian stocks bounce as AI, Mideast jitters recede; dollar firm on Fed bets](https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0oxRGlDMkl5NWVMcTZ3NjVxWU5RakhWT3BnZG1vc254T1RSXzg0SE5MelBYSTNsakduTFo5R0pJMkNWNXZKVW9SZEFOLWZfbWQwdG94bkpoeGw5V0I5bmtlRktsWmpqTGhwVzFNSkgyaDdEVUprbDNsMkI1WThjZ1cwQmpIRjN5VVFOVw)
-  - [South Korea says $10 billion US nuclear project remittance requires a full feasibility review](https://news.google.com/rss/articles/CBMixAFBVV95cUxOZTVSVTltZmdxS1lpSE9PSWhWRFJqcGJGN2tLOGwzVmlzRmpwdHZybGR0bFJpRTZTRVNzRGlSRm9PVF9yT3hGeGRhdVNHbExRbXFtYTVsbjdSb0l2RldaT1gtNGktRWFkQU0tTEpsbGtPWl9rRUZ6MzFnVDh5T3hoR0hMZHJ1bHozWjZfS0U1em9FUEd3Ylc4M0NLU3FEMGhpcEVZWTZ4RTlrbi1XaU1WU3I3RGYwUEJubldjRGdnSE5pNTNq)
-  - [Iran says no unauthorised vessels transited Strait of Hormuz overnight after navigation aids destroyed](https://news.google.com/rss/articles/CBMitgFBVV95cUxPNFkyaVpFU2VKQUVYc0xKQ1NmMFhuUmhEZXpCRFF5Ym5HaVpwSENiYk9QaWJhd1BtcU9sSEVyeGVoZ1RxUS1UamJHbEJOTUJwQjhzWUhrYko5RmZCMXJZQ04wZ2tyeFJZTGNFdUotNURHOXpDQTdGdXlMMEpaU3pWT0lvVzNPVkV1aHRIdjVYTE5yM2dwdVpDM0pQdV9TTDhTLXRQTlgxRkVlVFZtU0haT29fdEpyZw)
-  - [Nvidia falls about 3% in after-hours and perpetual futures trade](https://news.google.com/rss/articles/CBMiowFBVV95cUxQb0pTclA4c2pDZlE3NXExNGt0dU9JUDRTaU80SVhfU1FzV2pmSzhYZG9rdzdPaGZSRHV3LXEtaDAwX0ttREhYUGwtalVma1ktTlBCSUdzLUJETkhFVm5ETDVrNVF6OGswVE5EempEc01PSXlrbWRtUERvWDlwVk5KMnlmRmlNNDRYRS1ubHB2bl9oRXp6WFg1cGFYVVdzSnBaNE53)
+  - [OPEC oil output rises in October to 90% of pre-war rate, Reuters survey shows](https://news.google.com/rss/articles/CBMivgFBVV95cUxNcGJ3LUpzaXpKMGVQTkVDUmxmck5BRE9ycmRsR2ljV2x5ZmpoOW5UbW1WSE9XUnd5XzJsano5X0hPMU1DZW5Za2lsQ05Sa2NzWWNnTkpHdVc4ZmFvRnZ1WDRGVnVLaFNJVVdNSGhhYmRBaXZSSVNjc29qT2dUbnEtZ3JBNXdyQ01IaWxJRDJsZThnT29yUmxnSTh2dHFidnZBd2R6QU5nS182LUFjV1U0RXJqSVR2VXpicTBjalNR)
+  - [Trump says FBI probing Nvidia CEO Huang as China controversy deepens](https://news.google.com/rss/articles/CBMivgFBVV95cUxNcUVlREFfdFVvdmk1OXFEamNOcFVZTGJFX1gxZkhjYjhXNTFnZkJqUmpLLTliVmRCZUNtRGdHSDZ2cVBvRXlLdldZSG1rVmFfMFk5M1dKNnBnVnNnUzZ1NmVSNkRWakkyNktBZmhGbzJwYkh5YTZBekVPY3pyUU9lTXY1WGt4TkhLcHVPTldJb1k3MGVPdzBLcTIyVzNuRUpyRGt5cDJpMV91QzdjcWFtQy1MekMwU3lkRlNXUFNn)
+  - [Canada says it is extending tariff relief on some US imports](https://news.google.com/rss/articles/CBMipAFBVV95cUxQTTNFR2s2cS00RWNNUlZMWU9kY1hXajNGazNhdFZjeEFabGF0bFJlY0dMaUhOM1hLYmNtcWI3dFNuNzd3Um9OSTFINUVkUl9sajNUSUNfUW83LWdtamJBUUItLXhWQkYxb21NRkptVUVJT3U3dE1ibTJ3X0lHTk1NOEdsLXhRVkNIb0RZTGlGRjY4X2F0RUFVTXJDZWxRbUFVN18yTA)
+  - [Trump says US seeing 'strong inclination' to end Russia's war in Ukraine](https://news.google.com/rss/articles/CBMirwFBVV95cUxOc21fOTJsSUt2S1FtclRIdUVUUnBmcVAyWjd2WkdvcWt4bEw4MUtmaFFoZF9EYlNCZUwzRVJtekFhMy1rWElPTUxwekhLQXRXT25pTWdLa2NGdkFteWtibmxSdUNOLWZEcUpjeVJtcTZ3S0ZWUWx4T3p1a2hwTTV5ZEp0amVHdHRsZ2hiM2E5QUQ2U2owd09vcDdKMmlZWEIyNEl3U1Fic2puR2hhendj)
+  - [SpaceX plans $24 billion gas power plant, data center project in Texas](https://news.google.com/rss/articles/CBMivgFBVV95cUxNZGhRNnpDTGdodFotZVZacFc5cC1NdnhETU5xb19iMFIxUUgySlJiOEYyX1RsdnFwY1h5VkM5RWpoVVVseFVJMFFFQ3ByaGxUOXZxY3R2M2RNSFJGaXhqU3VzSmhndWpmdklTd2RIekc1Nlg2b1FRVGdsdnN0YzVEQVVrZmpqT1JUVG9GamZ1U29EZjdaV0xFZEJTemZxdUZleGlLb055UEo0Slhod1VBU09kNWw0ajZmQnJmQUp3)
 
 - **WSJ**
-  - [China Producer Inflation Accelerates to Over Four-Year High](https://news.google.com/rss/articles/CBMinAFBVV95cUxPcm1tR2Voci0zUnpsNlVhbzdXQ19DNDB3anhvdU9HZGRtYjE0akY0b0VHZi0xUndnYTkxOExkOHUyTmxHNnJMZzFldjRDRXFxNDE1S2ZZX014aWhxdFFqR1ExbGFEV0FDNHBuMElPOVNwZjYwY20ydlJna2hoN3N5OTJEbGRJbmxwOXZFZWdzMjd6UklTZTRabVBiNkE)
-  - [Gold Rises Above $4,100 an Ounce, With Focus on U.S. Inflation Data](https://news.google.com/rss/articles/CBMimAFBVV95cUxQRm5kNDdzUnNUa1J6RkFIN1J1TlFOeXlsR1lEQmNDclhjcEpZOTQtNzNrYXlLNUt3LW05MmZBdnFZaHNFdEF2Sk5zT2lFMWNId3FoQnlTaklkQ0J6cmRJd0VrNHYtODEwUnR2a09LMUVZUVRTVGRZQjdiYUZCSVV1czY3RzlvTDNqd3llNjBCU0pkZlBTSVY0dw)
-  - [Oil Prices Fall, Staying Below $100, as Trump Plays Down New Iran Strikes](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS29XR2VmWjE0VXk0djYtZVB1ZHpfSXBjYS02b1psblVVYjBUWjMtejVmMzhmREwtNHZrdGFHQzNub0o1STNxRV9DclpWOG8tdTNGNzVJYnJKdWxiM1ZjOC1GLXQ0OGxvTXE3SWp2eGV3WEJ2ZS1VbnUxZk9aMHYtcEtVbi1MUTd1RnRLdjhudUcxbW9GOVh1akQyazdXSV83QURqM3g4VEtTc0VtNGd2a25pczBoT2FJ)
+  - [Treasury Yields Edge Higher Ahead of CPI Data](https://news.google.com/rss/articles/CBMikAFBVV95cUxNbW9yUzg3WWNmNi1LS2M4aDN1S1c3LURlb1lTX0ZuVDBrQlI5VS1oWjFrMy1JSHhGY0hXWi1IUHFveU9aTGdPQnlHMGhLMGFsdjhUTnA4NEV3U0xXeG4wVFVEcm1WZXVtOGJHc242VWNmSWhodDlWT3RiWnJJbHhrVjFSdGhnWnhPUU9BT3BvMVM)
+  - [Gold Futures Extend Gains as Oil Prices Retreat](https://news.google.com/rss/articles/CBMimAFBVV95cUxQRm5kNDdzUnNUa1J6RkFIN1J1TlFOeXlsR1lEQmNDclhjcEpZOTQtNzNrYXlLNUt3LW05MmZBdnFZaHNFdEF2Sk5zT2lFMWNId3FoQnlTaklkQ0J6cmRJd0VrNHYtODEwUnR2a09LMUVZUVRTVGRZQjdiYUZCSVV1czY3RzlvTDNqd3llNjBCU0pkZlBTSVY0dw)
+  - [U.S. Natural Gas Futures Rise on Colder Weather Outlook](https://news.google.com/rss/articles/CBMirwFBVV95cUxOaHdFTnlnUjFxZHdRNGNqcU1CdFotU3ExdFhHS1hYMk5Zdjd5b2hvQzdCWUt6Ujh5WEpTXy0wM3BqWjJyMzU2dHBWaERDUVQwVVE3MnlBN3JBOUxQUk1JbmlUZTQ2ZWRKdUtUNzZVQ05hZDU3QUw1T254aVE3aS1KTktrWEt3b1BSbVd1X0tENUtJUkllSUpseGRyNWR5eEtOUENXNXl3TEdHUXhJeEhZ)
+  - [France, U.S. Suspect Iran Was Behind Cyberattack on European Fridges](https://news.google.com/rss/articles/CBMirAFBVV95cUxQZU5pb3psb2FBQVpFOHg3c2xOb25DQzBmMGpmb2ZxMHBpRUF5MXhQZ2Y1Tmw4UXhxLVNxTnBmc05TelMxUURxUlNSZjFib2pHTGZydk9RSzdtZ18tdi1MaGJneWRRUFY5YTc0WlZuSjBnWHBmM084Q3hmZndYclVqSnd6U2ZEbnpPcWVscmNLMnpIa3BRc2xfX1pvVkhxb1l2NnpxZWx0X3hOMEFJ)
+  - [NYSE to Settle Tokenized Stocks on Avalanche Blockchain](https://news.google.com/rss/articles/CBMipgFBVV95cUxOM2d1X0JZOHZQalUyeG1sS19PTzltLUpBTWt3cXoyTDF6QjAwdDVzY0tYZVBaUTFObzBKTGJBaC02UkxZLW9hWkJReS1CMmJCWm1ZUTBxRENVUFBVRExyT1RIajdlYU0yWmY5R1ZVVXdQVTdvMXhQanZVMy1wVUFjQVlhTHRLc3JHcEJoTmIxSTkwdVgzZE5WbVF6VGlKSmJDZnFmaENn)
 
 - **FT**
-  - [ECB contender Klaas Knot ‘won’t hesitate’ to act in a debt crisis](https://www.ft.com/content/4dfbc7b0-1add-4bc3-ab5e-78c18b2ca87a)
-  - [Transcript of an interview with Klaas Knot](https://www.ft.com/content/c3c2d967-78cd-4e32-869a-07e24462f982)
+  - [Oil prices hit 10-week low after Trump says strikes on Iran ‘highly unlikely’](https://www.ft.com/content/1b818c16-5197-45f4-857a-49f99a10252f)
+  - [Saudi Arabia’s vital East-West pipeline struck in attack](https://www.ft.com/content/45dce79e-2758-43f2-a06c-3c56db392f39)
+  - [US stocks rebound after AI rout](https://www.ft.com/content/b8644327-86e7-4d1c-a71f-3fb1d552723b)
+  - [Equity volatility is maybe a bit sort-of back](https://www.ft.com/content/5c5926e2-bd32-47d8-954c-a0f02ca7b113)
 
 - **CNBC**
-  - [China wholesale inflation hits highest in more than four years as consumer measure slows](https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html)
+  - [Goldman CEO Solomon says AI financing remains strong despite market jitters](https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html)
+  - [A key report for where inflation stood in October comes out Tuesday. Here's what to expect](https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html)
+  - [CNBC's The China Connection newsletter: Wall Street dips in again. What needs to go right](https://www.cnbc.com/2026/11/09/cnbcs-the-china-connection-newsletter-wall-street-dips-in-again.html)
+  - [Congress returns with government funding, Pete Hegseth and the debt limit on the agenda](https://www.cnbc.com/2026/11/09/congress-government-funding-debt-limit-elections.html)
 
-- **SCMP**
-  - [Is the PLA rehearsing operations to keep US forces out of a Taiwan conflict?](https://www.scmp.com/news/china/military/article/3373741/pla-rehearsing-operations-keep-us-forces-out-taiwan-conflict)
+- **CNN**
+  - [Nvidia stock falls after investigation into CEO, bucking market rally](https://news.google.com/rss/articles/CBMifkFVX3lxTE50WjBIUUkwd0ZNMkFYTzZjQjRnOFZoc2lPTFVORzZtU0ZwOV9SNldqdUxPZ0NsUEFLZ3lDdzh3RV9ZTWZ4ek9KaWR4aENKVEFtdFIybjhqUkxvTHRFYWFocVgta1ZKRWJYYTFIZ1JpaE5uTVBfNzMzb3VkUC1iUQ)
 
 - **Al Jazeera**
-  - [Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat](https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat)
-
-- **BusinessTimes**
-  - [Iraq’s Khor Mor gas field suspends output after drone attack, operator says](https://news.google.com/rss/articles/CBMivAFBVV95cUxQWjMtb3g3SDhCejBvZlZkdnNDVzJ0QzFkbEl0YzRZdVFhem1sUGE0NmlhbWNFeUR4X0hhTl9hRUFFUm5sUWM0SmoxRFJ0cjNvN0wwVl9HODllN1dhZVlSUEsxcGVZX3VGd3BWdVhHQmlQX2tYOW9lMlEwNFNX)
-
-- **Lloyd’s List**
-  - [Port fee truce extended to January as Democratic sweep clouds US-China trade outlook](https://news.google.com/rss/articles/CBMivgFBVV95cUxPTmQ4c0pqcHZEYjRfSXlNZzYzVTNRcXBYcWI3RVVTandmUTlvLVU4S09ESXljUjljLTl4Wi11cTJmRXBNZ1RZaG52NEtFaU9KcjNXbUhNdXQ5eVpfWTVlVHd2MjE4bWc1Wm9LYWJWWmhuU2lORlNCN3cyb0V2eExLeTNEdUJhdWtXNTMzMlZNblQzZmlLLW9ZcGpXUDBfLUk2bGUzWGowdWdqNUtXV05QYlNPZmJmaHJzRGVmS19B)
-  - [US strike on bulker marks new escalation as Hormuz ship casualties mount](https://news.google.com/rss/articles/CBMirgFBVV95cUxNTU5leHNTdmExcGhfaUMxNEhubXR4TjFlckdUQmFnU1RwcWJIM3NSeDRIN3V4MzhQdThjR25zOXNKN2g4cU02azNyWXZocS0tdVJOTlR5V1FrQW1weTd6MmZWSXktWlFXbVdaOFBJc1ExSElZdFVCZ2xtemFmbzFsNzFFbXNma1RMOV9TeldxcVhtMzVXVUpyaXB6U1luRC1NYXFCOHJ4NUI5Vm5uUGc)
+  - [Iran war live: Trump says war ‘effectively over’, Iran demands ‘surrender’](https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-war-effectively-over-iran-demands-surrender)
 
 - **Caixin**
-  - [10月PPI同比攀升至5.7%、CPI涨幅回落 上下游价格分化加剧](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fdHFwZ3hPYUc2Y0xkTlVaYVhnSkxBUmxWVDRucFN6Zmk1RDRfbUsyUXZYdXdVN0VRSGZMcWwwUGlPeGxVeTJGS0lpQjVZcDUzNW00eHJadV9qZS1WVXZjcFVB)
+  - [美国延长178类中国产品关税豁免 涉及电子元件、医疗用品等](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DdzBWRkZseHlfOE9OVkZwZXNBMzJwM3QxM05YdE1JTk9wZURUR01hZ3BsSHJfUUlMYmY1bEl2TlMtOHQ0NTF6Y3E5Y3hqNWduQUJuZkxGZEQwNkx0aUpHWkVvbVE)
 
-- **CCTV**
-  - [国务院关税税则委员会发布公告调整对原产于美国的进口商品加征关税措施](https://news.google.com/rss/articles/CBMieEFVX3lxTE1vbmdGNmM1TkI0bzhfdzlJeEowX1FDU3BZWXVQc1BXMjRGSHhLTjdsOTd0RVg1WmJkX0kyWTc1UmwteFBxYzhIeHExSGdnZFB4ZWNETV8wd0NVeEllc0tXQmRqd1BPRkhqQkJxUUR5c2NoNUFibUdWUA)
+- **CNA**
+  - [China extends suspension of new rare earth controls until January](https://news.google.com/rss/articles/CBMiogFBVV95cUxPSHA0dzJET1pBV2JjNlVJV2hzTFdqY1Rod0FjV1UxbTZjT1FfMm96UUVOTmNNMkJfQWcxeUwzcDFTeXNrOXgzOW5LUFM2QkQyRWNxeTVibTJ4RVVxeVAzeURoRUYwcXZzYnkycHFCNjEzMng3cnU5VHNLckI1R0RJdjdiZk9Oc0J3OFJrajVqOENtd1czcGtrZ2J6TGI1aEhOMVE)
+
+- **Xinhua**
+  - [10月份CPI同比上涨0.7%——物价走势怎么看？](https://www.news.cn/fortune/20261110/830b78c183f7453792f834a0289e1463/c.html)
+
+- **Investing_Forex**
+  - [Dollar slips, taking a breather after last week’s advance a day ahead of CPI test](https://www.investing.com/news/forex-news/asia-fx-gains-as-dollar-steadies-after-strong-us-jobs-data-china-cpi-in-focus-5010449)

@@ -1,26 +1,24 @@
-# Macro State — Last updated: 2026-11-09
+# Macro State — Last updated: 2026-11-10
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **US hawkish repricing driven by strong payrolls** — Status: Confirmation; dollar holds gains and Fed hike bets remain firm after strong payrolls; next trigger US CPI and consumer inflation expectations.
-- **China policy-managed stability** — Status: New; tariff truce extension, PPI at 5.7%, and dollar deposit rate moves signal Beijing managing trade, inflation, and yuan strength; next trigger Xi-Trump APEC and PBOC fix.
-- **AI de-rating with governance and political risk** — Status: Acceleration; Nvidia after-hours decline, Jensen Huang affair headlines, and record hedge fund tech selling deepen AI stress; next trigger Nvidia probe and US-China tech policy.
-- **Middle East physical chokepoint risk vs diplomatic off-ramp** — Status: Acceleration; destroyed Hormuz navigation aids, US strike on bulker, and Khor Mor suspension raise supply risk even as oil stays below $100; next trigger Hormuz transit and Qatar diplomacy.
+- **Middle East de-escalation/diplomatic off-ramp** — Status: Reversal; oil selloff shows market pricing diplomatic endgame while pipeline strike keeps physical supply tail risk; next trigger Hormuz transit and Saudi East-West pipeline outage confirmation.
+- **US hawkish repricing with CPI data gap** — Status: Confirmation; Barkin and Goolsbee reinforce tightening bias but BLS withholding 12-month CPI/core CPI raises uncertainty; next trigger October CPI MoM and BLS methodology statement.
+- **AI governance de-rating** — Status: Acceleration for Nvidia-specific governance risk but broad market absorption; next trigger FBI probe details and Megaspeed China supply link.
+- **China policy-managed stability** — Status: Confirmation; US tariff exemption extensions and China rare-earth suspension reinforce trade truce; next trigger China trade data and PBOC fixing.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- US CPI release and consumer inflation expectations this week.
-- Xi-Trump APEC meeting and whether the 10% tariff line changes.
-- PBOC dollar deposit rate follow-through and CNH daily fixing.
-- Hormuz transit normalisation or oil inventory draw evidence.
-- Nvidia probe and any Washington response to Jensen Huang affair.
+- October US CPI MoM/core CPI release and BLS 12-month print omission.
+- Hormuz transit normalization and Saudi East-West pipeline operational status.
+- Nvidia FBI probe developments and any Washington action on Jensen Huang affair.
+- November 10 China trade balance and PBOC daily CNH fixing.
+- Follow-through on US tariff exemptions and China rare-earth suspension.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Does Beijing’s dollar deposit rate move cap yuan strength despite record cross-border inflows?
-- Does Hormuz physical disruption override diplomacy and lift Brent back above $100?
-- Does AI governance and political shock broaden the equity de-rating beyond tech names?
+- Does BLS withholding 12-month CPI/core CPI distort Fed repricing and inflation breakevens?
+- Does the Saudi East-West pipeline strike cap the oil selloff and revive risk premium?
+- Does Nvidia-specific governance risk broaden into AI capex or tech credit stress?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- China October PPI: `5.7%`, fastest in nearly 4.5 years, cited by Caixin/Reuters/CNBC, producer-price inflation signal.
-- China tariff suspension: `24%` tariff suspended, `10%` rate kept until January, cited by Reuters/BBG, trade policy threshold.
-- Gold: `$4,100/oz`, cited by WSJ, focus on US inflation data.
-- Brent: below `$100`, cited by WSJ, despite fresh Hormuz disruption signals.
-- Nvidia after-hours: `-3%`, cited by Reuters, AI risk repricing.
+- China October CPI YoY: `0.7%`, cited by Xinhua, consumer inflation signal.
+- US October CPI MoM consensus: `0.3%`, core `0.2%`, cited by CNBC, Fed reaction threshold.
+- OPEC output: `90%` of pre-war rate, cited by Reuters, supply normalization threshold.
