@@ -1,26 +1,26 @@
-# Macro State — Last updated: 2026-11-11
+# Macro State — Last updated: 2026-11-12
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Global hawkish repricing** — Status: Acceleration; Goolsbee and Paulson add to Waller/Logan, Asian yields rise and JPY slumps on 50bp December risk; next trigger Fed speakers and US data.
-- **Middle East Hormuz escalation/de-escalation divergence** — Status: Reversal; Iran denies talks and reports mine-hit ships, oil rebounds from two-month low; next trigger further transit attacks or official talks restart.
-- **China external surplus and tariff risk** — Status: Confirmation; pre-Shenzhen agricultural flashpoint and Bessent de-risk language keep tariff risk live; next trigger Xi-Trump summit outcomes.
-- **China offshore capital and bond policy** — Status: New; $24bn offshore trust clampdown and bond-interest tax review tighten cross-border flows; next trigger implementation details.
+- **Global hawkish repricing** — Status: Acceleration; Goolsbee calls October CPI ‘borderline disturbing’, dollar hits a 19-month high, gold slips under `$4,000`; next trigger Fed speakers confirming or rejecting a jumbo hike.
+- **Middle East Hormuz escalation** — Status: Acceleration; Iran attacks shipping navigation systems on Oman’s Didamar island, Bessent moved to military base, and a further tanker is hit; OPEC/Saudi output normalization offsets some supply fear; next trigger additional transit attacks or de-escalation talks.
+- **China PBOC easing and stability tools** — Status: Confirmation; Q3 report keeps loose policy and stable-yuan language, while the non-bank swap facility gets detailed; next trigger facility activation and MLF/LPR updates.
+- **China-US pre-Shenzhen trade diplomacy** — Status: New; Rubio-Wang call finalizes Xi-Trump preparations ahead of Apec; next trigger Shenzhen summit trade and agricultural-purchase language.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- Fed speakers push back or confirm 50bp December hike after Goolsbee/Paulson remarks.
-- Hormuz tanker transit disruption expansion or first confirmed Iran-US talks.
-- Xi-Trump Shenzhen language on trade and agricultural purchases.
-- China bond-interest tax or offshore trust enforcement follow-through.
-- 10-year UST and USD/JPY follow-through on hawkish repricing.
+- Fed speakers push back or confirm a jumbo December hike after Goolsbee’s ‘borderline disturbing’ characterization.
+- Further Hormuz navigation or tanker attacks, or first confirmed Iran-US de-escalation signal.
+- Xi-Trump Shenzhen statement on tariffs and agricultural purchases.
+- PBOC non-bank swap facility first activation or implementation details.
+- Dollar index and USD/JPY follow-through, plus gold holding below `$4,000`.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will Goolsbee and Paulson formalize larger/faster hike support, or is 50bp still a Waller outlier?
-- Can oil sustain rebound while Iran says Hormuz stays shut and no talks occur?
-- Does China’s tax clampdown signal broader capital-control tightening before Xi-Trump summit?
+- Will Goolsbee’s inflation warning formalize larger/faster hike support, or is 50bp still an outlier?
+- Can oil sustain a rebound while Saudi and OPEC output are already near prewar levels and Hormuz transit remains threatened?
+- Does China’s non-bank swap facility signal stronger official support for bond, stock, and FX markets before the Xi-Trump meeting?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- `Oil` two-month low rebounded; oil rises from two-month low as Hormuz attacks offset truce hopes.
-- `JPY` one-month low; Yen Slumps to Over One-Month Low on Fed Hike Bets.
-- `Asian bonds` yields rising; Asian Bond Yields Rise on Growing Expectations for Fed Rate Hike.
-- `Gold` rebound capped; Gold rebounds after sharp selloff though Fed hike bets weigh.
-- `China offshore trusts` `$24bn` clampdown; China’s Tax Clampdown Brings in `$24 Billion` from Offshore Trusts.
+- `Dollar` 19-month high on Fed rate-hike bets ([WSJ](https://news.google.com/rss/articles/CBMitwFBVV95cUxPbUFTNFdTU2N5M2hVYW8zei1IMG9pbnFtc0xHU3U4cjZXUXFmaXVCTmRTbktVd2pTTlpiNHp1R2ZmWlBLSTdyU0dnX1NiT21mM2JiX3JkUzc4S0dlb3IyZEgxbzlPNEhTX1lPa0c5MHBpZU1aTjJQdGg1b242M3hUT1AtN25lNXFacnNTUmJzbFNHUkg4QzNmOEFvNk0tLWpHeFpzNVpLdlYxOHpNMmJRTUp6ZzBxS2M)).
+- `Gold futures` slipped back under `$4,000` ([WSJ](https://news.google.com/rss/articles/CBMipAFBVV95cUxNdnJBZW5Fem9UUENmZGVOTTlwcnBqUVhocFcwSUtzRlB2aGk5Tk13akZlU3ZEbkNSUEZoeDNTT3hDMzZQWUFVdlBsVDBfV0dpNjk3RUtDTzJ6ZWtOTTB5QkhzY1lEMFBJd2FaenJEaGt3c1I5Tk10U21LbXNXUzl1SHNpZ3ZpbVdualFweXRwX2RDSDhtdm9uWDB0ZUx5TG0xRDQ3bg)).
+- `Oil` rebound as Middle East supply risks persist ([WSJ](https://news.google.com/rss/articles/CBMipgFBVV95cUxOMG9QUTRTOFdKeFlQeU5fLTdmZnJjdllnZFFQb0tRcU4wOGUxaDdkUThaMERudUlRM3hyalVvMVVVZHJkZUM2OWVSWXR5ZThzSEVEOGo0WjdncmVET1NtcHZ3a1ZScFZTaGt4dlpWYnlMRGtpT3ZoM3p0cWhmN1FCNHk1LTI0dGxHMDZwQmpxcDgtSmNQNzNOZFJqbFFDVE44OVNYcERB)).
+- `Saudi oil production` rebounded close to prewar levels ([FT](https://www.ft.com/content/c844b957-3c98-43a3-b02e-2d0f5368bd49)).
+- `JPY` slumped on Fed rate-hike bets ([WSJ](https://news.google.com/rss/articles/CBMipAFBVV95cUxQM3EzbUZLMzVNX1JTTVVjTVYwOVhoR0JQMXlRWjh3WjA3OGlfRkhvek43Qk90UW1jeWVDOWZMa2djT0JlSnhoRUh3SXBtbWpRQ1Q5SkNJbnVhZHR5X2NsWTFLT0w4TG4tOEdXQlBVdG91RGp1aWFtNkxJN3NZYktEN1dRWWU3LWQ3MTJ3SjNKejBkc1Zsb3JTV3Myd2t5SnZEeHRaZQ)).
