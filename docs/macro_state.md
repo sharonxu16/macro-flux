@@ -1,25 +1,24 @@
-# Macro State — Last updated: 2026-11-13
+# Macro State — Last updated: 2026-11-14
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Fed hawkish repricing** — Status: Acceleration; Williams and dollar/yen pressure push rates and dollar higher; next trigger US inflation or Fed speaker jumbo-hike endorsement.
-- **Nvidia/AI chip governance shock** — Status: Acceleration; Kress interim CEO, Singapore barred Alice Huang, and chip-curb fears deepen semis tail risk; next trigger board successor or US export-control action.
-- **Hormuz supply risk versus surplus** — Status: Reversal; IEA surplus and second weekly oil decline offset fresh tanker attacks and US radar strike; next trigger routing advisories or actual load disruption.
-- **Taiwan Strait unannounced drills** — Status: New; China stages Pacific drills described as silent intimidation of Taiwan; next trigger official response from US/Taiwan.
+- **Fed hawkish repricing** — Status: Acceleration; October producer prices fastest since 2022 and hike-certainty pricing drive the 10Y yield to `5.17%`; next trigger next US CPI or Fed speaker endorsement of a near-term hike.
+- **Nvidia/AI governance shock** — Status: Acceleration; Bessent-Lutnick split, widened congressional probe, and Beijing rare-earth retaliation risk deepen semis tail risk; next trigger Lutnick testimony, export-control action, or Trump-Xi meeting.
+- **China credit easing watch** — Status: Confirmation; social financing missed and RMB loans contracted, strengthening expectations for additional PBOC easing; next trigger PBOC liquidity operation or LPR setting.
+- **Hormuz surplus vs residual conflict risk** — Status: Confirmation; IEA reports surplus return and weekly crude losses, but Iran-Bahrain flare keeps a geopolitical premium; next trigger routing advisories or actual Hormuz load disruption.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- USD/JPY near `160`, BOJ/MOF action after Katayama warning and confirmed `$500 million` intervention.
-- Nvidia successor clarity or US export-control/entity-list action; Singapore/Malaysia chip enforcement follow-through.
-- Hormuz tanker attack impact on physical loadings; shipping routing advisory; IEA stock-build confirmation.
-- China credit data follow-up and possible PBOC easing after disappointing credit growth.
-- Taiwan drills response from US or Taiwan; further Chinese military activity.
+- Next US CPI and Fed speakers; any disinflation surprise reverses front-end hike pricing.
+- Lutnick testimony, Nvidia board successor clarity, or US export-control/entity-list action.
+- PBOC liquidity/LPR response after October credit disappointment.
+- Hormuz routing advisories or physical load disruption versus IEA surplus confirmation.
+- Trump-Xi and Board of Trade follow-through for trade and chip-policy direction.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will Fed speakers endorse a larger hike or does front-end pricing overshoot?
-- Does Kress/interim leadership stabilize AI semis or deepen China export restrictions?
-- Will IEA surplus dominate oil or will Hormuz attacks disrupt physical loadings?
+- Will the Fed follow through with a hike next month if energy-driven inflation fades?
+- Does Beijing retaliate with rare-earth controls or keep trade talks on track?
+- Will PBOC easing arrive quickly enough to stabilize credit and CNH?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- `USD/JPY` near `160`, intervention threshold ([BBG](https://www.bloomberg.com/news/articles/2026-11-13/japan-s-katayama-warns-of-fx-steps-after-one-sided-rapid-moves), [Reuters](https://news.google.com/rss/articles/CBMipAFBVV95cUxNdXI2eWRwY1h1QWkxeldEbWhGUmdSYzRrQjZveW9TTm5LekpTdEthSzRRZHI1NlhoQjAwXzdjdVFSU0ItZjA3NFFxTUUxQlNWUzBoRHdtVkhtZ09hVUt2SmNyaFVvRkhOa0VERndHN1EweWdGajFEa050UDNqN1dCTllZamxKS0J1R0FHWXJOU0lweWJDMnV2clZBRVI4YVU4MTFBeg)).
-- `Nvidia market value` loss of `$1.6 trillion`, governance shock ([CNBC](https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html)).
-- `Hong Kong 2026 growth forecast` `4.8%`, AI export resilience ([SCMP](https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3374344/hong-kong-raises-growth-forecast-48-ai-driven-exports-power-economy)).
-- `US yen intervention` `$500 million`, MOF/BOJ action signal ([BBG](https://www.bloomberg.com/news/articles/2026-11-13/us-confirms-500-million-spent-on-yen-intervention-with-euros)).
+- `US 10-year Treasury yield` `5.17%` ([CNBC](https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html)) — the rate-backup extreme driving USD strength and Asia FX pressure.
+- `Brent` above `$96/bbl` ([华尔街见闻](https://news.google.com/rss/articles/CBMiU0FVX3lxTE51Y25FYXlLQ1J0a01Pam9sUEhNWTAyenMtVGNfUmUtSVFxTTVPRXdiYzBiQkQ5WG80dFlHenlUdHo4dzVWNzlBUHBGWmpYNF92ZGJR)) — intraday rebound threshold against the IEA surplus narrative.
+- `China October new social financing` `1.14-1.15万亿元` and `RMB loans` `-1000亿元` ([财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SWFJ1T0hWd25wQVBKbXVROW13b2dKLUR3cUJaNTFLUFRkVkxIamxQeFlJSE5WejBtWWNFUVZpX2pDTWdmak5RZjNGVXRaWjA4TEtlSUgyZGk2WTlTSVFmbzFB), [华尔街见闻](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xWWE3d09kUDFEUnIxc3dNRkZwM0hpeFZGMUdPNTlMQmU3QWMyX0tzVGoxZ3JxQTV0UXNXWmNUdnAtMWNpUElLZWV1dlJVU2VrS0VJ)) — weak credit impulse driving PBOC easing expectations.
