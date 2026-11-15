@@ -1,72 +1,78 @@
 ---
 tags:
-  - Macro/Hormuz_Blockade
-  - Macro/APEC_Trade
-  - Macro/Fed_Hawkish
-  - Asset/Brent
-  - Trade/Long_Brent
+  - Macro/Fed_Hike_Repricing
+  - Macro/Iran_De-escalation
+  - Asset/UST
+  - Asset/USD
+  - Trade/Long_USD
 ---
 
 <div align="center">
 
 # 🌊 Macro Flux
 
-<small>Nov 14 8AM to Nov 14 5PM HKT</small>
+<small>Nov 14 5PM to Nov 15 8AM HKT</small>
 
-<small>Good afternoon.</small>
+<small>Good morning.</small>
 
 </div>
 
 ---
 
 > [!abstract] Overview
-> The afternoon session was dominated by a kinetic escalation in the Strait of Hormuz: the United Nations reported that `25` seafarers have been killed in and around the waterway since the US-Israel war on Iran, Iran reported three more vessels hitting mines, and Washington assessed that Tehran is taking the war beyond the Middle East, even as the physical crude market remained brimming with supply. The diplomatic calendar added a second layer as the White House confirmed a first trilateral Trump-Xi-Putin meeting on the APEC sidelines, with the Iran war and nuclear arms on the agenda, while US and Chinese officials held the inaugural Trade Council session on tariffs. In rates, the Federal Reserve’s Jefferson said policy would follow inflation, and the Bank of England’s chief economist said further rate rises were needed, reinforcing the global hawkish repricing. The cross-market thread is a geopolitical risk premium concentrated in energy and Asia FX, partly offset by physically well-supplied crude conditions and by high-level talks that could either defuse or broaden the conflict risk into a trade and security bargain.
+> The dominant macro driver is the Fed: policymakers are now openly floating a larger December rate hike after strong jobs, growth and inflation data, reinforcing front-end rate repricing and keeping the dollar bid. In parallel, the most acute geopolitical tail risk looks to be cooling, with President Trump telling advisers he may hold off on Iran attacks barring new provocations, which strips near-term premium from crude and risk-off Asia FX trades. The AI governance overhang is not resolved, however, as administration figures clash over Nvidia China curbs and a new report details a loophole giving China access to US chips, keeping semiconductor volatility elevated into APEC. The Bank of England is building another rate-hike case after UK inflation neared a one-year high, extending the global hawkish tilt. The cross-market thread remains dollar-supportive policy divergence: hawkish core central banks plus cooling but unresolved geopolitical tail risks.
 
 ---
 
 ## 🔬 Narrative Watch
 
-### 📌 Hormuz escalation turns kinetic while crude remains physically plentiful
+### 📌 Fed floats bigger December hike after strong US data
 
 **Fact**
-The UN said that `25` seafarers have been killed in and around the Strait of Hormuz since the US-Israel war on Iran, with UN's Khaled Khiari saying the situation "cannot become new normal", as Iran reported **three more vessels hitting mines** ([Al Jazeera](https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february)). **Iran is taking the war beyond the Middle East** ([WSJ](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQX2xKR0JTVzRwLUtDQTVuMFdYYm9NY3Bqek9iakIzdXBSN3VoQ3VibWZtcm5RbFJqaXRmWHhlei0ycUpkZkJmc05pTGdqWmIwTHNxdUMzZXVpVXM2dGxqUHlBTlNfZ3ZTRi0tWm51RHk5NHIzT2k5cDREYTlseDZPZmNGSmMtQmpzNUs2dkI4VmJ5SHF3b19WVTc0T3BCZW1LWll6d3V3YWh2RmRjVVBpeHQwRVN1TW9kUnJtdnZ5MWp6OVBheXo2Yk9TUTV1Umtqd0psS2RBZlFzbXBNWm5fbFgtQVY)). The oil market is brimming with crude despite tanker attacks ([BBG](https://www.bloomberg.com/news/articles/2026-11-14/the-oil-market-is-brimming-with-crude-despite-tanker-attacks)).
+Federal Reserve policymakers have floated the idea of a bigger rate increase in December following strong jobs, growth and inflation data ([FT](https://www.ft.com/content/8c2639dc-e5d5-430d-a641-11776ac26f9c)). US Inflation Report Supports Fed Rate Hike ([BBG](https://www.bloomberg.com/news/articles/2026-11-14/world-economy-latest-us-inflation-report-supports-fed-rate-hike)). Fed’s Collins Calls for Steady, Gradual Path in Interest-Rate Hikes ([BBG](https://www.bloomberg.com/news/articles/2026-11-14/fed-s-collins-says-steady-gradual-rate-hikes-appropriate)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Acceleration, because kinetic attacks on commercial shipping extended beyond the prior Bahrain-centric escalation despite ample crude inventories.
-> * **Transmission / Market Read**: Risk-premium and energy-supply channel; favors **long Brent** and **short Asia FX**, but physical surplus caps the move.
-> * **Watchpoint / Confidence**: Pivot neutral if no further vessel mining and tanker loadings normalize; Confidence: Medium due cross-source confirmation but soft physical pricing.
+> * **Narrative change**: Acceleration versus prior Confirmation; a bigger December hike is now explicitly floated after the inflation print.
+> * **Transmission / Market Read**: Policy and rates channel supports **higher front-end UST yields** and **long USD/Asia FX**.
+> * **Watchpoint / Confidence**: December FOMC pricing shifts on next US CPI and Fed speakers; Confidence: Medium.
 
-### 📌 APEC trilateral adds summit diplomacy to the trade-war channel
+### 📌 Trump signals he may hold off on Iran attacks
 
 **Fact**
-The White House confirmed that the United States, China and Russia will hold trilateral talks on the sidelines of APEC ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3374415/white-house-confirms-us-china-russia-trilateral-apec-sidelines)). Trump, Xi and Putin are to hold their first three-way summit in China, and the White House says Trump plans to discuss the Iran war and nuclear arms at the meeting next week ([Al Jazeera](https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china)). China and the US discussed tariffs in the first meeting of the Trade Council ([BBG](https://www.bloomberg.com/news/articles/2026-11-14/china-the-us-discuss-tariffs-in-first-meeting-of-trade-council)). Southeast Asian leaders are to meet as Trump's visit highlights trade disruption; the ASEAN summit comes as the US president embarks on an Asia trip that will see him meet China's Xi ([Al Jazeera 2](https://www.aljazeera.com/economy/2026/11/14/southeast-asian-leaders-to-meet-as-trump-visit-highlights-trade-disruption)).
+Trump tells advisers he **may hold off on Iran attacks** barring new provocations, sources say ([Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxPR2NiU2RGMHprbUFIMnNuTGJheHdpTzhuZFRCSWVGcl9HZF9raUd2VXQxNHE1WldRVzNaZWx6YnlRZFpueGZlb05DMElhZ3FEOVdLakpQWkNLaGktQWh6THRxT3V0aGVPaXI0dW9LVm9DeTJRekF1enJaamZ5bEd2SFZtSVNtTFd5VEp0WFl6U2VWX3BCRkYzbnB1c25QRnU2M3FBbDJBMHRTVWU5T0hyZG5sWFRPWUFIYVhuT1BMWTBkUVdNbDlF)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: New; first US-China-Russia three-way summit and inaugural Trade Council session widen the diplomacy channel beyond pre-existing bilateral trade talks.
-> * **Transmission / Market Read**: Trade-policy and geopolitical-risk channel; tilts risks toward **two-way oil and Asia FX volatility**, with de-escalation compressing Brent's risk premium.
-> * **Watchpoint / Confidence**: Joint APEC readout on Iran, tariffs, or nuclear arms; any ceasefire language pivots positioning. Confidence: High given official White House and SCMP confirmations.
+> * **Narrative change**: Reversal versus prior Hormuz kinetic acceleration; official signaling now tilts toward restraint.
+> * **Transmission / Market Read**: Risk-premium channel favors **unwinding long Brent** and easing USD/Asia FX risk-off bid.
+> * **Watchpoint / Confidence**: Formal White House or APEC confirmation of restraint; Confidence: Medium.
 
-### 📌 Global hawkish signals reinforce higher-for-longer rates
+### 📌 Nvidia turmoil deepens with China chip loophole and admin clash
 
 **Fact**
-Fed's Jefferson said he is taking his policy cues from inflation and that inflation will determine rate decisions ([BBG](https://www.bloomberg.com/news/articles/2026-11-14/fed-s-jefferson-says-inflation-will-determine-rate-decisions), [Reuters](https://news.google.com/rss/articles/CBMipgFBVV95cUxQZW1TY0lTUklmN2JmVC0zMm5qMUdfOUFjWk43S1NTS1RpcGx1Ni0tWkJCX1NXWDg1cHdzazZsQUZlREpWRkl2UER3S2t0TjFON1lXeTNNLXA4SXZYYjFjbXh0SnJzcXFGV2FPZkhoc1dNc1ZhUXNTRjdmX3R2SUR0ZlZwcHlnT2F2ZzdLdnNkQ1I5Sy1tRmVGTS1GTEpUTmRTWVlkYXRR)). Bank of England chief economist Huw Pill called last week's quarter-point increase to `4%` a "significant step" but said there was "further to go" with borrowing costs ([FT](https://www.ft.com/content/806b0158-41c5-4db2-ac33-93621f72297b)).
+Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials ([CNBC](https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html)). Bessent, Lutnick Clash Over Nvidia China Curbs ([BBG](https://www.bloomberg.com/news/videos/2026-11-14/bessent-lutnick-clash-over-nvidia-china-curbs-video)). How the Nvidia scandal lifted the curtain on a loophole that’s giving China access to US chips ([CNN](https://news.google.com/rss/articles/CBMigAFBVV95cUxNUElic3FIZV9PSkhtTmZzSzlnYjdWa1BPWnBrM2s2Z201c2xvMUdMTk8tcUtKRU4zUnl2WnJMSFdJZlBxNzFubVpkbW4zRm5rcWYtNlVRWVNpSXNZOWJNSndtQWRLRzB2bzJUb2I5Ql9vTmZ2b25ObG4ybS1GUFdlVA)). “AI央行”失去掌舵人，华尔街警告：黄仁勋离开将引爆“AI版量化紧缩” ([WSJCN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VVXBRS3ZoNnNkY2haZm0yVDdkMU5YOUUzcUpBTl94RjJpYUItZUpOMVNhejNRMjViaHF2RjR0d2sxZGNfRUdCb0NmQWNiRmx6S0o4)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Confirmation; fresh Fed and BoE commentary extends the morning's hawkish repricing without introducing dissenting data.
-> * **Transmission / Market Read**: Policy and rate channel; favors **short duration** and **long USD** versus Asia FX.
-> * **Watchpoint / Confidence**: Upcoming CPI and additional Fed/BoE speakers confirm or reverse front-end hike pricing; Confidence: High due official statements.
+> * **Narrative change**: Acceleration versus prior Fading; China chip loophole and administration clash revive governance risk.
+> * **Transmission / Market Read**: AI-capex and risk-premium channel favors **semiconductor volatility** and **defensive rotation** near-term.
+> * **Watchpoint / Confidence**: APEC readout or new export-control action on China chips; Confidence: Medium.
 
 ---
 
 ## 🌍 Global Radar
 
+### 🏦 Central Banks
+- **Bank of England** — BOE Faces Pressure to Raise Rates as UK Inflation Nears One-Year High ([BBG](https://www.bloomberg.com/news/articles/2026-11-14/boe-s-case-to-raise-rates-again-may-strengthen-on-uk-price-data)).
+
 ### 🌐 Geopolitics & Policy
-- China’s Market Regulator Warns of Global Asset Repricing Risks ([BBG](https://www.bloomberg.com/news/articles/2026-11-14/china-s-market-regulator-warns-of-global-asset-repricing-risks)).
-- South Korea should not fear China's rise, foreign minister says ([Reuters](https://news.google.com/rss/articles/CBMirgFBVV95cUxQbTFpNU1OeE1XUnRFajBJZDlmTll0dXZQamU1YTlIRnhMdjllNDJDVFJYYTFsaXB6YzNwQVRtRVdsMmNKd1dKbk94Ri14YjBCMFdDSzU1cWVuVTQ2SmpOb293RkhLYmtKWGlId3JJYVR3ODBCa1JrNF9pNFNIZ2ZJYmVKSlhBVXJpUFN1UzZ5SG9HcTFSV0huZnpRajBWWWpBU3daYXM3cmpLS3Vudnc)).
-- Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials ([CNBC](https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html)).
+- China, South Korea vow to deepen ties at Apec summit as Seoul pushes North Korea talks ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3374442/china-south-korea-vow-deepen-ties-apec-summit-seoul-pushes-north-korea-talks)).
+- ASEAN digital economy agreement to make cross-border trade cheaper and easier ([CNA](https://news.google.com/rss/articles/CBMivAFBVV95cUxNUzhzZWRHcXNaeF9DY1c5VkZXaG5wZXN0TklWdjdlVU56S2lFMEFQY1c0UU90ODBpRUY4UnJmU29aT1FCZDViel96ZUhlaFhSVlhnRXFmQkhWZlJvcUhSR1lDeFlLQlB0cWxzVE1PNEtTdl9xTnJwdlVYaDVsN1hmUlJSbnZHakdHaThsMWM3R2xvMC10SVA1Z0ZLYWJ1QVpHRkY5aTNfc3p2SDBUNy1LUlZlNFFER2NxbmxzSA)).
+
+### 🛢️ Commodities
+- China’s steel exports find new routes amid rising trade barriers ([S&P Global](https://news.google.com/rss/articles/CBMizgFBVV95cUxOeEZ0TkRJTElfUWFRN0xrR0tEc2dPWFg4WDNVMVQtTkl6aGxZUDRHTDdIZUxVS1I2dVFxSkJVVVBib29xWjJWbENxMU9CZnh2Nnh0QzFLbVp0c0I4M2dpdmUwMzEtOHdhZVpwOVNDeVN1SDFQZ0VzTTZCWHMtV0hLTmVHTThudHYweG10blhlNnNFWHFWVUV3UzRjUEt0dGFaMXFCZkFpNzQ5TWdhRGoxZEY1cWpMenc1RFlYV01KTW9ONV90OVYxSjZleVpIUQ)).
+- Iraq’s PM has dismissed nine senior security officials over an alleged oil smuggling network worth up to `$30m` monthly ([Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_iraq-pm-targets-militia-stronghold-in-oil-smuggling-141126)).
 
 ### 📈 Equities
-- China’s beaten-down tech stocks could offer AI with a little less drama ([FT](https://www.ft.com/content/1505df5d-14e0-4095-8a88-fd23a165a821)).
+- Goldman Sachs Sees `19%` Return on Asia ex-Japan Stocks in `2027` ([BBG](https://www.bloomberg.com/news/articles/2026-11-14/goldman-sachs-sees-19-return-on-asia-ex-japan-stocks-in-2027)).
 
 ---
 
@@ -79,36 +85,31 @@ No high-impact releases in the next 24 hours.
 ## 📚 Full Reading List
 
 - **BBG**
-  - [China, US Discuss Tariffs in First Meeting of Trade Council](https://www.bloomberg.com/news/articles/2026-11-14/china-the-us-discuss-tariffs-in-first-meeting-of-trade-council)
-  - [The Oil Market Is Brimming With Crude Despite Tanker Attacks](https://www.bloomberg.com/news/articles/2026-11-14/the-oil-market-is-brimming-with-crude-despite-tanker-attacks)
-  - [Fed’s Jefferson Says Inflation Will Determine Rate Decisions](https://www.bloomberg.com/news/articles/2026-11-14/fed-s-jefferson-says-inflation-will-determine-rate-decisions)
-  - [China’s Market Regulator Warns of Global Asset Repricing Risks](https://www.bloomberg.com/news/articles/2026-11-14/china-s-market-regulator-warns-of-global-asset-repricing-risks)
-
+  - [Fed’s Collins Calls for Steady, Gradual Path in Interest-Rate Hikes](https://www.bloomberg.com/news/articles/2026-11-14/fed-s-collins-says-steady-gradual-rate-hikes-appropriate)
+  - [World Economy Latest: US Inflation Report Supports Fed Rate Hike](https://www.bloomberg.com/news/articles/2026-11-14/world-economy-latest-us-inflation-report-supports-fed-rate-hike)
+  - [BOE Faces Pressure to Raise Rates as UK Inflation Nears One-Year High](https://www.bloomberg.com/news/articles/2026-11-14/boe-s-case-to-raise-rates-again-may-strengthen-on-uk-price-data)
+  - [Bessent, Lutnick Clash Over Nvidia China Curbs](https://www.bloomberg.com/news/videos/2026-11-14/bessent-lutnick-clash-over-nvidia-china-curbs-video)
+  - [Goldman Sachs Sees 19% Return on Asia ex-Japan Stocks in 2027](https://www.bloomberg.com/news/articles/2026-11-14/goldman-sachs-sees-19-return-on-asia-ex-japan-stocks-in-2027)
+  - [Watch Trump Heads to China for Talks With Xi and Putin](https://www.bloomberg.com/news/videos/2026-11-14/trump-heads-to-china-for-talks-with-xi-and-putin-video)
+  - [Ukraine Peace Push Turns to NATO and Donbas](https://www.bloomberg.com/news/videos/2026-11-14/ukraine-peace-push-turns-to-nato-and-donbas-video)
 - **Reuters**
-  - [Fed's Jefferson says he is taking his policy cues from inflation](https://news.google.com/rss/articles/CBMipgFBVV95cUxQZW1TY0lTUklmN2JmVC0zMm5qMUdfOUFjWk43S1NTS1RpcGx1Ni0tWkJCX1NXWDg1cHdzazZsQUZlREpWRkl2UER3S2t0TjFON1lXeTNNLXA4SXZYYjFjbXh0SnJzcXFGV2FPZkhoc1dNc1ZhUXNTRjdmX3R2SUR0ZlZwcHlnT2F2ZzdLdnNkQ1I5Sy1tRmVGTS1GTEpUTmRTWVlkYXRR)
-  - [Canada, US make progress on trade deal, Carney says](https://news.google.com/rss/articles/CBMingFBVV95cUxQOFV4SHZzV0VocU4wQzJyTFVCSGRUTlVPVkpkRTJYOVN6cXM2TTQ2SEhOLUQ0bVNZTW1OZ0xQMEpJT2Y5ZzJMZFFzcUlmYVRBQXlmSEdSdlhkTDVoclMwcjlMcFVIYkNTVjBtQ2RfdjdIMTVqWVdrU1FmMHdIZFRNTXRUekVvVkZleXlmSVZvN19pTmRsU3l5WWRvMzdEdw)
-  - [South Korea should not fear China's rise, foreign minister says](https://news.google.com/rss/articles/CBMirgFBVV95cUxQbTFpNU1OeE1XUnRFajBJZDlmTll0dXZQamU1YTlIRnhMdjllNDJDVFJYYTFsaXB6YzNwQVRtRVdsMmNKd1dKbk94Ri14YjBCMFdDSzU1cWVuVTQ2SmpOb293RkhLYmtKWGlId3JJYVR3ODBCa1JrNF9pNFNIZ2ZJYmVKSlhBVXJpUFN1UzZ5SG9HcTFSV0huZnpRajBWWWpBU3daYXM3cmpLS3Vudnc)
-
-- **WSJ**
-  - [Iran Takes the War Beyond the Middle East](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQX2xKR0JTVzRwLUtDQTVuMFdYYm9NY3Bqek9iakIzdXBSN3VoQ3VibWZtcm5RbFJqaXRmWHhlei0ycUpkZkJmc05pTGdqWmIwTHNxdUMzZXVpVXM2dGxqUHlBTlNfZ3ZTRi0tWm51RHk5NHIzT2k5cDREYTlseDZPZmNGSmMtQmpzNUs2dkI4VmJ5SHF3b19WVTc0T3BCZW1LWll6d3V3YWh2RmRjVVBpeHQwRVN1TW9kUnJtdnZ5MWp6OVBheXo2Yk9TUTV1Umtqd0psS2RBZlFzbXBNWm5fbFgtQVY)
-
+  - [Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say](https://news.google.com/rss/articles/CBMixwFBVV95cUxPR2NiU2RGMHprbUFIMnNuTGJheHdpTzhuZFRCSWVGcl9HZF9raUd2VXQxNHE1WldRVzNaZWx6YnlRZFpueGZlb05DMElhZ3FEOVdLakpQWkNLaGktQWh6THRxT3V0aGVPaXI0dW9LVm9DeTJRekF1enJaamZ5bEd2SFZtSVNtTFd5VEp0WFl6U2VWX3BCRkYzbnB1c25QRnU2M3FBbDJBMHRTVWU5T0hyZG5sWFRPWUFIYVhuT1BMWTBkUVdNbDlF)
 - **FT**
-  - [BoE chief economist says further rate rises needed to combat inflation](https://www.ft.com/content/806b0158-41c5-4db2-ac33-93621f72297b)
-  - [China’s beaten-down tech stocks could offer AI with a little less drama](https://www.ft.com/content/1505df5d-14e0-4095-8a88-fd23a165a821)
-
+  - [Hawkward timing](https://www.ft.com/content/8c2639dc-e5d5-430d-a641-11776ac26f9c)
+  - [Chart of the Week: The great market rotation](https://www.ft.com/content/936376d1-4a69-4a3c-8975-3c55e9cb9d42)
 - **CNBC**
   - [Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials](https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html)
-
 - **SCMP**
-  - [White House confirms US-China-Russia trilateral talks on Apec sidelines](https://www.scmp.com/news/china/diplomacy/article/3374415/white-house-confirms-us-china-russia-trilateral-apec-sidelines)
-
+  - [China, South Korea vow to deepen ties at Apec summit as Seoul pushes North Korea talks](https://www.scmp.com/news/china/diplomacy/article/3374442/china-south-korea-vow-deepen-ties-apec-summit-seoul-pushes-north-korea-talks)
+- **CNN**
+  - [How the Nvidia scandal lifted the curtain on a loophole that’s giving China access to US chips](https://news.google.com/rss/articles/CBMigAFBVV95cUxNUElic3FIZV9PSkhtTmZzSzlnYjdWa1BPWnBrM2s2Z201c2xvMUdMTk8tcUtKRU4zUnl2WnJMSFdJZlBxNzFubVpkbW4zRm5rcWYtNlVRWVNpSXNZOWJNSndtQWRLRzB2bzJUb2I5Ql9vTmZ2b25ObG4ybS1GUFdlVA)
 - **Al Jazeera**
-  - [UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran](https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february)
-  - [Trump, Xi and Putin to hold first three-way summit in China](https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china)
-  - [Southeast Asian leaders to meet as Trump visit highlights trade disruption](https://www.aljazeera.com/economy/2026/11/14/southeast-asian-leaders-to-meet-as-trump-visit-highlights-trade-disruption)
-
+  - [Iraq PM targets powerful militia stronghold in $30m oil smuggling probe](https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_iraq-pm-targets-militia-stronghold-in-oil-smuggling-141126)
 - **S&P Global**
-  - [Conab lifts Brazil 2026-27 soybean oil export forecast to 1.8 mil mt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNU1EyLXpsZWdrT2k4cnZPOWgtbm9lSTlMNDlHTDE4RFpQX2FsQVF0SVlWc0RxdF9ZNm5zeU9tYXEyU1pINkloOFowTVhsdGlrU0ZsQTlRai1iWTFGaTI1VFMyRV84cHQxczU3Sm54SXZtMTRsc1hoVUtZUGh0REc4SFRPaXdGTlF4VFlqRGRMSndlaWZwT01Mb3RsUHo2TWZRR2R5azE3T2YzMzRtVld0QlVCWmo4bkd6Ykl3X195VXpjR0FZRXkzTDlaODBuUXZOS0RVQU1FVzV0N1J5dWdpQg)
-
+  - [China’s steel exports find new routes amid rising trade barriers](https://news.google.com/rss/articles/CBMizgFBVV95cUxOeEZ0TkRJTElfUWFRN0xrR0tEc2dPWFg4WDNVMVQtTkl6aGxZUDRHTDdIZUxVS1I2dVFxSkJVVVBib29xWjJWbENxMU9CZnh2Nnh0QzFLbVp0c0I4M2dpdmUwMzEtOHdhZVpwOVNDeVN1SDFQZ0VzTTZCWHMtV0hLTmVHTThudHYweG10blhlNnNFWHFWVUV3UzRjUEt0dGFaMXFCZkFpNzQ5TWdhRGoxZEY1cWpMenc1RFlYV01KTW9ONV90OVYxSjZleVpIUQ)
 - **WSJCN**
-  - [高盛全球股市展望：明年AI资本开支见顶，盈利增长“大减速”，云巨头成“防御性资产”](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGNGUxUkNiUDRpU3VzNW9VRDhzUVJJMWNPN05fdm1OcXNpazkzdVpzQ0RPVzdzc19PanlNUW9yUW1oSmUzV2Z4aWY3aXNFaUVWUmxR)
+  - [“AI央行”失去掌舵人，华尔街警告：黄仁勋离开将引爆“AI版量化紧缩”！](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VVXBRS3ZoNnNkY2haZm0yVDdkMU5YOUUzcUpBTl94RjJpYUItZUpOMVNhejNRMjViaHF2RjR0d2sxZGNfRUdCb0NmQWNiRmx6S0o4)
+- **CNA**
+  - [ASEAN digital economy agreement to make cross-border trade cheaper and easier](https://news.google.com/rss/articles/CBMivAFBVV95cUxNUzhzZWRHcXNaeF9DY1c5VkZXaG5wZXN0TklWdjdlVU56S2lFMEFQY1c0UU90ODBpRUY4UnJmU29aT1FCZDViel96ZUhlaFhSVlhnRXFmQkhWZlJvcUhSR1lDeFlLQlB0cWxzVE1PNEtTdl9xTnJwdlVYaDVsN1hmUlJSbnZHakdHaThsMWM3R2xvMC10SVA1Z0ZLYWJ1QVpHRkY5aTNfc3p2SDBUNy1LUlZlNFFER2NxbmxzSA)
+
+---
