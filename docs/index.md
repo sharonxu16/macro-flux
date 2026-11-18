@@ -1,9 +1,9 @@
 ---
 tags:
-  - Macro/Fed_Hawkish
-  - Macro/AI_Chip_Curbs
   - Macro/Hormuz_Blockade
+  - Macro/China_Chip_Curbs
   - Asset/Brent
+  - Asset/Copper
   - Trade/Long_USD
 ---
 
@@ -11,85 +11,78 @@ tags:
 
 # 🌊 Macro Flux
 
-<small>Nov 17 5PM to Nov 18 8AM HKT</small>
+<small>Nov 18 8AM to Nov 18 5PM HKT</small>
 
-<small>Good morning.</small>
+<small>Good afternoon.</small>
 
 </div>
 
 ---
 
 > [!abstract] Overview
-> Post-close Nvidia guidance beat offers tentative relief to the AI complex, but Washington's expanding chip-control push and Fed officials signaling multiple spring rate hikes keep risk assets on edge. Hawkish Fed commentary preserves the medium-term dollar repricing, even as a slower retail-sales session saw yields and the dollar slip, with gold pinned near a 14-month low. A gas tanker abandoned off Oman keeps crude risk premium alive while Iraq resumed pipeline exports to Turkey, partially offsetting that supply fear. The dollar and rates pulse remains the dominant overlay for Asia FX and carry, even as APEC diplomacy including Xi-Carney tariff relief and the coming Trump-Xi meeting tempers China-specific anxiety.
+> Middle East escalation turned institutional on Wednesday as Iran struck Kuwait and Bahrain and the US hit Qeshm Island, yet crude slipped on higher US inventories and surplus expectations, capping the classic oil risk bid. Copper slid to a seven-month low and gold broke below `$3,800` for the first time since last September, reinforcing the stronger-dollar, higher-real-rate repricing as the dollar held near a `19-month high`. Asia equities were mixed: Nvidia optimism lifted Japanese chip names, but new Nvidia legal warnings on China AI access kept the AI complex fragile. Bank of Japan Governor Ueda repeated that the bank should keep raising rates, while sterling and gilts sold off after UK inflation hit a one-year high of `3.6%`. The dominant thread is a hawkish global rates and strong-dollar regime that is crushing commodities and gold even where geopolitical escalation is broadening.
 
 ---
 
 ## 🔬 Narrative Watch
 
-### 📌 Fed hike path hardens: Williams pushes back on outsized move, Musalem wants several by spring
+### 📌 US strikes Qeshm Island, Iran attacks Kuwait and Bahrain, but oil slips on surplus
 
 **Fact**
-Federal Reserve Bank of New York President John Williams said the central bank still has work to do to bring inflation back to its `2%` goal, but dismissed the suggestion the Fed needs to consider an outsized rate hike ([BBG](https://www.bloomberg.com/news/articles/2026-11-17/fed-s-williams-says-no-need-for-dramatic-rate-move)). Federal Reserve Bank of St. Louis President Alberto Musalem said `several` rate hikes likely needed by spring to control inflation ([BBG](https://www.bloomberg.com/news/articles/2026-11-17/fed-s-musalem-says-several-rate-hikes-likely-needed-by-spring), [Reuters](https://news.google.com/rss/articles/CBMivAFBVV95cUxNSmh3bk9iaG5YQ2V2dzZUMkQ1aGQ2LWNfdHFCWkVaOUtyWFdHS3lFTzZJTDhsQnItcnN4N2NibjRLNXZIbHVvSllBY0Jyc201azJtbUNnWkRndWlPN05sZUVaWkJBZFlTTGJzYWFFLWRqN2R6X25jRllRT1hHekZ2aFRweE5rbHM3Z3p1SHoxR2UwR1VnMWVnbWZ3ZmRHSTkyR2lhU3p1NzNFZFBjMEtRQ25iZnpwVEhBZTd3bw)). Gold steadied near a `14-month low` as rate-hike pressure mounts ([BBG](https://www.bloomberg.com/news/articles/2026-11-17/gold-steadies-near-14-month-low-as-rate-hike-pressure-mounts)). Treasury yields moderate as investors parse retail sales data ([CNBC](https://www.cnbc.com/2026/11/17/treasury-yields-bonds-inflation.html)); gold futures inch higher as U.S. yields and the dollar slip ([WSJ](https://news.google.com/rss/articles/CBMipwFBVV95cUxNMnNBOFU3ZHNFaGpWZmlVaFZLLVF4bXhKdS1SZEM2ZmJLc1lEd19vbExNQVRoUHpiTm9MZDNNVVNBVmR6akRfQ3o3Q3VqWkxIbkVUOXdYZU5qd0xUQWp4YmhRYTFpdWR2SUh5dENOUzZhWTlvOExlZ01uc25hSlN2U0xldlJWcDNXQUk2WHBJeGV4U3ZBMWdHWU1QT3c3S3A3OGJRTmFqaw)).
+Bahrain and Kuwait said Wednesday that they had repelled air attacks launched against them following US strikes on an Iranian island, as Gulf nations face retaliatory bombardment in the Middle East war ([SCMP](https://www.scmp.com/news/world/middle-east/article/3374869/bahrain-and-kuwait-repel-drone-attacks-after-us-strikes-iranian-island)). Iran said its army targeted U.S. drone and missile installations at Kuwait's Ali Al Salem air base, extending a run of attacks on Gulf states ([CNBC](https://www.cnbc.com/2026/11/18/trump-iran-war-hormuz-oil-.html)). US strikes Iran’s Qeshm Island as Bahrain and Kuwait face fresh drone attacks ([BBG](https://www.bloomberg.com/news/videos/2026-11-18/horizons-middle-east-africa-11-18-2026-video)). Oil edges lower as supply surplus prospects offset Mideast tensions ([WSJ](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQemRoREFaQUhBSEg0TDV3UnZLU1BuY3hBdEFPY0FJY2ZWcWN0bjVST1FRdXZDWWFDWUxLVGNiVS1ySU96WGRyaW1EVjZGeUNRSVF0VXlCV2VkOXhJU0lzd0d0Sk93d0FiNVlmb1BNaE9ROUZmVkVHLTVCZ3p3ejQtd1U0dUNzNm5fUmlid19RVXQ3TUhac3N1LTVPa2tPT24zUTVGUDB0ZU9TOEhoWlVfLWo1WmtQX0J1eDU0Z2pTcnc5Zw)). Oil prices fall as higher US crude stocks temper supply risks ([Reuters](https://news.google.com/rss/articles/CBMirwFBVV95cUxQbmp3REJQam1xdjkyMkpCN1JlSkotTnJNM0JEWDVFNmJqZ2FHbmNIN2E0V2twa2N3djBLTXlNNVJvcDJmZVNXMlBlQnk2VG1FTThnX0hQbVRqS2dKbVVBdXl6MWR5ZHo0S2VneWt2bUdwVjE4TnNxaHFLN0hHNU9IUVljVnNXLWJTeHdORFFJX3BfQXhPTThEbGFYQXhYaGNneHRHcVRGS2NyOFhxTzVN)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Confirmation of hawkish Fed repricing from prior state, with Williams adding measured-pace nuance and Musalem reinforcing multiple-hike risk.
-> * **Transmission / Market Read**: Policy channel favors **long USD/Asia FX**, **short gold**, and front-end UST under pressure, though retail-sales softness pauses the move.
-> * **Watchpoint / Confidence**: More Fed speakers and Thursday data confirming or softening spring-hike pricing; Confidence: Medium.
+> * **Narrative change**: Acceleration from overnight tanker strike to direct attacks on US-host Gulf states and a US strike on Qeshm.
+> * **Transmission / Market Read**: Risk-premium and energy-supply channel supports **energy volatility** but surplus and higher US crude stocks cap **crude**; favors **long USD** on safety demand.
+> * **Watchpoint / Confidence**: Pivot to broader risk-off if Strait of Hormuz shipping or Gulf oil infrastructure is hit; Confidence: Medium.
 
-### 📌 Nvidia beat provides AI relief, but China chip curbs harden
+### 📌 Nvidia warns on China AI legal risk as Singapore revenue hits `$104bn`
 
 **Fact**
-US equity-index futures rose after Nvidia Corp. sales forecast topped Wall Street estimates, easing concerns about the artificial intelligence trade after a recent bout of weakness ([BBG](https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates)). Former Nvidia CEO Jensen Huang has agreed to testify before the US Congress amid scrutiny over national security risks following revelations that he had an extramarital affair with a businesswoman suspected of working for Chinese intelligence; on `December 1`, Huang will voluntarily appear for transcribed interviews before the Select Committee on China ([SCMP](https://www.scmp.com/news/us/economy-trade-business/article/3374798/jensen-huang-agrees-face-congress-over-nvidia-scandal)). Congress members are pushing for a series of chip-related export control bills to be included in the annual National Defense Authorization Act ([CNBC](https://www.cnbc.com/2026/11/17/congress-ai-china-jensen-huang-chips.html)). China says it will take countermeasures if US imposes new chip curbs ([Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxPRkNIbV91blZPQVFuSThXdzJHVkwtYUhEcHJ0eDBiM0xFWUYwZGRIUkctZm04MmZJZVFWanpabG1ad0NqeWRuNkhobERZLVdaeUJqbHRmd1RTWnRLdEQtSmlCVW9aTDRLSXZEbExDOHQtQngzVURZUnN1dzlndml3RDNpWThXSU9iR0U1cXZjUFRkQ1lGLThmdVpRTG5FLVlkZFVjM2RxUS1MazNDUV92YnVkQURkdTg)). China bank rally gains momentum as global AI trade unravels ([BBG](https://www.bloomberg.com/news/articles/2026-11-17/china-bank-rally-gains-momentum-as-global-ai-trade-unravels)). Baidu and Xiaomi CEOs warned of a growing gap between AI hype and returns, urging the industry to focus on building practical applications ([SCMP](https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns)).
+The U.S. Commerce Department is making moves to tighten export controls ([CNBC](https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html)). Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC ([CNBC](https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html)). The chipmaker booked `$104bn` of revenue through its subsidiary in the city-state last year ([FT](https://www.ft.com/content/fd1e1939-8a5c-47ac-bb38-47d147f8bc7a)). Asian equities were mixed as investors parse Nvidia’s quarterly results and guidance ([WSJ](https://news.google.com/rss/articles/CBMiowFBVV95cUxQTUlkaFB0Z3RKN245bXlDcG5YY0NRTURYQU5LWUcxeFhWdk9QUWJhWEdLY3NtbFV0VlNUWW92S2YzSzVjaGwzdUZxMVE5WmxYQ2JQWE9wa0Z6UlZ6dXJmTVFHLUZjTWVZaEIwLWVjbk1VUVh1UzRQZlNiS3ZoRndPZDlyQmVhYW5JYUtCbkF0bTBrS1hkY1pLNTNDSGg5UnNRSHM0)). Asia stocks cling to gains after Nvidia earnings as Anthropic pricing looms ([Reuters](https://news.google.com/rss/articles/CBMie0FVX3lxTFB6allzaTc1SU8zUmVIeXRZRkU2dE9reVo1MXBLSllnX0lsb1FmemdwR2RnNzZvQ0tqSzR6cTgzVHI2bGlYWWxxLTJWY3V4OXBrczR5OXF5ZkdNQnBfak1tYUs1NlVOQVVSLTdacXdnaEt0Y2VHVmM4NEN2WQ)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Confirmation of AI-trade stress, but Nvidia beat is a potential intraday reversal catalyst while China-facing chip restrictions accelerate.
-> * **Transmission / Market Read**: Risk-premium channel supports **long US semis/tech** on the beat, but tighter curbs support **long China banks** over AI names and cap **KRW/TWD strength**.
-> * **Watchpoint / Confidence**: Asia tech opens and Nvidia after-hours gains holding; China export-control details. Confidence: Medium.
+> * **Narrative change**: Acceleration because legal risk warning extends China chip curbs to buyer compliance and Singapore revenue intensity.
+> * **Transmission / Market Read**: Capital-flow and risk-premium channel favors **short Asia semis**; fresh China legal risk offsets Nvidia earnings relief for **KRW/TWD**.
+> * **Watchpoint / Confidence**: Xi-Trump readout and US Commerce Department enforcement specifics in next 24-72h; Confidence: Medium.
 
-### 📌 Hormuz shipping risk: tanker abandoned off Oman, oil firms
+### 📌 BOJ Ueda repeats rate hike bias, AI hedging puts yen on intervention watch
 
 **Fact**
-Crew abandons gas tanker off Oman after being hit by projectile, sources say ([Reuters](https://news.google.com/rss/articles/CBMiygFBVV95cUxNU0ZTTkw2LWNabWNsdzBOM1FzRF9nWk45NHcybXI1RHk2RF8wZDRDeDRiNE9uT202T2RWRHRqd1AzcFg5LWtlY3M2dlo4eTIzZHRVaUZKX21FUE5tcVNzR2VnT3RWRHdXbmU4QXlRUmZzWFZIZVZ0M2hXeFR6RE1QM1U0OWlDMi1SLUQ2V2tBVDFlU3lxM2lpeXRNa21CNjFMQTlOZV9MekM0WWUtREZHWmZ4TGJUa2dhNUxObDBIcTRRSGgwSUg0MXVB)). Oil futures rose as Middle East shipping risks persist ([WSJ](https://news.google.com/rss/articles/CBMitwFBVV95cUxNcGtrNWkxVGpxdjJGWnVJbzFDQXlabGJVV2I5bFhMYmJFOXAtQjR4cERNMnZabG90ZUo3cm80Zm0xdUpYallfU1kyV2FaMVFwUG5UUWR3UWNFMXU0RDJPcndiS0RuejcxWkJDU1kxbnQ2NnJPWXNBNGtGelpVd0FsbVF0emUyTVdpaEVFYlFnNmZSVTlhRUo5bzhYTkRicFpoa0loRGw0OUJQM215T0lkZUpUNDhFSHM)). Oil steadied as traders assessed renewed fighting in the Middle East against signs of recovering supplies and higher US inventories ([BBG](https://www.bloomberg.com/news/articles/2026-11-17/latest-oil-market-news-and-analysis-for-nov-18)). Iraq resumed crude oil pumping for export purposes via pipeline to Turkey, oil minister says ([Reuters](https://news.google.com/rss/articles/CBMiywFBVV95cUxNOEZmQVphZVUyV05SUmZOazhJeVRrUGZneGhyX2xTT0g5SkM0eEQwS2ZjVE1YUjQyR1l4WDAxMURzV19QeUk5dFRVU0R3eVF0TjZRZTlJUDk4TGVXMHJmOWVUVEJjX1k3UnF0b0hzemRLZGtQaFRCTXJoNFA3bVZVZjhPZndwYzRxQlpvcDVFRDZ5ZWhRX21FN2FWQzVSckZoYl8xWWJ6anVsd092eFRZVno5ZWJvVmJKRmJ4THJXREt0ZEF6WlFYQjFVTQ)).
+Bank of Japan governor says central bank should keep raising rates ([Reuters](https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXVIT0VoOTAtWnNpWjBvTlRGS0o1aEp1RklzQjZLTVFOb1pha3FPSUJJaFJrMjIzQzZ5WGtOUG5OUl9VM2paLTZ3aEY4d3ZLMFN5NUdkSU5aT09EOWs1MFp1eUVSbzh6VVkyaEFuTWo0cS1Tb1RGVlJKdWdoSXlsbkZJRFJnT2tDMHNINXhGSDlDVzZnWTVkV2pYWGcwZnhjMEk1RHZQSWlsQkJCNW5KbGJR)). AI might be a reason why the yen is back on intervention watch ([FT](https://www.ft.com/content/f5e91cd6-ee54-49ad-83d4-4dec29cb13a7)). Surge in buying of Japanese stocks creates a demand for currency hedging ([FT](https://www.ft.com/content/f5e91cd6-ee54-49ad-83d4-4dec29cb13a7)). Nikkei rises `1.0%`, led by chip, AI stocks ([WSJ](https://news.google.com/rss/articles/CBMiigFBVV95cUxOMldXbGg0UF9xaEtzeVRMMEltSExuOWxmT2tkQmptWlRuRFJMbUNvM0pNY1dmcE9ZT21ESUFUTWpvN3I3V2tBZkNmZ0VJc1ROd3RGZC1TSEc2Tlkydk82MTJnRU9PYVZoS1R5WUlyV0xGVDJBd2hXQ1dYVFRINXNYSUtTRzRVQllmTEE)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Acceleration of Hormuz chokepoint escalation versus prior state, with a fresh projectile hit and crew abandonment.
-> * **Transmission / Market Read**: Physical risk-premium channel favors **long Brent** and **long USD/Asia FX** on risk-off, while Iraqi pipeline resumption caps upside.
-> * **Watchpoint / Confidence**: Additional tanker strikes, rerouting advisories, or war-risk insurance spikes. Confidence: Medium.
-
-### 📌 APEC diplomacy: Xi-Carney tariff relief, Trump heads to Shenzhen
-
-**Fact**
-China offers tariff cuts on Canadian pork and seafood, as Canada extends exemptions for Chinese steel and aluminium ([Al Jazeera](https://www.aljazeera.com/economy/2026/11/17/china-canada-expand-tariff-relief-after-carney-xi-meeting)). Vladimir Putin arrived in Shenzhen Wednesday ahead of his meeting with Presidents Xi Jinping and Donald Trump during the annual APEC assembly on Thursday ([BBG](https://www.bloomberg.com/news/videos/2026-11-17/putin-arrives-in-china-for-trump-xi-meeting-video)). Barely hours after arriving in Manila on Tuesday, US President Donald Trump was already looking ahead to his meeting with Chinese President Xi Jinping in Shenzhen; "We have some very important things to discuss," he said ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3374795/trump-eyes-china-after-brief-manila-stop-seeking-chemistry-xi-amid-fresh-ai-strains)). US President Donald Trump's claim on Tuesday that Washington would catch up to China on rare earth supplies `within 10 months` is `unrealistic` and `diplomatic bluster`, given Beijing's decades-long dominance in supply chains, experts say ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3374808/trump-claims-us-will-have-enough-rare-earths-10-months-experts-call-it-unrealistic)).
-
-> [!info] [AI Reasoning]
-> * **Narrative change**: Confirmation of China-Canada thaw, with APEC Trump-Xi-Putin meeting now the dominant trade-policy catalyst.
-> * **Transmission / Market Read**: Trade-sentiment channel favors **CNH stability** and China-linked risk assets, but rare-earth friction keeps Xi-Trump upside limited.
-> * **Watchpoint / Confidence**: Xi-Trump readout Thursday and tariff-line details; Confidence: High on diplomatic facts, Medium on market follow-through.
+> * **Narrative change**: Confirmation of BOJ hawkish stance and a new yen pressure source from AI-linked equity hedging.
+> * **Transmission / Market Read**: Policy and capital-flow channel supports **long yen volatility**; AI/chip equity demand supports **long Nikkei** while intervention watch limits USD/JPY upside.
+> * **Watchpoint / Confidence**: BOJ December meeting communication and any yen intervention; Confidence: Medium.
 
 ---
 
 ## 🌍 Global Radar
 
 ### 📊 Economic Indicators
-- German Investor Outlook Jumps to Highest Since Iran War Began ([BBG](https://www.bloomberg.com/news/articles/2026-11-17/german-investor-outlook-jumps-to-highest-since-iran-war-began)).
-- Germany Corrects October Inflation Data, Showing Stronger Pace ([BBG](https://www.bloomberg.com/news/articles/2026-11-17/germany-corrects-october-inflation-data-showing-stronger-pace)).
-- Japan's Trade Gap Narrows Even as Energy Imports Stay Elevated ([BBG](https://www.bloomberg.com/news/articles/2026-11-17/japan-s-trade-gap-narrows-even-as-energy-imports-stay-elevated)).
-- Hong Kong's unemployment rate dipped to `3.8%` in the three months from August to October ([SCMP](https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3374748/hong-kongs-unemployment-rate-dips-38-amid-steady-growth)).
+- UK inflation rose to one-year high of `3.6%` in October, underscoring pressure on Bank of England to raise interest rates further ([FT](https://www.ft.com/content/829844ba-849f-4d9c-a667-d65d2786ad2c)).
+- Dollar holds near `19-month high` as data supports case for US rate hikes ([Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxOU3BnNkxnajFsX0xFNklvRnJ0OHJtQVR0Zk56aGhVN19YY0Z5aFRjMnVTb1pIakt6cHNXajVNalNrUmVUWWpZWjk1Ukh6T0RhY2ZTX2dLRTdpWTNlVU1vY1hGUl84SlIwcUNQcW51NzlzZDFoNHNiT3hiSHpfSl9ENUhtWWExWWxkT2ZYUUJ4WHdWWjVSOVpkQzZycmpaOXhnbm96Q0RWMmJLYnlkTDFJRFVWbGhqWXkydEE)).
+- South Korea’s household loan growth slowed to its weakest pace in more than a year in the third quarter ([BBG](https://www.bloomberg.com/news/articles/2026-11-18/south-korea-s-household-loan-growth-slows-to-lowest-since-2025)).
 
 ### 🏦 Central Banks
-- **ECB** — European Leaders Near Deal to Pick Spanish Economist as Next ECB President ([WSJ](https://news.google.com/rss/articles/CBMitwFBVV95cUxOTnRmY2xlT3llVlRPWm5PNXFJQ25YVFY0OHp5NkJCbE1obGx1TkRjZzNET19NNTJLQVltSTB3c0lVbjdmaGxfTHMyeC02b3ZJRkpDV3VwQTJZc0RWdVNmRFdzcWJ6TUV2ZzRzWGtzcEY3SmlEM3NpUmNxNkVqYnNNUmtHM0h5M2ttN2YwTU9odWFMMjJJLXZnSk5HOE15MTAwd3RNNl8xdWg1RExNcUwwdnJxaDFpWXM)).
-- **Bank Indonesia** — Indonesia Rate Decision Seen as Close Call on Weak Rupiah, Growth Concerns ([BBG](https://www.bloomberg.com/news/articles/2026-11-18/indonesia-rate-decision-seen-as-close-call-on-weak-rupiah-growth-concerns)).
+- **Bank Indonesia** - Indonesia hikes key rate after rupiah slide, surprising most economists ([BBG](https://www.bloomberg.com/news/articles/2026-11-18/indonesia-hikes-key-rate-after-rupiah-slide-surprising-most-economists)).
 
 ### 🌐 Geopolitics & Policy
-- Taiwan tracked 2 Russian warplanes off its eastern coast ahead of the Apec summit ([SCMP](https://www.scmp.com/news/china/politics/article/3374750/taiwan-tracks-2-russian-warplanes-eastern-coast-ahead-apec-summit)).
-- US Navy chief urges US lawmakers to strengthen shipbuilding capacity to close gap on China ([SCMP](https://www.scmp.com/news/us/diplomacy/article/3374804/us-navy-chief-urges-us-lawmakers-strengthen-shipbuilding-capacity-close-gap-china)).
-- Japan has said that Southeast Asian nations will be able to access its crude oil storage facilities as part of efforts to prepare the region for a future energy crisis ([SCMP](https://www.scmp.com/news/asia/east-asia/article/3374776/japan-offers-asean-access-crude-oil-storage-counter-energy-crises)).
-- The UK has imposed new sanctions on eight Israeli companies supporting illegal settlements in the occupied West Bank ([Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126)).
-- Trump says US trade deal with Thailand to be signed soon ([Reuters](https://news.google.com/rss/articles/CBMimwFBVV95cUxQS2JoS2o5YWoxOGRTbWh0V3FpMTlLclVBaEtDbkp6dVVPVVlqb2pRZjlYMFo5eXVWTDFYbjZTY19uXzJpMDlVWXJmQnRBOEtGWldMcDVzWHl3MGpFTTl3TXI5SDU4MC1lNzdjME1NeFd6Mnd4c05OcnFCNUNqa2xENGVUMjhmTkdfOTJWcGhvVzQtdXpwNmIyc3U1Yw)).
+- Trump arrives in China ahead of summit with Putin and Xi; historic trilateral meeting caps week of high-profile diplomacy in Asia ([FT](https://www.ft.com/content/ae7d1b27-b892-48d6-ad47-41128a4b53a1)).
+- Xi, Putin blast Western 'protectionism', sanctions as Trump lands in China ([Reuters](https://news.google.com/rss/articles/CBMijgFBVV95cUxPb21UOHp4X2E2V05LRUhhUjhnSzI5b1NmNDRVQWhCb2RTV3gwQng0N3lKQ2lnV3JrbjB2cTBpSkNObTdwbXowR2d0UEt5NFp5blJtallNRjdFSjNoVDdxNkNXWFI4bmpETEV5TUs2OE16WW1lLTR0NkZCbEdXZF9OVDVycUFYV2p2aklNS3dR)).
+- Trump says US wraps up 'very big trade deal' with Philippines ([Reuters](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMS04Tjk4eFJwZ1AwNmo5OFQ1NTlrSWEyMURicHFEVlM1SlJlWURicU5Hc3lRR3ZfOGNNWGNqRjFqWlp5eFRIQVhHSVdiX2RWUHptTEI2aWsyRzN1bHZvbTFxQUZqdnZ0VXQ5ZkprSWVkN1N5aTM0d21SQkc2U3BxQUN6UzVOcUk5RmtLaVR4QUxucWFmS1ZlQlFEMVVTYld4c3Nfbkc1MkdOdE1iUnpOVmN4OUt2a0RMUjA0)).
+- Xi Jinping urges South Korea to cooperate with China on AI and supply chains ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3374885/xi-jinping-urges-south-korea-cooperate-china-ai-and-supply-chains)).
+
+### 🛢️ Commodities
+- Gold slips to over one-year low on firm dollar, US rate outlook ([Reuters](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVlk2MG4xbDV2emVoNk9vRVhTcTlRbkZLMDgwMjBMTEdVeXFDV21zX0NVdmF0YzQzRDZ4TkowaDJQQlZlTDBsbm9BWHFXNXpYZzVVejAtTGRZTTFHRjV4dllJV0ZxVzVvbVJCN1lxdk50NXVaNkRxTGJQbDYyZjhNNElTUElOWVU0eW0ySnBRMndSU1ZrTGE4ZlNMdDk0UXVmUjZLSEVfQlc)).
+
+### 📈 Equities
+- Optimism about Europe just hit a nine-month high: taking stock ([BBG](https://www.bloomberg.com/news/articles/2026-11-18/optimism-about-europe-just-hit-a-nine-month-high-taking-stock)).
 
 ---
 
-## 📅 Economic Calendar — Next 24 Hours
+## 📅 Economic Calendar - Next 24 Hours
 
 No high-impact releases in the next 24 hours.
 
@@ -98,45 +91,39 @@ No high-impact releases in the next 24 hours.
 ## 📚 Full Reading List
 
 - **BBG**
-  - [Fed's Williams Says No Need for Dramatic Rate Move](https://www.bloomberg.com/news/articles/2026-11-17/fed-s-williams-says-no-need-for-dramatic-rate-move)
-  - [Fed's Musalem Says 'Several' Rate Hikes Likely Needed by Spring](https://www.bloomberg.com/news/articles/2026-11-17/fed-s-musalem-says-several-rate-hikes-likely-needed-by-spring)
-  - [Gold Steadies Near 14-Month Low as Rate-Hike Pressure Mounts](https://www.bloomberg.com/news/articles/2026-11-17/gold-steadies-near-14-month-low-as-rate-hike-pressure-mounts)
-  - [Nasdaq, S&P 500 Futures Rise After Nvidia Earnings: Markets Wrap](https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates)
-  - [China Bank Rally Gains Momentum as Global AI Trade Unravels](https://www.bloomberg.com/news/articles/2026-11-17/china-bank-rally-gains-momentum-as-global-ai-trade-unravels)
-  - [Latest Oil Market News and Analysis for Nov. 18](https://www.bloomberg.com/news/articles/2026-11-17/latest-oil-market-news-and-analysis-for-nov-18)
-  - [Putin Arrives in China for Trump, Xi Meeting](https://www.bloomberg.com/news/videos/2026-11-17/putin-arrives-in-china-for-trump-xi-meeting-video)
-  - [German Investor Outlook Jumps to Highest Since Iran War Began](https://www.bloomberg.com/news/articles/2026-11-17/german-investor-outlook-jumps-to-highest-since-iran-war-began)
-  - [Germany Corrects October Inflation Data, Showing Stronger Pace](https://www.bloomberg.com/news/articles/2026-11-17/germany-corrects-october-inflation-data-showing-stronger-pace)
-  - [Japan's Trade Gap Narrows Even as Energy Imports Stay Elevated](https://www.bloomberg.com/news/articles/2026-11-17/japan-s-trade-gap-narrows-even-as-energy-imports-stay-elevated)
-  - [Indonesia Rate Decision Seen as Close Call on Weak Rupiah, Growth Concerns](https://www.bloomberg.com/news/articles/2026-11-18/indonesia-rate-decision-seen-as-close-call-on-weak-rupiah-growth-concerns)
+  - [US Strikes Iran’s Qeshm Island as Bahrain and Kuwait Face Fresh Drone Attacks](https://www.bloomberg.com/news/videos/2026-11-18/horizons-middle-east-africa-11-18-2026-video)
+  - [Copper Slumps to Seven-Month Low as Doubts Over Demand Grow](https://www.bloomberg.com/news/articles/2026-11-18/copper-prices-industrial-metal-dollar-lme)
+  - [South Korea’s Household Loan Growth Slows to Lowest Since 2025](https://www.bloomberg.com/news/articles/2026-11-18/south-korea-s-household-loan-growth-slows-to-lowest-since-2025)
+  - [Australia’s Wage Gains Quicken, Reinforcing Inflation Challenge](https://www.bloomberg.com/news/articles/2026-11-18/australia-s-wage-gains-quicken-reinforcing-inflation-challenge)
+  - [Indonesia Hikes Key Rate After Rupiah Slide, Surprising Most Economists](https://www.bloomberg.com/news/articles/2026-11-18/indonesia-hikes-key-rate-after-rupiah-slide-surprising-most-economists)
+  - [Iceland Holds Key Rate at 8%, Signals No Rush to Start Cuts](https://www.bloomberg.com/news/articles/2026-11-18/iceland-holds-key-rate-at-8-signals-no-rush-to-start-easing)
+  - [Optimism About Europe Just Hit a Nine-Month High: Taking Stock](https://www.bloomberg.com/news/articles/2026-11-18/optimism-about-europe-just-hit-a-nine-month-high-taking-stock)
 
 - **Reuters**
-  - [Fed's Musalem: US likely needs several rate hikes by spring to control inflation](https://news.google.com/rss/articles/CBMivAFBVV95cUxNSmh3bk9iaG5YQ2V2dzZUMkQ1aGQ2LWNfdHFCWkVaOUtyWFdHS3lFTzZJTDhsQnItcnN4N2NibjRLNXZIbHVvSllBY0Jyc201azJtbUNnWkRndWlPN05sZUVaWkJBZFlTTGJzYWFFLWRqN2R6X25jRllRT1hHekZ2aFRweE5rbHM3Z3p1SHoxR2UwR1VnMWVnbWZ3ZmRHSTkyR2lhU3p1NzNFZFBjMEtRQ25iZnpwVEhBZTd3bw)
-  - [China says it will take countermeasures if US imposes new chip curbs](https://news.google.com/rss/articles/CBMitwFBVV95cUxPRkNIbV91blZPQVFuSThXdzJHVkwtYUhEcHJ0eDBiM0xFWUYwZGRIUkctZm04MmZJZVFWanpabG1ad0NqeWRuNkhobERZLVdaeUJqbHRmd1RTWnRLdEQtSmlCVW9aTDRLSXZEbExDOHQtQngzVURZUnN1dzlndml3RDNpWThXSU9iR0U1cXZjUFRkQ1lGLThmdVpRTG5FLVlkZFVjM2RxUS1MazNDUV92YnVkQURkdTg)
-  - [Crew abandons gas tanker off Oman after being hit by projectile, sources say](https://news.google.com/rss/articles/CBMiygFBVV95cUxNU0ZTTkw2LWNabWNsdzBOM1FzRF9nWk45NHcybXI1RHk2RF8wZDRDeDRiNE9uT202T2RWRHRqd1AzcFg5LWtlY3M2dlo4eTIzZHRVaUZKX21FUE5tcVNzR2VnT3RWRHdXbmU4QXlRUmZzWFZIZVZ0M2hXeFR6RE1QM1U0OWlDMi1SLUQ2V2tBVDFlU3lxM2lpeXRNa21CNjFMQTlOZV9MekM0WWUtREZHWmZ4TGJUa2dhNUxObDBIcTRRSGgwSUg0MXVB)
-  - [Iraq resumes crude oil pumping for export purposes via pipeline to Turkey, oil minister says](https://news.google.com/rss/articles/CBMiywFBVV95cUxNOEZmQVphZVUyV05SUmZOazhJeVRrUGZneGhyX2xTT0g5SkM0eEQwS2ZjVE1YUjQyR1l4WDAxMURzV19QeUk5dFRVU0R3eVF0TjZRZTlJUDk4TGVXMHJmOWVUVEJjX1k3UnF0b0hzemRLZGtQaFRCTXJoNFA3bVZVZjhPZndwYzRxQlpvcDVFRDZ5ZWhRX21FN2FWQzVSckZoYl8xWWJ6anVsd092eFRZVno5ZWJvVmJKRmJ4THJXREt0ZEF6WlFYQjFVTQ)
-  - [Trump says US trade deal with Thailand to be signed soon](https://news.google.com/rss/articles/CBMimwFBVV95cUxQS2JoS2o5YWoxOGRTbWh0V3FpMTlLclVBaEtDbkp6dVVPVVlqb2pRZjlYMFo5eXVWTDFYbjZTY19uXzJpMDlVWXJmQnRBOEtGWldMcDVzWHl3MGpFTTl3TXI5SDU4MC1lNzdjME1NeFd6Mnd4c05OcnFCNUNqa2xENGVUMjhmTkdfOTJWcGhvVzQtdXpwNmIyc3U1Yw)
-  - [Norway's Equinor detects ongoing cyberattack, oil and gas output unaffected](https://news.google.com/rss/articles/CBMiogFBVV95cUxNbjhGTnNBTjRRNVlLVTFYb2NsSnB6bDJmbUIwbWY2UTh5YUpDNC1UQXpvLWJacEh2THJTOUlnM2NkMHF0QUJramtnRkpadURDR0FieUJvOWU4bFdka2RKdVE0b3dCMGVHTWpCYzV4SHBZNDZkU3gwOGwwRThtMnNRQ0NtZG5OdUNzRXdnNU1TY0E5Z3FHQV9PeVJmZm40RmpmclE)
+  - [Oil prices fall as higher US crude stocks temper supply risks](https://news.google.com/rss/articles/CBMirwFBVV95cUxQbmp3REJQam1xdjkyMkpCN1JlSkotTnJNM0JEWDVFNmJqZ2FHbmNIN2E0V2twa2N3djBLTXlNNVJvcDJmZVNXMlBlQnk2VG1FTThnX0hQbVRqS2dKbVVBdXl6MWR5ZHo0S2VneWt2bUdwVjE4TnNxaHFLN0hHNU9IUVljVnNXLWJTeHdORFFJX3BfQXhPTThEbGFYQXhYaGNneHRHcVRGS2NyOFhxTzVN)
+  - [Asia stocks cling to gains after Nvidia earnings as Anthropic pricing looms](https://news.google.com/rss/articles/CBMie0FVX3lxTFB6allzaTc1SU8zUmVIeXRZRkU2dE9reVo1MXBLSllnX0lsb1FmemdwR2RnNzZvQ0tqSzR6cTgzVHI2bGlYWWxxLTJWY3V4OXBrczR5OXF5ZkdNQnBfak1tYUs1NlVOQVVSLTdacXdnaEt0Y2VHVmM4NEN2WQ)
+  - [Bank of Japan governor says central bank should keep raising rates](https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXVIT0VoOTAtWnNpWjBvTlRGS0o1aEp1RklzQjZLTVFOb1pha3FPSUJJaFJrMjIzQzZ5WGtOUG5OUl9VM2paLTZ3aEY4d3ZLMFN5NUdkSU5aT09EOWs1MFp1eUVSbzh6VVkyaEFuTWo0cS1Tb1RGVlJKdWdoSXlsbkZJRFJnT2tDMHNINXhGSDlDVzZnWTVkV2pYWGcwZnhjMEk1RHZQSWlsQkJCNW5KbGJR)
+  - [Dollar holds near 19-month high as data supports case for US rate hikes](https://news.google.com/rss/articles/CBMiugFBVV95cUxOU3BnNkxnajFsX0xFNklvRnJ0OHJtQVR0Zk56aGhVN19YY0Z5aFRjMnVTb1pIakt6cHNXajVNalNrUmVUWWpZWjk1Ukh6T0RhY2ZTX2dLRTdpWTNlVU1vY1hGUl84SlIwcUNQcW51NzlzZDFoNHNiT3hiSHpfSl9ENUhtWWExWWxkT2ZYUUJ4WHdWWjVSOVpkQzZycmpaOXhnbm96Q0RWMmJLYnlkTDFJRFVWbGhqWXkydEE)
+  - [Gold slips to over one-year low on firm dollar, US rate outlook](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVlk2MG4xbDV2emVoNk9vRVhTcTlRbkZLMDgwMjBMTEdVeXFDV21zX0NVdmF0YzQzRDZ4TkowaDJQQlZlTDBsbm9BWHFXNXpYZzVVejAtTGRZTTFHRjV4dllJV0ZxVzVvbVJCN1lxdk50NXVaNkRxTGJQbDYyZjhNNElTUElOWVU0eW0ySnBRMndSU1ZrTGE4ZlNMdDk0UXVmUjZLSEVfQlc)
+  - [Xi, Putin blast Western 'protectionism', sanctions as Trump lands in China](https://news.google.com/rss/articles/CBMijgFBVV95cUxPb21UOHp4X2E2V05LRUhhUjhnSzI5b1NmNDRVQWhCb2RTV3gwQng0N3lKQ2lnV3JrbjB2cTBpSkNObTdwbXowR2d0UEt5NFp5blJtallNRjdFSjNoVDdxNkNXWFI4bmpETEV5TUs2OE16WW1lLTR0NkZCbEdXZF9OVDVycUFYV2p2aklNS3dR)
+  - [Trump says US wraps up 'very big trade deal' with Philippines](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMS04Tjk4eFJwZ1AwNmo5OFQ1NTlrSWEyMURicHFEVlM1SlJlWURicU5Hc3lRR3ZfOGNNWGNqRjFqWlp5eFRIQVhHSVdiX2RWUHptTEI2aWsyRzN1bHZvbTFxQUZqdnZ0VXQ5ZkprSWVkN1N5aTM0d21SQkc2U3BxQUN6UzVOcUk5RmtLaVR4QUxucWFmS1ZlQlFEMVVTYld4c3Nfbkc1MkdOdE1iUnpOVmN4OUt2a0RMUjA0)
 
 - **WSJ**
-  - [Gold Futures Inch Higher As U.S. Yields, Dollar Slip](https://news.google.com/rss/articles/CBMipwFBVV95cUxNMnNBOFU3ZHNFaGpWZmlVaFZLLVF4bXhKdS1SZEM2ZmJLc1lEd19vbExNQVRoUHpiTm9MZDNNVVNBVmR6akRfQ3o3Q3VqWkxIbkVUOXdYZU5qd0xUQWp4YmhRYTFpdWR2SUh5dENOUzZhWTlvOExlZ01uc25hSlN2U0xldlJWcDNXQUk2WHBJeGV4U3ZBMWdHWU1QT3c3S3A3OGJRTmFqaw)
-  - [Oil Futures Rise as Middle East Shipping Risks Persist](https://news.google.com/rss/articles/CBMitwFBVV95cUxNcGtrNWkxVGpxdjJGWnVJbzFDQXlabGJVV2I5bFhMYmJFOXAtQjR4cERNMnZabG90ZUo3cm80Zm0xdUpYallfU1kyV2FaMVFwUG5UUWR3UWNFMXU0RDJPcndiS0RuejcxWkJDU1kxbnQ2NnJPWXNBNGtGelpVd0FsbVF0emUyTVdpaEVFYlFnNmZSVTlhRUo5bzhYTkRicFpoa0loRGw0OUJQM215T0lkZUpUNDhFSHM)
-  - [European Leaders Near Deal to Pick Spanish Economist as Next ECB President](https://news.google.com/rss/articles/CBMitwFBVV95cUxOTnRmY2xlT3llVlRPWm5PNXFJQ25YVFY0OHp5NkJCbE1obGx1TkRjZzNET19NNTJLQVltSTB3c0lVbjdmaGxfTHMyeC02b3ZJRkpDV3VwQTJZc0RWdVNmRFdzcWJ6TUV2ZzRzWGtzcEY3SmlEM3NpUmNxNkVqYnNNUmtHM0h5M2ttN2YwTU9odWFMMjJJLXZnSk5HOE15MTAwd3RNNl8xdWg1RExNcUwwdnJxaDFpWXM)
+  - [Iran Attacks Kuwait and Bahrain, Further Escalating Fight Over Strait](https://news.google.com/rss/articles/CBMitgFBVV95cUxNcGVKcXlHY1EycS1qaFBrcVduLWwzS1B4RmhJeDg5eFlxR0FIeVNFclFqZVczdXFBVGVLa0xpcHZXZkVWa3JEeHJxVXA5YWxVa3YtejhlaHd1T1JmWDd1NHp3V1E1SEdsS0tkOEc2bVpZNER2elNveGdNTk9xanNjSDZZM2NwSXhULUVPSk84TW1JRFJUbkRRZVBYN2JHd0NnQkYxN0hhVDhVaVYzUEtlTGUwUUpuZw)
+  - [Oil Edges Lower as Supply Surplus Prospects Offset Mideast Tensions](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQemRoREFaQUhBSEg0TDV3UnZLU1BuY3hBdEFPY0FJY2ZWcWN0bjVST1FRdXZDWWFDWUxLVGNiVS1ySU96WGRyaW1EVjZGeUNRSVF0VXlCV2VkOXhJU0lzd0d0Sk93d0FiNVlmb1BNaE9ROUZmVkVHLTVCZ3p3ejQtd1U0dUNzNm5fUmlid19RVXQ3TUhac3N1LTVPa2tPT24zUTVGUDB0ZU9TOEhoWlVfLWo1WmtQX0J1eDU0Z2pTcnc5Zw)
+  - [Asian Equities Mixed as Investors Parse Nvidia’s Quarterly Results, Guidance](https://news.google.com/rss/articles/CBMiowFBVV95cUxQTUlkaFB0Z3RKN245bXlDcG5YY0NRTURYQU5LWUcxeFhWdk9QUWJhWEdLY3NtbFV0VlNUWW92S2YzSzVjaGwzdUZxMVE5WmxYQ2JQWE9wa0Z6UlZ6dXJmTVFHLUZjTWVZaEIwLWVjbk1VUVh1UzRQZlNiS3ZoRndPZDlyQmVhYW5JYUtCbkF0bTBrS1hkY1pLNTNDSGg5UnNRSHM0)
+  - [Nikkei Rises 1.0%, Led by Chip, AI Stocks](https://news.google.com/rss/articles/CBMiigFBVV95cUxOMldXbGg0UF9xaEtzeVRMMEltSExuOWxmT2tkQmptWlRuRFJMbUNvM0pNY1dmcE9ZT21ESUFUTWpvN3I3V2tBZkNmZ0VJc1ROd3RGZC1TSEc2Tlkydk82MTJnRU9PYVZoS1R5WUlyV0xGVDJBd2hXQ1dYVFRINXNYSUtTRzRVQllmTEE)
+
+- **FT**
+  - [Nvidia’s big business in Singapore](https://www.ft.com/content/fd1e1939-8a5c-47ac-bb38-47d147f8bc7a)
+  - [AI might be a reason why the yen is back on intervention watch](https://www.ft.com/content/f5e91cd6-ee54-49ad-83d4-4dec29cb13a7)
+  - [UK inflation rose to one-year high of 3.6% in October](https://www.ft.com/content/829844ba-849f-4d9c-a667-d65d2786ad2c)
+  - [Trump arrives in China ahead of summit with Putin and Xi](https://www.ft.com/content/ae7d1b27-b892-48d6-ad47-41128a4b53a1)
 
 - **CNBC**
-  - [Jensen Huang scandal fuels bipartisan push to block AI chip sales to China](https://www.cnbc.com/2026/11/17/congress-ai-china-jensen-huang-chips.html)
-  - [Treasury yields moderate as investors parse retail sales data](https://www.cnbc.com/2026/11/17/treasury-yields-bonds-inflation.html)
+  - [Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC](https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html)
+  - [Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount](https://www.cnbc.com/2026/11/18/trump-iran-war-hormuz-oil-.html)
 
 - **SCMP**
-  - [Jensen Huang agrees to face Congress over Nvidia scandal](https://www.scmp.com/news/us/economy-trade-business/article/3374798/jensen-huang-agrees-face-congress-over-nvidia-scandal)
-  - [Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns](https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns)
-  - [Trump eyes China after brief Manila stop, seeking chemistry with Xi amid fresh AI strains](https://www.scmp.com/news/china/diplomacy/article/3374795/trump-eyes-china-after-brief-manila-stop-seeking-chemistry-xi-amid-fresh-ai-strains)
-  - [Trump claims US will have enough rare earths in 10 months; experts call it unrealistic](https://www.scmp.com/news/china/diplomacy/article/3374808/trump-claims-us-will-have-enough-rare-earths-10-months-experts-call-it-unrealistic)
-  - [Taiwan tracks 2 Russian warplanes off eastern coast ahead of Apec summit](https://www.scmp.com/news/china/politics/article/3374750/taiwan-tracks-2-russian-warplanes-eastern-coast-ahead-apec-summit)
-  - [US Navy chief urges US lawmakers to strengthen shipbuilding capacity to close gap on China](https://www.scmp.com/news/us/diplomacy/article/3374804/us-navy-chief-urges-us-lawmakers-strengthen-shipbuilding-capacity-close-gap-china)
-  - [Japan offers Asean access to crude oil storage to counter energy crises](https://www.scmp.com/news/asia/east-asia/article/3374776/japan-offers-asean-access-crude-oil-storage-counter-energy-crises)
-  - [Hong Kong's jobless rate dips to 3.8% as economy continues to expand](https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3374748/hong-kongs-unemployment-rate-dips-38-amid-steady-growth)
-
-- **Al Jazeera**
-  - [China, Canada expand tariff relief after Carney-Xi meeting](https://www.aljazeera.com/economy/2026/11/17/china-canada-expand-tariff-relief-after-carney-xi-meeting)
-  - [UK sanctions Israeli settlement firms to protect two-state solution](https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126)
+  - [Bahrain and Kuwait repel drone attacks after US strikes Iranian island](https://www.scmp.com/news/world/middle-east/article/3374869/bahrain-and-kuwait-repel-drone-attacks-after-us-strikes-iranian-island)
+  - [Xi Jinping urges South Korea to cooperate with China on AI and supply chains](https://www.scmp.com/news/china/diplomacy/article/3374885/xi-jinping-urges-south-korea-cooperate-china-ai-and-supply-chains)
