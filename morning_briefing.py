@@ -19,6 +19,7 @@ import tempfile
 import traceback
 import smtplib
 from email.message import EmailMessage
+from email.utils import format_datetime
 from html import escape
 from difflib import SequenceMatcher
 from concurrent.futures import ThreadPoolExecutor, as_completed, TimeoutError as FutureTimeoutError
@@ -2777,7 +2778,10 @@ def send_briefing_email(report_md, report_name, briefing_type, report_path=None,
     msg["From"] = smtp_from
     msg["To"] = ", ".join(recipients)
     msg["Subject"] = subject
-    msg["X-Macro-Flux-Report-ID"] = report_name.replace(".md", "")
+    report_id = report_name.replace(".md", "")
+    msg["Date"] = format_datetime(datetime.now(timezone.utc))
+    msg["Message-ID"] = f"<{report_id}@macro-flux>"
+    msg["X-Macro-Flux-Report-ID"] = report_id
     body_text = "\n".join(body_parts)
     msg.set_content(body_text)
     msg.add_alternative(_markdown_email_html(email_report_md, "Macro Flux " + label + " Briefing - " + report_name), subtype="html")
@@ -2794,7 +2798,9 @@ def send_briefing_email(report_md, report_name, briefing_type, report_path=None,
                     smtp.ehlo()
             if smtp_user and smtp_password:
                 smtp.login(smtp_user, smtp_password)
-            smtp.send_message(msg)
+            refused = smtp.send_message(msg)
+            if refused:
+                raise RuntimeError(f"SMTP refused {len(refused)} recipient(s)")
         print(f"  [email] Sent briefing email to {len(recipients)} recipient(s)")
         return True
     except Exception as exc:
