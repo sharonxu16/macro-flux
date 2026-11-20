@@ -1,26 +1,26 @@
-# Macro State — Last updated: 2026-11-19
+# Macro State — Last updated: 2026-11-20
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **AI IPO / risk appetite revival** — New; record Anthropic IPO revives US tech futures and lifts AI trade sentiment; next trigger Anthropic debut and Asia AI chip follow-through.
-- **Dollar pullback after seven-session rally** — Fading; dollar eased and gold bounced from 14-month low as crowded long unwinds; next trigger Fed speakers and US data.
-- **Middle East escalation broadens to Riyadh / oil risk premium** — Acceleration; Houthi strike on Saudi wealth fund HQ and shipping attacks push oil up despite IEA buffers; next trigger further strikes or Hormuz disruption.
-- **APEC trilateral diplomacy and Taiwan risk** — Confirmation; Xi Taiwan warning, Trump-Putin engagement, Japan-Russia contact; next trigger Xi-Trump readout and nuclear arms control signals.
+- **Hawkish Fed repricing and strong USD** — Acceleration; October minutes confirm December hike and faster tightening, dollar at 19-month high; next trigger Fed speakers or US data.
+- **AI bust despite Anthropic IPO** — Reversal; record debut failed to lift broad tech, US stocks down more than 2% and yields fell; next trigger Anthropic after-hours and Nvidia probes.
+- **US-China chip export enforcement** — Acceleration; TSMC and Samsung reported suspending some China shipments and California subpoenaing Nvidia; next trigger company confirmations or broader suspensions.
+- **Middle East oil risk premium** — Fading; Riyadh PIF Tower struck but oil stays near flat amid supply signals and no-rush Iran stance; next trigger US-Iran decision or further strikes.
 
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- Anthropic first trading day and Asian AI chip names follow-through; US tech futures close.
-- Further Houthi strikes on Saudi infrastructure or shipping; oil price response.
-- Xi-Trump readout and any Taiwan friction; Taiwan semiconductor volatility.
-- Fed speakers confirm or walk back hawkish half-point; dollar and gold reaction.
-- North Korea uranium enrichment development; Korea and Japan risk appetite.
+- Fed speakers or US data that confirm or walk back December hike pricing; dollar and EMFX response.
+- Anthropic follow-through after record debut; Nvidia California probe and AI chip headlines.
+- TSMC and Samsung confirmation or expansion of China shipment suspensions; Taiwan and Korea semis.
+- Xi-Trump readout on Taiwan friction; Taiwan semiconductor volatility.
+- Houthi or Saudi strike follow-up; US-Iran decision and oil supply signals.
 
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will AI IPO enthusiasm sustain risk appetite or fade against hawkish Fed repricing?
-- Can Middle East escalation force a lasting oil risk premium despite IEA surplus buffers?
-- Does APEC diplomacy translate into concrete US-China-Japan trade or nuclear de-escalation?
+- Will hawkish Fed tightening deepen the AI and high-beta EMFX drawdown?
+- Does the TSMC and Samsung suspension broaden into a full China AI supply chain shock?
+- Will APEC oil production signaling cap the Middle East premium or remain rhetoric?
 
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- Gold 14-month low ([Reuters](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ0RVRVVhd0g1djYyRGpzbTcyZXFtSXd3cTV1T0REekJaYm9FOTlzblJzU3hlMmsxSkF0UmtzZ1gwWVFiUzI3VXdGNzJLTndoZC1oVkpXSnRmZ0ZmNkEybVRFSnhIVzFCNnlTS2hQRGV2bnNGTHVsaUZ5RmllU0otWWcxV2wwejMwcXpTOWFxam1xb2dRMXMyQ1c0T0RkZy1SX09YR3lYdmxkQQ)) — real-rate and firm-dollar stress gauge.
-- Dollar eases after seven-session rally ([Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ0NIbEViM181TUJsZHFhV2J5d0lLbkVXVlBRYVJlb3YtMC1wVTlyc1NBV0RMQ0dBTXZlcHFvdnkzQm1SUWo3NFl3eGZ0SzgwTXhxTVQ3Y2VYSHg5LXZtRG9vUUp3eVlEQktJMk9JSllaQ1hRRjRuWmx0WGNJSFBLTHRpUS1tTVFoakw2dHlVRExKTU1jWE9McGswRWc5V05CYU4zR3JDdm9Jam4wTDlyNTlXRno0cXc4NVE)) — crowded dollar long unwinding.
-- Australian unemployment `4.9%` ([BBG](https://www.bloomberg.com/news/articles/2026-11-19/australian-unemployment-jumps-to-4-9-following-rba-rate-hikes)) — RBA rate cut threshold.
-- Anthropic IPO price `$83/share` ([Caixin](https://news.google.com/rss/articles/CBMiZEFVX3lxTE4taHJsSm8xcmZRNm5hSnNMQm9sQWVzeERlWXF3UFZfcW44QzR0bk81dUg3aE1kZjY5ejFyZlJmdDUtNEVKTS1JdWFJUU44VVZJSjBzVmM2aEFIcFNSdm5Ba2h0eDU)) — AI valuation anchor.
-- South Korea `$1 trillion` exports ([Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxQYjJyUW83NEllOTVXWDNHUnY0UW85MjF2dzVVQ1NxOVBGaW1EY0trbjRZZU5zZWFLUnZnQ1RGUkhiM3ZmZVA2VUxZNm5UQlpJR2F2OXotX0EzOUJJdHNkZlhCUXVnM2xqaEZ1Zmh6R19sSmUyelZzSVJSSkVTZHBvd2ZUQkNJOFZPaEZ6amhLd1BGWlcxd2M4N0pLa0J5Z28taFE2M293Z1puMWViY3FhZDh6WXd4SjFsNzg0dkZ3)) — Korea trade and tech barometer.
+- Dollar over 19-month high ([Investing](https://www.investing.com/news/forex-news/dollar-hits-fresh-19mth-peak-on-hawkish-fed-aussie-slides-after-weak-jobs-data-5037703)) — Fed tightening stress gauge.
+- Anthropic closing `$97.17` ([BBC](https://www.bbc.co.uk/news/videos/cwg7l01vg081o)) — AI IPO valuation anchor.
+- US stocks ended more than `2%` lower ([FT](https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07)) — broad risk sentiment.
+- Mexican peso 52-week low ([Investing](https://www.investing.com/news/forex-news/mexican-peso-falls-to-52week-low-as-banxicofed-rate-gap-narrows-93CH-5039488)) — EMFX stress.
+- Oil on track for third weekly decline ([BBG](https://www.bloomberg.com/news/articles/2026-11-19/latest-oil-market-news-and-analysis-for-nov-20)) — supply premium cap.
