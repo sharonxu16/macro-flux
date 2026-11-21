@@ -1,85 +1,76 @@
 ---
 tags:
-  - Macro/AI_Bust
-  - Macro/MiddleEast_Risk
-  - Asset/USD
-  - Asset/Brent
-  - Trade/Short_US_Tech
+  - Macro/AI_Selloff
+  - Asset/UST
+  - Asset/JPY
+  - Trade/Long_UST
+  - Trade/Long_JPY
 ---
 
 <div align="center">
 
 # 🌊 Macro Flux
 
-<small>Nov 20 8AM to Nov 20 5PM HKT</small>
+<small>Nov 20 5PM to Nov 21 8AM HKT</small>
 
-<small>Good afternoon.</small>
+<small>Good morning.</small>
 
 </div>
 
 ---
 
 > [!abstract] Overview
-> Asia’s afternoon session turned the AI unwind into a global risk-off event: Japanese, Korean, Taiwanese and Hong Kong equities fell hard, US futures pointed lower, and global bond yields plunged in a flight to safety even as the dollar held near a 19-month high. The selloff broadened beyond tech into copper and gold, while Hong Kong equities slid to the brink of a bear market. Middle East supply risks re-emerged as Houthi attacks on Riyadh lifted oil and the US maritime agency warned the Iran blockade is adding to Gulf premiums. Japan’s core CPI accelerated, reinforcing expectations of further BOJ tightening even as BOJ ambiguity leaves the yen vulnerable to bears. The single cross-market thread is an AI capital-spending unwind feeding a flight-to-safety regime where falling yields and dollar strength coexist with commodity and equity pressure.
+> Global markets extended the AI-driven unwind into a full correction. The Nasdaq 100 entered a bear market, the S&P 500 and Dow slid into correction territory, and Treasury yields tumbled as investors rushed into havens. Nvidia’s SEC probe and Anthropic’s post-IPO slide accelerated the rotation out of high-multiple tech into duration and haven currencies, with the yen and Swiss franc leading while the dollar index slipped. Fed and ECB officials still defended further rate hikes, but safe-haven flows dominated price action. The cross-market thread is an AI bust-driven risk-off that compresses yields and crushes commodities even as central bankers keep a hawkish bias.
 
 ---
 
 ## 🔬 Narrative Watch
 
-### 📌 AI unwind goes global, flight to safety
+### 📌 AI bust widens: Nasdaq 100 bear market, S&P/Dow corrections, Nvidia SEC probe
 
 **Fact**
-Asian Equities Tumble as AI Stock Selloff Deepens ([WSJ](https://news.google.com/rss/articles/CBMiugFBVV95cUxQU2NVdm13RVFPZ25MNXZJanhhZU43eGlMQWRjLTB2WkgwWVhJR0tpM0l5aGljbTBvZTVZdVpkUkVBRGJETWhqYnhvS2tYWDA5UlFVOW9GdHhMVWpaTnhWUks5bnUyTm1QeUVSdl9tcHVGdm5EUkFCUE5pbGdTaTVZZXFuOVVZMGNqWkRaSWpSa1B5ZFZGZmNSTU50dzZtcXJZRGRXWFA0SDJRWHFDbU4yQ0V1OXhPelNnaWc)). Indexes in Japan, South Korea, Taiwan and Hong Kong fall amid tech sell-off ([Al Jazeera](https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears)). SoftBank suffers worst day in over two years as AI sell-off hits Asian tech stocks ([CNBC](https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html)). US Stock Futures Fall as AI Selloff Spreads to Asia and Europe ([BBG 1](https://www.bloomberg.com/news/articles/2026-11-20/us-stock-futures-fall-as-ai-selloff-spreads-to-asia-and-europe)). Global bond yields plunge as AI rout triggers flight to safety ([Investing](https://www.investing.com/news/forex-news/global-bond-yields-plunge-as-ai-rout-triggers-flight-to-safety-5040733)). Hong Kong Stocks Sink to Brink of Bear Market as Selloff Worsens ([BBG 2](https://www.bloomberg.com/news/articles/2026-11-20/hong-kong-stocks-hang-seng-hsi-hkex-2026-ai-selloff-bear-market)). Tech stocks fall as Anthropic IPO fails to reignite AI trade ([FT](https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b)). Anthropic Makes Record Stock Market Debut Amid AI Fears ([CNN](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbG5sMWc4alEtOF9iTEY3dHdvbGgzVTFoTklBR1MyMDhGWHpuM252THZRdFNaNnkwbHgydzRwZ1pNa2hHMGU4SmRxTzBhWjFLdWxPRjRRbHRXb1hOTGRNdE9DMG5BMkNhSFhZMTRUcXIydkk3SDdMSUJSTnNHbERsYmhGbXNIWlQyeDlkQUJJa3NJQkRWSi1XUThDaVFleUp0aEdONU9jNmJCUQ)).
+Wall Street Selloff Deepens as Tech Stocks Slide, Treasuries Rally ([BBG](https://www.bloomberg.com/news/articles/2026-11-20/wall-street-nears-breaking-point-as-fear-grips-global-markets)). AI Selloff Spurs Haven Demand for Yen, Franc as Dollar Slips ([BBG](https://www.bloomberg.com/news/articles/2026-11-20/ai-selloff-boosts-haven-demand-for-yen-franc-as-dollar-slips)). US tech stocks plunge into bear market in worst week since Covid-19 crisis ([FT](https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841)). Investors rush for havens as heavy selling sweeps Wall Street ([FT](https://www.ft.com/content/23fa83d8-e078-4853-959e-bd1f19d14ff5)). Nasdaq 100 enters bear market, Anthropic shares drop `8.5%` a day after blockbuster market debut ([FT](https://www.ft.com/content/23fa83d8-e078-4853-959e-bd1f19d14ff5)). Nvidia Plunges as SEC Probe Deepens AI Market Selloff ([BBG](https://www.bloomberg.com/news/videos/2026-11-20/nvidia-plunges-on-sec-probe-closing-bell-video)). S&P, Dow Slide Into Correction as Investors Dump Tech ([BBG](https://www.bloomberg.com/news/videos/2026-11-20/s-p-dow-slide-into-correction-as-investors-dump-tech-video)). Why a top economist says the stock market will remain volatile ([CNN](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVFdEaEdLLUJySXhmbnVXWUZlc092MWREc1JDRlBnbk1wUklRWVRBWUIySjc2U1FPZlZPbU5CZDB6Um1ScXlpbEk5QXB5LUQ0OVlUVnlKOHotRUV6QzBhYXRKQjF5azRlYWQyU2VDUzdZOFhvUWZDUEdUN18wLWRuNHdNSnR3My1la0ZKb1JMeGhXbWI1NHd6NVVtOW9oOUlndklRN1JqazFrd1FOVlhpd1JCOUVHN05lTnlRRlBnTjdaOHFLU19OWg)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Acceleration; prior morning noted AI reversal, now broad Asia/Europe risk-off and falling yields.
-> * **Transmission / Market Read**: Risk-premium and liquidity channel; favors **short KRW**, **short TWD**, **long USD/Asia FX**, and **long UST**.
-> * **Watchpoint / Confidence**: US session and Nikkei/SoftBank follow-through; stabilization fades risk-off. Confidence: High.
+> * **Narrative change**: Acceleration; Nasdaq 100 bear market and S&P/Dow correction confirm broadening beyond megacap AI names.
+> * **Transmission / Market Read**: Risk-premium and liquidity channel favors **long UST** and **long JPY**, while pressuring **short US tech**.
+> * **Watchpoint / Confidence**: Stabilization if next US session holds and Nvidia SEC probe does not widen; Confidence: High.
 
----
-
-### 📌 Middle East escalation lifts oil, Gulf risk premium
+### 📌 Fed and ECB officials defend further rate hikes
 
 **Fact**
-Oil prices gain as Houthi attacks on Riyadh raise supply concerns ([Reuters 1](https://news.google.com/rss/articles/CBMiugFBVV95cUxPb3pQREZDSHE2RmNHdDdGdExDUXhYeWljc2VualVoQ09oQV90WnFQQlZkYW1rWnl5ODJ6N2haaVBDVUY4VmFvRmtLSlZKbU5kR1lHNklrUUR3X3JGc181OHZCUHpXalZFUllBZXVEczJPUUdZZUt1MmpsTEN0MkJGSDNCVHhoa25pZFBSb1lldS1US0VJNVNBWWN1U2VwQmd0WmlQR1RKWmgyS2lyUDVfNHdWeWhzaFhmZ1E)). Saudi-led coalition says it intercepted Houthi missile targeting southern region ([Reuters 2](https://news.google.com/rss/articles/CBMizwFBVV95cUxQVmhCWjF6eHlrWHRIcHA1Z2p0QlM5cEtnMnFFd0hsMDdyMk51RGx2SEJpc1NkM2Z3NENIc04zNnppdVRhQkotTVJJcGF5WGJpbDBQQXF0Y0g5SkpzVzhKNkpVemRTaFJmVjA4MVFaSHlKS25JM0h3UkstLWtQdTlnWEptSnktbzlDT1UycmhSNF9yRzFPMWhkby1ubHd6S1BTYk83aExGSGpnN05LRTNWcS1wU0MwMktVOFFfWldqTVhQQ3VISGEwMVkyb0d2MEU)). Oil edged higher as risks of a new round of US strikes on Iran is growing as military clashes intensified and diplomatic efforts remain stalled ([BBG](https://www.bloomberg.com/news/videos/2026-11-20/castleberry-hernandez-saudi-action-on-houthis-into-2027-video)). US maritime agency warned Iran blockade was adding to rising Gulf premiums ([Al Jazeera](https://www.aljazeera.com/economy/2026/11/20/us-maritime-agency-warned-iran-blockade-was-adding-to-rising-gulf-premiums)).
+Fed's Cook says rate hikes needed to lower high inflation ([Reuters](https://news.google.com/rss/articles/CBMinwFBVV95cUxNV0pwMURCc1diYXRGTmtCaC0tNnZac3RIMEtTT1BCMGxpZ093OTRFdVJpRGx4TW5YRENNTWxpN0dYLTZpQ0ZXOC1sby1jNUtYbVNseHFWN2J3MGFuQjNwa3lOR2F4S1JicENRMzQ1ZWlDMkRyRzk5eG5IcVFpQXkyS0kzYU15a1RCWXNwWERBVFRmbUFZbE80WHhKUmVoejA)). Fed Governor Lisa Cook Says Her October Dissent Reflected Inflation Fight’s Urgency ([WSJ](https://news.google.com/rss/articles/CBMingFBVV95cUxNYnFFaTJhWE1OUWZkZzM5R3cxZmt3WEppdzUtS1JKcHdzUkxKVXZnSVJpT2V5QUREQTZBZ004VUl0QlExbW10VFpCeVpkSVE3UVBablVPbDhKcmFWcWg3V1R5U2pzbVptdHk2MDhFeVg3R1o1WktBWnMwTmotVWwzbkFZem5FakRSY0lvRDZ5TzlXTjJNcGhLaUhzbE1Qdw)). Fed’s Paulson Argues for Deliberate Rate Hikes to Tame Inflation ([BBG](https://www.bloomberg.com/news/articles/2026-11-20/fed-s-paulson-argues-for-deliberate-rate-hikes-to-tame-inflation)). ECB Needs December Rate Hike Into Restrictive Zone, Nagel Says ([BBG](https://www.bloomberg.com/news/articles/2026-11-20/ecb-needs-december-rate-hike-into-restrictive-zone-nagel-says)). ECB’s Pereira Says Inflation Pressure Is Significant and Rising ([BBG](https://www.bloomberg.com/news/articles/2026-11-20/ecb-s-pereira-says-inflation-pressure-is-significant-and-rising)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Reversal; prior Macro State had Middle East oil risk premium fading, now attacks and blockade warning revive it.
-> * **Transmission / Market Read**: Risk-premium channel; favors **long Brent** and **short risk-sensitive Asia FX** if escalation persists.
-> * **Watchpoint / Confidence**: Further Houthi strikes or US-Iran decision. Confidence: Medium.
+> * **Narrative change**: Confirmation; official Fed and ECB commentary stays hawkish even as haven flows suppress yields.
+> * **Transmission / Market Read**: Policy channel supports **higher front-end rates** once risk-off clears, near term favoring **long UST** and **long JPY**.
+> * **Watchpoint / Confidence**: Flash PMI and next Fed/ECB speakers test whether hawkish guidance holds; Confidence: Medium.
 
----
-
-### 📌 Japan CPI reopens BOJ tightening debate
+### 📌 US-China chip controls tighten in Congress and export data
 
 **Fact**
-October inflation data keeps BoJ on course for further tightening ([FT](https://www.ft.com/content/c95feb1a-f197-4942-bba8-672087f6be74)). Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices ([CNBC](https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html)). Japan Consumer Inflation Reinforces Rate-Hike Expectations ([WSJ](https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ29mc3Fqd1V5SnRGYk9vckRWS2M1eUlWSHI3UVcxcHZ5Q1I3SnJkTWpKZ2twNnRFREl3QjFQa2tnUDdhUEZwQlQ2Sjg2QkVsQXN0bmtVV2I5dzR3RU5WNngwVllxRThldXlPbXQ5UU9PZUdvX204LUtGalhocnNBNmJBenYzSzhaR25xQy1ualAxM1VfY0FlN3JR)). BOJ's ambiguity on rate hike path could tempt yen bears ([Reuters](https://news.google.com/rss/articles/CBMipwFBVV95cUxNY0J6NDQ5LVFYcXhIRWVSVmstMzNMUldQS2JUai1YNlVKWHVnd09WVzBKVXhNX21jc3pLNGw3R01lT21paGZKWUNiZ1gzUmsxb1h2b3BCX2FjaC1NTzZNYlRiTUxjUUR5TmhlVFIybE1SZm1ZamdwRVhIT3BBV2E4RFpUdGRIOGNuOVpENWcxZFpsTWtUT0NjaWctY2p6aWdReENwNUdfNA)).
+US approved sale of advanced AI chips to Chinese companies ([FT](https://www.ft.com/content/5fbbe806-37d7-42e4-8235-ce9cbb3f2cdb)). After Trump's China trip, US House Republicans push AI strategy to counter Beijing ([Reuters](https://news.google.com/rss/articles/CBMiygFBVV95cUxPY2FaWWRyMkpFZ1FlMi13VUE0dVhSX3ZkRVYtZTJ4LWRoR3ZyaXN3WlJiUm8xbjN0dmZkMHo3SDdPN2toeTdTbjRHNFlzN3JLZlp3aWFRaWM3M0F5NjFFT0xSN1RMd19Qa0NudXNoSXlwVWRjdW1Td2RidjRYR29VZXkzSGRDT2U3X0pMMGo4M1JRZkZ5QU56Skt0RFh3M1BiR292Y25DN0c2TTBCcDZuTm11NWExQnZObE10UE56NEFWblZ3QTJJUDRn)). Top Republican Senator Says Lutnick Ignored His China Chip Warnings ([WSJ](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZE1FLUpGTW9zeVJKbndTVUV6MTF3dmVQTE4zd2h4SVlCdzI4Qm1xNmtPWW0xTGR0TjRHRnVVZjg0RERoZXB2MEpMazY5akdSU0phSEc2WEU3NURBdWMwVEtBd2ZmamNRRXF5LVZnMms5QnlYNldTQ1NCVWNMVkpSZjRzc283dlY0eWkxVEVLWTQ1ekJrRGY5Zk5yM2NqcXhtSGoxdFlmcGx1X0tjYkRUaU5nZnRNNS1BZW5tRGlZRmM)). US lawmakers push for tougher AI chip rules amid China export crackdown ([Al Jazeera](https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown)). 美国接受中企340万颗芯片出口申请 仅批87.9万大量未出货 ([Caixin](https://news.google.com/rss/articles/CBMiZEFVX3lxTE45NXAtR0J1c3RQNXhacFBKUjJVRUZuNnZLc2xNZzB0OHBYMExyMXIzLTdCVlptWkoyeFE5MFNvOHY3N1UtWmlJeUs2RUJTREMyRW4zcDZNa1hsMFNNOXNRZHJhd18)). AMD遭做空股价跌近8% 美众议院披露其对华芯片出口数据 ([Caixin](https://news.google.com/rss/articles/CBMiZEFVX3lxTE12VERrenBNU3VqVUpEOERZMDF1anJJVFFYR0hVZXFXOWRTanVfQjItbDY5dkdyYm1hekxNeHlPNTBiR0JXLXJPTGszWjdyZjhkekJFLUxuM3dfTjhOZ1lyMlZTUmE)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: New; Japan CPI acceleration is a policy catalyst not present in prior Macro State.
-> * **Transmission / Market Read**: Policy and rates channel; rising JGB yields may support **long JPY**, but BOJ ambiguity could cap gains and **favor short JPY** on carry.
-> * **Watchpoint / Confidence**: BOJ speakers or US yields. Confidence: Medium.
+> * **Narrative change**: Acceleration; Congress and new export approval disclosures tighten the China chip-control story beyond prior watchpoints.
+> * **Transmission / Market Read**: Risk-premium and capital-flow channel favors **short China tech** and **long USD/Asia FX** if restrictions widen.
+> * **Watchpoint / Confidence**: Watch Commerce/AMD chip-control follow-through and Beijing response; Confidence: Medium.
 
 ---
 
 ## 🌍 Global Radar
 
 ### 📊 Economic Indicators
-- China Solar Cell Exports Rise for Second Month on Tariff Rush ([BBG](https://www.bloomberg.com/news/articles/2026-11-20/china-solar-cell-exports-rise-for-second-month-on-tariff-rush)).
-
-### 🏦 Central Banks
-- **RBA**: RBA Seeks to Manage Inflation, Jobs Tradeoffs, Board Member Says ([BBG](https://www.bloomberg.com/news/articles/2026-11-20/rba-seeks-to-manage-inflation-jobs-tradeoffs-board-member-says)).
-- **ECB**: Lagarde Tells Europe to Head Off Threats Before They Materialize ([BBG](https://www.bloomberg.com/news/articles/2026-11-20/lagarde-tells-europe-to-head-off-threats-before-they-materialize)).
+- A key measure of euro-area pay growth only quickened a touch in the third quarter, offering reassurance to the European Central Bank that inflation triggered by rising energy prices isn’t spreading ([BBG](https://www.bloomberg.com/news/articles/2026-11-20/euro-area-pay-growth-accelerated-only-slightly-in-third-quarter)).
 
 ### 🌐 Geopolitics & Policy
-- Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says ([CNBC](https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html)).
-- Taiwan tells Meta thousands of China-linked accounts seek to influence elections ([Reuters](https://news.google.com/rss/articles/CBMivwFBVV95cUxOSW41aUpxeGUzMDFwdHhVNmJHdFBWaTdvTUNfUWlKN0hIdU1sMDB3X1NWd05UaF9RT1JzdTMtMlI4VEgxNDJqY2pXenVWTDlJZlZNcXVwSnVXNUxKMjEyUXVfWEppWmUxNzg0MVQwWmdxMlhHT3VJbTRNUnliRElmU1FfTUU5QS1nS1hXbFpLcEUySUEyallMLVpoVjAwNnUyUnhlbnROMHo2R0RUQ0h2SFlUQTZaSnpIYm5nakJqWQ)).
-- Singapore, China launch FTA-upgrade talks as leaders discuss closer AI ties ([BusinessTimes](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZWdRRlJVUFQ2a3lNMmhQd3pVNWlEYzlOcFUzWHliSVlvblNjajhMMnh3TGNiNTFxcGxYdW81dF9wbUhsZHBUb1dkVUxDQmY5bng4WUhrMzhLb05UVTJfaE5rNkptSkp0dUxzZ2Y2aVJKOFVtR1M5TVVObHdjUXg4ZmlPRlJVMzVHc1hSNkQ2YWdvYXFob3dLVkIyUUZYNEFGZXh0UzU2M01Oa3lSV0dlNjh6aTM)).
+- Russia launched one of the largest missile and drone attacks of the war on Ukraine on Friday, pummelling electricity facilities and killing eight people ([SCMP](https://www.scmp.com/news/world/europe/article/3375281/8-killed-ukraine-russia-hits-back-after-crimea-bridge-attacks)).
+- Saudi-led forces strike Yemen port as Houthis warn airlines off the kingdom ([Reuters](https://news.google.com/rss/articles/CBMipwFBVV95cUxNQUE1UEFGeklRZGtscWJhNkdxRWpyWHkwQ29IcVQ1Umc2VHlkWlJGZzZPTC00SFl2a3J0SXY3TGo0X0t2a3A5ckMzbmtZXy1mYzdoa0F5Vmo1TGFaU1RIbEZHak5iTi1oRXhWWF9CbWZ2QWFLRG1HSG5Rc1dSbHZlaGNNSDlvZ2RiekJzbnpqMC1aektLZU1MSHBWN25PYURzUGduTjhURQ)).
+- China’s rare earth permanent magnet exports to the US and the European Union resumed their decline in October, as Beijing navigated trade relations with both economies ([SCMP](https://www.scmp.com/economy/china-economy/article/3375248/chinas-rare-earth-magnet-exports-us-and-eu-fall-after-september-rebound)).
 
-### 🛢️ Commodities
-- Copper Rout Worsens as AI Selloff Wreaks Havoc in Metals Markets ([BBG](https://www.bloomberg.com/news/articles/2026-11-20/copper-rout-deepens-as-ai-selloff-wreaks-havoc-in-metals-markets)).
-- Gold set for worst week in eight months as firm dollar, Fed hike bets weigh ([Reuters](https://news.google.com/rss/articles/CBMisgFBVV95cUxOMFFjdnZJUDZiUXhKNUdPUWMtQ2tkd0ZKdmN4TTZ3bnQyb09SQ3cxSS1hNVYtcmF5WGpNSlJzS1dWYkdBUzBJZ2s5TnhLQ29mNWNIUy10MGJkN294UndsTmRmOF9GelkyVkdWRl8wcVJQNnRaRGp0a3NIMWNHT1dJSHhZRk1BT3FRV2pFcHVGa3ozS1ZCdjJXenJvSXlBOEdxLUp2MVVVTVBDY0NGX3ZRRUN3)).
-- China Axes Palm Oil Purchases With Storage Space Running Out ([BBG](https://www.bloomberg.com/news/articles/2026-11-20/china-axes-palm-oil-purchases-with-storage-space-running-out)).
+### 📈 Equities
+- Bitcoin sell-off: Crypto is failing the 'digital gold' test again as it sinks with stocks ([CNBC](https://www.cnbc.com/2026/11/20/bitcoin-price-gold-market-hedge.html)).
+- Prediction markets outlook for stocks in 2026 dims amid AI sell-off ([CNBC](https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html)).
 
 ---
 
@@ -92,47 +83,54 @@ No high-impact releases in the next 24 hours.
 ## 📚 Full Reading List
 
 - **BBG**
-  - [US Stock Futures Fall as AI Selloff Spreads to Asia and Europe](https://www.bloomberg.com/news/articles/2026-11-20/us-stock-futures-fall-as-ai-selloff-spreads-to-asia-and-europe)
-  - [Hong Kong Stocks Sink to Brink of Bear Market as Selloff Worsens](https://www.bloomberg.com/news/articles/2026-11-20/hong-kong-stocks-hang-seng-hsi-hkex-2026-ai-selloff-bear-market)
-  - [Castleberry-Hernandez: Saudi Action on Houthis Into 2027](https://www.bloomberg.com/news/videos/2026-11-20/castleberry-hernandez-saudi-action-on-houthis-into-2027-video)
-  - [China Solar Cell Exports Rise for Second Month on Tariff Rush](https://www.bloomberg.com/news/articles/2026-11-20/china-solar-cell-exports-rise-for-second-month-on-tariff-rush)
-  - [UK Posts Smaller-Than-Forecast Budget Deficit as Taxes Hold Up](https://www.bloomberg.com/news/articles/2026-11-20/uk-posts-smaller-than-forecast-budget-deficit-for-october)
-  - [RBA Seeks to Manage Inflation, Jobs Tradeoffs, Board Member Says](https://www.bloomberg.com/news/articles/2026-11-20/rba-seeks-to-manage-inflation-jobs-tradeoffs-board-member-says)
-  - [Sri Lanka Unexpectedly Raises Key Rate to Combat Inflation](https://www.bloomberg.com/news/articles/2026-11-20/sri-lanka-raises-policy-rate-to-ensure-inflation-reaches-target)
-  - [Lagarde Tells Europe to Head Off Threats Before They Materialize](https://www.bloomberg.com/news/articles/2026-11-20/lagarde-tells-europe-to-head-off-threats-before-they-materialize)
-  - [Copper Rout Worsens as AI Selloff Wreaks Havoc in Metals Markets](https://www.bloomberg.com/news/articles/2026-11-20/copper-rout-deepens-as-ai-selloff-wreaks-havoc-in-metals-markets)
-  - [China Axes Palm Oil Purchases With Storage Space Running Out](https://www.bloomberg.com/news/articles/2026-11-20/china-axes-palm-oil-purchases-with-storage-space-running-out)
+  - [Wall Street Selloff Deepens as Tech Stocks Slide, Treasuries Rally](https://www.bloomberg.com/news/articles/2026-11-20/wall-street-nears-breaking-point-as-fear-grips-global-markets)
+  - [AI Selloff Spurs Haven Demand for Yen, Franc as Dollar Slips](https://www.bloomberg.com/news/articles/2026-11-20/ai-selloff-boosts-haven-demand-for-yen-franc-as-dollar-slips)
+  - [Nvidia Plunges as SEC Probe Deepens AI Market Selloff | Closing Bell](https://www.bloomberg.com/news/videos/2026-11-20/nvidia-plunges-on-sec-probe-closing-bell-video)
+  - [S&P, Dow Slide Into Correction as Investors Dump Tech](https://www.bloomberg.com/news/videos/2026-11-20/s-p-dow-slide-into-correction-as-investors-dump-tech-video)
+  - [Fed’s Paulson Argues for Deliberate Rate Hikes to Tame Inflation](https://www.bloomberg.com/news/articles/2026-11-20/fed-s-paulson-argues-for-deliberate-rate-hikes-to-tame-inflation)
+  - [ECB Needs December Rate Hike Into Restrictive Zone, Nagel Says](https://www.bloomberg.com/news/articles/2026-11-20/ecb-needs-december-rate-hike-into-restrictive-zone-nagel-says)
+  - [ECB’s Pereira Says Inflation Pressure Is Significant and Rising](https://www.bloomberg.com/news/articles/2026-11-20/ecb-s-pereira-says-inflation-pressure-is-significant-and-rising)
+  - [US Consumer Sentiment Up on Improved Post-Election Outlook](https://www.bloomberg.com/news/articles/2026-11-20/us-consumer-sentiment-rises-on-improved-post-election-outlook)
+  - [Euro-Area Pay Growth Accelerated Only Slightly in Third Quarter](https://www.bloomberg.com/news/articles/2026-11-20/euro-area-pay-growth-accelerated-only-slightly-in-third-quarter)
+  - [Canadian Stocks Enter a Correction as Metals, Tech Slip](https://www.bloomberg.com/news/articles/2026-11-20/canadian-stocks-head-for-correction-as-metals-tech-push-lower)
+  - [France Picks Boone to Run Markets at ECB in Pivotal Crisis Role](https://www.bloomberg.com/news/articles/2026-11-20/france-picks-boone-to-run-markets-at-ecb-in-pivotal-crisis-role)
 
 - **Reuters**
-  - [Oil prices gain as Houthi attacks on Riyadh raise supply concerns](https://news.google.com/rss/articles/CBMiugFBVV95cUxPb3pQREZDSHE2RmNHdDdGdExDUXhYeWljc2VualVoQ09oQV90WnFQQlZkYW1rWnl5ODJ6N2haaVBDVUY4VmFvRmtLSlZKbU5kR1lHNklrUUR3X3JGc181OHZCUHpXalZFUllBZXVEczJPUUdZZUt1MmpsTEN0MkJGSDNCVHhoa25pZFBSb1lldS1US0VJNVNBWWN1U2VwQmd0WmlQR1RKWmgyS2lyUDVfNHdWeWhzaFhmZ1E)
-  - [Saudi-led coalition says it intercepted Houthi missile targeting southern region](https://news.google.com/rss/articles/CBMizwFBVV95cUxQVmhCWjF6eHlrWHRIcHA1Z2p0QlM5cEtnMnFFd0hsMDdyMk51RGx2SEJpc1NkM2Z3NENIc04zNnppdVRhQkotTVJJcGF5WGJpbDBQQXF0Y0g5SkpzVzhKNkpVemRTaFJmVjA4MVFaSHlKS25JM0h3UkstLWtQdTlnWEptSnktbzlDT1UycmhSNF9yRzFPMWhkby1ubHd6S1BTYk83aExGSGpnN05LRTNWcS1wU0MwMktVOFFfWldqTVhQQ3VISGEwMVkyb0d2MEU)
-  - [BOJ's ambiguity on rate hike path could tempt yen bears](https://news.google.com/rss/articles/CBMipwFBVV95cUxNY0J6NDQ5LVFYcXhIRWVSVmstMzNMUldQS2JUai1YNlVKWHVnd09WVzBKVXhNX21jc3pLNGw3R01lT21paGZKWUNiZ1gzUmsxb1h2b3BCX2FjaC1NTzZNYlRiTUxjUUR5TmhlVFIybE1SZm1ZamdwRVhIT3BBV2E4RFpUdGRIOGNuOVpENWcxZFpsTWtUT0NjaWctY2p6aWdReENwNUdfNA)
-  - [Taiwan tells Meta thousands of China-linked accounts seek to influence elections](https://news.google.com/rss/articles/CBMivwFBVV95cUxOSW41aUpxeGUzMDFwdHhVNmJHdFBWaTdvTUNfUWlKN0hIdU1sMDB3X1NWd05UaF9RT1JzdTMtMlI4VEgxNDJqY2pXenVWTDlJZlZNcXVwSnVXNUxKMjEyUXVfWEppWmUxNzg0MVQwWmdxMlhHT3VJbTRNUnliRElmU1FfTUU5QS1nS1hXbFpLcEUySUEyallMLVpoVjAwNnUyUnhlbnROMHo2R0RUQ0h2SFlUQTZaSnpIYm5nakJqWQ)
-  - [Gold set for worst week in eight months as firm dollar, Fed hike bets weigh](https://news.google.com/rss/articles/CBMisgFBVV95cUxOMFFjdnZJUDZiUXhKNUdPUWMtQ2tkd0ZKdmN4TTZ3bnQyb09SQ3cxSS1hNVYtcmF5WGpNSlJzS1dWYkdBUzBJZ2s5TnhLQ29mNWNIUy10MGJkN294UndsTmRmOF9GelkyVkdWRl8wcVJQNnRaRGp0a3NIMWNHT1dJSHhZRk1BT3FRV2pFcHVGa3ozS1ZCdjJXenJvSXlBOEdxLUp2MVVVTVBDY0NGX3ZRRUN3)
+  - [After Trump's China trip, US House Republicans push AI strategy to counter Beijing](https://news.google.com/rss/articles/CBMiygFBVV95cUxPY2FaWWRyMkpFZ1FlMi13VUE0dVhSX3ZkRVYtZTJ4LWRoR3ZyaXN3WlJiUm8xbjN0dmZkMHo3SDdPN2toeTdTbjRHNFlzN3JLZlp3aWFRaWM3M0F5NjFFT0xSN1RMd19Qa0NudXNoSXlwVWRjdW1Td2RidjRYR29VZXkzSGRDT2U3X0pMMGo4M1JRZkZ5QU56Skt0RFh3M1BiR292Y25DN0c2TTBCcDZuTm11NWExQnZObE10UE56NEFWblZ3QTJJUDRn)
+  - [Fed's Cook says rate hikes needed to lower high inflation](https://news.google.com/rss/articles/CBMinwFBVV95cUxNV0pwMURCc1diYXRGTmtCaC0tNnZac3RIMEtTT1BCMGxpZ093OTRFdVJpRGx4TW5YRENNTWxpN0dYLTZpQ0ZXOC1sby1jNUtYbVNseHFWN2J3MGFuQjNwa3lOR2F4S1JicENRMzQ1ZWlDMkRyRzk5eG5IcVFpQXkyS0kzYU15a1RCWXNwWERBVFRmbUFZbE80WHhKUmVoejA)
+  - [Congress struggles to avert US shutdown as Iran war divides lawmakers](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUDZZTmpNTGpqLUMwR0JBZUJuaVBuMDAwYVpVanpkNTJDSGpNMEkxdXlSX1JkSDJpaG1SNUlmMnJZTHZ2Y192UmFKSjlGazN5UE9hZEJfcmFwdzVGWFE0QWk3OXBGWEpudkV5bTdiLVEwWjJicDFrTHJWVGVQT2RNMlBYZ3pMMmhQTHhKRnJ1QktWbGhVWWxRb0paRGZvdVNDdlRJNEd1N1lEbG9LOU1mTURPZE9CZlVvUk5j)
+  - [Saudi-led forces strike Yemen port as Houthis warn airlines off the kingdom](https://news.google.com/rss/articles/CBMipwFBVV95cUxNQUE1UEFGeklRZGtscWJhNkdxRWpyWHkwQ29IcVQ1Umc2VHlkWlJGZzZPTC00SFl2a3J0SXY3TGo0X0t2a3A5ckMzbmtZXy1mYzdoa0F5Vmo1TGFaU1RIbEZHak5iTi1oRXhWWF9CbWZ2QWFLRG1HSG5Rc1dSbHZlaGNNSDlvZ2RiekJzbnpqMC1aektLZU1MSHBWN25PYURzUGduTjhURQ)
 
 - **WSJ**
-  - [Asian Equities Tumble as AI Stock Selloff Deepens](https://news.google.com/rss/articles/CBMiugFBVV95cUxQU2NVdm13RVFPZ25MNXZJanhhZU43eGlMQWRjLTB2WkgwWVhJR0tpM0l5aGljbTBvZTVZdVpkUkVBRGJETWhqYnhvS2tYWDA5UlFVOW9GdHhMVWpaTnhWUks5bnUyTm1QeUVSdl9tcHVGdm5EUkFCUE5pbGdTaTVZZXFuOVVZMGNqWkRaSWpSa1B5ZFZGZmNSTU50dzZtcXJZRGRXWFA0SDJRWHFDbU4yQ0V1OXhPelNnaWc)
-  - [Japan Consumer Inflation Reinforces Rate-Hike Expectations](https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ29mc3Fqd1V5SnRGYk9vckRWS2M1eUlWSHI3UVcxcHZ5Q1I3SnJkTWpKZ2twNnRFREl3QjFQa2tnUDdhUEZwQlQ2Sjg2QkVsQXN0bmtVV2I5dzR3RU5WNngwVllxRThldXlPbXQ5UU9PZUdvX204LUtGalhocnNBNmJBenYzSzhaR25xQy1ualAxM1VfY0FlN3JR)
+  - [Fed Governor Lisa Cook Says Her October Dissent Reflected Inflation Fight’s Urgency](https://news.google.com/rss/articles/CBMingFBVV95cUxNYnFFaTJhWE1OUWZkZzM5R3cxZmt3WEppdzUtS1JKcHdzUkxKVXZnSVJpT2V5QUREQTZBZ004VUl0QlExbW10VFpCeVpkSVE3UVBablVPbDhKcmFWcWg3V1R5U2pzbVptdHk2MDhFeVg3R1o1WktBWnMwTmotVWwzbkFZem5FakRSY0lvRDZ5TzlXTjJNcGhLaUhzbE1Qdw)
+  - [Exclusive | Top Republican Senator Says Lutnick Ignored His China Chip Warnings](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZE1FLUpGTW9zeVJKbndTVUV6MTF3dmVQTE4zd2h4SVlCdzI4Qm1xNmtPWW0xTGR0TjRHRnVVZjg0RERoZXB2MEpMazY5akdSU0phSEc2WEU3NURBdWMwVEtBd2ZmamNRRXF5LVZnMms5QnlYNldTQ1NCVWNMVkpSZjRzc283dlY0eWkxVEVLWTQ1ekJrRGY5Zk5yM2NqcXhtSGoxdFlmcGx1X0tjYkRUaU5nZnRNNS1BZW5tRGlZRmM)
+  - [Gold Falls to Nearly 15-Month Low On Interest-Rate Expectations](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcVRIcFBRS1k2cEF4M0NpS3duc2FFOXdhMFh4Q1NLdVY2aEZwTEpleEg1VHotWmtibTBWeFA5Y0lYd2tXaGVKRGl5dnhOS1F6dFVTeUszc0t0MERDMWNtdXJjejV4R0dXczA2SXhDNVk5XzBfbXpsZFZHU1ZOOXUtVXJqalBPOW5mX1hQRHdPZU1IZV9EVTdVdzdTc1dCSWZIcUhIYzM1UmEwOFJH)
+  - [Gold, Silver Drop to Lowest Levels in Over a Year](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUkhaVnBLOFlTM3FaSjZRMmVEelRfcDNkVTBnWDZoOEE1WFVHcXd4MzdFaDM4NGJha3VjQWE3ZDNzTEhlU0RUVHkwWk9VdmVpU2dyUTVlUzBYcU5FOXlaWFdVNlJhTG5lSUpOTHhxdF9uTTZ2d2k1VVZPUnZFV3NlVTY5SWVKWW9ucHhIYkdhcFVhaGh5a3RlRGF2WS16QlRoU29iNjFUSzE)
+  - [Oil Futures Fall for Third Straight Week on Supply Outlook](https://news.google.com/rss/articles/CBMiywFBVV95cUxQUVE3WWhmSEFMaFZmRkVRTHN5R1N0V3lLbmdYYWsyZ0QxSnRqaFdkcktIS1JqTk5RRTI0ODREZV9jcldqb3BpMzhmN3BUOWhRaDI1bGdnMG45VDRxNFU1YXN4X2hEd1Y4RTRLMkdabDU1T2p1cnRpT2R1VUY1UElIS1h3Q3NtdlpEMFpoaHB6bXh5LUNFakwyLUYwWF9KVG9YRmRKT2xwcVp4WkQtYnBucFV5WWFfbDY1dDRlWW9halQwclNac2tubV9vQQ)
 
 - **FT**
-  - [Tech stocks fall as Anthropic IPO fails to reignite AI trade](https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b)
-  - [October inflation data keeps BoJ on course for further tightening](https://www.ft.com/content/c95feb1a-f197-4942-bba8-672087f6be74)
+  - [FirstFT: US approved sale of advanced AI chips to Chinese companies](https://www.ft.com/content/5fbbe806-37d7-42e4-8235-ce9cbb3f2cdb)
+  - [Markets sell-off as it happened: Nasdaq 100 enters bear market, Anthropic shares drop 8.5% a day after blockbuster market debut](https://www.ft.com/content/23fa83d8-e078-4853-959e-bd1f19d14ff5)
+  - [US tech stocks plunge into bear market in worst week since Covid-19 crisis](https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841)
 
 - **CNBC**
-  - [SoftBank suffers worst day in over two years as AI sell-off hits Asian tech stocks](https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html)
-  - [Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices](https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html)
-  - [Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says](https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html)
-  - [AMD dives on short seller report of alleged China exposure](https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html)
+  - [Bitcoin sell-off: Crypto is failing the 'digital gold' test again as it sinks with stocks](https://www.cnbc.com/2026/11/20/bitcoin-price-gold-market-hedge.html)
+  - [Prediction markets outlook for stocks in 2026 dims amid AI sell-off](https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html)
+  - [The bull market has a new problem. The 'smart money' is selling](https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html)
 
-- **Al Jazeera**
-  - [Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears](https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears)
-  - [US maritime agency warned Iran blockade was adding to rising Gulf premiums](https://www.aljazeera.com/economy/2026/11/20/us-maritime-agency-warned-iran-blockade-was-adding-to-rising-gulf-premiums)
+- **SCMP**
+  - [8 killed in Ukraine as Russia hits back after Crimea bridge attacks](https://www.scmp.com/news/world/europe/article/3375281/8-killed-ukraine-russia-hits-back-after-crimea-bridge-attacks)
+  - [China’s rare earth magnet exports to US and EU fall after September rebound](https://www.scmp.com/economy/china-economy/article/3375248/chinas-rare-earth-magnet-exports-us-and-eu-fall-after-september-rebound)
 
 - **CNN**
-  - [Anthropic Makes Record Stock Market Debut Amid AI Fears](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbG5sMWc4alEtOF9iTEY3dHdvbGgzVTFoTklBR1MyMDhGWHpuM252THZRdFNaNnkwbHgydzRwZ1pNa2hHMGU4SmRxTzBhWjFLdWxPRjRRbHRXb1hOTGRNdE9DMG5BMkNhSFhZMTRUcXIydkk3SDdMSUJSTnNHbERsYmhGbXNIWlQyeDlkQUJJa3NJQkRWSi1XUThDaVFleUp0aEdONU9jNmJCUQ)
+  - [Why a top economist says the stock market will remain volatile](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVFdEaEdLLUJySXhmbnVXWUZlc092MWREc1JDRlBnbk1wUklRWVRBWUIySjc2U1FPZlZPbU5CZDB6Um1ScXlpbEk5QXB5LUQ0OVlUVnlKOHotRUV6QzBhYXRKQjF5azRlYWQyU2VDUzdZOFhvUWZDUEdUN18wLWRuNHdNSnR3My1la0ZKb1JMeGhXbWI1NHd6NVVtOW9oOUlndklRN1JqazFrd1FOVlhpd1JCOUVHN05lTnlRRlBnTjdaOHFLU19OWg)
 
-- **Investing**
-  - [Global bond yields plunge as AI rout triggers flight to safety](https://www.investing.com/news/forex-news/global-bond-yields-plunge-as-ai-rout-triggers-flight-to-safety-5040733)
+- **Caixin**
+  - [美国接受中企340万颗芯片出口申请 仅批87.9万大量未出货](https://news.google.com/rss/articles/CBMiZEFVX3lxTE45NXAtR0J1c3RQNXhacFBKUjJVRUZuNnZLc2xNZzB0OHBYMExyMXIzLTdCVlptWkoyeFE5MFNvOHY3N1UtWmlJeUs2RUJTREMyRW4zcDZNa1hsMFNNOXNRZHJhd18)
+  - [AMD遭做空股价跌近8% 美众议院披露其对华芯片出口数据](https://news.google.com/rss/articles/CBMiZEFVX3lxTE12VERrenBNU3VqVUpEOERZMDF1anJJVFFYR0hVZXFXOWRTanVfQjItbDY5dkdyYm1hekxNeHlPNTBiR0JXLXJPTGszWjdyZjhkekJFLUxuM3dfTjhOZ1lyMlZTUmE)
 
-- **BusinessTimes**
-  - [Singapore, China launch FTA-upgrade talks as leaders discuss closer AI ties](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZWdRRlJVUFQ2a3lNMmhQd3pVNWlEYzlOcFUzWHliSVlvblNjajhMMnh3TGNiNTFxcGxYdW81dF9wbUhsZHBUb1dkVUxDQmY5bng4WUhrMzhLb05UVTJfaE5rNkptSkp0dUxzZ2Y2aVJKOFVtR1M5TVVObHdjUXg4ZmlPRlJVMzVHc1hSNkQ2YWdvYXFob3dLVkIyUUZYNEFGZXh0UzU2M01Oa3lSV0dlNjh6aTM)
+- **WallstreetCN**
+  - [AI交易崩跌踩踏！金银铜全线重挫，全周期金跌超9%、纽铜跌近10%，原油三周大跌两成](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjUWFSYXN3bWw2dk4tN1lBa3htR01wSVotYTVZYnVHY1IxczdyZDFFTEVwSURqcldCazRaQTQ0TmR2VDZnRlBTSmFDcFRqNWhvVUZv)
+
+- **Al Jazeera**
+  - [US lawmakers push for tougher AI chip rules amid China export crackdown](https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown)
