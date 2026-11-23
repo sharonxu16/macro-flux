@@ -1,24 +1,26 @@
 # Macro State — Last updated: 2026-11-23
 
-## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Global AI/tech unwinding with Asia rescue** — Status: Acceleration; US tech bear market and China/Korea rescue measures broaden the AI unwind across Asian risk assets; next trigger Asia open performance and follow-up stabilization announcements.
-- **Middle East oil supply escalation** — Status: Acceleration; strikes on Saudi and Bahrain plus falling Hormuz flows lift physical oil risk; next trigger Iran-US deal progress or further Gulf energy strikes.
-- **US-China technology decoupling** — Status: Acceleration; FCC telecom ban response, Nvidia chip-sale scrutiny, and Taiwan arms pressure add to trade/tech friction; next trigger China retaliation list or Nvidia sale policy details.
-- **Fed overtightening risk** — Status: New; Bessent warns the Fed risks overtightening while Warsh communication debate grows; next trigger Fed official response to market turbulence.
+## Active Narratives
+- **AI/tech unwinding with Asia rescue** — Status: Acceleration; KOSPI drops 5% and measures fall short, while Hong Kong stabilizes; next trigger KOSPI/Hang Seng follow-through.
+- **Rates repricing from AI risk-off** — Status: New; global bond yields at multi-week lows, dollar retreats from 19-month high, gold up over 2%; next trigger US Treasury yield recovery or US futures bounce.
+- **Singapore MAS easing pause** — Status: New; core inflation 1.5% gives MAS room to pause; next trigger MAS policy statement.
+- **Middle East oil supply risk** — Status: Confirmation; Houthis claim Saudi refinery attack and Trump warns of new strikes, but ample supply caps prices; next trigger actual supply disruption or Iran-US deal progress.
 
-## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- Asia equity performance after the early US futures bounce and China/Korea rescue follow-through.
-- Iran-US deal progress or further Saudi/Bahrain/Gulf energy strikes.
-- China retaliation to the FCC/Nvidia actions or US chip-sale policy clarity.
-- Fed or Warsh communication responding to the tech-led market volatility.
-- Swiss second-round inflation signals or SNB policy communication.
+## Watchpoints
+- KOSPI and Hang Seng follow-through after Korea stabilization measures.
+- US Treasury yields and dollar recovery versus gold retracement.
+- MAS policy communication and SGD NEER slope guidance.
+- Oil price reaction to further Gulf strikes or Trump new-strike timeline.
+- China red-chip listing restrictions and Trump overseas data center tariff details.
 
-## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will China/Korea rescue measures halt the AI-led risk-off spillover into Asia FX and equities?
-- Will Hormuz flow disruption transmit into sharper energy-sensitive Asia FX moves?
-- Will Fed officials validate Bessent’s overtightening concern or stay hawkish?
+## Open Questions
+- Will Korea rescue halt the AI-led selloff in Asia equities?
+- Will the rates repricing persist or revert as US equity futures recover?
+- Will MAS formally signal a pause in its next statement?
 
-## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- **Nasdaq 100** near a bear market, cited by BBG; key threshold for AI unwind continuation versus rebound.
-- **China margin requirement** `80%`, cited by BBG; policy level for equity liquidity support.
-- **Hormuz oil flows** falling, cited by FT; physical supply metric for oil risk premium.
+## Key Levels
+- **KOSPI drop `5%`** cited by Reuters; threshold for Korea stabilization credibility.
+- **Singapore core inflation `1.5%`** cited by BBG; level opening MAS pause window.
+- **Hang Seng Tech `3,400` points** cited by SCMP; intraday support area that held.
+- **Gold `2%` rebound** cited by Reuters; risk-off hedge signal.
+- **Dollar 19-month high retreat** cited by Investing_Forex; FX pivot for Asia currencies.
