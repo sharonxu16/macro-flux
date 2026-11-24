@@ -1,26 +1,26 @@
-# Macro State — Last updated: 2026-11-23
+# Macro State — Last updated: 2026-11-24
 
-## Active Narratives
-- **AI/tech unwinding with Asia rescue** — Status: Acceleration; KOSPI drops 5% and measures fall short, while Hong Kong stabilizes; next trigger KOSPI/Hang Seng follow-through.
-- **Rates repricing from AI risk-off** — Status: New; global bond yields at multi-week lows, dollar retreats from 19-month high, gold up over 2%; next trigger US Treasury yield recovery or US futures bounce.
-- **Singapore MAS easing pause** — Status: New; core inflation 1.5% gives MAS room to pause; next trigger MAS policy statement.
-- **Middle East oil supply risk** — Status: Confirmation; Houthis claim Saudi refinery attack and Trump warns of new strikes, but ample supply caps prices; next trigger actual supply disruption or Iran-US deal progress.
+## Active Narratives (max 4)
+- **AI/tech risk rebound on Huang return** — Status: Reversal; Nvidia CEO reinstatement reverses prior AI unwinding and risk-off rates bid; next trigger Asian chip open and Taiwan margin-call normalization.
+- **Fed hawkish repricing** — Status: New; Williams says inflation still needs work and higher rates are likely over time, lifting dollar and Treasury yields; next trigger Williams speech and further Fedspeak.
+- **Middle East oil supply risk vs surplus** — Status: Acceleration; Iran attacks US bases and vows to confront naval blockade, but oil falls on supply surplus; next trigger actual Gulf energy or tanker disruption.
+- **AI credit divergence** — Status: New; Anthropic shares sink despite AI rally and its debt is expected to be junk; next trigger credit spread widening or downgrade action.
 
-## Watchpoints
-- KOSPI and Hang Seng follow-through after Korea stabilization measures.
-- US Treasury yields and dollar recovery versus gold retracement.
-- MAS policy communication and SGD NEER slope guidance.
-- Oil price reaction to further Gulf strikes or Trump new-strike timeline.
-- China red-chip listing restrictions and Trump overseas data center tariff details.
+## Watchpoints (max 5)
+- Asian chip stocks and Taiwan margin-call normalization after Huang return.
+- US Treasury yield and dollar follow-through after Williams.
+- Strait of Hormuz tanker or energy infrastructure strike confirming supply disruption.
+- Anthropic debt spread reaction and any rating action.
+- Nvidia leadership stability and White House AI policy announcements.
 
-## Open Questions
-- Will Korea rescue halt the AI-led selloff in Asia equities?
-- Will the rates repricing persist or revert as US equity futures recover?
-- Will MAS formally signal a pause in its next statement?
+## Open Questions (max 3)
+- Will Asia AI rebound sustain if higher Treasury yields tighten financial conditions?
+- Will Fed officials reinforce Williams’s higher-for-longer signal or soften it?
+- Will oil risk premium reassert with Iran escalation or remain capped by surplus?
 
-## Key Levels
-- **KOSPI drop `5%`** cited by Reuters; threshold for Korea stabilization credibility.
-- **Singapore core inflation `1.5%`** cited by BBG; level opening MAS pause window.
-- **Hang Seng Tech `3,400` points** cited by SCMP; intraday support area that held.
-- **Gold `2%` rebound** cited by Reuters; risk-off hedge signal.
-- **Dollar 19-month high retreat** cited by Investing_Forex; FX pivot for Asia currencies.
+## Key Levels (max 5)
+- Nvidia `+31%` single-day surge and `$3 trillion` market-cap rally cited by BBG; threshold for AI risk-on follow-through.
+- Taiwan margin calls rose `200-fold` cited by BBG; gauge of AI trade stress and rebound quality.
+- S&P 500 best day since April 2025 cited by BBG; risk sentiment pivot.
+- US 2-year Treasury yield jump cited by CNBC; rates repricing marker.
+- Dollar jump on hawkish Fed bets and AI rally cited by CNA/WSJ; FX trend signal for Asia pairs.
