@@ -1,26 +1,24 @@
-# Macro State — Last updated: 2026-11-24
+# Macro State — Last updated: 2026-11-25
 
-## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **Asian AI/tech rally** — Status: Confirmation; prior signal became actual intraday gains with Taiwan chip stocks near price limits; next trigger whether Taiwan names hold gains through close and follow-through in US/Asian futures.
-- **Middle East oil supply risk vs surplus** — Status: Acceleration; tankers mined despite US escort and potential Iranian cyberattacks, but oil still near three-month lows on surplus; next trigger any tanker rerouting, further mine strikes, or US-Iran talks progress.
-- **US-China export-control truce** — Status: Reversal; China extended minerals ban pause while US blacklisted Megaspeed and Singapore probes Nvidia-linked flows; next trigger Singapore investigation findings or expanded US entity-list actions.
-- **Fed/global hawkish repricing** — Status: Confirmation; dollar holds near 20-month high on AI euphoria and Fed hike bets, with ECB Simkus adding hawkish voice; next trigger US PCE and further Fed/ECB commentary.
+## Active Narratives
+- **US-China trade conflict broadens** — Status: Acceleration; new US tariff plans on China/EU and China minerals pause create two-sided risk; next trigger official tariff announcement and China response after January.
+- **Global hawkish repricing** — Status: Confirmation/Acceleration; Fed regional boards wanted hikes, BOJ/BOK/BoE hawkish, bond traders hedge; next trigger US PCE and Fed commentary.
+- **AI/tech rally reversal** — Status: Reversal/Fading; Nasdaq 100 tumbles, Nvidia euphoria fades, Asian stocks fall, Anthropic below IPO; next trigger Schumer/Nvidia and Taiwan semis.
+- **Middle East oil supply risk** — Status: Acceleration/Confirmation; Hormuz vessel attacks, Riyadh PIF tower struck twice, Ukraine hits Russian oil plants; next trigger tanker rerouting or oil price risk premium.
 
-## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- Taiwan chip names holding gains through close and no fresh hawkish Fed surprise.
-- Confirmed tanker rerouting or another Hormuz energy infrastructure strike.
-- Singapore Megaspeed investigation findings or additional US export-control listings.
-- US PCE inflation data and any Fed/ECB official comments reinforcing hawkish shift.
-- US-China trade actions following minerals extension and entity-list decision.
+## Watchpoints
+- Official US tariff list/sector details, whether rates exceed trade-deal levels, and China minerals response.
+- BOK decision day after tomorrow and guidance.
+- Schumer/Nvidia export-control follow-up or new entity-list actions.
+- US PCE inflation and Fed/BOJ/BoE official comments reinforcing hawkish shift.
+- Hormuz vessel attacks/tanker rerouting and Saudi/Ukraine energy strikes.
 
-## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will oil risk premium reassert if Hormuz physical transit disruptions persist, or remain capped by supply surplus?
-- Will Asian AI rally sustain as higher Treasury yields and a stronger dollar tighten financial conditions?
-- Will US-China export-control truce hold after Megaspeed blacklisting and Singapore probe?
+## Open Questions
+- Will US tariffs broaden inflation/Fed path and further support USD/Asia FX?
+- Will BOK hike despite AI selloff and consumption warning?
+- Will AI/tech reversal deepen on legal/regulatory and tariff headlines?
 
-## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- Brent: near three-month lows with supply offsetting Hormuz threat, cited by Reuters; key for energy risk-premium repricing.
-- USD index: near 20-month high amid AI rally and Fed tightening bets, cited by Investing/Forex; key for Asia FX pressure.
-- Singapore 2026 GDP growth forecast around `6%` and Q3 expansion `6.1%`, cited by CNA; key for SGD and AI-linked growth.
-- Taiwan chip stocks near exchange price limits, cited by CNBC; key for AI risk-on sustainability.
-- Gold: lower awaiting US inflation data, cited by Reuters; key for safe-haven and rates sensitivity.
+## Key Levels
+- `$83` Anthropic IPO price from CNBC — AI sentiment threshold after shares fell below issue price.
+- `2%` BOJ projected terminal rate by mid-2027 from BBG — policy anchor for JGBs/JPY.
+- November `30` DR Congo cobalt export ban start from SCMP — battery metal supply timeline.
