@@ -1,85 +1,88 @@
 ---
 tags:
-  - Macro/AI_Selloff
-  - Macro/Middle_East_Escalation
-  - Asset/NDX
-  - Asset/USD
-  - Trade/Short_AUD
+  - Macro/Tariffs
+  - Macro/Hawkish_Repricing
+  - Macro/Hormuz_Blockade
+  - Asset/Brent
+  - Asset/UST
 ---
 
 <div align="center">
 
 # 🌊 Macro Flux
 
-<small>Nov 25 8AM to Nov 25 5PM HKT</small>
+<small>Nov 25 5PM to Nov 26 8AM HKT</small>
 
-<small>Good afternoon.</small>
+<small>Good morning.</small>
 
 </div>
 
 ---
 
 > [!abstract] Overview
-> The afternoon session is dominated by an accelerating global risk-off as SoftBank drops `15%`, Japanese semiconductor stocks lead a broad Asia tech rout, and US equity futures point to further losses for the Nasdaq 100. That equity stress is dragging industrial metals lower and keeping the dollar bid, with the Australian dollar sliding toward its biggest monthly drop in years while India's rupee and stocks stand out as an AI-defying haven. In the Middle East, a second Houthi strike on Saudi Arabia's PIF tower in six days injured eleven people, and Saudi-led forces intercepted further Houthi attacks after a Hodeidah strike, yet crude prices are still weighed down by supply surplus even as UK household energy bills are set to jump `26%` from January. The Bank of Japan's preferred faster inflation gauge has hit a three-year high and Australia's hot inflation reinforces a hawkish RBA posture, extending the global hawkish repricing. The unifying thread is tightening financial conditions through risk-off for AI/tech assets, higher expected policy rates across Asia-Pacific, a stronger dollar, and an energy price impulse that feeds into UK and European inflation.
+> The dominant macro driver is a fresh US tariff round across 14 trading partners, landing on top of firmer-than-expected US PCE and a sharp upgrade to third-quarter GDP. That reflation impulse keeps the Federal Reserve on a tightening path and compounds the existing AI-led equity carry unwind. Oil is the second risk channel after Iran reported ships hitting mines in the Strait of Hormuz and warned vessels to coordinate passage. Asian equities are attempting to extend a late Wall Street recovery, but tariff uncertainty, hawkish US data, and physical energy risk leave sentiment fragile. The connecting thread is a global reflation shock colliding with simultaneous trade and energy supply disruptions, which favors a stronger dollar, firmer near-term oil, and continued volatility across Asian FX and tech.
 
 ---
 
 ## 🔬 Narrative Watch
 
-### 📌 AI/tech selloff deepens into global risk-off
+### 📌 US escalates tariffs on 14 trading partners
 
 **Fact**
-Asia's markets dive as return of Nvidia's Huang fails to quell AI doubts; markets fall in Japan, South Korea, Taiwan and Hong Kong in latest tech-led sell-off ([Al Jazeera](https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom)). SoftBank drops `15%` as Wall Street AI sell-off ripples across Asian tech names; Asian technology stocks tumbled Wednesday, led by a rout in Japanese semiconductor stocks, as renewed concerns over the artificial intelligence trade rattled investors ([CNBC](https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html)). US stock index futures slide as AI worries fuel tech losses; US stock futures signaled further declines as a global tech selloff continued to worry investors ([BBG 1](https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses)). Tech stocks slide as confidence in AI trade fades; Nasdaq 100 set to open lower as weeks-long sell-off continues ([FT](https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a)). Metals rout deepens as AI, Fed worries fuel bearish sentiment; copper, aluminum and tin all added to Tuesday’s fierce selloff in metals as tech stocks extended losses and traders braced for US inflation data that will feed the Federal Reserve’s next moves on interest rates ([BBG 2](https://www.bloomberg.com/news/articles/2026-11-25/metals-mixed-after-major-selloff-as-traders-await-us-inflation)).
+Trump announces raft of new tariffs on major economies. China, the EU, Japan and South Korea to be hit by levies as US president doubles down on trade strategy ([FT](https://www.ft.com/content/335b593d-1478-4550-ab0a-71fec6280eb0)). Trump targets China, EU in new round of tariffs ([CNN](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5maU9qZ1VMR3l0TDI5UlgyQzBBLUF5a2UwYUUyQjFtZDY4QXdyTXg0cjNSajdVSThyS2xuSEIzMkZ4WEdRaHNTcjFnMjFYNXlmWEtvYjFYdWRjcWlUZUN2bXIweHlyaU0)). US announces new tariffs on host of countries including China ([BBC](https://www.bbc.co.uk/news/articles/c893r9ke5p97o)). U.S. proposes new tariffs on `14` trading partners, including China and the EU ([CNBC](https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html)). Trump announces new tariffs on `14` trading partners including China and Singapore ([CNA](https://news.google.com/rss/articles/CBMigAFBVV95cUxOU3FnamwtTXpFa0hPcDhhc1dodGc3cXNmYnJYZXcyaEVrMkl3WmRaRXRSeDl1X1Q0aWhUTlVaSWxxOVRTanZPelpkWVY1akhzY2xrdzRNTEFYM01UQWRRSTk2NzQwWXFkdFdQdUlwSTh2aUFTcUs3U1hLbkhHUEFzQg)). The new levies come after an eight-month investigation launched by the United States Trade Representative ([Al Jazeera](https://www.aljazeera.com/economy/2026/11/25/world-reacts-to-trumps-new-tariffs-as-us-stocks-tumble)). US proposes surprise new tariffs on Brazil imports, including `10%` duty on aircraft ([Reuters 1](https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGZ4TFg5REgyY0VnandHQjZIMFN1cnNBOEJVQTBDaU1IWDFLVUxmdHFTXzRLVnVKc3pHd3lTYk9lRHZBOWV1Skd5V0VzVU05ZDRjZXdZekl5cWFneWI2b3ptS09taEhjNzZIcGhuWVdydDk5cnpkcElkMUdTZkJjTjROT09sOG5adVUxNVpNeGp5UmxaaHl2bzh6TklXMlp2eVQyVW9idi1QV25LcnpIeFBjMEF4RzNNbkNIU3JOUlN6WWVqSjRtTlFZMA)). US to cap India tariff at `17%` if trade deal is reached, USTR says ([Reuters 2](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRmdGMDdiZVhMaEZiM2hLVlNhdXQzZkM1b2F5NXFYaWZzbC1mX25kLU56ZThrNjFmZ2JVMW9fbjJhbUMwMXdzN3JLYXAyNE02a0FqclFyblhxZmxfbWRLVlQ5OFdoQkdmNEF1ZTlZUzRVVkkxQm14eDY0R1ZtUXJpRWhaNDE5c1hOM3pUYUhiRmJ1NnlTaGVrQk9uNGwwU2w5UmliTkRpZGQ)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Acceleration because the established AI/tech reversal intensified with Asia equity drawdowns and Nasdaq 100 weakness.
-> * **Transmission / Market Read**: Risk-premium and capital-flow channel; favors short **NDX**, short **KRW**, short **TWD**, long **USD/Asia FX**.
-> * **Watchpoint / Confidence**: Pivot if Nasdaq 100 reclaims prior closing level and SoftBank stabilizes; Confidence: High.
+> * **Narrative change**: Acceleration because tariff breadth now includes Japan, South Korea and Singapore, beyond the prior China/EU focus.
+> * **Transmission / Market Read**: Inflation and risk-premium channels favor **long USD/Asia FX** and **short Asian exporter equities** until final rates are clear.
+> * **Watchpoint / Confidence**: Watch USTR final tariff levels and Beijing/Brussels retaliation within 24-72 hours; Confidence: High given multiple primary sources.
 
-### 📌 Middle East escalation and energy inflation
+---
+
+### 📌 Hot US PCE and GDP keep Fed on tightening path
 
 **Fact**
-Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures `11`; this has been the second attack by the Iran-backed group in six days on the tower, although the previous attack did not cause any casualties ([CNBC 1](https://www.cnbc.com/2026/11/25/us-iran-war-trump-hormuz-houthi-saudi-pif-tower.html)). Saudi-led coalition intercepts Houthi attacks after Hodeidah strike; the escalation comes after the Yemeni rebel group threatened to attack the kingdom's Red Sea ports in retaliation ([Al Jazeera](https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike)). Ukraine tells Putin to 'stop complaining' over oil refinery attacks as Russia promises retaliation; Ukraine's foreign minister told Putin to end the war if he wants Kyiv to stop attacking Russian refineries, after Putin said retaliation was 'inevitable' ([CNBC 2](https://www.cnbc.com/2026/11/25/ukraine-putin-russia-oil-refinery-attacks.html)). Oil prices fall as traders weigh supply surplus, Gulf attacks ([WSJ](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVkRJdUt0LVhZdzVhR0RpSnN6RWh6cDdGQVhOUU9vNENLN0hnSXB1YXJFU01rMzZBaXhuelM3ODlra1hKdnRxcnYweGNRSmFmSEpnMzJSQWxkOXZqZVM3NjBrZ2UwQS1PQS12di1uaHFUQWJRZHE2aHhxMnlLcVJ5Z3owcXd2WTV4NFJQSUM0SWplUVA5bW80ZU9fdDYzV1Z5QnFvcW1kdlhPMW8xc2JRQnVJc19mZw)). UK energy bills rise `26%` as war fuels cost-of-living squeeze; UK households are set for a sharp rise in energy costs in January as the Middle East war pushes up wholesale gas and electricity prices, with winter demand adding further pressure ([BBG](https://www.bloomberg.com/news/articles/2026-11-25/uk-energy-bills-rise-26-with-war-fueling-cost-of-living-squeeze)). EasyJet profit hit by Iran war as Apollo takeover looms; EasyJet Plc said the fallout from Middle East war eroded most of its profit in the fiscal year, with soaring fuel prices hitting the budget carrier ([BBG](https://www.bloomberg.com/news/articles/2026-11-25/easyjet-profit-hit-by-middle-east-war-as-apollo-takeover-looms)).
+Headline and core PCE slightly firmer than expected, setting Fed up for further tightening ([FT 1](https://www.ft.com/content/b1246731-9cc9-4d72-a619-bd520ada464d)). The Bureau of Economic Analysis said the economy grew at an annualised rate of `4.3%` in the third quarter, up from the initial estimate of `3.4%` ([FT 2](https://www.ft.com/content/a1aaf5be-176c-4c4c-99d6-00875f6933f3)). The Federal Reserve’s latest survey found slight growth and an uptick in wages and prices ([BBG](https://www.bloomberg.com/news/articles/2026-11-25/fed-beige-book-shows-moderate-growth-uptick-in-wage-pressures)). Fed survey showed continued economic growth and sticky inflation in recent weeks ([Reuters 1](https://news.google.com/rss/articles/CBMirAFBVV95cUxQZm5vWXNOWWIxaUVxUEVsRDBCWmpwYmd6eWJMLW1tcnJMVmxvR08ybXFaYWlFcVZ2YU1fYk9hbWotWlBXTzVValBHSFFzNjM1QlpyVWNCXzFPTFRZMUtWeHp0SThmaWxRMTVYVXp3UlM2R3pKQnVNS2hiZ1VERU9EVnFGNlA5dGZEa1NtZ1o5REVxM3ZzX2ZpOXRaN0lydzlDZk1VQ2FlS212U3dw)). Fed policymakers at odds over causes of high inflation ([Reuters 2](https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2Vtdjdia2xUaVF5bWxRSVlPUTZjc1JmWG9Uam1QSHpNcXZuREdQVmRyX2hkNEtMbWhFd1VFb3l6QVJGYkJHZlZXUDJLVlM4cDdDR0RSVTRPMmZaUHAtMlhtSDlQeFF4UGJadUhrQmhlaWlJT1cwSG9IRnF1cC1COEtKdTBsUWVsXzhkYWhUWHNKTjJsUVJuNw)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Acceleration because second strike on Saudi PIF tower and Hodeidah-linked attacks widen conflict while energy inflation transmits to UK household bills.
-> * **Transmission / Market Read**: Inflation and risk-premium channel; supports **higher European gas prices** and **UK inflation breakevens**; keeps **Brent** risk premium bid despite supply surplus.
-> * **Watchpoint / Confidence**: Watch for shipping rerouting or further attacks on Red Sea ports; Confidence: Medium due to oil price divergence.
+> * **Narrative change**: Confirmation of global hawkish repricing because firmer PCE and an upward GDP revision reinforce the prior tightening narrative.
+> * **Transmission / Market Read**: Policy channel favors **long USD** and **short UST**, though safe-haven Treasury buying may flatten the yield reaction; equities face valuation pressure.
+> * **Watchpoint / Confidence**: Watch December Fed pricing and Fed speakers after this PCE print; Confidence: High given FT and BBG cross-confirmation.
 
-### 📌 BOJ and RBA reinforce global hawkish repricing
+---
+
+### 📌 Iran reports ships hit mines in Hormuz
 
 **Fact**
-Bank of Japan's faster inflation indicator backs case for another hike; the Bank of Japan's indicator for more fundamental inflation accelerated to the highest level in three years, supporting the case for another rate hike ([BBG 1](https://www.bloomberg.com/news/articles/2026-11-25/boj-s-faster-inflation-indicator-backs-case-for-another-hike)). Australia's hot inflation vindicates RBA's hawkish policy stance ([BusinessTimes](https://news.google.com/rss/articles/CBMirgFBVV95cUxPWG5zemVYRDRUOE4tU2FJbUtZNDZmRU16ZjltNUlQZTJFdTN5ZWlROUNQNGhqMTQyNkxPaTF4SElpTDFxWXJxbU5xTlhFcG5hblBTbzZLTVZMSk1ReDZMb3VTblNkWkJKS0ExTTF2Nk15RTNXcFh4RDFyYVlnZlJXeV8zME5aM2ZQdTlpNF9yckIxZHMxMGJaeXBPdmJ6QmhsRV9VX21tdGxSZGNfUlE)). AUD/USD: Aussie set for biggest monthly drop in four years as stocks fall; the Australian dollar is poised for its biggest monthly slide in more than 13 years as it extended losses on Wednesday, with the weakness in global stocks damping demand for currencies linked to growth ([BBG 2](https://www.bloomberg.com/news/articles/2026-11-25/aud-usd-aussie-set-for-biggest-monthly-drop-in-four-years-as-stocks-fall)). Dollar firms ahead of U.S. data as Aussie slumps; Asian currencies mixed ([Investing_Forex](https://www.investing.com/news/forex-news/asia-fx-weakens-as-dollar-firms-on-tariff-risks-aussie-hits-11month-low-5049767)). Market convulsions create a `$375 billion` winner: India; Indian stocks extended their world-beating November rally and the rupee hit an eight-month high versus the dollar as renewed selling in the artificial intelligence trade spurred demand for the nation’s assets ([BBG 3](https://www.bloomberg.com/news/articles/2026-11-25/indian-stocks-extend-world-beating-run-as-ai-selloff-resumes)).
+Iran says ships hit mines in Hormuz, warns vessels to coordinate passage ([Reuters](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSmFmdlRJUnlMaVRFNERwb2YxLVVObG9leTlORFRtOTAyd2pvMTNuOGM5d0diMzNUb1NHaDVWOGlTeWg3bmcwU21BdHRHZlB6a0VDeXlNcUtYMDBiZUpyVFRyMkhIQjlpemZIeGVQNEdXb2hCOHZwYW5VZUt4V3MySnpZWUViYTA5MEp2eDlBbGNoVjB5dk5CcHdZR3NyUjZIVlV3d0s2Z3BUMTQ)). Oil held a two-day gain as continued hostilities in the Middle East threatened to disrupt the recovery in the region’s crude exports ([BBG](https://www.bloomberg.com/news/articles/2026-11-25/latest-oil-market-news-and-analysis-for-nov-26)). Oil futures pick up as Middle East tensions persist ([WSJ](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT2lmRnNkZk4xMmU5a3lHTWEwV3JfZ2pfUW55aTJUNi04clZpa2E4dDJacWRnQVRjMzRFX3FfSFA1c203SFhvd0tHOTZWTUloNmhtTm91QS1raEwwNWJKaUpaZktCbGlFRzRlMXA1ZTFUVHZKWGMxVWswU0JyUWRSNEtxSFBBUnN2ZGxfazFpTEw2QkJpUC1WUHJ5TnRxaFVSa0VZaFJodmZrUkJZNXY0OEVsYXNGek4wTHp2OEczai0)).
 
 > [!info] [AI Reasoning]
-> * **Narrative change**: Confirmation because global hawkish repricing extends from BOJ and RBA while AUD carries risk-off.
-> * **Transmission / Market Read**: Policy and capital-flow channel; favors **long USD/Asia FX**, **short AUD**, and **short JGB duration**.
-> * **Watchpoint / Confidence**: US inflation print and BOJ/RBA guidance into upcoming meetings; Confidence: High for broad dollar versus low-yield FX.
+> * **Narrative change**: Acceleration because a reported mine strike in Hormuz adds physical chokepoint risk to the prior Middle East conflict.
+> * **Transmission / Market Read**: Energy supply and risk-premium channels favor **long Brent** and **short energy-importing Asia FX** until passage guidance clears.
+> * **Watchpoint / Confidence**: Watch tanker rerouting signals and any official naval escorts; Confidence: Medium because attribution and toll remain unclear.
 
 ---
 
 ## 🌍 Global Radar
 
 ### 📊 Economic Indicators
-- Treasury yields fall as investors await key inflation signal; bond yields moved lower Wednesday as investors awaited key inflation and spending data during a holiday-shortened week ([CNBC](https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html)).
-- Half of European industrial companies under serious financial stress; the rising number of companies classified as stressed or distressed puts about `3.7mn` jobs at risk, according to McKinsey ([FT](https://www.ft.com/content/c0519775-12ce-4de1-9bff-419562c028df)).
+- “As of the end of September, outstanding receivables in China’s auto manufacturing sector had approached `3 trillion yuan (US$450 billion)`, their highest level in three years, Cui Dongshu, secretary general of the China Passenger Car…” ([SCMP](https://www.scmp.com/economy/china-economy/article/3375781/profits-fall-chinas-carmakers-pass-financial-strain-suppliers-expert-says)).
+- “China’s economy is on track to grow more than `4.5%` in 2027, according to former Vice Finance Minister Zhu Guangyao. Speaking to Bloomberg TV’s Avril Hong in Singapore on Wednesday, Zhu noted that Beijing still has room to loosen fiscal policy next year, while also stressing the need for AI regulation.” ([BBG](https://www.bloomberg.com/news/videos/2026-11-25/china-2027-growth-to-top-4-5-ex-official-says-video)).
 
 ### 🏦 Central Banks
-- **ECB** — Eurozone capitals seek consolation prize for Knot to avoid ECB vote ([FT](https://www.ft.com/content/d55a0dcf-ce3d-41e0-bdc9-6cb7267f6e1d)).
+- **ECB**: “The European Central Bank can’t afford to get overtaken by inflation developments, Governing Council member Martin Kocher warned, suggesting he’d back interest rates being increased further.” ([BBG](https://www.bloomberg.com/news/articles/2026-11-25/ecb-can-t-fall-behind-curve-on-interest-rates-kocher-says)).
+- **Bank of England**: “Three Bank of England policymakers said they cannot ignore the threat to inflation from persistently high energy prices, leaving the door open to a further interest-rate hike next month.” ([BBG](https://www.bloomberg.com/news/articles/2026-11-25/bank-of-england-rate-setters-leave-december-hike-on-the-table)).
+- **Bank of England**: “UK inflation may peak at lower rate than BoE forecast, says governor. But Andrew Bailey refuses to rule out another interest rate increase next month.” ([FT](https://www.ft.com/content/402e640b-8933-4b3c-bb4c-ce12a7994ac6)).
 
 ### 🌐 Geopolitics & Policy
-- China issues list of demands to Brussels over EU trade talks ([FT](https://www.ft.com/content/b32f9488-aa02-47f8-bebf-a97805a076e4)).
-- EU’s quantum sovereignty push shuts out China but welcomes US firms; Chinese companies are set to be excluded from EU quantum computing procurement markets under legislation unveiled on Wednesday, as the bloc looks to ramp up its capabilities in the next-generation technology while cutting its dependency on the Asian giant ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3375733/eus-quantum-sovereignty-push-shuts-out-china-welcomes-us-firms)).
-- Chinese automakers book strong European growth ahead of import cap ([WSJ](https://news.google.com/rss/articles/CBMirwFBVV95cUxOYzRHUkQzcjI2QW9kaG5jUnBzUFlHcF9HQ3dXTWp6UkFHRUNXWmVNbFY2bG41Mzg3SGxNTlJ6QjRPenJ5QVBBSWNLS1c3czMybUQ2WERIdVZ2anhZaXV2T1ZuS1ItUVRQczlDT1I2RGh3VFFJMnVTaHNpWjIxOU5ZSHNqOWZlOF9DQTJhcnYzbUNDZi0wdzNvT3pjNmhLQzZvWWl6RjhyT1ZnOExnLWQw)).
+- “Russian attack damages Ukraine's energy and gas sites, cuts power in five regions” ([Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxPaDhyeUxrcS1sWnpSWnJPa1JGcXM0VDJ1U2FDamw1U2JxTm9May1fN1FPYmI2UjFqcTA0dmsxejlwS1NwRGpwR2RqQnN3cVJWU0VTcERHTzlhOHpzVmp6QUcwRUtNVzJQQjhmSTdmQ3h4YnptankzQ0RzRzZWWkk5LUNOTWRVT3dYUjhwZnh1NktRVjFpTGVadE5qTFZTb0xBU0lKbTdpdno1RmZrbzJHSDJxSHl6TzI0WDJqVml3)).
+- “China has called on the Netherlands to help safeguard supply chain stability and stabilise Beijing’s relations with the European Union, during Dutch Foreign Minister Tom Berendsen’s visit to Beijing.” ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3375796/china-calls-netherlands-help-safeguard-industrial-and-supply-chains)).
 
-### 🛢️ Commodities
-- Gold holds decline as US tariff plans reinforce rate-hike bets ([BusinessTimes](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTGhFUnhCbkJvbURMZE8yTDZVMmZzYWtOYWhiSGxZbGRYRFhYSzhjWi05VXJESEIyb2wyWE1OLUdQbVltcTZ4cndDS3J3bTRkS205S0E1cUFucGFqZldPN0JKX2Y3Wk5ZcmI1WU1nc25CaWx3ck92bmVmajlhSUUwOWZzWDkwZElMam14RGZKODRScXU1WGJWdnY0MWl1cm5fZ29fdHNCcXAxMERCUDlXSnlQNkdXYVg4MDRHQkVBOXJ5TmxWdnhQag)).
-- DRC cobalt export ban may lift prices but tests long-term market stability ([S&P Global](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQenNKUHVLS3U2UkxTcmU0MEc4SHhFamp6RHFKM09xNGVYdUN0WVJEdTdIUDZIRkdGUHNkMzkwOXpDTFdORzZ6a2tpMDBoazNRYVRRbUFkR1pqX19ZX3lhMTRJTVdxbjRfUUxkZWFFNTQ1a3l2N0hEcXc1bWVraUZ3Y3NBTjJOeEhvQ2E4X0l3U0lWUmZWQ1V1ZVAyMGV3aW1VX2czNVd6T185anNsczl1UHJhNTNRNWh5U2FWQUNYMFk2dndCMGpqUUVXclQ1SWhiX1ptY3RjT1lxdXJKSXl3N3NjYw)).
-- Venezuela expects to increase oil production to `2.9 million b/d` over the next decade ([S&P Global](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYzFVNzd6ZG5KUElqd3NMbWVIUm8tbUV3UGJ5Y3pjRG0xaXNITFhuSmo4Um1ySFhOd0FlQ21zQjJpNUgxWERnNGt4TE5TdGlMbk9HenYxUGJ5UHNFSXFfeFBCTHhIVXJZb3Z1blIxQ2ZOUXlabkpNXzZIcWtmZlY2MGx4bXgyaDV5Z1FYVEpXYjNfLWNZcEZyRG1KMmpzSEFOenBVOXhQU2V6RmFZNWpYUi1iQzN0U2Q3WFNZUjZlbU1WSGpJRW8yVUUwd2lxRFQ1bWdJN3ZhNFFSQ0NmNWdUQ251Z3lBOTNiZEo1QjFxaTdXZw)).
+### 📈 Equities
+- “Asian stocks rose after dip buyers helped drive a late recovery on Wall Street, even as doubts over the sustainability of the artificial intelligence trade sent investors to the safety of Treasuries.” ([BBG](https://www.bloomberg.com/news/articles/2026-11-25/stock-market-today-dow-s-p-live-updates)).
 
 ---
 
-## 📅 Economic Calendar — Next 24 Hours
+## 📅 Economic Calendar: Next 24 Hours
 
 No high-impact releases in the next 24 hours.
 
@@ -88,47 +91,44 @@ No high-impact releases in the next 24 hours.
 ## 📚 Full Reading List
 
 - **BBG**
-  - [US Stock Index Futures Slide as AI Worries Fuel Tech Losses](https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses)
-  - [Metals Rout Deepens as AI, Fed Worries Fuel Bearish Sentiment](https://www.bloomberg.com/news/articles/2026-11-25/metals-mixed-after-major-selloff-as-traders-await-us-inflation)
-  - [UK Energy Bills Rise 26% as War Fuels Cost-of-Living Squeeze](https://www.bloomberg.com/news/articles/2026-11-25/uk-energy-bills-rise-26-with-war-fueling-cost-of-living-squeeze)
-  - [EasyJet Profit Hit By Iran War as Apollo Takeover Looms](https://www.bloomberg.com/news/articles/2026-11-25/easyjet-profit-hit-by-middle-east-war-as-apollo-takeover-looms)
-  - [BOJ’s Faster Inflation Indicator Backs Case for Another Hike](https://www.bloomberg.com/news/articles/2026-11-25/boj-s-faster-inflation-indicator-backs-case-for-another-hike)
-  - [AUD/USD: Aussie Set for Biggest Monthly Drop in Four Years as Stocks Fall](https://www.bloomberg.com/news/articles/2026-11-25/aud-usd-aussie-set-for-biggest-monthly-drop-in-four-years-as-stocks-fall)
-  - [Market Convulsions Create a $375 Billion Winner: India](https://www.bloomberg.com/news/articles/2026-11-25/indian-stocks-extend-world-beating-run-as-ai-selloff-resumes)
-
+  - [Fed Beige Book Shows Moderate Growth, Uptick in Wage Pressures](https://www.bloomberg.com/news/articles/2026-11-25/fed-beige-book-shows-moderate-growth-uptick-in-wage-pressures)
+  - [Latest Oil Market News and Analysis for Nov. 26](https://www.bloomberg.com/news/articles/2026-11-25/latest-oil-market-news-and-analysis-for-nov-26)
+  - [Asian Equities Advance After Late Rebound in US: Markets Wrap](https://www.bloomberg.com/news/articles/2026-11-25/stock-market-today-dow-s-p-live-updates)
+  - [Cracks in AI Stocks Sink the Once Reliable Carry Trade](https://www.bloomberg.com/news/articles/2026-11-25/stocks-meltdown-spills-into-unlikely-market-sinking-carry-trade)
+  - [China 2027 Growth to Top 4.5%, Ex-Official Says](https://www.bloomberg.com/news/videos/2026-11-25/china-2027-growth-to-top-4-5-ex-official-says-video)
+  - [ECB Can’t Fall Behind Curve on Interest Rates, Kocher Says](https://www.bloomberg.com/news/articles/2026-11-25/ecb-can-t-fall-behind-curve-on-interest-rates-kocher-says)
+  - [Bank of England Rate-Setters Leave December Hike on the Table](https://www.bloomberg.com/news/articles/2026-11-25/bank-of-england-rate-setters-leave-december-hike-on-the-table)
+- **Reuters**
+  - [Iran says ships hit mines in Hormuz, warns vessels to coordinate passage - Reuters](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSmFmdlRJUnlMaVRFNERwb2YxLVVObG9leTlORFRtOTAyd2pvMTNuOGM5d0diMzNUb1NHaDVWOGlTeWg3bmcwU21BdHRHZlB6a0VDeXlNcUtYMDBiZUpyVFRyMkhIQjlpemZIeGVQNEdXb2hCOHZwYW5VZUt4V3MySnpZWUViYTA5MEp2eDlBbGNoVjB5dk5CcHdZR3NyUjZIVlV3d0s2Z3BUMTQ)
+  - [Fed survey shows continued economic growth, sticky inflation in recent weeks - Reuters](https://news.google.com/rss/articles/CBMirAFBVV95cUxQZm5vWXNOWWIxaUVxUEVsRDBCWmpwYmd6eWJMLW1tcnJMVmxvR08ybXFaYWlFcVZ2YU1fYk9hbWotWlBXTzVValBHSFFzNjM1QlpyVWNCXzFPTFRZMUtWeHp0SThmaWxRMTVYVXp3UlM2R3pKQnVNS2hiZ1VERU9EVnFGNlA5dGZEa1NtZ1o5REVxM3ZzX2ZpOXRaN0lydzlDZk1VQ2FlS212U3dw)
+  - [Fed policymakers at odds over causes of high inflation - Reuters](https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2Vtdjdia2xUaVF5bWxRSVlPUTZjc1JmWG9Uam1QSHpNcXZuREdQVmRyX2hkNEtMbWhFd1VFb3l6QVJGYkJHZlZXUDJLVlM4cDdDR0RSVTRPMmZaUHAtMlhtSDlQeFF4UGJadUhrQmhlaWlJT1cwSG9IRnF1cC1COEtKdTBsUWVsXzhkYWhUWHNKTjJsUVJuNw)
+  - [US proposes surprise new tariffs on Brazil imports, including 10% duty on aircraft - Reuters](https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGZ4TFg5REgyY0VnandHQjZIMFN1cnNBOEJVQTBDaU1IWDFLVUxmdHFTXzRLVnVKc3pHd3lTYk9lRHZBOWV1Skd5V0VzVU05ZDRjZXdZekl5cWFneWI2b3ptS09taEhjNzZIcGhuWVdydDk5cnpkcElkMUdTZkJjTjROT09sOG5adVUxNVpNeGp5UmxaaHl2bzh6TklXMlp2eVQyVW9idi1QV25LcnpIeFBjMEF4RzNNbkNIU3JOUlN6WWVqSjRtTlFZMA)
+  - [US to cap India tariff at 17% if trade deal is reached, USTR says - Reuters](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRmdGMDdiZVhMaEZiM2hLVlNhdXQzZkM1b2F5NXFYaWZzbC1mX25kLU56ZThrNjFmZ2JVMW9fbjJhbUMwMXdzN3JLYXAyNE02a0FqclFyblhxZmxfbWRLVlQ5OFdoQkdmNEF1ZTlZUzRVVkkxQm14eDY0R1ZtUXJpRWhaNDE5c1hOM3pUYUhiRmJ1NnlTaGVrQk9uNGwwU2w5UmliTkRpZGQ)
+  - [Russian attack damages Ukraine's energy and gas sites, cuts power in five regions - Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxPaDhyeUxrcS1sWnpSWnJPa1JGcXM0VDJ1U2FDamw1U2JxTm9May1fN1FPYmI2UjFqcTA0dmsxejlwS1NwRGpwR2RqQnN3cVJWU0VTcERHTzlhOHpzVmp6QUcwRUtNVzJQQjhmSTdmQ3h4YnptankzQ0RzRzZWWkk5LUNOTWRVT3dYUjhwZnh1NktRVjFpTGVadE5qTFZTb0xBU0lKbTdpdno1RmZrbzJHSDJxSHl6TzI0WDJqVml3)
+  - [Buy the stock dip? Options market signals say wait - Reuters](https://news.google.com/rss/articles/CBMilAFBVV95cUxQU0dOWTF0OFdPY3R6M1VaWklxVjlwaGkzcDk3d1U4WXp2Q1dNX3FfYW5qYmMzZG1MbDUtRGg5elI1RUEwZzBVaGVZZnV1LUptczdWQU1teXhlVkN5cWVXNjZneXcxMkxPcEJtbVltV3VjWkVrN2pWTmNhTC1zby1sNWdDbGtCOVEyMEdXemdLNXRydHVv)
 - **WSJ**
-  - [Oil Prices Fall as Traders Weigh Supply Surplus, Gulf Attacks](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVkRJdUt0LVhZdzVhR0RpSnN6RWh6cDdGQVhOUU9vNENLN0hnSXB1YXJFU01rMzZBaXhuelM3ODlra1hKdnRxcnYweGNRSmFmSEpnMzJSQWxkOXZqZVM3NjBrZ2UwQS1PQS12di1uaHFUQWJRZHE2aHhxMnlLcVJ5Z3owcXd2WTV4NFJQSUM0SWplUVA5bW80ZU9fdDYzV1Z5QnFvcW1kdlhPMW8xc2JRQnVJc19mZw)
-  - [Chinese Automakers Book Strong European Growth Ahead of Import Cap](https://news.google.com/rss/articles/CBMirwFBVV95cUxOYzRHUkQzcjI2QW9kaG5jUnBzUFlHcF9HQ3dXTWp6UkFHRUNXWmVNbFY2bG41Mzg3SGxNTlJ6QjRPenJ5QVBBSWNLS1c3czMybUQ2WERIdVZ2anhZaXV2T1ZuS1ItUVRQczlDT1I2RGh3VFFJMnVTaHNpWjIxOU5ZSHNqOWZlOF9DQTJhcnYzbUNDZi0wdzNvT3pjNmhLQzZvWWl6RjhyT1ZnOExnLWQw)
-
+  - [Oil Futures Pick Up as Middle East Tensions Persist - WSJ](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT2lmRnNkZk4xMmU5a3lHTWEwV3JfZ2pfUW55aTJUNi04clZpa2E4dDJacWRnQVRjMzRFX3FfSFA1c203SFhvd0tHOTZWTUloNmhtTm91QS1raEwwNWJKaUpaZktCbGlFRzRlMXA1ZTFUVHZKWGMxVWswU0JyUWRSNEtxSFBBUnN2ZGxfazFpTEw2QkJpUC1WUHJ5TnRxaFVSa0VZaFJodmZrUkJZNXY0OEVsYXNGek4wTHp2OEczai0)
+  - [Copper Slumps Amid AI Roller Coaster But Physical Supply Remains Tight - WSJ](https://news.google.com/rss/articles/CBMixgFBVV95cUxQbXJXdFVUTFZpNnl3SlJWbU9iV0ZaOGh1QUVUR1o5WjYtOXhwb3M1NUROaFFTb3NpOUJRZ1ROZ2Y0NlVlOWhwb0htcUY3SV9hYlRmZnMxT2Rnc21UMUlmazQwZk50TF9SY0U2enpKTzQ1a1hwbTY2aGlLbmM3Z0xkODBrQWg1YVdSREgtMjRKR1JHUk1RN3hrZjEwNmZpUk5EZktvRFVNdklzVzl5R0x0Mlh4Q3k2UmoxY203SFU3R1kwWDBQUnc)
+  - [U.S. Crude Oil Stockpiles Rise for Third Straight Week - WSJ](https://news.google.com/rss/articles/CBMipAFBVV95cUxQMmNaUEswZFFHWkVEYVY0NUZVU0xoTVdwcEU3cDd1Z1RWRnN0RnRIeExlbEtrNXNUSHhoQ1ZjU0VEWVZ4Um5FSjMtcmNuXzM1ZTRodnJ6Ti1tUFA1U2VRbEJ3UEZ0VHNkVmJoM1psMnF1ZGZScndxa0l6bElITFpoM1k5MV9FSHpCclB1TmtOZ3BPeWt4V3R1SXBkRmFMYU0xbmxHeA)
+  - [Stocks Finish Lower After Wild Session | Markets P.M. for Nov. 25 - WSJ](https://news.google.com/rss/articles/CBMiigFBVV95cUxNXy14dnlRcWo0WDduVGVrN1hJOExkZnYzZFN3LUxjdC1acGRZUmFMZjlmbHRFZU5aeERjNXQ4eTFqUUZCaG9jemU0ci13XzhEbnZSTEcyMkhsX1VCVnpmaEpzVTl1eW9PLVg2S2lKSndxM0MwUl9sbVZxYjc1VVBkMHRmbFhTVDNLVXc)
+  - [World Trade Flows Surge as AI Boost Overwhelms Barriers - WSJ](https://news.google.com/rss/articles/CBMinwFBVV95cUxOUWEzeFk2OFBKaGRsUXZmZlJnRmlPd29SdFJxR3FEcW81WTRZQzlacU9FR0hRV2M4OEc5NEZwZ0FPb0R0c3Fwd0ZWLUhPV3dRRzV2ajRMd1AtWkR6TnRwdUpqcWpjVng0UG5xaEFQaVQzaVdYMmluOF8tSmJlODVvSzRLQmVDYjN6OGk4NjcwdW9ORm1XbEVPd0dOYWdUajA)
 - **FT**
-  - [Tech stocks slide as confidence in AI trade fades](https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a)
-  - [Further tightening to come from the ECB to prevent inflation persistence](https://www.ft.com/content/f805c4ef-be16-4c0-9d62-47a7c6675b5f)
-  - [Eurozone capitals seek consolation prize for Knot to avoid ECB vote](https://www.ft.com/content/d55a0dcf-ce3d-41e0-bdc9-6cb7267f6e1d)
-  - [China issues list of demands to Brussels over EU trade talks](https://www.ft.com/content/b32f9488-aa02-47f8-bebf-a97805a076e4)
-  - [Half of European industrial companies under serious financial stress](https://www.ft.com/content/c0519775-12ce-4de1-9bff-419562c028df)
-
+  - [Trump announces raft of new tariffs on major economies](https://www.ft.com/content/335b593d-1478-4550-ab0a-71fec6280eb0)
+  - [US PCE inflation keeps Fed on course for more tightening](https://www.ft.com/content/b1246731-9cc9-4d72-a619-bd520ada464d)
+  - [Upgrade to US GDP figures keeps December rate rise in play for Fed](https://www.ft.com/content/a1aaf5be-176c-4c4c-99d6-00875f6933f3)
+  - [UK inflation may peak at lower rate than BoE forecast, says governor](https://www.ft.com/content/402e640b-8933-4b3c-bb4c-ce12a7994ac6)
 - **CNBC**
-  - [SoftBank drops 15% as Wall Street AI sell-off ripples across Asian tech names](https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html)
-  - [Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11](https://www.cnbc.com/2026/11/25/us-iran-war-trump-hormuz-houthi-saudi-pif-tower.html)
-  - [Ukraine tells Putin to ‘stop complaining’ over oil refinery attacks as Russia promises retaliation](https://www.cnbc.com/2026/11/25/ukraine-putin-russia-oil-refinery-attacks.html)
-  - [Treasury yields fall as investors await key inflation signal](https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html)
-
+  - [U.S. proposes new tariffs on 14 trading partners, including China and the EU](https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html)
 - **SCMP**
-  - [EU’s quantum sovereignty push shuts out China but welcomes US firms](https://www.scmp.com/news/china/diplomacy/article/3375733/eus-quantum-sovereignty-push-shuts-out-china-welcomes-us-firms)
-
+  - [As profits fall, China’s carmakers pass financial strain on to suppliers, expert says](https://www.scmp.com/economy/china-economy/article/3375781/profits-fall-chinas-carmakers-pass-financial-strain-suppliers-expert-says)
+  - [China calls on Netherlands to help safeguard industrial and supply chains](https://www.scmp.com/news/china/diplomacy/article/3375796/china-calls-netherlands-help-safeguard-industrial-and-supply-chains)
+- **BBC**
+  - [US announces new tariffs on host of countries including China - BBC News](https://www.bbc.co.uk/news/articles/c893r9ke5p97o)
+- **CNN**
+  - [Trump targets China, EU in new round of tariffs - CNN](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5maU9qZ1VMR3l0TDI5UlgyQzBBLUF5a2UwYUUyQjFtZDY4QXdyTXg0cjNSajdVSThyS2xuSEIzMkZ4WEdRaHNTcjFnMjFYNXlmWEtvYjFYdWRjcWlUZUN2bXIweHlyaU0)
 - **Al Jazeera**
-  - [Asia’s markets dive as return of Nvidia’s Huang fails to quell AI doubts](https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom)
-  - [Saudi-led coalition intercepts Houthi attacks after Hodeidah strike](https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike)
+  - [World reacts to Trump’s new tariffs as US stocks tumble](https://www.aljazeera.com/economy/2026/11/25/world-reacts-to-trumps-new-tariffs-as-us-stocks-tumble)
+- **CNA**
+  - [Trump announces new tariffs on 14 trading partners including China and Singapore - CNA](https://news.google.com/rss/articles/CBMigAFBVV95cUxOU3FnamwtTXpFa0hPcDhhc1dodGc3cXNmYnJYZXcyaEVrMkl3WmRaRXRSeDl1X1Q0aWhUTlVaSWxxOVRTanZPelpkWVY1akhzY2xrdzRNTEFYM01UQWRRSTk2NzQwWXFkdFdQdUlwSTh2aUFTcUs3U1hLbkhHUEFzQg))
 
-- **BusinessTimes**
-  - [Australia’s hot inflation vindicates RBA’s hawkish policy stance](https://news.google.com/rss/articles/CBMirgFBVV95cUxPWG5zemVYRDRUOE4tU2FJbUtZNDZmRU16ZjltNUlQZTJFdTN5ZWlROUNQNGhqMTQyNkxPaTF4SElpTDFxWXJxbU5xTlhFcG5hblBTbzZLTVZMSk1ReDZMb3VTblNkWkJKS0ExTTF2Nk15RTNXcFh4RDFyYVlnZlJXeV8zME5aM2ZQdTlpNF9yckIxZHMxMGJaeXBPdmJ6QmhsRV9VX21tdGxSZGNfUlE)
-  - [Gold holds decline as US tariff plans reinforce rate-hike bets](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTGhFUnhCbkJvbURMZE8yTDZVMmZzYWtOYWhiSGxZbGRYRFhYSzhjWi05VXJESEIyb2wyWE1OLUdQbVltcTZ4cndDS3J3bTRkS205S0E1cUFucGFqZldPN0JKX2Y3Wk5ZcmI1WU1nc25CaWx3ck92bmVmajlhSUUwOWZzWDkwZElMam14RGZKODRScXU1WGJWdnY0MWl1cm5fZ29fdHNCcXAxMERCUDlXSnlQNkdXYVg4MDRHQkVBOXJ5TmxWdnhQag)
-
-- **Investing_Forex**
-  - [Dollar firms ahead of U.S. data as Aussie slumps; Asian currencies mixed](https://www.investing.com/news/forex-news/asia-fx-weakens-as-dollar-firms-on-tariff-risks-aussie-hits-11month-low-5049767)
-
-- **S&P Global**
-  - [China extends pause on US minerals ban to January 2027](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRkNoQkh4aHc4dUlCYl9zcGhSVk9FcnF2U2JkT3pLdW11bVJ3Rms4dkJfQXREaThxc1Q3RUtMUnBPaTY4aFRMSEZqakNnYUptdTRuQ0Nfd0pmdVUwYzYwTk1ra2pBZkFIR1UxaDJ0WVhzVkVEUGo1eEdFTzVuM3hJeVV6amtKN1NnVmZlZ19KMXZyNUhjNFZzaUFTY2wwYURGY216VDlFSE1jaXNtajFuRnF1c2dPYlg5b1c1RVN2dWNiMUpTNTB0aQ)
-  - [DRC cobalt export ban may lift prices but tests long-term market stability](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQenNKUHVLS3U2UkxTcmU0MEc4SHhFamp6RHFKM09xNGVYdUN0WVJEdTdIUDZIRkdGUHNkMzkwOXpDTFdORzZ6a2tpMDBoazNRYVRRbUFkR1pqX19ZX3lhMTRJTVdxbjRfUUxkZWFFNTQ1a3l2N0hEcXc1bWVraUZ3Y3NBTjJOeEhvQ2E4X0l3U0lWUmZWQ1V1ZVAyMGV3aW1VX2czNVd6T185anNsczl1UHJhNTNRNWh5U2FWQUNYMFk2dndCMGpqUUVXclQ1SWhiX1ptY3RjT1lxdXJKSXl3N3NjYw)
-  - [Norway’s Equinor, Germany's VNG ink 18-year gas deal](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0hxXzVoblBYVEZ1c19YaEMzLXhwOGFNYmFtWWNidmMzRGwxTHc0MVFxMFlhWmh0X2N5SENQX1RLc3VEMmU3V3pXWVE5NEFMQl91Um01a0lQMGlrTXJkS2o2OHY2enY3NGNNQnA4SFZyanc3ai1LN2NsdF9qeWtvU0Q4TFR5NDJpRW43d2dQUU9laXRJbmZRMkNRbkNGTE9aZnFGdm9UYzROd3JxWmsyX1Z0OEZYTVpXMk83OTJ5NHZQbWtVcFhyRA)
-  - [Venezuela expects to increase oil production to 2.9 million b/d over the next decade](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYzFVNzd6ZG5KUElqd3NMbWVIUm8tbUV3UGJ5Y3pjRG0xaXNITFhuSmo4Um1ySFhOd0FlQ21zQjJpNUgxWERnNGt4TE5TdGlMbk9HenYxUGJ5UHNFSXFfeFBCTHhIVXJZb3Z1blIxQ2ZOUXlabkpNXzZIcWtmZlY2MGx4bXgyaDV5Z1FYVEpXYjNfLWNZcEZyRG1KMmpzSEFOenBVOXhQU2V6RmFZNWpYUi1iQzN0U2Q3WFNZUjZlbU1WSGpJRW8yVUUwd2lxRFQ1bWdJN3ZhNFFSQ0NmNWdUQ251Z3lBOTNiZEo1QjFxaTdXZw)
+---
