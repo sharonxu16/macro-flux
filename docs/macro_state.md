@@ -1,23 +1,21 @@
-# Macro State — Last updated: 2026-11-26
+# Macro State — Last updated: 2026-11-27
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **US tariff escalation with Asian pushback** — Status: Acceleration; China, Japan, Singapore and Vietnam push back or seek deals while markets treat levies as less dire; next trigger USTR final rates and retaliation.
-- **Global hawkish repricing broadens** — Status: Confirmation; BOK hikes to 3.25% and BOJ hawks signal faster tightening alongside Fed path; next trigger December central bank meetings.
-- **AI/tech carry stabilization** — Status: Fading; Asian equities and software stocks rebound, but Nvidia governance risk and export controls linger; next trigger Nvidia credit rating and Nasdaq stabilization.
-- **Middle East energy risk** — Status: Fading; Qatar LNG exports offset Hormuz disruption and oil holds near gains; next trigger tanker incidents or route disruptions.
+- **Global hawkish repricing broadens** — Status: Acceleration; Fed prioritizes inflation, Canada banks all price December hike, Tokyo inflation supports BOJ tightening; next trigger Fed speakers and short-end pricing after Thanksgiving.
+- **US tariff escalation with Asian pushback** — Status: Acceleration; China formally opposes Section 301 tariffs while Singapore sees limited near-term hit but lasting barriers; next trigger USTR final rates and retaliation or trade deals.
+- **Middle East energy risk** — Status: Reversal; Saudi refinery strike and Kuwait deaths intensify supply disruption along with stalling MEG crude loadings; next trigger damage assessments and further tanker or infrastructure attacks.
+- **ECB transition to de Cos** — Status: New; leadership change meets hawkish October accounts and euro weakness against the yuan; next trigger formal appointment ratification and fresh ECB guidance.
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
 - USTR final tariff levels and China, Japan, Singapore retaliation or trade deals.
-- December Fed hike pricing and Fed speakers after PCE and GDP.
-- December BOJ meeting and life insurer hedging behavior.
-- Korean won sustainability and US tariff details on semiconductors.
-- Hormuz tanker routing and Qatar LNG export capacity.
+- Post-Thanksgiving Fed speakers and US short-end pricing, including Trump’s GDP revision probe.
+- December BOJ meeting and follow-through from Tokyo inflation.
+- ECB formal appointment and next ECB speaker guidance to clarify hawkish versus dovish transition.
+- Saudi refinery damage assessment and further Middle East tanker or energy infrastructure attacks.
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will Asian exporters use weaker currencies or trade deals to manage tariff pressure?
-- Will hawkish BOK and BOJ tighten financial conditions into AI equity volatility?
-- Will Hormuz supply risks re-escalate despite Qatar’s LNG surge?
+- Will hawkish DM central banks tighten financial conditions into AI equity volatility and Asia FX weakness?
+- Will China’s tariff pushback and trade deals limit USD/CNH and broader Asia FX depreciation?
+- Will Middle East supply disruptions and LNG constraints re-escalate enough to sustain commodity gains?
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- `3.25%` BOK benchmark rate after third hike, highest in two years; FT/CNBC; policy tightening anchor for KRW.
-- `15%` proposed US tariff on Japan; BBG; tariff negotiation benchmark.
-- `20%` proposed US tariff cap on Singapore; SCMP; trade policy escalation gauge.
-- `40%` Trump threatened China tariff; BBG; China retaliation threshold.
-- `6.1%` Singapore October factory output growth; BT; AI/goods export momentum.
+- `14` partner countries in the latest US tariff round; FT; trade escalation breadth gauge.
+- `30bps` proposed BOE cut to UK bank capital requirements; BBG; UK financial conditions easing gauge.
+- `one-fifth` Australian LNG domestic reserve share; BBG; LNG supply risk gauge.
