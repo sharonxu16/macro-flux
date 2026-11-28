@@ -1,22 +1,21 @@
-# Macro State — Last updated: 2026-11-27
+# Macro State — Last updated: 2026-11-28
 
 ## Active Narratives (max 4 — each line: **Name** — Status: New/Acceleration/Reversal/Confirmation/Fading/Resolved; why it matters; next trigger)
-- **China market support** — Status: New; Beijing vows stronger market support and defense against imported capital-market risks, stocks surge most in two years; next trigger official policy details and onshore flows.
-- **Hong Kong funding stress** — Status: New; HKD hits six-month high as funding costs climb; next trigger HKMA liquidity operations and HIBOR fixings.
-- **Middle East escalation widens** — Status: Acceleration; Iran warns on Gulf presence, South Korea readies expanded naval role, oil supply fears persist; next trigger deployment details and Hormuz transit.
-- **Global hawkish repricing** — Status: Confirmation; US yields firm in thin post-Thanksgiving trade while traders debate cycle peak; next trigger Fed speakers and short-end pricing.
+- **Middle East blockade enforcement** — Status: Acceleration; US disabled a Palau-flagged commercial ship and Tehran vowed confrontation, escalating Hormuz chokepoint risk; next trigger further interdiction or convoy rerouting.
+- **US tariff net widens** — Status: Acceleration; Section 301 duties proposed on 14 partners with chip pressure on South Korea, Taiwan and the Netherlands; next trigger final USTR tariff levels and G20 MATCH Act talks.
+- **AI trade whipsaw** — Status: New; tech-driven stock selloffs now trigger a dollar bounce, changing the prior risk-off FX regime; next trigger Jensen Huang return and equity volatility.
+- **ECB hawkish push** — Status: Confirmation; multiple ECB officials signal another December hike while euro-area and French data soften; next trigger euro-area inflation and ECB December meeting.
 ## Watchpoints (max 5 — concrete 24-72h triggers; remove resolved)
-- Official Chinese capital-market support measures and northbound/onshore volume.
-- HKD funding-cost moves and HKMA liquidity operations.
-- South Korean Gulf naval deployment finalization and any Hormuz transit disruption.
-- Vietnam and India US trade deal signatures; USTR final tariff levels.
-- France/Spain disinflation read-through to ECB guidance after de Cos nomination.
+- Additional US interdictions or formal rerouting near Hormuz and Red Sea.
+- Final USTR Section 301 tariff levels and South Korea, Taiwan or Netherlands policy responses.
+- Nvidia and Jensen Huang headlines as AI equity sentiment catalyst.
+- Euro area flash CPI and any shift in ECB December rate guidance.
+- OPEC+ policy decision and freight or inventory signals.
 ## Open Questions (max 3 — only unresolved questions that affect positioning)
-- Will Beijing's market support stabilize China equities and cap Asia FX depreciation without broad monetary easing?
-- Will HKD funding stress persist into year-end and tighten Hong Kong financial conditions?
-- Will Middle East naval escalation expand beyond current infrastructure attacks to Hormuz transit disruption?
+- Will maritime escalation spread beyond Hormuz to Red Sea and Black Sea freight routes?
+- Will broad US tariffs force Asian supply-chain concessions without derailing risk assets?
+- Will ECB push hawkish policy into weakening euro-area growth and inflation data?
 ## Key Levels (max 5 — only with today's source citations; include asset and why the level matters)
-- `six-month high` HKD; BBG; Hong Kong liquidity gauge.
-- `3-week losing streak` oil snap; Reuters; Middle East supply-risk gauge.
 - `0.2%` French Q3 GDP contraction; FT; euro-area growth gauge.
-- `50-basis-point` Nomura RBI December hike call; BBG; India policy tightening gauge.
+- `€210 billion` German new borrowing plan; BBG; fiscal supply gauge.
+- `US$350b` South Korea investment pledge under tariff pressure; SCMP; semiconductor capacity gauge.
